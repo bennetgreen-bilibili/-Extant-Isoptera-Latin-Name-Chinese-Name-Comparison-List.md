@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/glyptotermes-eucalypti/
 title: "Glyptotermes eucalypti Froggatt, 1897 桉树树白蚁"
 latin: "Glyptotermes eucalypti"
 zh: "桉树树白蚁"
@@ -23,54 +26,35 @@ synonym_localities: "Australia: Capital Territory: Black Mtn"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **桉树树白蚁**（*Glyptotermes eucalypti*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Sydney。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
-EN — **桉树树白蚁** (*Glyptotermes eucalypti*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Sydney. Distribution: Australia. This site records 1 junior synonym for the species.
-
-ES — **桉树树白蚁** (*Glyptotermes eucalypti*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Sydney. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
 
-EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
-
-ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
-
 种加词 *eucalypti*：以桉属（Eucalyptus）命名（寄主植物）
-
-EN — epithet *eucalypti*: After the plant genus Eucalyptus
-
-ES — epithet *eucalypti*: Por el género vegetal Eucalyptus
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种（131 species · 131 especies）
-- **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种
+- **本属模式种**：*Glyptotermes tuberculatus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
-- **英文记录 English record / Registro en inglés**：Australia
+- **分布记录**：澳大利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes (Glyptotermes) neotuberculatus* Hill, 1933: 42-44 —— 模式产地：Australia: Capital Territory: Black Mtn
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes (Glyptotermes) neotuberculatus* 出现，本站统一归入 *Glyptotermes eucalypti*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Calotermes (Glyptotermes) neotuberculatus*; this site treats it under *Glyptotermes eucalypti*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Calotermes (Glyptotermes) neotuberculatus*; este sitio lo reúne bajo *Glyptotermes eucalypti*.
 <!-- AUTO:END -->

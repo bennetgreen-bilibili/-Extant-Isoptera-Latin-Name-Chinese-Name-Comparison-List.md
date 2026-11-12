@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/apicotermes-rimulifex/
 title: "Apicotermes rimulifex Emerson, 1956 裂缝尖白蚁"
 latin: "Apicotermes rimulifex"
 zh: "裂缝尖白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **裂缝尖白蚁**（*Apicotermes rimulifex*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）尖白蚁属（*Apicotermes*）的一种。本种由 Emerson 于 1956 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Kamina。分布记录包括安哥拉、刚果民主共和国。
 
-EN — **裂缝尖白蚁** (*Apicotermes rimulifex*) is a species of the genus *Apicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Emerson in 1956; the type locality is Democratic Republic of the Congo: Katanga: Kamina. Distribution: Angola, Democratic Republic of the Congo.
-
-ES — **裂缝尖白蚁** (*Apicotermes rimulifex*) es una especie del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1956; la localidad tipo es Democratic Republic of the Congo: Katanga: Kamina. Distribución: Angola, Democratic Republic of the Congo.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Apicotermes*：属名由拉丁文 apex（尖、顶）与 termes（白蚁）组合。
 
-EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
-
-ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
-
 种加词 *rimulifex*：拉丁文 rimula（小缝）+ -fex（作者），缝作者
-
-EN — epithet *rimulifex*: Latin rimula (small crack) + -fex (maker)
-
-ES — epithet *rimulifex*: Del latín rimula (pequeña grieta) + -fex (hacedor)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[尖白蚁属 *Apicotermes*]({{ site.base_url }}/genus/apicotermes/) —— 共 13 种（13 species · 13 especies）
-- **本属模式种 Type species / Especie tipo**：*Apicotermes tragardhi*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[尖白蚁属 *Apicotermes*]({{ site.base_url }}/genus/apicotermes/) —— 共 13 种
+- **本属模式种**：*Apicotermes tragardhi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：安哥拉、刚果民主共和国
-- **英文记录 English record / Registro en inglés**：Angola, Democratic Republic of the Congo
+- **分布记录**：安哥拉、刚果民主共和国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

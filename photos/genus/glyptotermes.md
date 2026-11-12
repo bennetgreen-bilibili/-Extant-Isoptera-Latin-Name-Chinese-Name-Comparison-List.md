@@ -3,11 +3,11 @@ layout: photos
 title: "树白蚁属 Glyptotermes 全部图片（20 张，1 种）"
 description: "树白蚁属（Glyptotermes）属下 1 个种的开放许可照片，共 20 张，来自 iNaturalist 与 Wikimedia Commons；按种分组，每个种可继续查看其全部照片。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: kalotermitidae
 last_modified_at: 2026-10-30
-permalink: /genus/glyptotermes/photos/
+permalink: "/genus/glyptotermes/photos/"
 sitemap: true
 photo_kind: genus
 photo_id: "glyptotermes"

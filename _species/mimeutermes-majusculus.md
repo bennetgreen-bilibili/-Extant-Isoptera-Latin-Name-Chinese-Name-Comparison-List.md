@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/mimeutermes-majusculus/
 title: "Mimeutermes majusculus Sands, 1965 稍大仿白蚁"
 latin: "Mimeutermes majusculus"
 zh: "稍大仿白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **稍大仿白蚁**（*Mimeutermes majusculus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）仿白蚁属（*Mimeutermes*）的一种。本种由 Sands 于 1965 年描述，模式产地为 Tanzania: Mbeya。分布记录包括坦桑尼亚。
 
-EN — **稍大仿白蚁** (*Mimeutermes majusculus*) is a species of the genus *Mimeutermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sands in 1965; the type locality is Tanzania: Mbeya. Distribution: Tanzania.
-
-ES — **稍大仿白蚁** (*Mimeutermes majusculus*) es una especie del género *Mimeutermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1965; la localidad tipo es Tanzania: Mbeya. Distribución: Tanzania.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Mimeutermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Mimeutermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *majusculus*：拉丁文 majusculus（略大的）
-
-EN — epithet *majusculus*: Latin majusculus (somewhat larger)
-
-ES — epithet *majusculus*: Del latín majusculus (algo mayor)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[仿白蚁属 *Mimeutermes*]({{ site.base_url }}/genus/mimeutermes/) —— 共 6 种（6 species · 6 especies）
-- **本属模式种 Type species / Especie tipo**：*Mimeutermes giffardii*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[仿白蚁属 *Mimeutermes*]({{ site.base_url }}/genus/mimeutermes/) —— 共 6 种
+- **本属模式种**：*Mimeutermes giffardii*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：坦桑尼亚
-- **英文记录 English record / Registro en inglés**：Tanzania
+- **分布记录**：坦桑尼亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -24,6 +24,6 @@ exclude = [
   "^https?://([a-z0-9-]+\\.)*wikipedia\\.org/",
   # doi.org 跳转（出版社反爬导致误报，见文件头说明）
   "^https?://(dx\\.)?doi\\.org/",
-  # 本站 Pages 域名（站内链接由 --offline 步骤负责）
-  "^https?://bennetgreen-bilibili\\.github\\.io/",
+  # 本站域名（站内链接由 --offline 步骤负责）；2026-11-12 起为自定义域名
+  "^https?://termite-extant-isoptera\\.org/",
 ]

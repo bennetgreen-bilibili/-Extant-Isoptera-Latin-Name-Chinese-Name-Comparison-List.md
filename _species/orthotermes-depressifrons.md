@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/orthotermes-depressifrons/
 title: "Orthotermes depressifrons Silvestri, 1914 陷额直白蚁"
 latin: "Orthotermes depressifrons"
 zh: "陷额直白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **陷额直白蚁**（*Orthotermes depressifrons*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）直白蚁属（*Orthotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Ghana: Aburi。分布记录包括非洲热带。
 
-EN — **陷额直白蚁** (*Orthotermes depressifrons*) is a species and the type species of the genus *Orthotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Ghana: Aburi. Distribution: tropical Africa.
-
-ES — **陷额直白蚁** (*Orthotermes depressifrons*) es una especie, y la especie tipo del género *Orthotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Ghana: Aburi. Distribución: tropical Africa.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Orthotermes*：属名由希腊文 orthos（直）与拉丁文 termes（白蚁）组合。
 
-EN — *Orthotermes*: From Greek orthos (straight) + Latin termes.
-
-ES — *Orthotermes*: Del griego orthos (recto) + latín termes.
-
 种加词 *depressifrons*：拉丁文/希腊文 depressi（扁平）+ frons（额），指扁平额
-
-EN — epithet *depressifrons*: From depressi (扁平) + frons (额)
-
-ES — epithet *depressifrons*: De depressi (deprimido) + frons (frente)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
-- **属 Genus / Género**：[直白蚁属 *Orthotermes*]({{ site.base_url }}/genus/orthotermes/) —— 共 2 种（2 species · 2 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
+- **属**：[直白蚁属 *Orthotermes*]({{ site.base_url }}/genus/orthotermes/) —— 共 2 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲热带
-- **英文记录 English record / Registro en inglés**：tropical Africa
+- **分布记录**：非洲热带
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

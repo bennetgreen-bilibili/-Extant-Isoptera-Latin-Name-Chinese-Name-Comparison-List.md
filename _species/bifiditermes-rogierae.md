@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/bifiditermes-rogierae/
 title: "Bifiditermes rogierae Hollande, 1982 罗吉尔双裂白蚁"
 latin: "Bifiditermes rogierae"
 zh: "罗吉尔双裂白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **罗吉尔双裂白蚁**（*Bifiditermes rogierae*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Hollande 于 1982 年描述，模式产地为 Canary Islands (Spain): Tenerife, Punta de Teno。分布记录包括西班牙。
 
-EN — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Hollande in 1982; the type locality is Canary Islands (Spain): Tenerife, Punta de Teno. Distribution: Spain.
-
-ES — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hollande en 1982; la localidad tipo es Canary Islands (Spain): Tenerife, Punta de Teno. Distribución: Spain.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
 
-EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
-
-ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
-
 种加词 *rogierae*：以人名 Rogier/Rogiera（女性）命名（具体指代待考）
-
-EN — epithet *rogierae*: Named after a person "Rogier(e)" (female, identity unconfirmed)
-
-ES — epithet *rogierae*: En honor de una persona «Rogier(e)» (mujer, identidad no confirmada)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种（12 species · 12 especies）
-- **本属模式种 Type species / Especie tipo**：*Bifiditermes madagascariensis*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种
+- **本属模式种**：*Bifiditermes madagascariensis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西班牙
-- **英文记录 English record / Registro en inglés**：Spain
+- **分布记录**：西班牙
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

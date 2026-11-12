@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/capritermes-capricornis/
 title: "Capritermes capricornis Wasmann, 1893 山羊角扭白蚁"
 latin: "Capritermes capricornis"
 zh: "山羊角扭白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **山羊角扭白蚁**（*Capritermes capricornis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）扭白蚁属（*Capritermes*）的现存唯一种。本种由 Wasmann 于 1893 年描述，模式产地为 Madagascar: Andrangoloaka。分布记录包括科特迪瓦、马达加斯加。
 
-EN — **山羊角扭白蚁** (*Capritermes capricornis*) is the only extant species of the genus *Capritermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Wasmann in 1893; the type locality is Madagascar: Andrangoloaka. Distribution: Côte d'Ivoire, Madagascar.
-
-ES — **山羊角扭白蚁** (*Capritermes capricornis*) es la única especie viviente del género *Capritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Wasmann en 1893; la localidad tipo es Madagascar: Andrangoloaka. Distribución: Côte d'Ivoire, Madagascar.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Capritermes*：属名由拉丁文 caper（山羊）与 termes（白蚁）组合，指兵蚁如羊角般弯曲不对称的上颚。
 
-EN — *Capritermes*: From Latin caper (goat) + termes, for the asymmetrically curved soldier mandibles.
-
-ES — *Capritermes*: Del latín caper (cabra) + termes, por las mandíbulas asimétricamente curvadas del soldado.
-
 种加词 *capricornis*：拉丁文 caper（山羊）+ cornu（角），山羊角
-
-EN — epithet *capricornis*: Latin caper (goat) + cornu (horn), goat-horned
-
-ES — epithet *capricornis*: Del latín caper (cabra) + cornu (cuerno), de cuernos de cabra
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
-- **属 Genus / Género**：[扭白蚁属 *Capritermes*]({{ site.base_url }}/genus/capritermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
+- **属**：[扭白蚁属 *Capritermes*]({{ site.base_url }}/genus/capritermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：科特迪瓦、马达加斯加
-- **英文记录 English record / Registro en inglés**：Côte d'Ivoire, Madagascar
+- **分布记录**：科特迪瓦、马达加斯加
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

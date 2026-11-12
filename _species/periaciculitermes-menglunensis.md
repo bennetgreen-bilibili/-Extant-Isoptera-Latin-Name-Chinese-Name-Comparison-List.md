@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/periaciculitermes-menglunensis/
 title: "Periaciculitermes menglunensis Li, 1986 勐仑近针白蚁"
 latin: "Periaciculitermes menglunensis"
 zh: "勐仑近针白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **勐仑近针白蚁**（*Periaciculitermes menglunensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）近针白蚁属（*Periaciculitermes*）的现存唯一种。本种由 Li 于 1986 年描述，模式产地为 China: Yunnan Province: Banna Daizu, Menglun, Xishuang, Zizhizhou。分布记录包括中国。
 
-EN — **勐仑近针白蚁** (*Periaciculitermes menglunensis*) is the only extant species of the genus *Periaciculitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Li in 1986; the type locality is China: Yunnan Province: Banna Daizu, Menglun, Xishuang, Zizhizhou. Distribution: China.
-
-ES — **勐仑近针白蚁** (*Periaciculitermes menglunensis*) es la única especie viviente del género *Periaciculitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li en 1986; la localidad tipo es China: Yunnan Province: Banna Daizu, Menglun, Xishuang, Zizhizhou. Distribución: China.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Periaciculitermes*：属名由希腊文 peri-（周围）+ 拉丁文 acicula（小针）与 termes（白蚁）组合。
 
-EN — *Periaciculitermes*: From Greek peri- (around) + Latin acicula (little pin) + termes.
-
-ES — *Periaciculitermes*: Del griego peri- (alrededor) + latín acicula (alfiler pequeño) + termes.
-
 种加词 *menglunensis*：以地名 勐仑（云南） 命名
-
-EN — epithet *menglunensis*: Named after the locality Menglun
-
-ES — epithet *menglunensis*: Por la localidad de Menglun
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[近针白蚁属 *Periaciculitermes*]({{ site.base_url }}/genus/periaciculitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[近针白蚁属 *Periaciculitermes*]({{ site.base_url }}/genus/periaciculitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国
-- **英文记录 English record / Registro en inglés**：China
+- **分布记录**：中国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

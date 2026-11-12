@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/rinacapritermes-silvius/
 title: "Rinacapritermes silvius Amina & Rajmohana, 2022 林栖丽娜扭白蚁"
 latin: "Rinacapritermes silvius"
 zh: "林栖丽娜扭白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **林栖丽娜扭白蚁**（*Rinacapritermes silvius*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）丽娜扭白蚁属（*Rinacapritermes*）的一种，也是本属的模式种。本种由 Amina & Rajmohana 于 2022 年描述，模式产地为 India: Kerala: Ernakulam, Urulanthanni \[ 10.1281N 76.755E \]。分布记录包括印度。
 
-EN — **林栖丽娜扭白蚁** (*Rinacapritermes silvius*) is a species and the type species of the genus *Rinacapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Amina & Rajmohana in 2022; the type locality is India: Kerala: Ernakulam, Urulanthanni \[ 10.1281N 76.755E \]. Distribution: India.
-
-ES — **林栖丽娜扭白蚁** (*Rinacapritermes silvius*) es una especie, y la especie tipo del género *Rinacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2022; la localidad tipo es India: Kerala: Ernakulam, Urulanthanni \[ 10.1281N 76.755E \]. Distribución: India.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Rinacapritermes*：属名由希腊文 rhis（鼻）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
-EN — *Rinacapritermes*: From Greek rhis (nose) + Latin caper (goat) + termes.
-
-ES — *Rinacapritermes*: Del griego rhis (nariz) + latín caper (cabra) + termes.
-
 种加词 *silvius*：拉丁文 silva（森林），森林的
-
-EN — epithet *silvius*: Latin silva (forest), of the woods
-
-ES — epithet *silvius*: Del latín silva (bosque), de los bosques
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[丽娜扭白蚁属 *Rinacapritermes*]({{ site.base_url }}/genus/rinacapritermes/) —— 共 2 种（2 species · 2 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[丽娜扭白蚁属 *Rinacapritermes*]({{ site.base_url }}/genus/rinacapritermes/) —— 共 2 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度
-- **英文记录 English record / Registro en inglés**：India
+- **分布记录**：印度
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

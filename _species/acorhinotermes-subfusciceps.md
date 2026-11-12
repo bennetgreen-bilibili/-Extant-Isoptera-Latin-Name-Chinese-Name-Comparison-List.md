@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/acorhinotermes-subfusciceps/
 title: "Acorhinotermes subfusciceps Emerson, 1925 棕头尖鼻白蚁"
 latin: "Acorhinotermes subfusciceps"
 zh: "棕头尖鼻白蚁"
@@ -21,43 +24,26 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **棕头尖鼻白蚁**（*Acorhinotermes subfusciceps*）是鼻白蚁科（RHINOTERMITIDAE）尖鼻白蚁属（*Acorhinotermes*）的一种，也是本属的模式种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉。
 
-EN — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) is a species and the type species of the genus *Acorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
-
-ES — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) es una especie, y la especie tipo del género *Acorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Acorhinotermes*：属名含希腊文 rhis（鼻）与拉丁文 termes（白蚁）；前缀 acorhin- 组成未详。
 
-EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
-
-ES — *Acorhinotermes*: Contiene el griego rhis (nariz) + latín termes; la derivación del prefijo es incierta.
-
 种加词 *subfusciceps*：拉丁文/希腊文 subfusci（下、近）+ ceps（头），指下、近头
-
-EN — epithet *subfusciceps*: From subfusci (下、近) + ceps (头)
-
-ES — epithet *subfusciceps*: De subfusci (abajo, cerca) + ceps (cabeza)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
-- **属 Genus / Género**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/genus/acorhinotermes/) —— 共 3 种（3 species · 3 especies）
+- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **属**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/genus/acorhinotermes/) —— 共 3 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉
-- **英文记录 English record / Registro en inglés**：South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela
+- **分布记录**：南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

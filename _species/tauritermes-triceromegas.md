@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/tauritermes-triceromegas/
 title: "Tauritermes triceromegas Silvestri, 1901 三混气牛白蚁"
 latin: "Tauritermes triceromegas"
 zh: "三混气牛白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **三混气牛白蚁**（*Tauritermes triceromegas*）是木白蚁科（KALOTERMITIDAE）牛白蚁属（*Tauritermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]。分布记录包括巴拉圭、阿根廷、巴西。
 
-EN — **三混气牛白蚁** (*Tauritermes triceromegas*) is a species of the genus *Tauritermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribution: Paraguay, Argentina, Brazil.
-
-ES — **三混气牛白蚁** (*Tauritermes triceromegas*) es una especie del género *Tauritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribución: Paraguay, Argentina, Brazil.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Tauritermes*：属名由拉丁文 taurus（公牛）与 termes（白蚁）组合。
 
-EN — *Tauritermes*: From Latin taurus (bull) + termes.
-
-ES — *Tauritermes*: Del latín taurus (toro) + termes.
-
 种加词 *triceromegas*：希腊文 tri-（三）+ keras（角）+ megas（大），三大角
-
-EN — epithet *triceromegas*: Greek tri- (three) + keras (horn) + megas (large)
-
-ES — epithet *triceromegas*: Del griego tri- (tres) + keras (cuerno) + megas (grande)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[牛白蚁属 *Tauritermes*]({{ site.base_url }}/genus/tauritermes/) —— 共 4 种（4 species · 4 especies）
-- **本属模式种 Type species / Especie tipo**：*Tauritermes taurocephalus*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[牛白蚁属 *Tauritermes*]({{ site.base_url }}/genus/tauritermes/) —— 共 4 种
+- **本属模式种**：*Tauritermes taurocephalus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴拉圭、阿根廷、巴西
-- **英文记录 English record / Registro en inglés**：Paraguay, Argentina, Brazil
+- **分布记录**：巴拉圭、阿根廷、巴西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

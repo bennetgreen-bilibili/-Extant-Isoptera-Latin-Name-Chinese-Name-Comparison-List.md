@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/mirocapritermes-hsuchiafui/
 title: "Mirocapritermes hsuchiafui Yu & Ping, 1966 云南瘤白蚁"
 latin: "Mirocapritermes hsuchiafui"
 zh: "云南瘤白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **云南瘤白蚁**（*Mirocapritermes hsuchiafui*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）瘤白蚁属（*Mirocapritermes*）的一种。本种由 Yu & Ping 于 1966 年描述，模式产地为 China: Yunnan Province: Ying-chiang。分布记录包括中国。
 
-EN — **云南瘤白蚁** (*Mirocapritermes hsuchiafui*) is a species of the genus *Mirocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Yu & Ping in 1966; the type locality is China: Yunnan Province: Ying-chiang. Distribution: China.
-
-ES — **云南瘤白蚁** (*Mirocapritermes hsuchiafui*) es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Yu & Ping en 1966; la localidad tipo es China: Yunnan Province: Ying-chiang. Distribución: China.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Mirocapritermes*：属名由拉丁文 mirus（奇异的）+ caper（山羊）与 termes（白蚁）组合。
 
-EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
-
-ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
-
 种加词 *hsuchiafui*：以人名 Hsu Chia-fu（徐家富，中国）命名
-
-EN — epithet *hsuchiafui*: Named after Hsu Chia-fu (Chinese)
-
-ES — epithet *hsuchiafui*: En honor de Hsu Chia-fu (chino)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[瘤白蚁属 *Mirocapritermes*]({{ site.base_url }}/genus/mirocapritermes/) —— 共 8 种（8 species · 8 especies）
-- **本属模式种 Type species / Especie tipo**：*Mirocapritermes connectens*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[瘤白蚁属 *Mirocapritermes*]({{ site.base_url }}/genus/mirocapritermes/) —— 共 8 种
+- **本属模式种**：*Mirocapritermes connectens*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国
-- **英文记录 English record / Registro en inglés**：China
+- **分布记录**：中国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

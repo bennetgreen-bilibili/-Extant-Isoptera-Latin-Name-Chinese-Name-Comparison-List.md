@@ -78,7 +78,7 @@ GENERATED_BY = ".github/workflows/build_bsf_links.py"
 
 UA = (
     "isoptera-checklist-bsf/1.0 "
-    "(+https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md)"
+    "(+https://termite-extant-isoptera.org)"
 )
 
 MIN_INTERVAL = 0.5          # 秒 —— 全局请求起始间隔，即 ≤2 req/s

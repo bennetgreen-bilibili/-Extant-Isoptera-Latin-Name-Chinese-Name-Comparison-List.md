@@ -2,7 +2,7 @@
    索引由 .github/workflows/build_search_index.py 生成；
    未命中时给出跳转「全站全文搜索」（Pagefind，/search/ 等页面）的入口。 */
 (function(){
-  var BASE = "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md";
+  var BASE = "https://termite-extant-isoptera.org";
   var input = document.getElementById('search-input');
   var results = document.getElementById('search-results');
   if (!input || !results) return;

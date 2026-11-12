@@ -12,7 +12,7 @@
 
 **许可**：CC BY 4.0。**引用**：班奈特格林 (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）》[Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX（概念 DOI / 全部版本：https://doi.org/10.5281/zenodo.23646835）
 
-**链接**：[项目网站](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/) ｜ [源码仓库](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md) ｜ [数据集说明](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blob/main/dataset/README.md)
+**链接**：[项目网站](https://termite-extant-isoptera.org/) ｜ [源码仓库](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md) ｜ [数据集说明](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blob/main/dataset/README.md)
 
 ---
 
@@ -30,4 +30,4 @@ The dataset is a taxonomic compilation for look-up, cross-checking, translation 
 
 **License**: CC BY 4.0. **Cite as**: Bennet Green (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX (concept DOI for all versions: https://doi.org/10.5281/zenodo.23646835)
 
-**Links**: [Project website](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/) | [Source repository](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md) | [Dataset documentation](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blob/main/dataset/README.md)
+**Links**: [Project website](https://termite-extant-isoptera.org/) | [Source repository](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md) | [Dataset documentation](https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blob/main/dataset/README.md)

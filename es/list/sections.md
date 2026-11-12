@@ -11,7 +11,7 @@ permalink: /es/list/sections/
 
 # Textos de familias y subfamilias (español)
 
-<p class="list-note">Aquí se reúne el texto en español de las familias y subfamilias, con sus ilustraciones. Las versiones en chino de esos mismos textos están en las páginas de familia y subfamilia; las listas de especies, en esas mismas páginas, y el índice en <a href="{{ site.base_url }}/es/list/">el índice taxonómico</a>.</p>
+<p class="list-note">Aquí se reúne el texto en español de las familias y subfamilias, con sus ilustraciones. Esos mismos textos aparecen también en cada página de familia y subfamilia de la edición española; las listas de especies, en esas mismas páginas, y el índice en <a href="{{ site.base_url }}/es/list/">el índice taxonómico</a>.</p>
 
 <ul class="taxon-list">
 <li><a href="#mastotermitidae"><i>MASTOTERMITIDAE</i> 澳白蚁科</a></li>

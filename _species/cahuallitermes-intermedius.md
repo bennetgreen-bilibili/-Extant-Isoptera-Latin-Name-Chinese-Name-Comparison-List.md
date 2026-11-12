@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cahuallitermes-intermedius/
 title: "Cahuallitermes intermedius Snyder, 1922 中间弃白蚁"
 latin: "Cahuallitermes intermedius"
 zh: "中间弃白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **中间弃白蚁**（*Cahuallitermes intermedius*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）弃白蚁属（*Cahuallitermes*）的一种，也是本属的模式种。本种由 Snyder 于 1922 年描述，模式产地为 Honduras: La Ceiba。分布记录包括墨西哥、危地马拉、洪都拉斯、伯利兹。
 
-EN — **中间弃白蚁** (*Cahuallitermes intermedius*) is a species and the type species of the genus *Cahuallitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Snyder in 1922; the type locality is Honduras: La Ceiba. Distribution: Mexico, Guatemala, Honduras, Belize.
-
-ES — **中间弃白蚁** (*Cahuallitermes intermedius*) es una especie, y la especie tipo del género *Cahuallitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: La Ceiba. Distribución: Mexico, Guatemala, Honduras, Belize.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cahuallitermes*：属名以土名或地名 Cahualli 命名，词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Cahuallitermes*: From the place name Cahualli; -termes from Latin termes.
-
-ES — *Cahuallitermes*: Del topónimo Cahualli; -termes, del latín termes.
-
 种加词 *intermedius*：拉丁文 intermedius（中间的）
-
-EN — epithet *intermedius*: Latin intermedius (intermediate)
-
-ES — epithet *intermedius*: Del latín intermedius (intermedio)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[弃白蚁属 *Cahuallitermes*]({{ site.base_url }}/genus/cahuallitermes/) —— 共 2 种（2 species · 2 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[弃白蚁属 *Cahuallitermes*]({{ site.base_url }}/genus/cahuallitermes/) —— 共 2 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：墨西哥、危地马拉、洪都拉斯、伯利兹
-- **英文记录 English record / Registro en inglés**：Mexico, Guatemala, Honduras, Belize
+- **分布记录**：墨西哥、危地马拉、洪都拉斯、伯利兹
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/lacessititermes-palawanensis/
 title: "Lacessititermes palawanensis Light, 1930 巴拉望怒白蚁"
 latin: "Lacessititermes palawanensis"
 zh: "巴拉望怒白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **巴拉望怒白蚁**（*Lacessititermes palawanensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）怒白蚁属（*Lacessititermes*）的一种。本种由 Light 于 1930 年描述，模式产地为 Philippines: Palawan: Iwahig。分布记录包括菲律宾。
 
-EN — **巴拉望怒白蚁** (*Lacessititermes palawanensis*) is a species of the genus *Lacessititermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Light in 1930; the type locality is Philippines: Palawan: Iwahig. Distribution: Philippines.
-
-ES — **巴拉望怒白蚁** (*Lacessititermes palawanensis*) es una especie del género *Lacessititermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Light en 1930; la localidad tipo es Philippines: Palawan: Iwahig. Distribución: Philippines.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Lacessititermes*：属名由拉丁文 lacessitus（被挑衅的、被攻击的）与 termes（白蚁）组合。
 
-EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
-
-ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
-
 种加词 *palawanensis*：以地名 巴拉望（菲律宾） 命名
-
-EN — epithet *palawanensis*: Named after the locality Palawan
-
-ES — epithet *palawanensis*: Por la localidad de Palawan
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[怒白蚁属 *Lacessititermes*]({{ site.base_url }}/genus/lacessititermes/) —— 共 20 种（20 species · 20 especies）
-- **本属模式种 Type species / Especie tipo**：*Lacessititermes lacessitus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[怒白蚁属 *Lacessititermes*]({{ site.base_url }}/genus/lacessititermes/) —— 共 20 种
+- **本属模式种**：*Lacessititermes lacessitus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：菲律宾
-- **英文记录 English record / Registro en inglés**：Philippines
+- **分布记录**：菲律宾
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

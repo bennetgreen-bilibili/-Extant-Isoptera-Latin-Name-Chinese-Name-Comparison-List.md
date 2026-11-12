@@ -42,6 +42,9 @@ LIST_MD_ES = ROOT / "es" / "list.md"
 SECTIONS_EN = ROOT / "en" / "list" / "sections.md"
 SECTIONS_ES = ROOT / "es" / "list" / "sections.md"
 
+# 三语分页后，站内链接要落在**同语言**的页面上：/family/x/ 的英文版是 /en/family/x/。
+LANG_PREFIX = {"zh": "", "en": "/en", "es": "/es"}
+
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.S)
 # 支系的从属关系（与 .github/workflows/build_taxonomy_data.py 的 CLADE_PARENT 一致）：
 # 新等翅类属于近等翅类，土栖等翅类属于新等翅类，页面上按这一层级嵌套显示。
@@ -122,14 +125,14 @@ NOTE = {
 
 SECTIONS_NOTE = {
     "en": "<p class=\"list-note\">The English text of the family and subfamily accounts, "
-          "including the illustrations, is collected here. Chinese versions of the same "
-          "accounts sit on the family and subfamily pages; for the species lists see those "
+          "including the illustrations, is collected here. The same texts also appear on each "
+          "family and subfamily page of the English edition; for the species lists see those "
           "pages, and for the index see <a href=\"{{ site.base_url }}/en/list/\">the "
           "taxonomic index</a>.</p>",
     "es": "<p class=\"list-note\">Aquí se reúne el texto en español de las familias y "
-          "subfamilias, con sus ilustraciones. Las versiones en chino de esos mismos textos "
-          "están en las páginas de familia y subfamilia; las listas de especies, en esas "
-          "mismas páginas, y el índice en <a href=\"{{ site.base_url }}/es/list/\">el índice "
+          "subfamilias, con sus ilustraciones. Esos mismos textos aparecen también en cada "
+          "página de familia y subfamilia de la edición española; las listas de especies, en "
+          "esas mismas páginas, y el índice en <a href=\"{{ site.base_url }}/es/list/\">el índice "
           "taxonómico</a>.</p>",
 }
 
@@ -326,9 +329,9 @@ def clade_section(language, clade_id, depth, clade_by_id, children, families_by_
             else:
                 label = "<i>%s</i> %s" % (member["latin"], member["zh"])
             count_line = fmt_counts(language, member["counts"], ("genus", "species", "subspecies"))
-            lines.append('<li><a href="{{ site.base_url }}/family/%s/">%s</a> '
+            lines.append('<li><a href="{{ site.base_url }}%s/family/%s/">%s</a> '
                          '<span class="taxon-count">%s</span></li>'
-                         % (member["id"], label, count_line))
+                         % (LANG_PREFIX[language], member["id"], label, count_line))
         lines.append("</ul>")
     for kid in kids:
         lines.append("")
@@ -390,23 +393,38 @@ def sections_page(language: str, taxonomy, prose):
 def index_page(language: str, taxonomy, blocks):
     block = blocks[language]
     families_by_id = build_page_links(taxonomy)
+
+    def loc(text: str) -> str:
+        """把数据块里写死的 /family/<id>/ 站内链接改成本语言的 /en/family/<id>/。
+
+        _data/list_index_blocks.json 是语言无关的数据（三份 block 共用同一批 href 形状），
+        所以前缀在这里补，而不是把 39 条链接各写三遍。
+        """
+        prefix = LANG_PREFIX[language]
+        if not prefix:
+            return text
+        return re.sub(r"(\{\{ site\.base_url \}\})/(family|subfamily|genus|species)/",
+                      lambda m: m.group(1) + prefix + "/" + m.group(2) + "/", text)
+
     parts = [FRONT_MATTER[language], "", H1[language], ""]
     if block.get("intro"):
-        parts.append(block["intro"])
+        parts.append(loc(block["intro"]))
         parts.append("")
     if block.get("by_family"):
-        parts.append(block["by_family"])
+        parts.append(loc(block["by_family"]))
         parts.append("")
     parts.append(NOTE[language])
     parts.append("")
     parts.append(clade_index(language, taxonomy, families_by_id))
     parts.append("")
     if language == "en":
-        parts.append("<p>English text of the family and subfamily accounts: "
+        parts.append("<p>Every family page carries its own English account; the complete "
+                     "collection of family and subfamily texts is in "
                      "<a href=\"{{ site.base_url }}/en/list/sections/\">sections in English</a>.</p>")
         parts.append("")
     elif language == "es":
-        parts.append("<p>Texto en español de las familias y subfamilias: "
+        parts.append("<p>Cada página de familia incluye su propio texto en español; la colección "
+                     "completa de los textos de familias y subfamilias está en "
                      "<a href=\"{{ site.base_url }}/es/list/sections/\">textos en español</a>.</p>")
         parts.append("")
     if language == "zh":
@@ -415,7 +433,7 @@ def index_page(language: str, taxonomy, blocks):
                      '{%- if fk %}{% include fauna-keys.html fk=fk %}{%- endif %}')
         parts.append("")
     if block.get("references"):
-        parts.append(block["references"])
+        parts.append(loc(block["references"]))
     return "\n".join(parts).rstrip() + "\n"
 
 

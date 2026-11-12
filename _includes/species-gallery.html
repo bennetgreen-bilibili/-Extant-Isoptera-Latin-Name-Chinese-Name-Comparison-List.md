@@ -1,12 +1,9 @@
 {%- comment -%}
   物种页图片图集：只展示前 6 张（与 _tools/图片授权与署名说明.md 的口径一致），
-  其余照片在 /species/<slug>/photos/ 的「全部图片」页（_layouts/photos.html）。
+  其余照片在本语言的「全部图片」页（_layouts/photos.html）。
   数据：_data/species_photos.json —— 由 .github/workflows/build_species_photos.py 生成，
   来源 iNaturalist（taxon_name 精确匹配）+ Wikimedia Commons（LicenseShortName 白名单）。
-  版式：瀑布流（保留原图比例、多列高低错落），每张图下方常显图注
-  「作者 · 许可协议（链接） · 来源页（链接）」；点击由 PhotoSwipe（MIT，
-  assets/vendor/photoswipe/）开灯箱，assets/gallery.js 懒加载接管，
-  脚本不可用时链接直接打开原图。没有授权照片的物种不输出任何内容。
+  没有授权照片的物种不输出任何内容。
 {%- endcomment -%}
 {%- assign sg_photos = nil -%}
 {%- if site.data.species_photos -%}
@@ -14,11 +11,12 @@
 {%- endif -%}
 {%- if sg_photos and sg_photos.size > 0 -%}
 {%- assign sg_limit = 6 -%}
-{%- assign sg_label = page.latin | append: ' ' | append: page.zh -%}
+{%- assign sg_label = page.latin -%}
+{%- if page.lang != 'en' and page.lang != 'es' -%}{%- assign sg_label = page.latin | append: ' ' | append: page.zh -%}{%- endif -%}
 <section class="species-gallery" aria-labelledby="species-gallery-title">
   <div class="gallery-head">
-    <h2 class="gallery-title" id="species-gallery-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ sg_photos.size }} 张 <span class="fact-en" lang="en">{{ sg_photos.size }} photo{% if sg_photos.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">{{ sg_photos.size }} foto{% if sg_photos.size != 1 %}s{% endif %}</span></span></h2>
-    <p class="gallery-lead">开放许可照片，点击可放大浏览。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。{% if sg_photos.size > sg_limit %}本页先展示前 {{ sg_limit }} 张，其余见页尾「全部图片」链接。<span class="fact-en" lang="en">Only the first {{ sg_limit }} are shown here; the rest are under “All photos” at the end of the page.</span> <span class="fact-es" lang="es">Aquí se muestran solo las primeras {{ sg_limit }}; el resto está en «Todas las fotos», al final de la página.</span>{% endif %}<span class="fact-en" lang="en">Freely licensed photos, click to enlarge. Hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers — author, licence and source page are shown under each photo.</span> <span class="fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Enlazadas desde iNaturalist / Wikimedia Commons; los derechos son de sus autores — bajo cada foto se indican autor, licencia y página original.</span></p>
+    <h2 class="gallery-title" id="species-gallery-title">{% if page.lang == 'en' %}Photos{% elsif page.lang == 'es' %}Fotos{% else %}图片{% endif %} <span class="gallery-count">{% if page.lang == 'en' %}{{ sg_photos.size }} photo{% if sg_photos.size != 1 %}s{% endif %}{% elsif page.lang == 'es' %}{{ sg_photos.size }} foto{% if sg_photos.size != 1 %}s{% endif %}{% else %}{{ sg_photos.size }} 张{% endif %}</span></h2>
+    <p class="gallery-lead">{% if page.lang == 'en' %}Freely licensed photos, click to enlarge. Hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers — author, licence and source page are shown under each photo.{% if sg_photos.size > sg_limit %} Only the first {{ sg_limit }} are shown here; the rest are under “All photos” at the end of the page.{% endif %}{% elsif page.lang == 'es' %}Fotos con licencia libre; haga clic para ampliar. Enlazadas desde iNaturalist / Wikimedia Commons; los derechos son de sus autores — bajo cada foto se indican autor, licencia y página original.{% if sg_photos.size > sg_limit %} Aquí se muestran solo las primeras {{ sg_limit }}; el resto está en «Todas las fotos», al final de la página.{% endif %}{% else %}开放许可照片，点击可放大浏览。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。{% if sg_photos.size > sg_limit %}本页先展示前 {{ sg_limit }} 张，其余见页尾「全部图片」链接。{% endif %}{% endif %}</p>
   </div>
   <div class="gallery-grid">
     {%- for photo in sg_photos -%}
@@ -27,7 +25,7 @@
     {%- endfor -%}
   </div>
   {%- if sg_photos.size > sg_limit %}
-  <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ page.url }}photos/">查看全部 {{ sg_photos.size }} 张 <span class="fact-en" lang="en">View all {{ sg_photos.size }} photo{% if sg_photos.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">Ver todas las fotos ({{ sg_photos.size }})</span> <span aria-hidden="true">→</span></a></p>
+  <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ page.url }}photos/">{% if page.lang == 'en' %}View all {{ sg_photos.size }} photos{% elsif page.lang == 'es' %}Ver todas las fotos ({{ sg_photos.size }}){% else %}查看全部 {{ sg_photos.size }} 张{% endif %} <span aria-hidden="true">→</span></a></p>
   {%- endif -%}
 </section>
 {%- endif -%}

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/indotermes-maymensis/
 title: "Indotermes maymensis Roonwal & Sen-Sarma, 1958 眉妙印白蚁"
 latin: "Indotermes maymensis"
 zh: "眉妙印白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **眉妙印白蚁**（*Indotermes maymensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）印白蚁属（*Indotermes*）的一种，也是本属的模式种。本种由 Roonwal & Sen-Sarma 于 1958 年描述，模式产地为 Myanmar: Maymyo: Botanical Garden。分布记录包括缅甸、中国。
 
-EN — **眉妙印白蚁** (*Indotermes maymensis*) is a species and the type species of the genus *Indotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Roonwal & Sen-Sarma in 1958; the type locality is Myanmar: Maymyo: Botanical Garden. Distribution: Myanmar, China.
-
-ES — **眉妙印白蚁** (*Indotermes maymensis*) es una especie, y la especie tipo del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Sen-Sarma en 1958; la localidad tipo es Myanmar: Maymyo: Botanical Garden. Distribución: Myanmar, China.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Indotermes*：属名由地名 India（印度）+ 拉丁文 termes（白蚁）组合。
 
-EN — *Indotermes*: From India + Latin termes.
-
-ES — *Indotermes*: De India + latín termes.
-
 种加词 *maymensis*：以地名 Maym 命名
-
-EN — epithet *maymensis*: Named after the locality Maym
-
-ES — epithet *maymensis*: Por la localidad de Maym
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[印白蚁属 *Indotermes*]({{ site.base_url }}/genus/indotermes/) —— 共 10 种（10 species · 10 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[印白蚁属 *Indotermes*]({{ site.base_url }}/genus/indotermes/) —— 共 10 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：缅甸、中国
-- **英文记录 English record / Registro en inglés**：Myanmar, China
+- **分布记录**：缅甸、中国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

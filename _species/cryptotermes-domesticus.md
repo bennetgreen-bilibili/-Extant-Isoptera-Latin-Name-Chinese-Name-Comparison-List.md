@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cryptotermes-domesticus/
 title: "Cryptotermes domesticus Haviland, 1898 截头堆砂白蚁"
 latin: "Cryptotermes domesticus"
 zh: "截头堆砂白蚁"
@@ -23,50 +26,33 @@ synonym_localities: "Taiwan: Botel Tobago, Lan Yü); Taiwan: Botel Tobago, Lan Y
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **截头堆砂白蚁**（*Cryptotermes domesticus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括东洋界至澳洲界、东南亚、中国南部至太平洋岛屿、厄瓜多尔、加拿大、哥斯达黎加、巴拿马、星期四岛（澳大利亚）、特立尼达和多巴哥、特罗梅林岛（法国）。本站记录本种有 11 个次异名。
 
-EN — **截头堆砂白蚁** (*Cryptotermes domesticus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France). This site records 11 junior synonyms for the species.
-
-ES — **截头堆砂白蚁** (*Cryptotermes domesticus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France). Este sitio registra 11 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
 
-EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
-
-ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
-
 种加词 *domesticus*：拉丁文 domesticus（家养的、室内的）
-
-EN — epithet *domesticus*: Latin domesticus (domestic, of the house)
-
-ES — epithet *domesticus*: Del latín domesticus (doméstico, de la casa)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种（74 species · 74 especies）
-- **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
+- **本属模式种**：*Cryptotermes cavifrons*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东洋界至澳洲界、东南亚、中国南部至太平洋岛屿、厄瓜多尔、加拿大、哥斯达黎加、巴拿马、星期四岛（澳大利亚）、特立尼达和多巴哥、特罗梅林岛（法国）
-- **英文记录 English record / Registro en inglés**：Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France)
+- **分布记录**：东洋界至澳洲界、东南亚、中国南部至太平洋岛屿、厄瓜多尔、加拿大、哥斯达黎加、巴拿马、星期四岛（澳大利亚）、特立尼达和多巴哥、特罗梅林岛（法国）
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 11 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 11 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 11 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 11 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes (Cryptotermes) formosae* Holmgren, 1912: 119-120 —— 模式产地：Taiwan: Botel Tobago, Lan Yü)
 2. *Calotermes kotoensis* Oshima, 1912: 56-58 —— 模式产地：Taiwan: Botel Tobago, Lan Yü)
@@ -81,6 +67,4 @@ ES — epithet *domesticus*: Del latín domesticus (doméstico, de la casa)
 11. *Calotermes (Cryptotermes) repentinus* Hill, 1927: 13-15 —— 模式产地：Papua New Guinea: New Britain: Rabaul
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes (Cryptotermes) formosae*、*Calotermes kotoensis*、*Calotermes (Cryptotermes) ogasawaraensis*、*Calotermes (Cryptotermes) dentatus*、*Cryptotermes campbelli*、*Cryptotermes hermsi*、*Calotermes (Cryptotermes) buxtoni*、*Kalotermes (Cryptotermes) breviarticulatus* 等）出现，本站统一归入 *Cryptotermes domesticus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Calotermes (Cryptotermes) formosae*、*Calotermes kotoensis*、*Calotermes (Cryptotermes) ogasawaraensis*、*Calotermes (Cryptotermes) dentatus*、*Cryptotermes campbelli*、*Cryptotermes hermsi*、*Calotermes (Cryptotermes) buxtoni*、*Kalotermes (Cryptotermes) breviarticulatus*); this site treats them all under *Cryptotermes domesticus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Calotermes (Cryptotermes) formosae*、*Calotermes kotoensis*、*Calotermes (Cryptotermes) ogasawaraensis*、*Calotermes (Cryptotermes) dentatus*、*Cryptotermes campbelli*、*Cryptotermes hermsi*、*Calotermes (Cryptotermes) buxtoni*、*Kalotermes (Cryptotermes) breviarticulatus*); este sitio los reúne todos bajo *Cryptotermes domesticus*.
 <!-- AUTO:END -->

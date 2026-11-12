@@ -8,7 +8,7 @@ body:
       value: |
         ## 提问前先看一眼
 
-        - 数据页与字段说明：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/>
+        - 数据页与字段说明：<https://termite-extant-isoptera.org/data/>
         - 数据集 DOI、版本与「下载」入口见页脚导航
         - 数据以 **CC BY 4.0** 发布（注明作者即可自由使用，含商用与机器学习训练）
         - 站内插图各自遵循原始许可（部分含 NC 非商业限制），引用前请核对图片署名与许可
@@ -27,7 +27,7 @@ body:
     attributes:
       label: 涉及页面 URL
       description: 相关的物种页 / 名录页 / 数据页地址（可选）
-      placeholder: "https://bennetgreen-bilibili.github.io/…"
+      placeholder: "https://termite-extant-isoptera.org/…"
 
   - type: textarea
     id: expected

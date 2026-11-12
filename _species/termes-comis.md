@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/termes-comis/
 title: "Termes comis Haviland, 1898 友好白蚁"
 latin: "Termes comis"
 zh: "友好白蚁"
@@ -26,56 +29,37 @@ synonym_localities: "Malaysia: Sabah: Keningau District, mile 6; Malaysia: Sabah
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **友好白蚁**（*Termes comis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak; Singapore: ?。分布记录包括印度尼西亚、马来西亚、新加坡、泰国、越南。本站记录本种有 2 个次异名。
 
-EN — **友好白蚁** (*Termes comis*) is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak; Singapore: ?. Distribution: Indonesia, Malaysia, Singapore, Thailand, Vietnam. This site records 2 junior synonyms for the species.
-
-ES — **友好白蚁** (*Termes comis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak; Singapore: ?. Distribución: Indonesia, Malaysia, Singapore, Thailand, Vietnam. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
 
-EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
-
-ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
-
 种加词 *comis*：拉丁文 comis（亲切的、彬彬有礼的）
-
-EN — epithet *comis*: Latin comis (courteous)
-
-ES — epithet *comis*: Del latín comis (cortés)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
-- **属 Genus / Género**：[白蚁属 *Termes*]({{ site.base_url }}/genus/termes/) —— 共 27 种（27 species · 27 especies）
-- **本属模式种 Type species / Especie tipo**：*Termes fatalis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
+- **属**：[白蚁属 *Termes*]({{ site.base_url }}/genus/termes/) —— 共 27 种
+- **本属模式种**：*Termes fatalis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度尼西亚、马来西亚、新加坡、泰国、越南
-- **英文记录 English record / Registro en inglés**：Indonesia, Malaysia, Singapore, Thailand, Vietnam
+- **分布记录**：印度尼西亚、马来西亚、新加坡、泰国、越南
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes borneensis* Thapa, 1982: 177-179 —— 模式产地：Malaysia: Sabah: Keningau District, mile 6
 2. *Termes kalumpangensis* Thapa, 1982: 179-180 —— 模式产地：Malaysia: Sabah: Kunak-Mostyn District: Kalumpang
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes borneensis*、*Termes kalumpangensis* 等）出现，本站统一归入 *Termes comis*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes borneensis*、*Termes kalumpangensis*); this site treats them all under *Termes comis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes borneensis*、*Termes kalumpangensis*); este sitio los reúne todos bajo *Termes comis*.
 <!-- AUTO:END -->

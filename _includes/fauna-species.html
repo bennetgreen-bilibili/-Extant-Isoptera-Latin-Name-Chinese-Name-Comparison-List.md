@@ -1,52 +1,59 @@
-{%- comment -%}
-  形态描述：据《中国动物志·昆虫纲 第十七卷 等翅目》(2000) 对应条目改写而成。
-  数据来自 _data/fauna_species.json，键为物种页 URL；由 _tools/fauna 生成，勿手改该 JSON 以外的正文。
-  这里只渲染已改写的内容，原文不上站。
-  标题层级：h2 = 文献出处（《中国动物志》记载）；h3 = 内容类别（形态描述 / 生物学 / 分布与产地）；
-  h4 = 品级（兵蚁 / 有翅成虫 / 工蚁 / 若虫）与英文摘要。原书本身不是「形态描述」专著，故出处升一级、内容类别降一级。
-{%- endcomment -%}
-{%- assign _fz = include.fauna.soldier | append: include.fauna.alate | append: include.fauna.worker | append: include.fauna.nymph -%}
-{%- if _fz == "" -%}
-{%- else -%}
-<section class="species-fauna" lang="zh-CN">
-  <h2>《中国动物志》记载 <span class="fact-en" lang="en">Fauna Sinica account</span> <span class="fact-es" lang="es">Registro de Fauna Sinica</span></h2>
-  <p class="fauna-lead">以下内容据《中国动物志·昆虫纲 第十七卷 等翅目》（2000）{{ include.fauna.book_ref }}重新整理改写，术语沿用原书的中文形态学称谓；原书出版于 2000 年，个别类群的归属此后有调整，见文末说明。</p>
-  <p class="fauna-lead fact-en" lang="en">The account below is a Chinese adaptation, reorganized and rewritten, of the Fauna Sinica entry (Insecta Vol. 17, Isoptera, 2000); the Chinese morphological terms of the source are kept. The source appeared in 2000 and the placement of some groups has changed since — see the note at the end.</p>
-  <p class="fauna-lead fact-es" lang="es">El texto siguiente es una adaptación al chino, reorganizada y reescrita, de la entrada de Fauna Sinica (Insecta vol. 17, Isoptera, 2000); se conservan los términos morfológicos chinos de la fuente. La obra es de 2000 y la adscripción de algunos grupos ha cambiado desde entonces; véase la nota final.</p>
-  <h3>形态描述 <span class="fact-en" lang="en">Morphology</span> <span class="fact-es" lang="es">Morfología</span></h3>
-  {%- if include.fauna.soldier and include.fauna.soldier != "" %}
-  <h4>兵蚁 <span class="fact-en" lang="en">Soldier</span> <span class="fact-es" lang="es">Soldado</span></h4>
-  <p>{{ include.fauna.soldier }}</p>
-  {%- endif %}
-  {%- if include.fauna.alate and include.fauna.alate != "" %}
-  <h4>有翅成虫 <span class="fact-en" lang="en">Alate</span> <span class="fact-es" lang="es">Alado</span></h4>
-  <p>{{ include.fauna.alate }}</p>
-  {%- endif %}
-  {%- if include.fauna.worker and include.fauna.worker != "" %}
-  <h4>工蚁 <span class="fact-en" lang="en">Worker</span> <span class="fact-es" lang="es">Obrera</span></h4>
-  <p>{{ include.fauna.worker }}</p>
-  {%- endif %}
-  {%- if include.fauna.nymph and include.fauna.nymph != "" %}
-  <h4>若虫 <span class="fact-en" lang="en">Nymph</span> <span class="fact-es" lang="es">Ninfa</span></h4>
-  <p>{{ include.fauna.nymph }}</p>
-  {%- endif %}
-  {%- if include.fauna.en and include.fauna.en != "" %}
-  <div class="fauna-en fact-en" lang="en">
-    <h4>Morphology (English summary)</h4>
-    <p>{{ include.fauna.en }}</p>
-  </div>
-  {%- endif %}
-  {%- if include.fauna.biology and include.fauna.biology != "" %}
-  <h3>生物学 <span class="fact-en" lang="en">Biology</span> <span class="fact-es" lang="es">Biología</span></h3>
-  <p>{{ include.fauna.biology }}</p>
-  {%- endif %}
-  {%- if include.fauna.distribution and include.fauna.distribution != "" %}
-  <h3>分布与产地 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span></h3>
-  <p>{{ include.fauna.distribution }}</p>
-  {%- endif %}
-  {%- if include.fauna.taxonomy_note and include.fauna.taxonomy_note != "" %}
-  <p class="fauna-note"><strong>分类说明 <span class="fact-en" lang="en">Taxonomic note</span> <span class="fact-es" lang="es">Nota taxonómica</span></strong>：{{ include.fauna.taxonomy_note }}</p>
-  {%- endif %}
-  <p class="fauna-cite">文献依据：黄复生、朱世模、平正明、王治国、李参、徐春贵，2000．中国动物志·昆虫纲 第十七卷 等翅目．北京：科学出版社．本页文字为据原书条目重新组织的改写稿，非原文转录。<span class="fact-en" lang="en"> Sources cited: the Chinese reference above. This page is a reorganized adaptation of the source entry, not a verbatim transcription.</span> <span class="fact-es" lang="es"> Fuentes citadas: la referencia en chino anterior. Esta página es una adaptación reorganizada de la entrada original, no una transcripción literal.</span></p>
-</section>
+{%- assign zh_url = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- assign fauna_zh = site.data.fauna_species[zh_url] -%}
+{%- assign fauna_tr = nil -%}
+{%- if page.lang == 'en' -%}{%- assign fauna_tr = site.data.translations_en.fauna_species[zh_url] -%}
+{%- elsif page.lang == 'es' -%}{%- assign fauna_tr = site.data.translations_es.fauna_species[zh_url] -%}
 {%- endif -%}
+{%- assign fz = fauna_zh -%}
+{%- if page.lang == 'en' or page.lang == 'es' -%}{%- assign fz = fauna_tr -%}{%- endif -%}
+{%- assign _fz = fz.soldier | append: fz.alate | append: fz.worker | append: fz.nymph -%}
+{%- assign fauna_en_abstract = '' -%}
+{%- if page.lang == 'en' and fauna_zh.en -%}{%- assign fauna_en_abstract = fauna_zh.en -%}{%- endif -%}
+{%- if _fz != '' or fauna_en_abstract != '' -%}
+<section class="species-fauna" lang="{% if page.lang == 'en' %}en{% elsif page.lang == 'es' %}es{% else %}zh-CN{% endif %}">
+  <h2>{% if page.lang == 'en' %}Recorded in <i>Fauna Sinica</i>{% elsif page.lang == 'es' %}Registrado en <i>Fauna Sinica</i>{% else %}《中国动物志》记载{% endif %}</h2>
+  <p class="species-fauna-lead">{% if page.lang == 'en' %}The morphological and biological accounts below are taken from <i>Fauna Sinica</i> and related literature; only structure and punctuation have been standardized here.{% elsif page.lang == 'es' %}Los datos morfológicos y biológicos siguientes proceden de <i>Fauna Sinica</i> y de la literatura relacionada; aquí solo se han normalizado la estructura y la puntuación.{% else %}以下形态与生物学记载摘自《中国动物志》等相关文献，本站仅作结构与标点整理。{% endif %}</p>
+
+  {%- if _fz != '' %}
+  <h3>{% if page.lang == 'en' %}Morphology{% elsif page.lang == 'es' %}Morfología{% else %}形态描述{% endif %}</h3>
+  {%- if fz.soldier %}
+  <h4>{% if page.lang == 'en' %}Soldier{% elsif page.lang == 'es' %}Soldado{% else %}兵蚁{% endif %}</h4>
+  <p>{{ fz.soldier }}</p>
+  {%- endif %}
+  {%- if fz.alate %}
+  <h4>{% if page.lang == 'en' %}Alate{% elsif page.lang == 'es' %}Alado{% else %}有翅成虫{% endif %}</h4>
+  <p>{{ fz.alate }}</p>
+  {%- endif %}
+  {%- if fz.worker %}
+  <h4>{% if page.lang == 'en' %}Worker{% elsif page.lang == 'es' %}Obrera{% else %}工蚁{% endif %}</h4>
+  <p>{{ fz.worker }}</p>
+  {%- endif %}
+  {%- if fz.nymph %}
+  <h4>{% if page.lang == 'en' %}Nymph{% elsif page.lang == 'es' %}Ninfa{% else %}若虫{% endif %}</h4>
+  <p>{{ fz.nymph }}</p>
+  {%- endif %}
+  {%- endif %}
+
+  {%- if fauna_en_abstract != '' %}
+  <h3>{% if page.lang == 'en' %}Abstract (from the source){% endif %}</h3>
+  <div class="fauna-en"><p>{{ fauna_en_abstract }}</p></div>
+  {%- endif %}
+
+  {%- if fz.biology %}
+  <h3>{% if page.lang == 'en' %}Biology{% elsif page.lang == 'es' %}Biología{% else %}生物学{% endif %}</h3>
+  <p>{{ fz.biology }}</p>
+  {%- endif %}
+
+  {%- if fz.distribution %}
+  <h3>{% if page.lang == 'en' %}Distribution and locality{% elsif page.lang == 'es' %}Distribución y localidad{% else %}分布与产地{% endif %}</h3>
+  <p>{{ fz.distribution }}</p>
+  {%- endif %}
+
+  {%- if fz.taxonomy_note %}
+  <h3>{% if page.lang == 'en' %}Taxonomic notes{% elsif page.lang == 'es' %}Notas taxonómicas{% else %}分类说明{% endif %}</h3>
+  <p>{{ fz.taxonomy_note }}</p>
+  {%- endif %}
+
+  <p class="species-fauna-source">{% if page.lang == 'en' %}Source: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% elsif page.lang == 'es' %}Fuente: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% else %}文献依据：黄复生等（2000）《中国动物志·昆虫纲 第十七卷 等翅目》，科学出版社。{% endif %}{% if fz.book_ref %} {{ fz.book_ref }}{% endif %}{% if page.lang == 'en' %} Entries are cited by their number in the original work.{% elsif page.lang == 'es' %} Las entradas se citan por su número en la obra original.{% else %} 本站引文按原书条目编号标注。{% endif %}</p>
+</section>
+{%- endif %}

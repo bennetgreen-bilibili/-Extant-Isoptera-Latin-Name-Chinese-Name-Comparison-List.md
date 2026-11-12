@@ -28,4 +28,7 @@ python .github/workflows/build_dataset.py --write
 python _tools/build_changelog.py --write
 python .github/workflows/build_name_issues.py --write
 
+# 三语分页（zh / en / es）自检：漏页、混语残留、站内链接缺语言前缀
+python _tools/check_lang_pages.py --ci
+
 echo "OK: 派生产物已全部重建"

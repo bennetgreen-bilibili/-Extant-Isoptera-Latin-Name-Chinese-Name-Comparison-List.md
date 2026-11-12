@@ -1,0 +1,52 @@
+---
+layout: species
+title: "Stolotermes victoriensis Hill, 1921 维多利亚胄白蚁"
+lang: es
+permalink: /es/species/stolotermes-victoriensis/
+species_page: true
+single_lang: true
+slug: "stolotermes-victoriensis"
+latin: "Stolotermes victoriensis"
+zh: "维多利亚胄白蚁"
+type: false
+rank: "species"
+genus_zh: "胄白蚁属"
+genus_latin: "Stolotermes"
+genus_id: "stolotermes"
+family_zh: "胄白蚁科"
+family_latin: "STOLOTERMITIDAE"
+family_id: "stolotermitidae"
+clade_zh: "远等翅类"
+clade_latin: "Teletisoptera"
+author_year: "Hill, 1921"
+type_locality: "Australia: Victoria: Beaconsfield"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Resumen
+
+***Stolotermes victoriensis*** es una especie del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Hill en 1921; la localidad tipo es Australia: Victoria: Beaconsfield. Distribución según la fuente: Australia.
+
+## Etimología
+
+Nombre del género *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
+Epíteto específico *victoriensis*: Por Victoria (Australia)
+
+<!-- src:S0018 -->
+
+## Posición taxonómica
+
+- **Familia**: [STOLOTERMITIDAE]({{ site.base_url }}/es/family/stolotermitidae/) — 2 géneros, 10 especies
+- **Género**: [*Stolotermes*]({{ site.base_url }}/es/genus/stolotermes/) — 7 especies
+- **Especie tipo del género**: *Stolotermes brunneicornis*
+
+## Distribución
+
+- **Registros de distribución (según la fuente)**: Australia
+
+El registro anterior sigue la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.
+<!-- AUTO:END -->

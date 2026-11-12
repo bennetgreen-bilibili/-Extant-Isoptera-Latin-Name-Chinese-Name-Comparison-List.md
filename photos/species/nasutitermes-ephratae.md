@@ -3,11 +3,11 @@ layout: photos
 title: "Nasutitermes ephratae 埃夫拉塔象白蚁 全部图片（29 张）"
 description: "埃夫拉塔象白蚁（Nasutitermes ephratae）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 29 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
-permalink: /species/nasutitermes-ephratae/photos/
+permalink: "/species/nasutitermes-ephratae/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "nasutitermes-ephratae"

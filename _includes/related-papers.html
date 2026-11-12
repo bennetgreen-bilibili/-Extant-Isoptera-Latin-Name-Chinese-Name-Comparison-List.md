@@ -1,15 +1,16 @@
 {%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- assign LP = '' -%}
+{%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}{%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
 {%- comment -%}
   物种页「相关文献」区块：数据来自 _data/papers.json（.github/workflows/build_papers.py 生成）。
   没有缓存时只显示检索入口，不影响页面构建；摘要为完整文本（JSON 已转义，Liquid 再 escape）。
+  语言：按 page.lang 单语输出（zh / en / es）。
 {%- endcomment -%}
 {%- assign papers_data = site.data.papers -%}
 {%- if papers_data -%}{%- assign genus_papers = papers_data.genera[page.genus_id] -%}{%- endif -%}
 <section class="species-papers" aria-labelledby="species-papers-title">
-  <h2 id="species-papers-title" class="species-papers-title">相关文献 <span class="fact-en" lang="en">Related papers</span> <span class="fact-es" lang="es">Artículos relacionados</span></h2>
-  <p class="species-papers-lead">以下为本站缓存的<strong>本属</strong>相关文献（自动匹配，供参考）；查本种请用检索器，会自动合并次异名。</p>
-  <p class="species-papers-lead fact-en" lang="en">Cached papers for this <strong>genus</strong> (matched automatically, for reference); to search this species with its junior synonyms merged in, use the literature search.</p>
-  <p class="species-papers-lead fact-es" lang="es">Artículos en caché de este <strong>género</strong> (coincidencia automática, a título orientativo); para buscar esta especie con sus sinónimos junior incluidos, use el buscador de literatura.</p>
+  <h2 id="species-papers-title" class="species-papers-title">{% if page.lang == 'en' %}Related papers{% elsif page.lang == 'es' %}Artículos relacionados{% else %}相关文献{% endif %}</h2>
+  <p class="species-papers-lead">{% if page.lang == 'en' %}Cached papers for this <strong>genus</strong> (matched automatically, for reference); to search this species with its junior synonyms merged in, use the literature search.{% elsif page.lang == 'es' %}Artículos en caché de este <strong>género</strong> (coincidencia automática, a título orientativo); para buscar esta especie con sus sinónimos junior incluidos, use el buscador de literatura.{% else %}以下为本站缓存的<strong>本属</strong>相关文献（自动匹配，供参考）；查本种请用检索器，会自动合并次异名。{% endif %}</p>
   {%- if genus_papers and genus_papers.papers.size > 0 -%}
   <ol class="species-papers-list">
     {%- for p in genus_papers.papers limit:3 -%}
@@ -28,10 +29,10 @@
   <p class="species-papers-empty">{{ T.papers_no_results }}</p>
   {%- endif -%}
   <p class="species-papers-actions">
-    <a class="papers-cta" href="{{ site.base_url }}/papers/?q={{ page.latin | uri_escape }}&amp;syn=1">检索本种文献（含异名）→ <span class="fact-en" lang="en">Papers on this species, synonyms included →</span> <span class="fact-es" lang="es">Artículos sobre esta especie, sinónimos incluidos →</span></a>
+    <a class="papers-cta" href="{{ site.base_url }}{{ LP }}/papers/?q={{ page.latin | uri_escape }}&amp;syn=1">{% if page.lang == 'en' %}Papers on this species, synonyms included →{% elsif page.lang == 'es' %}Artículos sobre esta especie, sinónimos incluidos →{% else %}检索本种文献（含异名）→{% endif %}</a>
     <a href="https://openalex.org/works?search={{ page.latin | uri_escape }}" target="_blank" rel="noopener">OpenAlex</a>
     <a href="https://scholar.google.com/scholar?q={{ page.latin | uri_escape }}" target="_blank" rel="noopener">Google Scholar</a>
-    <a href="https://kns.cnki.net/kns8s/defaultresult/index?kw={{ page.latin | uri_escape }}" target="_blank" rel="noopener">知网</a>
+    <a href="https://kns.cnki.net/kns8s/defaultresult/index?kw={{ page.latin | uri_escape }}" target="_blank" rel="noopener">{% if page.lang == 'en' or page.lang == 'es' %}CNKI{% else %}知网{% endif %}</a>
   </p>
   <p class="species-papers-note">{{ T.papers_abstract_note }}</p>
 </section>

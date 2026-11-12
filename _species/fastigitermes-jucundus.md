@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/fastigitermes-jucundus/
 title: "Fastigitermes jucundus Sjöstedt, 1907 可爱峰白蚁"
 latin: "Fastigitermes jucundus"
 zh: "可爱峰白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **可爱峰白蚁**（*Fastigitermes jucundus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）峰白蚁属（*Fastigitermes*）的现存唯一种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚。
 
-EN — **可爱峰白蚁** (*Fastigitermes jucundus*) is the only extant species of the genus *Fastigitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Sjöstedt in 1907; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
-
-ES — **可爱峰白蚁** (*Fastigitermes jucundus*) es la única especie viviente del género *Fastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Fastigitermes*：属名由拉丁文 fastigium（尖顶、脊）与 termes（白蚁）组合。
 
-EN — *Fastigitermes*: From Latin fastigium (summit, ridge) + termes.
-
-ES — *Fastigitermes*: Del latín fastigium (cima, cresta) + termes.
-
 种加词 *jucundus*：拉丁文 jucundus（愉快的）
-
-EN — epithet *jucundus*: Latin jucundus (pleasant)
-
-ES — epithet *jucundus*: Del latín jucundus (agradable)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
-- **属 Genus / Género**：[峰白蚁属 *Fastigitermes*]({{ site.base_url }}/genus/fastigitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
+- **属**：[峰白蚁属 *Fastigitermes*]({{ site.base_url }}/genus/fastigitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚
-- **英文记录 English record / Registro en inglés**：Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria
+- **分布记录**：非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

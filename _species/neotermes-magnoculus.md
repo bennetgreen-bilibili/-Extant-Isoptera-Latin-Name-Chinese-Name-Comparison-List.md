@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/neotermes-magnoculus/
 title: "Neotermes magnoculus Snyder, 1926 大眼新白蚁"
 latin: "Neotermes magnoculus"
 zh: "大眼新白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **大眼新白蚁**（*Neotermes magnoculus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]。分布记录包括玻利维亚、巴西。
 
-EN — **大眼新白蚁** (*Neotermes magnoculus*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1926; the type locality is Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribution: Bolivia, Brazil.
-
-ES — **大眼新白蚁** (*Neotermes magnoculus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribución: Bolivia, Brazil.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
 
-EN — *Neotermes*: From Greek neos (new) + Latin termes.
-
-ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
-
 种加词 *magnoculus*：拉丁文/希腊文 magn（大）+ oculus（眼），指大眼
-
-EN — epithet *magnoculus*: From magn (大) + oculus (眼)
-
-ES — epithet *magnoculus*: De magn (grande) + oculus (ojo)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种（121 species · 121 especies）
-- **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
+- **本属模式种**：*Neotermes castaneus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：玻利维亚、巴西
-- **英文记录 English record / Registro en inglés**：Bolivia, Brazil
+- **分布记录**：玻利维亚、巴西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,15 +1,12 @@
 # robots.txt — 允许主流搜索引擎与 AI 爬虫抓取
 #
-# ⚠ 位置说明（2026-10 核实）
-#   本文件的发布地址是
-#     https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/robots.txt
-#   但爬虫只读域名根 https://bennetgreen-bilibili.github.io/robots.txt。
-#   本账号没有 <user>.github.io 用户站仓库，所以域名根那份是 404 —— 404 等价于
-#   「全部允许」，与下面规则的目的相同，因此没有实际副作用；只是本文件里两条
-#   Sitemap: 指令目前不会被执行。
-#   将来若新建 <user>.github.io 仓库，把本文件原样复制到那个仓库根目录即可生效；
-#   在那之前，sitemap 请在 Search Console 里直接提交：
-#     https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/sitemap.xml
+# 位置说明（2026-11-12 起站点改用自己的域名 termite-extant-isoptera.org）
+#   以前是 GitHub Pages 项目子路径，域名根没有 robots.txt，文末两条 Sitemap:
+#   指令等于没生效；现在站点就在根上，本文件会发布到
+#     https://termite-extant-isoptera.org/robots.txt
+#   两条 Sitemap: 指令从此真正被执行。
+#   仓库里没有 CNAME 文件是正常的：本站用自定义 GitHub Actions 发布，
+#   GitHub 会忽略 CNAME 文件，域名在 Settings → Pages 里配置。
 #
 User-agent: *
 Allow: /
@@ -48,5 +45,5 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/sitemap.xml
-Sitemap: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/sitemap.txt
+Sitemap: https://termite-extant-isoptera.org/sitemap.xml
+Sitemap: https://termite-extant-isoptera.org/sitemap.txt

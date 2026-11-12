@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/hypotermes-xenotermitis/
 title: "Hypotermes xenotermitis Wasmann, 1896 氙地白蚁"
 latin: "Hypotermes xenotermitis"
 zh: "氙地白蚁"
@@ -26,55 +29,36 @@ synonym_localities: "India: Assam: North-East Frontier Agency, Khasi Hills, on b
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **氙地白蚁**（*Hypotermes xenotermitis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Palon (Pegù)。分布记录包括印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国。本站记录本种有 1 个次异名。
 
-EN — **氙地白蚁** (*Hypotermes xenotermitis*) is a species of the genus *Hypotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Wasmann in 1896; the type locality is Myanmar: Palon (Pegù). Distribution: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. This site records 1 junior synonym for the species.
-
-ES — **氙地白蚁** (*Hypotermes xenotermitis*) es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Palon (Pegù). Distribución: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Hypotermes*：属名由希腊文 hypo-（下、稍）与拉丁文 termes（白蚁）组合。
 
-EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
-
-ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
-
 种加词 *xenotermitis*：希腊文 xenos（异、陌生）+ termes（白蚁），异白蚁
-
-EN — epithet *xenotermitis*: Greek xenos (strange) + termes (termite), alien termite
-
-ES — epithet *xenotermitis*: Del griego xenos (extraño) + termes (termita), termita ajena
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[地白蚁属 *Hypotermes*]({{ site.base_url }}/genus/hypotermes/) —— 共 13 种（13 species · 13 especies）
-- **本属模式种 Type species / Especie tipo**：*Hypotermes obscuriceps*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[地白蚁属 *Hypotermes*]({{ site.base_url }}/genus/hypotermes/) —— 共 13 种
+- **本属模式种**：*Hypotermes obscuriceps*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国
-- **英文记录 English record / Registro en inglés**：India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand
+- **分布记录**：印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hypotermes nongpriangi* Roonwal & Sen-Sarma, 1956: 21-26 —— 模式产地：India: Assam: North-East Frontier Agency, Khasi Hills, on bank of River Nong-priang
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Hypotermes nongpriangi* 出现，本站统一归入 *Hypotermes xenotermitis*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Hypotermes nongpriangi*; this site treats it under *Hypotermes xenotermitis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Hypotermes nongpriangi*; este sitio lo reúne bajo *Hypotermes xenotermitis*.
 <!-- AUTO:END -->

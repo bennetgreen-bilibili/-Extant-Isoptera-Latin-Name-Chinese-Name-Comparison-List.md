@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/eurytermes-ceylonicus/
 title: "Eurytermes ceylonicus Holmgren, 1913 锡兰宽白蚁"
 latin: "Eurytermes ceylonicus"
 zh: "锡兰宽白蚁"
@@ -26,55 +29,36 @@ synonym_localities: "Sri Lanka: Badulla"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **锡兰宽白蚁**（*Eurytermes ceylonicus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Sri Lanka: ?。分布记录包括斯里兰卡。本站记录本种有 1 个次异名。
 
-EN — **锡兰宽白蚁** (*Eurytermes ceylonicus*) is a species of the genus *Eurytermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Holmgren in 1913; the type locality is Sri Lanka: ?. Distribution: Sri Lanka. This site records 1 junior synonym for the species.
-
-ES — **锡兰宽白蚁** (*Eurytermes ceylonicus*) es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Sri Lanka: ?. Distribución: Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
 
-EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
-
-ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
-
 种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
-
-EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
-
-ES — epithet *ceylonicus*: Por Ceilán (Sri Lanka)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[宽白蚁属 *Eurytermes*]({{ site.base_url }}/genus/eurytermes/) —— 共 6 种（6 species · 6 especies）
-- **本属模式种 Type species / Especie tipo**：*Eurytermes assmuthi*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[宽白蚁属 *Eurytermes*]({{ site.base_url }}/genus/eurytermes/) —— 共 6 种
+- **本属模式种**：*Eurytermes assmuthi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：斯里兰卡
-- **英文记录 English record / Registro en inglés**：Sri Lanka
+- **分布记录**：斯里兰卡
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes ceyloniellus* Kemner, 1926: 389 —— 模式产地：Sri Lanka: Badulla
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes ceyloniellus* 出现，本站统一归入 *Eurytermes ceylonicus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Eutermes ceyloniellus*; this site treats it under *Eurytermes ceylonicus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Eutermes ceyloniellus*; este sitio lo reúne bajo *Eurytermes ceylonicus*.
 <!-- AUTO:END -->

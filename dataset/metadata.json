@@ -70,7 +70,7 @@
  "relatedIdentifiers": [
   {
    "relationType": "IsDocumentedBy",
-   "relatedIdentifier": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+   "relatedIdentifier": "https://termite-extant-isoptera.org/",
    "relatedIdentifierType": "URL",
    "description": "项目网站：名录检索页、统计页、物种页与在线 JSON 数据"
   },
@@ -81,7 +81,7 @@
    "description": "生成本数据集的源代码仓库（构建脚本、更新历史）"
   }
  ],
- "siteUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+ "siteUrl": "https://termite-extant-isoptera.org/",
  "repository": "https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md",
  "expectedCounts": {
   "clades": 6,

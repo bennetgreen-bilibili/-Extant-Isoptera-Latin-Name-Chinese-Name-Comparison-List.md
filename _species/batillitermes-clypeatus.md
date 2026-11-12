@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/batillitermes-clypeatus/
 title: "Batillitermes clypeatus Sands, 1995 大唇铲白蚁"
 latin: "Batillitermes clypeatus"
 zh: "大唇铲白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **大唇铲白蚁**（*Batillitermes clypeatus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）铲白蚁属（*Batillitermes*）的一种。本种由 Sands 于 1995 年描述，模式产地为 Nigeria: 40 miles from Abjua on Bida road。分布记录包括非洲南部、南非、尼日利亚。
 
-EN — **大唇铲白蚁** (*Batillitermes clypeatus*) is a species of the genus *Batillitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Sands in 1995; the type locality is Nigeria: 40 miles from Abjua on Bida road. Distribution: southern Africa, South Africa, Nigeria.
-
-ES — **大唇铲白蚁** (*Batillitermes clypeatus*) es una especie del género *Batillitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Nigeria: 40 miles from Abjua on Bida road. Distribución: southern Africa, South Africa, Nigeria.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Batillitermes*：属名由拉丁文 batillum（铲、勺）与 termes（白蚁）组合。
 
-EN — *Batillitermes*: From Latin batillum (shovel) + termes.
-
-ES — *Batillitermes*: Del latín batillum (pala) + termes.
-
 种加词 *clypeatus*：拉丁文 clypeatus（具盾的）
-
-EN — epithet *clypeatus*: Latin clypeatus (shielded)
-
-ES — epithet *clypeatus*: Del latín clypeatus (con escudo)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
-- **属 Genus / Género**：[铲白蚁属 *Batillitermes*]({{ site.base_url }}/genus/batillitermes/) —— 共 2 种（2 species · 2 especies）
-- **本属模式种 Type species / Especie tipo**：*Batillitermes monachus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
+- **属**：[铲白蚁属 *Batillitermes*]({{ site.base_url }}/genus/batillitermes/) —— 共 2 种
+- **本属模式种**：*Batillitermes monachus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部、南非、尼日利亚
-- **英文记录 English record / Registro en inglés**：southern Africa, South Africa, Nigeria
+- **分布记录**：非洲南部、南非、尼日利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

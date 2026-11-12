@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/anoplotermes-distans/
 title: "Anoplotermes distans Snyder, 1926 遥远解甲白蚁"
 latin: "Anoplotermes distans"
 zh: "遥远解甲白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **遥远解甲白蚁**（*Anoplotermes distans*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]。分布记录包括圭亚那地盾、亚马孙地区。
 
-EN — **遥远解甲白蚁** (*Anoplotermes distans*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]. Distribution: Guiana Shield, Amazon region.
-
-ES — **遥远解甲白蚁** (*Anoplotermes distans*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]. Distribución: Guiana Shield, Amazon region.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
 
-EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
-
-ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
-
 种加词 *distans*：拉丁文 distans（远离的）
-
-EN — epithet *distans*: Latin distans (distant)
-
-ES — epithet *distans*: Del latín distans (distante)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种（23 species · 23 especies）
-- **本属模式种 Type species / Especie tipo**：*Anoplotermes pacificus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种
+- **本属模式种**：*Anoplotermes pacificus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：圭亚那地盾、亚马孙地区
-- **英文记录 English record / Registro en inglés**：Guiana Shield, Amazon region
+- **分布记录**：圭亚那地盾、亚马孙地区
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

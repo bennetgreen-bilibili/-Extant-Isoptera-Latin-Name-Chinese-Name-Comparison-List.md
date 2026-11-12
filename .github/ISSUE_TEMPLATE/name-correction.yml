@@ -75,7 +75,7 @@ body:
     attributes:
       label: 页面 URL
       description: 出问题的物种页或名录页地址；可从物种页底部的「报告错误」链接拿到
-      placeholder: "https://bennetgreen-bilibili.github.io/…/species/…/"
+      placeholder: "https://termite-extant-isoptera.org/…/species/…/"
 
   - type: textarea
     id: notes

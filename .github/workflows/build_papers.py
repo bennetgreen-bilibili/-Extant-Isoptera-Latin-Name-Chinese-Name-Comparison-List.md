@@ -48,7 +48,7 @@ DATA_OUT = ROOT / "_data" / "papers.json"
 PUBLIC_OUT = ROOT / "papers-index.json"
 CACHE_PATH = ROOT / "_tmp" / "papers-cache.json"
 
-PROJECT_URL = "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/"
+PROJECT_URL = "https://termite-extant-isoptera.org/"
 MAILTO = (
     os.environ.get("OPENALEX_MAILTO")
     or os.environ.get("CROSSREF_MAILTO")

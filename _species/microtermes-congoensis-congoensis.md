@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/microtermes-congoensis-congoensis/
 title: "Microtermes congoensis congoensis Sjöstedt, 1911 指名亚种"
 latin: "Microtermes congoensis congoensis"
 zh: "指名亚种"
@@ -25,45 +28,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **指名亚种**（*Microtermes congoensis congoensis*）是刚果小白蚁（*Microtermes congoensis*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）。本亚种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。本页暂无单列的分布记录，母种 *Microtermes congoensis* 的分布见下文「分布」一节。
 
-EN — **指名亚种** (*Microtermes congoensis congoensis*) is a subspecies of *Microtermes congoensis*, in the family TERMITIDAE (subfamily Macrotermitinae), genus *Microtermes*. The subspecies was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Mukimbungu. No separate distribution record is listed on this page; see the parent species *Microtermes congoensis*.
-
-ES — **指名亚种** (*Microtermes congoensis congoensis*) es una subespecie de *Microtermes congoensis*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Microtermes*. La subespecie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. No se incluye un registro de distribución separado en esta página; véase la especie parental *Microtermes congoensis*.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Microtermes*：属名由希腊文 mikros（小）与拉丁文 termes（白蚁）组合，意为「小白蚁」。
 
-EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
-
-ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
-
 种加词 *congoensis*：地名：刚果
-
-EN — epithet *congoensis*: After Congo
-
-ES — epithet *congoensis*: Por el Congo
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种（69 species · 69 especies）
-- **种 Species / Especie**：[刚果小白蚁 *Microtermes congoensis*]({{ site.base_url }}/species/microtermes-congoensis/)
-- **亚种 Subspecies / Subespecie**：本页（*Microtermes congoensis congoensis*）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种
+- **种**：[刚果小白蚁 *Microtermes congoensis*]({{ site.base_url }}/species/microtermes-congoensis/)
+- **亚种**：本页（*Microtermes congoensis congoensis*）
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
 本亚种暂未单列分布记录；母种 *Microtermes congoensis* 的分布为：中非、尼日利亚、喀麦隆、刚果民主共和国、安哥拉。
-
-<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Microtermes congoensis</i> is given in the English record of the parent species below.</p>
-
-<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Microtermes congoensis</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
-
-母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Central Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Angola。
 <!-- AUTO:END -->

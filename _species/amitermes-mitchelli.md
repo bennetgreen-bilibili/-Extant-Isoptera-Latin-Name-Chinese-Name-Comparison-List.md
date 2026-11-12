@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/amitermes-mitchelli/
 title: "Amitermes mitchelli Sands, 1992 米切尔弓白蚁"
 latin: "Amitermes mitchelli"
 zh: "米切尔弓白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **米切尔弓白蚁**（*Amitermes mitchelli*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Sands 于 1992 年描述，模式产地为 Zimbabwe: Chiredzi: Nyazugwi。分布记录包括津巴布韦。
 
-EN — **米切尔弓白蚁** (*Amitermes mitchelli*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Sands in 1992; the type locality is Zimbabwe: Chiredzi: Nyazugwi. Distribution: Zimbabwe.
-
-ES — **米切尔弓白蚁** (*Amitermes mitchelli*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Sands en 1992; la localidad tipo es Zimbabwe: Chiredzi: Nyazugwi. Distribución: Zimbabwe.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *mitchelli*：以人名 Mitchell（米切尔）命名
-
-EN — epithet *mitchelli*: Named after Mitchell
-
-ES — epithet *mitchelli*: En honor de Mitchell
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
-- **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种（113 species · 113 especies）
-- **本属模式种 Type species / Especie tipo**：*Amitermes amifer*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
+- **属**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种
+- **本属模式种**：*Amitermes amifer*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：津巴布韦
-- **英文记录 English record / Registro en inglés**：Zimbabwe
+- **分布记录**：津巴布韦
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

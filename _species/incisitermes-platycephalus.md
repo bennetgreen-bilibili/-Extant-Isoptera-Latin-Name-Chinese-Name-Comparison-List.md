@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/incisitermes-platycephalus/
 title: "Incisitermes platycephalus Light, 1933 宽头楹白蚁"
 latin: "Incisitermes platycephalus"
 zh: "宽头楹白蚁"
@@ -23,54 +26,35 @@ synonym_localities: "Guatemala: ?"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **宽头楹白蚁**（*Incisitermes platycephalus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Madrid, near Colima。分布记录包括墨西哥、危地马拉、洪都拉斯、尼加拉瓜。本站记录本种有 1 个次异名。
 
-EN — **宽头楹白蚁** (*Incisitermes platycephalus*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Light in 1933; the type locality is Mexico: Colima State: Madrid, near Colima. Distribution: Mexico, Guatemala, Honduras, Nicaragua. This site records 1 junior synonym for the species.
-
-ES — **宽头楹白蚁** (*Incisitermes platycephalus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Madrid, near Colima. Distribución: Mexico, Guatemala, Honduras, Nicaragua. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
 
-EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
-
-ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
-
 种加词 *platycephalus*：拉丁文/希腊文词根「plat」（宽扁）
-
-EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
-
-ES — epithet *platycephalus*: Del término descriptivo «plat» (ancho)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种（30 species · 30 especies）
-- **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
+- **本属模式种**：*Incisitermes schwarzi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：墨西哥、危地马拉、洪都拉斯、尼加拉瓜
-- **英文记录 English record / Registro en inglés**：Mexico, Guatemala, Honduras, Nicaragua
+- **分布记录**：墨西哥、危地马拉、洪都拉斯、尼加拉瓜
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes nigritus* Snyder, 1946: 158-159 —— 模式产地：Guatemala: ?
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes nigritus* 出现，本站统一归入 *Incisitermes platycephalus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Kalotermes nigritus*; this site treats it under *Incisitermes platycephalus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Kalotermes nigritus*; este sitio lo reúne bajo *Incisitermes platycephalus*.
 <!-- AUTO:END -->

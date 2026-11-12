@@ -8,7 +8,7 @@
     · 只读一次数据：assign refs = site.data.references.references
     · 无 JavaScript 也完整可用：GB/T 引用、DOI/Crossref 链接、APA/Vancouver/BibTeX/RIS（<details>）都是静态 HTML
     · 复制按钮由 assets/references.js 增强；「导出 CSL-JSON」默认 hidden，只有 JS 运行时才显示
-    · 文案：动作按钮随 page.lang；状态徽章按站点惯例中/英/西三语并排（.fact-en / .fact-es）
+    · 文案：动作按钮与状态徽章都按 page.lang 单语输出（zh / en / es），不再三语并排
 {%- endcomment -%}
 {%- assign refs = site.data.references.references -%}
 {%- assign refmeta = site.data.references.meta -%}
@@ -31,6 +31,11 @@
   {%- assign L_EXPORT = 'Export CSL-JSON' -%}
   {%- assign L_DOWNLOAD = 'Download references.json' -%}
   {%- assign L_EMPTY = 'Reference data is not available yet: run .github/workflows/build_references.py --write.' -%}
+  {%- assign L_BADGE_ORIGINAL = 'DOI from the source' -%}
+  {%- assign L_BADGE_AUTO = 'auto-matched, not yet verified' -%}
+  {%- assign L_BADGE_NODOI = 'no DOI in the source' -%}
+  {%- assign L_BADGE_CROSSREF_ERR = 'no Crossref record' -%}
+  {%- assign L_BADGE_BHL = 'BHL record' -%}
 {%- elsif page.lang == 'es' -%}
   {%- assign L_STAT_TOTAL = 'referencias en total' -%}
   {%- assign L_STAT_DOI = 'con DOI' -%}
@@ -49,6 +54,11 @@
   {%- assign L_EXPORT = 'Exportar CSL-JSON' -%}
   {%- assign L_DOWNLOAD = 'Descargar references.json' -%}
   {%- assign L_EMPTY = 'Los datos de referencias aún no están disponibles: ejecute .github/workflows/build_references.py --write.' -%}
+  {%- assign L_BADGE_ORIGINAL = 'DOI del original' -%}
+  {%- assign L_BADGE_AUTO = 'coincidencia automática sin verificar' -%}
+  {%- assign L_BADGE_NODOI = 'sin DOI en el original' -%}
+  {%- assign L_BADGE_CROSSREF_ERR = 'sin registro en Crossref' -%}
+  {%- assign L_BADGE_BHL = 'registro en BHL' -%}
 {%- else -%}
   {%- assign L_STAT_TOTAL = '条参考文献' -%}
   {%- assign L_STAT_DOI = '条带 DOI' -%}
@@ -67,6 +77,11 @@
   {%- assign L_EXPORT = '导出 CSL-JSON' -%}
   {%- assign L_DOWNLOAD = '下载 references.json' -%}
   {%- assign L_EMPTY = '参考文献数据尚未生成：请运行 .github/workflows/build_references.py --write。' -%}
+  {%- assign L_BADGE_ORIGINAL = '原文 DOI' -%}
+  {%- assign L_BADGE_AUTO = '自动匹配待核对' -%}
+  {%- assign L_BADGE_NODOI = '原文无 DOI' -%}
+  {%- assign L_BADGE_CROSSREF_ERR = 'Crossref 未返回记录' -%}
+  {%- assign L_BADGE_BHL = 'BHL 原始描述' -%}
 {%- endif -%}
 
 {%- if refs -%}
@@ -87,17 +102,17 @@
 <li class="refs-item" id="ref-{{ ref.id }}">
 <div class="refs-head"><span class="refs-num">{{ ref.id }}</span>
 {%- if ref.doi_status == 'original' %}
-<span class="refs-badge refs-badge-ok">原文 DOI <span class="fact-en" lang="en">DOI from the source</span> <span class="fact-es" lang="es">DOI del original</span></span>
+<span class="refs-badge refs-badge-ok">{{ L_BADGE_ORIGINAL }}</span>
 {%- elsif ref.doi_status == 'matched_candidate' %}
-<span class="refs-badge refs-badge-warn">自动匹配待核对 <span class="fact-en" lang="en">auto-matched, not yet verified</span> <span class="fact-es" lang="es">coincidencia automática sin verificar</span></span>
+<span class="refs-badge refs-badge-warn">{{ L_BADGE_AUTO }}</span>
 {%- else %}
-<span class="refs-badge">原文无 DOI <span class="fact-en" lang="en">no DOI in the source</span> <span class="fact-es" lang="es">sin DOI en el original</span></span>
+<span class="refs-badge">{{ L_BADGE_NODOI }}</span>
 {%- endif %}
 {%- if ref.crossref_error and ref.crossref_error != '' %}
-<span class="refs-badge refs-badge-warn">Crossref 未返回记录 <span class="fact-en" lang="en">no Crossref record</span></span>
+<span class="refs-badge refs-badge-warn">{{ L_BADGE_CROSSREF_ERR }}</span>
 {%- endif %}
 {%- if ref.bhl %}
-<span class="refs-badge refs-badge-ok">BHL 原始描述 <span class="fact-en" lang="en">BHL record</span></span>
+<span class="refs-badge refs-badge-ok">{{ L_BADGE_BHL }}</span>
 {%- endif %}
 </div>
 <p class="refs-cite" id="ref-{{ ref.id }}-gbt">{{ ref.formatted.gbt | escape }}</p>
@@ -113,7 +128,7 @@
 <button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-ris" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">RIS</button>
 </div>
 <details class="refs-more">
-<summary>{{ L_MORE }} <span class="fact-en" lang="en">Other formats and copies</span> <span class="fact-es" lang="es">Otros formatos y copias</span></summary>
+<summary>{{ L_MORE }}</summary>
 <div class="refs-block">
 <div class="refs-block-head"><h4>APA 7</h4><button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-apa" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">{{ L_GBT | replace: 'GB/T', 'APA' }}</button></div>
 <pre class="refs-pre" id="ref-{{ ref.id }}-apa">{{ ref.formatted.apa | escape }}</pre>

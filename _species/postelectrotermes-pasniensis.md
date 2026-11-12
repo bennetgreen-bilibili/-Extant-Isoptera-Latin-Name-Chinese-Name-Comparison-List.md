@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/postelectrotermes-pasniensis/
 title: "Postelectrotermes pasniensis Akhtar, 1974 伯斯尼后琥珀白蚁"
 latin: "Postelectrotermes pasniensis"
 zh: "伯斯尼后琥珀白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **伯斯尼后琥珀白蚁**（*Postelectrotermes pasniensis*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Akhtar 于 1974 年描述，模式产地为 Pakistan: Baluchistan: Pasni。分布记录包括南亚、巴基斯坦、伊朗。
 
-EN — **伯斯尼后琥珀白蚁** (*Postelectrotermes pasniensis*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Akhtar in 1974; the type locality is Pakistan: Baluchistan: Pasni. Distribution: South Asia, Pakistan, Iran.
-
-ES — **伯斯尼后琥珀白蚁** (*Postelectrotermes pasniensis*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Baluchistan: Pasni. Distribución: South Asia, Pakistan, Iran.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Postelectrotermes*：属名由拉丁文 post（后）+ 希腊文 ēlektron（琥珀）与 termes（白蚁）组合（可能与琥珀化石相关）。
 
-EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
-
-ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
-
 种加词 *pasniensis*：以巴基斯坦俾路支省伯斯尼（Pasni）命名
-
-EN — epithet *pasniensis*: Named after Pasni, Balochistan, Pakistan
-
-ES — epithet *pasniensis*: Por Pasni, Baluchistán, Pakistán
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/genus/postelectrotermes/) —— 共 15 种（15 species · 15 especies）
-- **本属模式种 Type species / Especie tipo**：*Postelectrotermes praecox*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/genus/postelectrotermes/) —— 共 15 种
+- **本属模式种**：*Postelectrotermes praecox*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南亚、巴基斯坦、伊朗
-- **英文记录 English record / Registro en inglés**：South Asia, Pakistan, Iran
+- **分布记录**：南亚、巴基斯坦、伊朗
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

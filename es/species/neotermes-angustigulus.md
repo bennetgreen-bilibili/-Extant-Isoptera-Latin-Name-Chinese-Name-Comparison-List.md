@@ -1,0 +1,52 @@
+---
+layout: species
+title: "Neotermes angustigulus Han, 1984 细颏新白蚁"
+lang: es
+permalink: /es/species/neotermes-angustigulus/
+species_page: true
+single_lang: true
+slug: "neotermes-angustigulus"
+latin: "Neotermes angustigulus"
+zh: "细颏新白蚁"
+type: false
+rank: "species"
+genus_zh: "新白蚁属"
+genus_latin: "Neotermes"
+genus_id: "neotermes"
+family_zh: "木白蚁科"
+family_latin: "KALOTERMITIDAE"
+family_id: "kalotermitidae"
+clade_zh: "近等翅类"
+clade_latin: "Icoisoptera"
+author_year: "Han, 1984"
+type_locality: "China: Yunnan Province: Mangshi"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Resumen
+
+***Neotermes angustigulus*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Han en 1984; la localidad tipo es China: Yunnan Province: Mangshi. Distribución según la fuente: China, Yunnan.
+
+## Etimología
+
+Nombre del género *Neotermes*: Del griego neos (nuevo) + latín termes.
+
+Epíteto específico *angustigulus*: De angustig (estrecho) + ulus (pequeño (diminutivo))
+
+<!-- src:S0018 -->
+
+## Posición taxonómica
+
+- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
+- **Especie tipo del género**: *Neotermes castaneus*
+
+## Distribución
+
+- **Registros de distribución (según la fuente)**: China, Yunnan
+
+El registro anterior sigue la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.
+<!-- AUTO:END -->

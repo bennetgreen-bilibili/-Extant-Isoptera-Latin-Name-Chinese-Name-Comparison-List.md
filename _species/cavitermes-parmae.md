@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cavitermes-parmae/
 title: "Cavitermes parmae Mathews, 1977 帕尔马腔白蚁"
 latin: "Cavitermes parmae"
 zh: "帕尔马腔白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **帕尔马腔白蚁**（*Cavitermes parmae*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）腔白蚁属（*Cavitermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Nova Xavantina \[14.6733S 52.3531W\]。分布记录包括巴西、厄瓜多尔。
 
-EN — **帕尔马腔白蚁** (*Cavitermes parmae*) is a species of the genus *Cavitermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Nova Xavantina \[14.6733S 52.3531W\]. Distribution: Brazil, Ecuador.
-
-ES — **帕尔马腔白蚁** (*Cavitermes parmae*) es una especie del género *Cavitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Nova Xavantina \[14.6733S 52.3531W\]. Distribución: Brazil, Ecuador.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cavitermes*：属名由拉丁文 cavus（空的、洞）与 termes（白蚁）组合。
 
-EN — *Cavitermes*: From Latin cavus (hollow) + termes.
-
-ES — *Cavitermes*: Del latín cavus (hueco) + termes.
-
 种加词 *parmae*：拉丁文 parma（小圆盾）
-
-EN — epithet *parmae*: From Latin parma (small round shield)
-
-ES — epithet *parmae*: Del latín parma (escudo redondo pequeño)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
-- **属 Genus / Género**：[腔白蚁属 *Cavitermes*]({{ site.base_url }}/genus/cavitermes/) —— 共 5 种（5 species · 5 especies）
-- **本属模式种 Type species / Especie tipo**：*Cavitermes tuberosus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
+- **属**：[腔白蚁属 *Cavitermes*]({{ site.base_url }}/genus/cavitermes/) —— 共 5 种
+- **本属模式种**：*Cavitermes tuberosus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、厄瓜多尔
-- **英文记录 English record / Registro en inglés**：Brazil, Ecuador
+- **分布记录**：巴西、厄瓜多尔
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

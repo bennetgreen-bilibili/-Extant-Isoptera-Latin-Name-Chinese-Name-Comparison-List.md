@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/prorhinotermes-flavus/
 title: "Prorhinotermes flavus Bugnion & Popoff, 1910 黄色原鼻白蚁"
 latin: "Prorhinotermes flavus"
 zh: "黄色原鼻白蚁"
@@ -23,50 +26,33 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本站记录本种有 9 个次异名。
 
-EN — **黄色原鼻白蚁** (*Prorhinotermes flavus*) is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE. The species was described by Bugnion & Popoff in 1910; the type locality is Sri Lanka: Ambalangoda. Distribution: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. This site records 9 junior synonyms for the species.
-
-ES — **黄色原鼻白蚁** (*Prorhinotermes flavus*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Bugnion & Popoff en 1910; la localidad tipo es Sri Lanka: Ambalangoda. Distribución: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. Este sitio registra 9 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
-EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
-
-ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
-
 种加词 *flavus*：拉丁文 flavus（黄）
-
-EN — epithet *flavus*: Latin flavus (yellow)
-
-ES — epithet *flavus*: Del latín flavus (amarillo)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
-- **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种（12 species · 12 especies）
-- **本属模式种 Type species / Especie tipo**：*Prorhinotermes inopinatus*
+- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **属**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种
+- **本属模式种**：*Prorhinotermes inopinatus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾
-- **英文记录 English record / Registro en inglés**：Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan
+- **分布记录**：东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 9 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 9 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 9 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 9 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Arrhinotermes japonicus* Holmgren, 1912: 122-124 —— 模式产地：Taiwan: Botel Tobago
 2. *Arrhinotermes krakataui* Holmgren, 1913: 69-71 —— 模式产地：Indonesia: Krakatau
@@ -79,6 +65,4 @@ ES — epithet *flavus*: Del latín flavus (amarillo)
 9. *Prorhinotermes panaitanensis* Thakur & Thakur, 1992: 251-257 —— 模式产地：India: Andaman Islands: Long Island
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Arrhinotermes japonicus*、*Arrhinotermes krakataui*、*Termitogetonella tibiaoensis*、*Prorhinotermes luzonensis*、*Prorhinotermes gracilis*、*Prorhinotermes shiva*、*Prorhinotermes tibiaoensiformis*、*Prorhinotermes ravani* 等）出现，本站统一归入 *Prorhinotermes flavus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Arrhinotermes japonicus*、*Arrhinotermes krakataui*、*Termitogetonella tibiaoensis*、*Prorhinotermes luzonensis*、*Prorhinotermes gracilis*、*Prorhinotermes shiva*、*Prorhinotermes tibiaoensiformis*、*Prorhinotermes ravani*); this site treats them all under *Prorhinotermes flavus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Arrhinotermes japonicus*、*Arrhinotermes krakataui*、*Termitogetonella tibiaoensis*、*Prorhinotermes luzonensis*、*Prorhinotermes gracilis*、*Prorhinotermes shiva*、*Prorhinotermes tibiaoensiformis*、*Prorhinotermes ravani*); este sitio los reúne todos bajo *Prorhinotermes flavus*.
 <!-- AUTO:END -->

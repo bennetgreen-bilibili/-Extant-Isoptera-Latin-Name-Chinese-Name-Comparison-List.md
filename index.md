@@ -16,14 +16,14 @@ permalink: /
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
- "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
+ "@id": "https://termite-extant-isoptera.org/#dataset",
 {% if site.dataset.doi %} "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": "{{ site.dataset.doi }}" },
  "sameAs": "https://doi.org/{{ site.dataset.doi }}",
 {% endif %}
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "description": "现存等翅下目（白蚁）现生类群对照名录：13 科、326 属、3021 种、68 亚种。数据按支系/科/亚科拆分，入口 data/index.json 含完整分类树。",
- "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+ "url": "https://termite-extant-isoptera.org/",
  "creator": {
   "@type": "Person",
   "name": "班奈特格林"
@@ -38,139 +38,139 @@ permalink: /
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "分类树与文件清单 index.json",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/index.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "澳白蚁科 Mastotermitidae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/mastotermitidae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/mastotermitidae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "远等翅类 Teletisoptera",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/teletisoptera.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/teletisoptera.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "木白蚁科 Kalotermitidae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/kalotermitidae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/kalotermitidae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "新等翅类（除白蚁科）Neoisoptera excl. Termitidae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/neoisoptera-excl-termitidae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "弓白蚁亚科 Amitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/amitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/amitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "尖白蚁亚科 Apicotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/apicotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/apicotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "响白蚁亚科 Crepititermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/crepititermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/crepititermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "方白蚁亚科 Cubitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/cubitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/cubitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "圆筒白蚁亚科 Cylindrotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/cylindrotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/cylindrotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "恩格尔白蚁亚科 Engelitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/engelitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/engelitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "孔白蚁亚科 Foraminitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/foraminitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/foraminitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "剪白蚁亚科 Forficulitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/forficulitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/forficulitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "大白蚁亚科 Macrotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/macrotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/macrotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "锯白蚁亚科 Microcerotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/microcerotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/microcerotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "瘤白蚁亚科 Mirocapritermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/mirocapritermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/mirocapritermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "象白蚁亚科 Nasutitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/nasutitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/nasutitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "新扭白蚁亚科 Neocapritermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/neocapritermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/neocapritermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "前奇白蚁亚科 Promirotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/promirotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/promirotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "始钩白蚁亚科 Protohamitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/protohamitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/protohamitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "圆球白蚁亚科 Sphaerotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/sphaerotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/sphaerotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "聚白蚁亚科 Syntermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/syntermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/syntermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "白蚁亚科 Termitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/termitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/termitinae.json"
   }
  ],
  "citation": [
@@ -192,20 +192,20 @@ permalink: /
 **作者**：班奈特格林（bilibili）　**版本**：2026.10.30 正式版　**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0；插图版权归各摄影师，按各图署名与许可使用）。
 
 **建议引用格式**（APA）：
-{% if site.dataset.doi %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. https://doi.org/{{ site.dataset.doi }}{% else %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/{% endif %}
+{% if site.dataset.doi %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. https://doi.org/{{ site.dataset.doi }}{% else %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://termite-extant-isoptera.org/{% endif %}
 
 {% if site.dataset.doi %}<p class="doi-line"><strong>数据集 DOI</strong>：<a href="https://doi.org/{{ site.dataset.doi }}">{{ site.dataset.doi }}</a>（版本 DOI）{% if site.dataset.concept_doi %} · <a href="https://doi.org/{{ site.dataset.concept_doi }}">{{ site.dataset.concept_doi }}</a>（概念 DOI，始终指向最新版）{% endif %} · <a href="{{ site.base_url }}/data/">数据与字段说明</a></p>{% endif %}
 
 ## 页面导航
 
 <ul>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/"><strong>名录</strong></a> — 全部类群对照名录（支系—科—亚科—属—种），每个科/属标题下方内嵌 GBIF 分布图。</li></li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search/"><strong>全文搜索</strong></a> — 全站检索：名录、3089 个物种页、统计、数据与博客（支持繁体与拼音）。</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/"><strong>统计</strong></a> — 各阶元（科/亚科/属/种）物种数统计表。</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/"><strong>数据</strong></a> — 机器可读结构化数据（JSON，按类群拆分，逐文件可访问）。</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blog/"><strong>博客</strong></a> — 文章与更新说明（Word 文档自动转网页，随 _posts 文件夹自动更新）。</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
+  <li><a href="https://termite-extant-isoptera.org/list/"><strong>名录</strong></a> — 全部类群对照名录（支系—科—亚科—属—种），每个科/属标题下方内嵌 GBIF 分布图。</li></li>
+  <li><a href="https://termite-extant-isoptera.org/search/"><strong>全文搜索</strong></a> — 全站检索：名录、3089 个物种页、统计、数据与博客（支持繁体与拼音）。</li>
+  <li><a href="https://termite-extant-isoptera.org/stats/"><strong>统计</strong></a> — 各阶元（科/亚科/属/种）物种数统计表。</li>
+  <li><a href="https://termite-extant-isoptera.org/data/"><strong>数据</strong></a> — 机器可读结构化数据（JSON，按类群拆分，逐文件可访问）。</li>
+  <li><a href="https://termite-extant-isoptera.org/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
+  <li><a href="https://termite-extant-isoptera.org/blog/"><strong>博客</strong></a> — 文章与更新说明（Word 文档自动转网页，随 _posts 文件夹自动更新）。</li>
+  <li><a href="https://termite-extant-isoptera.org/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
     <!-- 基础知识入口 2026-11-05 起暂缓发布（审稿中）：源码在 _pending_pages/basics/，恢复时按该目录 README 粘回本条。 -->
   <li><a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异</strong></a> — 本站名与 GBIF / Catalogue of Life / Blattodea Species File 的对照中需要人工核对的条目，可按类型、来源、关键词筛选。</li>
   <li><a href="{{ site.base_url }}/changelog/"><strong>版本记录</strong></a> — 每个版本（发布日期）的变更清单，可订阅 <a href="{{ site.base_url }}/changelog.atom">Atom</a>。</li>

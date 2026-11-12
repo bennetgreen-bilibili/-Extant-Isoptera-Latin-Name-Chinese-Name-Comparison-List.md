@@ -5,11 +5,12 @@
   背景：Bing 站长工具的 SEO 报告会把「描述过短」的页面逐条列出，并建议取 150–160 字；
   统计口径是字符数（Ruby String#length），中英文一致。取值顺序：
 
-    1) front matter 手写的 description —— 站点各栏目页（首页/名录/统计/数据/文献…）都手写，
+    1) front matter 手写的 description —— 站点各栏目页与三语分类页（生成器写入）都手写，
        便于逐页打磨措辞；
-    2) 物种页（_species/ 下 3089 条，front matter 没有 description）：用拉丁学名 + 命名人年份 +
-       科/亚科 + 分布 + 模式产地自动拼一段唯一描述，再接固定的品牌尾巴，最后统一截到 160 字。
-       这样 3089 个物种页既不会共用一段站点描述，也不需要维护 3089 份 front matter；
+    2) 物种页（_species/ 下 3089 条 + 68 亚种，三语各一份）：front matter 没有 description，
+       用拉丁学名 + 命名人年份 + 科/亚科 + 分布 + 模式产地自动拼一段唯一描述，再接该语言的
+       品牌尾巴，最后统一截到 160 字。en/es 页用 distribution_en（地名保留原文）与英/西句式，
+       中文页用 distribution_zh；
     3) 文章页：excerpt 去 HTML 后接站点后缀，供以后新增文章自动得到合格长度；
     4) 兜底：_config.yml 里按语言的 description_zh / description_en / description_es。
 
@@ -19,20 +20,52 @@
 {%- assign meta_desc = '' -%}
 {%- if page.description and page.description != '' -%}
   {%- assign meta_desc = page.description -%}
-{%- elsif page.collection == 'species' -%}
+{%- elsif page.collection == 'species' or page.species_page -%}
   {%- assign sci = page.latin | append: ' ' | append: page.author_year -%}
-  {%- assign meta_desc = page.zh | append: '（' | append: sci | append: '）：' | append: page.family_zh | append: '（' | append: page.family_latin | append: '）' -%}
-  {%- if page.subfamily_zh -%}
-    {%- assign meta_desc = meta_desc | append: page.subfamily_zh | append: '（' | append: page.subfamily_latin | append: '）' -%}
+  {%- if page.lang == 'en' -%}
+    {%- assign meta_desc = sci | append: ' (' | append: page.zh | append: '). Family ' | append: page.family_latin -%}
+    {%- if page.subfamily_latin -%}
+      {%- assign meta_desc = meta_desc | append: ', subfamily ' | append: page.subfamily_latin -%}
+    {%- endif -%}
+    {%- if page.distribution_en -%}
+      {%- assign dist = page.distribution_en | truncate: 60, '…' -%}
+      {%- assign meta_desc = meta_desc | append: '. Distribution: ' | append: dist -%}
+    {%- elsif page.parent_latin -%}
+      {%- assign meta_desc = meta_desc | append: '. Parent species ' | append: page.parent_latin | append: ' (' | append: page.parent_zh | append: ')' -%}
+    {%- endif -%}
+    {%- if page.type_locality -%}
+      {%- assign meta_desc = meta_desc | append: '. Type locality: ' | append: page.type_locality -%}
+    {%- endif -%}
+    {%- assign meta_desc = meta_desc | append: '. An annotated Latin–Chinese checklist of extant Isoptera (termites): classification, distribution maps, congeners, literature and GB/T 7714, BibTeX and RIS citations.' -%}
+  {%- elsif page.lang == 'es' -%}
+    {%- assign meta_desc = sci | append: ' (' | append: page.zh | append: '). Familia ' | append: page.family_latin -%}
+    {%- if page.subfamily_latin -%}
+      {%- assign meta_desc = meta_desc | append: ', subfamilia ' | append: page.subfamily_latin -%}
+    {%- endif -%}
+    {%- if page.distribution_en -%}
+      {%- assign dist = page.distribution_en | truncate: 60, '…' -%}
+      {%- assign meta_desc = meta_desc | append: '. Distribución: ' | append: dist -%}
+    {%- elsif page.parent_latin -%}
+      {%- assign meta_desc = meta_desc | append: '. Especie parental ' | append: page.parent_latin | append: ' (' | append: page.parent_zh | append: ')' -%}
+    {%- endif -%}
+    {%- if page.type_locality -%}
+      {%- assign meta_desc = meta_desc | append: '. Localidad tipo: ' | append: page.type_locality -%}
+    {%- endif -%}
+    {%- assign meta_desc = meta_desc | append: '. Lista comentada latín–chino de Isoptera (termitas) actuales: clasificación, mapas de distribución, congéneres, bibliografía y citas GB/T 7714, BibTeX y RIS.' -%}
+  {%- else -%}
+    {%- assign meta_desc = page.zh | append: '（' | append: sci | append: '）：' | append: page.family_zh | append: '（' | append: page.family_latin | append: '）' -%}
+    {%- if page.subfamily_zh -%}
+      {%- assign meta_desc = meta_desc | append: page.subfamily_zh | append: '（' | append: page.subfamily_latin | append: '）' -%}
+    {%- endif -%}
+    {%- if page.distribution_zh -%}
+      {%- assign dist = page.distribution_zh | truncate: 60, '…' -%}
+      {%- assign meta_desc = meta_desc | append: '。分布 ' | append: dist -%}
+    {%- elsif page.parent_zh -%}
+      {%- assign meta_desc = meta_desc | append: '。隶属 ' | append: page.parent_zh | append: '（' | append: page.parent_latin | append: '）' -%}
+    {%- endif -%}
+    {%- assign meta_desc = meta_desc | append: '，模式产地 ' | append: page.type_locality -%}
+    {%- assign meta_desc = meta_desc | append: '。本站收录的现存等翅下目（白蚁）拉丁学名—中文正名对照名录：分类位置、模式产地、分布地图、同属物种、参考文献与 GB/T 7714、BibTeX、RIS 引用格式。' -%}
   {%- endif -%}
-  {%- if page.distribution_zh -%}
-    {%- assign dist = page.distribution_zh | truncate: 60, '…' -%}
-    {%- assign meta_desc = meta_desc | append: '。分布 ' | append: dist -%}
-  {%- elsif page.parent_zh -%}
-    {%- assign meta_desc = meta_desc | append: '。隶属 ' | append: page.parent_zh | append: '（' | append: page.parent_latin | append: '）' -%}
-  {%- endif -%}
-  {%- assign meta_desc = meta_desc | append: '，模式产地 ' | append: page.type_locality -%}
-  {%- assign meta_desc = meta_desc | append: '。本站收录的现存等翅下目（白蚁）拉丁学名—中文正名对照名录：分类位置、模式产地、分布地图、同属物种、参考文献与 GB/T 7714、BibTeX、RIS 引用格式。' -%}
   {%- assign meta_desc = meta_desc | truncate: 160, '…' -%}
 {%- elsif page.collection == 'posts' and page.excerpt -%}
   {%- assign excerpt_txt = page.excerpt | strip_html | normalize_whitespace | strip -%}

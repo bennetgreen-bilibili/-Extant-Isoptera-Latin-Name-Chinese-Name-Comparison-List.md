@@ -3,11 +3,11 @@ layout: photos
 title: "Rhynchotermes armatus 武装喙白蚁 全部图片（3 张）"
 description: "武装喙白蚁（Rhynchotermes armatus）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 3 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
-permalink: /species/rhynchotermes-armatus/photos/
+permalink: "/species/rhynchotermes-armatus/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "rhynchotermes-armatus"

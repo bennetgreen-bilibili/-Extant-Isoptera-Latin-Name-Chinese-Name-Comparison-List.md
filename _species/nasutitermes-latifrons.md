@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/nasutitermes-latifrons/
 title: "Nasutitermes latifrons Sjöstedt, 1896 宽额象白蚁"
 latin: "Nasutitermes latifrons"
 zh: "宽额象白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Cameroon: Victoria; Democratic Republic of the Congo: Haut 
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **宽额象白蚁**（*Nasutitermes latifrons*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Ekundu。分布记录包括刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达。本站记录本种有 5 个次异名。
 
-EN — **宽额象白蚁** (*Nasutitermes latifrons*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1896; the type locality is Cameroon: Ekundu. Distribution: Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda. This site records 5 junior synonyms for the species.
-
-ES — **宽额象白蚁** (*Nasutitermes latifrons*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Ekundu. Distribución: Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda. Este sitio registra 5 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
 
-EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
-
-ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
-
 种加词 *latifrons*：拉丁文/希腊文 lati（宽）+ frons（额），指宽额
-
-EN — epithet *latifrons*: From lati (宽) + frons (额)
-
-ES — epithet *latifrons*: De lati (ancho) + frons (frente)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种（243 species · 243 especies）
-- **本属模式种 Type species / Especie tipo**：*Nasutitermes corniger*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
+- **本属模式种**：*Nasutitermes corniger*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达
-- **英文记录 English record / Registro en inglés**：Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda
+- **分布记录**：刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 5 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 5 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 5 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes pius* Sjöstedt, 1911: 16 —— 模式产地：Cameroon: Victoria
 2. *Eutermes (Eutermes) ueleensis* Sjöstedt, 1924: 494 —— 模式产地：Democratic Republic of the Congo: Haut Uélé: Moto
@@ -79,6 +65,4 @@ ES — epithet *latifrons*: De lati (ancho) + frons (frente)
 5. *Eutermes expulsus* Sjöstedt, 1926: 154-155 —— 模式产地：Democratic Republic of the Congo: Bas Uélé, Djamba
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes pius*、*Eutermes (Eutermes) ueleensis*、*Eutermes (Eutermes) incurvus*、*Eutermes indoensis*、*Eutermes expulsus* 等）出现，本站统一归入 *Nasutitermes latifrons*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes pius*、*Eutermes (Eutermes) ueleensis*、*Eutermes (Eutermes) incurvus*、*Eutermes indoensis*、*Eutermes expulsus*); this site treats them all under *Nasutitermes latifrons*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes pius*、*Eutermes (Eutermes) ueleensis*、*Eutermes (Eutermes) incurvus*、*Eutermes indoensis*、*Eutermes expulsus*); este sitio los reúne todos bajo *Nasutitermes latifrons*.
 <!-- AUTO:END -->

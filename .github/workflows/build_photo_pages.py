@@ -5,16 +5,21 @@
 The crawler (.github/workflows/build_species_photos.py) no longer stops at six
 photos per taxon: it keeps everything both sources return (PHOTO_SET_VERSION 2).
 Species pages still show only the first six (SPECIES_PAGE_PHOTOS), so every taxon
-with photos gets a page here that lists the complete set:
+with photos gets a page here that lists the complete set.  Each page exists in
+three languages (the site is split into zh-CN / en / es pages):
 
-    photos/species/<slug>.md      -> /species/<slug>/photos/      (all photos)
+    photos/species/<slug>.md      -> /species/<slug>/photos/
+    en/photos/species/<slug>.md   -> /en/species/<slug>/photos/
+    es/photos/species/<slug>.md   -> /es/species/<slug>/photos/
     photos/genus/<id>.md          -> /genus/<id>/photos/           (6 per species + links)
-    photos/subfamily/<id>.md      -> /subfamily/<id>/photos/
-    photos/family/<id>.md         -> /family/<id>/photos/
+    ... same for /subfamily/<id>/photos/ and /family/<id>/photos/
 
 Only taxa with at least one licensed photo get a file; the genus/subfamily/family
 pages group their photos by species and link to each species page for the rest, so
-a family page never tries to render several hundred <img> tags at once.
+a family page never tries to render several hundred <img> tags at once.  Every page
+is single-language: front matter `lang` is zh-CN / en / es and the breadcrumb names,
+title, description and back label are written in that language (Latin names for
+en/es, Chinese names only on the zh pages; `photo_zh` is kept for the species name).
 
 Inputs (all committed):
     _data/species_photos.json  latin -> [photo, ...]
@@ -47,6 +52,14 @@ PHOTO_TAXA_JSON = ROOT / "_data" / "photo_taxa.json"
 OUT_DIR = ROOT / "photos"
 LAST_MODIFIED = "2026-10-30"
 SITE_PHOTOS_LIMIT = 6
+
+# (lang value, URL prefix, output directory)
+LANGS = (
+    ("zh-CN", "", OUT_DIR),
+    ("en", "/en", ROOT / "en" / "photos"),
+    ("es", "/es", ROOT / "es" / "photos"),
+)
+LIST_NAME = {"zh-CN": "名录", "en": "List", "es": "Listado"}
 
 FM_RE = re.compile(r"^([A-Za-z_][A-Za-z0-9_]*)[ \t]*:[ \t]*(.*)$")
 
@@ -127,27 +140,32 @@ def crumb(name, url):
     return "  - name: %s\n    url: %s\n" % (js(name), js(url))
 
 
-def front_matter(title, description, permalink, family_id, extra, breadcrumb, image):
+def front_matter(lang, prefix, title, description, permalink, family_id, extra,
+                 breadcrumb, image):
     """extra: list of (key, raw_value) inserted after sitemap."""
-    lines = ["---", "layout: photos", "title: " + js(title), "description: " + js(description),
-             "lang: zh-CN", "lang_only: true", "author: 班奈特格林",
+    lines = ["---", "layout: photos", "title: " + js(title),
+             "description: " + js(description),
+             "lang: " + lang, "single_lang: true", "author: 班奈特格林",
              "family_id: " + family_id,
              "last_modified_at: " + LAST_MODIFIED,
-             "permalink: " + permalink, "sitemap: true"]
+             "permalink: " + js(prefix + permalink), "sitemap: true"]
     for key, value in extra:
         lines.append("%s: %s" % (key, value))
     if image:
         lines.append("image: " + js(image))
     lines.append("breadcrumb:")
-    return "\n".join(lines) + "\n" + "".join(crumb(name, url) for name, url in breadcrumb) + "---\n"
+    return "\n".join(lines) + "\n" + "".join(
+        crumb(name, prefix + url) for name, url in breadcrumb) + "---\n"
 
 
-def family_crumbs(fam):
-    return [("名录", "/list/"), ("%s %s" % (fam["zh"], fam["latin"]), "/family/%s/" % fam["id"])]
+def family_crumbs(lang, prefix, fam):
+    name = "%s %s" % (fam["zh"], fam["latin"]) if lang == "zh-CN" else fam["latin"]
+    return [(LIST_NAME[lang], "/list/"), (name, "/family/%s/" % fam["id"])]
 
 
-def subfamily_crumbs(fam, sub):
-    return family_crumbs(fam) + [("%s %s" % (sub["zh"], sub["latin"]), "/subfamily/%s/" % sub["id"])]
+def subfamily_crumbs(lang, prefix, fam, sub):
+    name = "%s %s" % (sub["zh"], sub["latin"]) if lang == "zh-CN" else sub["latin"]
+    return family_crumbs(lang, prefix, fam) + [(name, "/subfamily/%s/" % sub["id"])]
 
 
 def build_pages():
@@ -158,6 +176,7 @@ def build_pages():
     # 有照片的分类单元清单：_data/photo_taxa.json。
     # build_taxonomy_pages.py 用它决定科 / 亚科 / 属页要不要挂图片小节、要不要加载
     # PhotoSwipe（front matter 的 has_photos），不必在 Liquid 里再遍历一遍物种表。
+    # 键与 page 均为 zh URL；taxon-photos.html 自己按 LP 拼出 /en、/es 地址。
     taxa_index = {"_meta": {"generated_by": "build_photo_pages.py",
                             "note": "只列出至少有一张开放许可照片的分类单元；"
                                     "键为 species / genus / subfamily / family"},
@@ -169,6 +188,17 @@ def build_pages():
     def first_image(latin):
         items = photos.get(latin) or []
         return items[0].get("src") if items else None
+
+    def emit(rel_dir, kind, page_id, zh_title, en_title, es_title,
+             zh_description, en_description, es_description, permalink,
+             family_id, extra, crumbs_for_lang, image):
+        for lang, prefix, out_root in LANGS:
+            title = {"zh-CN": zh_title, "en": en_title, "es": es_title}[lang]
+            description = {"zh-CN": zh_description, "en": en_description,
+                           "es": es_description}[lang]
+            outputs[out_root / rel_dir / (page_id + ".md")] = front_matter(
+                lang, prefix, title, description, permalink, family_id,
+                extra, crumbs_for_lang(lang, prefix), image)
 
     # ---- species ----------------------------------------------------------
     for row in rows:
@@ -182,30 +212,45 @@ def build_pages():
             fam = families.get(genus.get("family"))
         if not fam:
             sys.exit("no family for species %s (genus %s)" % (row["latin"], row["genus_id"]))
-        breadcrumb = family_crumbs(fam)
         sub = subfamilies.get((genus or {}).get("subfamily") or "")
-        if sub:
-            breadcrumb = subfamily_crumbs(fam, sub)
-        if genus:
-            breadcrumb.append(("%s %s" % (genus["zh"], genus["latin"]), "/genus/%s/" % genus["id"]))
-        breadcrumb.append((("%s %s" % (row["latin"], row["zh"])).strip(), "/species/%s/" % slug))
-        label = ("%s %s" % (row["latin"], row["zh"])).strip()
-        title = "%s 全部图片（%d 张）" % (label, count)
-        description = ("%s（%s）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 %d 张；"
-                       "每张标注作者、许可协议与原始页面，点击可放大浏览。" %
-                       (row["zh"], row["latin"], count))
+
+        def species_crumbs(lang, prefix):
+            crumbs = (subfamily_crumbs(lang, prefix, fam, sub) if sub
+                      else family_crumbs(lang, prefix, fam))
+            if genus:
+                gname = ("%s %s" % (genus["zh"], genus["latin"])
+                         if lang == "zh-CN" else genus["latin"])
+                crumbs.append((gname, "/genus/%s/" % genus["id"]))
+            spname = (row["latin"] if lang != "zh-CN"
+                      else ("%s %s" % (row["latin"], row["zh"])).strip())
+            crumbs.append((spname, "/species/%s/" % slug))
+            return crumbs
+
+        zh_label = ("%s %s" % (row["latin"], row["zh"])).strip()
         extra = [
             ("photo_kind", "species"),
             ("photo_id", js(slug)),
             ("photo_latin", js(row["latin"])),
             ("photo_zh", js(row["zh"])),
             ("photo_count", str(count)),
-            ("back_url", js("/species/%s/" % slug)),
-            ("back_label", js(label)),
+            ("back_url", js("/" + "species/%s/" % slug)),
+            ("back_label", js(zh_label)),
         ]
-        outputs[OUT_DIR / "species" / (slug + ".md")] = front_matter(
-            title, description, "/species/%s/photos/" % slug, fam["id"],
-            extra, breadcrumb, first_image(row["latin"]))
+        emit("species", "species", slug,
+             zh_title="%s 全部图片（%d 张）" % (zh_label, count),
+             en_title="%s — all photos (%d)" % (row["latin"], count),
+             es_title="%s — todas las fotos (%d)" % (row["latin"], count),
+             zh_description=("%s（%s）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 %d 张；"
+                             "每张标注作者、许可协议与原始页面，点击可放大浏览。" %
+                             (row["zh"], row["latin"], count)),
+             en_description=("Freely licensed photos of %s (%s) from iNaturalist and Wikimedia Commons, "
+                             "%d in total; each photo gives its author, licence and original page, "
+                             "and opens in a larger view." % (row["latin"], row["zh"], count)),
+             es_description=("Fotos con licencia libre de %s (%s) de iNaturalist y Wikimedia Commons, "
+                             "%d en total; cada foto indica autor, licencia y página original, "
+                             "y se abre en tamaño mayor." % (row["latin"], row["zh"], count)),
+             permalink="/species/%s/photos/" % slug, family_id=fam["id"],
+             extra=extra, crumbs_for_lang=species_crumbs, image=first_image(row["latin"]))
         taxa_index["species"][slug] = {"photos": count,
                                        "page": "/species/%s/photos/" % slug}
 
@@ -244,12 +289,13 @@ def build_pages():
         if not fam:
             sys.exit("genus %s has no family in taxonomy" % gid)
         sub = subfamilies.get(gen.get("subfamily") or "")
-        breadcrumb = subfamily_crumbs(fam, sub) if sub else family_crumbs(fam)
-        label = "%s %s" % (gen["zh"], gen["latin"])
-        title = "%s 全部图片（%d 张，%d 种）" % (display_latin(label), stats["photos"], stats["species"])
-        description = ("%s（%s）属下 %d 个种的开放许可照片，共 %d 张，来自 iNaturalist 与 Wikimedia Commons；"
-                       "按种分组，每个种可继续查看其全部照片。" %
-                       (gen["zh"], gen["latin"], stats["species"], stats["photos"]))
+        latin = display_latin(gen["latin"])
+        zh_label = "%s %s" % (gen["zh"], latin)
+
+        def genus_crumbs(lang, prefix):
+            return (subfamily_crumbs(lang, prefix, fam, sub) if sub
+                    else family_crumbs(lang, prefix, fam))
+
         extra = [
             ("photo_kind", "genus"),
             ("photo_id", js(gid)),
@@ -258,11 +304,25 @@ def build_pages():
             ("photo_count", str(stats["photos"])),
             ("photo_species", str(stats["species"])),
             ("back_url", js("/genus/%s/" % gid)),
-            ("back_label", js(label)),
+            ("back_label", js(zh_label)),
         ]
-        outputs[OUT_DIR / "genus" / (gid + ".md")] = front_matter(
-            title, description, "/genus/%s/photos/" % gid, fam["id"],
-            extra, breadcrumb, None)
+        emit("genus", "genus", gid,
+             zh_title="%s 全部图片（%d 张，%d 种）" % (zh_label, stats["photos"], stats["species"]),
+             en_title="%s %s — all photos (%d, %d species)" % (latin, gen["zh"], stats["photos"], stats["species"]),
+             es_title="%s %s — todas las fotos (%d, %d especies)" % (latin, gen["zh"], stats["photos"], stats["species"]),
+             zh_description=("%s（%s）属下 %d 个种的开放许可照片，共 %d 张，来自 iNaturalist 与 Wikimedia Commons；"
+                             "按种分组，每个种可继续查看其全部照片。" %
+                             (gen["zh"], gen["latin"], stats["species"], stats["photos"])),
+             en_description=("Freely licensed photos of the %d species in the genus %s (%s), %d in total, "
+                             "from iNaturalist and Wikimedia Commons; grouped by species, each linking to "
+                             "its full photo set." % (stats["species"], gen["latin"], gen["zh"],
+                                                      stats["photos"])),
+             es_description=("Fotos con licencia libre de las %d especies del género %s (%s), %d en total, "
+                             "de iNaturalist y Wikimedia Commons; agrupadas por especie, cada una enlaza "
+                             "a su conjunto completo." % (stats["species"], gen["latin"], gen["zh"],
+                                                          stats["photos"])),
+             permalink="/genus/%s/photos/" % gid, family_id=fam["id"],
+             extra=extra, crumbs_for_lang=genus_crumbs, image=None)
         taxa_index["genus"][gid] = {"photos": stats["photos"], "species": stats["species"],
                                     "page": "/genus/%s/photos/" % gid}
 
@@ -271,11 +331,11 @@ def build_pages():
         if not sub:
             continue
         fam = families[sub["family"]]
-        label = "%s %s" % (sub["zh"], sub["latin"])
-        title = "%s 全部图片（%d 张，%d 种）" % (label, stats["photos"], stats["species"])
-        description = ("%s（%s）亚科下 %d 个种的开放许可照片，共 %d 张，来自 iNaturalist 与 Wikimedia Commons；"
-                       "按种分组，每个种可继续查看其全部照片。" %
-                       (sub["zh"], sub["latin"], stats["species"], stats["photos"]))
+        zh_label = "%s %s" % (sub["zh"], sub["latin"])
+
+        def subfamily_crumbs_l(lang, prefix):
+            return family_crumbs(lang, prefix, fam)
+
         extra = [
             ("photo_kind", "subfamily"),
             ("photo_id", js(sid)),
@@ -284,11 +344,25 @@ def build_pages():
             ("photo_count", str(stats["photos"])),
             ("photo_species", str(stats["species"])),
             ("back_url", js("/subfamily/%s/" % sid)),
-            ("back_label", js(label)),
+            ("back_label", js(zh_label)),
         ]
-        outputs[OUT_DIR / "subfamily" / (sid + ".md")] = front_matter(
-            title, description, "/subfamily/%s/photos/" % sid, fam["id"],
-            extra, subfamily_crumbs(fam, sub), None)
+        emit("subfamily", "subfamily", sid,
+             zh_title="%s 全部图片（%d 张，%d 种）" % (zh_label, stats["photos"], stats["species"]),
+             en_title="%s %s — all photos (%d, %d species)" % (sub["latin"], sub["zh"], stats["photos"], stats["species"]),
+             es_title="%s %s — todas las fotos (%d, %d especies)" % (sub["latin"], sub["zh"], stats["photos"], stats["species"]),
+             zh_description=("%s（%s）亚科下 %d 个种的开放许可照片，共 %d 张，来自 iNaturalist 与 Wikimedia Commons；"
+                             "按种分组，每个种可继续查看其全部照片。" %
+                             (sub["zh"], sub["latin"], stats["species"], stats["photos"])),
+             en_description=("Freely licensed photos of the %d species in the subfamily %s (%s), %d in total, "
+                             "from iNaturalist and Wikimedia Commons; grouped by species, each linking to "
+                             "its full photo set." % (stats["species"], sub["latin"], sub["zh"],
+                                                      stats["photos"])),
+             es_description=("Fotos con licencia libre de las %d especies de la subfamilia %s (%s), %d en total, "
+                             "de iNaturalist y Wikimedia Commons; agrupadas por especie, cada una enlaza "
+                             "a su conjunto completo." % (stats["species"], sub["latin"], sub["zh"],
+                                                          stats["photos"])),
+             permalink="/subfamily/%s/photos/" % sid, family_id=fam["id"],
+             extra=extra, crumbs_for_lang=subfamily_crumbs_l, image=None)
         taxa_index["subfamily"][sid] = {"photos": stats["photos"], "species": stats["species"],
                                         "page": "/subfamily/%s/photos/" % sid}
 
@@ -296,11 +370,11 @@ def build_pages():
         fam = families.get(fid)
         if not fam:
             continue
-        label = "%s %s" % (fam["zh"], fam["latin"])
-        title = "%s 全部图片（%d 张，%d 种）" % (label, stats["photos"], stats["species"])
-        description = ("%s（%s）科下 %d 个种的开放许可照片，共 %d 张，来自 iNaturalist 与 Wikimedia Commons；"
-                       "按种分组，每个种可继续查看其全部照片。" %
-                       (fam["zh"], fam["latin"], stats["species"], stats["photos"]))
+        zh_label = "%s %s" % (fam["zh"], fam["latin"])
+
+        def family_crumbs_l(lang, prefix):
+            return [(LIST_NAME[lang], "/list/")]
+
         extra = [
             ("photo_kind", "family"),
             ("photo_id", js(fid)),
@@ -309,11 +383,25 @@ def build_pages():
             ("photo_count", str(stats["photos"])),
             ("photo_species", str(stats["species"])),
             ("back_url", js("/family/%s/" % fid)),
-            ("back_label", js(label)),
+            ("back_label", js(zh_label)),
         ]
-        outputs[OUT_DIR / "family" / (fid + ".md")] = front_matter(
-            title, description, "/family/%s/photos/" % fid, fid,
-            extra, family_crumbs(fam), None)
+        emit("family", "family", fid,
+             zh_title="%s 全部图片（%d 张，%d 种）" % (zh_label, stats["photos"], stats["species"]),
+             en_title="%s %s — all photos (%d, %d species)" % (fam["latin"], fam["zh"], stats["photos"], stats["species"]),
+             es_title="%s %s — todas las fotos (%d, %d especies)" % (fam["latin"], fam["zh"], stats["photos"], stats["species"]),
+             zh_description=("%s（%s）科下 %d 个种的开放许可照片，共 %d 张，来自 iNaturalist 与 Wikimedia Commons；"
+                             "按种分组，每个种可继续查看其全部照片。" %
+                             (fam["zh"], fam["latin"], stats["species"], stats["photos"])),
+             en_description=("Freely licensed photos of the %d species in the family %s (%s), %d in total, "
+                             "from iNaturalist and Wikimedia Commons; grouped by species, each linking to "
+                             "its full photo set." % (stats["species"], fam["latin"], fam["zh"],
+                                                      stats["photos"])),
+             es_description=("Fotos con licencia libre de las %d especies de la familia %s (%s), %d en total, "
+                             "de iNaturalist y Wikimedia Commons; agrupadas por especie, cada una enlaza "
+                             "a su conjunto completo." % (stats["species"], fam["latin"], fam["zh"],
+                                                          stats["photos"])),
+             permalink="/family/%s/photos/" % fid, family_id=fid,
+             extra=extra, crumbs_for_lang=family_crumbs_l, image=None)
         taxa_index["family"][fid] = {"photos": stats["photos"], "species": stats["species"],
                                      "page": "/family/%s/photos/" % fid}
 
@@ -329,10 +417,11 @@ def main():
                     or PHOTO_TAXA_JSON.read_text(encoding="utf-8") != payload)
 
     stale = []
-    if OUT_DIR.is_dir():
-        for path in sorted(OUT_DIR.rglob("*.md")):
-            if path not in outputs:
-                stale.append(path)
+    for out_root in (OUT_DIR, ROOT / "en" / "photos", ROOT / "es" / "photos"):
+        if out_root.is_dir():
+            for path in sorted(out_root.rglob("*.md")):
+                if path not in outputs:
+                    stale.append(path)
 
     changed = []
     for path, content in sorted(outputs.items()):
@@ -341,6 +430,11 @@ def main():
             if current == content:
                 continue
         changed.append(path)
+
+    counts = lambda: (sum(1 for p in outputs if p.parent.name == "species"),
+                      sum(1 for p in outputs if p.parent.name == "genus"),
+                      sum(1 for p in outputs if p.parent.name == "subfamily"),
+                      sum(1 for p in outputs if p.parent.name == "family"))
 
     if not writing:
         if changed or stale or data_changed:
@@ -352,13 +446,10 @@ def main():
                 print("stale file: %s" % PHOTO_TAXA_JSON.relative_to(ROOT), file=sys.stderr)
             sys.exit("%d photo pages out of date, %d stale files (run without --check)"
                      % (len(changed), len(stale)))
-        print("OK: %d photo pages (%d species / %d genus / %d subfamily / %d family), "
+        print("OK: %d photo pages in 3 languages (%d species / %d genus / %d subfamily / %d family each), "
               "%d taxa in %s"
               % (len(outputs),
-                 sum(1 for p in outputs if "species" in p.parts),
-                 sum(1 for p in outputs if "genus" in p.parts),
-                 sum(1 for p in outputs if "subfamily" in p.parts),
-                 sum(1 for p in outputs if "family" in p.parts),
+                 counts()[0] // 3, counts()[1] // 3, counts()[2] // 3, counts()[3] // 3,
                  sum(len(taxa_index[k]) for k in ("species", "genus", "subfamily", "family")),
                  PHOTO_TAXA_JSON.relative_to(ROOT)))
         return
@@ -371,19 +462,20 @@ def main():
             fh.write(outputs[path])
 
     # drop directories that lost their last page
-    for directory in sorted((p for p in OUT_DIR.rglob("*") if p.is_dir()), reverse=True):
-        if directory != OUT_DIR and not any(directory.iterdir()):
-            shutil.rmtree(directory)
+    for out_root in (OUT_DIR, ROOT / "en" / "photos", ROOT / "es" / "photos"):
+        if not out_root.is_dir():
+            continue
+        for directory in sorted((p for p in out_root.rglob("*") if p.is_dir()), reverse=True):
+            if directory != out_root and not any(directory.iterdir()):
+                shutil.rmtree(directory)
 
     if data_changed:
         PHOTO_TAXA_JSON.write_text(payload, encoding="utf-8", newline="\n")
 
-    print("wrote %d photo pages (%d species / %d genus / %d subfamily / %d family), %d stale removed"
+    print("wrote %d photo pages in 3 languages (%d species / %d genus / %d subfamily / %d family each), "
+          "%d stale removed"
           % (len(outputs),
-             sum(1 for p in outputs if "species" in p.parts),
-             sum(1 for p in outputs if "genus" in p.parts),
-             sum(1 for p in outputs if "subfamily" in p.parts),
-             sum(1 for p in outputs if "family" in p.parts),
+             counts()[0] // 3, counts()[1] // 3, counts()[2] // 3, counts()[3] // 3,
              len(stale)))
 
 

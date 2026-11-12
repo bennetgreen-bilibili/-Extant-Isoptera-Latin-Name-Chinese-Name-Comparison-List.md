@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/amitermes-hastatus/
 title: "Amitermes hastatus Haviland, 1898 长矛弓白蚁"
 latin: "Amitermes hastatus"
 zh: "长矛弓白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Botswana: Kalahari: Kooa-Sekgoma; South Africa: Cape Provin
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **长矛弓白蚁**（*Amitermes hastatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Cape of Good Hope: Port Elizabeth。分布记录包括南部非洲、坦桑尼亚。本站记录本种有 11 个次异名。
 
-EN — **长矛弓白蚁** (*Amitermes hastatus*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Haviland in 1898; the type locality is South Africa: Cape of Good Hope: Port Elizabeth. Distribution: southern Africa, Tanzania. This site records 11 junior synonyms for the species.
-
-ES — **长矛弓白蚁** (*Amitermes hastatus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Cape of Good Hope: Port Elizabeth. Distribución: southern Africa, Tanzania. Este sitio registra 11 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *hastatus*：拉丁文 hastatus（戟形的、具矛的）
-
-EN — epithet *hastatus*: Latin hastatus (spear-shaped)
-
-ES — epithet *hastatus*: Del latín hastatus (en forma de lanza)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
-- **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种（113 species · 113 especies）
-- **本属模式种 Type species / Especie tipo**：*Amitermes amifer*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
+- **属**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种
+- **本属模式种**：*Amitermes amifer*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南部非洲、坦桑尼亚
-- **英文记录 English record / Registro en inglés**：southern Africa, Tanzania
+- **分布记录**：南部非洲、坦桑尼亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 11 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 11 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 11 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 11 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hamitermes runconifer* Silvestri, 1908: 77-78 —— 模式产地：Botswana: Kalahari: Kooa-Sekgoma
 2. *Hamitermes hastatus capicola* Silvestri, 1914: 78-80 —— 模式产地：South Africa: Cape Province: Stellenbosch
@@ -85,6 +71,4 @@ ES — epithet *hastatus*: Del latín hastatus (en forma de lanza)
 11. *Hamitermes schoombiensis* Fuller, 1922: 126 —— 模式产地：South Africa: Cape Province: Kenhardt District
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hamitermes runconifer*、*Hamitermes hastatus capicola*、*Hamitermes gunni*、*Hamitermes kellyi*、*Hamitermes zuurbergi*、*Hamitermes atlanticus*、*Hamitermes murraysburgi*、*Hamitermes libertatis* 等）出现，本站统一归入 *Amitermes hastatus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Hamitermes runconifer*、*Hamitermes hastatus capicola*、*Hamitermes gunni*、*Hamitermes kellyi*、*Hamitermes zuurbergi*、*Hamitermes atlanticus*、*Hamitermes murraysburgi*、*Hamitermes libertatis*); this site treats them all under *Amitermes hastatus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Hamitermes runconifer*、*Hamitermes hastatus capicola*、*Hamitermes gunni*、*Hamitermes kellyi*、*Hamitermes zuurbergi*、*Hamitermes atlanticus*、*Hamitermes murraysburgi*、*Hamitermes libertatis*); este sitio los reúne todos bajo *Amitermes hastatus*.
 <!-- AUTO:END -->

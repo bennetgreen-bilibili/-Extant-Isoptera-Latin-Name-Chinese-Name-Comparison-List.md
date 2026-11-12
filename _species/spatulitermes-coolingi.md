@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/spatulitermes-coolingi/
 title: "Spatulitermes coolingi Coaton, 1971 库林匙白蚁"
 latin: "Spatulitermes coolingi"
 zh: "库林匙白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **库林匙白蚁**（*Spatulitermes coolingi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）匙白蚁属（*Spatulitermes*）的现存唯一种。本种由 Coaton 于 1971 年描述，模式产地为 Namibia: 64.4 km ex Rundu-Grootfontein。分布记录包括非洲南部、纳米比亚、赞比亚。
 
-EN — **库林匙白蚁** (*Spatulitermes coolingi*) is the only extant species of the genus *Spatulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Coaton in 1971; the type locality is Namibia: 64.4 km ex Rundu-Grootfontein. Distribution: southern Africa, Namibia, Zambia.
-
-ES — **库林匙白蚁** (*Spatulitermes coolingi*) es la única especie viviente del género *Spatulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Coaton en 1971; la localidad tipo es Namibia: 64.4 km ex Rundu-Grootfontein. Distribución: southern Africa, Namibia, Zambia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Spatulitermes*：属名由拉丁文 spatula（匙、铲）与 termes（白蚁）组合。
 
-EN — *Spatulitermes*: From Latin spatula (spatula) + termes.
-
-ES — *Spatulitermes*: Del latín spatula (espátula) + termes.
-
 种加词 *coolingi*：以人名 Cooling 命名
-
-EN — epithet *coolingi*: Named after Cooling
-
-ES — epithet *coolingi*: En honor de Cooling
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[匙白蚁属 *Spatulitermes*]({{ site.base_url }}/genus/spatulitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[匙白蚁属 *Spatulitermes*]({{ site.base_url }}/genus/spatulitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部、纳米比亚、赞比亚
-- **英文记录 English record / Registro en inglés**：southern Africa, Namibia, Zambia
+- **分布记录**：非洲南部、纳米比亚、赞比亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

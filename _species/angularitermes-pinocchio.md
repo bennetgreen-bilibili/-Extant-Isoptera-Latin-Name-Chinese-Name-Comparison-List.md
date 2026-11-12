@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/angularitermes-pinocchio/
 title: "Angularitermes pinocchio Cancello & Brandão, 1996 松果棱角白蚁"
 latin: "Angularitermes pinocchio"
 zh: "松果棱角白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **松果棱角白蚁**（*Angularitermes pinocchio*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）棱角白蚁属（*Angularitermes*）的一种。本种由 Cancello & Brandão 于 1996 年描述，模式产地为 Brasil: Goiás: Goiânia \[16.67S 49.27W\]。分布记录包括巴西、秘鲁。
 
-EN — **松果棱角白蚁** (*Angularitermes pinocchio*) is a species of the genus *Angularitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Cancello & Brandão in 1996; the type locality is Brasil: Goiás: Goiânia \[16.67S 49.27W\]. Distribution: Brazil, Peru.
-
-ES — **松果棱角白蚁** (*Angularitermes pinocchio*) es una especie del género *Angularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cancello & Brandão en 1996; la localidad tipo es Brasil: Goiás: Goiânia \[16.67S 49.27W\]. Distribución: Brazil, Peru.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Angularitermes*：属名由拉丁文 angularis（有角的、具棱的）与 termes（白蚁）组合。
 
-EN — *Angularitermes*: From Latin angularis (angular) + termes.
-
-ES — *Angularitermes*: Del latín angularis (angular) + termes.
-
 种加词 *pinocchio*：意大利童话人物 Pinocchio（匹诺曹，长鼻木偶）
-
-EN — epithet *pinocchio*: Pinocchio (the long-nosed puppet)
-
-ES — epithet *pinocchio*: Pinocchio (la marioneta de nariz larga)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[棱角白蚁属 *Angularitermes*]({{ site.base_url }}/genus/angularitermes/) —— 共 6 种（6 species · 6 especies）
-- **本属模式种 Type species / Especie tipo**：*Angularitermes nasutissimus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[棱角白蚁属 *Angularitermes*]({{ site.base_url }}/genus/angularitermes/) —— 共 6 种
+- **本属模式种**：*Angularitermes nasutissimus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、秘鲁
-- **英文记录 English record / Registro en inglés**：Brazil, Peru
+- **分布记录**：巴西、秘鲁
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

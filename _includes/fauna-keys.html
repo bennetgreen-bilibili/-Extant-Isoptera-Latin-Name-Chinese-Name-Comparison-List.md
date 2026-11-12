@@ -2,29 +2,73 @@
 形态检索表（目级 / 族级）。来源逐表标注：目级与白蚁科亚科表署 Hellemans 等（2024），
 木白蚁科世界分属表署 Krishna 等（2013）。中国动物志（黄复生等, 2000）的检索表已撤下，
 本站不再转述该书表。
-数据在 _data/fauna_keys.json，键为页面 URL；include 时传入已取出的 fk 变量：
+数据在 _data/fauna_keys.json（zh 页）或 _data/translations_en|es.json 的 fauna_keys 桶
+（en/es 页），键为页面 URL；include 时传入已取出的 fk 变量：
   {%- assign fk = site.data.fauna_keys["/family/kalotermitidae/"] -%}{%- if fk %}{%- include fauna-keys.html fk=fk -%}{%- endif %}
-本块只渲染数据，不判断页面；无数据时不输出任何内容。
+本块只渲染数据，不判断页面语言之外的任何内容；无数据时不输出任何内容。
 {%- endcomment -%}
+{%- assign LP = '' -%}
+{%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}{%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
 {%- assign fk_n = fk.keys.size | default: 0 -%}
 {%- assign fk_o = fk.omitted.size | default: 0 -%}
 {%- if fk_n > 0 or fk_o > 0 -%}
-<section class="taxon-section fauna-keys" id="fauna-keys" lang="zh-CN">
-<h2>形态检索表 <span class="fact-en" lang="en">Morphological keys</span> <span class="fact-es" lang="es">Claves morfológicas</span></h2>
 {%- assign has_hel = false -%}
 {%- assign has_tre = false -%}
 {%- for k in fk.keys -%}
 {%- if k.src_short contains 'Hellemans' -%}{%- assign has_hel = true -%}{%- elsif k.src_short contains 'Krishna' -%}{%- assign has_tre = true -%}{%- endif -%}
 {%- endfor -%}
+{%- if page.lang == 'en' -%}
+{%- assign t_h2 = "Morphological keys" -%}
+{%- assign t_meta = "couplets" -%}
+{%- assign t_meta2 = "terminal taxa" -%}
+{%- assign t_to = "see couplet" -%}
+{%- assign t_popen = "(" -%}
+{%- assign t_pclose = ")" -%}
+{%- assign t_sep = ", " -%}
+{%- assign t_dropped = "Removed (not treated as separate species on this site): " -%}
+{%- assign t_dropped2 = "." -%}
+{%- assign t_omitted = "Not reproduced on this page: " -%}
+{%- assign t_omitted2 = "." -%}
+{%- elsif page.lang == 'es' -%}
+{%- assign t_h2 = "Claves morfológicas" -%}
+{%- assign t_meta = "pares" -%}
+{%- assign t_meta2 = "taxones terminales" -%}
+{%- assign t_to = "véase el par" -%}
+{%- assign t_popen = "(" -%}
+{%- assign t_pclose = ")" -%}
+{%- assign t_sep = ", " -%}
+{%- assign t_dropped = "Eliminados (no se tratan como especies independientes en este sitio): " -%}
+{%- assign t_dropped2 = "." -%}
+{%- assign t_omitted = "No reproducido en esta página: " -%}
+{%- assign t_omitted2 = "." -%}
+{%- else -%}
+{%- assign t_h2 = "形态检索表" -%}
+{%- assign t_meta = "组" -%}
+{%- assign t_meta2 = "个终点" -%}
+{%- assign t_to = "见第" -%}
+{%- assign t_popen = "（" -%}
+{%- assign t_pclose = "）" -%}
+{%- assign t_sep = "、" -%}
+{%- assign t_dropped = "已剔除（本站未列为独立种）：" -%}
+{%- assign t_dropped2 = "。" -%}
+{%- assign t_omitted = "本页未转述：" -%}
+{%- assign t_omitted2 = "。" -%}
+{%- endif -%}
+<section class="taxon-section fauna-keys" id="fauna-keys" lang="{{ page.lang | default: 'zh-CN' }}">
+<h2>{{ t_h2 }}</h2>
 {%- if fk_n > 0 -%}
-<p class="fauna-lead">本页检索表逐表标注文献依据。{% if has_hel %}目级分科/亚科表与白蚁科亚科表据 Hellemans 等（2024）的分子系统学补充材料译出，采用的 13 科系统见于本页各科链接。{% endif %}{% if has_tre %}木白蚁科世界分属表据 Krishna 等（2013）《Treatise on the Isoptera of the World》第 75—78 页译出，原有翅成虫与兵蚁两套；化石属 †Proelectrotermes、†Electrotermes 本站未收，仅列名不加链接。{% endif %}条目中的量度与图号一般从略。表中术语（上颚、囟、跗节、端距、翅鳞等）的中英文对照与说明见<a href="{% if page.lang == 'en' %}{{ site.base_url }}/en/basics/{% elsif page.lang == 'es' %}{{ site.base_url }}/es/basics/{% else %}{{ site.base_url }}/basics/{% endif %}">《白蚁基础知识》</a>。</p>
-<p class="fauna-lead fact-en" lang="en">Every key on this page states its source table by table. {% if has_hel %}The order-level key to families and subfamilies, and the key to subfamilies of Termitidae, are translated from the molecular supplement of Hellemans et al. (2024); the 13-family classification adopted there is linked from the family pages.{% endif %}{% if has_tre %}The world key to the genera of Kalotermitidae is translated from Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>, pp. 75–78, with separate keys for alates and soldiers; the fossil genera †Proelectrotermes and †Electrotermes are not treated on this site and are listed by name only, without links.{% endif %}Measurements and figure numbers are generally omitted. For the Chinese–English equivalents and explanations of the terms used in the keys (mandible, fontanelle, tarsus, tibial spur, wing scale, and so on), see <a href="{% if page.lang == 'en' %}{{ site.base_url }}/en/basics/{% elsif page.lang == 'es' %}{{ site.base_url }}/es/basics/{% else %}{{ site.base_url }}/basics/{% endif %}">Termite Basics</a>.</p>
-<p class="fauna-lead fact-es" lang="es">Cada clave de esta página indica su fuente tabla por tabla. {% if has_hel %}La clave de órdenes a familias y subfamilias, y la clave de subfamilias de Termitidae, se traducen del suplemento molecular de Hellemans et al. (2024); la clasificación en 13 familias que allí se adopta está enlazada desde las páginas de familia.{% endif %}{% if has_tre %}La clave mundial de géneros de Kalotermitidae se traduce de Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>, pp. 75–78, con claves separadas para alados y soldados; los géneros fósiles †Proelectrotermes y †Electrotermes no se tratan en este sitio y solo se citan por su nombre, sin enlaces.{% endif %}Las medidas y los números de figura suelen omitirse. Para las equivalencias chino–inglés y la explicación de los términos empleados en las claves (mandíbula, fontanela, tarso, espolón tibial, escama alar, etc.), véase <a href="{% if page.lang == 'en' %}{{ site.base_url }}/en/basics/{% elsif page.lang == 'es' %}{{ site.base_url }}/es/basics/{% else %}{{ site.base_url }}/basics/{% endif %}">Conceptos básicos de las termitas</a>.</p>
+{%- if page.lang == 'en' -%}
+<p class="fauna-lead">Every key on this page states its source table by table. {% if has_hel %}The order-level key to families and subfamilies, and the key to subfamilies of Termitidae, are translated from the molecular supplement of Hellemans et al. (2024); the 13-family classification adopted there is linked from the family pages. {% endif %}{% if has_tre %}The world key to the genera of Kalotermitidae is translated from Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>, pp. 75–78, with separate keys for alates and soldiers; the fossil genera †Proelectrotermes and †Electrotermes are not treated on this site and are listed by name only, without links. {% endif %}Measurements and figure numbers are generally omitted. For the terminology used in the keys (mandible, fontanelle, tarsus, tibial spur, wing scale and so on), see <a href="{{ site.base_url }}{{ LP }}/basics/">Termite basics</a>.</p>
+{%- elsif page.lang == 'es' -%}
+<p class="fauna-lead">Cada clave de esta página indica su fuente tabla por tabla. {% if has_hel %}La clave de órdenes a familias y subfamilias, y la clave de subfamilias de Termitidae, se traducen del suplemento molecular de Hellemans et al. (2024); la clasificación en 13 familias que allí se adopta está enlazada desde las páginas de familia. {% endif %}{% if has_tre %}La clave mundial de géneros de Kalotermitidae se traduce de Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>, pp. 75–78, con claves separadas para alados y soldados; los géneros fósiles †Proelectrotermes y †Electrotermes no se tratan en este sitio y solo se citan por su nombre, sin enlaces. {% endif %}Las medidas y los números de figura suelen omitirse. Para la terminología empleada en las claves (mandíbula, fontanela, tarso, espolón tibial, escama alar, etc.), véase <a href="{{ site.base_url }}{{ LP }}/basics/">Conceptos básicos de las termitas</a>.</p>
+{%- else -%}
+<p class="fauna-lead">本页检索表逐表标注文献依据。{% if has_hel %}目级分科/亚科表与白蚁科亚科表据 Hellemans 等（2024）的分子系统学补充材料译出，采用的 13 科系统见于本页各科链接。{% endif %}{% if has_tre %}木白蚁科世界分属表据 Krishna 等（2013）《Treatise on the Isoptera of the World》第 75—78 页译出，原有翅成虫与兵蚁两套；化石属 †Proelectrotermes、†Electrotermes 本站未收，仅列名不加链接。{% endif %}条目中的量度与图号一般从略。表中术语（上颚、囟、跗节、端距、翅鳞等）的说明见<a href="{{ site.base_url }}{{ LP }}/basics/">《白蚁基础知识》</a>。</p>
+{%- endif -%}
 {%- endif -%}
 {%- for k in fk.keys -%}
 {%- assign kidx = forloop.index0 -%}
 <details class="fk"{% if forloop.first %} open{% endif %}>
-<summary><span class="fk-title">{{ k.title }}</span>{% if k.caste %}<span class="fk-caste">{{ k.caste }}</span>{% endif %}{% if k.src_short %}<span class="fk-src">{{ k.src_short }}</span>{% endif %}<span class="fk-meta">{{ k.couplets.size }} 组 · {{ k.n_leaves }} 个终点 <span class="fact-en" lang="en">{{ k.couplets.size }} couplets · {{ k.n_leaves }} terminal taxa</span> <span class="fact-es" lang="es">{{ k.couplets.size }} pares · {{ k.n_leaves }} taxones terminales</span></span></summary>
+<summary><span class="fk-title">{{ k.title }}</span>{% if k.caste %}<span class="fk-caste">{{ k.caste }}</span>{% endif %}{% if k.src_short %}<span class="fk-src">{{ k.src_short }}</span>{% endif %}<span class="fk-meta">{{ k.couplets.size }} {{ t_meta }} · {{ k.n_leaves }} {{ t_meta2 }}</span></summary>
 {%- if k.note -%}
 <p class="fauna-note">{{ k.note }}</p>
 {%- endif -%}
@@ -36,8 +80,8 @@
 {%- for l in c.leads -%}
 <span class="fk-lead">
 {%- if l.t and l.t != blank -%}<span class="fk-txt">{{ l.t }}</span>{%- endif -%}
-{%- if l.leaf %} <span class="fk-dest">→ {% if l.leaf.url %}<a href="{{ site.base_url }}{{ l.leaf.url }}">{{ l.leaf.zh }}</a> <i class="fk-lat">{{ l.leaf.latin }}</i>{% else %}†<i class="fk-lat">{{ l.leaf.latin }}</i>{% endif %}{% if l.leaf.note %}（{{ l.leaf.note }}）{% endif %}{% for a in l.leaf.also %}、<a href="{{ site.base_url }}{{ a.url }}">{{ a.zh }}</a> <i class="fk-lat">{{ a.latin }}</i>{% if a.note %}（{{ a.note }}）{% endif %}{% endfor %}</span>
-{%- elsif l.to %} <span class="fk-dest">→ <a class="fk-to" href="#fk{{ kidx }}-{{ l.to }}">见第 {{ l.to }} 组</a> <span class="fact-en" lang="en">see couplet {{ l.to }}</span> <span class="fact-es" lang="es">véase el par {{ l.to }}</span></span>
+{%- if l.leaf %} <span class="fk-dest">→ {% if l.leaf.url %}<a href="{{ site.base_url }}{{ LP }}{{ l.leaf.url }}">{{ l.leaf.zh }}</a> <i class="fk-lat">{{ l.leaf.latin }}</i>{% else %}†<i class="fk-lat">{{ l.leaf.latin }}</i>{% endif %}{% if l.leaf.note %}{{ t_popen }}{{ l.leaf.note }}{{ t_pclose }}{% endif %}{% for a in l.leaf.also %}{{ t_sep }}<a href="{{ site.base_url }}{{ LP }}{{ a.url }}">{{ a.zh }}</a> <i class="fk-lat">{{ a.latin }}</i>{% if a.note %}{{ t_popen }}{{ a.note }}{{ t_pclose }}{% endif %}{% endfor %}</span>
+{%- elsif l.to %} <span class="fk-dest">→ <a class="fk-to" href="#fk{{ kidx }}-{{ l.to }}">{{ t_to }} {{ l.to }}</a></span>
 {%- endif -%}
 </span>
 {%- endfor -%}
@@ -46,15 +90,21 @@
 {%- endfor -%}
 </ol>
 {%- if k.dropped and k.dropped.size > 0 %}
-<p class="fk-dropped">已剔除（本站未列为独立种）：{% for d in k.dropped %}{{ d.zh }}{% if d.latin and d.latin != blank %} <i>{{ d.latin }}</i>{% endif %}{% unless forloop.last %}；{% endunless %}{% endfor %}。<span class="fact-en" lang="en"> Removed (not treated as separate species on this site).</span> <span class="fact-es" lang="es"> Eliminados (no se tratan como especies independientes en este sitio).</span></p>
+<p class="fk-dropped">{{ t_dropped }}{% for d in k.dropped %}{{ d.zh }}{% if d.latin and d.latin != blank %} <i>{{ d.latin }}</i>{% endif %}{% unless forloop.last %}{{ t_sep }}{% endunless %}{% endfor %}{{ t_dropped2 }}</p>
 {%- endif -%}
 </details>
 {%- endfor -%}
 {%- if fk.omitted and fk.omitted.size > 0 %}
-<p class="fk-omitted">本页未转述：{% for o in fk.omitted %}{{ o.title }}（{{ o.reason }}）{% unless forloop.last %}；{% endunless %}{% endfor %}。<span class="fact-en" lang="en"> Not reproduced on this page.</span> <span class="fact-es" lang="es"> No reproducido en esta página.</span></p>
+<p class="fk-omitted">{{ t_omitted }}{% for o in fk.omitted %}{{ o.title }}{{ t_popen }}{{ o.reason }}{{ t_pclose }}{% unless forloop.last %}{{ t_sep }}{% endunless %}{% endfor %}{{ t_omitted2 }}</p>
 {%- endif -%}
 {%- if fk_n > 0 -%}
-<p class="fauna-cite">文献依据：{% if has_hel %}Hellemans S., Rocha M. M., Wang M. et al. (2024) Genomic data provide insights into the classification of extant termites. <i>Nature Communications</i> 15: 6724. doi:10.1038/s41467-024-51028-y（补充材料 Note 2 目级分科/亚科检索表、Note 3 白蚁科亚科检索表）；{% endif %}{% if has_tre %}Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377: 75–78（木白蚁科分属检索表，源自 Krishna, 1961）；{% endif %}表中分类群按本站现行名录链接，原表记载而本站未收录者已从表中剔除。<span class="fact-en" lang="en"> Sources cited: the references above. Taxa are linked to the checklist as currently used on this site; names recorded in the original keys but not in our checklist have been removed from the keys.</span> <span class="fact-es" lang="es"> Fuentes citadas: las referencias anteriores. Los taxones se enlazan con el listado que usa actualmente este sitio; los nombres registrados en las claves originales que no figuran en nuestro listado se han eliminado de las claves.</span></p>
+{%- if page.lang == 'en' -%}
+<p class="fauna-cite">Sources: {% if has_hel %}Hellemans S., Rocha M. M., Wang M. et al. (2024) Genomic data provide insights into the classification of extant termites. <i>Nature Communications</i> 15: 6724. doi:10.1038/s41467-024-51028-y (supplementary Note 2, order-level key to families and subfamilies; Note 3, key to the subfamilies of Termitidae); {% endif %}{% if has_tre %}Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377: 75–78 (world key to the genera of Kalotermitidae, after Krishna, 1961); {% endif %}taxa are linked to the checklist as currently used on this site, and names recorded in the original keys but not in our checklist have been removed from the keys.</p>
+{%- elsif page.lang == 'es' -%}
+<p class="fauna-cite">Fuentes: {% if has_hel %}Hellemans S., Rocha M. M., Wang M. et al. (2024) Genomic data provide insights into the classification of extant termites. <i>Nature Communications</i> 15: 6724. doi:10.1038/s41467-024-51028-y (Nota 2 del suplemento, clave de órdenes a familias y subfamilias; Nota 3, clave de subfamilias de Termitidae); {% endif %}{% if has_tre %}Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377: 75–78 (clave mundial de géneros de Kalotermitidae, según Krishna, 1961); {% endif %}los taxones se enlazan con el listado que usa actualmente este sitio, y los nombres registrados en las claves originales que no figuran en nuestro listado se han eliminado de las claves.</p>
+{%- else -%}
+<p class="fauna-cite">文献依据：{% if has_hel %}Hellemans S., Rocha M. M., Wang M. et al. (2024) Genomic data provide insights into the classification of extant termites. <i>Nature Communications</i> 15: 6724. doi:10.1038/s41467-024-51028-y（补充材料 Note 2 目级分科/亚科检索表、Note 3 白蚁科亚科检索表）；{% endif %}{% if has_tre %}Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377: 75–78（木白蚁科分属检索表，源自 Krishna, 1961）；{% endif %}表中分类群按本站现行名录链接，原表记载而本站未收录者已从表中剔除。</p>
+{%- endif -%}
 {%- endif -%}
 <script>
 (function(){

@@ -3,11 +3,11 @@ layout: photos
 title: "Neotermes sugioi 杉尾新白蚁 全部图片（12 张）"
 description: "杉尾新白蚁（Neotermes sugioi）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 12 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: kalotermitidae
 last_modified_at: 2026-10-30
-permalink: /species/neotermes-sugioi/photos/
+permalink: "/species/neotermes-sugioi/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "neotermes-sugioi"

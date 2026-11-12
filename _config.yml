@@ -19,12 +19,16 @@ lang: zh-CN
 author: 班奈特格林
 # Jekyll 标准站点地址：canonical、sitemap.xml、以及所有绝对链接都由 url + baseurl 拼接。
 # 显式写死，避免依赖 GitHub Pages 构建时的自动注入（换域名/换构建方式时不会静默失效）。
-url: https://bennetgreen-bilibili.github.io
-baseurl: /-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
+# 2026-11-12 起站点迁到自己的域名（Cloudflare DNS + GitHub Pages 自定义域名），
+# 站点位于域名根，故 baseurl 为空；空值必须写成 ""（两个引号），
+# _tools/build_sitemap_txt.py 与 _tools/build_taxonomy_data.py 读这两行时要求冒号后有内容。
+url: https://termite-extant-isoptera.org
+baseurl: ""
 
 # 站内模板自用的自定义变量：{{ site.base_url }} 在 _layouts、list.md、物种页里共 6000+ 处，
-# 值等于上面的 url + baseurl；改名会全站断链，改动时务必与上面保持同步。
-base_url: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
+# 值等于上面的 url + baseurl（baseurl 为空时就是 url，末尾不带斜杠）；改名会全站断链，
+# 改动时务必与上面保持同步。_tools/check_site.py 会校验三者一致。
+base_url: https://termite-extant-isoptera.org
 
 collections:
   species:

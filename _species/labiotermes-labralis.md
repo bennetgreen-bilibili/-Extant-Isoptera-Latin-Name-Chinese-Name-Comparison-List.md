@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/labiotermes-labralis/
 title: "Labiotermes labralis Holmgren, 1906 细唇厚唇白蚁"
 latin: "Labiotermes labralis"
 zh: "细唇厚唇白蚁"
@@ -26,54 +29,35 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **细唇厚唇白蚁**（*Labiotermes labralis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚。本站记录本种有 1 个次异名。
 
-EN — **细唇厚唇白蚁** (*Labiotermes labralis*) is a species and the type species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia. This site records 1 junior synonym for the species.
-
-ES — **细唇厚唇白蚁** (*Labiotermes labralis*) es una especie, y la especie tipo del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
 
-EN — *Labiotermes*: From Latin labium (lip) + termes.
-
-ES — *Labiotermes*: Del latín labium (labio) + termes.
-
 种加词 *labralis*：拉丁文 labralis（唇的、唇基的）
-
-EN — epithet *labralis*: Latin labralis (of the labrum)
-
-ES — epithet *labralis*: Del latín labralis (del labro)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种（10 species · 10 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚
-- **英文记录 English record / Registro en inglés**：Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia
+- **分布记录**：巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Labiotermes labralis boreus* Snyder, 1949: 334 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Labiotermes labralis boreus* 出现，本站统一归入 *Labiotermes labralis*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Labiotermes labralis boreus*; this site treats it under *Labiotermes labralis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Labiotermes labralis boreus*; este sitio lo reúne bajo *Labiotermes labralis*.
 <!-- AUTO:END -->

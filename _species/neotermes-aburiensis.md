@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/neotermes-aburiensis/
 title: "Neotermes aburiensis Sjöstedt, 1926 阿布里新白蚁"
 latin: "Neotermes aburiensis"
 zh: "阿布里新白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **阿布里新白蚁**（*Neotermes aburiensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Ghana: Aburi。分布记录包括西非、尼日利亚、加纳、科特迪瓦、刚果民主共和国。
 
-EN — **阿布里新白蚁** (*Neotermes aburiensis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Sjöstedt in 1926; the type locality is Ghana: Aburi. Distribution: West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo.
-
-ES — **阿布里新白蚁** (*Neotermes aburiensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Aburi. Distribución: West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
 
-EN — *Neotermes*: From Greek neos (new) + Latin termes.
-
-ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
-
 种加词 *aburiensis*：以地名 阿布里（加纳） 命名
-
-EN — epithet *aburiensis*: Named after the locality Abur
-
-ES — epithet *aburiensis*: Por la localidad de Abur
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种（121 species · 121 especies）
-- **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
+- **本属模式种**：*Neotermes castaneus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非、尼日利亚、加纳、科特迪瓦、刚果民主共和国
-- **英文记录 English record / Registro en inglés**：West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo
+- **分布记录**：西非、尼日利亚、加纳、科特迪瓦、刚果民主共和国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

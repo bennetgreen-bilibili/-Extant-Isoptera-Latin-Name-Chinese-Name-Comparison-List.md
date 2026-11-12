@@ -1,0 +1,78 @@
+---
+layout: species
+title: "Nasutitermes corniger Motschulsky, 1855 具角象白蚁"
+lang: es
+permalink: /es/species/nasutitermes-corniger/
+species_page: true
+single_lang: true
+slug: "nasutitermes-corniger"
+latin: "Nasutitermes corniger"
+zh: "具角象白蚁"
+type: true
+rank: "species"
+genus_zh: "象白蚁属"
+genus_latin: "Nasutitermes"
+genus_id: "nasutitermes"
+family_zh: "白蚁科"
+family_latin: "TERMITIDAE"
+family_id: "termitidae"
+subfamily_zh: "象白蚁亚科"
+subfamily_latin: "Nasutitermitinae"
+subfamily_id: "nasutitermitinae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Motschulsky, 1855"
+type_locality: "Panama: Obispo"
+distribution_zh: "巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛、引入：巴哈马、引入：帕劳、引入：巴布亚新几内亚、引入：美国"
+distribution_en: "Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States"
+synonym_count: 14
+synonyms: "Eutermes (Eutermes) costalis Holmgren, 1910: 293-294; Eutermes (Eutermes) cayennae Holmgren, 1910: 232-234; Eutermes (Eutermes) cayennae lividus Holmgren, 1910: 234; Eutermes (Eutermes) haitiensis Holmgren, 1910: 227-228; Eutermes (Eutermes) cayennae brevinasus Holmgren, 1910: 234; Eutermes (Eutermes) sanctaeluciae Holmgren, 1910: 226-227; Eutermes (Eutermes) martiniquensis Holmgren, 1910: 238-239; Eutermes (Eutermes) cayennae atriceps Holmgren, 1910: 234; Eutermes (Eutermes) sanchezi Holmgren, 1910: 236-237; Eutermes (Eutermes) haitiensis albus Holmgren, 1910: 228; Eutermes (Eutermes) costaricensis Holmgren, 1910: 237-238; Eutermes (Eutermes) insularis obscurus Holmgren, 1910: 240; Eutermes (Eutermes) insularis Holmgren, 1910: 239-240; Nasutitermes polygynus Roisin & Pasteels, 1985: 325-329"
+synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93333N 52.33W]; French Guiana: Cayenne [4.93333N 52.33W]; Haiti: ?; Suriname: Paramaribo: Paramaribo [5.8333N 55.1667W]; Saint Lucia: ?; Martinique (French): ?; Suriname: Paramaribo: Paramaribo [5.8333N 55.1667W]; Haiti: Sanchez; Haiti: ?; Costa Rica: Pacuarito; Ecuador: Azuay: Pucay [3.2S 79.25W]; Puerto Rico: P. Serre; Venezuela: Carabobo: Puerto Cabello [10.4731N 68.0125W]; Costa Rica: Port Limon; Costa Rica: Port Limon; Papua New Guinea: Bogia District, 3 km on the road to Bunapas, Nubia"
+---
+
+<!-- AUTO:BEGIN -->
+## Resumen
+
+***Nasutitermes corniger*** es una especie y la especie tipo del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución según la fuente: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States. Este sitio registra 14 sinónimos junior para la especie.
+
+## Etimología
+
+Nombre del género *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
+Epíteto específico *corniger*: De corni (cuerno) + ger (portador)
+
+<!-- src:S0018 -->
+
+## Posición taxonómica
+
+- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
+- **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
+
+## Distribución
+
+- **Registros de distribución (según la fuente)**: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States
+
+El registro anterior sigue la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.
+
+## Sinónimos junior
+
+Este sitio registra 14 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales:
+
+1. *Eutermes (Eutermes) costalis* Holmgren, 1910: 293-294 — type locality: Trinidad and Tobago: Trinidad
+2. *Eutermes (Eutermes) cayennae* Holmgren, 1910: 232-234 — type locality: French Guiana: Cayenne \[4.93333N 52.33W\]
+3. *Eutermes (Eutermes) cayennae lividus* Holmgren, 1910: 234 — type locality: French Guiana: Cayenne \[4.93333N 52.33W\]
+4. *Eutermes (Eutermes) haitiensis* Holmgren, 1910: 227-228 — type locality: Haiti: ?
+5. *Eutermes (Eutermes) cayennae brevinasus* Holmgren, 1910: 234 — type locality: Suriname: Paramaribo: Paramaribo \[5.8333N 55.1667W\]
+6. *Eutermes (Eutermes) sanctaeluciae* Holmgren, 1910: 226-227 — type locality: Saint Lucia: ?
+7. *Eutermes (Eutermes) martiniquensis* Holmgren, 1910: 238-239 — type locality: Martinique (French): ?
+8. *Eutermes (Eutermes) cayennae atriceps* Holmgren, 1910: 234 — type locality: Suriname: Paramaribo: Paramaribo \[5.8333N 55.1667W\]
+9. *Eutermes (Eutermes) sanchezi* Holmgren, 1910: 236-237 — type locality: Haiti: Sanchez
+10. *Eutermes (Eutermes) haitiensis albus* Holmgren, 1910: 228 — type locality: Haiti: ?
+11. *Eutermes (Eutermes) costaricensis* Holmgren, 1910: 237-238 — type locality: Costa Rica: Pacuarito
+12. *Eutermes (Eutermes) insularis obscurus* Holmgren, 1910: 240 — type locality: Ecuador: Azuay: Pucay \[3.2S 79.25W\]
+13. *Eutermes (Eutermes) insularis* Holmgren, 1910: 239-240 — type locality: Puerto Rico: P. Serre
+14. *Nasutitermes polygynus* Roisin & Pasteels, 1985: 325-329 — type locality: Venezuela: Carabobo: Puerto Cabello \[10.4731N 68.0125W\]
+
+En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes (Eutermes) costalis*, *Eutermes (Eutermes) cayennae*, *Eutermes (Eutermes) cayennae lividus*, *Eutermes (Eutermes) haitiensis*, *Eutermes (Eutermes) cayennae brevinasus*, *Eutermes (Eutermes) sanctaeluciae*, *Eutermes (Eutermes) martiniquensis*, *Eutermes (Eutermes) cayennae atriceps*); este sitio los reúne todos bajo *Nasutitermes corniger*.
+<!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/archotermopsis-kuznetsovi/
 title: "Archotermopsis kuznetsovi Belyaeva, 2004 库兹涅佐夫古白蚁"
 latin: "Archotermopsis kuznetsovi"
 zh: "库兹涅佐夫古白蚁"
@@ -21,46 +24,29 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **库兹涅佐夫古白蚁**（*Archotermopsis kuznetsovi*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种。本种由 Belyaeva 于 2004 年描述，模式产地为 Vietnam: 8 km. SE Shapa Mt。分布记录包括中国、越南。
 
-EN — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) is a species of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Belyaeva in 2004; the type locality is Vietnam: 8 km. SE Shapa Mt. Distribution: China, Vietnam.
-
-ES — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) es una especie del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Belyaeva en 2004; la localidad tipo es Vietnam: 8 km. SE Shapa Mt. Distribución: China, Vietnam.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Archotermopsis*：属名由希腊文 archaios（古老的、原始的）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合，意为「古老的类白蚁」。
 
-EN — *Archotermopsis*: From Greek archaios (ancient, primitive) + -termopsis (term- 'termite' + -opsis 'appearance'), 'ancient termite-like'.
-
-ES — *Archotermopsis*: Del griego archaios (antiguo, primitivo) + -termopsis (term- «termita» + -opsis «aspecto»), «semejante a una termita antigua».
-
 种加词 *kuznetsovi*：以人名 Kuznetsov（俄国）命名
-
-EN — epithet *kuznetsovi*: Named after Kuznetsov
-
-ES — epithet *kuznetsovi*: En honor de Kuznetsov
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
-- **属 Genus / Género**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/genus/archotermopsis/) —— 共 2 种（2 species · 2 especies）
-- **本属模式种 Type species / Especie tipo**：*Archotermopsis wroughtoni*
+- **科**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
+- **属**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/genus/archotermopsis/) —— 共 2 种
+- **本属模式种**：*Archotermopsis wroughtoni*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国、越南
-- **英文记录 English record / Registro en inglés**：China, Vietnam
+- **分布记录**：中国、越南
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->
 
 ## 中国记录

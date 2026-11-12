@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/ekphysotermes-jarmuranus/
 title: "Ekphysotermes jarmuranus Hill, 1929 贾穆瘤突白蚁"
 latin: "Ekphysotermes jarmuranus"
 zh: "贾穆瘤突白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **贾穆瘤突白蚁**（*Ekphysotermes jarmuranus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）瘤突白蚁属（*Ekphysotermes*）的一种。本种由 Hill 于 1929 年描述，模式产地为 Australia: Western Australia: 208 km SE Broome。分布记录包括澳大利亚。
 
-EN — **贾穆瘤突白蚁** (*Ekphysotermes jarmuranus*) is a species of the genus *Ekphysotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Hill in 1929; the type locality is Australia: Western Australia: 208 km SE Broome. Distribution: Australia.
-
-ES — **贾穆瘤突白蚁** (*Ekphysotermes jarmuranus*) es una especie del género *Ekphysotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1929; la localidad tipo es Australia: Western Australia: 208 km SE Broome. Distribución: Australia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Ekphysotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Ekphysotermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *jarmuranus*：以地名 Jarmura（澳大利亚）命名
-
-EN — epithet *jarmuranus*: Named after the locality Jarmura (Australia)
-
-ES — epithet *jarmuranus*: Por la localidad de Jarmura (Australia)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
-- **属 Genus / Género**：[瘤突白蚁属 *Ekphysotermes*]({{ site.base_url }}/genus/ekphysotermes/) —— 共 5 种（5 species · 5 especies）
-- **本属模式种 Type species / Especie tipo**：*Ekphysotermes kalgoorliensis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
+- **属**：[瘤突白蚁属 *Ekphysotermes*]({{ site.base_url }}/genus/ekphysotermes/) —— 共 5 种
+- **本属模式种**：*Ekphysotermes kalgoorliensis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
-- **英文记录 English record / Registro en inglés**：Australia
+- **分布记录**：澳大利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

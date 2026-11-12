@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/dissimulitermes-invisibilis/
 title: "Dissimulitermes invisibilis Constantini & Cancello, 2020 隐形隐藏白蚁"
 latin: "Dissimulitermes invisibilis"
 zh: "隐形隐藏白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **隐形隐藏白蚁**（*Dissimulitermes invisibilis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）隐藏白蚁属（*Dissimulitermes*）的现存唯一种。本种由 Constantini & Cancello 于 2020 年描述，模式产地为 Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi \[ 19.9078S 40.5414W \]。分布记录包括巴西。
 
-EN — **隐形隐藏白蚁** (*Dissimulitermes invisibilis*) is the only extant species of the genus *Dissimulitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Constantini & Cancello in 2020; the type locality is Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi \[ 19.9078S 40.5414W \]. Distribution: Brazil.
-
-ES — **隐形隐藏白蚁** (*Dissimulitermes invisibilis*) es la única especie viviente del género *Dissimulitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Constantini & Cancello en 2020; la localidad tipo es Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi \[ 19.9078S 40.5414W \]. Distribución: Brazil.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Dissimulitermes*：属名由拉丁文 dissimilis（不相似的）与 termes（白蚁）组合。
 
-EN — *Dissimulitermes*: From Latin dissimilis (dissimilar) + termes.
-
-ES — *Dissimulitermes*: Del latín dissimilis (disímil) + termes.
-
 种加词 *invisibilis*：拉丁文 invisibilis（不可见的）
-
-EN — epithet *invisibilis*: Latin invisibilis (invisible)
-
-ES — epithet *invisibilis*: Del latín invisibilis (invisible)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[隐藏白蚁属 *Dissimulitermes*]({{ site.base_url }}/genus/dissimulitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[隐藏白蚁属 *Dissimulitermes*]({{ site.base_url }}/genus/dissimulitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西
-- **英文记录 English record / Registro en inglés**：Brazil
+- **分布记录**：巴西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

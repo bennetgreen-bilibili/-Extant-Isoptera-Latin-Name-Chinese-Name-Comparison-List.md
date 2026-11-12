@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/euscaiotermes-primus/
 title: "Euscaiotermes primus Silvestri, 1923 第一左转白蚁"
 latin: "Euscaiotermes primus"
 zh: "第一左转白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **第一左转白蚁**（*Euscaiotermes primus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）左转白蚁属（*Euscaiotermes*）的现存唯一种。本种由 Silvestri 于 1923 年描述，模式产地为 India: Orissa: Chilka Lake: Barkuda Island。分布记录包括非洲热带、印度。
 
-EN — **第一左转白蚁** (*Euscaiotermes primus*) is the only extant species of the genus *Euscaiotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Silvestri in 1923; the type locality is India: Orissa: Chilka Lake: Barkuda Island. Distribution: Afrotropics, India.
-
-ES — **第一左转白蚁** (*Euscaiotermes primus*) es la única especie viviente del género *Euscaiotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Silvestri en 1923; la localidad tipo es India: Orissa: Chilka Lake: Barkuda Island. Distribución: Afrotropics, India.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Euscaiotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Euscaiotermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Euscaiotermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *primus*：拉丁文 primus（第一）
-
-EN — epithet *primus*: Latin primus (first)
-
-ES — epithet *primus*: Del latín primus (primero)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[左转白蚁属 *Euscaiotermes*]({{ site.base_url }}/genus/euscaiotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[左转白蚁属 *Euscaiotermes*]({{ site.base_url }}/genus/euscaiotermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲热带、印度
-- **英文记录 English record / Registro en inglés**：Afrotropics, India
+- **分布记录**：非洲热带、印度
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

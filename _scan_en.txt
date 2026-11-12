@@ -28,7 +28,7 @@
   28| Below follow **Family** → **Subfamily** → **Genus** → **Species**; the families, subfamilies, genera and species are listed below.
   29| 
   30| <div class="search-wrap">
-  31|   <input type="search" id="search-input" class="search-input" placeholder="Search scientific name, Chinese name, junior synonym, pinyin or traditional Chinese (e.g., Mastotermes, baiyi, 白蟻)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/" data-empty="No results found">
+  31|   <input type="search" id="search-input" class="search-input" placeholder="Search scientific name, Chinese name, junior synonym, pinyin or traditional Chinese (e.g., Mastotermes, baiyi, 白蟻)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://termite-extant-isoptera.org/en/list/" data-empty="No results found">
   32|   <ul id="search-results" class="search-results" style="display:none"></ul>
   33| </div>
   34| 

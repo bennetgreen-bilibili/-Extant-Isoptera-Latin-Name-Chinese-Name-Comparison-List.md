@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/ancistrotermes-crucifer-diversana/
 title: "Ancistrotermes crucifer diversana Silvestri, 1914 相异亚种"
 latin: "Ancistrotermes crucifer diversana"
 zh: "相异亚种"
@@ -25,45 +28,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **相异亚种**（*Ancistrotermes crucifer diversana*）是十字钩白蚁（*Ancistrotermes crucifer*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Kakoulima; Kindia。本页暂无单列的分布记录，母种 *Ancistrotermes crucifer* 的分布见下文「分布」一节。
 
-EN — **相异亚种** (*Ancistrotermes crucifer diversana*) is a subspecies of *Ancistrotermes crucifer*, in the family TERMITIDAE (subfamily Macrotermitinae), genus *Ancistrotermes*. The subspecies was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima; Kindia. No separate distribution record is listed on this page; see the parent species *Ancistrotermes crucifer*.
-
-ES — **相异亚种** (*Ancistrotermes crucifer diversana*) es una subespecie de *Ancistrotermes crucifer*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Ancistrotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Ancistrotermes crucifer*.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Ancistrotermes*：属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。
 
-EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
-
-ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
-
 种加词 *diversana*：拉丁文 diversus（相异的、多样的）
-
-EN — epithet *diversana*: Latin diversus (diverse, different)
-
-ES — epithet *diversana*: Del latín diversus (diverso, diferente)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/genus/ancistrotermes/) —— 共 16 种（16 species · 16 especies）
-- **种 Species / Especie**：[十字钩白蚁 *Ancistrotermes crucifer*]({{ site.base_url }}/species/ancistrotermes-crucifer/)
-- **亚种 Subspecies / Subespecie**：本页（*Ancistrotermes crucifer diversana*）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/genus/ancistrotermes/) —— 共 16 种
+- **种**：[十字钩白蚁 *Ancistrotermes crucifer*]({{ site.base_url }}/species/ancistrotermes-crucifer/)
+- **亚种**：本页（*Ancistrotermes crucifer diversana*）
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
 本亚种暂未单列分布记录；母种 *Ancistrotermes crucifer* 的分布为：旧热带界、西非、中非。
-
-<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Ancistrotermes crucifer</i> is given in the English record of the parent species below.</p>
-
-<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Ancistrotermes crucifer</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
-
-母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Old World tropics, West Africa, Central Africa。
 <!-- AUTO:END -->

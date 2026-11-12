@@ -3,11 +3,11 @@ layout: photos
 title: "Cortaritermes fulviceps 栗头利颚白蚁 全部图片（11 张）"
 description: "栗头利颚白蚁（Cortaritermes fulviceps）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 11 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
-permalink: /species/cortaritermes-fulviceps/photos/
+permalink: "/species/cortaritermes-fulviceps/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "cortaritermes-fulviceps"

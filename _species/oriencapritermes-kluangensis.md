@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/oriencapritermes-kluangensis/
 title: "Oriencapritermes kluangensis Ahmad & Akhtar, 1981 居銮东扭白蚁"
 latin: "Oriencapritermes kluangensis"
 zh: "居銮东扭白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **居銮东扭白蚁**（*Oriencapritermes kluangensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）东扭白蚁属（*Oriencapritermes*）的现存唯一种。本种由 Ahmad & Akhtar 于 1981 年描述，模式产地为 Malaysia: Sarawak: Kluang Forest。分布记录包括印度尼西亚、马来西亚。
 
-EN — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) is the only extant species of the genus *Oriencapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Ahmad & Akhtar in 1981; the type locality is Malaysia: Sarawak: Kluang Forest. Distribution: Indonesia, Malaysia.
-
-ES — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) es la única especie viviente del género *Oriencapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad & Akhtar en 1981; la localidad tipo es Malaysia: Sarawak: Kluang Forest. Distribución: Indonesia, Malaysia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Oriencapritermes*：属名由拉丁文 Oriens（东方）+ caper（山羊）与 termes（白蚁）组合。
 
-EN — *Oriencapritermes*: From Latin Oriens (the East) + caper (goat) + termes.
-
-ES — *Oriencapritermes*: Del latín Oriens (el Oriente) + caper (cabra) + termes.
-
 种加词 *kluangensis*：以地名 居銮（马来西亚） 命名
-
-EN — epithet *kluangensis*: Named after the locality Kluang
-
-ES — epithet *kluangensis*: Por la localidad de Kluang
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[东扭白蚁属 *Oriencapritermes*]({{ site.base_url }}/genus/oriencapritermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[东扭白蚁属 *Oriencapritermes*]({{ site.base_url }}/genus/oriencapritermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度尼西亚、马来西亚
-- **英文记录 English record / Registro en inglés**：Indonesia, Malaysia
+- **分布记录**：印度尼西亚、马来西亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

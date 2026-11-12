@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/pericapritermes-nitobei/
 title: "Pericapritermes nitobei Shiraki, 1909 新渡户近扭白蚁"
 latin: "Pericapritermes nitobei"
 zh: "新渡户近扭白蚁"
@@ -26,57 +29,38 @@ synonym_localities: "Taiwan: ?; China: Jiangsu Province: Tschingkiang; China: Gu
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **新渡户近扭白蚁**（*Pericapritermes nitobei*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Maruyama。分布记录包括韩国、日本、中国台湾、中国、印度尼西亚、马来西亚、泰国、越南。本站记录本种有 3 个次异名。
 
-EN — **新渡户近扭白蚁** (*Pericapritermes nitobei*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Shiraki in 1909; the type locality is Taiwan: Maruyama. Distribution: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. This site records 3 junior synonyms for the species.
-
-ES — **新渡户近扭白蚁** (*Pericapritermes nitobei*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Maruyama. Distribución: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
-EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
-
-ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
-
 种加词 *nitobei*：以人名 Nitobe（新渡户）命名（日本农学家、教育家新渡户稻造 Inazō Nitobe）
-
-EN — epithet *nitobei*: Named after Nitobe (Japanese agronomist and educator Inazō Nitobe)
-
-ES — epithet *nitobei*: En honor de Nitobe (agrónomo y educador japonés Inazō Nitobe)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种（40 species · 40 especies）
-- **本属模式种 Type species / Especie tipo**：*Pericapritermes urgens*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种
+- **本属模式种**：*Pericapritermes urgens*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：韩国、日本、中国台湾、中国、印度尼西亚、马来西亚、泰国、越南
-- **英文记录 English record / Registro en inglés**：South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam
+- **分布记录**：韩国、日本、中国台湾、中国、印度尼西亚、马来西亚、泰国、越南
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes sulcatus* Holmgren, 1912: 130-132 —— 模式产地：Taiwan: ?
 2. *Capritermes jangtsekiangensis* Kemner, 1925: 4-5 —— 模式产地：China: Jiangsu Province: Tschingkiang
 3. *Capritermes laevulobliquus* Zhu & Chen, 1983: 29-34 —— 模式产地：China: Guangdong Province: Meixian County: Yaoshan-Tiekeng reservoir
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes sulcatus*、*Capritermes jangtsekiangensis*、*Capritermes laevulobliquus* 等）出现，本站统一归入 *Pericapritermes nitobei*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Capritermes sulcatus*、*Capritermes jangtsekiangensis*、*Capritermes laevulobliquus*); this site treats them all under *Pericapritermes nitobei*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Capritermes sulcatus*、*Capritermes jangtsekiangensis*、*Capritermes laevulobliquus*); este sitio los reúne todos bajo *Pericapritermes nitobei*.
 <!-- AUTO:END -->

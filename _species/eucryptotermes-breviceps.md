@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/eucryptotermes-breviceps/
 title: "Eucryptotermes breviceps Constantino, 1997 短头真砂白蚁"
 latin: "Eucryptotermes breviceps"
 zh: "短头真砂白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **短头真砂白蚁**（*Eucryptotermes breviceps*）是木白蚁科（KALOTERMITIDAE）真砂白蚁属（*Eucryptotermes*）的一种。本种由 Constantino 于 1997 年描述，模式产地为 Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]。分布记录包括南美洲、巴西、法属圭亚那。
 
-EN — **短头真砂白蚁** (*Eucryptotermes breviceps*) is a species of the genus *Eucryptotermes*, in the family KALOTERMITIDAE. The species was described by Constantino in 1997; the type locality is Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribution: South America, Brazil, French Guiana.
-
-ES — **短头真砂白蚁** (*Eucryptotermes breviceps*) es una especie del género *Eucryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Constantino en 1997; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución: South America, Brazil, French Guiana.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Eucryptotermes*：属名由希腊文 eu-（良好、真）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
 
-EN — *Eucryptotermes*: From Greek eu- (well) + kryptos (hidden) + Latin termes.
-
-ES — *Eucryptotermes*: Del griego eu- (bien) + kryptos (oculto) + latín termes.
-
 种加词 *breviceps*：拉丁文/希腊文 brevi（短）+ ceps（头），指短头
-
-EN — epithet *breviceps*: From brevi (短) + ceps (头)
-
-ES — epithet *breviceps*: De brevi (corto) + ceps (cabeza)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[真砂白蚁属 *Eucryptotermes*]({{ site.base_url }}/genus/eucryptotermes/) —— 共 2 种（2 species · 2 especies）
-- **本属模式种 Type species / Especie tipo**：*Eucryptotermes hagenii*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[真砂白蚁属 *Eucryptotermes*]({{ site.base_url }}/genus/eucryptotermes/) —— 共 2 种
+- **本属模式种**：*Eucryptotermes hagenii*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南美洲、巴西、法属圭亚那
-- **英文记录 English record / Registro en inglés**：South America, Brazil, French Guiana
+- **分布记录**：南美洲、巴西、法属圭亚那
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/adaiphrotermes-choanensis/
 title: "Adaiphrotermes choanensis Fuller, 1925 乔安和白蚁"
 latin: "Adaiphrotermes choanensis"
 zh: "乔安和白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **乔安和白蚁**（*Adaiphrotermes choanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和白蚁属（*Adaiphrotermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Pretoria: Arcadia。分布记录包括肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦。
 
-EN — **乔安和白蚁** (*Adaiphrotermes choanensis*) is a species of the genus *Adaiphrotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Fuller in 1925; the type locality is South Africa: Pretoria: Arcadia. Distribution: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
-
-ES — **乔安和白蚁** (*Adaiphrotermes choanensis*) es una especie del género *Adaiphrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Pretoria: Arcadia. Distribución: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Adaiphrotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Adaiphrotermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Adaiphrotermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *choanensis*：以地名 Choan 命名
-
-EN — epithet *choanensis*: Named after the locality Choan
-
-ES — epithet *choanensis*: Por la localidad de Choan
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[和白蚁属 *Adaiphrotermes*]({{ site.base_url }}/genus/adaiphrotermes/) —— 共 3 种（3 species · 3 especies）
-- **本属模式种 Type species / Especie tipo**：*Adaiphrotermes cuniculator*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[和白蚁属 *Adaiphrotermes*]({{ site.base_url }}/genus/adaiphrotermes/) —— 共 3 种
+- **本属模式种**：*Adaiphrotermes cuniculator*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦
-- **英文记录 English record / Registro en inglés**：Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe
+- **分布记录**：肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

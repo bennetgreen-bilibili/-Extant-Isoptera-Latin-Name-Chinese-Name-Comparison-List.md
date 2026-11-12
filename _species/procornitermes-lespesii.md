@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/procornitermes-lespesii/
 title: "Procornitermes lespesii Müller, 1873 莱佩斯前角白蚁"
 latin: "Procornitermes lespesii"
 zh: "莱佩斯前角白蚁"
@@ -26,56 +29,37 @@ synonym_localities: "Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaqu
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **莱佩斯前角白蚁**（*Procornitermes lespesii*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]。分布记录包括巴西、玻利维亚、巴拉圭、阿根廷。本站记录本种有 2 个次异名。
 
-EN — **莱佩斯前角白蚁** (*Procornitermes lespesii*) is a species of the genus *Procornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Müller in 1873; the type locality is Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]. Distribution: Brazil, Bolivia, Paraguay, Argentina. This site records 2 junior synonyms for the species.
-
-ES — **莱佩斯前角白蚁** (*Procornitermes lespesii*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]. Distribución: Brazil, Bolivia, Paraguay, Argentina. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Procornitermes*：属名由希腊文 pro-（前）+ 拉丁文 cornu（角）与 termes（白蚁）组合。
 
-EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
-
-ES — *Procornitermes*: Del griego pro- (antes) + latín cornu (cuerno) + termes.
-
 种加词 *lespesii*：以人名 Lespès（莱斯佩）命名（法国昆虫学家 Charles Lespès）
-
-EN — epithet *lespesii*: Named after Lespès (French entomologist Charles Lespès)
-
-ES — epithet *lespesii*: En honor de Lespès (entomólogo francés Charles Lespès)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[前角白蚁属 *Procornitermes*]({{ site.base_url }}/genus/procornitermes/) —— 共 5 种（5 species · 5 especies）
-- **本属模式种 Type species / Especie tipo**：*Procornitermes triacifer*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[前角白蚁属 *Procornitermes*]({{ site.base_url }}/genus/procornitermes/) —— 共 5 种
+- **本属模式种**：*Procornitermes triacifer*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、玻利维亚、巴拉圭、阿根廷
-- **英文记录 English record / Registro en inglés**：Brazil, Bolivia, Paraguay, Argentina
+- **分布记录**：巴西、玻利维亚、巴拉圭、阿根廷
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes muelleri* Jhering, 1887: 3 —— 模式产地：Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]
 2. *Cornitermes cornutus* Holmgren, 1906: 549-551 —— 模式产地：Bolivia: La Paz: Río Tuichi \[14.28S 68.54W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes muelleri*、*Cornitermes cornutus* 等）出现，本站统一归入 *Procornitermes lespesii*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes muelleri*、*Cornitermes cornutus*); this site treats them all under *Procornitermes lespesii*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes muelleri*、*Cornitermes cornutus*); este sitio los reúne todos bajo *Procornitermes lespesii*.
 <!-- AUTO:END -->

@@ -1,0 +1,53 @@
+---
+layout: species
+title: "Reticulitermes xingyiensis Ping & Xu, 1983 兴义散白蚁"
+lang: en
+permalink: /en/species/reticulitermes-xingyiensis/
+species_page: true
+single_lang: true
+slug: "reticulitermes-xingyiensis"
+latin: "Reticulitermes xingyiensis"
+zh: "兴义散白蚁"
+type: false
+rank: "species"
+genus_zh: "散白蚁属"
+genus_latin: "Reticulitermes"
+genus_id: "reticulitermes"
+family_zh: "异白蚁科"
+family_latin: "HETEROTERMITIDAE"
+family_id: "heterotermitidae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1983"
+type_locality: "China: Guizhou Province: Xingyi County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
+translation_pending: true
+---
+
+<!-- AUTO:BEGIN -->
+## Summary
+
+***Reticulitermes xingyiensis*** is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Ping & Xu in 1983; the type locality is China: Guizhou Province: Xingyi County. Distribution: China.
+
+## Etymology
+
+Genus name *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+Specific epithet *xingyiensis*: Named after the locality Xingy
+
+<!-- src:S0018 -->
+
+## Taxonomic position
+
+- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Genus**: [*Reticulitermes*]({{ site.base_url }}/en/genus/reticulitermes/) — 140 species
+- **Type species of the genus**: *Reticulitermes flavipes*
+
+## Distribution
+
+- **Distribution records**: China
+
+The record above follows the wording of the original data; no geocoding or standardized place names have been applied.
+<!-- AUTO:END -->

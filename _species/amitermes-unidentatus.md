@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/amitermes-unidentatus/
 title: "Amitermes unidentatus Wasmann, 1897 单齿弓白蚁"
 latin: "Amitermes unidentatus"
 zh: "单齿弓白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Tanzania: Kilimanjaro; Kilimanjaro: Kibonoto; Ngare Nanyuki
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **单齿弓白蚁**（*Amitermes unidentatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Tanzania: Bawi。分布记录包括安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚。本站记录本种有 4 个次异名。
 
-EN — **单齿弓白蚁** (*Amitermes unidentatus*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Wasmann in 1897; the type locality is Tanzania: Bawi. Distribution: Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Africa, Sudan, Tanzania, Uganda, Zambia. This site records 4 junior synonyms for the species.
-
-ES — **单齿弓白蚁** (*Amitermes unidentatus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Tanzania: Bawi. Distribución: Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Africa, Sudan, Tanzania, Uganda, Zambia. Este sitio registra 4 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *unidentatus*：拉丁文/希腊文 unident（单齿）+ atus（具），指单齿具
-
-EN — epithet *unidentatus*: From unident (单齿) + atus (具)
-
-ES — epithet *unidentatus*: De unident (un diente) + atus (que posee)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
-- **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种（113 species · 113 especies）
-- **本属模式种 Type species / Especie tipo**：*Amitermes amifer*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
+- **属**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种
+- **本属模式种**：*Amitermes amifer*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚
-- **英文记录 English record / Registro en inglés**：Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Africa, Sudan, Tanzania, Uganda, Zambia
+- **分布记录**：安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes meruensis* Sjöstedt, 1911: 177-179 —— 模式产地：Tanzania: Kilimanjaro
 2. *Hamitermes elongatus* Silvestri, 1914: 77-78 —— 模式产地：Kilimanjaro: Kibonoto
@@ -78,6 +64,4 @@ ES — epithet *unidentatus*: De unident (un diente) + atus (que posee)
 4. *Amitermes macrocephalus* Ghidini, 1941: 31 —— 模式产地：Angola: S. Paolo de Loanda: Quifangondo
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes meruensis*、*Hamitermes elongatus*、*Hamitermes limpopoensis*、*Amitermes macrocephalus* 等）出现，本站统一归入 *Amitermes unidentatus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes meruensis*、*Hamitermes elongatus*、*Hamitermes limpopoensis*、*Amitermes macrocephalus*); this site treats them all under *Amitermes unidentatus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes meruensis*、*Hamitermes elongatus*、*Hamitermes limpopoensis*、*Amitermes macrocephalus*); este sitio los reúne todos bajo *Amitermes unidentatus*.
 <!-- AUTO:END -->

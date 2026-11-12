@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/paraconvexitermes-junceus/
 title: "Paraconvexitermes junceus Emerson, 1949 细长近凸白蚁"
 latin: "Paraconvexitermes junceus"
 zh: "细长近凸白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **细长近凸白蚁**（*Paraconvexitermes junceus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）近凸白蚁属（*Paraconvexitermes*）的一种。本种由 Emerson 于 1949 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、圭亚那、厄瓜多尔。
 
-EN — **细长近凸白蚁** (*Paraconvexitermes junceus*) is a species of the genus *Paraconvexitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Emerson in 1949; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Guyana, Ecuador.
-
-ES — **细长近凸白蚁** (*Paraconvexitermes junceus*) es una especie del género *Paraconvexitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1949; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, Guyana, Ecuador.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Paraconvexitermes*：属名由希腊文 para-（旁）+ 拉丁文 convexus（凸）与 termes（白蚁）组合。
 
-EN — *Paraconvexitermes*: From Greek para- (beside) + Latin convexus (convex) + termes.
-
-ES — *Paraconvexitermes*: Del griego para- (al lado de) + latín convexus (convexo) + termes.
-
 种加词 *junceus*：拉丁文 junceus（灯心草的、灯心草状的）
-
-EN — epithet *junceus*: Latin junceus (rush-like)
-
-ES — epithet *junceus*: Del latín junceus (semejante a un junco)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[近凸白蚁属 *Paraconvexitermes*]({{ site.base_url }}/genus/paraconvexitermes/) —— 共 3 种（3 species · 3 especies）
-- **本属模式种 Type species / Especie tipo**：*Paraconvexitermes nigricornis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[近凸白蚁属 *Paraconvexitermes*]({{ site.base_url }}/genus/paraconvexitermes/) —— 共 3 种
+- **本属模式种**：*Paraconvexitermes nigricornis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、圭亚那、厄瓜多尔
-- **英文记录 English record / Registro en inglés**：Brazil, Guyana, Ecuador
+- **分布记录**：巴西、圭亚那、厄瓜多尔
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/macrotermes-khajuriai/
 title: "Macrotermes khajuriai Roonwal & Chhotani, 1962 哈贾瑞大白蚁"
 latin: "Macrotermes khajuriai"
 zh: "哈贾瑞大白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **哈贾瑞大白蚁**（*Macrotermes khajuriai*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Roonwal & Chhotani 于 1962 年描述，模式产地为 India: Assam, Khasi-Jaintia Hills District, Umsa Nongkharai。分布记录包括印度东北部、不丹。
 
-EN — **哈贾瑞大白蚁** (*Macrotermes khajuriai*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Roonwal & Chhotani in 1962; the type locality is India: Assam, Khasi-Jaintia Hills District, Umsa Nongkharai. Distribution: northeastern India, Bhutan.
-
-ES — **哈贾瑞大白蚁** (*Macrotermes khajuriai*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam, Khasi-Jaintia Hills District, Umsa Nongkharai. Distribución: northeastern India, Bhutan.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
 
-EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
-
-ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
-
 种加词 *khajuriai*：以人名 Khajuria（印度）命名
-
-EN — epithet *khajuriai*: Named after Khajuria
-
-ES — epithet *khajuriai*: En honor de Khajuria
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种（57 species · 57 especies）
-- **本属模式种 Type species / Especie tipo**：*Macrotermes lilljeborgi*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
+- **本属模式种**：*Macrotermes lilljeborgi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度东北部、不丹
-- **英文记录 English record / Registro en inglés**：northeastern India, Bhutan
+- **分布记录**：印度东北部、不丹
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cornitermes-cumulans/
 title: "Cornitermes cumulans Kollar, 1832 成堆角象白蚁"
 latin: "Cornitermes cumulans"
 zh: "成堆角象白蚁"
@@ -26,50 +29,33 @@ synonym_localities: "Paraguay: ?; Brasil: ?; Brasil: Minas Gerais: Congonhas [20
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **成堆角象白蚁**（*Cornitermes cumulans*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1832 年描述，模式产地为 Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]。分布记录包括巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔。本站记录本种有 4 个次异名。
 
-EN — **成堆角象白蚁** (*Cornitermes cumulans*) is a species and the type species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Kollar in 1832; the type locality is Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]. Distribution: Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador. This site records 4 junior synonyms for the species.
-
-ES — **成堆角象白蚁** (*Cornitermes cumulans*) es una especie, y la especie tipo del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Kollar en 1832; la localidad tipo es Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]. Distribución: Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador. Este sitio registra 4 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
 
-EN — *Cornitermes*: From Latin cornu (horn) + termes.
-
-ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
-
 种加词 *cumulans*：拉丁文 cumulans（堆积的）
-
-EN — epithet *cumulans*: Latin cumulans (heaping)
-
-ES — epithet *cumulans*: Del latín cumulans (que acumula)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种（14 species · 14 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔
-- **英文记录 English record / Registro en inglés**：Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador
+- **分布记录**：巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes americana* Rengger, 1835: 267 —— 模式产地：Paraguay: ?
 2. *Termes dubius* Rambur, 1842: 309 —— 模式产地：Brasil: ?
@@ -77,6 +63,4 @@ ES — epithet *cumulans*: Del latín cumulans (que acumula)
 4. *Termes christiersoni* Sörensen, 1884: 20-22 —— 模式产地：Argentina: Chaco: Río de Oro \[27.0422S 58.5667W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni* 等）出现，本站统一归入 *Cornitermes cumulans*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni*); this site treats them all under *Cornitermes cumulans*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni*); este sitio los reúne todos bajo *Cornitermes cumulans*.
 <!-- AUTO:END -->

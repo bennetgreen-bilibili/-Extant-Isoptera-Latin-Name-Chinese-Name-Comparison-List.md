@@ -1,0 +1,56 @@
+---
+layout: species
+title: "Ahmaditermes pyricephalus Akhtar, 1975 梨头钝颚白蚁"
+lang: en
+permalink: /en/species/ahmaditermes-pyricephalus/
+species_page: true
+single_lang: true
+slug: "ahmaditermes-pyricephalus"
+latin: "Ahmaditermes pyricephalus"
+zh: "梨头钝颚白蚁"
+type: true
+rank: "species"
+genus_zh: "钝颚白蚁属"
+genus_latin: "Ahmaditermes"
+genus_id: "ahmaditermes"
+family_zh: "白蚁科"
+family_latin: "TERMITIDAE"
+family_id: "termitidae"
+subfamily_zh: "象白蚁亚科"
+subfamily_latin: "Nasutitermitinae"
+subfamily_id: "nasutitermitinae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Adampur"
+distribution_zh: "湖南（宜章）、孟加拉国、印度"
+distribution_en: "Hunan (Yizhang), Bangladesh, India"
+synonym_count: 0
+translation_pending: true
+---
+
+<!-- AUTO:BEGIN -->
+## Summary
+
+***Ahmaditermes pyricephalus*** is a species and the type species of the genus *Ahmaditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Akhtar in 1975; the type locality is Bangladesh: Adampur. Distribution: Hunan (Yizhang), Bangladesh, India.
+
+## Etymology
+
+Genus name *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
+
+Specific epithet *pyricephalus*: From the descriptive term 'pyr' (fire)
+
+<!-- src:S0018 -->
+
+## Taxonomic position
+
+- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
+- **Genus**: [*Ahmaditermes*]({{ site.base_url }}/en/genus/ahmaditermes/) — 21 species
+
+## Distribution
+
+- **Distribution records**: Hunan (Yizhang), Bangladesh, India
+
+The record above follows the wording of the original data; no geocoding or standardized place names have been applied.
+<!-- AUTO:END -->

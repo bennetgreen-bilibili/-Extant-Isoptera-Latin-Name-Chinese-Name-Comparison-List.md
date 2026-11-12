@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/nasutitermes-nigriceps/
 title: "Nasutitermes nigriceps Haldeman, 1854 黑头象白蚁"
 latin: "Nasutitermes nigriceps"
 zh: "黑头象白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Guatemala: San José; Colombia: Cundinamarca: Bogotá [4.6N
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **黑头象白蚁**（*Nasutitermes nigriceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Haldeman 于 1854 年描述，模式产地为 Mexico: Western Mexico。分布记录包括墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛。本站记录本种有 4 个次异名。
 
-EN — **黑头象白蚁** (*Nasutitermes nigriceps*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Haldeman in 1854; the type locality is Mexico: Western Mexico. Distribution: Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands. This site records 4 junior synonyms for the species.
-
-ES — **黑头象白蚁** (*Nasutitermes nigriceps*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haldeman en 1854; la localidad tipo es Mexico: Western Mexico. Distribución: Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands. Este sitio registra 4 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
 
-EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
-
-ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
-
 种加词 *nigriceps*：拉丁文 niger（黑）+ -ceps（头），黑头
-
-EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
-
-ES — epithet *nigriceps*: Del latín niger (negro) + -ceps (cabeza), de cabeza negra
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种（243 species · 243 especies）
-- **本属模式种 Type species / Especie tipo**：*Nasutitermes corniger*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
+- **本属模式种**：*Nasutitermes corniger*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛
-- **英文记录 English record / Registro en inglés**：Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands
+- **分布记录**：墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) guatemalae* Holmgren, 1910: 294-295 —— 模式产地：Guatemala: San José
 2. *Eutermes (Eutermes) pilifrons* Holmgren, 1910: 265-266 —— 模式产地：Colombia: Cundinamarca: Bogotá \[4.6N 74.0833W\]
@@ -78,6 +64,4 @@ ES — epithet *nigriceps*: Del latín niger (negro) + -ceps (cabeza), de cabeza
 4. *Nasutitermes dasyopsis* Thorne, 1989 —— 模式产地：Panama: Cuayabo Grande
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*、*Nasutitermes dasyopsis* 等）出现，本站统一归入 *Nasutitermes nigriceps*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*、*Nasutitermes dasyopsis*); this site treats them all under *Nasutitermes nigriceps*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*、*Nasutitermes dasyopsis*); este sitio los reúne todos bajo *Nasutitermes nigriceps*.
 <!-- AUTO:END -->

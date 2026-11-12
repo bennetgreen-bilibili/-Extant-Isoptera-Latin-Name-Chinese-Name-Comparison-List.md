@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/prohamitermes-hosei-minor/
 title: "Prohamitermes hosei minor Thapa, 1982 小亚种"
 latin: "Prohamitermes hosei minor"
 zh: "小亚种"
@@ -25,45 +28,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **小亚种**（*Prohamitermes hosei minor*）是霍斯前钩白蚁（*Prohamitermes hosei*）的一个亚种，隶属白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）前钩白蚁属（*Prohamitermes*）。本亚种由 Thapa 于 1982 年描述，模式产地为 Malaysia: Sabah: Keningau District: Tambunan。本页暂无单列的分布记录，母种 *Prohamitermes hosei* 的分布见下文「分布」一节。
 
-EN — **小亚种** (*Prohamitermes hosei minor*) is a subspecies of *Prohamitermes hosei*, in the family TERMITIDAE (subfamily Amitermitinae), genus *Prohamitermes*. The subspecies was described by Thapa in 1982; the type locality is Malaysia: Sabah: Keningau District: Tambunan. No separate distribution record is listed on this page; see the parent species *Prohamitermes hosei*.
-
-ES — **小亚种** (*Prohamitermes hosei minor*) es una subespecie de *Prohamitermes hosei*, en la familia TERMITIDAE (subfamilia Amitermitinae), género *Prohamitermes*. La subespecie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Keningau District: Tambunan. No se incluye un registro de distribución separado en esta página; véase la especie parental *Prohamitermes hosei*.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Prohamitermes*：属名由希腊文 pro-（前）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
 
-EN — *Prohamitermes*: From Greek pro- (before) + (hami, perhaps Latin hamus 'hook') + termes.
-
-ES — *Prohamitermes*: Del griego pro- (antes) + (hami, quizá el latín hamus «anzuelo») + termes.
-
 种加词 *minor*：拉丁文 minor（较小）
-
-EN — epithet *minor*: Latin minor (smaller)
-
-ES — epithet *minor*: Del latín minor (menor)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
-- **属 Genus / Género**：[前钩白蚁属 *Prohamitermes*]({{ site.base_url }}/genus/prohamitermes/) —— 共 2 种（2 species · 2 especies）
-- **种 Species / Especie**：[霍斯前钩白蚁 *Prohamitermes hosei*]({{ site.base_url }}/species/prohamitermes-hosei/)
-- **亚种 Subspecies / Subespecie**：本页（*Prohamitermes hosei minor*）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
+- **属**：[前钩白蚁属 *Prohamitermes*]({{ site.base_url }}/genus/prohamitermes/) —— 共 2 种
+- **种**：[霍斯前钩白蚁 *Prohamitermes hosei*]({{ site.base_url }}/species/prohamitermes-hosei/)
+- **亚种**：本页（*Prohamitermes hosei minor*）
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
 本亚种暂未单列分布记录；母种 *Prohamitermes hosei* 的分布为：婆罗洲、印度尼西亚、马来西亚。
-
-<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Prohamitermes hosei</i> is given in the English record of the parent species below.</p>
-
-<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Prohamitermes hosei</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
-
-母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Borneo, Indonesia, Malaysia。
 <!-- AUTO:END -->

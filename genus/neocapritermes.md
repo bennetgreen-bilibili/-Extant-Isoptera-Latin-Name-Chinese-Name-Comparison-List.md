@@ -3,7 +3,7 @@ layout: default
 title: "新扭白蚁属 Neocapritermes 物种名录"
 description: "新扭白蚁属（Neocapritermes）是白蚁科（TERMITIDAE）下的一个属，隶属新扭白蚁亚科（Neocapritermitinae），本站收录 17 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置见名录索引与上级科、亚科页面。详见名录索引。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
@@ -15,56 +15,38 @@ has_photos: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科"
     url: "/family/termitidae/"
-  - name: "新扭白蚁亚科 Neocapritermitinae"
+  - name: "新扭白蚁亚科"
     url: "/subfamily/neocapritermitinae/"
   - name: "新扭白蚁属 Neocapritermes"
     url: "/genus/neocapritermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置 · Taxonomic position · Posición taxonómica"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科</a> › <a href="{{ site.base_url }}/genus/neocapritermes/">新扭白蚁属 <i>Neocapritermes</i></a> › <span>本属 <span class="fact-en" lang="en">This genus</span> <span class="fact-es" lang="es">Este género</span></span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科</a> › <a href="{{ site.base_url }}/genus/neocapritermes/">新扭白蚁属 <i>Neocapritermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>新扭白蚁属 <i>Neocapritermes</i></h1>
-<p class="taxon-meta">白蚁科 TERMITIDAE · 17 种 <span class="fact-en" lang="en">Family <i>Termitidae</i> · 17 species</span> <span class="fact-es" lang="es">Familia <i>Termitidae</i> · 17 especies</span></p>
+<p class="taxon-meta">白蚁科 TERMITIDAE · 17 种</p>
 </header>
-<div class="taxon-search" data-pagefind-ignore data-anchors="neocapritermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
-<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（17 个种与亚种）：名字、分布或模式产地 <span class="fact-en" lang="en">Search within this genus (17 species and subspecies): name, distribution, or type locality</span> <span class="fact-es" lang="es">Buscar en este género (17 especies y subespecies): nombre, distribución o localidad tipo</span></label>
-<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚 · e.g. termite / Amitermes / Australia · p. ej. termita / Amitermes / Australia" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="neocapritermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（17 个种与亚种）：名字、分布或模式产地</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
 <p class="taxon-search-hint">按名字与产地筛选本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
-<p class="fact-en" lang="en">Filter the taxa recorded under this genus by name and locality; for the whole site use full-text search.</p>
-<p class="fact-es" lang="es">Filtre por nombre y localidad los taxones registrados en este género; para todo el sitio use la búsqueda de texto completo.</p>
 </div>
 <section class="taxon-section taxon-distribution" data-pagefind-ignore>
-<h2>分布图 <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
+<h2>分布图</h2>
 {% include distribution-map.html mode="genus" id="neocapritermes" %}
 </section>
 <section class="taxon-section taxon-photos-section" data-pagefind-ignore>
 {% include taxon-photos.html kind="genus" id="neocapritermes" limit=6 more="1" %}
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
-<h2>属级介绍 <span class="fact-en" lang="en">About the genus</span> <span class="fact-es" lang="es">Acerca del género</span></h2>
+<h2>属级介绍</h2>
 <p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科 <i>Neocapritermitinae</i></a>，本站收录 17 种。</p>
 <p>模式种：<i>Neocapritermes opacus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
-<p class="fact-en" lang="en">This genus belongs to the family <a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科 <i>Neocapritermitinae</i></a>; the site records 17 species.</p>
-<p class="fact-en" lang="en">Type species: <i>Neocapritermes opacus</i>.</p>
-<p class="fact-en" lang="en">This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
-<p class="fact-es" lang="es">Este género pertenece a la familia <a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科 <i>Neocapritermitinae</i></a>; el sitio registra 17 especies.</p>
-<p class="fact-es" lang="es">Especie tipo: <i>Neocapritermes opacus</i>.</p>
-<p class="fact-es" lang="es">Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
-</section>
-<section class="taxon-section taxon-etymology" data-pagefind-ignore>
-<h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
-<p>属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。</p>
-<p class="etymology-en fact-en" lang="en">From Greek neos (new) + Latin caper (goat) + termes.</p>
-<p class="etymology-es fact-es" lang="es">Del griego neos (nuevo) + latín caper (cabra) + termes.</p>
-<!-- src:S0018 -->
-<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
-<p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
-<p class="fact-es" lang="es">Las etimologías de esta sección son descomposiciones analíticas; las raíces siguen a Brown (1956).</p>
 </section>
 {%- assign fz = site.data.fauna_genera["/genus/neocapritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
@@ -72,10 +54,10 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>物种（17 种） <span class="fact-en" lang="en">Species (17 species)</span> <span class="fact-es" lang="es">Especies (17 especies)</span></h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/neocapritermes-angusticeps/"><i>Neocapritermes angusticeps</i> Emerson, 1925 窄头新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-araguaia/"><i>Neocapritermes araguaia</i> Krishna & Araujo, 1968 阿拉瓜亚新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-bodkini/"><i>Neocapritermes bodkini</i> Silvestri, 1923 博德金新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-braziliensis/"><i>Neocapritermes braziliensis</i> Snyder, 1926 巴西新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-centralis/"><i>Neocapritermes centralis</i> Snyder, 1932 中部新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-guyana/"><i>Neocapritermes guyana</i> Krishna & Araujo, 1968 圭亚那新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-longinotus/"><i>Neocapritermes longinotus</i> Snyder, 1926 长背新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-mirim/"><i>Neocapritermes mirim</i> Bandeira & Cancello, 1992 小型新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-opacus/"><i>Neocapritermes opacus</i> Hagen, 1858 发黑新扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/neocapritermes-parvus/"><i>Neocapritermes parvus</i> Silvestri, 1901 微型新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-pumilis/"><i>Neocapritermes pumilis</i> Constantino, 1991 侏儒新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-talpa/"><i>Neocapritermes talpa</i> Holmgren, 1906 鼹鼠新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-talpoides/"><i>Neocapritermes talpoides</i> Krishna & Araujo, 1968 似鼹鼠新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-taracua/"><i>Neocapritermes taracua</i> Krishna & Araujo, 1968 塔拉夸新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-unicornis/"><i>Neocapritermes unicornis</i> Constantino, 1991 独角新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-utiariti/"><i>Neocapritermes utiariti</i> Krishna & Araujo, 1968 乌蒂亚里蒂新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-villosus/"><i>Neocapritermes villosus</i> Holmgren, 1906 密毛新扭白蚁</a></li></ul>
+<h2>物种（17 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/neocapritermes-angusticeps/"><i>Neocapritermes angusticeps</i> Emerson, 1925 窄头新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-araguaia/"><i>Neocapritermes araguaia</i> Krishna & Araujo, 1968 阿拉瓜亚新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-bodkini/"><i>Neocapritermes bodkini</i> Silvestri, 1923 博德金新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-braziliensis/"><i>Neocapritermes braziliensis</i> Snyder, 1926 巴西新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-centralis/"><i>Neocapritermes centralis</i> Snyder, 1932 中部新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-guyana/"><i>Neocapritermes guyana</i> Krishna & Araujo, 1968 圭亚那新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-longinotus/"><i>Neocapritermes longinotus</i> Snyder, 1926 长背新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-mirim/"><i>Neocapritermes mirim</i> Bandeira & Cancello, 1992 小型新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-opacus/"><i>Neocapritermes opacus</i> Hagen, 1858 发黑新扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/neocapritermes-parvus/"><i>Neocapritermes parvus</i> Silvestri, 1901 微型新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-pumilis/"><i>Neocapritermes pumilis</i> Constantino, 1991 侏儒新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-talpa/"><i>Neocapritermes talpa</i> Holmgren, 1906 鼹鼠新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-talpoides/"><i>Neocapritermes talpoides</i> Krishna & Araujo, 1968 似鼹鼠新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-taracua/"><i>Neocapritermes taracua</i> Krishna & Araujo, 1968 塔拉夸新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-unicornis/"><i>Neocapritermes unicornis</i> Constantino, 1991 独角新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-utiariti/"><i>Neocapritermes utiariti</i> Krishna & Araujo, 1968 乌蒂亚里蒂新扭白蚁</a></li><li><a href="{{ site.base_url }}/species/neocapritermes-villosus/"><i>Neocapritermes villosus</i> Holmgren, 1906 密毛新扭白蚁</a></li></ul>
 </section>
-<p class="taxon-more">上一级 <span class="fact-en" lang="en">Parent level</span> <span class="fact-es" lang="es">Nivel superior</span>：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科 <i>Neocapritermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a> <span class="fact-en" lang="en">Back to the checklist · Home</span> <span class="fact-es" lang="es">Volver al listado · Inicio</span></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/neocapritermitinae/">新扭白蚁亚科 <i>Neocapritermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

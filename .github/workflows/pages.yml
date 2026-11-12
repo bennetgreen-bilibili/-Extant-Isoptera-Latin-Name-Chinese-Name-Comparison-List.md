@@ -71,6 +71,12 @@ jobs:
       - name: Build family / subfamily / genus hub pages
         run: python .github/workflows/build_taxonomy_pages.py
 
+      # 三语分页自检：zh / en / es 三份页面齐备、各自单语、站内链接带语言前缀。
+      # 放在分类页与物种页都生成之后、Jekyll 之前——一旦某语言漏页或混语，这里先红，
+      # 不用等整站构建完再在线上发现 404。
+      - name: Check three-language pages (zh / en / es)
+        run: python _tools/check_lang_pages.py --ci
+
       - name: Build sitemap.txt
         run: python .github/workflows/build_sitemap_txt.py
 
@@ -231,7 +237,7 @@ jobs:
           import urllib.request
 
           # 站点前缀用仓库固定的 base_url（_config.yml 里写死，不依赖 deploy 输出）
-          BASE = "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md"
+          BASE = "https://termite-extant-isoptera.org"
 
           # (路径, 必须出现的片段)；片段为 None 表示只校验状态码
           CHECKS = [

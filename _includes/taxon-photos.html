@@ -11,10 +11,16 @@
   为什么不直接全量渲染：白蚁科现有上千张照片，一次性输出会成为几千个 <img>。
   所以分类单元页只给 6 张预览，独立页按种分组、每种再截 6 张，
   更深的入口落在种级的 /species/<slug>/photos/（全量）。
+
+  三语分页（2026-11）：文案只输出页面语言那一份；站内链接（「全部图片」、种页）
+  一律加 LP = '' / '/en' / '/es' 前缀，指向同语言的页面。
 {%- endcomment -%}
 {%- assign tp_kind = include.kind | default: 'genus' -%}
 {%- assign tp_id = include.id -%}
 {%- assign tp_limit = include.limit | default: 6 | plus: 0 -%}
+{%- assign LL = page.lang | default: 'zh-CN' -%}
+{%- assign LP = '' -%}
+{%- if LL == 'en' -%}{%- assign LP = '/en' -%}{%- elsif LL == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
 {%- if tp_kind == 'family' -%}
   {%- assign tp_list = site.data.species_by_family[tp_id] -%}
 {%- elsif tp_kind == 'subfamily' -%}
@@ -35,11 +41,9 @@
 <div class="taxon-photos{% unless include.grouped %} species-gallery{% endunless %}">
   {%- if include.more -%}
   <div class="gallery-head taxon-photos-head">
-    <h2 class="gallery-title" id="taxon-photos-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ tp_total }} 张 · {{ tp_species }} 种 <span class="fact-en" lang="en">{{ tp_total }} photo{% if tp_total != 1 %}s{% endif %} · {{ tp_species }} species</span> <span class="fact-es" lang="es">{{ tp_total }} foto{% if tp_total != 1 %}s{% endif %} · {{ tp_species }} especie{% if tp_species != 1 %}s{% endif %}</span></span></h2>
-    <p class="gallery-lead">开放许可照片，点击可放大浏览。这里先展示 {{ tp_limit }} 张，按种查看请进「全部图片」。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者。</p>
-    <p class="gallery-lead fact-en" lang="en">Freely licensed photos; click to enlarge. This preview shows {{ tp_limit }} photo{% if tp_limit != 1 %}s{% endif %}; to browse by species, open “All photos”. Photos are hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers.</p>
-    <p class="gallery-lead fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Esta vista previa muestra {{ tp_limit }} foto{% if tp_limit != 1 %}s{% endif %}; para explorar por especies, abra «Todas las fotos». Las fotos se enlazan desde iNaturalist / Wikimedia Commons; los derechos son de sus autores.</p>
-    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}/{{ tp_kind }}/{{ tp_id }}/photos/">查看全部 {{ tp_total }} 张 <span class="fact-en" lang="en">View all {{ tp_total }} photo{% if tp_total != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">Ver todas las fotos ({{ tp_total }})</span> <span aria-hidden="true">→</span></a></p>
+    <h2 class="gallery-title" id="taxon-photos-title">{% if LL == 'en' %}Photographs{% elsif LL == 'es' %}Fotografías{% else %}图片{% endif %} <span class="gallery-count">{% if LL == 'en' %}{{ tp_total }} photo{% if tp_total != 1 %}s{% endif %} · {{ tp_species }} species{% elsif LL == 'es' %}{{ tp_total }} foto{% if tp_total != 1 %}s{% endif %} · {{ tp_species }} especie{% if tp_species != 1 %}s{% endif %}{% else %}{{ tp_total }} 张 · {{ tp_species }} 种{% endif %}</span></h2>
+    <p class="gallery-lead">{% if LL == 'en' %}Freely licensed photos; click to enlarge. This preview shows {{ tp_limit }} photo{% if tp_limit != 1 %}s{% endif %}; to browse by species, open “All photos”. Photos are hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers.{% elsif LL == 'es' %}Fotos con licencia libre; haga clic para ampliar. Esta vista previa muestra {{ tp_limit }} foto{% if tp_limit != 1 %}s{% endif %}; para explorar por especies, abra «Todas las fotos». Las fotos se enlazan desde iNaturalist / Wikimedia Commons; los derechos son de sus autores.{% else %}开放许可照片，点击可放大浏览。这里先展示 {{ tp_limit }} 张，按种查看请进「全部图片」。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者。{% endif %}</p>
+    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ LP }}/{{ tp_kind }}/{{ tp_id }}/photos/">{% if LL == 'en' %}View all {{ tp_total }} photo{% if tp_total != 1 %}s{% endif %}{% elsif LL == 'es' %}Ver todas las fotos ({{ tp_total }}){% else %}查看全部 {{ tp_total }} 张{% endif %} <span aria-hidden="true">→</span></a></p>
   </div>
   {%- endif -%}
   {%- if include.grouped -%}
@@ -49,7 +53,7 @@
     {%- assign tp_label = sp.latin | append: ' ' | append: sp.zh -%}
   <section class="species-gallery taxon-photos-group" aria-label="{{ tp_label | escape }}">
     <div class="gallery-head">
-      <h3 class="gallery-title gallery-species"><a href="{{ site.base_url }}{{ sp.url }}"><i>{{ sp.latin }}</i> {{ sp.zh }}</a> <span class="gallery-count">{{ tp_count.size }} 张 <span class="fact-en" lang="en">{{ tp_count.size }} photo{% if tp_count.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">{{ tp_count.size }} foto{% if tp_count.size != 1 %}s{% endif %}</span></span></h3>
+      <h3 class="gallery-title gallery-species"><a href="{{ site.base_url }}{{ LP }}{{ sp.url }}"><i>{{ sp.latin }}</i> {{ sp.zh }}</a> <span class="gallery-count">{% if LL == 'en' %}{{ tp_count.size }} photo{% if tp_count.size != 1 %}s{% endif %}{% elsif LL == 'es' %}{{ tp_count.size }} foto{% if tp_count.size != 1 %}s{% endif %}{% else %}{{ tp_count.size }} 张{% endif %}</span></h3>
     </div>
     <div class="gallery-grid">
       {%- for photo in tp_count -%}
@@ -58,7 +62,7 @@
       {%- endfor -%}
     </div>
     {%- if tp_limit > 0 and tp_count.size > tp_limit %}
-    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ sp.url }}photos/">该种全部 {{ tp_count.size }} 张 <span class="fact-en" lang="en">View all {{ tp_count.size }} photo{% if tp_count.size != 1 %}s{% endif %} of this species</span> <span class="fact-es" lang="es">Ver todas las fotos de esta especie ({{ tp_count.size }})</span> <span aria-hidden="true">→</span></a></p>
+    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ LP }}{{ sp.url }}photos/">{% if LL == 'en' %}View all {{ tp_count.size }} photo{% if tp_count.size != 1 %}s{% endif %} of this species{% elsif LL == 'es' %}Ver todas las fotos de esta especie ({{ tp_count.size }}){% else %}该种全部 {{ tp_count.size }} 张{% endif %} <span aria-hidden="true">→</span></a></p>
     {%- endif -%}
   </section>
     {%- endif -%}

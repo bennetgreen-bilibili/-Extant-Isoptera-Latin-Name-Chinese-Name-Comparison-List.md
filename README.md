@@ -1,6 +1,6 @@
 # 现存等翅下目（白蚁）拉丁学名—中文正名对照名录（站点）
 
-多页结构化的 GitHub Pages 站点。将本目录内全部文件放入仓库根目录即可。
+多页结构化的 GitHub Pages 站点，线上地址 <https://termite-extant-isoptera.org/>（自定义域名，DNS 托管在 Cloudflare）。将本目录内全部文件放入仓库根目录即可。
 
 ## 页面
 | 文件 | 页面 |
@@ -244,7 +244,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
 - **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语索引页同构、层级页面齐备（每个科／亚科／属都有页面、属页列全该属物种）、索引内部锚点、面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数）、sitemap 与 i18n、命名差异产物自洽，并把「中文重名 / 缺分布」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
-- `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取。**注意**：爬虫只读域名根 `https://bennetgreen-bilibili.github.io/robots.txt`，而本仓库的文件发布在 `…/-Extant-…-List.md/robots.txt` 这个子路径下，因此这份规则目前不生效（域名根 404 等价于全站允许，无副作用）；要让它生效需另建 `bennetgreen-bilibili.github.io` 用户站仓库。sitemap 请在 Search Console 直接提交
+- `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取，并声明两条 `Sitemap:`。2026-11-12 起站点用自定义域名 `https://termite-extant-isoptera.org`（Cloudflare 托管 DNS + GitHub Pages 自定义域名），站点位于域名根，`https://termite-extant-isoptera.org/robots.txt` 与其中的 sitemap 声明因此真正生效。仓库里**没有 `CNAME` 文件是正常的**：本站用自定义 GitHub Actions 工作流发布，GitHub 会忽略 CNAME 文件，域名在仓库 Settings → Pages 里填写。<!-- src:S0431 -->
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 3099 条）
 - `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3089 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明

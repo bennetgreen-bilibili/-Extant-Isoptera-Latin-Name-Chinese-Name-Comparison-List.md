@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/nasutitermes-corniger/
 title: "Nasutitermes corniger Motschulsky, 1855 具角象白蚁"
 latin: "Nasutitermes corniger"
 zh: "具角象白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **具角象白蚁**（*Nasutitermes corniger*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，也是本属的模式种。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。另有记录显示其已引入巴哈马、帕劳、巴布亚新几内亚、美国。本站记录本种有 14 个次异名。
 
-EN — **具角象白蚁** (*Nasutitermes corniger*) is a species and the type species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Motschulsky in 1855; the type locality is Panama: Obispo. Distribution: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States. This site records 14 junior synonyms for the species.
-
-ES — **具角象白蚁** (*Nasutitermes corniger*) es una especie, y la especie tipo del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States. Este sitio registra 14 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
 
-EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
-
-ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
-
 种加词 *corniger*：拉丁文/希腊文 corni（角）+ ger（具），指角具
-
-EN — epithet *corniger*: From corni (角) + ger (具)
-
-ES — epithet *corniger*: De corni (cuerno) + ger (portador)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种（243 species · 243 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛
-- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：巴哈马、帕劳、巴布亚新几内亚、美国
-- **英文记录 English record / Registro en inglés**：Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States
+- **分布记录**：巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛
+- **引入记录**：巴哈马、帕劳、巴布亚新几内亚、美国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 14 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 14 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 14 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 14 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) costalis* Holmgren, 1910: 293-294 —— 模式产地：Trinidad and Tobago: Trinidad
 2. *Eutermes (Eutermes) cayennae* Holmgren, 1910: 232-234 —— 模式产地：French Guiana: Cayenne \[4.93333N 52.33W\]
@@ -88,6 +74,4 @@ ES — epithet *corniger*: De corni (cuerno) + ger (portador)
 14. *Nasutitermes polygynus* Roisin & Pasteels, 1985: 325-329 —— 模式产地：Venezuela: Carabobo: Puerto Cabello \[10.4731N 68.0125W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) costalis*、*Eutermes (Eutermes) cayennae*、*Eutermes (Eutermes) cayennae lividus*、*Eutermes (Eutermes) haitiensis*、*Eutermes (Eutermes) cayennae brevinasus*、*Eutermes (Eutermes) sanctaeluciae*、*Eutermes (Eutermes) martiniquensis*、*Eutermes (Eutermes) cayennae atriceps* 等）出现，本站统一归入 *Nasutitermes corniger*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes (Eutermes) costalis*、*Eutermes (Eutermes) cayennae*、*Eutermes (Eutermes) cayennae lividus*、*Eutermes (Eutermes) haitiensis*、*Eutermes (Eutermes) cayennae brevinasus*、*Eutermes (Eutermes) sanctaeluciae*、*Eutermes (Eutermes) martiniquensis*、*Eutermes (Eutermes) cayennae atriceps*); this site treats them all under *Nasutitermes corniger*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes (Eutermes) costalis*、*Eutermes (Eutermes) cayennae*、*Eutermes (Eutermes) cayennae lividus*、*Eutermes (Eutermes) haitiensis*、*Eutermes (Eutermes) cayennae brevinasus*、*Eutermes (Eutermes) sanctaeluciae*、*Eutermes (Eutermes) martiniquensis*、*Eutermes (Eutermes) cayennae atriceps*); este sitio los reúne todos bajo *Nasutitermes corniger*.
 <!-- AUTO:END -->

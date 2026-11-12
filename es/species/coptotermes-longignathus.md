@@ -1,0 +1,52 @@
+---
+layout: species
+title: "Coptotermes longignathus Xia & He, 1986 长颚乳白蚁"
+lang: es
+permalink: /es/species/coptotermes-longignathus/
+species_page: true
+single_lang: true
+slug: "coptotermes-longignathus"
+latin: "Coptotermes longignathus"
+zh: "长颚乳白蚁"
+type: false
+rank: "species"
+genus_zh: "乳白蚁属"
+genus_latin: "Coptotermes"
+genus_id: "coptotermes"
+family_zh: "异白蚁科"
+family_latin: "HETEROTERMITIDAE"
+family_id: "heterotermitidae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Xia & He, 1986"
+type_locality: "China: Yunnan Province: Hekou County"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Resumen
+
+***Coptotermes longignathus*** es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Xia & He en 1986; la localidad tipo es China: Yunnan Province: Hekou County. Distribución según la fuente: China (Yunnan).
+
+## Etimología
+
+Nombre del género *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
+Epíteto específico *longignathus*: Del latín longus (largo) + del griego gnathos (mandíbula), de mandíbulas largas
+
+<!-- src:S0018 -->
+
+## Posición taxonómica
+
+- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
+- **Especie tipo del género**: *Coptotermes gestroi*
+
+## Distribución
+
+- **Registros de distribución (según la fuente)**: China (Yunnan)
+
+El registro anterior sigue la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.
+<!-- AUTO:END -->

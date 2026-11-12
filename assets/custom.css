@@ -598,3 +598,8 @@ body.search-overlay-open{overflow:hidden}
 .content .basics-toc li{margin:.25em 0}
 .content p.muted{color:var(--muted);font-size:.92em}
 
+
+/* 单语页「部分小节暂缺译文」提示条（_includes/translation-missing.html） */
+.content .lang-note{background:var(--accent-softer);border:1px solid var(--line-soft);border-left:3px solid var(--accent,#8a6d3b);border-radius:8px;padding:10px 14px;margin:0 0 1.4em;font-size:.93em;color:var(--muted)}
+.content .lang-note p{margin:.15em 0}
+.content .lang-note strong{color:inherit}

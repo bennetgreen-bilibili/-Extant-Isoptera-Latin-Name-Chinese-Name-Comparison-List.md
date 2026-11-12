@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/anoplotermes-pacificus/
 title: "Anoplotermes pacificus Müller, 1873 太平洋解甲白蚁"
 latin: "Anoplotermes pacificus"
 zh: "太平洋解甲白蚁"
@@ -26,54 +29,35 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **太平洋解甲白蚁**（*Anoplotermes pacificus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]。分布记录包括巴西、亚马孙地区。本站记录本种有 1 个次异名。
 
-EN — **太平洋解甲白蚁** (*Anoplotermes pacificus*) is a species and the type species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Müller in 1873; the type locality is Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribution: Brazil, Amazon region. This site records 1 junior synonym for the species.
-
-ES — **太平洋解甲白蚁** (*Anoplotermes pacificus*) es una especie, y la especie tipo del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribución: Brazil, Amazon region. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
 
-EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
-
-ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
-
 种加词 *pacificus*：拉丁文 pacificus，太平洋的
-
-EN — epithet *pacificus*: From Latin pacificus, of the Pacific
-
-ES — epithet *pacificus*: Del latín pacificus, del Pacífico
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种（23 species · 23 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、亚马孙地区
-- **英文记录 English record / Registro en inglés**：Brazil, Amazon region
+- **分布记录**：巴西、亚马孙地区
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes (Anoplotermes) indistinctus* Snyder, 1926: 52-53 —— 模式产地：Bolivia: La Paz: Tumupasa \[ 14.15S 67.9167W \]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes (Anoplotermes) indistinctus* 出现，本站统一归入 *Anoplotermes pacificus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Anoplotermes (Anoplotermes) indistinctus*; this site treats it under *Anoplotermes pacificus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Anoplotermes (Anoplotermes) indistinctus*; este sitio lo reúne bajo *Anoplotermes pacificus*.
 <!-- AUTO:END -->

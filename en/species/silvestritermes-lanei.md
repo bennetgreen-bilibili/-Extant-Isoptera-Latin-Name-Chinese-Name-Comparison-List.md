@@ -1,0 +1,56 @@
+---
+layout: species
+title: "Silvestritermes lanei Canter, 1968 莱恩西尔韦斯特里白蚁"
+lang: en
+permalink: /en/species/silvestritermes-lanei/
+species_page: true
+single_lang: true
+slug: "silvestritermes-lanei"
+latin: "Silvestritermes lanei"
+zh: "莱恩西尔韦斯特里白蚁"
+type: false
+rank: "species"
+genus_zh: "西尔韦斯特里白蚁属"
+genus_latin: "Silvestritermes"
+genus_id: "silvestritermes"
+family_zh: "白蚁科"
+family_latin: "TERMITIDAE"
+family_id: "termitidae"
+subfamily_zh: "聚白蚁亚科"
+subfamily_latin: "Syntermitinae"
+subfamily_id: "syntermitinae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Canter, 1968"
+type_locality: "Brasil: Mato Grosso do Sul: Três Lagoas, Fazenda Canaã [20.783S 51.8W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Summary
+
+***Silvestritermes lanei*** is a species of the genus *Silvestritermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Canter in 1968; the type locality is Brasil: Mato Grosso do Sul: Três Lagoas, Fazenda Canaã \[20.783S 51.8W\]. Distribution: Brazil.
+
+## Etymology
+
+Genus name *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
+
+Specific epithet *lanei*: Named after Lane
+
+<!-- src:S0018 -->
+
+## Taxonomic position
+
+- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
+- **Genus**: [*Silvestritermes*]({{ site.base_url }}/en/genus/silvestritermes/) — 7 species
+- **Type species of the genus**: *Silvestritermes euamignathus*
+
+## Distribution
+
+- **Distribution records**: Brazil
+
+The record above follows the wording of the original data; no geocoding or standardized place names have been applied.
+<!-- AUTO:END -->

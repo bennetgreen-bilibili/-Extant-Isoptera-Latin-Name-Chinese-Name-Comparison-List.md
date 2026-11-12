@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/parvitermes-collinsae/
 title: "Parvitermes collinsae Scheffrahn & Roisin, 1995 柯林斯微白蚁"
 latin: "Parvitermes collinsae"
 zh: "柯林斯微白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **柯林斯微白蚁**（*Parvitermes collinsae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）微白蚁属（*Parvitermes*）的一种。本种由 Scheffrahn & Roisin 于 1995 年描述，模式产地为 Dominican Republic: Barahona: Fondo Negro。分布记录包括多米尼加。
 
-EN — **柯林斯微白蚁** (*Parvitermes collinsae*) is a species of the genus *Parvitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Scheffrahn & Roisin in 1995; the type locality is Dominican Republic: Barahona: Fondo Negro. Distribution: Dominican Republic.
-
-ES — **柯林斯微白蚁** (*Parvitermes collinsae*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn & Roisin en 1995; la localidad tipo es Dominican Republic: Barahona: Fondo Negro. Distribución: Dominican Republic.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
 
-EN — *Parvitermes*: From Latin parvus (small) + termes.
-
-ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
-
 种加词 *collinsae*：以人名 Collins 命名
-
-EN — epithet *collinsae*: Named after Collins
-
-ES — epithet *collinsae*: En honor de Collins
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[微白蚁属 *Parvitermes*]({{ site.base_url }}/genus/parvitermes/) —— 共 11 种（11 species · 11 especies）
-- **本属模式种 Type species / Especie tipo**：*Parvitermes brooksi*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[微白蚁属 *Parvitermes*]({{ site.base_url }}/genus/parvitermes/) —— 共 11 种
+- **本属模式种**：*Parvitermes brooksi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：多米尼加
-- **英文记录 English record / Registro en inglés**：Dominican Republic
+- **分布记录**：多米尼加
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/gastrotermes-spinatus/
 title: "Gastrotermes spinatus Scheffrahn, 2020 多刺胃白蚁"
 latin: "Gastrotermes spinatus"
 zh: "多刺胃白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **多刺胃白蚁**（*Gastrotermes spinatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）胃白蚁属（*Gastrotermes*）的现存唯一种。本种由 Scheffrahn 于 2020 年描述，模式产地为 Cameroon: Korup National Park。分布记录包括西非/中非、喀麦隆。
 
-EN — **多刺胃白蚁** (*Gastrotermes spinatus*) is the only extant species of the genus *Gastrotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn in 2020; the type locality is Cameroon: Korup National Park. Distribution: West/Central Africa, Cameroon.
-
-ES — **多刺胃白蚁** (*Gastrotermes spinatus*) es la única especie viviente del género *Gastrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Cameroon: Korup National Park. Distribución: West/Central Africa, Cameroon.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Gastrotermes*：属名由希腊文 gastēr（腹）与拉丁文 termes（白蚁）组合。
 
-EN — *Gastrotermes*: From Greek gastēr (belly) + Latin termes.
-
-ES — *Gastrotermes*: Del griego gastēr (vientre) + latín termes.
-
 种加词 *spinatus*：拉丁文/希腊文 spin（刺）+ atus（具），指刺具
-
-EN — epithet *spinatus*: From spin (刺) + atus (具)
-
-ES — epithet *spinatus*: De spin (espina) + atus (que posee)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[胃白蚁属 *Gastrotermes*]({{ site.base_url }}/genus/gastrotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[胃白蚁属 *Gastrotermes*]({{ site.base_url }}/genus/gastrotermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非/中非、喀麦隆
-- **英文记录 English record / Registro en inglés**：West/Central Africa, Cameroon
+- **分布记录**：西非/中非、喀麦隆
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -3,11 +3,11 @@ layout: photos
 title: "Amitermes excellens 优秀弓白蚁 全部图片（8 张）"
 description: "优秀弓白蚁（Amitermes excellens）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 8 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
-permalink: /species/amitermes-excellens/photos/
+permalink: "/species/amitermes-excellens/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "amitermes-excellens"

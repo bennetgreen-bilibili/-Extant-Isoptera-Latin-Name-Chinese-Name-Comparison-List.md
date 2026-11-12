@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/trinervitermes-trinervius/
 title: "Trinervitermes trinervius Rambur, 1842 三脉三脉白蚁"
 latin: "Trinervitermes trinervius"
 zh: "三脉三脉白蚁"
@@ -26,56 +29,37 @@ synonym_localities: "Liberia: ?; Central African Republic: Fort de Possel; Democ
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **三脉三脉白蚁**（*Trinervitermes trinervius*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，也是本属的模式种。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达。本站记录本种有 3 个次异名。
 
-EN — **三脉三脉白蚁** (*Trinervitermes trinervius*) is a species and the type species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Rambur in 1842; the type locality is Senegal: ?. Distribution: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. This site records 3 junior synonyms for the species.
-
-ES — **三脉三脉白蚁** (*Trinervitermes trinervius*) es una especie, y la especie tipo del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es Senegal: ?. Distribución: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. Este sitio registra 3 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
 
-EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
-
-ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
-
 种加词 *trinervius*：拉丁文 tri-（三）+ nervus（脉），三脉
-
-EN — epithet *trinervius*: Latin tri- (three) + nervus (vein), three-veined
-
-ES — epithet *trinervius*: Del latín tri- (tres) + nervus (nervio), con tres nervios
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种（21 species · 21 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达
-- **英文记录 English record / Registro en inglés**：Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda
+- **分布记录**：塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes holmgreni* Rosen, 1912: 224-227 —— 模式产地：Liberia: ?
 2. *Eutermes posselensis* Sjöstedt, 1914: 94-95 —— 模式产地：Central African Republic: Fort de Possel
 3. *Trinervitermes carbonarius* Sjöstedt, 1926: 158-160 —— 模式产地：Democratic Republic of the Congo: (Belgian Congo): Haut Uèlè: Mauda
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes holmgreni*、*Eutermes posselensis*、*Trinervitermes carbonarius* 等）出现，本站统一归入 *Trinervitermes trinervius*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes holmgreni*、*Eutermes posselensis*、*Trinervitermes carbonarius*); this site treats them all under *Trinervitermes trinervius*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes holmgreni*、*Eutermes posselensis*、*Trinervitermes carbonarius*); este sitio los reúne todos bajo *Trinervitermes trinervius*.
 <!-- AUTO:END -->

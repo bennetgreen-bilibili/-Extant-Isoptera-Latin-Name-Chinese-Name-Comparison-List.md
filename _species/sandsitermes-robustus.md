@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/sandsitermes-robustus/
 title: "Sandsitermes robustus Holmgren, 1906 粗壮桑兹白蚁"
 latin: "Sandsitermes robustus"
 zh: "粗壮桑兹白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **粗壮桑兹白蚁**（*Sandsitermes robustus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）桑兹白蚁属（*Sandsitermes*）的现存唯一种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括秘鲁、巴西、哥伦比亚。
 
-EN — **粗壮桑兹白蚁** (*Sandsitermes robustus*) is the only extant species of the genus *Sandsitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribution: Peru, Brazil, Colombia.
-
-ES — **粗壮桑兹白蚁** (*Sandsitermes robustus*) es la única especie viviente del género *Sandsitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribución: Peru, Brazil, Colombia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Sandsitermes*：属名以人名 Sands 命名（英国白蚁学家 W. A. Sands），词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Sandsitermes*: Named after the termite taxonomist W. A. Sands; -termes from Latin termes.
-
-ES — *Sandsitermes*: En honor del taxónomo de termitas W. A. Sands; -termes, del latín termes.
-
 种加词 *robustus*：拉丁文 robustus（粗壮）
-
-EN — epithet *robustus*: Latin robustus (robust)
-
-ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[桑兹白蚁属 *Sandsitermes*]({{ site.base_url }}/genus/sandsitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[桑兹白蚁属 *Sandsitermes*]({{ site.base_url }}/genus/sandsitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：秘鲁、巴西、哥伦比亚
-- **英文记录 English record / Registro en inglés**：Peru, Brazil, Colombia
+- **分布记录**：秘鲁、巴西、哥伦比亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

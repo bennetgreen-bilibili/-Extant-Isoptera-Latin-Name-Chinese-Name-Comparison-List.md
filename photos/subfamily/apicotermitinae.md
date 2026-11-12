@@ -3,11 +3,11 @@ layout: photos
 title: "尖白蚁亚科 Apicotermitinae 全部图片（40 张，8 种）"
 description: "尖白蚁亚科（Apicotermitinae）亚科下 8 个种的开放许可照片，共 40 张，来自 iNaturalist 与 Wikimedia Commons；按种分组，每个种可继续查看其全部照片。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
-permalink: /subfamily/apicotermitinae/photos/
+permalink: "/subfamily/apicotermitinae/photos/"
 sitemap: true
 photo_kind: subfamily
 photo_id: "apicotermitinae"
@@ -22,6 +22,4 @@ breadcrumb:
     url: "/list/"
   - name: "白蚁科 TERMITIDAE"
     url: "/family/termitidae/"
-  - name: "尖白蚁亚科 Apicotermitinae"
-    url: "/subfamily/apicotermitinae/"
 ---

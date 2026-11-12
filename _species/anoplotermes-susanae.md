@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/anoplotermes-susanae/
 title: "Anoplotermes susanae Scheffrahn, Carrijo & Castro, 2023 苏珊解甲白蚁"
 latin: "Anoplotermes susanae"
 zh: "苏珊解甲白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **苏珊解甲白蚁**（*Anoplotermes susanae*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]。分布记录包括厄瓜多尔、巴西、法属圭亚那、秘鲁。
 
-EN — **苏珊解甲白蚁** (*Anoplotermes susanae*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn, Carrijo & Castro in 2023; the type locality is Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribution: Ecuador, Brazil, French Guiana, Peru.
-
-ES — **苏珊解甲白蚁** (*Anoplotermes susanae*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución: Ecuador, Brazil, French Guiana, Peru.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
 
-EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
-
-ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
-
 种加词 *susanae*：以人名 Susana（女性）命名
-
-EN — epithet *susanae*: Named after a person "Susana" (female name)
-
-ES — epithet *susanae*: En honor de una persona «Susana» (nombre femenino)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种（23 species · 23 especies）
-- **本属模式种 Type species / Especie tipo**：*Anoplotermes pacificus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种
+- **本属模式种**：*Anoplotermes pacificus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：厄瓜多尔、巴西、法属圭亚那、秘鲁
-- **英文记录 English record / Registro en inglés**：Ecuador, Brazil, French Guiana, Peru
+- **分布记录**：厄瓜多尔、巴西、法属圭亚那、秘鲁
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

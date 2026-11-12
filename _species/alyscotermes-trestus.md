@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/alyscotermes-trestus/
 title: "Alyscotermes trestus Sands, 1972 懦夫逃白蚁"
 latin: "Alyscotermes trestus"
 zh: "懦夫逃白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **懦夫逃白蚁**（*Alyscotermes trestus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种。本种由 Sands 于 1972 年描述，模式产地为 Kenya: Narok District: Mara, 9 miles from Olokurto。分布记录包括埃塞俄比亚、肯尼亚、坦桑尼亚。
 
-EN — **懦夫逃白蚁** (*Alyscotermes trestus*) is a species of the genus *Alyscotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Kenya: Narok District: Mara, 9 miles from Olokurto. Distribution: Ethiopia, Kenya, Tanzania.
-
-ES — **懦夫逃白蚁** (*Alyscotermes trestus*) es una especie del género *Alyscotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Kenya: Narok District: Mara, 9 miles from Olokurto. Distribución: Ethiopia, Kenya, Tanzania.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Alyscotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Alyscotermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Alyscotermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *trestus*：种加词来自希腊语 τρητός (trētos)「有孔的、穿孔的」（LSJ：perforated, having a hole in it，源自 τετραίνω tetrainō「钻孔」），拉丁化作 trestus，或指工蚁肠瓣（enteric valve）的刺状构造。
-
-EN — epithet *trestus*: From Greek τρητός (trētos) 'perforated, having a hole in it' (LSJ, from τετραίνω tetrainō 'to bore'), Latinized as trestus, perhaps referring to the spiny enteric valve armature of the worker caste.
-
-ES — epithet *trestus*: Del griego τρητός (trētos) «perforado, con un orificio» (LSJ, de τετραίνω tetrainō «perforar»), latinizado como trestus, quizá en referencia a la armadura espinosa de la válvula entérica de la casta obrera.
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[逃白蚁属 *Alyscotermes*]({{ site.base_url }}/genus/alyscotermes/) —— 共 2 种（2 species · 2 especies）
-- **本属模式种 Type species / Especie tipo**：*Alyscotermes kilimandjaricus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[逃白蚁属 *Alyscotermes*]({{ site.base_url }}/genus/alyscotermes/) —— 共 2 种
+- **本属模式种**：*Alyscotermes kilimandjaricus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：埃塞俄比亚、肯尼亚、坦桑尼亚
-- **英文记录 English record / Registro en inglés**：Ethiopia, Kenya, Tanzania
+- **分布记录**：埃塞俄比亚、肯尼亚、坦桑尼亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

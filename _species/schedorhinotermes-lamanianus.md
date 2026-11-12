@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/schedorhinotermes-lamanianus/
 title: "Schedorhinotermes lamanianus Sjöstedt, 1911 拉曼长鼻白蚁"
 latin: "Schedorhinotermes lamanianus"
 zh: "拉曼长鼻白蚁"
@@ -23,50 +26,33 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
 
-EN — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
-
-ES — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribución: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
-EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
-
-ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
-
 种加词 *lamanianus*：以人名 Laman（-ianus 敬称）命名
-
-EN — epithet *lamanianus*: Named after Laman
-
-ES — epithet *lamanianus*: En honor de Laman
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
-- **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种（35 species · 35 especies）
-- **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*
+- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **属**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种
+- **本属模式种**：*Schedorhinotermes intermedius*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦
-- **英文记录 English record / Registro en inglés**：West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe
+- **分布记录**：西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhinotermes bequaertianus* Sjöstedt, 1913: 357-358 —— 模式产地：Democratic Republic of the Congo: Katanga: Lubumbashi
 2. *Schedorhinotermes putorius australis* Fuller, 1921: 51-52 —— 模式产地：Mozambique: Beira
@@ -74,6 +60,4 @@ ES — epithet *lamanianus*: En honor de Laman
 4. *Schedorhinotermes provisorius* Grassé, 1937: 20-26 —— 模式产地：Ivory Coast: Béoumi
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes bequaertianus*、*Schedorhinotermes putorius australis*、*Rhinotermes (Schedorhinotermes) lamanianus angulatus*、*Schedorhinotermes provisorius* 等）出现，本站统一归入 *Schedorhinotermes lamanianus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Rhinotermes bequaertianus*、*Schedorhinotermes putorius australis*、*Rhinotermes (Schedorhinotermes) lamanianus angulatus*、*Schedorhinotermes provisorius*); this site treats them all under *Schedorhinotermes lamanianus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Rhinotermes bequaertianus*、*Schedorhinotermes putorius australis*、*Rhinotermes (Schedorhinotermes) lamanianus angulatus*、*Schedorhinotermes provisorius*); este sitio los reúne todos bajo *Schedorhinotermes lamanianus*.
 <!-- AUTO:END -->

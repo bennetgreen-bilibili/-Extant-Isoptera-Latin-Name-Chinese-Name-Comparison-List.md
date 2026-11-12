@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/coptotermes-frenchi/
 title: "Coptotermes frenchi Hill, 1932 弗伦奇乳白蚁"
 latin: "Coptotermes frenchi"
 zh: "弗伦奇乳白蚁"
@@ -23,55 +26,36 @@ synonym_localities: "Australia: South Australia: Barton"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **弗伦奇乳白蚁**（*Coptotermes frenchi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Hill 于 1932 年描述，模式产地为 Australia: Victoria: Melbourne, Hawthorne。分布记录包括澳大利亚。另有记录显示其已引入新西兰。本站记录本种有 1 个次异名。
 
-EN — **弗伦奇乳白蚁** (*Coptotermes frenchi*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Hill in 1932; the type locality is Australia: Victoria: Melbourne, Hawthorne. Distribution: Australia; introduced: New Zealand. This site records 1 junior synonym for the species.
-
-ES — **弗伦奇乳白蚁** (*Coptotermes frenchi*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Hill en 1932; la localidad tipo es Australia: Victoria: Melbourne, Hawthorne. Distribución: Australia; introduced: New Zealand. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
-EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
-
-ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
-
 种加词 *frenchi*：以人名 French（或 Charles French，澳大利亚昆虫学家）命名
-
-EN — epithet *frenchi*: Named after French
-
-ES — epithet *frenchi*: En honor de French
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
-- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
-- **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
+- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
+- **本属模式种**：*Coptotermes gestroi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
-- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：新西兰
-- **英文记录 English record / Registro en inglés**：Australia; introduced: New Zealand
+- **分布记录**：澳大利亚
+- **引入记录**：新西兰
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes labiosus* Hill, 1926: 213-214 —— 模式产地：Australia: South Australia: Barton
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes labiosus* 出现，本站统一归入 *Coptotermes frenchi*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Coptotermes labiosus*; this site treats it under *Coptotermes frenchi*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Coptotermes labiosus*; este sitio lo reúne bajo *Coptotermes frenchi*.
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/pericapritermes-semarangi/
 title: "Pericapritermes semarangi Holmgren, 1913 三宝近扭白蚁"
 latin: "Pericapritermes semarangi"
 zh: "三宝近扭白蚁"
@@ -26,56 +29,37 @@ synonym_localities: "Indonesia: Java: Semarang; Indonesia: Sumatra: Kota Bahru"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **三宝近扭白蚁**（*Pericapritermes semarangi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Java: Semarang。分布记录包括印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国。本站记录本种有 2 个次异名。
 
-EN — **三宝近扭白蚁** (*Pericapritermes semarangi*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Holmgren in 1913; the type locality is Indonesia: Java: Semarang. Distribution: India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand. This site records 2 junior synonyms for the species.
-
-ES — **三宝近扭白蚁** (*Pericapritermes semarangi*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Java: Semarang. Distribución: India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
-EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
-
-ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
-
 种加词 *semarangi*：以地名 Semarang（三宝垄，印度尼西亚中爪哇）命名
-
-EN — epithet *semarangi*: Named after the locality Semarang (Central Java, Indonesia)
-
-ES — epithet *semarangi*: Por la localidad de Semarang (Java Central, Indonesia)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种（40 species · 40 especies）
-- **本属模式种 Type species / Especie tipo**：*Pericapritermes urgens*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种
+- **本属模式种**：*Pericapritermes urgens*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国
-- **英文记录 English record / Registro en inglés**：India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand
+- **分布记录**：印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes javanicus* Holmgren, 1913: 255-256 —— 模式产地：Indonesia: Java: Semarang
 2. *Capritermes sumatrensis* John, 1925: 215-216 —— 模式产地：Indonesia: Sumatra: Kota Bahru
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes javanicus*、*Capritermes sumatrensis* 等）出现，本站统一归入 *Pericapritermes semarangi*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Capritermes javanicus*、*Capritermes sumatrensis*); this site treats them all under *Pericapritermes semarangi*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Capritermes javanicus*、*Capritermes sumatrensis*); este sitio los reúne todos bajo *Pericapritermes semarangi*.
 <!-- AUTO:END -->

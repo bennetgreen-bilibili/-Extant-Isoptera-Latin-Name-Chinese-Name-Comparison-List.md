@@ -21,7 +21,7 @@ permalink: /download/
 <tbody>
 {% for f in downloads %}
   <tr>
-    <td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md{{ f.path }}" download>{{ f.name }}</a></td>
+    <td><a href="https://termite-extant-isoptera.org{{ f.path }}" download>{{ f.name }}</a></td>
     <td class="num">{{ f.extname | remove_first: '.' | upcase }}</td>
   </tr>
 {% endfor %}

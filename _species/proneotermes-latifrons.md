@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/proneotermes-latifrons/
 title: "Proneotermes latifrons Silvestri, 1901 宽额前新白蚁"
 latin: "Proneotermes latifrons"
 zh: "宽额前新白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **宽额前新白蚁**（*Proneotermes latifrons*）是木白蚁科（KALOTERMITIDAE）前新白蚁属（*Proneotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括委内瑞拉。
 
-EN — **宽额前新白蚁** (*Proneotermes latifrons*) is a species of the genus *Proneotermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribution: Venezuela.
-
-ES — **宽额前新白蚁** (*Proneotermes latifrons*) es una especie del género *Proneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución: Venezuela.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Proneotermes*：属名由希腊文 pro-（前）+ neos（新）与拉丁文 termes（白蚁）组合。
 
-EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
-
-ES — *Proneotermes*: Del griego pro- (antes) + neos (nuevo) + latín termes.
-
 种加词 *latifrons*：拉丁文/希腊文 lati（宽）+ frons（额），指宽额
-
-EN — epithet *latifrons*: From lati (宽) + frons (额)
-
-ES — epithet *latifrons*: De lati (ancho) + frons (frente)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[前新白蚁属 *Proneotermes*]({{ site.base_url }}/genus/proneotermes/) —— 共 4 种（4 species · 4 especies）
-- **本属模式种 Type species / Especie tipo**：*Proneotermes perezi*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[前新白蚁属 *Proneotermes*]({{ site.base_url }}/genus/proneotermes/) —— 共 4 种
+- **本属模式种**：*Proneotermes perezi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：委内瑞拉
-- **英文记录 English record / Registro en inglés**：Venezuela
+- **分布记录**：委内瑞拉
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

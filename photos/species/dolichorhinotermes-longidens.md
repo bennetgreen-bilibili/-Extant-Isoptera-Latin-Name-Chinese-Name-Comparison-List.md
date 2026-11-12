@@ -3,11 +3,11 @@ layout: photos
 title: "Dolichorhinotermes longidens 长齿狭鼻白蚁 全部图片（1 张）"
 description: "长齿狭鼻白蚁（Dolichorhinotermes longidens）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 1 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: rhinotermitidae
 last_modified_at: 2026-10-30
-permalink: /species/dolichorhinotermes-longidens/photos/
+permalink: "/species/dolichorhinotermes-longidens/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "dolichorhinotermes-longidens"

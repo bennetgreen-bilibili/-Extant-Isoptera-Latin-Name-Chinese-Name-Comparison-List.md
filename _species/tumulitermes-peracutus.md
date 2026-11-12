@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/tumulitermes-peracutus/
 title: "Tumulitermes peracutus Hill, 1925 锐利冢白蚁"
 latin: "Tumulitermes peracutus"
 zh: "锐利冢白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **锐利冢白蚁**（*Tumulitermes peracutus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种。本种由 Hill 于 1925 年描述，模式产地为 Australia: Western Australia: Beverley。分布记录包括澳大利亚。
 
-EN — **锐利冢白蚁** (*Tumulitermes peracutus*) is a species of the genus *Tumulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Hill in 1925; the type locality is Australia: Western Australia: Beverley. Distribution: Australia.
-
-ES — **锐利冢白蚁** (*Tumulitermes peracutus*) es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1925; la localidad tipo es Australia: Western Australia: Beverley. Distribución: Australia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Tumulitermes*：属名由拉丁文 tumulus（土丘、坟）与 termes（白蚁）组合。
 
-EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
-
-ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
-
 种加词 *peracutus*：拉丁文 per-（非常）+ acutus（尖），极尖
-
-EN — epithet *peracutus*: Latin per- (very) + acutus (sharp), very sharp
-
-ES — epithet *peracutus*: Del latín per- (muy) + acutus (agudo), muy agudo
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[冢白蚁属 *Tumulitermes*]({{ site.base_url }}/genus/tumulitermes/) —— 共 17 种（17 species · 17 especies）
-- **本属模式种 Type species / Especie tipo**：*Tumulitermes tumuli*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[冢白蚁属 *Tumulitermes*]({{ site.base_url }}/genus/tumulitermes/) —— 共 17 种
+- **本属模式种**：*Tumulitermes tumuli*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
-- **英文记录 English record / Registro en inglés**：Australia
+- **分布记录**：澳大利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

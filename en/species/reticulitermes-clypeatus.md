@@ -1,0 +1,52 @@
+---
+layout: species
+title: "Reticulitermes clypeatus Lash, 1952 大唇散白蚁"
+lang: en
+permalink: /en/species/reticulitermes-clypeatus/
+species_page: true
+single_lang: true
+slug: "reticulitermes-clypeatus"
+latin: "Reticulitermes clypeatus"
+zh: "大唇散白蚁"
+type: false
+rank: "species"
+genus_zh: "散白蚁属"
+genus_latin: "Reticulitermes"
+genus_id: "reticulitermes"
+family_zh: "异白蚁科"
+family_latin: "HETEROTERMITIDAE"
+family_id: "heterotermitidae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Lash, 1952"
+type_locality: "Israel: Jerusalem"
+distribution_zh: "中东、以色列、土耳其、罗马尼亚"
+distribution_en: "Middle East, Israel, Turkey, Romania"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Summary
+
+***Reticulitermes clypeatus*** is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Lash in 1952; the type locality is Israel: Jerusalem. Distribution: Middle East, Israel, Turkey, Romania.
+
+## Etymology
+
+Genus name *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+Specific epithet *clypeatus*: Latin clypeatus (shielded)
+
+<!-- src:S0018 -->
+
+## Taxonomic position
+
+- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Genus**: [*Reticulitermes*]({{ site.base_url }}/en/genus/reticulitermes/) — 140 species
+- **Type species of the genus**: *Reticulitermes flavipes*
+
+## Distribution
+
+- **Distribution records**: Middle East, Israel, Turkey, Romania
+
+The record above follows the wording of the original data; no geocoding or standardized place names have been applied.
+<!-- AUTO:END -->

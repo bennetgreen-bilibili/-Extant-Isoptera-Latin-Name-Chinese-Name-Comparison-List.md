@@ -1,0 +1,31 @@
+---
+layout: photos
+title: "Syntermes grandis — all photos (3)"
+description: "Freely licensed photos of Syntermes grandis (大聚白蚁) from iNaturalist and Wikimedia Commons, 3 in total; each photo gives its author, licence and original page, and opens in a larger view."
+lang: en
+single_lang: true
+author: 班奈特格林
+family_id: termitidae
+last_modified_at: 2026-10-30
+permalink: "/en/species/syntermes-grandis/photos/"
+sitemap: true
+photo_kind: species
+photo_id: "syntermes-grandis"
+photo_latin: "Syntermes grandis"
+photo_zh: "大聚白蚁"
+photo_count: 3
+back_url: "/species/syntermes-grandis/"
+back_label: "Syntermes grandis 大聚白蚁"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/47787317/large.jpg"
+breadcrumb:
+  - name: "List"
+    url: "/en/list/"
+  - name: "TERMITIDAE"
+    url: "/en/family/termitidae/"
+  - name: "Syntermitinae"
+    url: "/en/subfamily/syntermitinae/"
+  - name: "Syntermes"
+    url: "/en/genus/syntermes/"
+  - name: "Syntermes grandis"
+    url: "/en/species/syntermes-grandis/"
+---

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/isognathotermes-ugandensis-burundii/
 title: "Isognathotermes ugandensis burundii Josens & Deligne, 2025 布隆迪亚种"
 latin: "Isognathotermes ugandensis burundii"
 zh: "布隆迪亚种"
@@ -24,45 +27,27 @@ type_locality: "Burundi: Ruvubu N.P. [ 2.945S 30.438E ]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **布隆迪亚种**（*Isognathotermes ugandensis burundii*）是乌干达等颚白蚁（*Isognathotermes ugandensis*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）。本亚种由 Josens & Deligne 于 2025 年描述，模式产地为 Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]。本页暂无单列的分布记录，母种 *Isognathotermes ugandensis* 的分布见下文「分布」一节。
 
-EN — **布隆迪亚种** (*Isognathotermes ugandensis burundii*) is a subspecies of *Isognathotermes ugandensis*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Isognathotermes*. The subspecies was described by Josens & Deligne in 2025; the type locality is Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]. No separate distribution record is listed on this page; see the parent species *Isognathotermes ugandensis*.
-
-ES — **布隆迪亚种** (*Isognathotermes ugandensis burundii*) es una subespecie de *Isognathotermes ugandensis*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Isognathotermes*. La subespecie fue descrita por Josens & Deligne en 2025; la localidad tipo es Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]. No se incluye un registro de distribución separado en esta página; véase la especie parental *Isognathotermes ugandensis*.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
 
-EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
-
-ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
-
 种加词 *burundii*：以地名 Burundi（布隆迪）命名
-
-EN — epithet *burundii*: Named after Burundi
-
-ES — epithet *burundii*: Por Burundi
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
-- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/genus/isognathotermes/) —— 共 16 种（16 species · 16 especies）
-- **种 Species / Especie**：[乌干达等颚白蚁 *Isognathotermes ugandensis*]({{ site.base_url }}/species/isognathotermes-ugandensis/)
-- **亚种 Subspecies / Subespecie**：本页（*Isognathotermes ugandensis burundii*）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
+- **属**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/genus/isognathotermes/) —— 共 16 种
+- **种**：[乌干达等颚白蚁 *Isognathotermes ugandensis*]({{ site.base_url }}/species/isognathotermes-ugandensis/)
+- **亚种**：本页（*Isognathotermes ugandensis burundii*）
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
 本亚种暂未单列分布记录；母种 *Isognathotermes ugandensis* 的分布为：乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚。
-
-<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Isognathotermes ugandensis</i> is given in the English record of the parent species below.</p>
-
-<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Isognathotermes ugandensis</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
-
-母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Uganda, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Zambia。
 <!-- AUTO:END -->

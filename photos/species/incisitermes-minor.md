@@ -3,11 +3,11 @@ layout: photos
 title: "Incisitermes minor 小楹白蚁 全部图片（120 张）"
 description: "小楹白蚁（Incisitermes minor）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 120 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: kalotermitidae
 last_modified_at: 2026-10-30
-permalink: /species/incisitermes-minor/photos/
+permalink: "/species/incisitermes-minor/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "incisitermes-minor"

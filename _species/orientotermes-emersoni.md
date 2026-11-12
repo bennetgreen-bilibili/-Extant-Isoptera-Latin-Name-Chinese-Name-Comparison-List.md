@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/orientotermes-emersoni/
 title: "Orientotermes emersoni Ahmad, 1976 埃默森东方白蚁"
 latin: "Orientotermes emersoni"
 zh: "埃默森东方白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **埃默森东方白蚁**（*Orientotermes emersoni*）是白蚁科（TERMITIDAE）始钩白蚁亚科（Protohamitermitinae）东方白蚁属（*Orientotermes*）的现存唯一种。本种由 Ahmad 于 1976 年描述，模式产地为 Malaysia: Sarawak: Sabal Tapang。分布记录包括文莱、马来西亚。
 
-EN — **埃默森东方白蚁** (*Orientotermes emersoni*) is the only extant species of the genus *Orientotermes*, in the family TERMITIDAE (subfamily Protohamitermitinae). The species was described by Ahmad in 1976; the type locality is Malaysia: Sarawak: Sabal Tapang. Distribution: Brunei, Malaysia.
-
-ES — **埃默森东方白蚁** (*Orientotermes emersoni*) es la única especie viviente del género *Orientotermes*, en la familia TERMITIDAE (subfamilia Protohamitermitinae). La especie fue descrita por Ahmad en 1976; la localidad tipo es Malaysia: Sarawak: Sabal Tapang. Distribución: Brunei, Malaysia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Orientotermes*：属名由拉丁文 Oriens（东方）与 termes（白蚁）组合。
 
-EN — *Orientotermes*: From Latin Oriens (the East) + termes.
-
-ES — *Orientotermes*: Del latín Oriens (el Oriente) + termes.
-
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
-
-EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
-
-ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[始钩白蚁亚科 Protohamitermitinae]({{ site.base_url }}/subfamily/protohamitermitinae/) —— 本站收录 2 属 2 种（2 genera, 2 species · 2 géneros, 2 especies）
-- **属 Genus / Género**：[东方白蚁属 *Orientotermes*]({{ site.base_url }}/genus/orientotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[始钩白蚁亚科 Protohamitermitinae]({{ site.base_url }}/subfamily/protohamitermitinae/) —— 本站收录 2 属 2 种
+- **属**：[东方白蚁属 *Orientotermes*]({{ site.base_url }}/genus/orientotermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：文莱、马来西亚
-- **英文记录 English record / Registro en inglés**：Brunei, Malaysia
+- **分布记录**：文莱、马来西亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

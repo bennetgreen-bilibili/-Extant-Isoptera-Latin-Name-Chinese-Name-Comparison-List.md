@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/spinitermes-robustus/
 title: "Spinitermes robustus Snyder, 1926 粗壮针刺白蚁"
 latin: "Spinitermes robustus"
 zh: "粗壮针刺白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **粗壮针刺白蚁**（*Spinitermes robustus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: La Paz: Ixiamas \[13.769S 68.127W\]。分布记录包括巴西、玻利维亚。
 
-EN — **粗壮针刺白蚁** (*Spinitermes robustus*) is a species of the genus *Spinitermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Snyder in 1926; the type locality is Bolivia: La Paz: Ixiamas \[13.769S 68.127W\]. Distribution: Brazil, Bolivia.
-
-ES — **粗壮针刺白蚁** (*Spinitermes robustus*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: La Paz: Ixiamas \[13.769S 68.127W\]. Distribución: Brazil, Bolivia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Spinitermes*：属名由拉丁文 spina（刺）与 termes（白蚁）组合。
 
-EN — *Spinitermes*: From Latin spina (spine) + termes.
-
-ES — *Spinitermes*: Del latín spina (espina) + termes.
-
 种加词 *robustus*：拉丁文 robustus（粗壮）
-
-EN — epithet *robustus*: Latin robustus (robust)
-
-ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
-- **属 Genus / Género**：[针刺白蚁属 *Spinitermes*]({{ site.base_url }}/genus/spinitermes/) —— 共 5 种（5 species · 5 especies）
-- **本属模式种 Type species / Especie tipo**：*Spinitermes trispinosus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
+- **属**：[针刺白蚁属 *Spinitermes*]({{ site.base_url }}/genus/spinitermes/) —— 共 5 种
+- **本属模式种**：*Spinitermes trispinosus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、玻利维亚
-- **英文记录 English record / Registro en inglés**：Brazil, Bolivia
+- **分布记录**：巴西、玻利维亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

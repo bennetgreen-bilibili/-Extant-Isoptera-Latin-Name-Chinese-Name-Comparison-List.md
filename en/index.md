@@ -16,11 +16,11 @@ permalink: /en/
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
- "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
+ "@id": "https://termite-extant-isoptera.org/#dataset",
  "name": "Extant Isoptera (Termites) Latin–Chinese Name Comparison List (2026.10.30)",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "description": "Latin–Chinese name comparison list of extant Isoptera (termites): 13 families, 326 genera, 3021 species, 68 subspecies. Data split by clade/family/subfamily; the entry point data/index.json contains the full taxonomic tree.",
- "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+ "url": "https://termite-extant-isoptera.org/",
  "creator": {
   "@type": "Person",
   "name": "Bennet Green (班奈特格林)"
@@ -35,139 +35,139 @@ permalink: /en/
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Taxonomy tree & file manifest (index.json)",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/index.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Mastotermitidae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/mastotermitidae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/mastotermitidae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Teletisoptera",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/teletisoptera.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/teletisoptera.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Kalotermitidae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/kalotermitidae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/kalotermitidae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Neoisoptera excl. Termitidae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/neoisoptera-excl-termitidae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Amitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/amitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/amitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Apicotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/apicotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/apicotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Crepititermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/crepititermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/crepititermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Cubitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/cubitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/cubitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Cylindrotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/cylindrotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/cylindrotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Engelitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/engelitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/engelitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Foraminitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/foraminitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/foraminitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Forficulitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/forficulitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/forficulitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Macrotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/macrotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/macrotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Microcerotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/microcerotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/microcerotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Mirocapritermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/mirocapritermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/mirocapritermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Nasutitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/nasutitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/nasutitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Neocapritermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/neocapritermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/neocapritermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Promirotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/promirotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/promirotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Protohamitermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/protohamitermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/protohamitermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Sphaerotermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/sphaerotermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/sphaerotermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Syntermitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/syntermitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/syntermitinae.json"
   },
   {
    "@type": "DataDownload",
    "encodingFormat": "application/json",
    "name": "Termitinae",
-   "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/termitinae.json"
+   "contentUrl": "https://termite-extant-isoptera.org/data/termitidae/termitinae.json"
   }
  ],
  "citation": [
@@ -189,18 +189,18 @@ permalink: /en/
 **Author**: 班奈特格林 (Bennet Green, bilibili)　**Version**: 2026.10.30 (final)　**License**: free to use with attribution (equivalent to CC BY 4.0; illustration copyrights belong to their photographers and follow the attribution and license shown with each figure).
 
 **Suggested citation** (APA):
-> 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.30). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/
+> 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.30). https://termite-extant-isoptera.org/
 
 ## Pages
 
 <ul>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/"><strong>List</strong></a> — the complete checklist (clade–family–subfamily–genus–species), with an inline GBIF distribution map under every family and genus heading and the enriched 77-reference DOI view at the end.</li></li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/search/"><strong>Search</strong></a> — full-site search across the checklist, all 3089 species pages, statistics, data and blog (pinyin and traditional Chinese supported).</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/"><strong>Statistics</strong></a> — species counts by rank (family/subfamily/genus).</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/data/"><strong>Data</strong></a> — machine-readable structured data (JSON, split by taxon, each file accessible).</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
+  <li><a href="https://termite-extant-isoptera.org/en/list/"><strong>List</strong></a> — the complete checklist (clade–family–subfamily–genus–species), with an inline GBIF distribution map under every family and genus heading and the enriched 77-reference DOI view at the end.</li></li>
+  <li><a href="https://termite-extant-isoptera.org/en/search/"><strong>Search</strong></a> — full-site search across the checklist, all 3089 species pages, statistics, data and blog (pinyin and traditional Chinese supported).</li>
+  <li><a href="https://termite-extant-isoptera.org/en/stats/"><strong>Statistics</strong></a> — species counts by rank (family/subfamily/genus).</li>
+  <li><a href="https://termite-extant-isoptera.org/en/data/"><strong>Data</strong></a> — machine-readable structured data (JSON, split by taxon, each file accessible).</li>
+  <li><a href="https://termite-extant-isoptera.org/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
+  <li><a href="https://termite-extant-isoptera.org/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
+  <li><a href="https://termite-extant-isoptera.org/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
     <!-- Basics entry unpublished since 2026-11-05 (under review): sources in _pending_pages/basics/; paste the entry back from that README to restore. -->
   <li><a href="{{ site.base_url }}/en/list/name-issues/"><strong>Name discrepancies</strong></a> — rows needing human review after cross-checking against GBIF / Catalogue of Life / Blattodea Species File, filterable by type, source and keyword.</li>
   <li><a href="{{ site.base_url }}/en/changelog/"><strong>Changelog</strong></a> — what changed in each version (publication date); subscribe via <a href="{{ site.base_url }}/changelog.atom">Atom</a>.</li>
@@ -219,7 +219,7 @@ permalink: /en/
  "publisher": { "@type": "Person", "name": "班奈特格林" },
  "potentialAction": {
   "@type": "SearchAction",
-  "target": { "@type": "EntryPoint", "urlTemplate": "{{ site.base_url }}/search/?q={search_term_string}" },
+  "target": { "@type": "EntryPoint", "urlTemplate": "{{ site.base_url }}/en/search/?q={search_term_string}" },
   "query-input": "required name=search_term_string"
  }
 }

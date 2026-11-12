@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/foraminitermes-corniferus/
 title: "Foraminitermes corniferus Sjöstedt, 1905 具角孔白蚁"
 latin: "Foraminitermes corniferus"
 zh: "具角孔白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **具角孔白蚁**（*Foraminitermes corniferus*）是白蚁科（TERMITIDAE）孔白蚁亚科（Foraminitermitinae）孔白蚁属（*Foraminitermes*）的一种。本种由 Sjöstedt 于 1905 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括西非、多哥、刚果民主共和国。
 
-EN — **具角孔白蚁** (*Foraminitermes corniferus*) is a species of the genus *Foraminitermes*, in the family TERMITIDAE (subfamily Foraminitermitinae). The species was described by Sjöstedt in 1905; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: West Africa, Togo, Democratic Republic of the Congo.
-
-ES — **具角孔白蚁** (*Foraminitermes corniferus*) es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: West Africa, Togo, Democratic Republic of the Congo.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Foraminitermes*：属名由拉丁文 foramen（孔）与 termes（白蚁）组合。
 
-EN — *Foraminitermes*: From Latin foramen (opening) + termes.
-
-ES — *Foraminitermes*: Del latín foramen (abertura) + termes.
-
 种加词 *corniferus*：拉丁文/希腊文词根「corn」（角）
-
-EN — epithet *corniferus*: From the descriptive term 'corn' (horn)
-
-ES — epithet *corniferus*: Del término descriptivo «corn» (cuerno)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/subfamily/foraminitermitinae/) —— 本站收录 3 属 10 种（3 genera, 10 species · 3 géneros, 10 especies）
-- **属 Genus / Género**：[孔白蚁属 *Foraminitermes*]({{ site.base_url }}/genus/foraminitermes/) —— 共 6 种（6 species · 6 especies）
-- **本属模式种 Type species / Especie tipo**：*Foraminitermes tubifrons*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/subfamily/foraminitermitinae/) —— 本站收录 3 属 10 种
+- **属**：[孔白蚁属 *Foraminitermes*]({{ site.base_url }}/genus/foraminitermes/) —— 共 6 种
+- **本属模式种**：*Foraminitermes tubifrons*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非、多哥、刚果民主共和国
-- **英文记录 English record / Registro en inglés**：West Africa, Togo, Democratic Republic of the Congo
+- **分布记录**：西非、多哥、刚果民主共和国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

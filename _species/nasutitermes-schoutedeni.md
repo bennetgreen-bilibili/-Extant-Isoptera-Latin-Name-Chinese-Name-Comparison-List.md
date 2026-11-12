@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/nasutitermes-schoutedeni/
 title: "Nasutitermes schoutedeni Sjöstedt, 1924 斯考特登象白蚁"
 latin: "Nasutitermes schoutedeni"
 zh: "斯考特登象白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Democratic Republic of the Congo: Luebo; Democratic Republi
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **斯考特登象白蚁**（*Nasutitermes schoutedeni*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Basongo。分布记录包括安哥拉、喀麦隆、刚果（布）、刚果（金）、加蓬、科特迪瓦、尼日利亚、乌干达、刚果民主共和国。本站记录本种有 5 个次异名。
 
-EN — **斯考特登象白蚁** (*Nasutitermes schoutedeni*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1924; the type locality is Democratic Republic of the Congo: Basongo. Distribution: Angola, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Côte d'Ivoire, Nigeria, Uganda, Democratic Republic of the Congo (Kinshasa). This site records 5 junior synonyms for the species.
-
-ES — **斯考特登象白蚁** (*Nasutitermes schoutedeni*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Basongo. Distribución: Angola, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Côte d'Ivoire, Nigeria, Uganda, Democratic Republic of the Congo (Kinshasa). Este sitio registra 5 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
 
-EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
-
-ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
-
 种加词 *schoutedeni*：以 H. Schouteden（比利时昆虫学家）命名
-
-EN — epithet *schoutedeni*: Named after H. Schouteden
-
-ES — epithet *schoutedeni*: En honor de H. Schouteden
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种（243 species · 243 especies）
-- **本属模式种 Type species / Especie tipo**：*Nasutitermes corniger*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
+- **本属模式种**：*Nasutitermes corniger*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：安哥拉、喀麦隆、刚果（布）、刚果（金）、加蓬、科特迪瓦、尼日利亚、乌干达、刚果民主共和国
-- **英文记录 English record / Registro en inglés**：Angola, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Côte d'Ivoire, Nigeria, Uganda, Democratic Republic of the Congo (Kinshasa)
+- **分布记录**：安哥拉、喀麦隆、刚果（布）、刚果（金）、加蓬、科特迪瓦、尼日利亚、乌干达、刚果民主共和国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 5 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 5 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 5 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) aethiops* Sjöstedt, 1924: 41 —— 模式产地：Democratic Republic of the Congo: Luebo
 2. *Eutermes (Eutermes) putidus* Sjöstedt, 1924: 40-41 —— 模式产地：Democratic Republic of the Congo: Kasai: Eala
@@ -79,6 +65,4 @@ ES — epithet *schoutedeni*: En honor de H. Schouteden
 5. *Nasutitermes (Nasutitermes) chapini* Emerson, 1928: 480-481 —— 模式产地：Democratic Republic of the Congo: Haut Uélé: Moto
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) aethiops*、*Eutermes (Eutermes) putidus*、*Eutermes (Eutermes) konduensis*、*Eutermes (Eutermes) dulcis*、*Nasutitermes (Nasutitermes) chapini* 等）出现，本站统一归入 *Nasutitermes schoutedeni*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes (Eutermes) aethiops*、*Eutermes (Eutermes) putidus*、*Eutermes (Eutermes) konduensis*、*Eutermes (Eutermes) dulcis*、*Nasutitermes (Nasutitermes) chapini*); this site treats them all under *Nasutitermes schoutedeni*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes (Eutermes) aethiops*、*Eutermes (Eutermes) putidus*、*Eutermes (Eutermes) konduensis*、*Eutermes (Eutermes) dulcis*、*Nasutitermes (Nasutitermes) chapini*); este sitio los reúne todos bajo *Nasutitermes schoutedeni*.
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/zootermopsis-nevadensis/
 title: "Zootermopsis nevadensis Hagen, 1874 内华达动白蚁"
 latin: "Zootermopsis nevadensis"
 zh: "内华达动白蚁"
@@ -21,51 +24,34 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **内华达动白蚁**（*Zootermopsis nevadensis*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种。本种由 Hagen 于 1874 年描述，模式产地为 United States: Nevada: Truckee。分布记录包括北美西部、美国西部、加拿大西部、墨西哥。另有记录显示其已引入日本。
 
-EN — **内华达动白蚁** (*Zootermopsis nevadensis*) is a species of the genus *Zootermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Hagen in 1874; the type locality is United States: Nevada: Truckee. Distribution: western North America, western United States, western Canada, Mexico, introduced: Japan.
-
-ES — **内华达动白蚁** (*Zootermopsis nevadensis*) es una especie del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Hagen en 1874; la localidad tipo es United States: Nevada: Truckee. Distribución: western North America, western United States, western Canada, Mexico, introduced: Japan.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
 
-EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
-
-ES — *Zootermopsis*: Del griego zōon (animal) + -termopsis (term- + -opsis).
-
 种加词 *nevadensis*：以内华达（Nevada，美国）命名
-
-EN — epithet *nevadensis*: Named after Nevada (USA)
-
-ES — epithet *nevadensis*: Por Nevada (EE. UU.)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
-- **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种（3 species · 3 especies）
-- **本属模式种 Type species / Especie tipo**：*Zootermopsis angusticollis*
+- **科**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
+- **属**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种
+- **本属模式种**：*Zootermopsis angusticollis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美西部、美国西部、加拿大西部、墨西哥
-- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：日本
-- **英文记录 English record / Registro en inglés**：western North America, western United States, western Canada, Mexico, introduced: Japan
+- **分布记录**：北美西部、美国西部、加拿大西部、墨西哥
+- **引入记录**：日本
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 亚种
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 亚种 <span class="fact-en" lang="en">Subspecies</span> <span class="fact-es" lang="es">Subespecies</span>
-
-本种下分 2 个亚种（subspecies / subespecies） <span class="fact-en" lang="en">This species includes 2 subspecies</span> <span class="fact-es" lang="es">Esta especie incluye 2 subespecies</span>：
+本种下分 2 个亚种：
 
 - [*Zootermopsis nevadensis nevadensis* 指名亚种]({{ site.base_url }}/species/zootermopsis-nevadensis-nevadensis/) —— Hagen, 1874，模式产地：United States: Nevada: Truckee
 - [*Zootermopsis nevadensis nuttingi* 纳丁亚种]({{ site.base_url }}/species/zootermopsis-nevadensis-nuttingi/) —— Haverty & Thorne, 1989，模式产地：United States: California: Pacific Grove

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/nasutitermes-matangensis-matangensis/
 title: "Nasutitermes matangensis matangensis Haviland, 1898 指名亚种"
 latin: "Nasutitermes matangensis matangensis"
 zh: "指名亚种"
@@ -27,56 +30,36 @@ synonym_localities: "Malaysia: Sarawak; Indonesia: Java: Jember"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **指名亚种**（*Nasutitermes matangensis matangensis*）是马登象白蚁（*Nasutitermes matangensis*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）。本亚种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Matang。本页暂无单列的分布记录，母种 *Nasutitermes matangensis* 的分布见下文「分布」一节。本站记录本亚种有 2 个次异名。
 
-EN — **指名亚种** (*Nasutitermes matangensis matangensis*) is a subspecies of *Nasutitermes matangensis*, in the family TERMITIDAE (subfamily Nasutitermitinae), genus *Nasutitermes*. The subspecies was described by Haviland in 1898; the type locality is Malaysia: Sarawak: Matang. No separate distribution record is listed on this page; see the parent species *Nasutitermes matangensis*. This site records 2 junior synonyms for the subspecies.
-
-ES — **指名亚种** (*Nasutitermes matangensis matangensis*) es una subespecie de *Nasutitermes matangensis*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Nasutitermes*. La subespecie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Matang. No se incluye un registro de distribución separado en esta página; véase la especie parental *Nasutitermes matangensis*. Este sitio registra 2 sinónimos junior para la subespecie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
 
-EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
-
-ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
-
 种加词 *matangensis*：以马来西亚沙捞越马当（Matang）命名
-
-EN — epithet *matangensis*: Named after Matang, Sarawak, Malaysia
-
-ES — epithet *matangensis*: Por Matang, Sarawak, Malasia
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种（243 species · 243 especies）
-- **种 Species / Especie**：[马登象白蚁 *Nasutitermes matangensis*]({{ site.base_url }}/species/nasutitermes-matangensis/)
-- **亚种 Subspecies / Subespecie**：本页（*Nasutitermes matangensis matangensis*）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
+- **种**：[马登象白蚁 *Nasutitermes matangensis*]({{ site.base_url }}/species/nasutitermes-matangensis/)
+- **亚种**：本页（*Nasutitermes matangensis matangensis*）
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
 本亚种暂未单列分布记录；母种 *Nasutitermes matangensis* 的分布为：孟加拉国、印度、缅甸、泰国、马来西亚、印度尼西亚、柬埔寨、越南。
 
-<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Nasutitermes matangensis</i> is given in the English record of the parent species below.</p>
+## 次异名
 
-<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Nasutitermes matangensis</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
-
-母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Bangladesh, India, Myanmar, Thailand, Malaysia, Indonesia, Cambodia, Vietnam。
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本亚种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the subspecies, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la subespecie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本亚种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) matangensiformis* Holmgren, 1913: 185 —— 模式产地：Malaysia: Sarawak
 2. *Eutermes djemberensis* Kemner, 1934: 128-129 —— 模式产地：Indonesia: Java: Jember
 
 在旧文献、地方名录与数据库检索中，本亚种可能以上述异名（*Eutermes (Eutermes) matangensiformis*、*Eutermes djemberensis* 等）出现，本站统一归入 *Nasutitermes matangensis matangensis*。
-EN — In older literature, regional checklists and database searches, this subspecies may appear under the synonyms above (*Eutermes (Eutermes) matangensiformis*、*Eutermes djemberensis*); this site treats them all under *Nasutitermes matangensis matangensis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta subespecie puede aparecer bajo los sinónimos anteriores (*Eutermes (Eutermes) matangensiformis*、*Eutermes djemberensis*); este sitio los reúne todos bajo *Nasutitermes matangensis matangensis*.
 <!-- AUTO:END -->

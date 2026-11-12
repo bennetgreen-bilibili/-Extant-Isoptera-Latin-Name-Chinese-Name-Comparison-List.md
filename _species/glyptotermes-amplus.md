@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/glyptotermes-amplus/
 title: "Glyptotermes amplus Scheffrahn, Su & Krecek, 2001 大型树白蚁"
 latin: "Glyptotermes amplus"
 zh: "大型树白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **大型树白蚁**（*Glyptotermes amplus*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Scheffrahn, Su & Krecek 于 2001 年描述，模式产地为 Saint Lucia: Edmond Forest Reserve。分布记录包括圣卢西亚、马提尼克。
 
-EN — **大型树白蚁** (*Glyptotermes amplus*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn, Su & Krecek in 2001; the type locality is Saint Lucia: Edmond Forest Reserve. Distribution: Saint Lucia, Martinique.
-
-ES — **大型树白蚁** (*Glyptotermes amplus*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn, Su & Krecek en 2001; la localidad tipo es Saint Lucia: Edmond Forest Reserve. Distribución: Saint Lucia, Martinique.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
 
-EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
-
-ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
-
 种加词 *amplus*：拉丁文 amplus（宽大）
-
-EN — epithet *amplus*: Latin amplus (ample, large)
-
-ES — epithet *amplus*: Del latín amplus (amplio, grande)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种（131 species · 131 especies）
-- **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种
+- **本属模式种**：*Glyptotermes tuberculatus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：圣卢西亚、马提尼克
-- **英文记录 English record / Registro en inglés**：Saint Lucia, Martinique
+- **分布记录**：圣卢西亚、马提尼克
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

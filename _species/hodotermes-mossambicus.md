@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/hodotermes-mossambicus/
 title: "Hodotermes mossambicus Hagen, 1853 莫桑比克草白蚁"
 latin: "Hodotermes mossambicus"
 zh: "莫桑比克草白蚁"
@@ -23,49 +26,32 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本站记录本种有 10 个次异名。
 
-EN — **莫桑比克草白蚁** (*Hodotermes mossambicus*) is a species and the type species of the genus *Hodotermes*, in the family HODOTERMITIDAE. The species was described by Hagen in 1853; the type locality is Mozambique: ?. Distribution: southern and eastern Africa. This site records 10 junior synonyms for the species.
-
-ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la especie tipo del género *Hodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Hodotermes*：属名由希腊文 hodos（道路、路径）与拉丁文 termes（白蚁）组合。
 
-EN — *Hodotermes*: From Greek hodos (way, path) + Latin termes.
-
-ES — *Hodotermes*: Del griego hodos (camino, sendero) + latín termes.
-
 种加词 *mossambicus*：以地名 莫桑比克 命名
-
-EN — epithet *mossambicus*: Named after the locality Mossamb
-
-ES — epithet *mossambicus*: Por la localidad de Mossamb
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
-- **属 Genus / Género**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/genus/hodotermes/) —— 共 2 种（2 species · 2 especies）
+- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **属**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/genus/hodotermes/) —— 共 2 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部及东部
-- **英文记录 English record / Registro en inglés**：southern and eastern Africa
+- **分布记录**：非洲南部及东部
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 10 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 10 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 10 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermes havilandi* Sharp, 1895: 384 —— 模式产地：South Africa: Natal: Colenso on Tugela River
 2. *Hodotermes pulcher* Sjöstedt, 1905: 1-3 —— 模式产地：South Africa: Orange River Colony
@@ -79,6 +65,4 @@ ES — epithet *mossambicus*: Por la localidad de Mossamb
 10. *Hodotermes (Hodotermes) bloemfonteinsis* Sjöstedt, 1926: 14-15 —— 模式产地：South Africa: Pretoria: Girls High School
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis* 等）出现，本站统一归入 *Hodotermes mossambicus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis*); this site treats them all under *Hodotermes mossambicus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis*); este sitio los reúne todos bajo *Hodotermes mossambicus*.
 <!-- AUTO:END -->

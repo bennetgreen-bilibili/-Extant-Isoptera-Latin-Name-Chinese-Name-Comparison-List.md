@@ -1,0 +1,27 @@
+---
+layout: photos
+title: "Baucaliotermes 细颈白蚁属 — todas las fotos (8, 1 especies)"
+description: "Fotos con licencia libre de las 1 especies del género Baucaliotermes (细颈白蚁属), 8 en total, de iNaturalist y Wikimedia Commons; agrupadas por especie, cada una enlaza a su conjunto completo."
+lang: es
+single_lang: true
+author: 班奈特格林
+family_id: termitidae
+last_modified_at: 2026-10-30
+permalink: "/es/genus/baucaliotermes/photos/"
+sitemap: true
+photo_kind: genus
+photo_id: "baucaliotermes"
+photo_latin: "Baucaliotermes"
+photo_zh: "细颈白蚁属"
+photo_count: 8
+photo_species: 1
+back_url: "/genus/baucaliotermes/"
+back_label: "细颈白蚁属 Baucaliotermes"
+breadcrumb:
+  - name: "Listado"
+    url: "/es/list/"
+  - name: "TERMITIDAE"
+    url: "/es/family/termitidae/"
+  - name: "Nasutitermitinae"
+    url: "/es/subfamily/nasutitermitinae/"
+---

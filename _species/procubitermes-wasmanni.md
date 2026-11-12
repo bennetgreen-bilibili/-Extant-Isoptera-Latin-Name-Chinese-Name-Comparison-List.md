@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/procubitermes-wasmanni/
 title: "Procubitermes wasmanni Emerson, 1928 沃斯曼原方白蚁"
 latin: "Procubitermes wasmanni"
 zh: "沃斯曼原方白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **沃斯曼原方白蚁**（*Procubitermes wasmanni*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）原方白蚁属（*Procubitermes*）的一种。本种由 Emerson 于 1928 年描述，模式产地为 Cameroon: Bipindi。分布记录包括喀麦隆。
 
-EN — **沃斯曼原方白蚁** (*Procubitermes wasmanni*) is a species of the genus *Procubitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Emerson in 1928; the type locality is Cameroon: Bipindi. Distribution: Cameroon.
-
-ES — **沃斯曼原方白蚁** (*Procubitermes wasmanni*) es una especie del género *Procubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Bipindi. Distribución: Cameroon.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Procubitermes*：属名由希腊文 pro-（前）+ 拉丁文 cubitus（肘）与 termes（白蚁）组合。
 
-EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
-
-ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
-
 种加词 *wasmanni*：以人名 Wasmann 命名（奥地利昆虫学家 E. Wasmann）
-
-EN — epithet *wasmanni*: Named after the entomologist E. Wasmann
-
-ES — epithet *wasmanni*: En honor del entomólogo E. Wasmann
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
-- **属 Genus / Género**：[原方白蚁属 *Procubitermes*]({{ site.base_url }}/genus/procubitermes/) —— 共 9 种（9 species · 9 especies）
-- **本属模式种 Type species / Especie tipo**：*Procubitermes arboricola*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
+- **属**：[原方白蚁属 *Procubitermes*]({{ site.base_url }}/genus/procubitermes/) —— 共 9 种
+- **本属模式种**：*Procubitermes arboricola*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：喀麦隆
-- **英文记录 English record / Registro en inglés**：Cameroon
+- **分布记录**：喀麦隆
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

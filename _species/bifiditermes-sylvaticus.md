@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/bifiditermes-sylvaticus/
 title: "Bifiditermes sylvaticus Wilkinson, 1959 森林双裂白蚁"
 latin: "Bifiditermes sylvaticus"
 zh: "森林双裂白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **森林双裂白蚁**（*Bifiditermes sylvaticus*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Wilkinson 于 1959 年描述，模式产地为 Uganda: Ankole District, 8 mi S of Kichwamba。分布记录包括肯尼亚、乌干达。
 
-EN — **森林双裂白蚁** (*Bifiditermes sylvaticus*) is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Wilkinson in 1959; the type locality is Uganda: Ankole District, 8 mi S of Kichwamba. Distribution: Kenya, Uganda.
-
-ES — **森林双裂白蚁** (*Bifiditermes sylvaticus*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wilkinson en 1959; la localidad tipo es Uganda: Ankole District, 8 mi S of Kichwamba. Distribución: Kenya, Uganda.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
 
-EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
-
-ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
-
 种加词 *sylvaticus*：拉丁文 silvaticus（森林的，sylva=森林）
-
-EN — epithet *sylvaticus*: Latin silvaticus (of the forest, sylva = forest)
-
-ES — epithet *sylvaticus*: Latín silvaticus (del bosque, sylva = bosque)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种（12 species · 12 especies）
-- **本属模式种 Type species / Especie tipo**：*Bifiditermes madagascariensis*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种
+- **本属模式种**：*Bifiditermes madagascariensis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：肯尼亚、乌干达
-- **英文记录 English record / Registro en inglés**：Kenya, Uganda
+- **分布记录**：肯尼亚、乌干达
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

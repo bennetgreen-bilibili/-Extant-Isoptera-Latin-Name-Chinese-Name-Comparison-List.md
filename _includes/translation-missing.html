@@ -1,0 +1,29 @@
+{%- comment -%}
+  单语页的「部分小节暂缺译文」提示条。
+  由 _layouts/default.html 在 <main> 内统一 include；只有页面 front matter 写了
+  `translation_pending: true` 时才渲染，所以正常页面零输出、零开销。
+
+  约定（见 _tmp/lang-split-CONTRACT.md）：缺失的译文**不回退中文**，整块省略，
+  由这条提示说明「暂缺 + 另两语页面已有」，避免页面里混进另一种语言。
+  另两语地址由 default.html 的 path_no_lang（去掉 /en、/es 前缀）派生。
+{%- endcomment -%}
+{%- if page.translation_pending -%}
+{%- assign pnl = path_no_lang | default: page.url -%}
+<aside class="lang-note" role="note">
+  {%- if page.lang == 'en' -%}
+  <p><strong>Some sections are not translated yet.</strong>
+  A few blocks of this page are still being translated and have been left out
+  rather than shown in Chinese. The <a href="{{ pnl }}">Chinese page</a> and the
+  <a href="/es{{ pnl }}">Spanish page</a> are complete.</p>
+  {%- elsif page.lang == 'es' -%}
+  <p><strong>Algunas secciones aún no están traducidas.</strong>
+  Varios bloques de esta página se están traduciendo y por ahora se han omitido
+  en lugar de mostrarse en chino. La <a href="{{ pnl }}">página en chino</a> y la
+  <a href="/en{{ pnl }}">página en inglés</a> están completas.</p>
+  {%- else -%}
+  <p><strong>本页个别小节暂缺译文。</strong>
+  这几块内容的外文译文仍在补做，暂时整块省略（不混入外文原文）。<a href="/en{{ pnl }}">英文版</a>与
+  <a href="/es{{ pnl }}">西班牙文版</a>页面已建，内容会同步补齐。</p>
+  {%- endif -%}
+</aside>
+{%- endif -%}

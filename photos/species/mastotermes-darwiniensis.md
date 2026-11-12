@@ -3,11 +3,11 @@ layout: photos
 title: "Mastotermes darwiniensis 达尔文澳白蚁 全部图片（13 张）"
 description: "达尔文澳白蚁（Mastotermes darwiniensis）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 13 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: mastotermitidae
 last_modified_at: 2026-10-30
-permalink: /species/mastotermes-darwiniensis/photos/
+permalink: "/species/mastotermes-darwiniensis/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "mastotermes-darwiniensis"

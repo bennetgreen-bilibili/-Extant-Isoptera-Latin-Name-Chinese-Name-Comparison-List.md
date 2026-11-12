@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/aciculitermes-maymyoensis/
 title: "Aciculitermes maymyoensis Krishna, 1965 眉妙针白蚁"
 latin: "Aciculitermes maymyoensis"
 zh: "眉妙针白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **眉妙针白蚁**（*Aciculitermes maymyoensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）针白蚁属（*Aciculitermes*）的一种。本种由 Krishna 于 1965 年描述，模式产地为 Myanmar: Maymyo: Botanical Garden。分布记录包括中国、缅甸、泰国。
 
-EN — **眉妙针白蚁** (*Aciculitermes maymyoensis*) is a species of the genus *Aciculitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Krishna in 1965; the type locality is Myanmar: Maymyo: Botanical Garden. Distribution: China, Myanmar, Thailand.
-
-ES — **眉妙针白蚁** (*Aciculitermes maymyoensis*) es una especie del género *Aciculitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Maymyo: Botanical Garden. Distribución: China, Myanmar, Thailand.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Aciculitermes*：属名由拉丁文 acicula（小针、小刺）与 termes（白蚁）组合。
 
-EN — *Aciculitermes*: From Latin acicula (little pin) + termes.
-
-ES — *Aciculitermes*: Del latín acicula (alfiler pequeño) + termes.
-
 种加词 *maymyoensis*：以缅甸眉苗（Maymyo，今彬乌伦 Pyin Oo Lwin）命名
-
-EN — epithet *maymyoensis*: Named after Maymyo (Pyin Oo Lwin), Myanmar
-
-ES — epithet *maymyoensis*: Por Maymyo (Pyin Oo Lwin), Myanmar
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[针白蚁属 *Aciculitermes*]({{ site.base_url }}/genus/aciculitermes/) —— 共 2 种（2 species · 2 especies）
-- **本属模式种 Type species / Especie tipo**：*Aciculitermes aciculatus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[针白蚁属 *Aciculitermes*]({{ site.base_url }}/genus/aciculitermes/) —— 共 2 种
+- **本属模式种**：*Aciculitermes aciculatus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国、缅甸、泰国
-- **英文记录 English record / Registro en inglés**：China, Myanmar, Thailand
+- **分布记录**：中国、缅甸、泰国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

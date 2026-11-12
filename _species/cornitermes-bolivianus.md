@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cornitermes-bolivianus/
 title: "Cornitermes bolivianus Snyder, 1926 玻利维亚角象白蚁"
 latin: "Cornitermes bolivianus"
 zh: "玻利维亚角象白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **玻利维亚角象白蚁**（*Cornitermes bolivianus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: near Lake Rogagua \[13.9667S 66.8667W\]。分布记录包括巴西、哥伦比亚、玻利维亚、秘鲁、厄瓜多尔、委内瑞拉。
 
-EN — **玻利维亚角象白蚁** (*Cornitermes bolivianus*) is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: near Lake Rogagua \[13.9667S 66.8667W\]. Distribution: Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela.
-
-ES — **玻利维亚角象白蚁** (*Cornitermes bolivianus*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: near Lake Rogagua \[13.9667S 66.8667W\]. Distribución: Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
 
-EN — *Cornitermes*: From Latin cornu (horn) + termes.
-
-ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
-
 种加词 *bolivianus*：地名：玻利维亚
-
-EN — epithet *bolivianus*: After Bolivia
-
-ES — epithet *bolivianus*: Por Bolivia
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种（14 species · 14 especies）
-- **本属模式种 Type species / Especie tipo**：*Cornitermes cumulans*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种
+- **本属模式种**：*Cornitermes cumulans*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、哥伦比亚、玻利维亚、秘鲁、厄瓜多尔、委内瑞拉
-- **英文记录 English record / Registro en inglés**：Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela
+- **分布记录**：巴西、哥伦比亚、玻利维亚、秘鲁、厄瓜多尔、委内瑞拉
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/neotermes-ludaoensis/
 title: "Neotermes ludaoensis Wu, Tsai & Li, 2024 绿岛新白蚁"
 latin: "Neotermes ludaoensis"
 zh: "绿岛新白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **绿岛新白蚁**（*Neotermes ludaoensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Wu, Tsai & Li 于 2024 年描述，模式产地为 Taiwan: Green Island \[ 22.65N 121.48E \]。分布记录包括台湾、绿岛。
 
-EN — **绿岛新白蚁** (*Neotermes ludaoensis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Wu, Tsai & Li in 2024; the type locality is Taiwan: Green Island \[ 22.65N 121.48E \]. Distribution: Taiwan, Green Island.
-
-ES — **绿岛新白蚁** (*Neotermes ludaoensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wu, Tsai & Li en 2024; la localidad tipo es Taiwan: Green Island \[ 22.65N 121.48E \]. Distribución: Taiwan, Green Island.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
 
-EN — *Neotermes*: From Greek neos (new) + Latin termes.
-
-ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
-
 种加词 *ludaoensis*：以台湾绿岛（Ludao）命名
-
-EN — epithet *ludaoensis*: Named after Lüdao (Green Island), Taiwan
-
-ES — epithet *ludaoensis*: Por Lüdao (Isla Verde), Taiwán
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种（121 species · 121 especies）
-- **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
+- **本属模式种**：*Neotermes castaneus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：台湾、绿岛
-- **英文记录 English record / Registro en inglés**：Taiwan, Green Island
+- **分布记录**：台湾、绿岛
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

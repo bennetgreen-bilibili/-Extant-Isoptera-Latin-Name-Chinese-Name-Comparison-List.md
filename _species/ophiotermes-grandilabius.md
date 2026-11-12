@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/ophiotermes-grandilabius/
 title: "Ophiotermes grandilabius Emerson, 1928 大唇蛇白蚁"
 latin: "Ophiotermes grandilabius"
 zh: "大唇蛇白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **大唇蛇白蚁**（*Ophiotermes grandilabius*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）蛇白蚁属（*Ophiotermes*）的一种。本种由 Emerson 于 1928 年描述，模式产地为 Cameroon: Bipindi。分布记录包括喀麦隆、刚果民主共和国、加蓬、加纳、科特迪瓦、尼日利亚、坦桑尼亚。
 
-EN — **大唇蛇白蚁** (*Ophiotermes grandilabius*) is a species of the genus *Ophiotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Emerson in 1928; the type locality is Cameroon: Bipindi. Distribution: Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Côte d'Ivoire, Nigeria, Tanzania.
-
-ES — **大唇蛇白蚁** (*Ophiotermes grandilabius*) es una especie del género *Ophiotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Bipindi. Distribución: Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Côte d'Ivoire, Nigeria, Tanzania.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Ophiotermes*：属名由希腊文 ophis（蛇）与拉丁文 termes（白蚁）组合。
 
-EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
-
-ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
-
 种加词 *grandilabius*：拉丁文/希腊文词根「grand」（大）
-
-EN — epithet *grandilabius*: From the descriptive term 'grand' (great)
-
-ES — epithet *grandilabius*: Del término descriptivo «grand» (grande)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
-- **属 Genus / Género**：[蛇白蚁属 *Ophiotermes*]({{ site.base_url }}/genus/ophiotermes/) —— 共 7 种（7 species · 7 especies）
-- **本属模式种 Type species / Especie tipo**：*Ophiotermes mandibularis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
+- **属**：[蛇白蚁属 *Ophiotermes*]({{ site.base_url }}/genus/ophiotermes/) —— 共 7 种
+- **本属模式种**：*Ophiotermes mandibularis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：喀麦隆、刚果民主共和国、加蓬、加纳、科特迪瓦、尼日利亚、坦桑尼亚
-- **英文记录 English record / Registro en inglés**：Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Côte d'Ivoire, Nigeria, Tanzania
+- **分布记录**：喀麦隆、刚果民主共和国、加蓬、加纳、科特迪瓦、尼日利亚、坦桑尼亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/anoplotermes-parvus/
 title: "Anoplotermes parvus Snyder, 1923 小解甲白蚁"
 latin: "Anoplotermes parvus"
 zh: "小解甲白蚁"
@@ -26,51 +29,34 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]; Bolivia: 
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **小解甲白蚁**（*Anoplotermes parvus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Snyder 于 1923 年描述，模式产地为 Panama: Frijoles。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。本站记录本种有 4 个次异名。
 
-EN — **小解甲白蚁** (*Anoplotermes parvus*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Snyder in 1923; the type locality is Panama: Frijoles. Distribution: Brazil, Guiana Shield, Amazon region, Central America and Caribbean. This site records 4 junior synonyms for the species.
-
-ES — **小解甲白蚁** (*Anoplotermes parvus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1923; la localidad tipo es Panama: Frijoles. Distribución: Brazil, Guiana Shield, Amazon region, Central America and Caribbean. Este sitio registra 4 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
 
-EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
-
-ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
-
 种加词 *parvus*：拉丁文 parvus（小）
-
-EN — epithet *parvus*: Latin parvus (small)
-
-ES — epithet *parvus*: Del latín parvus (pequeño)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种（23 species · 23 especies）
-- **本属模式种 Type species / Especie tipo**：*Anoplotermes pacificus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种
+- **本属模式种**：*Anoplotermes pacificus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比
-- **英文记录 English record / Registro en inglés**：Brazil, Guiana Shield, Amazon region, Central America and Caribbean
+- **分布记录**：巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes (Anoplotermes) brevipilus* Emerson, 1925: 424-425 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]
 2. *Anoplotermes (Anoplotermes) proximus* Snyder, 1926: 54-55 —— 模式产地：Bolivia: La Paz: Tumupasa \[ 14.15S 67.9167W \]
@@ -78,6 +64,4 @@ ES — epithet *parvus*: Del latín parvus (pequeño)
 4. *Anoplotermes (Anoplotermes) clypeatus* Snyder, 1926: 47-48 —— 模式产地：Bolivia: El Beni: San Gregorio \[ 15.5S 64.666W \]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Anoplotermes (Anoplotermes) brevipilus*、*Anoplotermes (Anoplotermes) proximus*、*Anoplotermes (Anoplotermes) distinctus*、*Anoplotermes (Anoplotermes) clypeatus* 等）出现，本站统一归入 *Anoplotermes parvus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Anoplotermes (Anoplotermes) brevipilus*、*Anoplotermes (Anoplotermes) proximus*、*Anoplotermes (Anoplotermes) distinctus*、*Anoplotermes (Anoplotermes) clypeatus*); this site treats them all under *Anoplotermes parvus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Anoplotermes (Anoplotermes) brevipilus*、*Anoplotermes (Anoplotermes) proximus*、*Anoplotermes (Anoplotermes) distinctus*、*Anoplotermes (Anoplotermes) clypeatus*); este sitio los reúne todos bajo *Anoplotermes parvus*.
 <!-- AUTO:END -->

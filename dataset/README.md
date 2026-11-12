@@ -56,9 +56,9 @@
 
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
-| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1763543 | `df4fbddbf3ebe1fc…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1725131 | `66ac76fbc1598837…` |
-| `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 192613 | `ae04a2ed3e2e7b40…` |
+| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1374329 | `955e934b8450316b…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530524 | `c5662fffc808a539…` |
+| `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 148261 | `b8f4c57b9de98ff2…` |
 | `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `76fce47f5eedeaa0…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 
@@ -69,8 +69,8 @@
 
 ## 与项目网站的关系 Relationship to the project website
 
-- 项目网站（检索、统计、3089 个物种页）：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/>
-- 网站上的在线 JSON 数据（按类群拆分的 22 个文件）：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/>
+- 项目网站（检索、统计、3089 个物种页）：<https://termite-extant-isoptera.org/>
+- 网站上的在线 JSON 数据（按类群拆分的 22 个文件）：<https://termite-extant-isoptera.org/data/>
 - 源码与更新历史：<https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md>
 
 **引用请优先引本包的 DOI（永久、带版本）**；网站适合检索与浏览，DOI 归档版本适合论文引用与长期保存。
@@ -154,4 +154,4 @@ Licensed under CC BY 4.0 — please cite the DOI of the version you used.
 
 ## 联系方式 Contact
 
-作者：班奈特格林（bilibili）· 留言板：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/> · 仓库 Issue：<https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/issues>
+作者：班奈特格林（bilibili）· 留言板：<https://termite-extant-isoptera.org/guestbook/> · 仓库 Issue：<https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/issues>

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/muelleritermes-fritzi/
 title: "Muelleritermes fritzi Cancello, Oliveira & Rocha, 2015 弗里茨米勒白蚁米勒白蚁"
 latin: "Muelleritermes fritzi"
 zh: "弗里茨米勒白蚁米勒白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **弗里茨米勒白蚁米勒白蚁**（*Muelleritermes fritzi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）米勒白蚁属（*Muelleritermes*）的一种，也是本属的模式种。本种由 Cancello, Oliveira & Rocha 于 2015 年描述，模式产地为 Brasil: São Paulo: Salesópolis, Estação Biológica de Boraceia \[23.63S 45.86W\]。分布记录包括巴西。
 
-EN — **弗里茨米勒白蚁米勒白蚁** (*Muelleritermes fritzi*) is a species and the type species of the genus *Muelleritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Cancello, Oliveira & Rocha in 2015; the type locality is Brasil: São Paulo: Salesópolis, Estação Biológica de Boraceia \[23.63S 45.86W\]. Distribution: Brazil.
-
-ES — **弗里茨米勒白蚁米勒白蚁** (*Muelleritermes fritzi*) es una especie, y la especie tipo del género *Muelleritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cancello, Oliveira & Rocha en 2015; la localidad tipo es Brasil: São Paulo: Salesópolis, Estação Biológica de Boraceia \[23.63S 45.86W\]. Distribución: Brazil.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Muelleritermes*：属名以人名 Müller 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Muelleritermes*: Named after a person (Müller); -termes from Latin termes.
-
-ES — *Muelleritermes*: En honor de una persona (Müller); -termes, del latín termes.
-
 种加词 *fritzi*：以人名 Fritz 命名
-
-EN — epithet *fritzi*: Named after Fritz
-
-ES — epithet *fritzi*: En honor de Fritz
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[米勒白蚁属 *Muelleritermes*]({{ site.base_url }}/genus/muelleritermes/) —— 共 2 种（2 species · 2 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[米勒白蚁属 *Muelleritermes*]({{ site.base_url }}/genus/muelleritermes/) —— 共 2 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西
-- **英文记录 English record / Registro en inglés**：Brazil
+- **分布记录**：巴西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

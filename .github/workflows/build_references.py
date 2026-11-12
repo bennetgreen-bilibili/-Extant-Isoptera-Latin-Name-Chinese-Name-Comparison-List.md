@@ -52,7 +52,7 @@ DATA_OUT = ROOT / "_data" / "references.json"
 PUBLIC_OUT = ROOT / "data" / "references.json"
 CACHE_PATH = ROOT / "_tmp" / "references-cache.json"
 
-PROJECT_URL = "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/"
+PROJECT_URL = "https://termite-extant-isoptera.org/"
 CROSSREF_MAILTO = os.environ.get("CROSSREF_MAILTO", "bennetgreen-bilibili@users.noreply.github.com")
 USER_AGENT = (
     "extant-isoptera-checklist-references/1.0 "

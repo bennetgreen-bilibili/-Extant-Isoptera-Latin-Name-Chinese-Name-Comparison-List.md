@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/labiotermes-leptothrix/
 title: "Labiotermes leptothrix Mathews, 1977 纤毛厚唇白蚁"
 latin: "Labiotermes leptothrix"
 zh: "纤毛厚唇白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **纤毛厚唇白蚁**（*Labiotermes leptothrix*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括巴西、哥伦比亚。
 
-EN — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) is a species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: Brazil, Colombia.
-
-ES — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, Colombia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
 
-EN — *Labiotermes*: From Latin labium (lip) + termes.
-
-ES — *Labiotermes*: Del latín labium (labio) + termes.
-
 种加词 *leptothrix*：拉丁文/希腊文词根「lept」（细）
-
-EN — epithet *leptothrix*: From the descriptive term 'lept' (slender)
-
-ES — epithet *leptothrix*: Del término descriptivo «lept» (esbelto)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种（10 species · 10 especies）
-- **本属模式种 Type species / Especie tipo**：*Labiotermes labralis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种
+- **本属模式种**：*Labiotermes labralis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、哥伦比亚
-- **英文记录 English record / Registro en inglés**：Brazil, Colombia
+- **分布记录**：巴西、哥伦比亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

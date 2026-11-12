@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/eurytermes-assmuthi/
 title: "Eurytermes assmuthi Wasmann, 1902 阿斯穆斯宽白蚁"
 latin: "Eurytermes assmuthi"
 zh: "阿斯穆斯宽白蚁"
@@ -24,50 +27,33 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **阿斯穆斯宽白蚁**（*Eurytermes assmuthi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Khandala, near Bombay。分布记录包括南亚、印度。
 
-EN — **阿斯穆斯宽白蚁** (*Eurytermes assmuthi*) is a species and the type species of the genus *Eurytermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Wasmann in 1902; the type locality is India: Maharashtra: Khandala, near Bombay. Distribution: South Asia, India.
-
-ES — **阿斯穆斯宽白蚁** (*Eurytermes assmuthi*) es una especie, y la especie tipo del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. Distribución: South Asia, India.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
 
-EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
-
-ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
-
 种加词 *assmuthi*：以人名 Assmuth 命名
-
-EN — epithet *assmuthi*: Named after Assmuth
-
-ES — epithet *assmuthi*: En honor de Assmuth
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[宽白蚁属 *Eurytermes*]({{ site.base_url }}/genus/eurytermes/) —— 共 6 种（6 species · 6 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[宽白蚁属 *Eurytermes*]({{ site.base_url }}/genus/eurytermes/) —— 共 6 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南亚、印度
-- **英文记录 English record / Registro en inglés**：South Asia, India
+- **分布记录**：南亚、印度
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 亚种
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 亚种 <span class="fact-en" lang="en">Subspecies</span> <span class="fact-es" lang="es">Subespecies</span>
-
-本种下分 2 个亚种（subspecies / subespecies） <span class="fact-en" lang="en">This species includes 2 subspecies</span> <span class="fact-es" lang="es">Esta especie incluye 2 subespecies</span>：
+本种下分 2 个亚种：
 
 - [*Eurytermes assmuthi assmuthi* 指名亚种]({{ site.base_url }}/species/eurytermes-assmuthi-assmuthi/) —— Wasmann, 1902，模式产地：India: Maharashtra: Khandala, near Bombay
 - [*Eurytermes assmuthi modestior* 温和亚种]({{ site.base_url }}/species/eurytermes-assmuthi-modestior/) —— Silvestri, 1923，模式产地：India: Orissa: Chilka Lake: Barkuda Island

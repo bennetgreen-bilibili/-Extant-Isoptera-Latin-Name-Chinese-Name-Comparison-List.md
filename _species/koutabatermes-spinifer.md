@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/koutabatermes-spinifer/
 title: "Koutabatermes spinifer Romero-Arias & Roisin, 2021 具刺库塔巴白蚁"
 latin: "Koutabatermes spinifer"
 zh: "具刺库塔巴白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **具刺库塔巴白蚁**（*Koutabatermes spinifer*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）库塔巴白蚁属（*Koutabatermes*）的现存唯一种。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]。分布记录包括新热带界具体国家未核、喀麦隆。
 
-EN — **具刺库塔巴白蚁** (*Koutabatermes spinifer*) is the only extant species of the genus *Koutabatermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Romero-Arias & Roisin in 2021; the type locality is Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]. Distribution: Neotropics (specific countries not verified), Cameroon.
-
-ES — **具刺库塔巴白蚁** (*Koutabatermes spinifer*) es la única especie viviente del género *Koutabatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]. Distribución: Neotropics (specific countries not verified), Cameroon.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Koutabatermes*：属名以地名 Koutaba 命名，词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Koutabatermes*: From the place name Koutaba; -termes from Latin termes.
-
-ES — *Koutabatermes*: Del topónimo Koutaba; -termes, del latín termes.
-
 种加词 *spinifer*：拉丁文 spina（刺）+ -fer（具），具刺
-
-EN — epithet *spinifer*: Latin spina (spine) + -fer (bearing), spiny
-
-ES — epithet *spinifer*: Del latín spina (espina) + -fer (que lleva), espinoso
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[库塔巴白蚁属 *Koutabatermes*]({{ site.base_url }}/genus/koutabatermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[库塔巴白蚁属 *Koutabatermes*]({{ site.base_url }}/genus/koutabatermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：新热带界具体国家未核、喀麦隆
-- **英文记录 English record / Registro en inglés**：Neotropics (specific countries not verified), Cameroon
+- **分布记录**：新热带界具体国家未核、喀麦隆
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/astalotermes-concilians/
 title: "Astalotermes concilians Silvestri, 1914 团结无利器白蚁"
 latin: "Astalotermes concilians"
 zh: "团结无利器白蚁"
@@ -26,54 +29,35 @@ synonym_localities: "Guinea: Mamou"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **团结无利器白蚁**（*Astalotermes concilians*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括西非、几内亚、尼日利亚。本站记录本种有 1 个次异名。
 
-EN — **团结无利器白蚁** (*Astalotermes concilians*) is a species and the type species of the genus *Astalotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Kindia. Distribution: West Africa, Guinea, Nigeria. This site records 1 junior synonym for the species.
-
-ES — **团结无利器白蚁** (*Astalotermes concilians*) es una especie, y la especie tipo del género *Astalotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. Distribución: West Africa, Guinea, Nigeria. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Astalotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
-
-ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
-
 种加词 *concilians*：拉丁文 concilians（调解的、联结的）
-
-EN — epithet *concilians*: Latin concilians (joining, reconciling)
-
-ES — epithet *concilians*: Del latín concilians (que une, que concilia)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[无利器白蚁属 *Astalotermes*]({{ site.base_url }}/genus/astalotermes/) —— 共 17 种（17 species · 17 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[无利器白蚁属 *Astalotermes*]({{ site.base_url }}/genus/astalotermes/) —— 共 17 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非、几内亚、尼日利亚
-- **英文记录 English record / Registro en inglés**：West Africa, Guinea, Nigeria
+- **分布记录**：西非、几内亚、尼日利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes placidus* Silvestri, 1914: 63-64 —— 模式产地：Guinea: Mamou
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes placidus* 出现，本站统一归入 *Astalotermes concilians*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Anoplotermes placidus*; this site treats it under *Astalotermes concilians*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Anoplotermes placidus*; este sitio lo reúne bajo *Astalotermes concilians*.
 <!-- AUTO:END -->

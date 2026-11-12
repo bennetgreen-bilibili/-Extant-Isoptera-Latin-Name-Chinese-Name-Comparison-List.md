@@ -1,0 +1,56 @@
+---
+layout: species
+title: "Mirocapritermes valeriae Krishna, 1965 瓦莱里瘤白蚁"
+lang: en
+permalink: /en/species/mirocapritermes-valeriae/
+species_page: true
+single_lang: true
+slug: "mirocapritermes-valeriae"
+latin: "Mirocapritermes valeriae"
+zh: "瓦莱里瘤白蚁"
+type: false
+rank: "species"
+genus_zh: "瘤白蚁属"
+genus_latin: "Mirocapritermes"
+genus_id: "mirocapritermes"
+family_zh: "白蚁科"
+family_latin: "TERMITIDAE"
+family_id: "termitidae"
+subfamily_zh: "瘤白蚁亚科"
+subfamily_latin: "Mirocapritermitinae"
+subfamily_id: "mirocapritermitinae"
+clade_zh: "土栖等翅类"
+clade_latin: "Geoisoptera"
+author_year: "Krishna, 1965"
+type_locality: "Myanmar: Maymyo: Botanical Garden"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Summary
+
+***Mirocapritermes valeriae*** is a species of the genus *Mirocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Krishna in 1965; the type locality is Myanmar: Maymyo: Botanical Garden. Distribution: Myanmar.
+
+## Etymology
+
+Genus name *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
+
+Specific epithet *valeriae*: Named after Valeria
+
+<!-- src:S0018 -->
+
+## Taxonomic position
+
+- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
+- **Genus**: [*Mirocapritermes*]({{ site.base_url }}/en/genus/mirocapritermes/) — 8 species
+- **Type species of the genus**: *Mirocapritermes connectens*
+
+## Distribution
+
+- **Distribution records**: Myanmar
+
+The record above follows the wording of the original data; no geocoding or standardized place names have been applied.
+<!-- AUTO:END -->

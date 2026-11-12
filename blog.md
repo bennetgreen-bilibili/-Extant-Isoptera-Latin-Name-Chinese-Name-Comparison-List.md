@@ -16,7 +16,7 @@ permalink: /blog/
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
-    <h2><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="https://termite-extant-isoptera.org{{ post.url }}">{{ post.title }}</a></h2>
     <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
     {% if post.excerpt != empty %}<p class="post-excerpt">{{ post.excerpt }}</p>{% endif %}
   </li>

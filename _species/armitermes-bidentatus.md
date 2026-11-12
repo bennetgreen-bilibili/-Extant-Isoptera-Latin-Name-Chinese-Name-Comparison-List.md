@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/armitermes-bidentatus/
 title: "Armitermes bidentatus Rocha & Cancello, 2012 双齿戟白蚁"
 latin: "Armitermes bidentatus"
 zh: "双齿戟白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **双齿戟白蚁**（*Armitermes bidentatus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）戟白蚁属（*Armitermes*）的一种。本种由 Rocha & Cancello 于 2012 年描述，模式产地为 Brasil: Goiás: Cristianópolis \[17.1992S 48.7058W\]。分布记录包括巴西。
 
-EN — **双齿戟白蚁** (*Armitermes bidentatus*) is a species of the genus *Armitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Rocha & Cancello in 2012; the type locality is Brasil: Goiás: Cristianópolis \[17.1992S 48.7058W\]. Distribution: Brazil.
-
-ES — **双齿戟白蚁** (*Armitermes bidentatus*) es una especie del género *Armitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rocha & Cancello en 2012; la localidad tipo es Brasil: Goiás: Cristianópolis \[17.1992S 48.7058W\]. Distribución: Brazil.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Armitermes*：属名由拉丁文 arma（武器、武装）与 termes（白蚁）组合。
 
-EN — *Armitermes*: From Latin arma (arms, weapons) + termes.
-
-ES — *Armitermes*: Del latín arma (armas) + termes.
-
 种加词 *bidentatus*：拉丁文 bi-（二）+ dentatus（有齿），双齿
-
-EN — epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
-
-ES — epithet *bidentatus*: Del latín bi- (dos) + dentatus (dentado), de dos dientes
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[戟白蚁属 *Armitermes*]({{ site.base_url }}/genus/armitermes/) —— 共 3 种（3 species · 3 especies）
-- **本属模式种 Type species / Especie tipo**：*Armitermes armiger*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[戟白蚁属 *Armitermes*]({{ site.base_url }}/genus/armitermes/) —— 共 3 种
+- **本属模式种**：*Armitermes armiger*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西
-- **英文记录 English record / Registro en inglés**：Brazil
+- **分布记录**：巴西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

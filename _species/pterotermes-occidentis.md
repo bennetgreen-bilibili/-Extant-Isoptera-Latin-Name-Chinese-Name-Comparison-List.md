@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/pterotermes-occidentis/
 title: "Pterotermes occidentis Walker, 1853 西部翅白蚁"
 latin: "Pterotermes occidentis"
 zh: "西部翅白蚁"
@@ -21,43 +24,26 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **西部翅白蚁**（*Pterotermes occidentis*）是木白蚁科（KALOTERMITIDAE）翅白蚁属（*Pterotermes*）的现存唯一种。本种由 Walker 于 1853 年描述，模式产地为 (country unknown): "West Coast of America"。分布记录包括北美、美国、墨西哥。
 
-EN — **西部翅白蚁** (*Pterotermes occidentis*) is the only extant species of the genus *Pterotermes*, in the family KALOTERMITIDAE. The species was described by Walker in 1853; the type locality is (country unknown): "West Coast of America". Distribution: North America, United States, Mexico.
-
-ES — **西部翅白蚁** (*Pterotermes occidentis*) es la única especie viviente del género *Pterotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Walker en 1853; la localidad tipo es (country unknown): "West Coast of America". Distribución: North America, United States, Mexico.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Pterotermes*：属名由希腊文 pteron（翅）与拉丁文 termes（白蚁）组合。
 
-EN — *Pterotermes*: From Greek pteron (wing) + Latin termes.
-
-ES — *Pterotermes*: Del griego pteron (ala) + latín termes.
-
 种加词 *occidentis*：拉丁文/希腊文词根「occident」（西方）
-
-EN — epithet *occidentis*: From the descriptive term 'occident' (western)
-
-ES — epithet *occidentis*: Del término descriptivo «occident» (occidental)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[翅白蚁属 *Pterotermes*]({{ site.base_url }}/genus/pterotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[翅白蚁属 *Pterotermes*]({{ site.base_url }}/genus/pterotermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美、美国、墨西哥
-- **英文记录 English record / Registro en inglés**：North America, United States, Mexico
+- **分布记录**：北美、美国、墨西哥
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

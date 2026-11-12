@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/hodotermopsis-sjostedti/
 title: "Hodotermopsis sjostedti Holmgren, 1911 山林原白蚁"
 latin: "Hodotermopsis sjostedti"
 zh: "山林原白蚁"
@@ -23,49 +26,32 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（HODOTERMOPSIDAE）原白蚁属（*Hodotermopsis*）的现存唯一种。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本站记录本种有 5 个次异名。
 
-EN — **山林原白蚁** (*Hodotermopsis sjostedti*) is the only extant species of the genus *Hodotermopsis*, in the family HODOTERMOPSIDAE. The species was described by Holmgren in 1911; the type locality is Vietnam: Tonkin: Montes Mauson. Distribution: Japan, China (Taiwan), southern China, Vietnam. This site records 5 junior synonyms for the species.
-
-ES — **山林原白蚁** (*Hodotermopsis sjostedti*) es la única especie viviente del género *Hodotermopsis*, en la familia HODOTERMOPSIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Vietnam: Tonkin: Montes Mauson. Distribución: Japan, China (Taiwan), southern China, Vietnam. Este sitio registra 5 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Hodotermopsis*：属名由希腊文 hodos（道路）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
 
-EN — *Hodotermopsis*: From Greek hodos (path) + -termopsis.
-
-ES — *Hodotermopsis*: Del griego hodos (sendero) + -termopsis.
-
 种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
-
-EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
-
-ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/family/hodotermopsidae/) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
-- **属 Genus / Género**：[原白蚁属 *Hodotermopsis*]({{ site.base_url }}/genus/hodotermopsis/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/family/hodotermopsidae/) —— 本站收录 1 属 1 种
+- **属**：[原白蚁属 *Hodotermopsis*]({{ site.base_url }}/genus/hodotermopsis/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：日本、中国台湾、中国南部、越南
-- **英文记录 English record / Registro en inglés**：Japan, China (Taiwan), southern China, Vietnam
+- **分布记录**：日本、中国台湾、中国南部、越南
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 5 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 5 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 5 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermopsis japonicus* Holmgren, 1912: 112-113 —— 模式产地：Japan: Amami-Oshima
 2. *Hodotermopsis yui* Li & Ping, 1988: 303-304, 305 —— 模式产地：China: Guangdong Province: Lianshan County
@@ -74,8 +60,6 @@ ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 5. *Hodotermopsis fanjingshanensis* Zhu, Wang & Huang, 1991: 201-202, 203 —— 模式产地：China: Guizhou Province: Jiankou County: Fanjingshan Mountain
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis* 等）出现，本站统一归入 *Hodotermopsis sjostedti*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis*); this site treats them all under *Hodotermopsis sjostedti*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis*); este sitio los reúne todos bajo *Hodotermopsis sjostedti*.
 <!-- AUTO:END -->
 
 ## 湖南莽山的观察

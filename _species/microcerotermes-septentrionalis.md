@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/microcerotermes-septentrionalis/
 title: "Microcerotermes septentrionalis Light, 1933 北方锯白蚁"
 latin: "Microcerotermes septentrionalis"
 zh: "北方锯白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **北方锯白蚁**（*Microcerotermes septentrionalis*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Jala, Madrid。分布记录包括新热带界、哥斯达黎加、墨西哥、危地马拉、洪都拉斯、伯利兹、尼加拉瓜。
 
-EN — **北方锯白蚁** (*Microcerotermes septentrionalis*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Light in 1933; the type locality is Mexico: Colima State: Jala, Madrid. Distribution: Neotropics, Costa Rica, Mexico, Guatemala, Honduras, Belize, Nicaragua.
-
-ES — **北方锯白蚁** (*Microcerotermes septentrionalis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala, Madrid. Distribución: Neotropics, Costa Rica, Mexico, Guatemala, Honduras, Belize, Nicaragua.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
 
-EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
-
-ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
-
 种加词 *septentrionalis*：拉丁文 septentrionalis（北方的）
-
-EN — epithet *septentrionalis*: Latin septentrionalis (northern)
-
-ES — epithet *septentrionalis*: Del latín septentrionalis (septentrional, del norte)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/subfamily/microcerotermitinae/) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
-- **属 Genus / Género**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/genus/microcerotermes/) —— 共 148 种（148 species · 148 especies）
-- **本属模式种 Type species / Especie tipo**：*Microcerotermes strunckii*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/subfamily/microcerotermitinae/) —— 本站收录 2 属 150 种
+- **属**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/genus/microcerotermes/) —— 共 148 种
+- **本属模式种**：*Microcerotermes strunckii*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：新热带界、哥斯达黎加、墨西哥、危地马拉、洪都拉斯、伯利兹、尼加拉瓜
-- **英文记录 English record / Registro en inglés**：Neotropics, Costa Rica, Mexico, Guatemala, Honduras, Belize, Nicaragua
+- **分布记录**：新热带界、哥斯达黎加、墨西哥、危地马拉、洪都拉斯、伯利兹、尼加拉瓜
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

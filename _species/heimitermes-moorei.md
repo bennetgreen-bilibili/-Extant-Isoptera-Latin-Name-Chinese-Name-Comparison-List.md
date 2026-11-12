@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/heimitermes-moorei/
 title: "Heimitermes moorei Emerson, 1959 穆尔埃姆白蚁"
 latin: "Heimitermes moorei"
 zh: "穆尔埃姆白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **穆尔埃姆白蚁**（*Heimitermes moorei*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）埃姆白蚁属（*Heimitermes*）的一种。本种由 Emerson 于 1959 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括旧热带界。
 
-EN — **穆尔埃姆白蚁** (*Heimitermes moorei*) is a species of the genus *Heimitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Emerson in 1959; the type locality is Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribution: Old World tropics.
-
-ES — **穆尔埃姆白蚁** (*Heimitermes moorei*) es una especie del género *Heimitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución: Old World tropics.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Heimitermes*：属名以人名 Heim 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Heimitermes*: Named after a person (Heim); -termes from Latin termes.
-
-ES — *Heimitermes*: En honor de una persona (Heim); -termes, del latín termes.
-
 种加词 *moorei*：以人名 Moore（摩尔）命名
-
-EN — epithet *moorei*: Named after Moore
-
-ES — epithet *moorei*: En honor de Moore
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[埃姆白蚁属 *Heimitermes*]({{ site.base_url }}/genus/heimitermes/) —— 共 2 种（2 species · 2 especies）
-- **本属模式种 Type species / Especie tipo**：*Heimitermes laticeps*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[埃姆白蚁属 *Heimitermes*]({{ site.base_url }}/genus/heimitermes/) —— 共 2 种
+- **本属模式种**：*Heimitermes laticeps*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：旧热带界
-- **英文记录 English record / Registro en inglés**：Old World tropics
+- **分布记录**：旧热带界
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

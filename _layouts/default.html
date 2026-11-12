@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+<html lang="{{ page.lang | default: 'zh-CN' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- comment -%}
   标签页标题（<title>）：只保留本页语言，不做双语拼接；另一种语言只出现在页头副行（.hero-title-alt），
   换语言用页头的语言切换（中文 / English / Español）。模板规则：
-    · 物种页（_species/ 下 3089 条）：中文正名（拉丁学名）— 白蚁名录。不用 front matter 的 title，
+    · 物种页（_species/ 下 3089 条 × 三语）：中文页「中文正名（拉丁学名）— 白蚁名录」，
+      en/es 页「拉丁学名 — 中文正名 — Termite Checklist / Lista de termitas」。不用 front matter 的 title，
       那里带着命名人年份（例："Anacanthotermes ahngerianus Jacobson, 1905 安格无刺白蚁"），
       直接当 <title> 会长到 99 字；命名人年份仍出现在 H1 与 JSON-LD 里。
     · 首页：front matter 的 title 本身就是完整站点名，原样使用。
@@ -18,8 +19,14 @@
 {%- elsif page.lang == 'es' -%}{%- assign lang_brand = 'Lista de termitas' -%}
 {%- endif -%}
 {%- assign seo_title = page.title -%}
-{%- if page.collection == 'species' -%}
+{%- if page.collection == 'species' or page.species_page -%}
+  {%- if page.lang == 'en' -%}
+  {%- assign seo_title = page.latin | append: ' — ' | append: page.zh | append: ' — Termite Checklist' -%}
+  {%- elsif page.lang == 'es' -%}
+  {%- assign seo_title = page.latin | append: ' — ' | append: page.zh | append: ' — Lista de termitas' -%}
+  {%- else -%}
   {%- assign seo_title = page.zh | append: '（' | append: page.latin | append: '） — 白蚁名录' -%}
+  {%- endif -%}
 {%- elsif page.url == '/' or page.url == '/en/' or page.url == '/es/' -%}
 {%- elsif seo_title contains site.title_zh or seo_title contains site.title_en or seo_title contains site.title_es -%}
 {%- else -%}
@@ -33,7 +40,7 @@
 {%- comment -%} 社交分享图：物种页优先 iNaturalist 照片（_data/species_photos.json），否则用所在科/亚科照片，最后兜底站点首图 {%- endcomment -%}
 {%- assign og_image = page.image -%}
 {%- if og_image == nil or og_image == '' -%}
-  {%- if page.collection == 'species' -%}
+  {%- if page.collection == 'species' or page.species_page -%}
     {%- assign og_photos = site.data.species_photos.species[page.latin] -%}
     {%- if og_photos and og_photos.size > 0 -%}
       {%- assign og_image = og_photos[0].src -%}
@@ -59,7 +66,7 @@
 <meta name="author" content="{{ site.author }}">
 <link rel="canonical" href="{{ canonical_url }}">
 <meta property="og:site_name" content="{{ og_site_name }}">
-<meta property="og:type" content="{% if page.layout == 'post' or page.collection == 'species' %}article{% else %}website{% endif %}">
+<meta property="og:type" content="{% if page.layout == 'post' or page.collection == 'species' or page.species_page %}article{% else %}website{% endif %}">
 <meta property="og:title" content="{{ seo_title | escape }}">
 <meta property="og:description" content="{{ meta_desc | escape }}">
 <meta property="og:url" content="{{ canonical_url }}">
@@ -70,7 +77,7 @@
 <meta name="twitter:title" content="{{ seo_title | escape }}">
 <meta name="twitter:description" content="{{ meta_desc | escape }}">
 <meta name="twitter:image" content="{{ og_image_abs }}">
-{%- if page.layout == 'post' or page.collection == 'species' %}
+{%- if page.layout == 'post' or page.collection == 'species' or page.species_page %}
 <meta property="article:author" content="{{ page.author | default: site.author }}">
 {%- if page.date %}
 <meta property="article:published_time" content="{{ page.date | date: '%Y-%m-%d' }}">
@@ -90,7 +97,7 @@
 {%- comment -%} 只有名录主页面才加载地图 / 文献增强与名录排版；/list/ 的子页面（如 /list/name-issues/）不继承这些资源 {%- endcomment -%}
 {%- assign is_list_page = false -%}{%- if path_no_lang == '/list/' -%}{%- assign is_list_page = true -%}{%- endif -%}
 {%- assign is_papers_page = false -%}{%- if path_no_lang == '/papers/' -%}{%- assign is_papers_page = true -%}{%- endif -%}
-{% unless page.collection == 'species' or page.lang_only %}{% if page.layout == 'post' %}
+{% unless page.lang_only %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
 {% else %}
@@ -100,20 +107,20 @@
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ path_no_lang }}">
 {% endif %}{% endunless %}
 {%- comment -%} 面包屑结构化数据：物种页另有自己的 BreadcrumbList（_includes/species-jsonld.html），此处只覆盖其余页面 {%- endcomment -%}
-{% unless page.collection == 'species' %}{% include breadcrumb-jsonld.html %}{% endunless %}
+{% unless page.collection == 'species' or page.species_page %}{% include breadcrumb-jsonld.html %}{% endunless %}
 {%- comment -%} 数据页（三语 /data/）：输出独立的 Dataset 结构化数据，与首页的 @id 保持一致 {%- endcomment -%}
 {% if path_no_lang == '/data/' %}{% include dataset-jsonld.html %}{% endif %}
 {%- comment -%} 全文搜索页（pagefind: true）：Pagefind 的样式与脚本由 CI 在 _site/pagefind/ 生成 {%- endcomment -%}
 {% if page.pagefind %}<link rel="stylesheet" href="{{ site.base_url }}/pagefind/pagefind-ui.css">
 {% endif %}<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
 {%- comment -%} 图片图集（PhotoSwipe，MIT）：物种页、/photos/ 图片页，以及挂了图片小节的科/亚科/属页（front matter 的 has_photos） {%- endcomment -%}
-{% if page.collection == 'species' or page.photo_kind or page.has_photos %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.css">
+{% if page.collection == 'species' or page.species_page or page.photo_kind or page.has_photos %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.css">
 <link rel="stylesheet" href="{{ site.base_url }}/assets/gallery.css?v={{ site.time | date: '%s' }}">
 {% endif %}{%- comment -%} 名录页（分布图 + 文献增强）、物种页（种级分布图）与带 has_map 的科/亚科/属中转页的专用样式：Leaflet 本地托管，不从 CDN 加载 {%- endcomment -%}
-{% if is_list_page or page.collection == 'species' or page.has_map %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/leaflet/leaflet.css">
+{% if is_list_page or page.collection == 'species' or page.species_page or page.has_map %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/leaflet/leaflet.css">
 <link rel="stylesheet" href="{{ site.base_url }}/assets/map.css?v={{ site.time | date: '%s' }}">
 {% endif %}{% if is_list_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ site.time | date: '%s' }}">
-{% endif %}{% if is_papers_page or page.collection == 'species' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/papers.css?v={{ site.time | date: '%s' }}">
+{% endif %}{% if is_papers_page or page.collection == 'species' or page.species_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/papers.css?v={{ site.time | date: '%s' }}">
 {% endif %}
 {% if page.phylogeny %}<link rel="stylesheet" href="{{ site.base_url }}/assets/phylogeny.css?v={{ site.time | date: '%s' }}">
 {% endif %}</head>
@@ -153,7 +160,11 @@
 {%- assign hero_title_alt_lang = 'en' -%}
 {%- endif -%}
 
-{%- comment -%} 三语切换目标：文章页没有其他语种版本，指向各语种博客列表；物种页不显示切换 {%- endcomment -%}
+{%- comment -%}
+  三语切换目标：文章页没有其他语种版本，指向各语种博客列表；
+  分类页/物种页现在三语各有独立页面，path_no_lang 派生的 /en、/es 地址就是对应语言页；
+  仍然单语无对照的页面（图集、待审稿页）用 front matter 的 lang_only: true 排除。
+{%- endcomment -%}
 {%- if page.layout == 'post' -%}
 {%- assign url_zh = page.url -%}
 {%- assign url_en = '/en/blog/' -%}
@@ -170,7 +181,7 @@
       <a class="hero-brand" href="{{ site.base_url }}{{ LANGP }}/">{{ T.brand }} <span class="hero-brand-sub">{{ T.brand_sub }}</span></a>
       <div class="hero-actions">
         <span class="hero-version">v{{ site.dataset.version }}</span>
-        {% unless page.collection == 'species' or page.lang_only %}<span class="lang-switch-group" role="group" aria-label="Language">
+        {% unless page.lang_only %}<span class="lang-switch-group" role="group" aria-label="Language">
           {%- if page.lang == 'zh-CN' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['zh-CN'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_zh }}" hreflang="zh-CN" lang="zh-CN">{{ site.data.i18n['zh-CN'].lang_label }}</a>{%- endif -%}
           {%- if page.lang == 'en' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['en'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_en }}" hreflang="en" lang="en">{{ site.data.i18n['en'].lang_label }}</a>{%- endif -%}
           {%- if page.lang == 'es' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['es'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_es }}" hreflang="es" lang="es">{{ site.data.i18n['es'].lang_label }}</a>{%- endif -%}
@@ -209,8 +220,10 @@
 </nav>
 
 {%- comment -%} Pagefind：物种页把「科」与拉丁名带进索引，供搜索结果过滤 / 展示（/search/ 与第三方 API 都可读） {%- endcomment -%}
-<main class="content-wrap" id="main-content" tabindex="-1"{% if page.photo_kind %} data-pagefind-ignore{% else %} data-pagefind-body{% if page.collection == 'species' %} data-pagefind-filter="family:{{ page.family_latin }}" data-pagefind-meta="latin:{{ page.latin }}"{% endif %}{% endif %}>
+<main class="content-wrap" id="main-content" tabindex="-1"{% if page.photo_kind %} data-pagefind-ignore{% else %} data-pagefind-body{% if page.collection == 'species' or page.species_page %} data-pagefind-filter="family:{{ page.family_latin }}" data-pagefind-filter="lang:{{ page.lang }}" data-pagefind-meta="latin:{{ page.latin }}"{% endif %}{% endif %}>
+  {%- comment -%} 单语页若有个别小节尚未翻译，由这条提示说明（页面自报 translation_pending，缺省零输出） {%- endcomment -%}
   <div class="container content">
+    {% include translation-missing.html %}
     {{ content }}
   </div>
 </main>
@@ -246,20 +259,19 @@
 {% if page.taxon_search %}<script src="{{ site.base_url }}/assets/taxon-search.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}
 {%- comment -%} 图片图集：PhotoSwipe 5 UMD + gallery.js（懒初始化，只在有图片时接管）；页面判定同上 {%- endcomment -%}
-{% if page.collection == 'species' or page.photo_kind or page.has_photos %}<script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.umd.min.js" defer></script>
+{% if page.collection == 'species' or page.species_page or page.photo_kind or page.has_photos %}<script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.umd.min.js" defer></script>
 <script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe-lightbox.umd.min.js" defer></script>
 <script src="{{ site.base_url }}/assets/gallery.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}{%- comment -%} 「全部图片」页（四级共用）的本页检索：只筛当前页照片，按拉丁学名 / 中文名 / 摄影师 {%- endcomment -%}
 {% if page.photo_kind %}<script src="{{ site.base_url }}/assets/photo-search.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}{%- comment -%} 名录页 / 物种页 / 中转页（has_map）的分布图脚本与名录页的文献增强脚本 {%- endcomment -%}
-{% if is_list_page or page.collection == 'species' or page.has_map %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
+{% if is_list_page or page.collection == 'species' or page.species_page or page.has_map %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
 <script src="{{ site.base_url }}/assets/map.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}{% if is_list_page %}<script src="{{ site.base_url }}/assets/references.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}{% if is_papers_page %}<script src="{{ site.base_url }}/assets/papers.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}
 <script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
 <script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>
-<script src="{{ site.base_url }}/assets/taxon-literature.js?v={{ site.time | date: '%s' }}" defer></script>
 {%- comment -%}
   访问统计（GoatCounter，开源无 Cookie）：_data/analytics.yml 的 count_url / script_src；
   对应官方片段 <script data-goatcounter="…" async src="//gc.zgo.at/count.js">。

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/embiratermes-neotenicus/
 title: "Embiratermes neotenicus Holmgren, 1906 幼态生白蚁"
 latin: "Embiratermes neotenicus"
 zh: "幼态生白蚁"
@@ -26,55 +29,36 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本站记录本种有 1 个次异名。
 
-EN — **幼态生白蚁** (*Embiratermes neotenicus*) is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. This site records 1 junior synonym for the species.
-
-ES — **幼态生白蚁** (*Embiratermes neotenicus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
 
-EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
-
-ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
-
 种加词 *neotenicus*：源自 neoteny（幼态持续），希腊文 neos（幼）＋teinein（延续），指保持幼态
-
-EN — epithet *neotenicus*: From neoteny: Greek neos (young) + teinein (to extend); retaining juvenile traits
-
-ES — epithet *neotenicus*: De neotenia: griego neos (joven) + teinein (extender); retención de rasgos juveniles
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/genus/embiratermes/) —— 共 9 种（9 species · 9 especies）
-- **本属模式种 Type species / Especie tipo**：*Embiratermes festivellus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/genus/embiratermes/) —— 共 9 种
+- **本属模式种**：*Embiratermes festivellus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉
-- **英文记录 English record / Registro en inglés**：Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela
+- **分布记录**：秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Armitermes (Armitermes) percutiens* Emerson, 1925: 369-371 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Armitermes) percutiens* 出现，本站统一归入 *Embiratermes neotenicus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Armitermes (Armitermes) percutiens*; this site treats it under *Embiratermes neotenicus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Armitermes (Armitermes) percutiens*; este sitio lo reúne bajo *Embiratermes neotenicus*.
 <!-- AUTO:END -->

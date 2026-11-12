@@ -103,7 +103,7 @@
   {%- if dsm and dsm.file -%}
 <div class="distribution-inline distribution-inline-subfamily" data-pagefind-ignore data-taxon="{{ dsm.id }}">
 <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dsm.file }}" data-label="{{ dsm.zh }} {{ dsm.latin }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dsm.zh }} {{ dsm.latin }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-<p class="distribution-meta"><b>{{ dsm.records }}</b> {{ t_records }} · <b>{{ dsm.cells }}</b> {{ t_cells }}{% if dsm.species %} · {{ dsm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dsm.file }}" download="{{ dsm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}/family/{{ dsm.family_id }}/">{{ dsm.family_zh }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
+<p class="distribution-meta"><b>{{ dsm.records }}</b> {{ t_records }} · <b>{{ dsm.cells }}</b> {{ t_cells }}{% if dsm.species %} · {{ dsm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dsm.file }}" download="{{ dsm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/family/{{ dsm.family_id }}/">{{ dsm.family_zh }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
   {%- endif -%}
 {%- elsif occ and dmode == 'genus' -%}
@@ -112,7 +112,7 @@
   {%- if dm and dm.file -%}
 <div class="distribution-inline distribution-inline-genus" data-pagefind-ignore data-taxon="{{ dm.id }}">
 <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}/family/{{ dm.family_id }}/">{{ dm.family_zh }}</a></p>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/family/{{ dm.family_id }}/">{{ dm.family_zh }}</a></p>
 </div>
   {%- endif -%}
 {%- elsif occ and dmode == 'species' -%}
@@ -123,7 +123,7 @@
 <h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
 <p class="species-map-note">{{ t_note }} <span class="fact-en" lang="en">{{ t_note_en }}</span> <span class="fact-es" lang="es">{{ t_note_es }}</span></p>
 <div class="distribution-map distribution-map-species" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}/genus/{{ dm.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/genus/{{ dm.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
   {%- else -%}
 <div class="species-map species-map-empty" aria-labelledby="species-map-title" data-pagefind-ignore>

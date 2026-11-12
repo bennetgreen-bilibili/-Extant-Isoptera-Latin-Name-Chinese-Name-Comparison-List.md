@@ -1,0 +1,510 @@
+{
+ "meta": {
+  "schema": 1,
+  "review": "machine-assisted",
+  "note": "Machine-assisted translation of the Chinese taxonomic prose in _data/*.json. Latin names, authorities, years and measurements are kept verbatim; the pre-existing English abstracts in the source `en` fields are not duplicated here.",
+  "coverage": {
+   "keys": 38,
+   "chars": 100405,
+   "files": {
+    "morphology_genera": {
+     "keys": 10,
+     "chars": 82446
+    },
+    "fauna_families": {
+     "keys": 4,
+     "chars": 1457
+    },
+    "fauna_genera": {
+     "keys": 24,
+     "chars": 12811
+    },
+    "fauna_keys": {
+     "keys": 0,
+     "chars": 3691
+    }
+   }
+  }
+ },
+ "morphology_genera": {
+  "/genus/acorhinotermes/": {
+   "note": "El original no incluye un apartado independiente de Diagnosis genérica; los caracteres genéricos proceden del enunciado sobre la historia del género en la Introduction y de la primera entrada de la clave subfamiliar basada en el soldado menor; el resto corresponde a la descripción específica de A. claritae, señalada caso por caso como «nivel específico». En este equipo solo se dispone del XML JATS del editor (Europe PMC PMC6882922) y no del PDF impreso, por lo que el locator emplea nombres de sección. Del alado solo existe ilustración para A. subfusciceps, que no se ha utilizado aquí para redactar la sección del alado.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "El carácter diagnóstico genérico es la ausencia de soldado mayor (major soldier), rasgo en el que se basó Emerson para separar esta especie de Rhinotermes y establecer el género; en el soldado menor, en vista dorsal el fontanelle se sitúa por delante de los lóbulos mandibulares (mandibular lobes, es decir, la base del ápice de las mandíbulas), lo que lo separa de Dolichorhinotermes y de Rhinotermes, en los que el fontanelle se sitúa a la altura de los lóbulos mandibulares o por detrás de ellos."
+    },
+    {
+     "label": "Soldado",
+     "text": "Solo se conoce el soldado menor. En vista dorsal los márgenes laterales de la cabeza están escotados y forman una constricción posterior; el vértice lleva 10–12 setas largas y erectas, sin microtriquias; antenas de 15 o 16 artejos, fórmula 2=3<4=5; mandíbulas reducidas, largas y agudas, rectas y afiladas; labro muy largo (hyperelongate), que se ensancha hacia el extremo, bilobulado en el ápice, casi coplanario con el vértice en vista lateral; fontanelle situado a 1/5 de la base del labro; pronoto del mismo color que la cabeza, con 4–8 setas dispersas (2–4 en el borde anterior y 2–4 en el dorso), sin microtriquias; segmentos abdominales amarillo pálido, con los bordes densamente pilosos; patas con numerosas setas largas y cortas, y la tibia anterior con setas gruesas. El ápice mandibular del soldado menor de esta especie es más largo que en A. subfusciceps y su talla relativamente menor."
+    }
+   ]
+  },
+  "/genus/archotermopsis/": {
+   "note": "En el momento de la publicación el nombre genérico figuraba como Termopsis (Heer), y el párrafo de caracteres genéricos abarca en realidad el Termopsis en sentido amplio de entonces (que incluye el actual Zootermopsis); el autor indica en p. 297 que ya había establecido el subgénero Archotermopsis (Desneux 1904, Genera Insectorum XXV, p. 18), y la especie tipo descrita en este trabajo es A. wroughtoni, por lo que los caracteres genéricos y la descripción específica pueden atribuirse a este género, aunque debe tenerse en cuenta que parte de los caracteres «genéricos» puede corresponder al Termopsis en sentido amplio. Los caracteres genéricos registran antenas de 27–28 artejos y la descripción específica da 24 o 25, discrepancia que debe verificarse al utilizarlos.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "El original expone los caracteres del género bajo el nombre Termopsis: en el alado los ocelos faltan por completo y la placa frontal no es prominente, lo que permite separarlo de los grupos que poseen ocelos; los tarsos son aparentemente de 4 artejos pero en realidad de 5, el artejo 2 solo está parcialmente separado del 1 y entre las uñas tarsales hay una plantula; los cercos son largos y en el macho el estilo es robusto; las alas son amplias, con una longitud inferior a 4 veces su anchura. El soldado es de cuerpo robusto, cabeza grande, casi rectangular y aplanada, antenas de más de 20 artejos, mandíbulas muy fuertes con dientes en el margen interno, pronoto más estrecho que la cabeza y casi plano, y cercos y estilo largos. El autor establece después, sobre la base de la forma del ojo compuesto y de los restos de la base alar, el subgénero Archotermopsis, y señala que difiere de los demás miembros de Termopsis."
+    },
+    {
+     "label": "Alado",
+     "text": "Antenas de 27–28 artejos (la descripción específica de la especie tipo A. wroughtoni da 24 o 25 artejos, lo que no concuerda con los caracteres genéricos y debe verificarse con ejemplares); ocelos completamente ausentes; placa frontal no prominente; ojos compuestos grandes, con el margen anterior profundamente escotado, casi reniforme (nivel específico); pronoto casi plano, más estrecho que la cabeza; alas con longitud inferior a 4 veces su anchura, ala anterior con subcosta, radio desarrollado y con varias ramas que alcanzan el margen anterior, media cercana al centro del ala, zona membranosa densamente reticulada; tibias con espinas laterales; tarsos aparentemente de 4 artejos pero en realidad de 5, con plantula entre las uñas; cercos largos, estilo del macho robusto."
+    },
+    {
+     "label": "Soldado",
+     "text": "Cuerpo robusto; cabeza grande, casi rectangular, aplanada, con el margen posterior marcadamente escotado (nivel específico); ojos pequeños o reducidos, y a nivel específico se registran pequeños, ovales y sin omatidios; antenas de más de 20 artejos (a nivel específico 22–25); mandíbulas muy fuertes, con dientes fuertes irregulares en el margen interno y el extremo curvado hacia dentro y agudo; pronoto más estrecho que la cabeza, casi plano; tarsos sin plantula (el original: la plantula solo se observa en el alado); cercos y estilo largos."
+    },
+    {
+     "label": "Obrero",
+     "text": "El original (descripción específica de A. wroughtoni) señala que el obrero se asemeja a la larva: en la forma ninfal los epímeros (epimera) del mesotórax y metatórax forman una proyección libre, triangular y foliácea, igual que en el soldado, mientras que el alado carece de ella; en algunos individuos el margen posterior del noto del mesotórax y metatórax conserva cicatrices de la rotura de los esbozos alares, y la cabeza es algo mayor que la de la ninfa; el original supone que tales individuos desempeñan la función de obrero."
+    }
+   ]
+  },
+  "/genus/dolichorhinotermes/": {
+   "note": "La sección del alado solo puede basarse en la frase diagnóstica genérica (el 3.er segmento flagelar más corto que el 1.º) y en la descripción de la especie fósil D. apopnus, ya que el original declara explícitamente desconocido el alado de la especie actual. La p. 2 es a dos columnas y la capa de texto se recortó por columnas y se recompuso; los guiones de fin de línea entre palabras (subquad-rate) se han unido sin modificar la redacción.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "En el alado el 3.er segmento flagelar es más corto que el 1.º; en el soldado mayor el labro está manifiestamente alargado y su extremo suele alcanzar el ápice de las mandíbulas, mientras que en Rhinotermes el labro es casi cuadrado y mucho más corto; en el soldado menor la abertura de la glándula frontal se sitúa en la parte anterior de la cabeza pero no se asienta sobre una prominencia cefálica manifiesta, las mandíbulas están reducidas y de bordes redondeados, y los márgenes laterales de la cabeza son rectos o convexos en vista dorsal."
+    },
+    {
+     "label": "Alado",
+     "text": "El 3.er segmento flagelar es más corto que el 1.º. El alado de la especie actual D. lanciarius figura en el original como «Imago. Unknown.»; el alado de la especie fósil D. apopnus: cabeza grande, ancha y redondeada, anteclípeo prolongado hacia delante en una ancha proyección rostral, glándula frontal pequeña y situada en la base del rostro, ojos compuestos grandes y prominentes, ocelos grandes y alargados, sin contacto con los ojos compuestos."
+    },
+    {
+     "label": "Soldado",
+     "text": "Soldado mayor: la parte posterior de la cabeza es más ancha, con los márgenes laterales suavemente redondeados que se estrechan hacia delante; la mandíbula izquierda lleva dos dientes gruesos, el primero algo por delante de la mitad y el segundo algo por detrás, y el primero es manifiestamente más largo que el segundo; los dos dientes de la mandíbula derecha están próximos a la mitad, y el primero es más corto que el segundo; el labro es alargado, de extremo redondeado y sin escotadura, con una depresión longitudinal poco profunda en el dorso; antenas de al menos 14 artejos, con el 3.er segmento flagelar manifiestamente más corto que el 1.º; pronoto en silla de montar. Soldado menor: márgenes laterales de la cabeza débilmente convexos, que se estrechan hacia delante, borde posterior redondeado; antenas de 16 artejos, con el 3.er segmento flagelar manifiestamente más corto que el 1.º; mandíbulas reducidas a anchas láminas carnosas, solo con un diminuto ápice esclerotizado; labro estrecho y largo, bifurcado en el ápice, con las dos proyecciones laterales muy separadas entre sí."
+    }
+   ]
+  },
+  "/genus/glossotermes/": {
+   "note": "El original es la descripción original del holotipo, un único soldado, y consigna explícitamente que el alado es desconocido, por lo que no se incluyen secciones de alado ni de obrero. Entonces se situaba en Rhinotermitidae y hoy se asigna a Serritermitidae; el cambio de clasificación no afecta a la descripción morfológica.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "El original considera que este género es el más próximo a Psammotermes (entonces situado en Rhinotermitidae), aunque la relación es bastante lejana; al establecerse el género solo se conocía el soldado y el alado era desconocido. El soldado se caracteriza por la combinación de cabeza casi cuadrada y algo deprimida, un punto ocular manifiesto por detrás de cada fosa antenal, labro muy ancho y mandíbulas solo débilmente uncinadas, con un gran surco en la base de la mandíbula izquierda que recibe el diente de la mandíbula derecha."
+    },
+    {
+     "label": "Soldado",
+     "text": "Cabeza casi cuadrada, algo deprimida, con los lados casi paralelos y ligeramente convexos, de color pardo rojizo amarillento; un punto ocular manifiesto por detrás de cada fosa antenal, menor que esta, con omatidios casi indistinguibles; por encima del ojo hay dos manchas claras, posiblemente ocelos reducidos; antenas de 13 artejos, con el artejo terminal manifiestamente más estrecho que el precedente, el 3.º aproximadamente igual al 2.º y el 4.º más corto que el 3.º; postclípeo manifiesto, unas 3 veces más ancho que largo; labro muy ancho, de lados redondeados y con un margen apical delgado y transparente; mandíbulas anchas en la base, que se atenúan hacia el ápice y solo están débilmente uncinadas, con una escotadura en el margen externo de ambas, a unos 2/9 de la base, que separa el segmento basal del apical; margen interno de la mandíbula derecha con un diente a 1/3 de la base; margen interno de la mandíbula izquierda finamente denticulado por detrás del ápice, con un gran surco en la base que recibe el diente de la mandíbula derecha; pronoto en arco plano, con el borde anterior marcadamente escotado; espinas tibiales de cada pata 2:2:2. Medidas del soldado holotipo (mm): longitud de la cabeza (hasta la base lateral de la mandíbula) 1.56, altura de la cabeza 0.82, anchura de la cabeza 1.10, longitud del postclípeo 0.19, anchura 0.57, anchura del labro 0.57, longitud de la mandíbula izquierda 1.09, anchura del pronoto 0.78, longitud de la tibia posterior 1.09."
+    }
+   ]
+  },
+  "/genus/heterotermes/": {
+   "note": "En este equipo solo se dispone del XML JATS de texto completo del editor (Europe PMC PMC3264403) y no del PDF impreso, por lo que el locator emplea nombres de sección en lugar de números de página; en el jsonl el orden de autores figura como Roisin & Bourguignon, distinto del orden de los contrib del XML (Bourguignon en primer lugar), y aquí se sigue el XML. El original no describe la casta de obrero, por lo que no se incluye una sección de obrero.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "Este género se distingue de los demás miembros de Rhinotermitinae por la siguiente combinación: en el soldado la cabeza es larga y estrecha, rectangular, las mandíbulas son ensiformes con el extremo ligeramente curvado, la mandíbula izquierda lleva un diente y varias denticulaciones en la base y la derecha carece de dientes y de denticulaciones en la base; en el alado la cabeza es casi oval, más estrecha en la parte anterior que en la posterior, los ocelos se sitúan en la parte anterior de la cabeza, por delante de los ojos compuestos, las antenas suelen tener 15–19 artejos y el pronoto es alargado y más estrecho que la cabeza."
+    },
+    {
+     "label": "Alado",
+     "text": "Cabeza casi oval, más estrecha en la parte anterior que en la posterior; fontanelle pequeño, situado en la parte media de la cabeza; ojos compuestos pequeños y planos; ocelos situados en la parte anterior de la cabeza, por delante de los ojos; antenas generalmente de 15–19 artejos; pronoto alargado y más estrecho que la cabeza. Nivel específico (H. paradoxus): cabeza algo alargada, con varios cientos de pelos; pronoto alargado, de anchura media; antenas generalmente de 18 artejos (a veces 17); ojos compuestos planos, con un ocelo pequeño por delante."
+    },
+    {
+     "label": "Soldado",
+     "text": "Cabeza larga y estrecha, rectangular; fontanelle pequeño, circular y situado en la parte anterior; labro corto a mediano, aproximadamente la mitad de la longitud de las mandíbulas; mandíbulas ensiformes, con el extremo ligeramente curvado; mandíbula izquierda con un diente y varias denticulaciones en la base; mandíbula derecha sin dientes ni denticulaciones en la base; antenas de 13–18 artejos. Nivel específico (H. vagus): soldado de talla pequeña, cabeza alargada con una prominencia manifiesta en la parte anterior, densamente cubierta de pelos cortos; labro alargado, de extremo agudo; antenas generalmente de 13 artejos; pronoto corto y estrecho, con unos 50 pelos; postmentón algo estrecho y sin pelos; extremo de las mandíbulas ligeramente curvado."
+    }
+   ]
+  },
+  "/genus/mastotermes/": {
+   "note": "Este trabajo es una revisión taxonómica a nivel de familia, la morfología genérica se concentra en la venación alar y el original no incluye apartados morfológicos de soldado ni de obrero, por lo que solo se redactan los caracteres diagnósticos y el alado. Se evitan dos incorporaciones erróneas: la red archidictyon (el original la señala explícitamente como compartida por Mastotermitidae y Termopsidae, no como carácter genérico) y «la media se une al radio sectorial a corta distancia tras la sutura humeral», que es un carácter general de los termites (en el original 'in nearly all cases'); ninguna de las dos se ha incluido.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "Caracteres genéricos a nivel de venación alar: en el ala anterior el radio sectorial está muy fusionado y las ramas superiores contiguas están muy próximas; la sutura humeral (humeral suture) del ala anterior es más curvada y más convexa que en Blattotermes; el ala posterior posee un lóbulo anal desarrollado, que el original señala como carácter de este género y de sus géneros afines; el radio sectorial es compacto y la media está más próxima al radio sectorial que a la cubita anterior, lo que permite asignar a este género los ejemplares representados solo por alas."
+    },
+    {
+     "label": "Alado",
+     "text": "En el ala anterior el radio sectorial está muy fusionado y las ramas superiores contiguas están muy próximas; la sutura humeral (humeral suture) del ala anterior forma una convexidad arqueada manifiesta y es más curvada que en Blattotermes; el lóbulo anal del ala posterior está desarrollado."
+    }
+   ]
+  },
+  "/genus/porotermes/": {
+   "note": "Los caracteres genéricos utilizables se concentran en la clave de géneros de la subfamilia y en el párrafo comparativo de la p. 144; la longitud del cuerpo, el número de artejos antenales y la proporción del pronoto son medidas específicas de P. adamsoni, ya señaladas como «nivel específico». La sección de «obrero» es una explicación del original sobre las castas de la subfamilia, no exclusiva de este género, y al citarla debe conservarse esa restricción.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "La clave de géneros de la subfamilia que ofrece el original: el alado sin ocelos, sin empodium (empodio) y con cercos de 5 artejos corresponde a este género, mientras que el que tiene ocelos, empodium y cercos de 2 artejos corresponde a Calotermes; el soldado con cercos largos de 5 artejos corresponde a este género y el de cercos cortos de 2 artejos a Calotermes. El soldado se confunde fácilmente con el de Stolotermes, pero este último es de talla pequeña, con cabeza y cuerpo más deprimidos, pronoto pequeño y cordiforme y ojos con omatidios."
+    },
+    {
+     "label": "Alado",
+     "text": "Sin ocelos; sin empodium; cercos de 5 artejos. Nivel específico (P. adamsoni): antenas de 15 a 17 artejos; longitud del cuerpo con alas 14–15 mm, longitud del cuerpo 7–8 mm."
+    },
+    {
+     "label": "Soldado",
+     "text": "Cercos largos, de 5 artejos. Nivel específico (P. adamsoni): antenas de 16 a 18 artejos; mandíbulas gruesas, con la misma fórmula dentaria en las tres especies; anchura del pronoto aproximadamente 1.5 veces la anchura de la cabeza."
+    },
+    {
+     "label": "Obrero",
+     "text": "Esta subfamilia carece de una casta de obrero verdadera y las funciones de obrero las asumen los estadios inmaduros del alado (y quizá del soldado); los caracteres genéricos de este «obrero-ninfa» son los mismos que los del soldado."
+    }
+   ]
+  },
+  "/genus/psammotermes/": {
+   "note": "La publicación original del género (Desneux 1902, material del Sahara) solo se conserva en este equipo como una página 403, sin texto, y no es utilizable; todos los caracteres de esta entrada proceden del párrafo de comparación genérica que Emerson (1950) incluyó al describir Glossotermes, abarca únicamente al soldado y no comprende al alado ni al obrero, por lo que su fiabilidad es media. Al redactar no debe extenderse a otras castas.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "La comparación con Glossotermes permite perfilar los caracteres del soldado de este género: cabeza y cuerpo con numerosos pelos largos; mandíbulas más curvadas, ambas con denticulaciones gruesas en la parte media; mandíbula izquierda sin surco interno en la base, con el segmento basal proporcionamente mayor y el apical menor; sutura entre el postclípeo y la frente poco manifiesta; labro grande y ancho, sin banda transversal clara, con el extremo más agudo y sin margen labral transparente; postmentón relativamente más ancho en su punto más estrecho; puntos oculares poco manifiestos; mayor número de artejos antenales; borde anterior del pronoto sin proyección foliácea; fémures más gruesos; fórmula de espinas tibiales 3:2:2. Sobre esta base el original considera que el soldado de este género es más primitivo en las mandíbulas, las antenas y la fórmula de espinas tibiales."
+    },
+    {
+     "label": "Soldado",
+     "text": "El soldado presenta numerosos pelos largos en todo el cuerpo; mandíbulas curvadas, ambas con denticulaciones gruesas en la parte media; mandíbula izquierda sin surco interno en la base; labro grande y ancho, de extremo agudo y sin margen transparente; número de artejos antenales relativamente elevado; borde anterior del pronoto sin proyección foliácea; fémures gruesos; fórmula de espinas tibiales 3:2:2."
+    }
+   ]
+  },
+  "/genus/rhinotermes/": {
+   "note": "Los caracteres genéricos son la definición de Holmgren citada por Hill y se reproducen literalmente; los tres párrafos del alado, el soldado y el obrero proceden de esa misma cita. Las especies australianas se incluyen en el subgénero Schedorhinotermes, por lo que la mayor parte del material específico registrado en este trabajo no pertenece al subgénero nominal de este género; al redactar se han empleado solo enunciados de nivel genérico y subgenérico, sin mezclar caracteres específicos de las especies australianas.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "El soldado presenta dos formas, mayor y menor, ambas con el labro bifurcado; en el soldado mayor las mandíbulas son gruesas y muy fuertes, la izquierda con dos dientes fuertes y la derecha con uno, sin denticulaciones en la base; en el soldado menor las mandíbulas son relativamente más largas, estrechas y rectas, con dientes más estrechos y agudos, o bien reducidas; el labro es relativamente corto y ancho en el soldado mayor y se proyecta más allá de las mandíbulas en el menor, bifurcado en el frente y surcado, más ancho o muy estrecho; antenas de 14–17 artejos; pronoto pequeño, mucho más estrecho que la cabeza; con estilo. En el alado del subgénero Rhinotermes s. str. el clípeo es fuerte, rostral, y cubre la base del labro, la cabeza es relativamente grande, y en el soldado menor el labro es bifurcado y las mandíbulas están reducidas."
+    },
+    {
+     "label": "Alado",
+     "text": "Cabeza casi circular; clípeo más o menos fuertemente elevado, con surco longitudinal medio; fontanelle abierto y relativamente ancho, situado hacia delante; antenas de 20–22 artejos, con el 3.º más largo que el 2.º."
+    },
+    {
+     "label": "Soldado",
+     "text": "Dos formas, mayor y menor, con el labro bifurcado. Soldado mayor: mandíbulas gruesas y muy fuertes, la izquierda con dos dientes fuertes y la derecha con uno, sin denticulaciones en la base de la mandíbula; labro relativamente corto y ancho, bifurcado en el frente y surcado. Soldado menor: mandíbulas relativamente más largas, estrechas y rectas, con dientes más estrechos y agudos, o reducidas; labro proyectado más allá de las mandíbulas, bifurcado en el frente y surcado. En ambas formas las antenas tienen 14–17 artejos; el pronoto es pequeño y mucho más estrecho que la cabeza; hay estilo."
+    },
+    {
+     "label": "Obrero",
+     "text": "Antenas de 16–18 artejos, con el 3.º más largo que el 2.º; pronoto en silla de montar."
+    }
+   ]
+  },
+  "/genus/serritermes/": {
+   "note": "La familia es monotípica y los caracteres genéricos figuran en la p. 3: «Diagnostic Characters. The same as those of the family Serritermitidae.», por lo que en esta entrada se emplea el diagnóstico familiar como diagnóstico genérico. Las secciones del alado, el soldado y el obrero se han reescrito a partir de las descripciones de las pp. 3–4, 6–8 y 8, respectivamente; se omiten las medidas para no confundirlas con las de nivel específico.",
+   "sections": [
+    {
+     "label": "Caracteres diagnósticos",
+     "text": "Este género es monotípico dentro de Serritermitidae y sus caracteres genéricos coinciden con los familiares: en el alado, el obrero y la ninfa el diente apical de las mandíbulas está proporcionamente alargado y es agudo, separado de un diente marginal situado junto a la ridged molar plate por un margen interno ancho y curvado, lo que los separa de todos los demás Termitidae; en el soldado el segmento apical de ambas mandíbulas es largo y bastante recto, con numerosas denticulaciones gruesas en el margen interno por detrás del ápice; el pronoto es estrecho y alargado, con los bordes anterior y posterior manifiestamente bilobulados y una escotadura profunda en cada uno de ellos."
+    },
+    {
+     "label": "Alado",
+     "text": "Cabeza oval, de pardo claro a amarillo medio; fontanelle situado en una pequeña depresión, blanco, de tamaño medio, reducido y bifurcado; ojos compuestos de tamaño medio y circulares, situados a una distancia del borde inferior de la cabeza equivalente a 1/4 de su diámetro; ocelos situados entre el ojo compuesto y la frente, menores que el ojo; antenas de 13 o 14 artejos; postclípeo grande, con una longitud algo menor que la mitad de su anchura y una línea longitudinal media; pronoto con una longitud aproximadamente igual a la mitad de su anchura, borde anterior débilmente escotado, márgenes laterales redondeados que se retraen por detrás; cada tibia con 2 espinas apicales; tarsos de 4 artejos; sin arolium; cercos de 2 artejos; sin estilo en ambos sexos."
+    },
+    {
+     "label": "Soldado",
+     "text": "Los dos lados de la cabeza son casi rectos y se estrechan hacia delante, y la anchura cefálica supera la longitud (hasta el anteclípeo); el margen externo de las mandíbulas es cóncavo en la base, casi recto en la parte media y convexo en el ápice; el ápice de ambas mandíbulas casi no forma uncino, el margen interno del tercio apical lleva numerosas denticulaciones gruesas y la base carece de molar ridges; las denticulaciones de la mandíbula izquierda llegan casi hasta la base, y por delante de esta hay una proyección obtusa y un pequeño diente de unos 60°; en la mandíbula derecha, tras 3–4 denticulaciones gruesas apicales hay unas 6 más pequeñas; postclípeo corto, con el borde anterior cóncavo; labro más largo que ancho, de ápice obtuso y agudo; pronoto alargado, con los bordes anterior y posterior profundamente escotados en dos lóbulos; cada tibia con 2 espinas apicales; tarsos de 4 artejos, con el 4.º más largo que la suma de los restantes; sin estilo; cercos de 2 artejos."
+    },
+    {
+     "label": "Obrero",
+     "text": "Antenas de 13 artejos; las mandíbulas son las más especializadas entre los termites conocidos, con el segmento apical proporcionamente alargado y agudo en el extremo, y el diente marginal reducido a uno."
+    }
+   ]
+  }
+ },
+ "fauna_families": {
+  "/family/hodotermopsidae/": {
+   "alate": "",
+   "biology": "Este grupo habita bosques húmedos, donde perfora troncos húmedos, madera caída y tocones; también daña árboles vivos y los elementos de madera de casas rurales y edificios antiguos, por lo que se lo conoce como termita de la madera húmeda. Los bosques primarios y secundarios resultan especialmente afectados. Sus galerías no tienen conexión con el suelo y vive de forma críptica dentro de la madera.",
+   "book_ref": "(Sección sobre la familia Hodotermitidae de la obra original)",
+   "diagnosis": "El grupo de termitas de la madera húmeda descrito en la obra pertenece a una de las ramas más primitivas de Isoptera. Ninguna casta presenta fontanela en la cabeza; el pronoto es plano y más estrecho que la anchura de la cabeza; el primer tarsómero de la pata posterior está dividido longitudinalmente solo por su cara ventral, mientras que por la cara dorsal sigue siendo un único segmento, de modo que en vista ventral parecen cinco tarsómeros y en vista dorsal solo se ven cuatro; los cercos constan de cuatro a ocho segmentos; los alados carecen de ocelos y tienen de quince a veintisiete segmentos antenales; el soldado lleva de dos a cuatro espinas apicales en la tibia. La forma transformada (el soldado) se aproxima a la forma primitiva en la forma de la cabeza, la dentición de las mandíbulas, los segmentos antenales y el número de segmentos de los cercos; la diferenciación de castas no es marcada y conserva bastantes caracteres ancestrales.",
+   "distribution": "Según la obra, en China solo subsiste un género y una especie, presente en bosques de montaña y de colinas subtropicales; las localidades concretas y los hospedadores se detallan en las páginas de las especies de este género.",
+   "soldier": "El soldado del único género registrado en China en la obra tiene la cápsula cefálica ancha, aplanada y casi circular, con el margen posterior y los márgenes laterales en arco; los segmentos antenales son numerosos y llegan hasta veinticuatro; los ojos compuestos son evidentes; las mandíbulas son robustas y muy curvadas, con dentición muy desarrollada: la mandíbula izquierda tiene cuatro dientes marginales y la derecha tres. El pronoto es aplanado y algo más estrecho que la cabeza; la tibia posterior presenta, además de cuatro espinas apicales, dos espinas laterales, mientras que las tibias anterior y media carecen de espinas laterales; los cercos tienen de cuatro a seis segmentos.",
+   "taxonomy_note": "La obra original sigue el sistema de Snyder y Emerson y sitúa la subfamilia Hodotermopsinae dentro de la familia Hodotermitidae (señalando además que se había propuesto elevarla a la categoría de familia, Termopsidae). Esa subfamilia fue elevada después de forma generalizada a la familia independiente Hodotermopsidae; este sitio adopta el sistema vigente, de modo que lo que aquí se expone corresponde en realidad a la parte de la familia Hodotermitidae de la obra original relacionada con las especies de China.",
+   "worker": ""
+  },
+  "/family/kalotermitidae/": {
+   "alate": "",
+   "biology": "En esta familia, tanto la construcción del nido como la alimentación se limitan al interior de la madera, y las galerías no se comunican con el suelo; pueden verse afectadas la madera seca, los árboles muertos en pie, los elementos estructurales de madera de los edificios y los objetos de madera almacenados. Como las colonias son pequeñas y discretas, suelen descubrirse solo cuando la madera ya ha sido vaciada por dentro; en el sur de China y en las regiones costeras abundan los registros de daños en edificios antiguos y muebles viejos.",
+   "book_ref": "(Sección sobre la familia Kalotermitidae de la obra original)",
+   "diagnosis": "Familia de tamaño mediano y vida xilófila, considerada un grupo primitivo, conocida vulgarmente como termita de la madera seca. Ninguna casta presenta fontanela en la cabeza; el pronoto es aplanado, de anchura aproximadamente igual o algo mayor que la de la cabeza; los tarsos tienen cuatro tarsómeros y la tibia de dos a cuatro espinas apicales; los cercos constan solo de dos segmentos. El soldado conserva puntos oculares pálidos por detrás de las antenas; los alados poseen ocelos, la escama del ala anterior es mucho mayor que la del ala posterior y cubre su base, la radio sectorial está desarrollada y ramificada varias veces, y la subcosta es delgada y débil. La familia carece de casta de obrero: la alimentación y el cuidado de las crías recaen en las ninfas.",
+   "distribution": "Según la obra, en China se registran cinco géneros (Cryptotermes, Kalotermes, Incisitermes, Glyptotermes y Neotermes); el número de géneros y especies que este sitio recoge según la clasificación vigente presenta ligeros ajustes, que se detallan en el catálogo incluido más abajo.",
+   "soldier": "",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/family/rhinotermitidae/": {
+   "alate": "",
+   "biology": "Muchas especies de esta familia son a la vez subterráneas y madereras; el nido puede establecerse bajo el suelo, en troncos o en objetos situados en la superficie, y la estructura de la colonia es relativamente compleja. Se alimentan de árboles vivos, madera muerta y elementos de madera de las construcciones, y también pueden perforar cuero, plásticos, vainas de cables e incluso objetos metálicos; varios géneros son plagas de importancia mundial y causan daños especialmente graves a viviendas, puentes, postes e instalaciones de comunicaciones.",
+   "book_ref": "(Sección sobre la familia Rhinotermitidae de la obra original)",
+   "diagnosis": "La cabeza posee fontanela, que es el carácter más llamativo de la familia; las antenas tienen de trece a veinticinco segmentos; el pronoto es plano y más estrecho que la cabeza; los tarsos tienen cuatro tarsómeros y no hay arolio bajo las uñas; los cercos constan de dos segmentos. En el alado y en el obrero, la mandíbula izquierda tiene tres dientes marginales y la derecha dos, y el primer diente marginal lleva un diente submarginal adjunto; el alado posee ocelos, la escama del ala anterior es mayor que la del ala posterior y ambas se superponen, y la membrana alar presenta venas transversales que forman una red.",
+   "distribution": "La familia es rica en especies y de amplia distribución, con la región oriental (Indomalaya) como centro de distribución y de diferenciación; algunos géneros penetran en las regiones neotropical, tropical y australiana, y también hay especies que han establecido poblaciones en el hemisferio norte, donde la humedad es menor; en China se distribuye tanto en el norte como en el sur.",
+   "soldier": "",
+   "taxonomy_note": "La familia Rhinotermitidae de la obra original incluye grupos que después fueron separados o sinonimizados: el género Stylotermes se sitúa hoy generalmente en la familia independiente Stylotermitidae, el género Tsaitermes se ha integrado en el género Reticulitermes y varias especies de Coptotermes también han sido reordenadas. Este sitio sigue el sistema vigente, por lo que esta página no corresponde género por género con el capítulo de la obra original.",
+   "worker": ""
+  },
+  "/family/termitidae/": {
+   "alate": "",
+   "biology": "Todas las especies de esta familia son de vida edáfica y construyen sus nidos bajo tierra, en montículos de tierra, en troncos o dentro de edificaciones. Grupos como Macrotermitinae cultivan hongos en el nido para descomponer la madera; son descomponedores importantes de los ecosistemas tropicales y subtropicales y, al mismo tiempo, plagas graves de cultivos, árboles y construcciones.",
+   "book_ref": "(Sección sobre la familia Termitidae de la obra original)",
+   "diagnosis": "Es la familia más grande de Isoptera, con cerca de tres cuartas partes del total de las especies; agrupa a las termitas superiores de vida edáfica, que construyen sus nidos preferentemente bajo tierra o en montículos de tierra. La obra la divide en cinco subfamilias: Termitinae, Amitermitinae, Macrotermitinae, Nasutitermitinae y Apicotermitinae, esta última establecida aparte por Grassé y Noirot en 1954. Los soldados y los obreros suelen presentar un marcado polimorfismo, y unos pocos grupos carecen de soldados. En el soldado, el pronoto es más estrecho que la cabeza y su margen anterior se levanta en forma de silla de montar; hay fontanela; los cercos tienen de uno a dos segmentos y los tarsos de tres a cuatro. En el alado, la mandíbula izquierda presenta solo de uno a dos dientes marginales, las escamas del ala anterior y del ala posterior están separadas y la anterior es algo mayor, la vena radial está reducida o ausente, el postclípeo es grande y abultado y la fontanela es conspicua.",
+   "distribution": "La familia alcanza su máximo esplendor en los trópicos y subtrópicos; en el sur de China cuenta con numerosas especies y está presente en todas las provincias al sur del río Yangtsé, con especial concentración en el sur de China y en las montañas del suroeste.",
+   "soldier": "",
+   "taxonomy_note": "La obra original adoptó un sistema de cinco subfamilias y mantuvo dentro de esta familia grupos que posteriormente se propuso elevar a la categoría de familia, como el género Indotermes; este sitio los separa según el sistema vigente, de modo que esta página es una adaptación de los caracteres generales de Termitidae tal como aparecen en la obra original, y la asignación concreta de los géneros debe consultarse en el catálogo.",
+   "worker": ""
+  }
+ },
+ "fauna_genera": {
+  "/genus/ahmaditermes/": {
+   "alate": "En el alado, el diente apical de la mandíbula izquierda es casi tan largo como el primer diente marginal más el segundo; el borde cortante entre los dientes marginales es ondulado. Antenas de quince segmentos. La media del ala anterior se origina por separado en la sutura humeral, mientras que la media del ala posterior nace de la base del sector radial. Los caracteres mandibulares y de venación alar mencionados coinciden con los observados en el obrero, salvo por el mayor número de segmentos antenales.",
+   "biology": "",
+   "book_name": "Ahmaditermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Ahmaditermes del libro original)",
+   "diagnosis": "En el soldado la cabeza carece de nasus y es de contorno anchamente piriforme; la superficie cefálica lleva pelos finos dispersos; por detrás de las fosas antenales se estrecha y, cerca de la base, ambos lados se elevan con fuerza; el margen posterior está escotado en el centro; las mandíbulas son cortas y romas, sin punta espinosa; el cuerpo mandibular es robusto; la especie es monomórfica o dimórfica; antenas de doce a trece segmentos.",
+   "distribution": "Región Oriental; distribuida en el sur de China, frecuente en bosques tropicales y subtropicales.",
+   "soldier": "Soldado monomórfico o dimórfico. La superficie cefálica presenta pelos finos dispersos. La cabeza carece de nasus y su contorno es anchamente piriforme; se estrecha por detrás de las fosas antenales y, cerca de la base, ambos lados se abomban de forma manifiesta; el margen posterior se deprime hacia el interior en el centro. Las mandíbulas son cortas y romas, sin punta espinosa en el ápice; el cuerpo mandibular es robusto. Antenas de doce a trece segmentos. La mayor anchura de la cápsula cefálica se sitúa entre las protuberancias próximas a la base.",
+   "taxonomy_note": "",
+   "worker": "En el obrero, el diente apical de la mandíbula izquierda es casi tan largo como la suma del primero y del segundo diente marginal; el borde cortante entre ambos dientes marginales no es recto, sino ondulado. Su fórmula mandibular coincide con la del alado, y sólo difieren en la forma corporal y en el desarrollo de las alas."
+  },
+  "/genus/ancistrotermes/": {
+   "alate": "",
+   "biology": "",
+   "book_name": "Ancistrotermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Ancistrotermes del libro original)",
+   "diagnosis": "Soldado dimórfico, de color predominantemente amarillo; la cabeza es casi circular, con la mayor anchura en el centro; la porción anterior de las mandíbulas es fina y curvada; el borde interno presenta en su parte media sólo diminutos dentículos; el labro es linguiforme, con el ápice romo y redondeado; antenas de quince o dieciséis segmentos; el pronoto es claramente más estrecho que la anchura cefálica.",
+   "distribution": "Región Oriental y región afrotropical; de distribución tropical, citada del sur de China.",
+   "soldier": "El soldado presenta dos formas, mayor y menor. En el soldado mayor la cápsula cefálica va del amarillo al amarillo intenso, las mandíbulas son de color rojo castaño, el labro amarillo pálido, las antenas blanco lechoso y el pronoto, el abdomen y las patas amarillo pálido. La cabeza lleva pelos largos dispersos; el labro posee un par de setas apicales y a cada lado varias setas largas dispuestas en fila longitudinal. La cabeza es de casi circular a oval, con la mayor anchura en el centro y, en vista lateral, el centro o la parte anterior se eleva a modo de gibosidad. El labro es linguiforme, con el ápice romo y redondeado; la porción anterior de las mandíbulas es fina y curvada, y el borde interno presenta en su parte media un diminuto dentículo o ninguno. El postmentón es elevado y se proyecta en su parte media formando un arco amplio. Con quince segmentos antenales el tercero es el más corto; con dieciséis, el cuarto. El pronoto es más estrecho que la cabeza y sus márgenes anterior y posterior se deprimen en el centro. El soldado menor tiene coloración más pálida y menor tamaño, con la morfología de sus partes semejante a la del soldado mayor.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/arcotermes/": {
+   "alate": "",
+   "biology": "",
+   "book_name": "Arcotermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Arcotermes del libro original)",
+   "diagnosis": "En el soldado la cabeza sólo lleva pelos cortos dispersos y es de contorno piriforme; se estrecha notablemente por detrás de las fosas antenales y su mayor anchura se sitúa cerca del margen posterior, que es arqueado y apenas escotado en el centro; el nasus es un tubo largo y fino; las mandíbulas son cortas y romas, sin punta espinosa en el ápice; antenas de doce a trece segmentos.",
+   "distribution": "Región Oriental; elemento de las zonas tropicales y subtropicales, con registros en el sur de China.",
+   "soldier": "La pilosidad cefálica del soldado es escasa. La cabeza tiene forma de pera; sus márgenes laterales se estrechan de modo notable por detrás de las fosas antenales y sólo vuelven a ensancharse desde allí hacia atrás hasta cerca del margen posterior, donde alcanza su mayor anchura; el margen posterior es arqueado y no está escotado, o apenas lo está. El nasus es tubular. Las mandíbulas carecen de punta espinosa. Antenas de doce a trece segmentos.",
+   "taxonomy_note": "",
+   "worker": "En el obrero la fontanela es grande y manifiesta y se sitúa cerca del centro del dorso cefálico; el borde cortante entre el primero y el segundo diente marginal de la mandíbula izquierda no es recto, sino ondulado, con ondulaciones suaves; es un carácter fácil de observar en el obrero de este género."
+  },
+  "/genus/coptotermes/": {
+   "alate": "El alado tiene la cápsula cefálica ancha y oval; el postclípeo es muy corto y de superficie plana. Antenas de dieciocho a veinticinco segmentos. El pronoto es aplanado y más estrecho que la cápsula cefálica. La escama del ala anterior es mayor que la del ala posterior y la cubre; la venación presenta una retícula muy tenue y la superficie alar lleva pelos; la media del ala anterior se origina independientemente en la sutura humeral y la del ala posterior nace en la base del sector radial, muy próxima a la cubital. La fontanela se halla en el centro de la cabeza.",
+   "biology": "Las especies de este género dañan principalmente los elementos de madera de los edificios y ocasionan en las provincias y regiones del sur de China las pérdidas más cuantiosas; también suelen destruir cables plásticos enterrados y árboles de plantación, por lo que se trata de plagas de importancia mundial. Las especies son morfológicamente muy semejantes y su identificación resulta a menudo difícil; además, los individuos de una misma colonia difieren mucho en coloración y tamaño según la edad de la colonia.",
+   "book_name": "Coptotermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Coptotermes del libro original)",
+   "diagnosis": "En el soldado la cabeza es oval y se estrecha de modo manifiesto en la parte anterior; la fontanela es un orificio grande situado en el extremo cefálico que se prolonga hacia delante en forma de tubo corto; las mandíbulas son finas y curvadas, con el borde interno liso y sin dientes salvo la escotadura aserrada basal; antenas de trece a diecisiete segmentos.",
+   "distribution": "Región Oriental; distribuida en todas las provincias y regiones del sur de China, con el mayor número de especies en la zona meridional.",
+   "soldier": "La cabeza del soldado es oval y se estrecha notablemente en la parte anterior. El orificio de la fontanela es grande, se sitúa en el extremo anterior de la cabeza y se prolonga hacia fuera en forma de tubo corto, con la abertura dirigida hacia delante. Las mandíbulas son finas, largas y curvadas; salvo la escotadura aserrada de la base, carecen por completo de dientes y su borde interno es liso. Antenas de trece a diecisiete segmentos. El labro es linguiforme y agudo. El pronoto es aplanado y más estrecho que la cápsula cefálica.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/cryptotermes/": {
+   "alate": "En el alado la coloración cefálica va del amarillo pálido al pardo amarillento, el pardo rojizo o el pardo oscuro; la pilosidad es escasa a moderada; el margen posterior es redondeado; la sutura coronal suele ser visible. Los ojos compuestos son pequeños, circulares o casi circulares; los ocelos son ovales y están contiguos a los ojos o próximos a ellos. Antenas de doce a dieciocho segmentos. El postclípeo es algo trapezoidal, con el margen anterior convexo o cóncavo; el labro es transverso y ancho. La mandíbula izquierda presenta tres dientes marginales y la derecha dos. La anchura del pronoto es menor que la de la cápsula cefálica y en algunas especies supera ligeramente la anchura de la cabeza incluidos los ojos compuestos. La tibia lleva tres espolones apicales; tarsos de cuatro tarsómeros.",
+   "biology": "",
+   "book_name": "Cryptotermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Cryptotermes del libro original)",
+   "diagnosis": "En el soldado la cápsula cefálica es corta y gruesa, con la parte anterior casi negra; de la región frontal y de las genas se proyecta un par de procesos córneos; el vértex y la región frontal suelen ser rugosos y desiguales; antenas de once a quince segmentos; el postclípeo es casi trapezoidal; tarsos de cuatro tarsómeros; cercos de dos segmentos.",
+   "distribution": "Región Oriental; existen registros de especies de este género en todas las provincias y regiones del sur de China.",
+   "soldier": "La cabeza del soldado es corta y gruesa, de color pardo oscuro y casi negra en la parte anterior; en algunas especies el vértex, la región frontal y los lados son rugosos y agrietados; entre el vértex y la región frontal suele correr transversalmente un grueso reborde frontal, con o sin escotadura en V en su centro. En la parte anterior de la cabeza hay dos pares de procesos: los situados por delante y por encima de las fosas antenales nacen del margen lateral del postclípeo y se denominan cuernos frontales; los situados por delante y por debajo de las fosas antenales proceden de la prolongación de las genas y se denominan cuernos genales, de forma variable según la especie. La superficie frontal suele estar deprimida; los ojos compuestos son generalmente visibles y carecen de pigmento. Antenas de once a quince segmentos; el clípeo es algo trapezoidal y el labro casi triangular o linguiforme. Las mandíbulas son cortas, con el borde externo convexo en su parte media; la porción posterior del postmentón es ancha. El pronoto es casi tan ancho como la cápsula cefálica, con el margen anterior profundamente escotado, a menudo ondulado o dentado. Las patas son cortas; fórmula de espinas tibiales 3:3:3; tarsos de cuatro tarsómeros; cercos de dos segmentos.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/cucurbitermes/": {
+   "alate": "En el alado que ha perdido las alas, la superficie cefálica presenta pelos largos y cortos alternando con setas, y el pronoto es más setoso. La cabeza es casi circular; la fontanela es grande y de forma oval alargada, no bifurcada en su parte anterior, y por detrás de ella corre una línea longitudinal hasta el margen posterior; el postclípeo es elevado y presenta además una línea longitudinal central; los ojos compuestos son grandes, ovales y convexos, y los ocelos ovales, algo convexos. El diente apical de la mandíbula izquierda es tan largo como el primer diente marginal y el borde cortante entre ambos es casi recto. Antenas de quince segmentos. El margen anterior del pronoto es casi recto y el posterior se deprime ligeramente en el centro. Fórmula de espinas tibiales 2:2:2; tarsos de cuatro tarsómeros.",
+   "biology": "",
+   "book_name": "Cucurbitermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Cucurbitermes del libro original)",
+   "diagnosis": "Soldado monomórfico o dimórfico; la cabeza es casi glabra, con sólo unas pocas setas en el ápice del nasus; en la base del nasus y en las fosas antenales se contrae en forma de calabaza; el nasus es un tubo largo y fino; las mandíbulas son romas y convexas, sin punta espinosa; antenas de trece a catorce segmentos; la mitad anterior del pronoto es vertical.",
+   "distribution": "Región Oriental; elemento subtropical, con registros de distribución en el sur y el sureste de China.",
+   "soldier": "Soldado monomórfico o dimórfico. La cabeza es casi glabra, con sólo unas pocas setas en el ápice del nasus; los terguitos torácicos carecen de pelos. Prescindiendo del nasus, la longitud y la anchura de la cabeza son casi iguales, o la anchura supera ligeramente a la longitud; en la base del nasus y en las fosas antenales la cabeza se contrae en forma de calabaza; por detrás de las fosas antenales se abomba con fuerza; los lados son redondeados y el margen posterior bastante recto; el nasus es fino, largo y tubular. Las mandíbulas son romas y convexas, sin punta espinosa. Antenas de trece a catorce segmentos. La mitad anterior del pronoto se yergue y forma un ángulo aproximadamente recto con la mitad posterior. Fórmula de espinas tibiales 2:2:2; tarsos de cuatro tarsómeros.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/dicuspiditermes/": {
+   "alate": "El alado tiene la cápsula cefálica ancha y oval, algo estrechada en la parte anterior y densamente cubierta de pelos largos y cortos. La fontanela es generalmente fina y alargada, a modo de hendidura; los ojos compuestos son ovales; los ocelos son ovales y están separados de los ojos compuestos. El postclípeo es elevado. El diente apical de la mandíbula izquierda es más bien corto y algo mayor o casi igual al primer diente marginal, y este primero es a su vez mayor que el segundo; el margen posterior del primer diente marginal de la mandíbula derecha es largo. Antenas de catorce a quince segmentos.",
+   "biology": "",
+   "book_name": "Dicuspiditermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Dicuspiditermes del libro original)",
+   "diagnosis": "En el soldado la cabeza es rectangular y se eleva en la parte anterior; por debajo de las fosas antenales hay un proceso en el ángulo anterolateral; las mandíbulas son asimétricas, la izquierda se tuerce formando un gancho y la derecha es recta como una hoja de cuchillo; los ángulos laterales del labro se proyectan hacia delante en forma de aguja; antenas de catorce segmentos; el pronoto tiene forma de silla de montar.",
+   "distribution": "Región Oriental; de distribución tropical y subtropical, citada del sur de China.",
+   "soldier": "La cápsula cefálica del soldado es rectangular y se eleva en la parte anterior; por debajo de las fosas antenales presenta a cada lado un proceso en el ángulo anterolateral. Las mandíbulas son asimétricas: la izquierda se tuerce y su ápice se curva hacia dentro formando un gancho; la derecha es más recta, a manera de sable. El margen anterior del labro está profundamente escotado y sus ángulos laterales son finos y largos como agujas y se proyectan muy hacia delante. Antenas de catorce segmentos. El pronoto tiene forma de silla de montar y su anchura es muy inferior a la cefálica.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/euhamitermes/": {
+   "alate": "",
+   "biology": "Euhamitermes vive bajo tierra, junto a las raíces de las gramíneas, y se alimenta de materia vegetal en descomposición; sus colonias son pequeñas y en su mayoría carecen de soldados, por lo que su identificación resulta bastante difícil. La actividad de las especies de este género es muy críptica y los ejemplares suelen requerir la excavación del suelo para su recolección.",
+   "book_name": "Euhamitermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Euhamitermes del libro original)",
+   "diagnosis": "En el soldado la cápsula cefálica es intermedia entre rectangular y cuadrada; las mandíbulas son cortas y gruesas, muy curvadas a modo de gancho, con un pequeño diente en la parte media del borde interno; el pronoto es marcadamente en silla de montar; fórmula de espinas tibiales 3:2:2; tarsos de cuatro tarsómeros; el soldado se captura con dificultad.",
+   "distribution": "Región Oriental; se conocen veinticuatro especies en el mundo, trece en China, y Yunnan concentra aproximadamente la mitad de las especies del país.",
+   "soldier": "La cápsula cefálica del soldado tiene una forma intermedia entre rectangular y cuadrada. Las mandíbulas son cortas y gruesas, fuertemente curvadas a modo de gancho, con un pequeño diente en la parte media del borde interno. El pronoto es marcadamente en silla de montar. Fórmula de espinas tibiales 3:2:2; tarsos de cuatro tarsómeros. Dado que las colonias son pequeñas y a menudo carecen de soldados, los ejemplares son difíciles de obtener.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/globitermes/": {
+   "alate": "El alado es de tamaño más bien pequeño; la cápsula cefálica es maciza y algo elevada; los ojos compuestos son muy pequeños y la fontanela es evidente. El postclípeo es más ancho que la región frontal, de superficie bastante plana, y su longitud es inferior a la mitad de su anchura; el labro es más ancho que largo; antenas de quince a dieciséis segmentos. La longitud del pronoto supera la mitad de su anchura. La escama del ala anterior es algo más larga que la del ala posterior y la superficie alar está cubierta de punteaduras finas y densas; la media del ala anterior se proyecta por separado desde la sutura humeral, mientras que la media del ala posterior se desprende del sector radial, muy próxima a la cubital. Fórmula de espinas tibiales 3:2:2.",
+   "biology": "",
+   "book_name": "Globitermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Globitermes del libro original)",
+   "diagnosis": "En el soldado la cápsula cefálica es corta y gruesa, casi circular; las mandíbulas son finas y largas, con el ápice curvado en gancho, y ambas presentan un diente agudo en la parte media del borde interno; el extremo anterior del labro es romo y redondeado; antenas de quince segmentos como máximo. En el alado los ojos compuestos son muy pequeños y la media del ala anterior se proyecta independientemente desde la sutura humeral.",
+   "distribution": "Región Oriental; elemento propio de los bosques tropicales y subtropicales, con registros en el sur de China.",
+   "soldier": "La cápsula cefálica del soldado es corta y gruesa, de contorno casi circular y color amarillo. Las mandíbulas son finas y largas, con la porción anterior curvada en gancho, y ambas llevan un diente marginal agudo en la parte media del borde interno. El labro es oval y su extremo anterior es romo y redondeado, sin punta. Antenas de no más de quince segmentos. La parte media del postmentón se eleva claramente hacia arriba. El pronoto es más estrecho que la cabeza y sus partes anterior y media se elevan ligeramente.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/glyptotermes/": {
+   "alate": "El alado presenta en conjunto la morfología del alado de Kalotermes, del que se distingue porque la media del ala es recta y muy próxima al sector radial, y ni la media ni el radial se ramifican. Antenas de doce a quince segmentos; fórmula de espinas tibiales 3:3:3; tarsos de cuatro tarsómeros; la estructura de las patas y de las alas es semejante a la de Kalotermes.",
+   "biology": "",
+   "book_name": "Glyptotermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Glyptotermes del libro original)",
+   "diagnosis": "En el soldado la cápsula cefálica es estrecha y alargada, y la cima frontal suele elevarse por encima del resto formando dos cumbres; las mandíbulas son cortas y gruesas y, en relación con la longitud cefálica, mucho más cortas que en Neotermes; las antenas son cortas, por lo general de diez a doce segmentos; el labro es cuadrangular; tarsos de cuatro tarsómeros.",
+   "distribution": "Existen registros en la región Oriental, la región Australiana, la región Neotropical y la región Etiópica.",
+   "soldier": "La cápsula cefálica del soldado es alargada y la cima frontal suele quedar por encima del resto, formando dos cumbres. La superficie frontal es inclinada o abrupta; en algunas especies la región frontal presenta arrugas gruesas y profundas y en otras es lisa o tiene punteaduras. Las antenas son más bien cortas, en su mayoría de diez a doce segmentos. Las mandíbulas son cortas y robustas y, proporcionadas a la longitud cefálica, mucho menores que en Neotermes; llevan varios dientes marginales evidentes y la cresta basal es manifiesta o plana. El pronoto es aplanado y ancho. El labro suele ser cuadrangular. Los fémures no son gruesos. Fórmula de espinas tibiales 3:3:3; tarsos de cuatro tarsómeros.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/hodotermopsis/": {
+   "alate": "",
+   "biology": "Hodotermopsis daña principalmente los bosques primarios y secundarios: perfora tanto árboles vivos en pie como tocones, y en los casos graves invade viviendas rurales y edificios antiguos. Habita sobre todo en bosques húmedos y se alimenta de madera con contenido de humedad, por lo que se le llama termita de la madera húmeda.",
+   "book_name": "Hodotermopsis",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Hodotermopsis del libro original)",
+   "diagnosis": "En el soldado la cápsula cefálica es ancha y aplanada, casi circular, con el margen posterior y los laterales arqueados; las antenas alcanzan veinticuatro segmentos y los ojos compuestos son evidentes; las mandíbulas son robustas y muy curvadas, con cuatro dientes marginales en la izquierda y tres en la derecha; el pronoto es aplanado y algo más estrecho que la cabeza.",
+   "distribution": "",
+   "soldier": "La cabeza del soldado es ancha y aplanada, de contorno casi circular, con el margen posterior y los laterales arqueados. Las antenas tienen muchos segmentos, hasta veinticuatro, y los ojos compuestos son claramente visibles. Las mandíbulas son fuertes y de curvatura considerable, con dentición muy desarrollada: cuatro dientes marginales en la mandíbula izquierda y tres en la derecha. El pronoto es aplanado y su anchura es algo menor que la de la cápsula cefálica, con el margen anterior ligeramente arqueado y cóncavo. La tibia posterior posee, además de cuatro espolones apicales, dos espolones laterales, mientras que las tibias anterior y media carecen de espolones laterales. Cercos de cuatro a seis segmentos.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/hospitalitermes/": {
+   "alate": "En el alado el cuerpo y las alas son oscuros. La cabeza es ancha y oval; la longitud del postclípeo es inferior a la mitad de su anchura; la región frontal presenta una depresión triangular por detrás del postclípeo. La escama del ala anterior y la del ala posterior son de tamaño semejante; el radial desaparece y la media queda muy próxima a la cubital. Antenas de quince segmentos, con el tercero aproximadamente el doble de largo que el segundo.",
+   "biology": "",
+   "book_name": "Hospitalitermes",
+   "book_ref": "(Reelaboración y reescritura del relato genérico de la sección Hospitalitermes del libro original)",
+   "diagnosis": "En el soldado la coloración es muy oscura; el nasus es fino y su unión con la cabeza está profundamente escotada; las mandíbulas están reducidas pero la punta espinosa es muy larga; las antenas tienen catorce segmentos y el tercero no es más corto que el cuarto; la parte anterior del pronoto se eleva; las patas son muy largas. El alado es enteramente oscuro.",
+   "distribution": "Región Oriental; elemento de los bosques pluviales tropicales y de los bosques pluviales estacionales, con registros en el sur de China.",
+   "soldier": "El color del soldado es en general muy oscuro. La cabeza lleva un nasus relativamente fino y el punto donde se une a la cápsula cefálica está claramente deprimido. Las mandíbulas están muy reducidas y sólo queda una base mandibular muy pequeña, mientras que la punta espinosa es larga y de superficie lisa, sin dientes. Antenas de catorce segmentos, con el tercero igual o algo más largo que el cuarto. La parte anterior del pronoto se eleva. Las patas son muy largas y sus segmentos, finos y alargados.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/periaciculitermes/": {
+   "alate": "",
+   "biology": "",
+   "book_name": "Periaciculitermes",
+   "book_ref": "(Sección del género Periaciculitermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado la cabeza es ovalada, estrechada por delante y más ancha por detrás, con setas cortas en el dorso; su punto más ancho se sitúa en el tercio próximo al occipucio; el margen posterior es ligeramente arqueado y algo recto en el centro; el nasus es recto, delgado y alargado, con un ligero abultamiento tras la base nasal; las mandíbulas son obtusas y convexas, sin espinas agudas; las antenas tienen 12 segmentos.",
+   "distribution": "Región indomalaya; de composición tropical y subtropical, con registros de distribución en el sur de China.",
+   "soldier": "El soldado presenta setas cortas en la cabeza, mezcladas con unas pocas setas largas y rígidas. La cabeza es ovalada, estrecha en la parte anterior y ancha en la posterior, con su punto más ancho en el tercio cercano al occipucio; el margen posterior se redondea ligeramente en arco y es más recto en el centro; en vista lateral, la unión entre el borde posterior de la base nasal y la cápsula cefálica muestra un ligero abultamiento. El nasus es recto, tubular y delgado. Las mandíbulas son obtusas y convexas, sin espinas agudas. Antenas de 12 segmentos. Fórmula de espinas tibiales 2:2:2, tarsos de 4 tarsómeros.",
+   "taxonomy_note": "",
+   "worker": "En el obrero, el diente apical de la mandíbula izquierda es claramente mayor que el primer diente marginal; el segundo diente marginal está reducido y fusionado con el margen cortante posterior del primero; el tercer diente marginal es muy pequeño, y su margen cortante anterior se cruza en ángulo agudo con el margen cortante posterior del primer diente. Fórmula de espinas tibiales 2:2:2, tarsos de 4 tarsómeros."
+  },
+  "/genus/pericapritermes/": {
+   "alate": "El alado tiene la cabeza ovalada y ancha, algo estrechada en la parte anterior; el postclípeo está ligeramente elevado y su longitud es inferior a la mitad de su anchura, con o sin línea sutural longitudinal. Antenas de 14–15 segmentos; la fontanela es ovalada. La longitud del margen interno del diente apical de la mandíbula izquierda equivale a la del margen anterior del primer diente marginal o lo supera ligeramente, mientras que su distancia apical es menor que la existente entre el primero y el tercer diente marginal; el segundo diente marginal de la mandíbula derecha está muy desarrollado y su margen curvado posterior se arquea; la distancia apical entre el segundo y el primero de los dientes marginales es, a su vez, menor que la existente entre el primero y el diente apical. El margen anterior del pronoto se deprime ligeramente en el centro.",
+   "biology": "Las mandíbulas de estas termitas están especialmente desarrolladas y muy torsionadas; el insecto puede saltar por medio de ellas y emite al mismo tiempo un chasquido audible, semejante a un «clic-clic». Los nidos se construyen generalmente en el suelo y constan de varias cámaras y galerías; se alimentan de raíces finas y de partes muertas y en descomposición de las plantas, y también pueden perforar la capa superficial de árboles vivos y la caña de azúcar. Según los registros, una especie del género se alimenta de las esporas de hongos y del agua contenidos en el suelo.",
+   "book_name": "Pericapritermes",
+   "book_ref": "(Sección del género Pericapritermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado, la cabeza es rectangular y su margen dorsal bastante recto; la región frontal forma una pendiente; el extremo de la mandíbula izquierda es obtuso y no forma gancho, y el centro del margen cortante interno está ligeramente excavado; el labro tiene longitud y anchura casi iguales; antenas de 13–16 segmentos; fórmula de espinas tibiales 3:2:2; tarsos de 4 tarsómeros.",
+   "distribution": "Región indomalaya; se distribuye principalmente en zonas tropicales y subtropicales, y es frecuente en las provincias del suroeste y de la costa sureste de China.",
+   "soldier": "La cabeza del soldado es rectangular, con los márgenes laterales casi paralelos y el margen dorsal bastante recto. La región frontal forma una pendiente o es algo abrupta, y la fontanela es puntiforme. La sutura longitudinal de la cabeza es relativamente visible y se extiende hacia delante hasta antes de la mitad. Las mandíbulas son muy asimétricas: el extremo de la izquierda es obtuso o se curva hacia dentro, con el ápice algo plano y sin formar gancho, y el centro del margen cortante interno está ligeramente excavado; la derecha es más recta, o su parte anterior se curva ligeramente hacia fuera. El labro tiene longitud y anchura casi iguales, con el margen anterior recto y los ángulos laterales agudos y cortamente prominentes; el postclípeo es muy estrecho. Antenas de 13–16 segmentos. El pronoto tiene forma de silla de montar y es más estrecho que la cabeza. Fórmula de espinas tibiales 3:2:2, tarsos de 4 tarsómeros.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/pilotermes/": {
+   "alate": "",
+   "biology": "",
+   "book_name": "Pilotermes",
+   "book_ref": "(Sección del género Pilotermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "El soldado es dimórfico: en el soldado mayor la cabeza es casi circular, con el margen posterior profundamente excavado en el centro, y el nasus es más corto que la anchura de la cabeza; en el soldado menor la cabeza es alargada y piriforme y el nasus es más largo que la anchura de la cabeza; en ambos las mandíbulas carecen de espinas agudas, los lados del postmentón se estrechan en forma de cintura en su parte media y las antenas tienen 12–13 segmentos.",
+   "distribution": "Región indomalaya; existen registros en Jiangxi y otras localidades de China, donde forma parte de la fauna de las zonas forestales subtropicales.",
+   "soldier": "El soldado se presenta en dos formas, mayor y menor. En el soldado mayor, la cabeza y el nasus están densamente cubiertos de setas finas y cortas, mientras que el dorso del pronoto es glabro. La cabeza es casi circular, algo más ancha que larga, con el margen posterior profundamente excavado en el centro, y no se contrae por debajo de la parte posterior de las fosas antenales; el nasus es más corto que la anchura de la cabeza y no se contrae en su base; antenas de 13 segmentos; mandíbulas sin espinas agudas; los lados del postmentón se estrechan en forma de cintura en su parte media. La anchura del pronoto supera su longitud, con el margen anterior ligeramente excavado en el centro y el posterior no excavado. En el soldado menor la cabeza es alargada y piriforme, más larga que ancha, con el centro del margen posterior algo cóncavo; el nasus es más largo que la anchura de la cabeza y su base se eleva ligeramente como un pequeño montículo; antenas de 12 segmentos; las espinas agudas de las mandíbulas faltan o son muy poco evidentes. La fórmula de espinas tibiales es 2:2:2 en ambas formas, con tarsos de 4 tarsómeros.",
+   "taxonomy_note": "",
+   "worker": "El obrero presenta una sutura en forma de Y en el dorso de la cabeza y antenas de 13–14 segmentos. El margen posterior del diente apical de ambas mandíbulas, izquierda y derecha, es más largo que el margen anterior del primer diente marginal; en la mandíbula izquierda los márgenes anterior y posterior del tercer diente marginal son casi de igual longitud, y el primero y el segundo dientes marginales están fusionados; en la mandíbula derecha la distancia apical entre el diente apical y el primer diente marginal es menor que la existente entre el primero y el segundo dientes marginales. Fórmula de espinas tibiales 2:2:2, tarsos de 4 tarsómeros."
+  },
+  "/genus/prorhinotermes/": {
+   "alate": "El alado tiene la cápsula cefálica algo más larga que ancha, ovalada; el orificio de la glándula frontal es nítido y por delante de él hay también un surco poco profundo. El postclípeo está elevado, con anchura muy superior a la longitud, con o sin sutura media. Antenas de 19–22 segmentos. El pronoto es más ancho que la cápsula cefálica o algo más estrecho. La membrana alar tiene pocas setas, la venación es marcadamente reticulada, la vena media falta o se separa de la vena cubital, y la fórmula de espinas tibiales es 3:2:2.",
+   "biology": "Las especies de Prorhinotermes dañan diversos árboles vivos en pie y se alimentan también de partes muertas y en descomposición. Una especie del género, distribuida en las islas del Caribe y extendida hasta el extremo meridional de la península de Florida, está considerada como una plaga nada desdeñable de las construcciones de madera. El género se ha considerado durante mucho tiempo como un grupo de distribución insular, y en los lugares atacados construye con frecuencia nidos de tipo panal.",
+   "book_name": "Prorhinotermes",
+   "book_ref": "(Sección del género Prorhinotermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado, la cápsula cefálica es ovalada o casi trapezoidal, más estrecha en la parte anterior; el orificio de la glándula frontal es evidente y por delante de él hay un surco poco profundo de aproximadamente un tercio de la longitud de la cabeza; las mandíbulas son en forma de sable y se curvan en el extremo; la fórmula de espinas tibiales es 3:2:2 y las antenas tienen 16–19 segmentos.",
+   "distribution": "Región indomalaya, Oceanía, América y África; en China se conocen cuatro especies, citadas de Yunnan, Hainan, Taiwán y las islas Xisha.",
+   "soldier": "La cápsula cefálica del soldado es ovalada o casi trapezoidal, con la parte anterior relativamente estrecha. El orificio de la glándula frontal es visible, y por delante de él hay un surco poco profundo de aproximadamente un tercio de la longitud de la cápsula cefálica. Los ojos compuestos son evidentes o están reducidos. Antenas de 16–19 segmentos. Las mandíbulas tienen forma de sable y se curvan en el extremo, con el margen interno liso o con vestigios de dentículos en la base. La fórmula de espinas tibiales es 3:2:2.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/pseudocapritermes/": {
+   "alate": "El alado tiene la cápsula cefálica ovalada y ancha. La distancia entre el diente apical y el primer diente marginal de la mandíbula derecha es algo mayor que la existente entre el primero y el segundo dientes marginales. En la mandíbula izquierda, el primer diente marginal, junto con el margen posterior del segundo, es relativamente largo y forma casi una línea recta. El postclípeo está elevado y carece de sutura longitudinal evidente. La fórmula de espinas tibiales es 3:2:2.",
+   "biology": "",
+   "book_name": "Pseudocapritermes",
+   "book_ref": "(Sección del género Pseudocapritermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado la cabeza es rectangular; la mandíbula izquierda está torsionada y su ápice, estrecho, se curva hacia dentro formando un gancho; la derecha es recta como una espada; ambas mandíbulas difieren mucho entre sí; el labro es más largo que ancho, con la escotadura del margen anterior poco profunda y plana; antenas de 14 segmentos; el pronoto es mucho más estrecho que la cápsula cefálica y tiene forma de silla de montar.",
+   "distribution": "Región indomalaya; el género comprende 12 especies conocidas y es el único del grupo de las termitas de mandíbulas torsionadas que se halla exclusivamente en la región indomalaya; en China hay registros de siete especies.",
+   "soldier": "La cápsula cefálica del soldado es rectangular, con los lados algo paralelos y la región frontal no convexa o ligeramente elevada. Las mandíbulas son asimétricas: la izquierda está torsionada y su ápice se estrecha y se curva hacia dentro formando un gancho; la derecha es más recta, a manera de cuchillo o espada, con la punta casi siempre algo inclinada hacia dentro y, a veces, proyectada hacia delante o curvada hacia fuera. Las dos mandíbulas difieren bastante. El labro suele ser más largo que ancho, con la escotadura del margen anterior poco profunda y suave. Antenas de 14 segmentos. El pronoto es más estrecho que la cabeza y tiene forma de silla de montar. Fórmula de espinas tibiales 3:2:2.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/reticulitermes/": {
+   "alate": "El alado presenta en general una coloración oscura, rara vez clara; el color de la cabeza, el pronoto y las patas varía según el grupo. La cabeza es casi circular, con la fontanela pequeña y puntiforme. Los ocelos son nítidos; el grado de prominencia del postclípeo varía según el grupo. Antenas de 16–19 segmentos; el segundo diente marginal de la mandíbula izquierda suele ser casi tan largo como el primero. La escama del ala anterior cubre ligeramente la del ala posterior; el ala es de color oscuro, con pocas setas o setas en forma de aguja, sin manchas punteadas en la superficie y con numerosas venas transversales que forman un retículo evidente; la fórmula de espinas tibiales es 3:2:2 y los tarsos constan de 4 tarsómeros. Los cercos tienen 2 segmentos; el estilo del macho consta de un segmento, mientras que la hembra carece de estilo.",
+   "biology": "",
+   "book_name": "Reticulitermes",
+   "book_ref": "(Sección del género Reticulitermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado la cabeza es rectangular, con los lados paralelos o casi paralelos; la fontanela es pequeña y puntiforme; el labro es lingüiforme, con el extremo semicircular y un par de setas apicales largas; las mandíbulas varían de delgadas y débiles a gruesas y fuertes, en forma de sable o casi de gancho; la fórmula de espinas tibiales es 3:2:2.",
+   "distribution": "",
+   "soldier": "La cabeza del soldado es rectangular, con los lados paralelos o casi paralelos, y el margen posterior ampliamente redondeado o algo recto. La región frontal va de plana a fuertemente elevada, y entre las crestas frontales es plana o presenta un surco. La fontanela es pequeña y puntiforme, y rara vez sobresale. El labro es lingüiforme, con el extremo semicircular y un par de setas apicales largas; además de este par de setas largas del extremo labial, las setas subapicales son pequeñas o algo largas, y las setas apicales laterales varían en longitud según la especie, pudiendo incluso faltar. Las mandíbulas van de delgadas y débiles a gruesas y fuertes, en forma de sable o curvadas casi como un gancho. Antenas de 14–19 segmentos. Las patas son delgadas y largas, con fórmula de espinas tibiales 3:2:2 y tarsos de 4 tarsómeros; el pronoto es aplanado. La zona en cintura del postmentón es estrecha y larga. El estilo consta de un segmento y los cercos de 2 segmentos.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/schedorhinotermes/": {
+   "alate": "El alado tiene la cápsula cefálica casi circular, con la fontanela situada por delante del punto medio de la línea media de la cabeza. La mandíbula izquierda presenta tres dientes marginales, el segundo claramente más corto que el primero y el tercero; la derecha tiene dos dientes marginales y, por delante del primero, un diente subapical adicional. El labro es ancho y redondeado, y el postclípeo está elevado con el ápice prominente hacia delante. Antenas de 20–22 segmentos, con el tercer segmento más largo que el segundo. El margen anterior del pronoto se proyecta ligeramente en el centro; sus lados son anchos en la parte anterior y se estrechan gradualmente en la posterior, formando junto con el margen posterior una figura semicircular. Las alas son cortas y anchas; la escama del ala anterior es relativamente grande y su vena media surge de forma independiente por fuera de la sutura basal, mientras que la vena media del ala posterior nace de la radial sectorial y discurre próxima a la cubital, con venas transversales que forman un retículo.",
+   "biology": "Las especies de Schedorhinotermes atacan principalmente árboles vivos y troncos caídos en descomposición, y también dañan postes de madera erectos y duros, así como los elementos de madera próximos al suelo en las edificaciones. Los nidos se construyen por lo general dentro de los árboles o en cavidades de la parte media del tronco.",
+   "book_name": "Schedorhinotermes",
+   "book_ref": "(Sección del género Schedorhinotermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "El soldado es dimórfico: en el soldado mayor la cabeza es corta y ancha, casi cuadrada, y en el menor algo estrecha y alargada; la fontanela es redonda, con su abertura entre las dos fosas antenales, y el surco longitudinal anterior al orificio llega hasta el extremo del labro; el soldado mayor tiene antenas de 16–17 segmentos y el menor de 13–16. En alguna especie australiana (S. seclusus) el soldado presenta tres formas.",
+   "distribution": "Región indomalaya; en China se conocen seis especies, distribuidas principalmente en la zona de Xishuangbanna y Simao (Yunnan), con registros también en Guangxi.",
+   "soldier": "El soldado se presenta en dos formas, mayor y menor. El soldado mayor tiene la cabeza corta y ancha, casi cuadrada; el orificio de la fontanela es circular y se abre entre las dos fosas antenales, y el surco longitudinal anterior al orificio llega hasta el extremo del labro. Las mandíbulas son robustas, gruesas o anchas y aplanadas, curvadas hacia dentro en la parte anterior; la mandíbula izquierda lleva dos dientes grandes en el margen interno y la derecha dos dientes. El labro es bastante corto y ancho, con los lados ligeramente convexos en la mitad y de contorno hexagonal, el centro del margen anterior algo excavado y una zona transparente en el extremo; el margen anterior presenta una fila de setas cortas en cepillo; antenas de 16–17 segmentos. El soldado menor tiene la cabeza algo estrecha y alargada; las mandíbulas son más delgadas y rectas, curvadas solo en el extremo; la mandíbula izquierda lleva dos dientes marginales en el margen interno y la derecha uno; el labro es más estrecho y alargado, con los lados contraídos en forma de cintura en su mitad, la zona transparente del extremo ligeramente excavada en el centro y, a ambos lados de la escotadura, dos lóbulos de contorno arqueado; antenas de 13–16 segmentos. La especie australiana S. seclusus es una excepción: además se distingue un soldado intermedio, de modo que los soldados forman tres tipos, grande, mediano y pequeño (Miller 1987 lo señaló por primera vez).",
+   "taxonomy_note": "La Schedorhinotermes maximus mencionada en la obra original fue separada por Krishna en 1970, siguiendo el criterio de Emerson, y constituida aparte como el género Macrorhinotermes.",
+   "worker": ""
+  },
+  "/genus/sinocapritermes/": {
+   "alate": "El alado tiene la cápsula cefálica con pilosidad algo densa, y el orificio de la glándula frontal es pequeño, estrecho y alargado, de contorno elíptico. La longitud del postclípeo es inferior a la mitad de su anchura, con una sutura media en el centro. La distancia entre el diente apical y el primer diente marginal de la mandíbula derecha es algo mayor que la existente entre el primero y el segundo dientes marginales. Antenas de 15 segmentos y fórmula de espinas tibiales igualmente 2:2:2.",
+   "biology": "Las especies de este género viven generalmente en galerías subterráneas, o bien en troncos caídos y cavidades de los árboles; su alimento incluye el humus, las raíces de hierbas y la madera en descomposición, y constituyen un grupo de termitas frecuente en los bosques subtropicales. El género comprende 13 especies conocidas, distribuidas en su mayoría en las colinas y montañas bajas cálidas y húmedas.",
+   "book_name": "Sinocapritermes",
+   "book_ref": "(Sección del género Sinocapritermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado la cabeza es rectangular y carece de crestas frontales; la mandíbula izquierda está torsionada en su parte media y su extremo forma un gancho tras el cual se ensancha; la derecha es como un cuchillo; el labro es estrecho y alargado, con el margen anterior cóncavo; antenas de 14 segmentos y fórmula de espinas tibiales 2:2:2; en el alado el orificio de la glándula frontal es estrecho y pequeño.",
+   "distribution": "Región indomalaya del sur de China; los registros conocidos se concentran en Guangxi, Yunnan, Hainan, Guangdong, Sichuan y otras provincias y regiones, y se extienden hacia el norte a lo largo de la costa de Fujian y Zhejiang, con la zona de Tianmu Shan como límite septentrional.",
+   "soldier": "La pilosidad de la cápsula cefálica del soldado es de densidad media o más bien densa; la cabeza es rectangular y la región frontal carece de crestas. Las dos mandíbulas son asimétricas: la izquierda se torsiona moderadamente en su parte media, su extremo se curva en forma de gancho y por detrás del gancho se ensancha; la derecha es como una espada y se curva ligeramente en el extremo. Antenas de 14 segmentos. El labro es largo y estrecho, con el margen anterior cóncavo y los ángulos anterolaterales algo prominentes hacia fuera. La fórmula de espinas tibiales es 2:2:2.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/sinonasutitermes/": {
+   "alate": "El alado tiene la cabeza y el pronoto densamente cubiertos de pubescencia suave, mezclada con unas pocas setas largas; las setas largas del borde del pronoto son más numerosas que las de la cabeza. La cabeza es casi circular, con la fontanela ovalada y provista de una horquilla apical; los ojos compuestos son ovalados, grandes y prominentes; los ocelos son ovalados y sobresalen hacia fuera; el postclípeo está elevado y su anchura es de tres a cuatro veces su longitud. En la mandíbula izquierda el diente apical es mayor que el primer diente marginal, el margen cortante entre ambos es recto, y el segundo diente marginal está reducido y fusionado con el margen cortante posterior del primero; en la mandíbula derecha el segundo diente marginal se aproxima al primero, y la placa dentaria mandibular presenta 8–9 surcos. Antenas de 15 segmentos. El pronoto se arquea ligeramente cerca del centro de su margen anterior. Fórmula de espinas tibiales 2:2:2, tarsos de 4 tarsómeros.",
+   "biology": "",
+   "book_name": "Sinonasutitermes",
+   "book_ref": "(Sección del género Sinonasutitermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "El soldado es dimórfico (en alguna especie trimórfico), de color amarillo; la cabeza es ancha y redondeada, más ancha que larga, con el margen posterior ampliamente redondeado; el nasus es amarillo con tinte parduzco; las espinas agudas de las mandíbulas son muy pequeñas; el soldado mayor tiene antenas de 13 segmentos y el menor de 12; el pronoto tiene forma de silla de montar con la mitad anterior erecta; los tarsos constan de 4 tarsómeros.",
+   "distribution": "Región indomalaya; se distribuye en el sur de China y aparece en las zonas de bosque perennifolio latifoliado subtropical.",
+   "soldier": "El soldado se presenta en dos formas, mayor y menor, de color amarillo, con el nasus amarillo y tinte parduzco. La cabeza y el tórax son casi glabros, con algunas setas en el extremo del nasus, y los terguitos abdominales llevan además escasas setas finas y cortas. En el soldado mayor la cabeza es más ancha que larga, de contorno anchamente redondeado, con los lados convexos y el margen posterior ampliamente redondeado; antenas de 13 segmentos, con el tercero del doble o más de la longitud del segundo; las espinas agudas de las mandíbulas son muy pequeñas. El pronoto tiene forma de silla de montar y su mitad anterior se yergue. El soldado menor se asemeja al mayor en coloración, pilosidad y forma de la cabeza; las espinas agudas de las mandíbulas son muy pequeñas, en su mayoría apenas puntiformes, y las antenas tienen 12 segmentos. La fórmula de espinas tibiales es 2:2:2 en ambas formas, con tarsos de 4 tarsómeros. En alguna especie (S. admirabilis y S. trimorphus) se distingue además un soldado intermedio, de modo que los soldados forman tres tipos: grande, mediano y pequeño.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/speculitermes/": {
+   "alate": "El alado tiene la cabeza densamente cubierta de setas, ovalada y más ancha que larga. La fontanela es grande y ovalada. Los ojos compuestos son grandes, casi circulares y prominentes; los ocelos son pequeños y ovalados. El diente apical de las mandíbulas es claramente mayor que el primer diente marginal; en la mandíbula izquierda el tercer diente marginal y el primero forman un ángulo entre sí. Antenas de 15 segmentos. La anchura del pronoto equivale a la de la cápsula cefálica o es algo menor que la de la cabeza. Fórmula de espinas tibiales 3:2:2, tarsos de 4 tarsómeros.",
+   "biology": "",
+   "book_name": "Speculitermes",
+   "book_ref": "(Sección del género Speculitermes en la obra original, relato genérico reorganizado y reescrito)",
+   "diagnosis": "En el soldado la cabeza es casi rectangular, con los lados algo paralelos; las mandíbulas son robustas y de base ancha, cada una con un diente prominente en el centro del margen interno; antenas de 14 segmentos; el pronoto es en forma de silla de montar; los tarsos constan de 4 tarsómeros y los cercos de 2 segmentos.",
+   "distribution": "Su área de distribución abarca dos grandes regiones zoogeográficas: la neotropical y la indomalaya.",
+   "soldier": "En el soldado las mandíbulas son de color pardo negruzco, la cabeza pardo amarillenta, el labro y las antenas amarillo claro y el pronoto amarillo oscuro; la mitad anterior de la cabeza presenta setas largas y cortas entremezcladas. El contorno de la cabeza es casi rectangular, con los lados izquierdo y derecho aproximadamente paralelos. El labro es lingüiforme, más ancho que largo. Las mandíbulas son fuertes, de base amplia, curvadas hacia dentro en el extremo, y cada una lleva un diente prominente en el centro del margen interno. El postmentón es largo, con una cintura bien marcada. Antenas de 14 segmentos. El pronoto tiene forma de silla de montar. Fórmula de espinas tibiales 3:2:2, tarsos de 4 tarsómeros.",
+   "taxonomy_note": "",
+   "worker": ""
+  },
+  "/genus/stylotermes/": {
+   "alate": "El alado, en longitud corporal (sin las alas), suele ser más corto que el soldado. La fontanela es muy pequeña; el posclípeo varía en su grado de prominencia. En la mandíbula superior izquierda, el primer diente marginal es mayor que el segundo. Antenas de 18 a 22 segmentos. El pronoto es plano y más estrecho que la cápsula cefálica. La escama del ala anterior es mayor que la del ala posterior; la membrana alar es glabra, sin pelos, con venación reticulada. El fémur no está dilatado; la fórmula de espinas tibiales es 3:2:2 y los tarsos tienen tres segmentos. Los cercos son dos y no hay estilos.",
+   "biology": "El género constituye un grupo bastante particular: penetra en el xilema sobre todo por heridas del tronco y perfora árboles vivos; en los puntos atacados suele fluir savia y, en los casos graves, se acumula por fuera un material de excrementos de color pardo oscuro y consistencia de lodo. El tamaño de las colonias oscila entre pequeño y mediano. En China se registra en Sichuan, Yunnan, Guizhou, Guangxi, Guangdong, Hainan y Fujian, entre otras regiones, con 34 especies conocidas; en el extranjero, unas diez especies en India y Bangladés y una en Malasia.",
+   "book_name": "Stylotermes",
+   "book_ref": "(descripción de nivel genérico de la sección sobre Stylotermes de la obra original, reorganizada y reescrita)",
+   "diagnosis": "Cápsula cefálica del soldado rectangular; labro semicircular, sin extremo hialino; mandíbulas en forma de sable, gruesas y robustas, con uno o dos dientes pequeños y romos en la parte media inferior del margen interno de cada una; tarsos de tres segmentos, fórmula de espinas tibiales 3:2:2, cercos de dos segmentos.",
+   "distribution": "Región Oriental; principalmente en las provincias del suroeste al sur de China, y en el extranjero en India, Bangladés y Malasia.",
+   "soldier": "La cápsula cefálica del soldado es en su mayoría rectangular y, en pocos casos, oblonga-ovalada; la fontanela es pequeña o está elevada. El labro es semicircular, sin extremo hialino, con el ápice proyectado o recto y su superficie provista de más de diez setas. Las mandíbulas son en forma de sable, gruesas y robustas, con uno o dos dientes pequeños y romos en la parte media inferior del margen interno de cada una. Antenas de 13 a 19 segmentos. Los ojos compuestos están reducidos a puntos; los ocelos son pequeños o faltan. El postmentón es claviforme, con la región de la cintura estrechada. El pronoto es plano y más estrecho que la cápsula cefálica. El fémur está dilatado; la fórmula de espinas tibiales es 3:2:2 y los tarsos tienen tres segmentos. No hay estilos; los cercos son dos.",
+   "taxonomy_note": "Dado que los tarsos presentan solo tres segmentos, algunos autores han propuesto separar el género como familia propia, Stylotermitidae.",
+   "worker": ""
+  },
+  "/genus/xiaitermes/": {
+   "alate": "",
+   "biology": "",
+   "book_name": "Xiaitermes",
+   "book_ref": "(descripción de nivel genérico de la sección sobre Xiaitermes de la obra original, reorganizada y reescrita)",
+   "diagnosis": "El soldado presenta dos formas, mayor y menor. La cabeza es ancha y redondeada, más ancha que larga; el nasus es tubular y su extremo se inclina ligeramente hacia arriba; a cada lado de la base del nasus hay una pequeña protuberancia; la región posterior a la fosa antenal no se contrae; el diente apical de las mandíbulas es romo y poco aparente; el margen anterior del pronoto se eleva oblicuamente; antenas de 13 a 14 segmentos.",
+   "distribution": "Región Oriental; se ha registrado en Zhejiang y otras regiones subtropicales de China, y se distribuye principalmente en montañas y colinas bajas.",
+   "soldier": "El soldado se presenta en dos formas, mayor y menor. La cápsula cefálica es casi glabra y el extremo del nasus lleva solo unas pocas setas cortas. La cabeza es ancha y redondeada, más ancha que larga; el nasus es tubular y, en vista lateral, su extremo se eleva ligeramente; a cada lado de la base del nasus hay una pequeña protuberancia. La región posterior a la fosa antenal no se contrae; las antenas tienen de 13 a 14 segmentos. El diente apical de las mandíbulas es romo o poco evidente. El margen anterior del pronoto se eleva oblicuamente, con una depresión central, y el margen posterior es ancho y relativamente plano. La tibia posterior es algo corta; la fórmula de espinas tibiales es 2:2:2 y los tarsos tienen cuatro segmentos.",
+   "taxonomy_note": "La clave de especies de la obra original registra dos especies: X. yinxianensis y X. tiantaiensis. Ye et al. 2026 (Insects 17(6):602), con base en el genoma mitocondrial y en evidencia morfológica, incluye X. tiantaiensis en X. yinxianensis (sinónimo posterior), por lo que el género es actualmente monotípico; la supuesta «condición monotípica del soldado» de tiantaiensis corresponde en realidad a la forma de soldado menor de yinxianensis.",
+   "worker": "El obrero se presenta en dos formas, mayor y menor. La cabeza lleva setas dispersas y su contorno es ancho y redondeado, con la mayor anchura por detrás de la fosa antenal; la fontanela tiene forma de fosa circular y se sitúa justo por detrás del punto de cruce de la sutura en T; el posclípeo es prominente. Las antenas tienen de 14 a 15 segmentos. El pronoto es ancho, con su margen anterior cóncavo en el centro. La tibia posterior es algo corta."
+  }
+ },
+ "fauna_keys": {}
+}

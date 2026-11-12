@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cryptotermes-chacoensis/
 title: "Cryptotermes chacoensis Roisin, 2003 查科堆砂白蚁"
 latin: "Cryptotermes chacoensis"
 zh: "查科堆砂白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **查科堆砂白蚁**（*Cryptotermes chacoensis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Roisin 于 2003 年描述，模式产地为 Argentina: Formosa: Parque Nacional Pilcomayo \[ 25.046S 58.0594W \]。分布记录包括巴拉圭、阿根廷、玻利维亚。
 
-EN — **查科堆砂白蚁** (*Cryptotermes chacoensis*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Roisin in 2003; the type locality is Argentina: Formosa: Parque Nacional Pilcomayo \[ 25.046S 58.0594W \]. Distribution: Paraguay, Argentina, Bolivia.
-
-ES — **查科堆砂白蚁** (*Cryptotermes chacoensis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roisin en 2003; la localidad tipo es Argentina: Formosa: Parque Nacional Pilcomayo \[ 25.046S 58.0594W \]. Distribución: Paraguay, Argentina, Bolivia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
 
-EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
-
-ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
-
 种加词 *chacoensis*：以地名 查科（南美洲） 命名
-
-EN — epithet *chacoensis*: Named after the locality Chaco
-
-ES — epithet *chacoensis*: Por la localidad del Chaco
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种（74 species · 74 especies）
-- **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
+- **本属模式种**：*Cryptotermes cavifrons*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴拉圭、阿根廷、玻利维亚
-- **英文记录 English record / Registro en inglés**：Paraguay, Argentina, Bolivia
+- **分布记录**：巴拉圭、阿根廷、玻利维亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

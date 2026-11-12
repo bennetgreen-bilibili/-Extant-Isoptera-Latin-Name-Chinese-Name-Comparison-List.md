@@ -135,7 +135,7 @@ Zenodo 描述支持 HTML，下面的 `<p>` 会正常渲染。把下面代码块*
 ```html
 <p>A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3004 species and 64 subspecies (3068 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</p>
 <p>现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3004 种、64 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。</p>
-<p><strong>项目网站 / Project website:</strong> <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/">https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/</a></p>
+<p><strong>项目网站 / Project website:</strong> <a href="https://termite-extant-isoptera.org/">https://termite-extant-isoptera.org/</a></p>
 <p><strong>源码仓库 / Source repository:</strong> <a href="https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md">https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md</a></p>
 ```
 
@@ -186,7 +186,7 @@ Zenodo 描述支持 HTML，下面的 `<p>` 会正常渲染。把下面代码块*
 
 | # | Relation type（关系） | Identifier（地址） | Scheme（标识类型） | Resource type（对方是什么） |
 |---|---|---|---|---|
-| 1 | **Is documented by**（本数据集被此对象记录/说明） | `https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/` | **URL** | **Other**（没有 Other 就选 Text） |
+| 1 | **Is documented by**（本数据集被此对象记录/说明） | `https://termite-extant-isoptera.org/` | **URL** | **Other**（没有 Other 就选 Text） |
 | 2 | **Is supplemented by**（本数据集由此对象补充/附带） | `https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md` | **URL** | **Software** |
 
 三个容易犹豫的点：
@@ -388,7 +388,7 @@ git push
 推送后 Pages 要重建，等 1–3 分钟再跑。下面的脚本逐项打印 True/False：
 
 ```powershell
-$u    = "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/"
+$u    = "https://termite-extant-isoptera.org/"
 $data = (Invoke-WebRequest "${u}data/" -UseBasicParsing).Content
 $home = (Invoke-WebRequest "$u" -UseBasicParsing).Content
 $sp   = (Invoke-WebRequest "${u}species/acangaobitermes-krishnai/" -UseBasicParsing).Content

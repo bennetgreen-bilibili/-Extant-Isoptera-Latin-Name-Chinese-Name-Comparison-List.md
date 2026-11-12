@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/sinocapritermes-albipennis/
 title: "Sinocapritermes albipennis Tsai & Chen, 1963 白翅华扭白蚁"
 latin: "Sinocapritermes albipennis"
 zh: "白翅华扭白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **白翅华扭白蚁**（*Sinocapritermes albipennis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）华扭白蚁属（*Sinocapritermes*）的一种。本种由 Tsai & Chen 于 1963 年描述，模式产地为 China: Yunnan Province: ChinPing。分布记录包括中国、云南。
 
-EN — **白翅华扭白蚁** (*Sinocapritermes albipennis*) is a species of the genus *Sinocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China, Yunnan.
-
-ES — **白翅华扭白蚁** (*Sinocapritermes albipennis*) es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: China, Yunnan.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Sinocapritermes*：属名由拉丁文 Sinae（中国）+ caper（山羊）与 termes（白蚁）组合。
 
-EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
-
-ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
-
 种加词 *albipennis*：拉丁文/希腊文 albi（白）+ pennis（翅），指白翅
-
-EN — epithet *albipennis*: From albi (白) + pennis (翅)
-
-ES — epithet *albipennis*: De albi (blanco) + pennis (alas)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[华扭白蚁属 *Sinocapritermes*]({{ site.base_url }}/genus/sinocapritermes/) —— 共 16 种（16 species · 16 especies）
-- **本属模式种 Type species / Especie tipo**：*Sinocapritermes sinensis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[华扭白蚁属 *Sinocapritermes*]({{ site.base_url }}/genus/sinocapritermes/) —— 共 16 种
+- **本属模式种**：*Sinocapritermes sinensis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国、云南
-- **英文记录 English record / Registro en inglés**：China, Yunnan
+- **分布记录**：中国、云南
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

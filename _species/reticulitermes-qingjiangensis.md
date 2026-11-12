@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/reticulitermes-qingjiangensis/
 title: "Reticulitermes qingjiangensis Gao & Wang, 1982 清江散白蚁"
 latin: "Reticulitermes qingjiangensis"
 zh: "清江散白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **清江散白蚁**（*Reticulitermes qingjiangensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Gao & Wang 于 1982 年描述，模式产地为 China: Jiangsu Province: Qingjiang。分布记录包括中国。
 
-EN — **清江散白蚁** (*Reticulitermes qingjiangensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Gao & Wang in 1982; the type locality is China: Jiangsu Province: Qingjiang. Distribution: China.
-
-ES — **清江散白蚁** (*Reticulitermes qingjiangensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Gao & Wang en 1982; la localidad tipo es China: Jiangsu Province: Qingjiang. Distribución: China.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
 
-EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
-
-ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
-
 种加词 *qingjiangensis*：以地名 清江（湖北） 命名
-
-EN — epithet *qingjiangensis*: Named after the locality Qingjiang
-
-ES — epithet *qingjiangensis*: Por la localidad de Qingjiang
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
-- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种（140 species · 140 especies）
-- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
+- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **属**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种
+- **本属模式种**：*Reticulitermes flavipes*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国
-- **英文记录 English record / Registro en inglés**：China
+- **分布记录**：中国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

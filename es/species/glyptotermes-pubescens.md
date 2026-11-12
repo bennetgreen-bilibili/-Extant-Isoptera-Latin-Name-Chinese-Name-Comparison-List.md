@@ -1,0 +1,52 @@
+---
+layout: species
+title: "Glyptotermes pubescens Snyder, 1924 柔毛树白蚁"
+lang: es
+permalink: /es/species/glyptotermes-pubescens/
+species_page: true
+single_lang: true
+slug: "glyptotermes-pubescens"
+latin: "Glyptotermes pubescens"
+zh: "柔毛树白蚁"
+type: false
+rank: "species"
+genus_zh: "树白蚁属"
+genus_latin: "Glyptotermes"
+genus_id: "glyptotermes"
+family_zh: "木白蚁科"
+family_latin: "KALOTERMITIDAE"
+family_id: "kalotermitidae"
+clade_zh: "近等翅类"
+clade_latin: "Icoisoptera"
+author_year: "Snyder, 1924"
+type_locality: "Puerto Rico: Aibonito"
+distribution_zh: "加勒比"
+distribution_en: "Caribbean"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Resumen
+
+***Glyptotermes pubescens*** es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Puerto Rico: Aibonito. Distribución según la fuente: Caribbean.
+
+## Etimología
+
+Nombre del género *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
+Epíteto específico *pubescens*: Del latín pubescens (pubescente)
+
+<!-- src:S0018 -->
+
+## Posición taxonómica
+
+- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Género**: [*Glyptotermes*]({{ site.base_url }}/es/genus/glyptotermes/) — 131 especies
+- **Especie tipo del género**: *Glyptotermes tuberculatus*
+
+## Distribución
+
+- **Registros de distribución (según la fuente)**: Caribbean
+
+El registro anterior sigue la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.
+<!-- AUTO:END -->

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/microtermes-albinotus/
 title: "Microtermes albinotus Holmgren, 1913 白背小白蚁"
 latin: "Microtermes albinotus"
 zh: "白背小白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **白背小白蚁**（*Microtermes albinotus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 (country unknown): "Africa"。分布记录包括分布待核。
 
-EN — **白背小白蚁** (*Microtermes albinotus*) is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Holmgren in 1913; the type locality is (country unknown): "Africa". Distribution: distribution to be verified.
-
-ES — **白背小白蚁** (*Microtermes albinotus*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es (country unknown): "Africa". Distribución: distribution to be verified.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Microtermes*：属名由希腊文 mikros（小）与拉丁文 termes（白蚁）组合，意为「小白蚁」。
 
-EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
-
-ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
-
 种加词 *albinotus*：拉丁文/希腊文 albi（白）+ notus（背），指白背
-
-EN — epithet *albinotus*: From albi (白) + notus (背)
-
-ES — epithet *albinotus*: De albi (blanco) + notus (dorso)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种（69 species · 69 especies）
-- **本属模式种 Type species / Especie tipo**：*Microtermes incertus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种
+- **本属模式种**：*Microtermes incertus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：分布待核
-- **英文记录 English record / Registro en inglés**：distribution to be verified
+- **分布记录**：分布待核
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

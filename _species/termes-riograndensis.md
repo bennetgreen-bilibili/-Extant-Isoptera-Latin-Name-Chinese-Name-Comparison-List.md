@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/termes-riograndensis/
 title: "Termes riograndensis Jhering, 1887 里奥格兰德白蚁"
 latin: "Termes riograndensis"
 zh: "里奥格兰德白蚁"
@@ -26,55 +29,36 @@ synonym_localities: "Brasil: Rio Grande do Sul: São Leopoldo [29.7603S 51.1472W
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **里奥格兰德白蚁**（*Termes riograndensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Jhering 于 1887 年描述，模式产地为 Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]。分布记录包括阿根廷、巴西、巴拉圭、乌拉圭。本站记录本种有 1 个次异名。
 
-EN — **里奥格兰德白蚁** (*Termes riograndensis*) is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Jhering in 1887; the type locality is Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]. Distribution: Argentina, Brazil, Paraguay, Uruguay. This site records 1 junior synonym for the species.
-
-ES — **里奥格兰德白蚁** (*Termes riograndensis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Jhering en 1887; la localidad tipo es Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]. Distribución: Argentina, Brazil, Paraguay, Uruguay. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
 
-EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
-
-ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
-
 种加词 *riograndensis*：以地名 格兰德河（美洲） 命名
-
-EN — epithet *riograndensis*: Named after the locality Riogrand
-
-ES — epithet *riograndensis*: Por la localidad de Riogrand
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
-- **属 Genus / Género**：[白蚁属 *Termes*]({{ site.base_url }}/genus/termes/) —— 共 27 种（27 species · 27 especies）
-- **本属模式种 Type species / Especie tipo**：*Termes fatalis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
+- **属**：[白蚁属 *Termes*]({{ site.base_url }}/genus/termes/) —— 共 27 种
+- **本属模式种**：*Termes fatalis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：阿根廷、巴西、巴拉圭、乌拉圭
-- **英文记录 English record / Registro en inglés**：Argentina, Brazil, Paraguay, Uruguay
+- **分布记录**：阿根廷、巴西、巴拉圭、乌拉圭
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes saltans* Wasmann, 1897: 152 —— 模式产地：Brasil: Rio Grande do Sul: São Leopoldo \[29.7603S 51.1472W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes saltans* 出现，本站统一归入 *Termes riograndensis*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Mirotermes saltans*; this site treats it under *Termes riograndensis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Mirotermes saltans*; este sitio lo reúne bajo *Termes riograndensis*.
 <!-- AUTO:END -->

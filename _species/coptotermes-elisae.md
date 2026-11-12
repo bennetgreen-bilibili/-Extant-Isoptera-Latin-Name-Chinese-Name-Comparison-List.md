@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/coptotermes-elisae/
 title: "Coptotermes elisae Desneux, 1905 瑞明乳白蚁"
 latin: "Coptotermes elisae"
 zh: "瑞明乳白蚁"
@@ -23,54 +26,35 @@ synonym_localities: "Papua New Guinea: Bukaua"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **瑞明乳白蚁**（*Coptotermes elisae*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Desneux 于 1905 年描述，模式产地为 Papua New Guinea: Simbang, Huon Gulf。分布记录包括印度尼西亚、马来西亚、巴布亚新几内亚。本站记录本种有 1 个次异名。
 
-EN — **瑞明乳白蚁** (*Coptotermes elisae*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Desneux in 1905; the type locality is Papua New Guinea: Simbang, Huon Gulf. Distribution: Indonesia, Malaysia, Papua New Guinea. This site records 1 junior synonym for the species.
-
-ES — **瑞明乳白蚁** (*Coptotermes elisae*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Desneux en 1905; la localidad tipo es Papua New Guinea: Simbang, Huon Gulf. Distribución: Indonesia, Malaysia, Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
-EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
-
-ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
-
 种加词 *elisae*：以人名 Elisa/Elise 命名
-
-EN — epithet *elisae*: Named after Elisa
-
-ES — epithet *elisae*: En honor de Elisa
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
-- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
-- **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
+- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
+- **本属模式种**：*Coptotermes gestroi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度尼西亚、马来西亚、巴布亚新几内亚
-- **英文记录 English record / Registro en inglés**：Indonesia, Malaysia, Papua New Guinea
+- **分布记录**：印度尼西亚、马来西亚、巴布亚新几内亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes hyaloapex* Holmgren, 1911: 457 —— 模式产地：Papua New Guinea: Bukaua
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes hyaloapex* 出现，本站统一归入 *Coptotermes elisae*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Coptotermes hyaloapex*; this site treats it under *Coptotermes elisae*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Coptotermes hyaloapex*; este sitio lo reúne bajo *Coptotermes elisae*.
 <!-- AUTO:END -->

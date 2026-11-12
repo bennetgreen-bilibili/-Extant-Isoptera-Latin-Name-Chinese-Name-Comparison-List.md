@@ -1,34 +1,49 @@
 {%- comment -%}
   物种 / 亚种形态描述。
-  数据：_data/morphology_species.json，键为页面 URL；字段
-  { zh_name, sections:[{label,text}], source:{id,citation,locator}, note }
-  优先级：本文件有记录 → 渲染；否则若已有《中国动物志》记载（fauna_species）→ 不重复；
-  两者都没有 → 显示待补说明，并指向属页的属级描述。
+  数据：_data/morphology_species.json（zh）与 _data/translations_en|es.json 的
+  morphology_species（键为中文页 URL）；字段 { zh_name, sections:[{label,text}], source:{id,citation,locator}, note }。
+  优先级：本语言有记录 → 渲染；否则若已有本语言《中国动物志》记载 → 不重复；
+  两者都没有 → 显示待补说明，并指向本语言属页的属级描述。外文页不回退中文。
 {%- endcomment -%}
-{%- assign morph = site.data.morphology_species[page.url] -%}
-{%- assign fauna = site.data.fauna_species[page.url] -%}
+{%- assign LP = '' -%}
+{%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}
+{%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
+{%- assign zh_url = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- assign morph = site.data.morphology_species[zh_url] -%}
+{%- assign fauna = site.data.fauna_species[zh_url] -%}
+{%- if page.lang == 'en' -%}
+  {%- assign morph = site.data.translations_en.morphology_species[zh_url] -%}
+  {%- assign fauna = site.data.translations_en.fauna_species[zh_url] -%}
+{%- elsif page.lang == 'es' -%}
+  {%- assign morph = site.data.translations_es.morphology_species[zh_url] -%}
+  {%- assign fauna = site.data.translations_es.fauna_species[zh_url] -%}
+{%- endif -%}
 {%- if morph -%}
 <section class="species-fauna taxon-morphology species-morphology" aria-labelledby="species-morphology-title">
-  <h2 id="species-morphology-title">形态描述 <span class="fact-en" lang="en">Morphology</span> <span class="fact-es" lang="es">Morfología</span></h2>
-  <p class="morphology-lead">以下描述据原始发表或后续修订文献改写，分品级列出；引文见节末。<span class="fact-en" lang="en">The description below is paraphrased from the original or a later revision, by caste; the source is cited at the end.</span> <span class="fact-es" lang="es">La descripción siguiente se parafrasea de la publicación original o de una revisión posterior, por castas; la fuente se cita al final.</span></p>
+  <h2 id="species-morphology-title">{% if page.lang == 'en' %}Morphology{% elsif page.lang == 'es' %}Morfología{% else %}形态描述{% endif %}</h2>
+  <p class="morphology-lead">{% if page.lang == 'en' %}The description below is paraphrased from the original or a later revision, by caste; the source is cited at the end.{% elsif page.lang == 'es' %}La descripción siguiente se parafrasea de la publicación original o de una revisión posterior, por castas; la fuente se cita al final.{% else %}以下描述据原始发表或后续修订文献改写，分品级列出；引文见节末。{% endif %}</p>
   {%- for sec in morph.sections -%}
-  <h3 class="morphology-caste">{{ sec.label }}{% case sec.label %}{% when '兵蚁' %} <span class="fact-en" lang="en">Soldier</span> <span class="fact-es" lang="es">Soldado</span>{% when '工蚁' %} <span class="fact-en" lang="en">Worker</span> <span class="fact-es" lang="es">Obrera</span>{% when '有翅成虫' %} <span class="fact-en" lang="en">Alate</span> <span class="fact-es" lang="es">Alado</span>{% when '若虫' %} <span class="fact-en" lang="en">Nymph</span> <span class="fact-es" lang="es">Ninfa</span>{% when '鉴别要点' %} <span class="fact-en" lang="en">Key characters</span> <span class="fact-es" lang="es">Caracteres diagnósticos</span>{% endcase %}</h3>
+  {%- assign sec_label = sec.label -%}
+  {%- if page.lang == 'en' -%}
+    {%- case sec.label -%}{%- when '兵蚁' -%}{%- assign sec_label = 'Soldier' -%}{%- when '工蚁' -%}{%- assign sec_label = 'Worker' -%}{%- when '有翅成虫' -%}{%- assign sec_label = 'Alate' -%}{%- when '若虫' -%}{%- assign sec_label = 'Nymph' -%}{%- when '鉴别要点' -%}{%- assign sec_label = 'Key characters' -%}{%- endcase -%}
+  {%- elsif page.lang == 'es' -%}
+    {%- case sec.label -%}{%- when '兵蚁' -%}{%- assign sec_label = 'Soldado' -%}{%- when '工蚁' -%}{%- assign sec_label = 'Obrera' -%}{%- when '有翅成虫' -%}{%- assign sec_label = 'Alado' -%}{%- when '若虫' -%}{%- assign sec_label = 'Ninfa' -%}{%- when '鉴别要点' -%}{%- assign sec_label = 'Caracteres diagnósticos' -%}{%- endcase -%}
+  {%- endif -%}
+  <h3 class="morphology-caste">{{ sec_label }}</h3>
   <p>{{ sec.text }}</p>
   {%- endfor -%}
   {%- if morph.note -%}<p class="morphology-note">{{ morph.note }}</p>{%- endif -%}
   {%- if morph.sources -%}
-  <p class="morphology-cite">来源 <span class="fact-en" lang="en">Sources</span> <span class="fact-es" lang="es">Fuentes</span>：{% for src in morph.sources %}{{ src.citation }}{% if src.locator %}，{{ src.locator }}{% endif %}{% unless forloop.last %}；{% endunless %}{% endfor %}{% for src in morph.sources %} <!-- src:{{ src.id }} -->{% endfor %}</p>
+  <p class="morphology-cite">{% if page.lang == 'en' %}Sources{% elsif page.lang == 'es' %}Fuentes{% else %}来源{% endif %}：{% for src in morph.sources %}{{ src.citation }}{% if src.locator %}{% if page.lang == 'en' %}, {% elsif page.lang == 'es' %}, {% else %}，{% endif %}{{ src.locator }}{% endif %}{% unless forloop.last %}{% if page.lang == 'en' or page.lang == 'es' %}; {% else %}；{% endif %}{% endunless %}{% endfor %}{% for src in morph.sources %} <!-- src:{{ src.id }} -->{% endfor %}</p>
   {%- elsif morph.source -%}
-  <p class="morphology-cite">来源 <span class="fact-en" lang="en">Sources</span> <span class="fact-es" lang="es">Fuentes</span>：{{ morph.source.citation }}{% if morph.source.locator %}，{{ morph.source.locator }}{% endif %}{% if morph.source.id %} <!-- src:{{ morph.source.id }} -->{% endif %}</p>
+  <p class="morphology-cite">{% if page.lang == 'en' %}Sources{% elsif page.lang == 'es' %}Fuentes{% else %}来源{% endif %}：{{ morph.source.citation }}{% if morph.source.locator %}{% if page.lang == 'en' or page.lang == 'es' %}, {% else %}，{% endif %}{{ morph.source.locator }}{% endif %}{% if morph.source.id %} <!-- src:{{ morph.source.id }} -->{% endif %}</p>
   {%- endif -%}
 </section>
 {%- elsif fauna -%}
-{%- comment -%} 已有《中国动物志》记载，由 fauna-species.html 渲染，不重复。 {%- endcomment -%}
+{%- comment -%} 已有本语言《中国动物志》记载，由 fauna-species.html 渲染，不重复。 {%- endcomment -%}
 {%- else -%}
 <section class="species-fauna taxon-morphology species-morphology species-morphology-pending" aria-labelledby="species-morphology-title">
-  <h2 id="species-morphology-title">形态描述 <span class="fact-en" lang="en">Morphology</span> <span class="fact-es" lang="es">Morfología</span></h2>
-  <p class="morphology-lead">{%- assign rank_zh = '种' -%}{%- assign rank_en = 'species' -%}{%- assign rank_es = 'especie' -%}{%- if page.rank == 'subspecies' -%}{%- assign rank_zh = '亚种' -%}{%- assign rank_en = 'subspecies' -%}{%- assign rank_es = 'subespecie' -%}{%- endif -%}本站尚未据原始文献整理本{{ rank_zh }}的形态描述。原始描述：{{ page.author_year }}。可先参阅<a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">{{ page.genus_zh }} <i>{{ page.genus_latin }}</i>属页</a>的属级形态描述；本页将在核对原文后补充。</p>
-  <p class="morphology-lead fact-en" lang="en">A {{ rank_en }}-level description from the original literature has not yet been compiled for this page. Original description: {{ page.author_year }}. See the <a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">genus page</a> for the genus-level description; this page will be updated after the original text is checked.</p>
-  <p class="morphology-lead fact-es" lang="es">Todavía no se ha compilado una descripción morfológica de la {{ rank_es }} a partir de la literatura original. Descripción original: {{ page.author_year }}. Véase la <a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">página del género</a> para la descripción genérica; esta página se actualizará tras revisar el texto original.</p>
+  <h2 id="species-morphology-title">{% if page.lang == 'en' %}Morphology{% elsif page.lang == 'es' %}Morfología{% else %}形态描述{% endif %}</h2>
+  <p class="morphology-lead">{% if page.lang == 'en' %}A {% if page.rank == 'subspecies' %}subspecies{% else %}species{% endif %}-level description from the original literature has not yet been compiled for this page. Original description: {{ page.author_year }}. See the <a href="{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/">genus page</a> for the genus-level description; this page will be updated after the original text is checked.{% elsif page.lang == 'es' %}Todavía no se ha compilado una descripción morfológica de la {% if page.rank == 'subspecies' %}subespecie{% else %}especie{% endif %} a partir de la literatura original. Descripción original: {{ page.author_year }}. Véase la <a href="{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/">página del género</a> para la descripción genérica; esta página se actualizará tras revisar el texto original.{% else %}本站尚未据原始文献整理本{% if page.rank == 'subspecies' %}亚种{% else %}种{% endif %}的形态描述。原始描述：{{ page.author_year }}。可先参阅<a href="{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/">{{ page.genus_zh }} <i>{{ page.genus_latin }}</i>属页</a>的属级形态描述；本页将在核对原文后补充。{% endif %}</p>
 </section>
 {%- endif -%}

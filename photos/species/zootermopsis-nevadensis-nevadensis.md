@@ -3,11 +3,11 @@ layout: photos
 title: "Zootermopsis nevadensis nevadensis 指名亚种 全部图片（1 张）"
 description: "指名亚种（Zootermopsis nevadensis nevadensis）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 1 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: archotermopsidae
 last_modified_at: 2026-10-30
-permalink: /species/zootermopsis-nevadensis-nevadensis/photos/
+permalink: "/species/zootermopsis-nevadensis-nevadensis/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "zootermopsis-nevadensis-nevadensis"

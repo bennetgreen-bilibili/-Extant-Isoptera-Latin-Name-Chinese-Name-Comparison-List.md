@@ -1,0 +1,52 @@
+---
+layout: species
+title: "Neotermes collarti Coaton, 1955 科勒特新白蚁"
+lang: es
+permalink: /es/species/neotermes-collarti/
+species_page: true
+single_lang: true
+slug: "neotermes-collarti"
+latin: "Neotermes collarti"
+zh: "科勒特新白蚁"
+type: false
+rank: "species"
+genus_zh: "新白蚁属"
+genus_latin: "Neotermes"
+genus_id: "neotermes"
+family_zh: "木白蚁科"
+family_latin: "KALOTERMITIDAE"
+family_id: "kalotermitidae"
+clade_zh: "近等翅类"
+clade_latin: "Icoisoptera"
+author_year: "Coaton, 1955"
+type_locality: "Democratic Republic of the Congo: Ituri: Forêt de Kawa"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
+---
+
+<!-- AUTO:BEGIN -->
+## Resumen
+
+***Neotermes collarti*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1955; la localidad tipo es Democratic Republic of the Congo: Ituri: Forêt de Kawa. Distribución según la fuente: Democratic Republic of the Congo.
+
+## Etimología
+
+Nombre del género *Neotermes*: Del griego neos (nuevo) + latín termes.
+
+Epíteto específico *collarti*: En honor de Albert Collart
+
+<!-- src:S0018 -->
+
+## Posición taxonómica
+
+- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
+- **Especie tipo del género**: *Neotermes castaneus*
+
+## Distribución
+
+- **Registros de distribución (según la fuente)**: Democratic Republic of the Congo
+
+El registro anterior sigue la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.
+<!-- AUTO:END -->

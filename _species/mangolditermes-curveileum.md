@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/mangolditermes-curveileum/
 title: "Mangolditermes curveileum Scheffrahn, Carrijo & Castro, 2023 曲回曼戈尔德白蚁"
 latin: "Mangolditermes curveileum"
 zh: "曲回曼戈尔德白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **曲回曼戈尔德白蚁**（*Mangolditermes curveileum*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）曼戈尔德白蚁属（*Mangolditermes*）的现存唯一种。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]。分布记录包括南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥。
 
-EN — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) is the only extant species of the genus *Mangolditermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn, Carrijo & Castro in 2023; the type locality is Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribution: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
-
-ES — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) es la única especie viviente del género *Mangolditermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribución: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Mangolditermes*：属名以人名 Mangold 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Mangolditermes*: Named after a person (Mangold); -termes from Latin termes.
-
-ES — *Mangolditermes*: En honor de una persona (Mangold); -termes, del latín termes.
-
 种加词 *curveileum*：拉丁文/希腊文词根「curv」（弯）
-
-EN — epithet *curveileum*: From the descriptive term 'curv' (curved)
-
-ES — epithet *curveileum*: Del término descriptivo «curv» (curvo)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[曼戈尔德白蚁属 *Mangolditermes*]({{ site.base_url }}/genus/mangolditermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[曼戈尔德白蚁属 *Mangolditermes*]({{ site.base_url }}/genus/mangolditermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥
-- **英文记录 English record / Registro en inglés**：South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago
+- **分布记录**：南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

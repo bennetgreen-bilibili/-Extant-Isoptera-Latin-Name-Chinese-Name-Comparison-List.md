@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/hospitalitermes-majusculus/
 title: "Hospitalitermes majusculus He & Gao, 1984 大须白蚁"
 latin: "Hospitalitermes majusculus"
 zh: "大须白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **大须白蚁**（*Hospitalitermes majusculus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）须白蚁属（*Hospitalitermes*）的一种。本种由 He & Gao 于 1984 年描述，模式产地为 China: Yunnan Province: Damenglong: Baka。分布记录包括云南（大勐龙、巴卡）、中国。
 
-EN — **大须白蚁** (*Hospitalitermes majusculus*) is a species of the genus *Hospitalitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by He & Gao in 1984; the type locality is China: Yunnan Province: Damenglong: Baka. Distribution: Yunnan (Damenglong, Baka), China.
-
-ES — **大须白蚁** (*Hospitalitermes majusculus*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por He & Gao en 1984; la localidad tipo es China: Yunnan Province: Damenglong: Baka. Distribución: Yunnan (Damenglong, Baka), China.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
 
-EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
-
-ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
-
 种加词 *majusculus*：拉丁文 majusculus（略大的）
-
-EN — epithet *majusculus*: Latin majusculus (somewhat larger)
-
-ES — epithet *majusculus*: Del latín majusculus (algo mayor)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[须白蚁属 *Hospitalitermes*]({{ site.base_url }}/genus/hospitalitermes/) —— 共 37 种（37 species · 37 especies）
-- **本属模式种 Type species / Especie tipo**：*Hospitalitermes hospitalis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[须白蚁属 *Hospitalitermes*]({{ site.base_url }}/genus/hospitalitermes/) —— 共 37 种
+- **本属模式种**：*Hospitalitermes hospitalis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：云南（大勐龙、巴卡）、中国
-- **英文记录 English record / Registro en inglés**：Yunnan (Damenglong, Baka), China
+- **分布记录**：云南（大勐龙、巴卡）、中国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

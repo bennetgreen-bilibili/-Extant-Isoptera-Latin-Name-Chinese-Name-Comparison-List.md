@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/ruptitermes-cangua/
 title: "Ruptitermes cangua Acioli & Constantino, 2015 圆头腹爆白蚁"
 latin: "Ruptitermes cangua"
 zh: "圆头腹爆白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **圆头腹爆白蚁**（*Ruptitermes cangua*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种。本种由 Acioli & Constantino 于 2015 年描述，模式产地为 Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]。分布记录包括南美洲、法属圭亚那、巴西。
 
-EN — **圆头腹爆白蚁** (*Ruptitermes cangua*) is a species of the genus *Ruptitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Acioli & Constantino in 2015; the type locality is Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]. Distribution: South America, French Guiana, Brazil.
-
-ES — **圆头腹爆白蚁** (*Ruptitermes cangua*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Acioli & Constantino en 2015; la localidad tipo es Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]. Distribución: South America, French Guiana, Brazil.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Ruptitermes*：属名由拉丁文 ruptus（破裂的）与 termes（白蚁）组合。
 
-EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
-
-ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
-
 种加词 *cangua*：种加词 cangua 为图皮语土名，意为「圆头的」（canga 头）。
-
-EN — epithet *cangua*: From the Tupi word cangua 'round-headed' (from canga 'head').
-
-ES — epithet *cangua*: De la palabra tupí cangua «de cabeza redonda» (de canga «cabeza»).
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[腹爆白蚁属 *Ruptitermes*]({{ site.base_url }}/genus/ruptitermes/) —— 共 13 种（13 species · 13 especies）
-- **本属模式种 Type species / Especie tipo**：*Ruptitermes xanthochiton*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[腹爆白蚁属 *Ruptitermes*]({{ site.base_url }}/genus/ruptitermes/) —— 共 13 种
+- **本属模式种**：*Ruptitermes xanthochiton*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南美洲、法属圭亚那、巴西
-- **英文记录 English record / Registro en inglés**：South America, French Guiana, Brazil
+- **分布记录**：南美洲、法属圭亚那、巴西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

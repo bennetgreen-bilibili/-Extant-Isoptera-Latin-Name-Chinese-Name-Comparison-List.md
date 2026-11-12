@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/malagasitermes-milloti/
 title: "Malagasitermes milloti Cachan, 1949 米约马尔加什白蚁"
 latin: "Malagasitermes milloti"
 zh: "米约马尔加什白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **米约马尔加什白蚁**（*Malagasitermes milloti*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）马尔加什白蚁属（*Malagasitermes*）的现存唯一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: Tampoketsa d’Ankazobé, Ambohitantely。分布记录包括马达加斯加。
 
-EN — **米约马尔加什白蚁** (*Malagasitermes milloti*) is the only extant species of the genus *Malagasitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Cachan in 1949; the type locality is Madagascar: Tampoketsa d’Ankazobé, Ambohitantely. Distribution: Madagascar.
-
-ES — **米约马尔加什白蚁** (*Malagasitermes milloti*) es la única especie viviente del género *Malagasitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Tampoketsa d’Ankazobé, Ambohitantely. Distribución: Madagascar.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Malagasitermes*：属名由 Malagasy（马达加斯加）与 termes（白蚁）组合。
 
-EN — *Malagasitermes*: From Malagasy (Madagascar) + termes.
-
-ES — *Malagasitermes*: Del malgache (Madagascar) + termes.
-
 种加词 *milloti*：以人名 Millot（米约）命名（法国动物学家 Jacques Millot，马达加斯加）
-
-EN — epithet *milloti*: Named after Millot (French zoologist Jacques Millot)
-
-ES — epithet *milloti*: En honor de Millot (zoólogo francés Jacques Millot)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[马尔加什白蚁属 *Malagasitermes*]({{ site.base_url }}/genus/malagasitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[马尔加什白蚁属 *Malagasitermes*]({{ site.base_url }}/genus/malagasitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：马达加斯加
-- **英文记录 English record / Registro en inglés**：Madagascar
+- **分布记录**：马达加斯加
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

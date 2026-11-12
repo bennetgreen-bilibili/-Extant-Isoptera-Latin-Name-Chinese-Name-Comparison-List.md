@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/psammotermes-hybostoma/
 title: "Psammotermes hybostoma Desneux, 1902 弯嘴沙白蚁"
 latin: "Psammotermes hybostoma"
 zh: "弯嘴沙白蚁"
@@ -23,54 +26,35 @@ synonym_localities: "(country unknown): \"Rotes Meer\"; Egypt: Aswân (Assuan)"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **弯嘴沙白蚁**（*Psammotermes hybostoma*）是沙白蚁科（PSAMMOTERMITIDAE）沙白蚁属（*Psammotermes*）的一种，也是本属的模式种。本种由 Desneux 于 1902 年描述，模式产地为 Algeria: Biskra; Touggourt。分布记录包括西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门。本站记录本种有 2 个次异名。
 
-EN — **弯嘴沙白蚁** (*Psammotermes hybostoma*) is a species and the type species of the genus *Psammotermes*, in the family PSAMMOTERMITIDAE. The species was described by Desneux in 1902; the type locality is Algeria: Biskra; Touggourt. Distribution: West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen. This site records 2 junior synonyms for the species.
-
-ES — **弯嘴沙白蚁** (*Psammotermes hybostoma*) es una especie, y la especie tipo del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Desneux en 1902; la localidad tipo es Algeria: Biskra; Touggourt. Distribución: West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Psammotermes*：属名由希腊文 psammos（沙）与拉丁文 termes（白蚁）组合。
 
-EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
-
-ES — *Psammotermes*: Del griego psammos (arena) + latín termes.
-
 种加词 *hybostoma*：希腊文 hybos（驼背）+ stoma（口），驼口
-
-EN — epithet *hybostoma*: Greek hybos (hump) + stoma (mouth), humped-mouthed
-
-ES — epithet *hybostoma*: Del griego hybos (joroba) + stoma (boca), de boca jorobada
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
-- **属 Genus / Género**：[沙白蚁属 *Psammotermes*]({{ site.base_url }}/genus/psammotermes/) —— 共 6 种（6 species · 6 especies）
+- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **属**：[沙白蚁属 *Psammotermes*]({{ site.base_url }}/genus/psammotermes/) —— 共 6 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门
-- **英文记录 English record / Registro en inglés**：West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen
+- **分布记录**：西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes fuscofemoralis* Sjöstedt, 1904: 62-63 —— 模式产地：(country unknown): "Rotes Meer"
 2. *Psammotermes assuanensis* Sjöstedt, 1912: 3-5 —— 模式产地：Egypt: Aswân (Assuan)
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes fuscofemoralis*、*Psammotermes assuanensis* 等）出现，本站统一归入 *Psammotermes hybostoma*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes fuscofemoralis*、*Psammotermes assuanensis*); this site treats them all under *Psammotermes hybostoma*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes fuscofemoralis*、*Psammotermes assuanensis*); este sitio los reúne todos bajo *Psammotermes hybostoma*.
 <!-- AUTO:END -->

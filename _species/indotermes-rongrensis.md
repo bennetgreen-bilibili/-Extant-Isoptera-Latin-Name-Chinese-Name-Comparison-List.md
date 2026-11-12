@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/indotermes-rongrensis/
 title: "Indotermes rongrensis Roonwal & Chhotani, 1962 龙格伦吉里印白蚁"
 latin: "Indotermes rongrensis"
 zh: "龙格伦吉里印白蚁"
@@ -26,56 +29,37 @@ synonym_localities: "Bangladesh: Ukhia; India: West Bengal: Buxa Forest Division
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **龙格伦吉里印白蚁**（*Indotermes rongrensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）印白蚁属（*Indotermes*）的一种。本种由 Roonwal & Chhotani 于 1962 年描述，模式产地为 India: Assam: Garo Hills District: Rongrengiri。分布记录包括东洋界。本站记录本种有 2 个次异名。
 
-EN — **龙格伦吉里印白蚁** (*Indotermes rongrensis*) is a species of the genus *Indotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Roonwal & Chhotani in 1962; the type locality is India: Assam: Garo Hills District: Rongrengiri. Distribution: Oriental region. This site records 2 junior synonyms for the species.
-
-ES — **龙格伦吉里印白蚁** (*Indotermes rongrensis*) es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam: Garo Hills District: Rongrengiri. Distribución: Oriental region. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Indotermes*：属名由地名 India（印度）+ 拉丁文 termes（白蚁）组合。
 
-EN — *Indotermes*: From India + Latin termes.
-
-ES — *Indotermes*: De India + latín termes.
-
 种加词 *rongrensis*：以地名 Rongrengiri（荣仁吉里，印度梅加拉亚邦加罗丘陵）命名
-
-EN — epithet *rongrensis*: Named after the locality Rongrengiri (Garo Hills, Meghalaya, India)
-
-ES — epithet *rongrensis*: Por la localidad de Rongrengiri (Garo Hills, Meghalaya, India)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[印白蚁属 *Indotermes*]({{ site.base_url }}/genus/indotermes/) —— 共 10 种（10 species · 10 especies）
-- **本属模式种 Type species / Especie tipo**：*Indotermes maymensis*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
+- **属**：[印白蚁属 *Indotermes*]({{ site.base_url }}/genus/indotermes/) —— 共 10 种
+- **本属模式种**：*Indotermes maymensis*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东洋界
-- **英文记录 English record / Registro en inglés**：Oriental region
+- **分布记录**：东洋界
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Indotermes bangladeshiensis* Akhtar, 1975: 116-120 —— 模式产地：Bangladesh: Ukhia
 2. *Doonitermes buxensis* Thakur & Sen-Sarma, 1980: 85-90 —— 模式产地：India: West Bengal: Buxa Forest Division: Jainti Forest
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Indotermes bangladeshiensis*、*Doonitermes buxensis* 等）出现，本站统一归入 *Indotermes rongrensis*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Indotermes bangladeshiensis*、*Doonitermes buxensis*); this site treats them all under *Indotermes rongrensis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Indotermes bangladeshiensis*、*Doonitermes buxensis*); este sitio los reúne todos bajo *Indotermes rongrensis*.
 <!-- AUTO:END -->

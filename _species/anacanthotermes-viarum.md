@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/anacanthotermes-viarum/
 title: "Anacanthotermes viarum König, 1779 小径无刺白蚁"
 latin: "Anacanthotermes viarum"
 zh: "小径无刺白蚁"
@@ -23,55 +26,36 @@ synonym_localities: "India: Coimbatore; India: Tamil Nadu: Tinnevelly District: 
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **小径无刺白蚁**（*Anacanthotermes viarum*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 König 于 1779 年描述，模式产地为 India: Tamil Nadu: Coimbatore。分布记录包括印度、斯里兰卡。本站记录本种有 2 个次异名。
 
-EN — **小径无刺白蚁** (*Anacanthotermes viarum*) is a species of the genus *Anacanthotermes*, in the family HODOTERMITIDAE. The species was described by König in 1779; the type locality is India: Tamil Nadu: Coimbatore. Distribution: India, Sri Lanka. This site records 2 junior synonyms for the species.
-
-ES — **小径无刺白蚁** (*Anacanthotermes viarum*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por König en 1779; la localidad tipo es India: Tamil Nadu: Coimbatore. Distribución: India, Sri Lanka. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
 
-EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
-
-ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
-
 种加词 *viarum*：拉丁文 via（路）的复数属格
-
-EN — epithet *viarum*: Latin viarum (of roads)
-
-ES — epithet *viarum*: Del latín viarum (de los caminos)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
-- **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种（16 species · 16 especies）
-- **本属模式种 Type species / Especie tipo**：*Anacanthotermes ochraceus*
+- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **属**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种
+- **本属模式种**：*Anacanthotermes ochraceus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、斯里兰卡
-- **英文记录 English record / Registro en inglés**：India, Sri Lanka
+- **分布记录**：印度、斯里兰卡
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermes (Anacanthotermes) koenigi* Holmgren & Holmgren, 1917: 138-139 —— 模式产地：India: Coimbatore
 2. *Anacanthotermes rugifrons* Mathur & Sen-Sarma, 1958: 231-241 —— 模式产地：India: Tamil Nadu: Tinnevelly District: Pallayamcottah
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes (Anacanthotermes) koenigi*、*Anacanthotermes rugifrons* 等）出现，本站统一归入 *Anacanthotermes viarum*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Hodotermes (Anacanthotermes) koenigi*、*Anacanthotermes rugifrons*); this site treats them all under *Anacanthotermes viarum*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Hodotermes (Anacanthotermes) koenigi*、*Anacanthotermes rugifrons*); este sitio los reúne todos bajo *Anacanthotermes viarum*.
 <!-- AUTO:END -->

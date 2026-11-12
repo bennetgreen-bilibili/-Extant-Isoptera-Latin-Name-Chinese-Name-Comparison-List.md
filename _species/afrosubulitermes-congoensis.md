@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/afrosubulitermes-congoensis/
 title: "Afrosubulitermes congoensis Emerson, 1960 刚果非锥白蚁"
 latin: "Afrosubulitermes congoensis"
 zh: "刚果非锥白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **刚果非锥白蚁**（*Afrosubulitermes congoensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）非锥白蚁属（*Afrosubulitermes*）的现存唯一种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Kisangani (Stanleyville)。分布记录包括刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加纳、科特迪瓦、尼日利亚、乌干达。
 
-EN — **刚果非锥白蚁** (*Afrosubulitermes congoensis*) is the only extant species of the genus *Afrosubulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Emerson in 1960; the type locality is Democratic Republic of the Congo: Kisangani (Stanleyville). Distribution: Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda.
-
-ES — **刚果非锥白蚁** (*Afrosubulitermes congoensis*) es la única especie viviente del género *Afrosubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Afrosubulitermes*：属名由拉丁文 Afro-（非洲）+ subula（锥、钻）与 termes（白蚁）组合。
 
-EN — *Afrosubulitermes*: From Latin Afro- (Africa) + subula (awl) + termes.
-
-ES — *Afrosubulitermes*: Del latín Afro- (África) + subula (lezna) + termes.
-
 种加词 *congoensis*：地名：刚果
-
-EN — epithet *congoensis*: After Congo
-
-ES — epithet *congoensis*: Por el Congo
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[非锥白蚁属 *Afrosubulitermes*]({{ site.base_url }}/genus/afrosubulitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[非锥白蚁属 *Afrosubulitermes*]({{ site.base_url }}/genus/afrosubulitermes/) —— 单型属，仅含 1 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加纳、科特迪瓦、尼日利亚、乌干达
-- **英文记录 English record / Registro en inglés**：Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda
+- **分布记录**：刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加纳、科特迪瓦、尼日利亚、乌干达
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

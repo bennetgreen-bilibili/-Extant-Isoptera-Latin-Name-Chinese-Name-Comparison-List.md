@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/homallotermes-exiguus/
 title: "Homallotermes exiguus Krishna, 1972 微小平白蚁"
 latin: "Homallotermes exiguus"
 zh: "微小平白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **微小平白蚁**（*Homallotermes exiguus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）平白蚁属（*Homallotermes*）的一种。本种由 Krishna 于 1972 年描述，模式产地为 Malaysia: Sarawak。分布记录包括印度尼西亚、马来西亚。
 
-EN — **微小平白蚁** (*Homallotermes exiguus*) is a species of the genus *Homallotermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Krishna in 1972; the type locality is Malaysia: Sarawak. Distribution: Indonesia, Malaysia.
-
-ES — **微小平白蚁** (*Homallotermes exiguus*) es una especie del género *Homallotermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Krishna en 1972; la localidad tipo es Malaysia: Sarawak. Distribución: Indonesia, Malaysia.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Homallotermes*：属名由希腊文 homalos（平的、均匀的）与拉丁文 termes（白蚁）组合。
 
-EN — *Homallotermes*: From Greek homalos (even, level) + Latin termes.
-
-ES — *Homallotermes*: Del griego homalos (uniforme, llano) + latín termes.
-
 种加词 *exiguus*：拉丁文/希腊文词根「exigu」（微小）
-
-EN — epithet *exiguus*: From the descriptive term 'exigu' (tiny)
-
-ES — epithet *exiguus*: Del término descriptivo «exigu» (diminuto)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[平白蚁属 *Homallotermes*]({{ site.base_url }}/genus/homallotermes/) —— 共 4 种（4 species · 4 especies）
-- **本属模式种 Type species / Especie tipo**：*Homallotermes foraminifer*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[平白蚁属 *Homallotermes*]({{ site.base_url }}/genus/homallotermes/) —— 共 4 种
+- **本属模式种**：*Homallotermes foraminifer*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度尼西亚、马来西亚
-- **英文记录 English record / Registro en inglés**：Indonesia, Malaysia
+- **分布记录**：印度尼西亚、马来西亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

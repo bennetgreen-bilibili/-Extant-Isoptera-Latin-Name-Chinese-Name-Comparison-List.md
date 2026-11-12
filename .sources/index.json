@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 429,
+    "count": 432,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-12T20:40:29+08:00",
+    "updated": "2026-11-12T20:54:51+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -20606,6 +20606,124 @@
       "accessed": "2026-11-12T18:09:36+08:00",
       "canonical_key": "url:https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
       "id": "S0430"
+    },
+    {
+      "title": "Managing a custom domain for your GitHub Pages site",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site",
+      "publisher": "GitHub Docs",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Make sure you add your custom domain to your GitHub Pages site before configuring your custom domain with your DNS provider. Configuring your custom domain with your DNS provider without adding your custom domain to GitHub could result in someone else being able to host a site on one of your subdomains.",
+          "locator": "§ About custom domain configuration，¶2",
+          "note": "支撑：操作顺序必须是「先在 Settings → Pages 填域名，再去 Cloudflare 建记录」"
+        },
+        {
+          "quote": "If you are publishing from a custom GitHub Actions workflow, no `CNAME` file is created, and any existing `CNAME` file is ignored and is not required.",
+          "locator": "§ Configuring an apex domain，步骤 4",
+          "note": "支撑：本站走自定义 Actions 发布，不需要、也不应添加 CNAME 文件"
+        },
+        {
+          "quote": "185.199.108.153\n185.199.109.153\n185.199.110.153\n185.199.111.153",
+          "locator": "§ DNS records for your custom domain，表格「Apex domain / A」行",
+          "note": "支撑：apex 的 4 条 A 记录值"
+        },
+        {
+          "quote": "2606:50c0:8000::153\n2606:50c0:8001::153\n2606:50c0:8002::153\n2606:50c0:8003::153",
+          "locator": "§ DNS records for your custom domain，表格「Apex domain / AAAA」行",
+          "note": "支撑：apex 的 4 条 AAAA 记录值"
+        },
+        {
+          "quote": "Ensure that the `CNAME` record points directly to `<user>.github.io` or `<organization>.github.io` without including the repository name.",
+          "locator": "§ Configuring an apex domain and the `www` subdomain variant，¶3",
+          "note": "支撑：www 的 CNAME 指向 bennetgreen-bilibili.github.io，不带仓库名"
+        },
+        {
+          "quote": "Optionally, to enforce HTTPS encryption for your site, select **Enforce HTTPS**. It can take up to 24 hours before this option is available.",
+          "locator": "§ Configuring an apex domain，步骤 4",
+          "note": "支撑：Enforce HTTPS 可能要等 24 小时才出现"
+        }
+      ],
+      "used_in": [
+        "README.md",
+        "_reports/域名迁移操作手册-2026-11-12.md",
+        "robots.txt"
+      ],
+      "accessed": "2026-11-12T20:54:51+08:00",
+      "canonical_key": "url:https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site",
+      "id": "S0431"
+    },
+    {
+      "title": "Troubleshooting custom domains and GitHub Pages",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages",
+      "publisher": "GitHub Docs",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "If you are publishing from a custom GitHub Actions workflow, any CNAME file is ignored and is not required.",
+          "locator": "§ CNAME errors，¶1",
+          "note": "支撑：CNAME 文件在本站发布方式下无效，社区常见建议对本站不适用"
+        },
+        {
+          "quote": "It can take up to an hour for your site to become available over HTTPS after you configure your custom domain. After you update existing DNS settings, you may need to remove and re-add your custom domain to your site's repository to trigger the process of enabling HTTPS.",
+          "locator": "§ HTTPS errors，¶2",
+          "note": "支撑：证书签发失败时的处置办法（Remove 再 Save 重启签发）"
+        },
+        {
+          "quote": "If you're using Certification Authority Authorization (CAA) records, at least one CAA record must exist with the value `letsencrypt.org` for your site to be accessible over HTTPS.",
+          "locator": "§ HTTPS errors，¶3",
+          "note": "支撑：若 Cloudflare 建了 CAA 记录，必须放行 letsencrypt.org"
+        }
+      ],
+      "used_in": [
+        "README.md",
+        "_reports/域名迁移操作手册-2026-11-12.md",
+        "robots.txt"
+      ],
+      "accessed": "2026-11-12T20:54:51+08:00",
+      "canonical_key": "url:https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages",
+      "id": "S0432"
+    },
+    {
+      "title": "Securing your GitHub Pages site with HTTPS",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https",
+      "publisher": "GitHub Docs",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Any additional `A`, `AAAA`, `ALIAS`, `ANAME` records with the `@` host, or `CNAME` records pointing to your `www` subdomain or other custom subdomain that you would like to use with GitHub Pages may prevent the HTTPS certificate from generating.",
+          "locator": "§ Verifying the DNS configuration，¶2",
+          "note": "支撑：apex 上不能有多余记录（Cloudflare 建站时可能自动生成），否则证书签不出来"
+        },
+        {
+          "quote": "If the process has not completed several minutes after you clicked **Save**, try clicking **Remove** next to your custom domain name. Retype the domain name and click **Save** again. This will cancel and restart the provisioning process.",
+          "locator": "§ Troubleshooting certificate provisioning (\"Certificate not yet created\" error)，¶2",
+          "note": "支撑：域名已正确解析但证书迟迟不出时的重试操作"
+        },
+        {
+          "quote": "the entire domain name of your GitHub Pages site must be less than 64 characters long for a certificate to be successfully created.",
+          "locator": "§ About HTTPS and GitHub Pages，Note",
+          "note": "支撑：termite-extant-isoptera.org 共 28 字符，满足证书长度要求"
+        }
+      ],
+      "used_in": [
+        "_reports/域名迁移操作手册-2026-11-12.md"
+      ],
+      "accessed": "2026-11-12T20:54:51+08:00",
+      "canonical_key": "url:https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https",
+      "id": "S0433"
     }
   ]
 }

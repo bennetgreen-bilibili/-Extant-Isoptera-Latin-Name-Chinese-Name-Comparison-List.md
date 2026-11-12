@@ -88,7 +88,7 @@ ROOT = Path(__file__).resolve().parents[2]
 SPECIES_DIR = ROOT / "_species"
 OUT = ROOT / "_data" / "species_photos.json"
 
-PROJECT_URL = ("https://bennetgreen-bilibili.github.io/"
+PROJECT_URL = ("https://termite-extant-isoptera.org/"
                "-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md")
 USER_AGENT = ("IsopteraChecklistBot/1.0 (+%s; species photo gallery collector; "
               "contact: open an issue on the repository)" % PROJECT_URL)

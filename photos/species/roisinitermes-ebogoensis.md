@@ -3,11 +3,11 @@ layout: photos
 title: "Roisinitermes ebogoensis 埃博戈罗伊辛白蚁 全部图片（5 张）"
 description: "埃博戈罗伊辛白蚁（Roisinitermes ebogoensis）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 5 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: kalotermitidae
 last_modified_at: 2026-10-30
-permalink: /species/roisinitermes-ebogoensis/photos/
+permalink: "/species/roisinitermes-ebogoensis/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "roisinitermes-ebogoensis"

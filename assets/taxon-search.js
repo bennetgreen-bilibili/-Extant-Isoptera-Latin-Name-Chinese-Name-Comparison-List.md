@@ -24,16 +24,51 @@
     if (a) scope[a] = 1;
   }
   var INDEX = box.getAttribute('data-index') || '/search-index.json';
-  var SEARCH_PAGE = box.getAttribute('data-search-page') || '/search/';
+  /* 三语分页：页面语言与本语言的站内前缀。搜索结果要跳到**同语言**的中转页/物种页，
+     否则英文页上点一条结果会掉回中文页（LP = '' / '/en' / '/es'）。 */
+  var LANG = box.getAttribute('data-lang') || document.documentElement.lang || 'zh-CN';
+  var LP = box.getAttribute('data-lang-prefix') || '';
+  var SEARCH_PAGE = box.getAttribute('data-search-page') || (LP + '/search/');
   var BASE = INDEX.replace(/\/search-index\.json$/, '');
   var LIMIT = 40;
 
+  /* 界面文案：只在本页语言那一份里取，缺配置时回落中文（生成器应总是写好 data-lang）。 */
+  var STR = {
+    'zh-CN': {
+      dz: '分布', t: '模式产地', sl: '异名产地', de: '分布（英）',
+      empty: '本范围内没有匹配的分类单元 · 可试试中文名、拉丁学名，或分布国 / 地区（如 澳大利亚、云南、Brazil） · ',
+      allSearch: '在全站全文搜索中查找', zero: '0 个匹配',
+      full: '显示前 %n 个匹配（名字 / 分布 / 模式产地），输入更精确的词可缩小范围',
+      count: '%n 个匹配（名字 / 分布 / 模式产地）',
+      ranks: { '种': '种', '亚种': '亚种', '属': '属', '科': '科', '亚科': '亚科' }
+    },
+    en: {
+      dz: 'Distribution', t: 'Type locality', sl: 'Synonym localities', de: 'Distribution (EN)',
+      empty: 'No taxon on this page matches · try a Latin name, a Chinese name, or a country / region (e.g. Australia, Yunnan, Brazil) · ',
+      allSearch: 'Search the whole site', zero: '0 matches',
+      full: 'Showing the first %n matches (name / distribution / type locality); use a more specific term to narrow down',
+      count: '%n matches (name / distribution / type locality)',
+      ranks: { '种': 'species', '亚种': 'subspecies', '属': 'genus', '科': 'family', '亚科': 'subfamily' }
+    },
+    es: {
+      dz: 'Distribución', t: 'Localidad tipo', sl: 'Localidades de sinónimos', de: 'Distribución (EN)',
+      empty: 'Ningún taxón de esta página coincide · pruebe un nombre latino, un nombre chino o un país / región (p. ej. Australia, Yunnan, Brasil) · ',
+      allSearch: 'Buscar en todo el sitio', zero: '0 coincidencias',
+      full: 'Se muestran las primeras %n coincidencias (nombre / distribución / localidad tipo); use un término más preciso para acotar',
+      count: '%n coincidencias (nombre / distribución / localidad tipo)',
+      ranks: { '种': 'especie', '亚种': 'subespecie', '属': 'género', '科': 'familia', '亚科': 'subfamilia' }
+    }
+  };
+  var S = STR[LANG] || STR['zh-CN'];
+  function fmt(s, n){ return s.replace(/%n/g, String(n)); }
+  function rankLabel(r){ return S.ranks[r] || r; }
+
   /* 产地类字段：用于匹配与片段展示；顺序即同等命中时的展示优先级 */
   var CONTEXT_FIELDS = [
-    { key: 'dz', label: '分布' },
-    { key: 't',  label: '模式产地' },
-    { key: 'sl', label: '异名产地' },
-    { key: 'de', label: '分布（英）' }
+    { key: 'dz', label: S.dz },
+    { key: 't',  label: S.t },
+    { key: 'sl', label: S.sl },
+    { key: 'de', label: S.de }
   ];
 
   var data = null, loading = false, pending = null;
@@ -52,11 +87,11 @@
   }
 
   function href(e){
-    if ((e.r === '种' || e.r === '亚种') && e.p) return BASE + '/species/' + encodeURIComponent(e.p) + '/';
-    if (e.r === '属') return BASE + '/genus/' + encodeURIComponent(e.h) + '/';
-    if (e.r === '亚科') return BASE + '/subfamily/' + encodeURIComponent(e.h) + '/';
-    if (e.r === '科') return BASE + '/family/' + encodeURIComponent(e.h) + '/';
-    return BASE + '/list/#' + encodeURIComponent(e.h);
+    if ((e.r === '种' || e.r === '亚种') && e.p) return BASE + LP + '/species/' + encodeURIComponent(e.p) + '/';
+    if (e.r === '属') return BASE + LP + '/genus/' + encodeURIComponent(e.h) + '/';
+    if (e.r === '亚科') return BASE + LP + '/subfamily/' + encodeURIComponent(e.h) + '/';
+    if (e.r === '科') return BASE + LP + '/family/' + encodeURIComponent(e.h) + '/';
+    return BASE + LP + '/list/#' + encodeURIComponent(e.h);
   }
 
   function show(open){
@@ -145,17 +180,16 @@
 
   function render(list, raw, tokens){
     if (!list.length){
-      results.innerHTML = '<li class="taxon-search-empty">本范围内没有匹配的分类单元 · 可试试中文名、拉丁学名，'
-        + '或分布国 / 地区（如 澳大利亚、云南、Brazil） · '
-        + '<a href="' + esc(SEARCH_PAGE + '?q=' + encodeURIComponent(raw)) + '">在全站全文搜索中查找</a></li>';
-      if (status) status.textContent = '0 个匹配';
+      results.innerHTML = '<li class="taxon-search-empty">' + esc(S.empty)
+        + '<a href="' + esc(SEARCH_PAGE + '?q=' + encodeURIComponent(raw)) + '">' + esc(S.allSearch) + '</a></li>';
+      if (status) status.textContent = S.zero;
       show(true);
       return;
     }
     var html = '';
     for (var i = 0; i < list.length; i++){
       var item = list[i], e = item.e;
-      html += '<li><a href="' + esc(href(e)) + '"><span class="rank">' + esc(e.r) + '</span>'
+      html += '<li><a href="' + esc(href(e)) + '"><span class="rank">' + esc(rankLabel(e.r)) + '</span>'
         + highlight(e.z, tokens) + ' <span class="latin">' + highlight(e.l, tokens) + '</span>'
         + (e.f ? ' <span class="fam">· ' + esc(e.f) + '</span>' : '') + '</a>';
       if (item.ctx){
@@ -166,8 +200,8 @@
     }
     results.innerHTML = html;
     if (status) status.textContent = list.length >= LIMIT
-      ? '显示前 ' + LIMIT + ' 个匹配（名字 / 分布 / 模式产地），输入更精确的词可缩小范围'
-      : list.length + ' 个匹配（名字 / 分布 / 模式产地）';
+      ? fmt(S.full, LIMIT)
+      : fmt(S.count, list.length);
     show(true);
   }
 

@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/krishnacapritermes-maitii/
 title: "Krishnacapritermes maitii Chhotani, 1997 迈蒂克里希纳扭白蚁"
 latin: "Krishnacapritermes maitii"
 zh: "迈蒂克里希纳扭白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **迈蒂克里希纳扭白蚁**（*Krishnacapritermes maitii*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）克里希纳扭白蚁属（*Krishnacapritermes*）的一种，也是本属的模式种。本种由 Chhotani 于 1997 年描述，模式产地为 India: Tamil Nadu: Pumbarai: Palni Hills。分布记录包括印度、西高止山。
 
-EN — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) is a species and the type species of the genus *Krishnacapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Chhotani in 1997; the type locality is India: Tamil Nadu: Pumbarai: Palni Hills. Distribution: India, Western Ghats.
-
-ES — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) es una especie, y la especie tipo del género *Krishnacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Tamil Nadu: Pumbarai: Palni Hills. Distribución: India, Western Ghats.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Krishnacapritermes*：属名以人名 Krishna（白蚁学家 K. Krishna）命名 + 拉丁文 caper（山羊）+ termes（白蚁）。
 
-EN — *Krishnacapritermes*: Named after the termite taxonomist K. Krishna + Latin caper (goat) + termes.
-
-ES — *Krishnacapritermes*: En honor del taxónomo de termitas K. Krishna + latín caper (cabra) + termes.
-
 种加词 *maitii*：以 P.K. Maiti（印度白蚁学家）命名
-
-EN — epithet *maitii*: Named after P.K. Maiti
-
-ES — epithet *maitii*: En honor de P. K. Maiti
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[克里希纳扭白蚁属 *Krishnacapritermes*]({{ site.base_url }}/genus/krishnacapritermes/) —— 共 4 种（4 species · 4 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[克里希纳扭白蚁属 *Krishnacapritermes*]({{ site.base_url }}/genus/krishnacapritermes/) —— 共 4 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、西高止山
-- **英文记录 English record / Registro en inglés**：India, Western Ghats
+- **分布记录**：印度、西高止山
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

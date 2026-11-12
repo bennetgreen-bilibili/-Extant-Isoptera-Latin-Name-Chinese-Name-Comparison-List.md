@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/kalotermes-monticola-monticola/
 title: "Kalotermes monticola monticola Sjöstedt, 1925 指名亚种"
 latin: "Kalotermes monticola monticola"
 zh: "指名亚种"
@@ -22,44 +25,26 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **指名亚种**（*Kalotermes monticola monticola*）是山栖木白蚁（*Kalotermes monticola*）的一个亚种，隶属木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）。本亚种由 Sjöstedt 于 1925 年描述，模式产地为 Algeria: Massif de l’Edough。本页暂无单列的分布记录，母种 *Kalotermes monticola* 的分布见下文「分布」一节。
 
-EN — **指名亚种** (*Kalotermes monticola monticola*) is a subspecies of *Kalotermes monticola*, in the family KALOTERMITIDAE, genus *Kalotermes*. The subspecies was described by Sjöstedt in 1925; the type locality is Algeria: Massif de l’Edough. No separate distribution record is listed on this page; see the parent species *Kalotermes monticola*.
-
-ES — **指名亚种** (*Kalotermes monticola monticola*) es una subespecie de *Kalotermes monticola*, en la familia KALOTERMITIDAE, género *Kalotermes*. La subespecie fue descrita por Sjöstedt en 1925; la localidad tipo es Algeria: Massif de l’Edough. No se incluye un registro de distribución separado en esta página; véase la especie parental *Kalotermes monticola*.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
 
-EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
-
-ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
-
 种加词 *monticola*：拉丁文/希腊文 monti（山）+ cola（栖），指山栖
-
-EN — epithet *monticola*: From monti (山) + cola (栖)
-
-ES — epithet *monticola*: De monti (monte) + cola (que habita)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/genus/kalotermes/) —— 共 21 种（21 species · 21 especies）
-- **种 Species / Especie**：[山栖木白蚁 *Kalotermes monticola*]({{ site.base_url }}/species/kalotermes-monticola/)
-- **亚种 Subspecies / Subespecie**：本页（*Kalotermes monticola monticola*）
+- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **属**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/genus/kalotermes/) —— 共 21 种
+- **种**：[山栖木白蚁 *Kalotermes monticola*]({{ site.base_url }}/species/kalotermes-monticola/)
+- **亚种**：本页（*Kalotermes monticola monticola*）
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
 本亚种暂未单列分布记录；母种 *Kalotermes monticola* 的分布为：阿尔及利亚、北非。
-
-<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Kalotermes monticola</i> is given in the English record of the parent species below.</p>
-
-<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Kalotermes monticola</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
-
-母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Algeria, North Africa。
 <!-- AUTO:END -->

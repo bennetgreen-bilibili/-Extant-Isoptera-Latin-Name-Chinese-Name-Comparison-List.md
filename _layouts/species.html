@@ -1,51 +1,62 @@
 ---
 layout: default
 ---
+{%- assign LP = '' -%}
+{%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}
+{%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
+{%- assign zh_url = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- assign is_zh = false -%}{%- if LP == '' -%}{%- assign is_zh = true -%}{%- endif -%}
 <article class="species-page">
-  <nav class="species-crumbs" aria-label="分类位置 · Taxonomic position · Posición taxonómica">
-    <a href="{{ site.base_url }}/list/">名录 <span class="fact-en" lang="en">List</span> <span class="fact-es" lang="es">Listado</span></a>
-    › <a href="{{ site.base_url }}/family/{{ page.family_id }}/">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/subfamily/{{ page.subfamily_id }}/">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a>
+  <nav class="species-crumbs" aria-label="{% if page.lang == 'en' %}Taxonomic position{% elsif page.lang == 'es' %}Posición taxonómica{% else %}分类位置{% endif %}">
+    <a href="{{ site.base_url }}{{ LP }}/list/">{% if page.lang == 'en' %}List{% elsif page.lang == 'es' %}Listado{% else %}名录{% endif %}</a>
+    › <a href="{{ site.base_url }}{{ LP }}/family/{{ page.family_id }}/">{% if is_zh %}{{ page.family_zh }}{% else %}{{ page.family_latin }}{% endif %}</a>{% if page.subfamily_id %} › <a href="{{ site.base_url }}{{ LP }}/subfamily/{{ page.subfamily_id }}/">{% if is_zh %}{{ page.subfamily_zh }}{% else %}{{ page.subfamily_latin }}{% endif %}</a>{% endif %} › <a href="{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/">{% if is_zh %}{{ page.genus_zh }} {% endif %}<i>{{ page.genus_latin }}</i></a>
   </nav>
 
-  <h1 class="species-title" data-pagefind-filter="rank:{{ page.rank }}" data-pagefind-meta="zh:{{ page.zh }}"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh">{{ page.zh }}</span></h1>
+  <h1 class="species-title" data-pagefind-filter="rank:{{ page.rank }}" data-pagefind-meta="zh:{{ page.zh }}"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh"{% if page.lang == 'en' or page.lang == 'es' %} lang="zh-CN"{% endif %}>{{ page.zh }}</span></h1>
 
-  <p class="species-meta">{% if page.rank == 'subspecies' %}亚种 <span class="fact-en" lang="en">Subspecies</span> <span class="fact-es" lang="es">Subespecie</span>{% else %}种 <span class="fact-en" lang="en">Species</span> <span class="fact-es" lang="es">Especie</span>{% endif %}{% if page.type %} · <span class="species-type-mark">* 模式种 <span class="fact-en" lang="en">Type species</span> <span class="fact-es" lang="es">Especie tipo</span></span>{% endif %}</p>
+  <p class="species-meta">{% if page.rank == 'subspecies' %}{% if page.lang == 'en' %}Subspecies{% elsif page.lang == 'es' %}Subespecie{% else %}亚种{% endif %}{% else %}{% if page.lang == 'en' %}Species{% elsif page.lang == 'es' %}Especie{% else %}种{% endif %}{% endif %}{% if page.type %} · <span class="species-type-mark">* {% if page.lang == 'en' %}Type species{% elsif page.lang == 'es' %}Especie tipo{% else %}模式种{% endif %}</span>{% endif %}</p>
 
   {% if page.rank == 'subspecies' %}
-  <p class="species-parent">隶属 <span class="fact-en" lang="en">Parent species</span> <span class="fact-es" lang="es">Especie parental</span>：<a href="{{ site.base_url }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i> {{ page.parent_zh }}</a></p>
+  <p class="species-parent">{% if page.lang == 'en' %}Parent species{% elsif page.lang == 'es' %}Especie parental{% else %}隶属{% endif %}：<a href="{{ site.base_url }}{{ LP }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i>{% if is_zh %} {{ page.parent_zh }}{% endif %}</a></p>
   {% endif %}
 
   <dl class="species-facts">
     {% if page.type_locality %}
     <div class="species-fact">
-      <dt>模式产地 <span class="fact-en" lang="en">Type locality</span> <span class="fact-es" lang="es">Localidad tipo</span></dt>
+      <dt>{% if page.lang == 'en' %}Type locality{% elsif page.lang == 'es' %}Localidad tipo{% else %}模式产地{% endif %}</dt>
       <dd>{{ page.type_locality }}</dd>
     </div>
     {% endif %}
 
     {% if page.distribution_zh or page.distribution_en %}
     <div class="species-fact">
-      <dt>分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span></dt>
-      <dd>
-        {% if page.distribution_zh %}<div class="fact-zh">{{ page.distribution_zh }}</div>{% endif %}
-        {% if page.distribution_en %}<div class="fact-en">{{ page.distribution_en }}</div>{% endif %}
-      </dd>
+      <dt>{% if page.lang == 'en' %}Distribution{% elsif page.lang == 'es' %}Distribución (según la fuente){% else %}分布{% endif %}</dt>
+      <dd>{% if is_zh %}{{ page.distribution_zh }}{% else %}{{ page.distribution_en }}{% endif %}</dd>
     </div>
     {% endif %}
 
   </dl>
 
   <p class="species-lang-nav">
-    <span class="species-lang-nav-label">名录 List · Listado</span>：
+    <span class="species-lang-nav-label">{% if page.lang == 'en' %}List{% elsif page.lang == 'es' %}Listado{% else %}名录{% endif %}：</span>
+    {% if page.lang == 'en' -%}
+    <a href="{{ site.base_url }}/en/genus/{{ page.genus_id }}/" hreflang="en" lang="en">English (genus page)</a> ·
+    <a href="{{ site.base_url }}/species/{{ page.slug }}/" hreflang="zh-CN" lang="zh-CN">中文</a> ·
+    <a href="{{ site.base_url }}/es/species/{{ page.slug }}/" hreflang="es" lang="es">Español</a>
+    {%- elsif page.lang == 'es' -%}
+    <a href="{{ site.base_url }}/es/genus/{{ page.genus_id }}/" hreflang="es" lang="es">Español (página del género)</a> ·
+    <a href="{{ site.base_url }}/species/{{ page.slug }}/" hreflang="zh-CN" lang="zh-CN">中文</a> ·
+    <a href="{{ site.base_url }}/en/species/{{ page.slug }}/" hreflang="en" lang="en">English</a>
+    {%- else -%}
     <a href="{{ site.base_url }}/genus/{{ page.genus_id }}/" hreflang="zh-CN" lang="zh-CN">中文（属页）</a> ·
-    <a href="{{ site.base_url }}/en/list/" hreflang="en" lang="en">English（index）</a> ·
-    <a href="{{ site.base_url }}/es/list/" hreflang="es" lang="es">Español（índice）</a>
+    <a href="{{ site.base_url }}/en/species/{{ page.slug }}/" hreflang="en" lang="en">English</a> ·
+    <a href="{{ site.base_url }}/es/species/{{ page.slug }}/" hreflang="es" lang="es">Español</a>
+    {%- endif %}
   </p>
 
   {{ content }}
 
-  {%- assign fauna = site.data.fauna_species[page.url] -%}
-  {%- if fauna %}{% include fauna-species.html fauna=fauna %}{% endif %}
+  {% include fauna-species.html %}
 
   {% include species-morphology.html %}
 
@@ -62,17 +73,17 @@ layout: default
   {%- if page.rank != 'subspecies' -%}{%- assign sibling_total = sibling_total | minus: 1 -%}{%- endif -%}
   {%- if sibling_total > 0 -%}
   <section class="species-siblings" aria-labelledby="siblings-title" data-pagefind-ignore>
-    <h2 id="siblings-title" class="siblings-title">同属其他种 <span class="fact-en" lang="en">Other species in {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} 种）</span> <span class="fact-es" lang="es">Otras especies de {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} especies）</span></h2>
+    <h2 id="siblings-title" class="siblings-title">{% if page.lang == 'en' %}Other species in <i>{{ page.genus_latin }}</i> ({{ sibling_total }} species){% elsif page.lang == 'es' %}Otras especies de <i>{{ page.genus_latin }}</i> ({{ sibling_total }} especies){% else %}同属其他种（{{ sibling_total }} 种）{% endif %}</h2>
     <ul class="sibling-list">
       {%- assign shown = 0 -%}
       {%- for sp in genus_siblings -%}
-        {%- if sp.url != page.url and shown < 40 -%}
-      <li><a href="{{ site.base_url }}{{ sp.url }}"><i class="sibling-latin">{{ sp.latin }}</i> <span class="sibling-zh">{{ sp.zh }}</span></a></li>
+        {%- if sp.url != zh_url and shown < 40 -%}
+      <li><a href="{{ site.base_url }}{{ LP }}{{ sp.url }}"><i class="sibling-latin">{{ sp.latin }}</i>{% if is_zh %} <span class="sibling-zh">{{ sp.zh }}</span>{% endif %}</a></li>
         {%- assign shown = shown | plus: 1 -%}
         {%- endif -%}
       {%- endfor -%}
     </ul>
-    <p class="sibling-more">{%- if sibling_total > shown -%}该属共 {{ sibling_total }} 种 <span class="fact-en" lang="en">{{ sibling_total }} species in this genus</span> <span class="fact-es" lang="es">{{ sibling_total }} especies en este género</span>，{%- endif -%}<a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">在 {{ page.genus_zh }} <i>{{ page.genus_latin }}</i> 属页面查看全部物种 <span class="fact-en" lang="en">see all species on the genus page</span> <span class="fact-es" lang="es">ver todas las especies en la página del género</span> →</a></p>
+    <p class="sibling-more">{%- if sibling_total > shown -%}{% if page.lang == 'en' %}{{ sibling_total }} species in this genus. {% elsif page.lang == 'es' %}{{ sibling_total }} especies en este género. {% else %}该属共 {{ sibling_total }} 种，{% endif %}{%- endif -%}<a href="{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/">{% if page.lang == 'en' %}See all species on the genus page{% elsif page.lang == 'es' %}Ver todas las especies en la página del género{% else %}在 {{ page.genus_zh }} <i>{{ page.genus_latin }}</i> 属页面查看全部物种{% endif %} →</a></p>
   </section>
   {%- endif -%}
   {%- endif -%}
@@ -82,44 +93,46 @@ layout: default
     复制按钮由 assets/site.js 的 setupCitations() 绑定（.cite-block > pre.cite-text + button.cite-copy）。
     注意：BibTeX 中紧邻 Liquid 输出标记的花括号一律写成 HTML 实体，避免 Jekyll 解析错误。
   {%- endcomment -%}
-  {%- assign cite_slug = page.url | remove: '/species/' | remove: '/' | replace: '-', '_' -%}
+  {%- assign cite_slug = page.slug | replace: '-', '_' -%}
   {%- assign cite_zh_rank = '' -%}
-  {%- if page.rank == 'subspecies' -%}{%- assign cite_zh_rank = '（亚种 subspecies）' -%}{%- endif -%}
+  {%- if is_zh and page.rank == 'subspecies' -%}{%- assign cite_zh_rank = '（亚种 subspecies）' -%}{%- endif -%}
+  {%- assign cite_rank_suffix = '' -%}
+  {%- if page.rank == 'subspecies' -%}{%- assign cite_rank_suffix = ' (subspecies)' -%}{%- endif -%}
   <details class="species-cite">
-    <summary class="species-cite-summary">引用本种 <span class="fact-en" lang="en">Cite this species</span> <span class="fact-es" lang="es">Citar esta especie</span></summary>
+    <summary class="species-cite-summary">{% if page.lang == 'en' %}Cite this species{% elsif page.lang == 'es' %}Citar esta especie{% else %}引用本种{% endif %}</summary>
     <div class="species-cite-body">
-      <p class="species-cite-lead">以下引用字符串按本页字段自动生成，引用时请保留 DOI 与版本号；点击「复制」即可粘贴到论文、报告或文献管理器。<span class="fact-en" lang="en">Citation strings are generated from this page — please keep the DOI and the version number.</span> <span class="fact-es" lang="es">Las citas se generan a partir de esta página; conserve el DOI y el número de versión.</span></p>
+      <p class="species-cite-lead">{% if page.lang == 'en' %}Citation strings are generated from the fields of this page; please keep the DOI and the version number when citing.{% elsif page.lang == 'es' %}Las citas se generan a partir de los campos de esta página; conserve el DOI y el número de versión al citar.{% else %}以下引用字符串按本页字段自动生成，引用时请保留 DOI 与版本号；点击「复制」即可粘贴到论文、报告或文献管理器。{% endif %}</p>
 
       <h3 class="species-cite-h">GB/T 7714</h3>
       <div class="cite-block">
-        <pre class="cite-text">班奈特格林. 现存等翅下目（白蚁）拉丁学名—中文正名对照名录：<i>{{ page.latin }}</i> {{ page.zh }}{{ cite_zh_rank }}[EB/OL]. {{ site.dataset.version }} 版. {{ site.base_url }}{{ page.url }}. DOI: {{ site.dataset.doi }}.</pre>
-        <button class="cite-copy" type="button" data-label="复制 GB/T 7714 · Copy GB/T 7714 · Copiar GB/T 7714" data-copied-label="已复制 · Copied · Copiado">复制 GB/T 7714 <span class="fact-en" lang="en">Copy GB/T 7714</span> <span class="fact-es" lang="es">Copiar GB/T 7714</span></button>
+        <pre class="cite-text">{% if page.lang == 'en' %}班奈特格林. Extant Isoptera (termites): a checklist of Latin and Chinese names: <i>{{ page.latin }}</i> {{ page.zh }}{{ cite_rank_suffix }}[EB/OL]. Version {{ site.dataset.version }}. {{ site.base_url }}{{ page.url }}. DOI: {{ site.dataset.doi }}.{% elsif page.lang == 'es' %}班奈特格林. Lista de nombres latinos y chinos de los Isoptera (termitas) actuales: <i>{{ page.latin }}</i> {{ page.zh }}{{ cite_rank_suffix }}[EB/OL]. Versión {{ site.dataset.version }}. {{ site.base_url }}{{ page.url }}. DOI: {{ site.dataset.doi }}.{% else %}班奈特格林. 现存等翅下目（白蚁）拉丁学名—中文正名对照名录：<i>{{ page.latin }}</i> {{ page.zh }}{{ cite_zh_rank }}[EB/OL]. {{ site.dataset.version }} 版. {{ site.base_url }}{{ page.url }}. DOI: {{ site.dataset.doi }}.{% endif %}</pre>
+        <button class="cite-copy" type="button" data-label="{% if page.lang == 'en' %}Copy GB/T 7714{% elsif page.lang == 'es' %}Copiar GB/T 7714{% else %}复制 GB/T 7714{% endif %}" data-copied-label="{% if page.lang == 'en' %}Copied{% elsif page.lang == 'es' %}Copiado{% else %}已复制{% endif %}">{% if page.lang == 'en' %}Copy GB/T 7714{% elsif page.lang == 'es' %}Copiar GB/T 7714{% else %}复制 GB/T 7714{% endif %}</button>
       </div>
 
       <h3 class="species-cite-h">BibTeX</h3>
       <div class="cite-block">
         <pre class="cite-text">@misc{isoptera_{{ cite_slug }}_2026,
   author       = {班奈特格林},
-  title        = &#123;{{ page.latin }}{{ cite_zh_rank }}：{{ page.zh }} · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录&#125;,
+  title        = &#123;{{ page.latin }}{% if page.lang == 'en' %}{{ cite_rank_suffix }}: a checklist of extant Isoptera (termites){% elsif page.lang == 'es' %}{{ cite_rank_suffix }}: lista de Isoptera (termitas) actuales{% else %}{{ cite_zh_rank }}：{{ page.zh }} · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录{% endif %}&#125;,
   year         = {2026},
   version      = &#123;{{ site.dataset.version }}&#125;,
   howpublished = &#123;{{ site.base_url }}{{ page.url }}&#125;,
-  note         = &#123;{{ page.family_latin }} {{ page.family_zh }}；{{ site.dataset.version }} 版；DOI: {{ site.dataset.doi }}&#125;,
+  note         = &#123;{% if page.lang == 'en' %}{{ page.family_latin }}; version {{ site.dataset.version }}; DOI: {{ site.dataset.doi }}{% elsif page.lang == 'es' %}{{ page.family_latin }}; versión {{ site.dataset.version }}; DOI: {{ site.dataset.doi }}{% else %}{{ page.family_latin }} {{ page.family_zh }}；{{ site.dataset.version }} 版；DOI: {{ site.dataset.doi }}{% endif %}&#125;,
   doi          = &#123;{{ site.dataset.doi }}&#125;
 }</pre>
-        <button class="cite-copy" type="button" data-label="复制 BibTeX · Copy BibTeX · Copiar BibTeX" data-copied-label="已复制 · Copied · Copiado">复制 BibTeX <span class="fact-en" lang="en">Copy BibTeX</span> <span class="fact-es" lang="es">Copiar BibTeX</span></button>
+        <button class="cite-copy" type="button" data-label="{% if page.lang == 'en' %}Copy BibTeX{% elsif page.lang == 'es' %}Copiar BibTeX{% else %}复制 BibTeX{% endif %}" data-copied-label="{% if page.lang == 'en' %}Copied{% elsif page.lang == 'es' %}Copiado{% else %}已复制{% endif %}">{% if page.lang == 'en' %}Copy BibTeX{% elsif page.lang == 'es' %}Copiar BibTeX{% else %}复制 BibTeX{% endif %}</button>
       </div>
 
       <h3 class="species-cite-h">RIS</h3>
       <div class="cite-block">
         <pre class="cite-text">TY  - ELEC
-TI  - {{ page.latin }}{{ cite_zh_rank }}：{{ page.zh }} · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+TI  - {% if page.lang == 'en' %}{{ page.latin }}{{ cite_rank_suffix }}: a checklist of extant Isoptera (termites){% elsif page.lang == 'es' %}{{ page.latin }}{{ cite_rank_suffix }}: lista de Isoptera (termitas) actuales{% else %}{{ page.latin }}{{ cite_zh_rank }}：{{ page.zh }} · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录{% endif %}
 AU  - 班奈特格林
 PY  - 2026
 UR  - {{ site.base_url }}{{ page.url }}
 DO  - {{ site.dataset.doi }}
 ER  - </pre>
-        <button class="cite-copy" type="button" data-label="复制 RIS · Copy RIS · Copiar RIS" data-copied-label="已复制 · Copied · Copiado">复制 RIS <span class="fact-en" lang="en">Copy RIS</span> <span class="fact-es" lang="es">Copiar RIS</span></button>
+        <button class="cite-copy" type="button" data-label="{% if page.lang == 'en' %}Copy RIS{% elsif page.lang == 'es' %}Copiar RIS{% else %}复制 RIS{% endif %}" data-copied-label="{% if page.lang == 'en' %}Copied{% elsif page.lang == 'es' %}Copiado{% else %}已复制{% endif %}">{% if page.lang == 'en' %}Copy RIS{% elsif page.lang == 'es' %}Copiar RIS{% else %}复制 RIS{% endif %}</button>
       </div>
     </div>
   </details>

@@ -11,7 +11,7 @@ permalink: /en/list/sections/
 
 # Family and subfamily accounts (English)
 
-<p class="list-note">The English text of the family and subfamily accounts, including the illustrations, is collected here. Chinese versions of the same accounts sit on the family and subfamily pages; for the species lists see those pages, and for the index see <a href="{{ site.base_url }}/en/list/">the taxonomic index</a>.</p>
+<p class="list-note">The English text of the family and subfamily accounts, including the illustrations, is collected here. The same texts also appear on each family and subfamily page of the English edition; for the species lists see those pages, and for the index see <a href="{{ site.base_url }}/en/list/">the taxonomic index</a>.</p>
 
 <ul class="taxon-list">
 <li><a href="#mastotermitidae"><i>MASTOTERMITIDAE</i> 澳白蚁科</a></li>

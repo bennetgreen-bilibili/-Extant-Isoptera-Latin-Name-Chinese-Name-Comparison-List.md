@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/protermes-hirticeps/
 title: "Protermes hirticeps Sjöstedt, 1924 毛头前白蚁"
 latin: "Protermes hirticeps"
 zh: "毛头前白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **毛头前白蚁**（*Protermes hirticeps*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括东非、乌干达、刚果、刚果民主共和国、尼日利亚。
 
-EN — **毛头前白蚁** (*Protermes hirticeps*) is a species of the genus *Protermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1924; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria.
-
-ES — **毛头前白蚁** (*Protermes hirticeps*) es una especie del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Protermes*：属名由希腊文 pro-（前、早）与拉丁文 termes（白蚁）组合。
 
-EN — *Protermes*: From Greek pro- (before) + Latin termes.
-
-ES — *Protermes*: Del griego pro- (antes) + latín termes.
-
 种加词 *hirticeps*：拉丁文 hirtus（多毛）+ -ceps（头），毛头
-
-EN — epithet *hirticeps*: Latin hirtus (hairy) + -ceps (head), hairy-headed
-
-ES — epithet *hirticeps*: Del latín hirtus (hirsuto) + -ceps (cabeza), de cabeza hirsuta
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[前白蚁属 *Protermes*]({{ site.base_url }}/genus/protermes/) —— 共 5 种（5 species · 5 especies）
-- **本属模式种 Type species / Especie tipo**：*Protermes prorepens*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[前白蚁属 *Protermes*]({{ site.base_url }}/genus/protermes/) —— 共 5 种
+- **本属模式种**：*Protermes prorepens*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东非、乌干达、刚果、刚果民主共和国、尼日利亚
-- **英文记录 English record / Registro en inglés**：East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria
+- **分布记录**：东非、乌干达、刚果、刚果民主共和国、尼日利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

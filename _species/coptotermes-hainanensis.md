@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/coptotermes-hainanensis/
 title: "Coptotermes hainanensis Li & Tsai, 1985 海南乳白蚁"
 latin: "Coptotermes hainanensis"
 zh: "海南乳白蚁"
@@ -23,54 +26,35 @@ synonym_localities: "China: Zhejiang Province: Jiaxing County"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **海南乳白蚁**（*Coptotermes hainanensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Li & Tsai 于 1985 年描述，模式产地为 China: Guangdong Province: Hainan Island: Danxiaan County。分布记录包括中国海南。本站记录本种有 1 个次异名。
 
-EN — **海南乳白蚁** (*Coptotermes hainanensis*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Li & Tsai in 1985; the type locality is China: Guangdong Province: Hainan Island: Danxiaan County. Distribution: China (Hainan). This site records 1 junior synonym for the species.
-
-ES — **海南乳白蚁** (*Coptotermes hainanensis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Li & Tsai en 1985; la localidad tipo es China: Guangdong Province: Hainan Island: Danxiaan County. Distribución: China (Hainan). Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
-EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
-
-ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
-
 种加词 *hainanensis*：地名：海南（中国）
-
-EN — epithet *hainanensis*: After Hainan (China)
-
-ES — epithet *hainanensis*: Por Hainan (China)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
-- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
-- **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
+- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
+- **本属模式种**：*Coptotermes gestroi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国海南
-- **英文记录 English record / Registro en inglés**：China (Hainan)
+- **分布记录**：中国海南
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes (Polycrinitermes) jiaxingensis* Xia & He, 1986: 165-166, 179 —— 模式产地：China: Zhejiang Province: Jiaxing County
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes (Polycrinitermes) jiaxingensis* 出现，本站统一归入 *Coptotermes hainanensis*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Coptotermes (Polycrinitermes) jiaxingensis*; this site treats it under *Coptotermes hainanensis*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Coptotermes (Polycrinitermes) jiaxingensis*; este sitio lo reúne bajo *Coptotermes hainanensis*.
 <!-- AUTO:END -->

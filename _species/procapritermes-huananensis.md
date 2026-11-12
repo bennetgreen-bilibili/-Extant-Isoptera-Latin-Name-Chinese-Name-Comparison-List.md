@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/procapritermes-huananensis/
 title: "Procapritermes huananensis Yu & Ping, 1966 华南前扭白蚁"
 latin: "Procapritermes huananensis"
 zh: "华南前扭白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **华南前扭白蚁**（*Procapritermes huananensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）前扭白蚁属（*Procapritermes*）的一种。本种由 Yu & Ping 于 1966 年描述，模式产地为 China: Hainan Island: Tan-hsien。分布记录包括广西、云南（盈江870 m）、海南（琼中黎母岭350 m、五指山700 m）、中国。
 
-EN — **华南前扭白蚁** (*Procapritermes huananensis*) is a species of the genus *Procapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Yu & Ping in 1966; the type locality is China: Hainan Island: Tan-hsien. Distribution: Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China.
-
-ES — **华南前扭白蚁** (*Procapritermes huananensis*) es una especie del género *Procapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Yu & Ping en 1966; la localidad tipo es China: Hainan Island: Tan-hsien. Distribución: Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Procapritermes*：属名由希腊文 pro-（前）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
-EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
-
-ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
-
 种加词 *huananensis*：以地名 华南（中国） 命名
-
-EN — epithet *huananensis*: Named after the locality Huanan
-
-ES — epithet *huananensis*: Por la localidad de Huanan
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[前扭白蚁属 *Procapritermes*]({{ site.base_url }}/genus/procapritermes/) —— 共 13 种（13 species · 13 especies）
-- **本属模式种 Type species / Especie tipo**：*Procapritermes setiger*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[前扭白蚁属 *Procapritermes*]({{ site.base_url }}/genus/procapritermes/) —— 共 13 种
+- **本属模式种**：*Procapritermes setiger*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：广西、云南（盈江870 m）、海南（琼中黎母岭350 m、五指山700 m）、中国
-- **英文记录 English record / Registro en inglés**：Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China
+- **分布记录**：广西、云南（盈江870 m）、海南（琼中黎母岭350 m、五指山700 m）、中国
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

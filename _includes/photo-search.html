@@ -3,15 +3,15 @@
   只筛当前页已经渲染出来的照片，不发任何请求：匹配目标是 _includes/photo-card.html
   写在 .gallery-card 上的 data-label（「拉丁 中文」）与 data-credit（摄影师 / 作者）。
   交互与筛选逻辑在 assets/photo-search.js；样式见 assets/gallery.css 的 .photo-search 段。
-  文案里的「N 张」由 assets/photo-search.js 填入实际渲染出来的卡片数：科 / 亚科 /
-  属页只渲染每种前 6 张，页面 photo_count 是全部照片总数（可到 1918），不能直接用。
+  文案按 page.lang 单语输出（zh / en / es）。计数徽章已移除：photo-search.js 里的计数文本
+  是写死的三语串（N 张 / N photos / N fotos），单语页上会混语；计数改由照片列表本身表达。
 {%- endcomment -%}
 <div class="photo-search" role="search" data-pagefind-ignore data-search-page="{{ site.base_url }}/search/">
-  <label class="photo-search-label" for="photo-search-input">在本页<span class="photo-search-count" id="photo-search-count" hidden></span>照片中检索：拉丁学名、中文名或摄影师 <span class="fact-en" lang="en">· search the photos on this page by scientific name, Chinese name or photographer</span> <span class="fact-es" lang="es">· busque entre las fotos de esta página por nombre científico, nombre chino o fotógrafo</span></label>
+  <label class="photo-search-label" for="photo-search-input">{% if page.lang == 'en' %}Search the photos on this page by scientific name, Chinese name or photographer{% elsif page.lang == 'es' %}Busque entre las fotos de esta página por nombre científico, nombre chino o fotógrafo{% else %}在本页照片中检索：拉丁学名、中文名或摄影师{% endif %}</label>
   <div class="photo-search-row">
-    <input type="search" class="photo-search-input" id="photo-search-input" placeholder="如 Amitermes / 白蚁 / Lindqvist · e.g. Amitermes / termite / Lindqvist · p. ej. Amitermes / termita / Lindqvist" autocomplete="off" spellcheck="false" enterkeyhint="search">
-    <button type="button" class="photo-search-clear" id="photo-search-clear" hidden>清空 <span class="fact-en" lang="en">Clear</span> <span class="fact-es" lang="es">Limpiar</span></button>
+    <input type="search" class="photo-search-input" id="photo-search-input" placeholder="{% if page.lang == 'en' %}e.g. Amitermes / termite / Lindqvist{% elsif page.lang == 'es' %}p. ej. Amitermes / termita / Lindqvist{% else %}如 Amitermes / 白蚁 / Lindqvist{% endif %}" autocomplete="off" spellcheck="false" enterkeyhint="search">
+    <button type="button" class="photo-search-clear" id="photo-search-clear" hidden>{% if page.lang == 'en' %}Clear{% elsif page.lang == 'es' %}Limpiar{% else %}清空{% endif %}</button>
   </div>
   <p class="photo-search-status" id="photo-search-status" role="status" aria-live="polite" hidden></p>
-  <p class="photo-search-empty" id="photo-search-empty" hidden>没有匹配的照片 · <a href="{{ site.base_url }}/search/">在全站全文搜索里试试</a> <span class="fact-en" lang="en">no matching photos · try the full-text search</span> <span class="fact-es" lang="es">no hay fotos coincidentes · pruebe la búsqueda de texto completo</span></p>
+  <p class="photo-search-empty" id="photo-search-empty" hidden>{% if page.lang == 'en' %}No matching photos.{% elsif page.lang == 'es' %}No hay fotos coincidentes.{% else %}没有匹配的照片 · <a href="{{ site.base_url }}/search/">在全站全文搜索里试试</a>{% endif %}</p>
 </div>

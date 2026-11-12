@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/mapinguaritermes-peruanus/
 title: "Mapinguaritermes peruanus Holmgren, 1906 秘鲁红懒白蚁"
 latin: "Mapinguaritermes peruanus"
 zh: "秘鲁红懒白蚁"
@@ -24,44 +27,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **秘鲁红懒白蚁**（*Mapinguaritermes peruanus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）红懒白蚁属（*Mapinguaritermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括秘鲁、新热带界、厄瓜多尔。
 
-EN — **秘鲁红懒白蚁** (*Mapinguaritermes peruanus*) is a species and the type species of the genus *Mapinguaritermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribution: Peru, Neotropics, Ecuador.
-
-ES — **秘鲁红懒白蚁** (*Mapinguaritermes peruanus*) es una especie, y la especie tipo del género *Mapinguaritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribución: Peru, Neotropics, Ecuador.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Mapinguaritermes*：属名由 Mapinguari（亚马逊神话中的巨兽）与 termes（白蚁）组合。
 
-EN — *Mapinguaritermes*: From Mapinguari (a mythical Amazonian beast) + termes.
-
-ES — *Mapinguaritermes*: Del Mapinguarí (una bestia mítica amazónica) + termes.
-
 种加词 *peruanus*：以地名 秘鲁 命名
-
-EN — epithet *peruanus*: Named after the locality Peru
-
-ES — epithet *peruanus*: Por la localidad del Perú
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[红懒白蚁属 *Mapinguaritermes*]({{ site.base_url }}/genus/mapinguaritermes/) —— 共 3 种（3 species · 3 especies）
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[红懒白蚁属 *Mapinguaritermes*]({{ site.base_url }}/genus/mapinguaritermes/) —— 共 3 种
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：秘鲁、新热带界、厄瓜多尔
-- **英文记录 English record / Registro en inglés**：Peru, Neotropics, Ecuador
+- **分布记录**：秘鲁、新热带界、厄瓜多尔
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

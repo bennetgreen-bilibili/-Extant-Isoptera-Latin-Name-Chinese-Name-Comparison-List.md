@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/pericapritermes-nigerianus/
 title: "Pericapritermes nigerianus Silvestri, 1914 尼日利亚近扭白蚁"
 latin: "Pericapritermes nigerianus"
 zh: "尼日利亚近扭白蚁"
@@ -26,55 +29,36 @@ synonym_localities: "Cameroon: Mungo River; Ghana: Aburi"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **尼日利亚近扭白蚁**（*Pericapritermes nigerianus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Nigeria: Ibadan; Lagos; Olokemeji。分布记录包括科特迪瓦、喀麦隆、冈比亚、加纳、尼日利亚。本站记录本种有 1 个次异名。
 
-EN — **尼日利亚近扭白蚁** (*Pericapritermes nigerianus*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Silvestri in 1914; the type locality is Nigeria: Ibadan; Lagos; Olokemeji. Distribution: Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria. This site records 1 junior synonym for the species.
-
-ES — **尼日利亚近扭白蚁** (*Pericapritermes nigerianus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Nigeria: Ibadan; Lagos; Olokemeji. Distribución: Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria. Este sitio registra 1 sinónimo junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
-EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
-
-ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
-
 种加词 *nigerianus*：以尼日利亚（Nigeria）命名
-
-EN — epithet *nigerianus*: Named after Nigeria
-
-ES — epithet *nigerianus*: Por Nigeria
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种（40 species · 40 especies）
-- **本属模式种 Type species / Especie tipo**：*Pericapritermes urgens*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
+- **属**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种
+- **本属模式种**：*Pericapritermes urgens*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：科特迪瓦、喀麦隆、冈比亚、加纳、尼日利亚
-- **英文记录 English record / Registro en inglés**：Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria
+- **分布记录**：科特迪瓦、喀麦隆、冈比亚、加纳、尼日利亚
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Pericapritermes emersoni* Krishna, 1968: 294 —— 模式产地：Cameroon: Mungo River
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes emersoni* 出现，本站统一归入 *Pericapritermes nigerianus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Pericapritermes emersoni*; this site treats it under *Pericapritermes nigerianus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Pericapritermes emersoni*; este sitio lo reúne bajo *Pericapritermes nigerianus*.
 <!-- AUTO:END -->

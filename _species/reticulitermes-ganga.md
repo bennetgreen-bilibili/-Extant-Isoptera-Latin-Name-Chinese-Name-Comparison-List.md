@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/reticulitermes-ganga/
 title: "Reticulitermes ganga Bose, 1999 恒湖散白蚁"
 latin: "Reticulitermes ganga"
 zh: "恒湖散白蚁"
@@ -21,44 +24,27 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **恒湖散白蚁**（*Reticulitermes ganga*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Bose 于 1999 年描述，模式产地为 India: Arunachal Pradesh: Lower Subansiri District: Itanagar: Lake Ganga。分布记录包括印度。
 
-EN — **恒湖散白蚁** (*Reticulitermes ganga*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Bose in 1999; the type locality is India: Arunachal Pradesh: Lower Subansiri District: Itanagar: Lake Ganga. Distribution: India.
-
-ES — **恒湖散白蚁** (*Reticulitermes ganga*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Bose en 1999; la localidad tipo es India: Arunachal Pradesh: Lower Subansiri District: Itanagar: Lake Ganga. Distribución: India.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
 
-EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
-
-ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
-
 种加词 *ganga*：以地名 Ganga（恒河）命名
-
-EN — epithet *ganga*: Named after the Ganges (Ganga)
-
-ES — epithet *ganga*: En honor del Ganges (Ganga)
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
-- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种（140 species · 140 especies）
-- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
+- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **属**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种
+- **本属模式种**：*Reticulitermes flavipes*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度
-- **英文记录 English record / Registro en inglés**：India
+- **分布记录**：印度
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

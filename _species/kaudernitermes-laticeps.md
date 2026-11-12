@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/kaudernitermes-laticeps/
 title: "Kaudernitermes laticeps Wasmann, 1897 宽头考登白蚁"
 latin: "Kaudernitermes laticeps"
 zh: "宽头考登白蚁"
@@ -26,56 +29,37 @@ synonym_localities: "Madagascar: Andrangoloaka; Nosy Be; Madagascar: ?"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **宽头考登白蚁**（*Kaudernitermes laticeps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Nosy Be。分布记录包括马达加斯加、马约特。本站记录本种有 2 个次异名。
 
-EN — **宽头考登白蚁** (*Kaudernitermes laticeps*) is a species of the genus *Kaudernitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Wasmann in 1897; the type locality is Madagascar: Nosy Be. Distribution: Madagascar, Mayotte. This site records 2 junior synonyms for the species.
-
-ES — **宽头考登白蚁** (*Kaudernitermes laticeps*) es una especie del género *Kaudernitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Nosy Be. Distribución: Madagascar, Mayotte. Este sitio registra 2 sinónimos junior para la especie.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Kaudernitermes*：属名以人名 Kaudern 命名（瑞典探险家 W. Kaudern），词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Kaudernitermes*: Named after the explorer W. Kaudern; -termes from Latin termes.
-
-ES — *Kaudernitermes*: En honor del explorador W. Kaudern; -termes, del latín termes.
-
 种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
-
-EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
-
-ES — epithet *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[考登白蚁属 *Kaudernitermes*]({{ site.base_url }}/genus/kaudernitermes/) —— 共 4 种（4 species · 4 especies）
-- **本属模式种 Type species / Especie tipo**：*Kaudernitermes kaudernianus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[考登白蚁属 *Kaudernitermes*]({{ site.base_url }}/genus/kaudernitermes/) —— 共 4 种
+- **本属模式种**：*Kaudernitermes kaudernianus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：马达加斯加、马约特
-- **英文记录 English record / Registro en inglés**：Madagascar, Mayotte
+- **分布记录**：马达加斯加、马约特
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+## 次异名
 
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
-
-## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
-
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes canaliculatus* Wasmann, 1897: 168-169 —— 模式产地：Madagascar: Andrangoloaka
 2. *Eutermes mitis* Sjöstedt, 1902: 40 —— 模式产地：Nosy Be
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes canaliculatus*、*Eutermes mitis* 等）出现，本站统一归入 *Kaudernitermes laticeps*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes canaliculatus*、*Eutermes mitis*); this site treats them all under *Kaudernitermes laticeps*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes canaliculatus*、*Eutermes mitis*); este sitio los reúne todos bajo *Kaudernitermes laticeps*.
 <!-- AUTO:END -->

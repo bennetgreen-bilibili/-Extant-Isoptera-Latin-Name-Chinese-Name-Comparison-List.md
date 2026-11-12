@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/macrotermes-zhui/
 title: "Macrotermes zhui Krishna, 2013 朱氏大白蚁"
 latin: "Macrotermes zhui"
 zh: "朱氏大白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **朱氏大白蚁**（*Macrotermes zhui*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Krishna 于 2013 年描述，模式产地为 China: Guangxi Province: Nanning outskirts。分布记录包括中国广西。
 
-EN — **朱氏大白蚁** (*Macrotermes zhui*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Krishna in 2013; the type locality is China: Guangxi Province: Nanning outskirts. Distribution: China (Guangxi).
-
-ES — **朱氏大白蚁** (*Macrotermes zhui*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Krishna en 2013; la localidad tipo es China: Guangxi Province: Nanning outskirts. Distribución: China (Guangxi).
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
 
-EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
-
-ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
-
 种加词 *zhui*：以中国白蚁分类学家朱世模（Zhu Shimao）命名。Macrotermes zhui 是 Krishna (2013) 为 Macrotermes latinotus Zhu & Luo, 1985（初级同名，被 Macrotermes gilvus latinotus Kemner, 1934 占用）建立的替代名。
-
-EN — epithet *zhui*: Named after the Chinese termite taxonomist Shimao Zhu. Macrotermes zhui is a replacement name (Krishna 2013) for Macrotermes latinotus Zhu & Luo, 1985, a junior primary homonym of Macrotermes gilvus latinotus Kemner, 1934.
-
-ES — epithet *zhui*: En honor de Shimao Zhu, taxónomo chino de termitas. Macrotermes zhui es un nombre de reemplazo (Krishna 2013) para Macrotermes latinotus Zhu & Luo, 1985, homónimo primario junior de Macrotermes gilvus latinotus Kemner, 1934.
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
-- **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种（57 species · 57 especies）
-- **本属模式种 Type species / Especie tipo**：*Macrotermes lilljeborgi*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
+- **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
+- **本属模式种**：*Macrotermes lilljeborgi*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国广西
-- **英文记录 English record / Registro en inglés**：China (Guangxi)
+- **分布记录**：中国广西
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

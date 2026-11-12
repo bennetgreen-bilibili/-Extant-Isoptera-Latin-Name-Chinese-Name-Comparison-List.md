@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/cornitermes-acignathus/
 title: "Cornitermes acignathus Silvestri, 1901 尖颚角象白蚁"
 latin: "Cornitermes acignathus"
 zh: "尖颚角象白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **尖颚角象白蚁**（*Cornitermes acignathus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Ecuador: Guayas: Guayaquil \[2.16667S 79.9W\]。分布记录包括哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔。
 
-EN — **尖颚角象白蚁** (*Cornitermes acignathus*) is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Silvestri in 1901; the type locality is Ecuador: Guayas: Guayaquil \[2.16667S 79.9W\]. Distribution: Costa Rica, Colombia, Panama, Ecuador.
-
-ES — **尖颚角象白蚁** (*Cornitermes acignathus*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Ecuador: Guayas: Guayaquil \[2.16667S 79.9W\]. Distribución: Costa Rica, Colombia, Panama, Ecuador.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
 
-EN — *Cornitermes*: From Latin cornu (horn) + termes.
-
-ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
-
 种加词 *acignathus*：拉丁文 acies（尖、刃）+ 希腊文 gnathos（颚），尖颚
-
-EN — epithet *acignathus*: Latin acies (point, edge) + Greek gnathos (jaw), sharp-jawed
-
-ES — epithet *acignathus*: Del latín acies (punta, filo) + griego gnathos (mandíbula), de mandíbulas afiladas
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种（14 species · 14 especies）
-- **本属模式种 Type species / Especie tipo**：*Cornitermes cumulans*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
+- **属**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种
+- **本属模式种**：*Cornitermes cumulans*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔
-- **英文记录 English record / Registro en inglés**：Costa Rica, Colombia, Panama, Ecuador
+- **分布记录**：哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -3,11 +3,11 @@ layout: photos
 title: "Syntermes spinosus 多刺聚白蚁 全部图片（12 张）"
 description: "多刺聚白蚁（Syntermes spinosus）在 iNaturalist 与 Wikimedia Commons 上的开放许可照片，共 12 张；每张标注作者、许可协议与原始页面，点击可放大浏览。"
 lang: zh-CN
-lang_only: true
+single_lang: true
 author: 班奈特格林
 family_id: termitidae
 last_modified_at: 2026-10-30
-permalink: /species/syntermes-spinosus/photos/
+permalink: "/species/syntermes-spinosus/photos/"
 sitemap: true
 photo_kind: species
 photo_id: "syntermes-spinosus"

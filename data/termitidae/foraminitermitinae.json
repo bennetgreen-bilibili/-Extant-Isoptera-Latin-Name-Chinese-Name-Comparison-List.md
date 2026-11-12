@@ -4,7 +4,7 @@
  "name": "孔白蚁亚科 Foraminitermitinae",
  "version": "2026.10.30",
  "isPartOf": {
-  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "@id": "https://termite-extant-isoptera.org/data/index.json",
   "family": {
    "id": "termitidae",
    "zh": "白蚁科",

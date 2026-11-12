@@ -1,5 +1,8 @@
 ---
 layout: species
+lang: zh-CN
+single_lang: true
+permalink: /species/fulleritermes-coatoni/
 title: "Fulleritermes coatoni Sands, 1965 科顿富勒白蚁"
 latin: "Fulleritermes coatoni"
 zh: "科顿富勒白蚁"
@@ -24,45 +27,28 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
+## 摘要
 
 **科顿富勒白蚁**（*Fulleritermes coatoni*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）富勒白蚁属（*Fulleritermes*）的一种。本种由 Sands 于 1965 年描述，模式产地为 South Africa: Transvaal: Sibasa。分布记录包括非洲南部、南非、津巴布韦。
 
-EN — **科顿富勒白蚁** (*Fulleritermes coatoni*) is a species of the genus *Fulleritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sands in 1965; the type locality is South Africa: Transvaal: Sibasa. Distribution: southern Africa, South Africa, Zimbabwe.
-
-ES — **科顿富勒白蚁** (*Fulleritermes coatoni*) es una especie del género *Fulleritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1965; la localidad tipo es South Africa: Transvaal: Sibasa. Distribución: southern Africa, South Africa, Zimbabwe.
-
-## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
+## 词源
 
 属名 *Fulleritermes*：属名以人名 Fuller 命名（南非昆虫学家 C. Fuller），词尾 -termes 为拉丁文 termes（白蚁）。
 
-EN — *Fulleritermes*: Named after the entomologist C. Fuller; -termes from Latin termes.
-
-ES — *Fulleritermes*: En honor del entomólogo C. Fuller; -termes, del latín termes.
-
 种加词 *coatoni*：以 W.G.H. Coaton（南非白蚁学家）命名
-
-EN — epithet *coatoni*: Named after W.G.H. Coaton
-
-ES — epithet *coatoni*: En honor de W.G.H. Coaton
 
 <!-- src:S0018 -->
 
-## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
+## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[富勒白蚁属 *Fulleritermes*]({{ site.base_url }}/genus/fulleritermes/) —— 共 4 种（4 species · 4 especies）
-- **本属模式种 Type species / Especie tipo**：*Fulleritermes contractus*
+- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
+- **属**：[富勒白蚁属 *Fulleritermes*]({{ site.base_url }}/genus/fulleritermes/) —— 共 4 种
+- **本属模式种**：*Fulleritermes contractus*
 
-## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
+## 分布
 
-- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部、南非、津巴布韦
-- **英文记录 English record / Registro en inglés**：southern Africa, South Africa, Zimbabwe
+- **分布记录**：非洲南部、南非、津巴布韦
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
-<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
-
-<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->
