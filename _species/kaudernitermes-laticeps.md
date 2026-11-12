@@ -40,9 +40,13 @@ ES — **宽头考登白蚁** (*Kaudernitermes laticeps*) es una especie del gé
 
 EN — *Kaudernitermes*: Named after the explorer W. Kaudern; -termes from Latin termes.
 
+ES — *Kaudernitermes*: En honor del explorador W. Kaudern; -termes, del latín termes.
+
 种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
 
 EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+ES — epithet *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 

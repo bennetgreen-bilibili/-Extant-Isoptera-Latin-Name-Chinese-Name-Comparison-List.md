@@ -40,9 +40,13 @@ ES — **龙格伦吉里印白蚁** (*Indotermes rongrensis*) es una especie del
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *rongrensis*：以地名 Rongrengiri（荣仁吉里，印度梅加拉亚邦加罗丘陵）命名
 
 EN — epithet *rongrensis*: Named after the locality Rongrengiri (Garo Hills, Meghalaya, India)
+
+ES — epithet *rongrensis*: Por la localidad de Rongrengiri (Garo Hills, Meghalaya, India)
 
 <!-- src:S0018 -->
 

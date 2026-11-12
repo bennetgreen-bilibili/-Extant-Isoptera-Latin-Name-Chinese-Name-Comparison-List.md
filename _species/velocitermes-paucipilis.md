@@ -38,9 +38,13 @@ ES — **少毛快白蚁** (*Velocitermes paucipilis*) es una especie del géner
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *paucipilis*：拉丁文/希腊文 paucip（少）+ ilis（相关），指少相关
 
 EN — epithet *paucipilis*: From paucip (少) + ilis (相关)
+
+ES — epithet *paucipilis*: De paucip (pocos) + ilis (relativo a)
 
 <!-- src:S0018 -->
 

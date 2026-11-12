@@ -35,9 +35,13 @@ ES — **奇异奇白蚁** (*Allotermes paradoxus*) es una especie, y la especie
 
 EN — *Allotermes*: From Greek allos (other, different) + Latin termes.
 
+ES — *Allotermes*: Del griego allos (otro, diferente) + latín termes.
+
 种加词 *paradoxus*：希腊文 paradoxos（奇异的、悖于常理）
 
 EN — epithet *paradoxus*: Greek paradoxos (paradoxical, strange)
+
+ES — epithet *paradoxus*: Del griego paradoxos (paradójico, extraño)
 
 <!-- src:S0018 -->
 

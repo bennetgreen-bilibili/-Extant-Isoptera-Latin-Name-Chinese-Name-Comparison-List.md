@@ -38,9 +38,13 @@ ES — **拉曼节白蚁** (*Noditermes lamanianus*) es una especie, y la especi
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *lamanianus*：以人名 Laman（-ianus 敬称）命名
 
 EN — epithet *lamanianus*: Named after Laman
+
+ES — epithet *lamanianus*: En honor de Laman
 
 <!-- src:S0018 -->
 

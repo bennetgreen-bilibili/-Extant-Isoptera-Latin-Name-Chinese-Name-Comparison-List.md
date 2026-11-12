@@ -38,9 +38,13 @@ ES — **班代拉腹爆白蚁** (*Ruptitermes bandeirai*) es una especie del g�
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *bandeirai*：以人名 Bandeira 命名
 
 EN — epithet *bandeirai*: Named after Bandeira
+
+ES — epithet *bandeirai*: En honor de Bandeira
 
 <!-- src:S0018 -->
 

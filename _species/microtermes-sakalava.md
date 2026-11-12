@@ -38,9 +38,13 @@ ES — **萨卡拉瓦小白蚁** (*Microtermes sakalava*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *sakalava*：萨卡拉瓦族（马达加斯加）
 
 EN — epithet *sakalava*: After the Sakalava people (Madagascar)
+
+ES — epithet *sakalava*: En honor del pueblo sakalava (Madagascar)
 
 <!-- src:S0018 -->
 

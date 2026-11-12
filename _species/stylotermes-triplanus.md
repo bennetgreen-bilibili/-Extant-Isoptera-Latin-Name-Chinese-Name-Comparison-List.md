@@ -35,9 +35,13 @@ ES — **三平杆白蚁** (*Stylotermes triplanus*) es una especie del género 
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *triplanus*：拉丁文 triplanus（三面的，tri=三＋planus=平面）
 
 EN — epithet *triplanus*: Latin triplanus (three-planed, tri- + planus)
+
+ES — epithet *triplanus*: Del latín triplanus (de tres planos, tri- + planus)
 
 <!-- src:S0018 -->
 

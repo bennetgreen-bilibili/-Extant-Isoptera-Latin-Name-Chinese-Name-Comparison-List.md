@@ -38,9 +38,13 @@ ES — **中等弓白蚁** (*Amitermes modicus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *modicus*：拉丁文 modicus（适度的、中等的）
 
 EN — epithet *modicus*: Latin modicus (moderate, of modest size)
+
+ES — epithet *modicus*: Del latín modicus (moderado, de tamaño modesto)
 
 <!-- src:S0018 -->
 

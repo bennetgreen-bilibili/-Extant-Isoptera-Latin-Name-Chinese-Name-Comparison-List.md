@@ -38,9 +38,13 @@ ES — **西藏象白蚁** (*Nasutitermes tibetanus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *tibetanus*：以地名 西藏 命名
 
 EN — epithet *tibetanus*: Named after the locality Tibet
+
+ES — epithet *tibetanus*: Por la localidad del Tíbet
 
 <!-- src:S0018 -->
 

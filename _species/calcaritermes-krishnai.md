@@ -35,9 +35,13 @@ ES — **克里希纳距白蚁** (*Calcaritermes krishnai*) es una especie del g
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
 
 EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+ES — epithet *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 <!-- src:S0018 -->
 

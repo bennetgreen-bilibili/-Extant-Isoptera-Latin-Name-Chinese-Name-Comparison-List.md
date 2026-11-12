@@ -35,9 +35,13 @@ ES — **婆罗树白蚁** (*Glyptotermes borneensis*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *borneensis*：地名：婆罗洲
 
 EN — epithet *borneensis*: After Borneo
+
+ES — epithet *borneensis*: Por Borneo
 
 <!-- src:S0018 -->
 

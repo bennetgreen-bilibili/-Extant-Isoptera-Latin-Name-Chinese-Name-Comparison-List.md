@@ -38,9 +38,13 @@ ES — **巴拉望怒白蚁** (*Lacessititermes palawanensis*) es una especie de
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *palawanensis*：以地名 巴拉望（菲律宾） 命名
 
 EN — epithet *palawanensis*: Named after the locality Palawan
+
+ES — epithet *palawanensis*: Por la localidad de Palawan
 
 <!-- src:S0018 -->
 

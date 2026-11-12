@@ -38,9 +38,13 @@ ES — **微黄微白蚁** (*Parvitermes flaveolus*) es una especie del género 
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *flaveolus*：拉丁文/希腊文词根「flav」（黄）
 
 EN — epithet *flaveolus*: From the descriptive term 'flav' (yellow)
+
+ES — epithet *flaveolus*: Del término descriptivo «flav» (amarillo)
 
 <!-- src:S0018 -->
 

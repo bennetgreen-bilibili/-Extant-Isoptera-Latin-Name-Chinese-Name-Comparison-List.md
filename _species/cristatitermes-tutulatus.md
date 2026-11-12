@@ -38,9 +38,13 @@ ES — **毛头脊突白蚁** (*Cristatitermes tutulatus*) es una especie del g�
 
 EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
 
+ES — *Cristatitermes*: Del latín cristatus (crestado) + termes.
+
 种加词 *tutulatus*：拉丁语 tutulatus（戴 tutulus 锥形帽/冠者），指兵蚁头部额突/冠
 
 EN — epithet *tutulatus*: From Latin tutulatus (wearing a tutulus, a conical cap), referring to the frontal tubercles of soldiers
+
+ES — epithet *tutulatus*: Del latín tutulatus (que lleva un tutulus, un gorro cónico), en referencia a los tubérculos frontales de los soldados
 
 <!-- src:S0018 -->
 

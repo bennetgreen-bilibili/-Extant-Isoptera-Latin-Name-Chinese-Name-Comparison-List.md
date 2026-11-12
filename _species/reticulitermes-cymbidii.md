@@ -35,9 +35,13 @@ ES — **幽兰散白蚁** (*Reticulitermes cymbidii*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *cymbidii*：以兰属（Cymbidium）命名
 
 EN — epithet *cymbidii*: After the orchid genus Cymbidium
+
+ES — epithet *cymbidii*: Por el género de orquídeas Cymbidium
 
 <!-- src:S0018 -->
 

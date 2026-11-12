@@ -38,9 +38,13 @@ ES — **阿拉伯三脉白蚁** (*Trinervitermes arabiae*) es una especie del g
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *arabiae*：以阿拉伯（Arabia）命名
 
 EN — epithet *arabiae*: Named after Arabia
+
+ES — epithet *arabiae*: Por Arabia
 
 <!-- src:S0018 -->
 

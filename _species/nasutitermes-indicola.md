@@ -40,9 +40,13 @@ ES — **印度象白蚁** (*Nasutitermes indicola*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *indicola*：拉丁文 India（印度）+ -cola（栖居者），栖于印度
 
 EN — epithet *indicola*: Latin India + -cola (dweller): dwelling in India
+
+ES — epithet *indicola*: Del latín India + -cola (habitante): que habita en la India
 
 <!-- src:S0018 -->
 

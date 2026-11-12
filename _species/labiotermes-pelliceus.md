@@ -38,9 +38,13 @@ ES — **毛头厚唇白蚁** (*Labiotermes pelliceus*) es una especie del géne
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *pelliceus*：拉丁文/希腊文 pellic（暗）+ eus（相关），指暗相关
 
 EN — epithet *pelliceus*: From pellic (暗) + eus (相关)
+
+ES — epithet *pelliceus*: De pellic (oscuro) + eus (relativo a)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **索马里小白蚁** (*Microtermes somaliensis*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *somaliensis*：以地名 索马里 命名
 
 EN — epithet *somaliensis*: Named after Somalia
+
+ES — epithet *somaliensis*: Por Somalia
 
 <!-- src:S0018 -->
 

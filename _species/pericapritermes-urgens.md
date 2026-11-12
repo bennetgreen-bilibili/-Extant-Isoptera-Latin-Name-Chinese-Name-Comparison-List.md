@@ -38,9 +38,13 @@ ES — **催促近扭白蚁** (*Pericapritermes urgens*) es una especie, y la es
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *urgens*：拉丁文 urgens（迫切的）
 
 EN — epithet *urgens*: Latin urgens (urgent)
+
+ES — epithet *urgens*: Del latín urgens (urgente)
 
 <!-- src:S0018 -->
 

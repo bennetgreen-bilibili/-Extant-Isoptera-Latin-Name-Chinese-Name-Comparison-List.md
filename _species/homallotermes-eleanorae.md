@@ -38,9 +38,13 @@ ES — **埃莉诺平白蚁** (*Homallotermes eleanorae*) es una especie del gé
 
 EN — *Homallotermes*: From Greek homalos (even, level) + Latin termes.
 
+ES — *Homallotermes*: Del griego homalos (uniforme, llano) + latín termes.
+
 种加词 *eleanorae*：以人名 Eleanor 命名
 
 EN — epithet *eleanorae*: Named after Eleanor
+
+ES — epithet *eleanorae*: En honor de Eleanor
 
 <!-- src:S0018 -->
 

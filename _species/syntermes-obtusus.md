@@ -40,9 +40,13 @@ ES — **迟钝聚白蚁** (*Syntermes obtusus*) es una especie del género *Syn
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *obtusus*：拉丁文 obtusus（钝）
 
 EN — epithet *obtusus*: Latin obtusus (blunt)
+
+ES — epithet *obtusus*: Del latín obtusus (romo)
 
 <!-- src:S0018 -->
 

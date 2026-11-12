@@ -38,9 +38,13 @@ ES — **白沙瓦土白蚁** (*Odontotermes peshawarensis*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *peshawarensis*：以地名 白沙瓦（巴基斯坦） 命名
 
 EN — epithet *peshawarensis*: Named after the locality Peshawar
+
+ES — epithet *peshawarensis*: Por la localidad de Peshawar
 
 <!-- src:S0018 -->
 

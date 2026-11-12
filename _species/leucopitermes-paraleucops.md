@@ -38,9 +38,13 @@ ES — **近白脸白脸白蚁** (*Leucopitermes paraleucops*) es una especie de
 
 EN — *Leucopitermes*: From Greek leukos (white) + Latin termes; further derivation uncertain.
 
+ES — *Leucopitermes*: Del griego leukos (blanco) + latín termes; la derivación ulterior es incierta.
+
 种加词 *paraleucops*：拉丁文/希腊文词根「para」（旁）
 
 EN — epithet *paraleucops*: From the descriptive term 'para' (beside)
+
+ES — epithet *paraleucops*: Del término descriptivo «para» (al lado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **中间土白蚁** (*Odontotermes interveniens*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *interveniens*：拉丁文 interveniens（介入的）
 
 EN — epithet *interveniens*: Latin interveniens (intervening)
+
+ES — epithet *interveniens*: Del latín interveniens (que interviene)
 
 <!-- src:S0018 -->
 

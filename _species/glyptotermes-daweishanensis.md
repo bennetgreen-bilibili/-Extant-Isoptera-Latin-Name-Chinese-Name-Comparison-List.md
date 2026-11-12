@@ -35,9 +35,13 @@ ES — **大围山树白蚁** (*Glyptotermes daweishanensis*) es una especie del
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *daweishanensis*：以地名 大围山（云南） 命名
 
 EN — epithet *daweishanensis*: Named after the locality Daweishan
+
+ES — epithet *daweishanensis*: Por la localidad de Daweishan
 
 <!-- src:S0018 -->
 

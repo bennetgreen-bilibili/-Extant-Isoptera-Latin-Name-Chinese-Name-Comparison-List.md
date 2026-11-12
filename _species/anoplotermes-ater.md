@@ -38,9 +38,13 @@ ES — **暗黑解甲白蚁** (*Anoplotermes ater*) es una especie del género *
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *ater*：拉丁文 ater（暗黑）
 
 EN — epithet *ater*: Latin ater (dark)
+
+ES — epithet *ater*: Del latín ater (oscuro)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **德拉敦漠白蚁** (*Eremotermes dehraduni*) es una especie del géne
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *dehraduni*：以地名 Dehradun（德拉敦）命名
 
 EN — epithet *dehraduni*: Named after the locality Dehradun
+
+ES — epithet *dehraduni*: Por la localidad de Dehradun
 
 <!-- src:S0018 -->
 

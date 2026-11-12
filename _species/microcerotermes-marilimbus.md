@@ -38,9 +38,13 @@ ES — **海角锯白蚁** (*Microcerotermes marilimbus*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *marilimbus*：拉丁文 mare（海）+ limbus（缘），海缘
 
 EN — epithet *marilimbus*: Latin mare (sea) + limbus (border)
+
+ES — epithet *marilimbus*: Del latín mare (mar) + limbus (borde)
 
 <!-- src:S0018 -->
 

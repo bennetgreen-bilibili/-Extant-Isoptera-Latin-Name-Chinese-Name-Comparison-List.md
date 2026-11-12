@@ -38,9 +38,13 @@ ES — **塞拉利昂净白蚁** (*Nitiditermes sierraleonicus*) es una especie 
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *sierraleonicus*：以地名 Sierra Leone（塞拉利昂）命名
 
 EN — epithet *sierraleonicus*: Named after Sierra Leone
+
+ES — epithet *sierraleonicus*: Por Sierra Leona
 
 <!-- src:S0018 -->
 

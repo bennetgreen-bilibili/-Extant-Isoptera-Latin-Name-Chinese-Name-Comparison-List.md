@@ -38,9 +38,13 @@ ES — **象牙海岸异颚白蚁** (*Allognathotermes ivorensis*) es una especi
 
 EN — *Allognathotermes*: From Greek allos (other) + gnathos (jaw) + Latin termes.
 
+ES — *Allognathotermes*: Del griego allos (otro) + gnathos (mandíbula) + latín termes.
+
 种加词 *ivorensis*：以科特迪瓦（象牙海岸，Ivory Coast）命名
 
 EN — epithet *ivorensis*: Named after Ivory Coast (Côte d'Ivoire)
+
+ES — epithet *ivorensis*: Por Costa de Marfil (Côte d’Ivoire)
 
 <!-- src:S0018 -->
 

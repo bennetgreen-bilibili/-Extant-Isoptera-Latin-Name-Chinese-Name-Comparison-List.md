@@ -38,9 +38,13 @@ ES — **罗坑大白蚁** (*Macrotermes luokengensis*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *luokengensis*：以广东罗坑（Luokeng）命名
 
 EN — epithet *luokengensis*: Named after Luokeng, Guangdong, China
+
+ES — epithet *luokengensis*: Por Luokeng, Guangdong, China
 
 <!-- src:S0018 -->
 

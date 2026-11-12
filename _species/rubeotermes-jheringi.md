@@ -38,9 +38,13 @@ ES — **耶林变红白蚁** (*Rubeotermes jheringi*) es la única especie vivi
 
 EN — *Rubeotermes*: From Latin rubeus (red) + termes.
 
+ES — *Rubeotermes*: Del latín rubeus (rojo) + termes.
+
 种加词 *jheringi*：以人名 jhering 命名（H. von Ihering（德国动物学家））
 
 EN — epithet *jheringi*: Named after H. von Ihering（德国动物学家）
+
+ES — epithet *jheringi*: En honor de H. von Ihering (zoólogo alemán)
 
 <!-- src:S0018 -->
 

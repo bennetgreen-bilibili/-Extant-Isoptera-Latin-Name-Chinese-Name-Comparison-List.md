@@ -35,9 +35,13 @@ ES — **茹泰尔新白蚁** (*Neotermes jouteli*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *jouteli*：以人名 Joutel 命名
 
 EN — epithet *jouteli*: Named after Joutel
+
+ES — epithet *jouteli*: En honor de Joutel
 
 <!-- src:S0018 -->
 

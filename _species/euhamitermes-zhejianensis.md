@@ -38,9 +38,13 @@ ES — **浙江亮白蚁** (*Euhamitermes zhejianensis*) es una especie del gén
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *zhejianensis*：以地名 浙江 命名
 
 EN — epithet *zhejianensis*: Named after the locality Zhejian
+
+ES — epithet *zhejianensis*: Por la localidad de Zhejian
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **巴拿马白蚁** (*Termes panamaensis*) es una especie del género *Te
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *panamaensis*：以地名 巴拿马 命名
 
 EN — epithet *panamaensis*: Named after the locality Panama
+
+ES — epithet *panamaensis*: Por la localidad de Panamá
 
 <!-- src:S0018 -->
 

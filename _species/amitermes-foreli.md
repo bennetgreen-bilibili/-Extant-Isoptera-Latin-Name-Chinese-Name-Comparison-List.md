@@ -40,9 +40,13 @@ ES — **福雷尔弓白蚁** (*Amitermes foreli*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *foreli*：以人名 forel 命名（A. Forel（瑞士蚁学家））
 
 EN — epithet *foreli*: Named after A. Forel（瑞士蚁学家）
+
+ES — epithet *foreli*: En honor de A. Forel (mirmecólogo suizo)
 
 <!-- src:S0018 -->
 

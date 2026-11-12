@@ -35,9 +35,13 @@ ES — **兴山散白蚁** (*Reticulitermes xingshanensis*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *xingshanensis*：以地名 兴山（湖北） 命名
 
 EN — epithet *xingshanensis*: Named after the locality Xingshan
+
+ES — epithet *xingshanensis*: Por la localidad de Xingshan
 
 <!-- src:S0018 -->
 

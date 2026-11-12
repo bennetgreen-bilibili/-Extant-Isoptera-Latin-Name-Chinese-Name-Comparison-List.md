@@ -38,9 +38,13 @@ ES — **可疑钩白蚁** (*Ancistrotermes dubius*) es una especie del género 
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *dubius*：拉丁文 dubius（可疑的、存疑的）
 
 EN — epithet *dubius*: Latin dubius (doubtful)
+
+ES — epithet *dubius*: Del latín dubius (dudoso)
 
 <!-- src:S0018 -->
 

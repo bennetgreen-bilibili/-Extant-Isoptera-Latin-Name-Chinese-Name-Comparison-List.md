@@ -38,9 +38,13 @@ ES — **灰头微白蚁** (*Parvitermes pallidiceps*) es una especie del géner
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *pallidiceps*：拉丁文/希腊文 pallidi（苍白）+ ceps（头），指苍白头
 
 EN — epithet *pallidiceps*: From pallidi (苍白) + ceps (头)
+
+ES — epithet *pallidiceps*: De pallidi (pálido) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

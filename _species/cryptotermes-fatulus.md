@@ -35,9 +35,13 @@ ES — **简单堆砂白蚁** (*Cryptotermes fatulus*) es una especie del géner
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *fatulus*：拉丁文 fatuus（愚钝的）+ 指小后缀，略愚钝
 
 EN — epithet *fatulus*: Latin fatuus (foolish) + diminutive
+
+ES — epithet *fatulus*: Del latín fatuus (necio) + diminutivo
 
 <!-- src:S0018 -->
 

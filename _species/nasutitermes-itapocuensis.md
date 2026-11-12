@@ -38,9 +38,13 @@ ES — **伊塔波库象白蚁** (*Nasutitermes itapocuensis*) es una especie de
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *itapocuensis*：以地名 伊塔波库（巴西） 命名
 
 EN — epithet *itapocuensis*: Named after the locality Itapocu
+
+ES — epithet *itapocuensis*: Por la localidad de Itapocu
 
 <!-- src:S0018 -->
 

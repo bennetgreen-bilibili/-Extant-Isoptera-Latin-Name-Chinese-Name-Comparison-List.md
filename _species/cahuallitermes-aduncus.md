@@ -38,9 +38,13 @@ ES — **具钩弃白蚁** (*Cahuallitermes aduncus*) es una especie del género
 
 EN — *Cahuallitermes*: From the place name Cahualli; -termes from Latin termes.
 
+ES — *Cahuallitermes*: Del topónimo Cahualli; -termes, del latín termes.
+
 种加词 *aduncus*：拉丁文 aduncus（钩状弯曲）
 
 EN — epithet *aduncus*: Latin aduncus (hooked)
+
+ES — epithet *aduncus*: Del latín aduncus (encorvado)
 
 <!-- src:S0018 -->
 

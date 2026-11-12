@@ -38,9 +38,13 @@ ES — **尤氏亮白蚁** (*Euhamitermes yui*) es una especie del género *Euha
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *yui*：以中国白蚁分类学家尤其伟（You Qiwei）命名。
 
 EN — epithet *yui*: Named after the Chinese termite taxonomist Qiwei You.
+
+ES — epithet *yui*: En honor de Qiwei You, taxónomo chino de termitas.
 
 <!-- src:S0018 -->
 

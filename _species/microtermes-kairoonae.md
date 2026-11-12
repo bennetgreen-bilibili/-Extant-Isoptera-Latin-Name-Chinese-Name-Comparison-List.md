@@ -38,9 +38,13 @@ ES — **凯罗娜小白蚁** (*Microtermes kairoonae*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *kairoonae*：以人名 Kairoona（女性人名）命名
 
 EN — epithet *kairoonae*: Named after Kairoona
+
+ES — epithet *kairoonae*: En honor de Kairoona
 
 <!-- src:S0018 -->
 

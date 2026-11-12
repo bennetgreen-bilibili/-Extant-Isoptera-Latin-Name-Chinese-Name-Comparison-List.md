@@ -35,9 +35,13 @@ ES — **腓尼基木白蚁** (*Kalotermes phoeniciae*) es una especie del géne
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *phoeniciae*：以腓尼基（Phoenicia）命名
 
 EN — epithet *phoeniciae*: Named after Phoenicia
+
+ES — epithet *phoeniciae*: Por Fenicia
 
 <!-- src:S0018 -->
 

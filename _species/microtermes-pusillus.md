@@ -38,9 +38,13 @@ ES — **极小小白蚁** (*Microtermes pusillus*) es una especie del género *
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *pusillus*：拉丁文/希腊文词根「pusill」（很小）
 
 EN — epithet *pusillus*: From the descriptive term 'pusill' (tiny)
+
+ES — epithet *pusillus*: Del término descriptivo «pusill» (diminuto)
 
 <!-- src:S0018 -->
 

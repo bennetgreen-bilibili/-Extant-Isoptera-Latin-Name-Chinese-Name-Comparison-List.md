@@ -38,9 +38,13 @@ ES — **德兰士瓦方白蚁** (*Cubitermes transvaalensis*) es una especie de
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *transvaalensis*：以地名 Transvaal（德兰士瓦，南非）命名
 
 EN — epithet *transvaalensis*: Named after Transvaal, South Africa
+
+ES — epithet *transvaalensis*: Por Transvaal, Sudáfrica
 
 <!-- src:S0018 -->
 

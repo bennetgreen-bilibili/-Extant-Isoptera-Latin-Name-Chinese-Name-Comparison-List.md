@@ -38,9 +38,13 @@ ES — **和平蔡斯白蚁** (*Chasitermes pax*) es una especie, y la especie t
 
 EN — *Chasitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Chasitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pax*：拉丁文 pax（和平）
 
 EN — epithet *pax*: Latin pax (peace)
+
+ES — epithet *pax*: Del latín pax (paz)
 
 <!-- src:S0018 -->
 

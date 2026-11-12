@@ -38,9 +38,13 @@ ES — **社会顺白蚁** (*Acholotermes socialis*) es una especie del género 
 
 EN — *Acholotermes*: From Greek a- (without) + cholē (bile) + Latin termes.
 
+ES — *Acholotermes*: Del griego a- (sin) + cholē (bilis) + latín termes.
+
 种加词 *socialis*：拉丁文 socialis（群居的、社会的）
 
 EN — epithet *socialis*: Latin socialis (social)
+
+ES — epithet *socialis*: Del latín socialis (social)
 
 <!-- src:S0018 -->
 

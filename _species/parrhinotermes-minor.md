@@ -35,9 +35,13 @@ ES — **小棒鼻白蚁** (*Parrhinotermes minor*) es una especie del género *
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *minor*：拉丁文 minor（较小）
 
 EN — epithet *minor*: Latin minor (smaller)
+
+ES — epithet *minor*: Del latín minor (menor)
 
 <!-- src:S0018 -->
 

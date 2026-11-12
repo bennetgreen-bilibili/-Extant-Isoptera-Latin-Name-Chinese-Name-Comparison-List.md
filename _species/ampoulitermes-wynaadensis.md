@@ -38,9 +38,13 @@ ES — **维纳德安瓿白蚁** (*Ampoulitermes wynaadensis*) es una especie, y
 
 EN — *Ampoulitermes*: From Latin ampulla (flask) + termes.
 
+ES — *Ampoulitermes*: Del latín ampulla (frasco) + termes.
+
 种加词 *wynaadensis*：以地名 瓦亚纳德（印度） 命名
 
 EN — epithet *wynaadensis*: Named after the locality Wynaad
+
+ES — epithet *wynaadensis*: Por la localidad de Wynaad
 
 <!-- src:S0018 -->
 

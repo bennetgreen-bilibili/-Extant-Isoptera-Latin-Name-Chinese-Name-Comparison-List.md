@@ -40,9 +40,13 @@ ES — **桑特斯基突扭白蚁** (*Dicuspiditermes santschii*) es una especie
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *santschii*：以人名 santsch 命名（F. Santschi（瑞士蚁学家））
 
 EN — epithet *santschii*: Named after F. Santschi（瑞士蚁学家）
+
+ES — epithet *santschii*: En honor de F. Santschi (mirmecólogo suizo)
 
 <!-- src:S0018 -->
 

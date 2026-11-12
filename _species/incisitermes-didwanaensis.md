@@ -35,9 +35,13 @@ ES — **迪德瓦纳楹白蚁** (*Incisitermes didwanaensis*) es una especie de
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *didwanaensis*：以地名 Didwana（印度拉贾斯坦邦）命名
 
 EN — epithet *didwanaensis*: Named after the locality Didwana
+
+ES — epithet *didwanaensis*: Por la localidad de Didwana
 
 <!-- src:S0018 -->
 

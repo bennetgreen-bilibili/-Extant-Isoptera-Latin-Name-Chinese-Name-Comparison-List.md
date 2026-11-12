@@ -40,9 +40,13 @@ ES — **小雅象白蚁** (*Nasutitermes elegantulus*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *elegantulus*：拉丁文 elegantulus（精致小巧的）
 
 EN — epithet *elegantulus*: Latin elegantulus (rather elegant)
+
+ES — epithet *elegantulus*: Del latín elegantulus (bastante elegante)
 
 <!-- src:S0018 -->
 

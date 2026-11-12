@@ -35,9 +35,13 @@ ES — **宜人新白蚁** (*Neotermes acceptus*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *acceptus*：拉丁文 acceptus（可接受的、受欢迎的）
 
 EN — epithet *acceptus*: Latin acceptus (acceptable, welcome)
+
+ES — epithet *acceptus*: Del latín acceptus (aceptable, bienvenido)
 
 <!-- src:S0018 -->
 

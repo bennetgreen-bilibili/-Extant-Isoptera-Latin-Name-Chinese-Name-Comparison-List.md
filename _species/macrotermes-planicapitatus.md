@@ -38,9 +38,13 @@ ES — **平头大白蚁** (*Macrotermes planicapitatus*) es una especie del gé
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *planicapitatus*：拉丁文/希腊文 planicapit（平）+ atus（具），指平具
 
 EN — epithet *planicapitatus*: From planicapit (平) + atus (具)
+
+ES — epithet *planicapitatus*: De planicapit (plano) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **澳大利亚堆砂白蚁** (*Cryptotermes austrinus*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *austrinus*：拉丁文 austrinus（南方的）
 
 EN — epithet *austrinus*: Latin austrinus (southern)
+
+ES — epithet *austrinus*: Del latín austrinus (meridional)
 
 <!-- src:S0018 -->
 

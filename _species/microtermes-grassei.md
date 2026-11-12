@@ -38,9 +38,13 @@ ES — **格拉塞小白蚁** (*Microtermes grassei*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *grassei*：以人名 Grassé 命名（法国动物学家 P.-P. Grassé）
 
 EN — epithet *grassei*: Named after the zoologist P.-P. Grassé
+
+ES — epithet *grassei*: En honor del zoólogo P.-P. Grassé
 
 <!-- src:S0018 -->
 

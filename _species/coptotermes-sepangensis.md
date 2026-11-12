@@ -35,9 +35,13 @@ ES — **赛庞乳白蚁** (*Coptotermes sepangensis*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *sepangensis*：以地名 Sepang（雪邦，马来西亚）命名
 
 EN — epithet *sepangensis*: Named after the locality Sepang (Malaysia)
+
+ES — epithet *sepangensis*: Por la localidad de Sepang (Malasia)
 
 <!-- src:S0018 -->
 

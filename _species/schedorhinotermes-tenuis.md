@@ -35,9 +35,13 @@ ES — **细瘦长鼻白蚁** (*Schedorhinotermes tenuis*) es una especie del g�
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *tenuis*：拉丁文 tenuis（细）
 
 EN — epithet *tenuis*: Latin tenuis (slender)
+
+ES — epithet *tenuis*: Latín tenuis (esbelto)
 
 <!-- src:S0018 -->
 

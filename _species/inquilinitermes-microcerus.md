@@ -38,9 +38,13 @@ ES — **小角客白蚁** (*Inquilinitermes microcerus*) es una especie del gé
 
 EN — *Inquilinitermes*: From Latin inquilinus (inquiline) + termes.
 
+ES — *Inquilinitermes*: Del latín inquilinus (inquilino) + termes.
+
 种加词 *microcerus*：拉丁文/希腊文 micro（小）+ cerus（角），指小角
 
 EN — epithet *microcerus*: From micro (小) + cerus (角)
+
+ES — epithet *microcerus*: De micro (pequeño) + cerus (cuerno)
 
 <!-- src:S0018 -->
 

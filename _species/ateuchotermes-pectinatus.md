@@ -38,9 +38,13 @@ ES — **梳痕无锐白蚁** (*Ateuchotermes pectinatus*) es una especie, y la 
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *pectinatus*：拉丁文/希腊文 pectin（栉）+ atus（具），指栉具
 
 EN — epithet *pectinatus*: From pectin (栉) + atus (具)
+
+ES — epithet *pectinatus*: De pectin (peine) + atus (que posee)
 
 <!-- src:S0018 -->
 

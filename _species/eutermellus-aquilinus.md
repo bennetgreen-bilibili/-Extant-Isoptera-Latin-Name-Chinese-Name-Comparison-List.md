@@ -38,9 +38,13 @@ ES — **鹰鼻小真白蚁** (*Eutermellus aquilinus*) es una especie del géne
 
 EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
 
+ES — *Eutermellus*: Del griego eu- (bien) + termes + diminutivo latino -ellus.
+
 种加词 *aquilinus*：拉丁文 aquilinus（鹰的、鹰状的）
 
 EN — epithet *aquilinus*: Latin aquilinus (eagle-like)
+
+ES — epithet *aquilinus*: Del latín aquilinus (semejante al águila)
 
 <!-- src:S0018 -->
 

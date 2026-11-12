@@ -38,9 +38,13 @@ ES — **公牛双戟白蚁** (*Dihoplotermes taurus*) es una especie del géner
 
 EN — *Dihoplotermes*: From Greek di- (two) + hoplon (weapon) + Latin termes.
 
+ES — *Dihoplotermes*: Del griego di- (dos) + hoplon (arma) + latín termes.
+
 种加词 *taurus*：拉丁文 taurus（公牛）
 
 EN — epithet *taurus*: Latin taurus (bull)
+
+ES — epithet *taurus*: Latín taurus (toro)
 
 <!-- src:S0018 -->
 

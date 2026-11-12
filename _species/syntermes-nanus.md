@@ -40,9 +40,13 @@ ES — **侏儒聚白蚁** (*Syntermes nanus*) es una especie del género *Synte
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *nanus*：希腊文 nanos（矮小）
 
 EN — epithet *nanus*: Greek nanos (dwarf)
+
+ES — epithet *nanus*: Del griego nanos (enano)
 
 <!-- src:S0018 -->
 

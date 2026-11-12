@@ -38,9 +38,13 @@ ES — **相似象白蚁** (*Nasutitermes similis*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *similis*：拉丁文 similis（相似的）
 
 EN — epithet *similis*: Latin similis (similar)
+
+ES — epithet *similis*: Del latín similis (similar)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **同艾后琥珀白蚁** (*Postelectrotermes tongyaii*) es una especie d
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *tongyaii*：以人名 Tongyai（泰国人名） 命名
 
 EN — epithet *tongyaii*: Named after Tongyai
+
+ES — epithet *tongyaii*: En honor de Tongyai (nombre tailandés)
 
 <!-- src:S0018 -->
 

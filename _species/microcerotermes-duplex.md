@@ -38,9 +38,13 @@ ES — **含糊锯白蚁** (*Microcerotermes duplex*) es una especie del género
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *duplex*：拉丁文 duplex（二重的、成对的）
 
 EN — epithet *duplex*: Latin duplex (double)
+
+ES — epithet *duplex*: Del latín duplex (doble)
 
 <!-- src:S0018 -->
 

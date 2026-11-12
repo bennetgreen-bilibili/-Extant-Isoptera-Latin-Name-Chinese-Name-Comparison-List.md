@@ -35,9 +35,13 @@ ES — **短翅长鼻白蚁** (*Schedorhinotermes brevialatus*) es una especie d
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *brevialatus*：拉丁文/希腊文 brevial（短）+ atus（具），指短具
 
 EN — epithet *brevialatus*: From brevial (短) + atus (具)
+
+ES — epithet *brevialatus*: De brevial (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

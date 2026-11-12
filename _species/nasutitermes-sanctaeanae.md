@@ -38,9 +38,13 @@ ES — **圣安娜象白蚁** (*Nasutitermes sanctaeanae*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *sanctaeanae*：以圣安娜（Santa Ana）命名
 
 EN — epithet *sanctaeanae*: Named after Santa Ana
+
+ES — epithet *sanctaeanae*: Por Santa Ana
 
 <!-- src:S0018 -->
 

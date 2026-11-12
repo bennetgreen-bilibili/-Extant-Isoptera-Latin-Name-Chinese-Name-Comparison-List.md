@@ -35,9 +35,13 @@ ES — **摩洛哥小草白蚁** (*Microhodotermes maroccanus*) es una especie d
 
 EN — *Microhodotermes*: From Greek mikros (small) + hodos (path) + Latin termes.
 
+ES — *Microhodotermes*: Del griego mikros (pequeño) + hodos (sendero) + latín termes.
+
 种加词 *maroccanus*：以地名 摩洛哥 命名
 
 EN — epithet *maroccanus*: Named after the locality Marocc
+
+ES — epithet *maroccanus*: Por la localidad de Marocc
 
 <!-- src:S0018 -->
 

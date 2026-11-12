@@ -35,9 +35,13 @@ ES — **马拉蒂新白蚁** (*Neotermes malatensis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *malatensis*：以菲律宾马尼拉马拉特（Malate）命名
 
 EN — epithet *malatensis*: Named after Malate, Manila, Philippines
+
+ES — epithet *malatensis*: Por Malate, Manila, Filipinas
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) es la única esp
 
 EN — *Triclavitermes*: From Latin tri- (three) + clava (club) + termes.
 
+ES — *Triclavitermes*: Del latín tri- (tres) + clava (maza) + termes.
+
 种加词 *catoleensis*：以地名 Catolé 命名
 
 EN — epithet *catoleensis*: Named after the locality Catolé
+
+ES — epithet *catoleensis*: Por la localidad de Catolé
 
 <!-- src:S0018 -->
 

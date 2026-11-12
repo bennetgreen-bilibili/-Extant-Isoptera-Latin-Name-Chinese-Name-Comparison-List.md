@@ -38,9 +38,13 @@ ES — **眼显瘤突白蚁** (*Ekphysotermes ocellaris*) es una especie del gé
 
 EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ekphysotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *ocellaris*：拉丁文/希腊文 ocell（具单眼）+ aris（相关），指具单眼相关
 
 EN — epithet *ocellaris*: From ocell (具单眼) + aris (相关)
+
+ES — epithet *ocellaris*: De ocell (que posee ocelos) + aris (relativo a)
 
 <!-- src:S0018 -->
 

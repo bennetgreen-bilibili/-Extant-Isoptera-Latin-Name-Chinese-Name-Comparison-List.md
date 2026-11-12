@@ -38,9 +38,13 @@ ES — **指名亚种** (*Reticulitermes lucifugus lucifugus*) es una subespecie
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *lucifugus*：拉丁文 lux（光）+ fugus（逃避），避光
 
 EN — epithet *lucifugus*: Latin lux (light) + fugus (fleeing), light-avoiding
+
+ES — epithet *lucifugus*: Del latín lux (luz) + fugus (que huye), que rehúye la luz
 
 <!-- src:S0018 -->
 

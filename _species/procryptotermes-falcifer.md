@@ -35,9 +35,13 @@ ES — **具镰前砂白蚁** (*Procryptotermes falcifer*) es una especie del g�
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *falcifer*：拉丁文 falx（镰）+ -fer（具），具镰
 
 EN — epithet *falcifer*: Latin falx (sickle) + -fer (bearing), sickle-bearing
+
+ES — epithet *falcifer*: Del latín falx (hoz) + -fer (portador), portador de hoz
 
 <!-- src:S0018 -->
 

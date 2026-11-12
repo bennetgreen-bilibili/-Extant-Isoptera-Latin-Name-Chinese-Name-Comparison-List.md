@@ -35,9 +35,13 @@ ES — **缙云树白蚁** (*Glyptotermes jinyunensis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *jinyunensis*：以地名 缙云（重庆） 命名
 
 EN — epithet *jinyunensis*: Named after the locality Jinyun
+
+ES — epithet *jinyunensis*: Por la localidad de Jinyun
 
 <!-- src:S0018 -->
 

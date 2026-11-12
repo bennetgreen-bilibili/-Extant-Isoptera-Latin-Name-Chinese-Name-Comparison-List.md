@@ -35,9 +35,13 @@ ES — **布拉克特堆砂白蚁** (*Cryptotermes bracketti*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *bracketti*：以人名 Brackett 命名
 
 EN — epithet *bracketti*: Named after Brackett
+
+ES — epithet *bracketti*: En honor de Brackett
 
 <!-- src:S0018 -->
 

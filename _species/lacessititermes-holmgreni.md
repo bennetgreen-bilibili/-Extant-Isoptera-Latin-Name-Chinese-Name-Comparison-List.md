@@ -38,9 +38,13 @@ ES — **霍姆格伦怒白蚁** (*Lacessititermes holmgreni*) es una especie de
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
 
 EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+ES — epithet *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 <!-- src:S0018 -->
 

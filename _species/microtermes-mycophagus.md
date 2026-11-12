@@ -38,9 +38,13 @@ ES — **食菌小白蚁** (*Microtermes mycophagus*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *mycophagus*：希腊文 mykēs（菌）+ phagos（食），食菌
 
 EN — epithet *mycophagus*: Greek mykēs (fungus) + phagos (eating), fungus-eating
+
+ES — epithet *mycophagus*: Del griego mykēs (hongo) + phagos (que come), que come hongos
 
 <!-- src:S0018 -->
 

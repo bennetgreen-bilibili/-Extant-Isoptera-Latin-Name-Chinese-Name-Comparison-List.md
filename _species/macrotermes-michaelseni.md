@@ -40,9 +40,13 @@ ES — **米夏埃尔森大白蚁** (*Macrotermes michaelseni*) es una especie d
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *michaelseni*：以人名 michaelsen 命名（W. Michaelsen（德国动物学家））
 
 EN — epithet *michaelseni*: Named after W. Michaelsen（德国动物学家）
+
+ES — epithet *michaelseni*: En honor de W. Michaelsen (zoólogo alemán)
 
 <!-- src:S0018 -->
 

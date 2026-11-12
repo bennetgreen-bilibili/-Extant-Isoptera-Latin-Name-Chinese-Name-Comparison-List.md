@@ -38,9 +38,13 @@ ES — **杜尔加近扭白蚁** (*Pericapritermes durga*) es una especie del g�
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *durga*：印度女神杜尔迦
 
 EN — epithet *durga*: Durga, Hindu goddess
+
+ES — epithet *durga*: Durga, diosa hindú
 
 <!-- src:S0018 -->
 

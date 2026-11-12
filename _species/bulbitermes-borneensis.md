@@ -38,9 +38,13 @@ ES — **婆罗瓢白蚁** (*Bulbitermes borneensis*) es una especie del género
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *borneensis*：地名：婆罗洲
 
 EN — epithet *borneensis*: After Borneo
+
+ES — epithet *borneensis*: Por Borneo
 
 <!-- src:S0018 -->
 

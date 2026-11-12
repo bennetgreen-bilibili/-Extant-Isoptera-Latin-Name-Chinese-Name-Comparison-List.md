@@ -38,9 +38,13 @@ ES — **中美洲微白蚁** (*Parvitermes mesoamericanus*) es una especie del 
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *mesoamericanus*：以地名 中美洲 命名
 
 EN — epithet *mesoamericanus*: Named after the locality Mesoameric
+
+ES — epithet *mesoamericanus*: Por la localidad de Mesoaméric
 
 <!-- src:S0018 -->
 

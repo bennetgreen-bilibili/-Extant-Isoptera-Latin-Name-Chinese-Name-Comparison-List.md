@@ -40,9 +40,13 @@ ES — **西部三脉白蚁** (*Trinervitermes occidentalis*) es una especie del
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *occidentalis*：拉丁文 occidentalis（西方的）
 
 EN — epithet *occidentalis*: Latin occidentalis (western)
+
+ES — epithet *occidentalis*: Del latín occidentalis (occidental)
 
 <!-- src:S0018 -->
 

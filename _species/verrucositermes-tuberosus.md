@@ -38,9 +38,13 @@ ES — **多疣疣白蚁** (*Verrucositermes tuberosus*) es una especie, y la es
 
 EN — *Verrucositermes*: From Latin verrucosus (warty) + termes.
 
+ES — *Verrucositermes*: Del latín verrucosus (verrugoso) + termes.
+
 种加词 *tuberosus*：拉丁文/希腊文 tuber（瘤）+ osus（多、充满），指瘤多、充满
 
 EN — epithet *tuberosus*: From tuber (瘤) + osus (多、充满)
+
+ES — epithet *tuberosus*: De tuber (tubérculo) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

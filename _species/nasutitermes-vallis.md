@@ -38,9 +38,13 @@ ES — **山谷象白蚁** (*Nasutitermes vallis*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *vallis*：拉丁文 vallis（山谷）
 
 EN — epithet *vallis*: Latin vallis (valley)
+
+ES — epithet *vallis*: Del latín vallis (valle)
 
 <!-- src:S0018 -->
 

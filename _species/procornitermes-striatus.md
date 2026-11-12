@@ -38,9 +38,13 @@ ES — **具沟前角白蚁** (*Procornitermes striatus*) es una especie del gé
 
 EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
 
+ES — *Procornitermes*: Del griego pro- (antes) + latín cornu (cuerno) + termes.
+
 种加词 *striatus*：拉丁文 striatus（具条纹）
 
 EN — epithet *striatus*: Latin striatus (striped)
+
+ES — epithet *striatus*: Latín striatus (estriado)
 
 <!-- src:S0018 -->
 

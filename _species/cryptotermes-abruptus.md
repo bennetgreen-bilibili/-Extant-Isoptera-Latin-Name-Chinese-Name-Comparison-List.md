@@ -35,9 +35,13 @@ ES — **陡额堆砂白蚁** (*Cryptotermes abruptus*) es una especie del géne
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *abruptus*：拉丁文 abruptus（突然的、陡断的）
 
 EN — epithet *abruptus*: Latin abruptus (abrupt)
+
+ES — epithet *abruptus*: Del latín abruptus (abrupto)
 
 <!-- src:S0018 -->
 

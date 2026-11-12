@@ -35,9 +35,13 @@ ES — **强颚长鼻白蚁** (*Schedorhinotermes fortignathus*) es una especie 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *fortignathus*：拉丁文 fortis（强壮）+ 希腊文 gnathos（颚），强颚
 
 EN — epithet *fortignathus*: Latin fortis (strong) + Greek gnathos (jaw), strong-jawed
+
+ES — epithet *fortignathus*: Del latín fortis (fuerte) + del griego gnathos (mandíbula), de mandíbulas fuertes
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **克里希纳腐殖白蚁** (*Humutermes krishnai*) es una especie, y la
 
 EN — *Humutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Humutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
 
 EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+ES — epithet *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 <!-- src:S0018 -->
 

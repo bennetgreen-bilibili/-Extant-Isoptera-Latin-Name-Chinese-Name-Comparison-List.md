@@ -37,9 +37,13 @@ ES — **方颈洞白蚁** (*Porotermes quadricollis*) es una especie, y la espe
 
 EN — *Porotermes*: From Greek poros (pore, passage) + Latin termes.
 
+ES — *Porotermes*: Del griego poros (poro, pasaje) + latín termes.
+
 种加词 *quadricollis*：拉丁文/希腊文 quadri（方）+ collis（颈），指方颈
 
 EN — epithet *quadricollis*: From quadri (方) + collis (颈)
+
+ES — epithet *quadricollis*: De quadri (cuadrado) + collis (cuello)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **圭亚那新扭白蚁** (*Neocapritermes guyana*) es una especie del g�
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *guyana*：地名：圭亚那
 
 EN — epithet *guyana*: After Guyana
+
+ES — epithet *guyana*: Por Guyana
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **珀格苏纳格角白蚁** (*Angulitermes bhagsunagensis*) es una espec
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *bhagsunagensis*：以地名 巴格苏纳格（印度） 命名
 
 EN — epithet *bhagsunagensis*: Named after the locality Bhagsunag
+
+ES — epithet *bhagsunagensis*: Por la localidad de Bhagsunag
 
 <!-- src:S0018 -->
 

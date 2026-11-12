@@ -38,9 +38,13 @@ ES — **海帕恩锯白蚁** (*Microcerotermes hypaenicus*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *hypaenicus*：词源未详；种加词或为南非当地语言土名，原始描述（Fuller 1925）不可得。
 
 EN — epithet *hypaenicus*: Etymology uncertain; perhaps a local South African vernacular name. The original description (Fuller 1925) is not accessible.
+
+ES — epithet *hypaenicus*: Etimología incierta; quizá un nombre vernáculo local sudafricano. No se ha podido consultar la descripción original (Fuller 1925).
 
 <!-- src:S0018 -->
 

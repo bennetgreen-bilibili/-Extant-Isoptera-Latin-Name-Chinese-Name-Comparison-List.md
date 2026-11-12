@@ -38,9 +38,13 @@ ES — **阿鲁纳亮白蚁** (*Euhamitermes aruna*) es una especie del género 
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *aruna*：以人名 Aruna 命名
 
 EN — epithet *aruna*: Named after Aruna
+
+ES — epithet *aruna*: En honor de Aruna
 
 <!-- src:S0018 -->
 

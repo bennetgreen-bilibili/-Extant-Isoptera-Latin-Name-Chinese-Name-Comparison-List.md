@@ -38,9 +38,13 @@ ES — **第一左转白蚁** (*Euscaiotermes primus*) es la única especie vivi
 
 EN — *Euscaiotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Euscaiotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *primus*：拉丁文 primus（第一）
 
 EN — epithet *primus*: Latin primus (first)
+
+ES — epithet *primus*: Del latín primus (primero)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **屏山新白蚁** (*Neotermes pingshanensis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *pingshanensis*：以地名 屏山（四川） 命名
 
 EN — epithet *pingshanensis*: Named after the locality Pingshan
+
+ES — epithet *pingshanensis*: Por la localidad de Pingshan
 
 <!-- src:S0018 -->
 

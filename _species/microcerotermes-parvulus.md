@@ -38,9 +38,13 @@ ES — **细小锯白蚁** (*Microcerotermes parvulus*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *parvulus*：拉丁文 parvulus（很小，指小词）
 
 EN — epithet *parvulus*: Latin parvulus (very small, diminutive)
+
+ES — epithet *parvulus*: Del latín parvulus (muy pequeño, diminuto)
 
 <!-- src:S0018 -->
 

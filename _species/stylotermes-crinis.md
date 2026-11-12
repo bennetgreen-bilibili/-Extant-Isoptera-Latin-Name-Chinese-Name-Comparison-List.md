@@ -35,9 +35,13 @@ ES — **多毛杆白蚁** (*Stylotermes crinis*) es una especie del género *St
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *crinis*：拉丁文 crinis（毛发）
 
 EN — epithet *crinis*: Latin crinis (hair)
+
+ES — epithet *crinis*: Del latín crinis (pelo)
 
 <!-- src:S0018 -->
 

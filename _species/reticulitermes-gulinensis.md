@@ -35,9 +35,13 @@ ES — **古蔺散白蚁** (*Reticulitermes gulinensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *gulinensis*：以地名 古蔺（四川） 命名
 
 EN — epithet *gulinensis*: Named after the locality Gulin
+
+ES — epithet *gulinensis*: Por la localidad de Gulin
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **毛鼻棱角白蚁** (*Angularitermes tiguassu*) es una especie del gé
 
 EN — *Angularitermes*: From Latin angularis (angular) + termes.
 
+ES — *Angularitermes*: Del latín angularis (angular) + termes.
+
 种加词 *tiguassu*：图皮语 -assu（大），含「大」义
 
 EN — epithet *tiguassu*: Tupi -assu (large)
+
+ES — epithet *tiguassu*: Tupí -assu (grande), con el sentido de «grande»
 
 <!-- src:S0018 -->
 

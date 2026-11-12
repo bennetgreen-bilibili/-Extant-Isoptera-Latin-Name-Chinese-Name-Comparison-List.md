@@ -38,9 +38,13 @@ ES — **茂物土白蚁** (*Odontotermes bogoriensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *bogoriensis*：以地名 茂物（印度尼西亚） 命名
 
 EN — epithet *bogoriensis*: Named after the locality Bogor
+
+ES — epithet *bogoriensis*: Por la localidad de Bogor
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **短鼻须白蚁** (*Hospitalitermes brevirostratus*) es una especie del
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *brevirostratus*：拉丁文/希腊文 brevirostr（短）+ atus（具），指短具
 
 EN — epithet *brevirostratus*: From brevirostr (短) + atus (具)
+
+ES — epithet *brevirostratus*: De brevirostr (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

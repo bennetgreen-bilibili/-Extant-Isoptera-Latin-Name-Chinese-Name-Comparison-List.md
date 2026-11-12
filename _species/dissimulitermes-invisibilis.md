@@ -38,9 +38,13 @@ ES — **隐形隐藏白蚁** (*Dissimulitermes invisibilis*) es la única espec
 
 EN — *Dissimulitermes*: From Latin dissimilis (dissimilar) + termes.
 
+ES — *Dissimulitermes*: Del latín dissimilis (disímil) + termes.
+
 种加词 *invisibilis*：拉丁文 invisibilis（不可见的）
 
 EN — epithet *invisibilis*: Latin invisibilis (invisible)
+
+ES — epithet *invisibilis*: Del latín invisibilis (invisible)
 
 <!-- src:S0018 -->
 

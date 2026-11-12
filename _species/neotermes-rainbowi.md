@@ -35,9 +35,13 @@ ES — **雷恩鲍新白蚁** (*Neotermes rainbowi*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *rainbowi*：以人名 Rainbow（W. J. Rainbow，澳大利亚昆虫学家/蜘蛛学家）命名
 
 EN — epithet *rainbowi*: Named after W. J. Rainbow (Australian entomologist/arachnologist)
+
+ES — epithet *rainbowi*: En honor de W. J. Rainbow (entomólogo/aracnólogo australiano)
 
 <!-- src:S0018 -->
 

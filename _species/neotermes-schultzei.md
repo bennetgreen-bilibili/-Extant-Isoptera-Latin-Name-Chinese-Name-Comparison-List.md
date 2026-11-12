@@ -35,9 +35,13 @@ ES — **舒尔茨新白蚁** (*Neotermes schultzei*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *schultzei*：以 L. Schultze（德国动物学家）命名
 
 EN — epithet *schultzei*: Named after L. Schultze
+
+ES — epithet *schultzei*: En honor de L. Schultze
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **瓦隆土白蚁** (*Odontotermes wallonensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *wallonensis*：以地名 瓦隆（比利时） 命名
 
 EN — epithet *wallonensis*: Named after the locality Wallon
+
+ES — epithet *wallonensis*: Por la localidad de Wallon
 
 <!-- src:S0018 -->
 

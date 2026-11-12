@@ -38,9 +38,13 @@ ES — **近邻弓白蚁** (*Amitermes vicinus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *vicinus*：拉丁文 vicinus（邻近的）
 
 EN — epithet *vicinus*: Latin vicinus (neighbouring)
+
+ES — epithet *vicinus*: Del latín vicinus (vecino)
 
 <!-- src:S0018 -->
 

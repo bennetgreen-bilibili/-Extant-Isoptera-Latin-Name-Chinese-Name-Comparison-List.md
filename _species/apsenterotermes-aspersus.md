@@ -38,9 +38,13 @@ ES — **散乱后肠白蚁** (*Apsenterotermes aspersus*) es una especie del g�
 
 EN — *Apsenterotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apsenterotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *aspersus*：拉丁文/希腊文词根「asper」（粗糙）
 
 EN — epithet *aspersus*: From the descriptive term 'asper' (rough)
+
+ES — epithet *aspersus*: Del término descriptivo «asper» (áspero)
 
 <!-- src:S0018 -->
 

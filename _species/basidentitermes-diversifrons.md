@@ -38,9 +38,13 @@ ES — **裂额基齿白蚁** (*Basidentitermes diversifrons*) es una especie de
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *diversifrons*：拉丁文 diversus（不同）+ frons（额），异额
 
 EN — epithet *diversifrons*: Latin diversus (diverse) + frons (front), diverse-fronted
+
+ES — epithet *diversifrons*: Del latín diversus (diverso) + frons (frente), de frente diversa
 
 <!-- src:S0018 -->
 

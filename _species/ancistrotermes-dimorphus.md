@@ -38,9 +38,13 @@ ES — **小头钩白蚁** (*Ancistrotermes dimorphus*) es una especie del géne
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
 
 EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+ES — epithet *dimorphus*: Del griego di- (dos) + morphē (forma), dimorfo
 
 <!-- src:S0018 -->
 

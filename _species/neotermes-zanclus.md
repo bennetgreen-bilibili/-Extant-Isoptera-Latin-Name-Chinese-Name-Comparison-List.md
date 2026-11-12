@@ -35,9 +35,13 @@ ES — **镰刀新白蚁** (*Neotermes zanclus*) es una especie del género *Neo
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *zanclus*：希腊文 zanklon（镰刀）
 
 EN — epithet *zanclus*: Greek zanklon (sickle)
+
+ES — epithet *zanclus*: Del griego zanklon (hoz)
 
 <!-- src:S0018 -->
 

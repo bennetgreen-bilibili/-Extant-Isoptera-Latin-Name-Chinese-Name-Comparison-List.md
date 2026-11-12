@@ -38,9 +38,13 @@ ES — **黑角近凸白蚁** (*Paraconvexitermes nigricornis*) es una especie, 
 
 EN — *Paraconvexitermes*: From Greek para- (beside) + Latin convexus (convex) + termes.
 
+ES — *Paraconvexitermes*: Del griego para- (al lado de) + latín convexus (convexo) + termes.
+
 种加词 *nigricornis*：拉丁文/希腊文 nigri（黑）+ cornis（角），指黑角
 
 EN — epithet *nigricornis*: From nigri (黑) + cornis (角)
+
+ES — epithet *nigricornis*: De nigri (negro) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

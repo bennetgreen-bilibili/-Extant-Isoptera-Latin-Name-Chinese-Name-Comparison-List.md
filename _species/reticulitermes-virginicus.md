@@ -35,9 +35,13 @@ ES — **弗吉尼亚散白蚁** (*Reticulitermes virginicus*) es una especie de
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *virginicus*：以地名 弗吉尼亚（美国）命名
 
 EN — epithet *virginicus*: Named after Virginia, USA
+
+ES — epithet *virginicus*: Por Virginia (Estados Unidos)
 
 <!-- src:S0018 -->
 

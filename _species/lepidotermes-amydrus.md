@@ -38,9 +38,13 @@ ES — **幽暗鳞白蚁** (*Lepidotermes amydrus*) es una especie del género *
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *amydrus*：希腊文 amydros（晦暗的、模糊的）
 
 EN — epithet *amydrus*: Greek amydros (dim, obscure)
+
+ES — epithet *amydrus*: Del griego amydros (oscuro, tenue)
 
 <!-- src:S0018 -->
 

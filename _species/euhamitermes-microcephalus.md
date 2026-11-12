@@ -38,9 +38,13 @@ ES — **小头亮白蚁** (*Euhamitermes microcephalus*) es una especie del gé
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *microcephalus*：希腊文 mikros（小）+ kephalē（头），小头
 
 EN — epithet *microcephalus*: Greek mikros (small) + kephalē (head), small-headed
+
+ES — epithet *microcephalus*: Del griego mikros (pequeño) + kephalē (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

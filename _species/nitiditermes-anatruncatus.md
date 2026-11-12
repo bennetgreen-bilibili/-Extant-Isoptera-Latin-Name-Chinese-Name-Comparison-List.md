@@ -38,9 +38,13 @@ ES — **反截净白蚁** (*Nitiditermes anatruncatus*) es una especie del gén
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *anatruncatus*：拉丁文/希腊文 anatrunc（上、再）+ atus（具），指上、再具
 
 EN — epithet *anatruncatus*: From anatrunc (上、再) + atus (具)
+
+ES — epithet *anatruncatus*: De anatrunc (arriba, de nuevo) + atus (que posee)
 
 <!-- src:S0018 -->
 

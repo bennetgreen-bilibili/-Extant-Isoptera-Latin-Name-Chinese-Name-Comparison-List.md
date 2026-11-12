@@ -35,9 +35,13 @@ ES — **巴尔干散白蚁** (*Reticulitermes balkanensis*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *balkanensis*：以地名 巴尔干 命名
 
 EN — epithet *balkanensis*: Named after the locality Balkan
+
+ES — epithet *balkanensis*: Por la localidad de los Balcanes
 
 <!-- src:S0018 -->
 

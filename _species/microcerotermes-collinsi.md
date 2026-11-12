@@ -38,9 +38,13 @@ ES — **柯林斯锯白蚁** (*Microcerotermes collinsi*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *collinsi*：以人名 Collins 命名
 
 EN — epithet *collinsi*: Named after Collins
+
+ES — epithet *collinsi*: En honor de Collins
 
 <!-- src:S0018 -->
 

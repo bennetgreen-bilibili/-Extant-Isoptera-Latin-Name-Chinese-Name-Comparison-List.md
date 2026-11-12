@@ -38,9 +38,13 @@ ES — **最新土白蚁** (*Odontotermes proximus*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *proximus*：拉丁文 proximus（最近的）
 
 EN — epithet *proximus*: Latin proximus (nearest)
+
+ES — epithet *proximus*: Del latín proximus (el más cercano)
 
 <!-- src:S0018 -->
 

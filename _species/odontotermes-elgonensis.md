@@ -38,9 +38,13 @@ ES — **埃尔贡土白蚁** (*Odontotermes elgonensis*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *elgonensis*：以地名 埃尔贡山（东非） 命名
 
 EN — epithet *elgonensis*: Named after the locality Elgon
+
+ES — epithet *elgonensis*: Por la localidad de Elgon
 
 <!-- src:S0018 -->
 

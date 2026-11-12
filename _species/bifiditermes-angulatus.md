@@ -35,9 +35,13 @@ ES — **角状双裂白蚁** (*Bifiditermes angulatus*) es una especie del gén
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *angulatus*：拉丁文/希腊文 angul（角）+ atus（具），指角具
 
 EN — epithet *angulatus*: From angul (角) + atus (具)
+
+ES — epithet *angulatus*: De angul (ángulo) + atus (que posee)
 
 <!-- src:S0018 -->
 

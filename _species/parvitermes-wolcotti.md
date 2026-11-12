@@ -38,9 +38,13 @@ ES — **沃尔科特微白蚁** (*Parvitermes wolcotti*) es una especie del gé
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *wolcotti*：以人名 Wolcott（A. B. Wolcott，美国白蚁学家） 命名
 
 EN — epithet *wolcotti*: Named after A. B. Wolcott (American termitologist)
+
+ES — epithet *wolcotti*: En honor de A. B. Wolcott (termitólogo estadounidense)
 
 <!-- src:S0018 -->
 

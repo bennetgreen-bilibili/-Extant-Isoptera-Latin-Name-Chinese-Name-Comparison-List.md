@@ -38,9 +38,13 @@ ES — **中华象白蚁** (*Nasutitermes sinensis*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *sinensis*：拉丁文 Sinensis（中国的）
 
 EN — epithet *sinensis*: Latin Sinensis (of China)
+
+ES — epithet *sinensis*: Del latín Sinensis (de China)
 
 <!-- src:S0018 -->
 

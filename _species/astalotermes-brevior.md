@@ -40,9 +40,13 @@ ES — **短小无利器白蚁** (*Astalotermes brevior*) es una especie del gé
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *brevior*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevior*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevior*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

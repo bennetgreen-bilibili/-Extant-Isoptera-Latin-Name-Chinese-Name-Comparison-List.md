@@ -38,9 +38,13 @@ ES — **大眼小白蚁** (*Microtermes magnoculus*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *magnoculus*：拉丁文/希腊文 magn（大）+ oculus（眼），指大眼
 
 EN — epithet *magnoculus*: From magn (大) + oculus (眼)
+
+ES — epithet *magnoculus*: De magn (grande) + oculus (ojo)
 
 <!-- src:S0018 -->
 

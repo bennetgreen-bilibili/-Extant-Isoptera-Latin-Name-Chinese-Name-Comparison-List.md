@@ -37,9 +37,13 @@ ES — **南亚乳白蚁** (*Coptotermes travians*) es una especie del género *
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *travians*：拉丁文 travians（?）
 
 EN — epithet *travians*: Latin travians (uncertain)
+
+ES — epithet *travians*: Del latín travians (incierto)
 
 <!-- src:S0018 -->
 

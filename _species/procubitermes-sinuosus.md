@@ -38,9 +38,13 @@ ES — **扭曲原方白蚁** (*Procubitermes sinuosus*) es una especie del gén
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *sinuosus*：拉丁文/希腊文 sinu（波曲）+ osus（多、充满），指波曲多、充满
 
 EN — epithet *sinuosus*: From sinu (波曲) + osus (多、充满)
+
+ES — epithet *sinuosus*: De sinu (ondulado) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

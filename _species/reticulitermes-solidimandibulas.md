@@ -35,9 +35,13 @@ ES — **粗颚散白蚁** (*Reticulitermes solidimandibulas*) es una especie de
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *solidimandibulas*：拉丁文 solidus（坚实）+ mandibula（上颚），坚颚
 
 EN — epithet *solidimandibulas*: Latin solidus (solid) + mandibula (mandible), solid-mandibled
+
+ES — epithet *solidimandibulas*: Del latín solidus (sólido) + mandibula (mandíbula), de mandíbulas sólidas
 
 <!-- src:S0018 -->
 

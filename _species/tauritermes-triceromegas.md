@@ -35,9 +35,13 @@ ES — **三混气牛白蚁** (*Tauritermes triceromegas*) es una especie del g�
 
 EN — *Tauritermes*: From Latin taurus (bull) + termes.
 
+ES — *Tauritermes*: Del latín taurus (toro) + termes.
+
 种加词 *triceromegas*：希腊文 tri-（三）+ keras（角）+ megas（大），三大角
 
 EN — epithet *triceromegas*: Greek tri- (three) + keras (horn) + megas (large)
+
+ES — epithet *triceromegas*: Del griego tri- (tres) + keras (cuerno) + megas (grande)
 
 <!-- src:S0018 -->
 

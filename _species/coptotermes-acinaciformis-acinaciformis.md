@@ -36,9 +36,13 @@ ES — **指名亚种** (*Coptotermes acinaciformis acinaciformis*) es una subes
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *acinaciformis*：拉丁文/希腊文 acinaci（弯刀）+ formis（形），指弯刀形
 
 EN — epithet *acinaciformis*: From acinaci (弯刀) + formis (形)
+
+ES — epithet *acinaciformis*: De acinaci (cimitarra) + formis (forma)
 
 <!-- src:S0018 -->
 

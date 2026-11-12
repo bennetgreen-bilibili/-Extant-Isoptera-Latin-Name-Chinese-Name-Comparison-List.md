@@ -35,9 +35,13 @@ ES — **奇颏散白蚁** (*Reticulitermes mirogulus*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *mirogulus*：种加词由拉丁语 mirus（奇妙的、奇特的）与 gula（咽喉、颏；昆虫学术语指头部腹面的外咽片）组合，指兵蚁颏部（外咽片）的奇特形态。
 
 EN — epithet *mirogulus*: From Latin mirus (wonderful, strange) + gula (throat, gullet; in entomology the gular plate on the underside of the head), referring to the distinctive gula of the soldier.
+
+ES — epithet *mirogulus*: Del latín mirus (admirable, extraño) + gula (garganta, tragadero; en entomología, la placa gular de la parte inferior de la cabeza), en referencia a la gula característica del soldado.
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **滇华扭白蚁** (*Sinocapritermes yunnanensis*) es una especie del g�
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *yunnanensis*：地名：云南（中国）
 
 EN — epithet *yunnanensis*: After Yunnan (China)
+
+ES — epithet *yunnanensis*: Por Yunnan (China)
 
 <!-- src:S0018 -->
 

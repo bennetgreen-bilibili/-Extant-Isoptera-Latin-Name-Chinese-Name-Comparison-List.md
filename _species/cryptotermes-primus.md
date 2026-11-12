@@ -37,9 +37,13 @@ ES — **第一堆砂白蚁** (*Cryptotermes primus*) es una especie del género
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *primus*：拉丁文 primus（第一）
 
 EN — epithet *primus*: Latin primus (first)
+
+ES — epithet *primus*: Del latín primus (primero)
 
 <!-- src:S0018 -->
 

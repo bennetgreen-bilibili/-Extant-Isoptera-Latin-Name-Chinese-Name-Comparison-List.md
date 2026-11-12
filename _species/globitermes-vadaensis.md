@@ -38,9 +38,13 @@ ES — **瓦达球白蚁** (*Globitermes vadaensis*) es una especie del género 
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *vadaensis*：以产地地名 Vada 命名（具体地点待考）。
 
 EN — epithet *vadaensis*: Named after the locality Vada (precise location uncertain).
+
+ES — epithet *vadaensis*: Por la localidad de Vada (ubicación exacta incierta).
 
 <!-- src:S0018 -->
 

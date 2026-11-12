@@ -35,9 +35,13 @@ ES — **似小齿棒鼻白蚁** (*Parrhinotermes microdentiformisoides*) es una
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *microdentiformisoides*：拉丁文/希腊文 microdentiformis（小）+ oides（似），指小似
 
 EN — epithet *microdentiformisoides*: From microdentiformis (小) + oides (似)
+
+ES — epithet *microdentiformisoides*: De microdentiformis (pequeño) + oides (semejante a)
 
 <!-- src:S0018 -->
 

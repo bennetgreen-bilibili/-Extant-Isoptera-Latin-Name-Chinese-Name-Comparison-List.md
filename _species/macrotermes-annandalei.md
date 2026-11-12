@@ -38,9 +38,13 @@ ES — **土垄大白蚁** (*Macrotermes annandalei*) es una especie del género
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *annandalei*：以人名 Nelson Annandale（印度昆虫学家）命名
 
 EN — epithet *annandalei*: Named after the entomologist Nelson Annandale
+
+ES — epithet *annandalei*: En honor del entomólogo Nelson Annandale
 
 <!-- src:S0018 -->
 

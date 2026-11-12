@@ -35,9 +35,13 @@ ES — **莱特树白蚁** (*Glyptotermes lighti*) es una especie del género *G
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *lighti*：以人名 light 命名（美国白蚁学家 S. F. Light）
 
 EN — epithet *lighti*: Named after 美国白蚁学家 S. F. Light
+
+ES — epithet *lighti*: En honor del termitólogo estadounidense S. F. Light
 
 <!-- src:S0018 -->
 

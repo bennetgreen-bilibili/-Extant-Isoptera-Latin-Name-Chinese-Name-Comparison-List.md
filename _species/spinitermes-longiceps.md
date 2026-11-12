@@ -38,9 +38,13 @@ ES — **长头针刺白蚁** (*Spinitermes longiceps*) es una especie del géne
 
 EN — *Spinitermes*: From Latin spina (spine) + termes.
 
+ES — *Spinitermes*: Del latín spina (espina) + termes.
+
 种加词 *longiceps*：拉丁文 longus（长）+ -ceps（头），长头
 
 EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
+
+ES — epithet *longiceps*: Del latín longus (largo) + -ceps (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

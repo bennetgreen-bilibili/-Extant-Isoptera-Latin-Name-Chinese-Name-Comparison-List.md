@@ -35,9 +35,13 @@ ES — **丹徒散白蚁** (*Reticulitermes dantuensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *dantuensis*：以地名 丹徒（江苏） 命名
 
 EN — epithet *dantuensis*: Named after the locality Dantu
+
+ES — epithet *dantuensis*: Por la localidad de Dantu
 
 <!-- src:S0018 -->
 

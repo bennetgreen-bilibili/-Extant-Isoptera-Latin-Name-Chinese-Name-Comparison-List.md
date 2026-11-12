@@ -35,9 +35,13 @@ ES — **蛋头散白蚁** (*Reticulitermes oocephalus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *oocephalus*：希腊文 ōon（卵）+ kephalē（头），卵头
 
 EN — epithet *oocephalus*: Greek ōon (egg) + kephalē (head), egg-headed
+
+ES — epithet *oocephalus*: Del griego ōon (huevo) + kephalē (cabeza), de cabeza de huevo
 
 <!-- src:S0018 -->
 

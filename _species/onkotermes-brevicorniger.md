@@ -38,9 +38,13 @@ ES — **短角倒钩白蚁** (*Onkotermes brevicorniger*) es una especie, y la 
 
 EN — *Onkotermes*: From Greek onkos (bend, hook, barb) + Latin termes. Greek onkos also means "bulk, tumor".
 
+ES — *Onkotermes*: Del griego onkos (curvatura, gancho, púa) + latín termes. El griego onkos también significa «bulto, tumor».
+
 种加词 *brevicorniger*：拉丁文 brevi-（短）+ corni-（角）+ -ger（具），意为「具短角的」，指兵蚁短角。
 
 EN — epithet *brevicorniger*: Latin brevi- (short) + corni- (horn) + -ger (bearing) = "bearing short horns".
+
+ES — epithet *brevicorniger*: Del latín brevi- (corto) + corni- (cuerno) + -ger (que lleva) = «que lleva cuernos cortos».
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **肱骨无甲白蚁** (*Anenteotermes hemerus*) es una especie del géne
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hemerus*：希腊文 hēmeros（温驯的、驯养的）
 
 EN — epithet *hemerus*: Greek hēmeros (tame)
+
+ES — epithet *hemerus*: Del griego hēmeros (manso)
 
 <!-- src:S0018 -->
 

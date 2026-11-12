@@ -38,9 +38,13 @@ ES — **意外解甲白蚁** (*Anoplotermes inopinatus*) es una especie del gé
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *inopinatus*：拉丁文 inopinatus（意外的）
 
 EN — epithet *inopinatus*: Latin inopinatus (unexpected)
+
+ES — epithet *inopinatus*: Del latín inopinatus (inesperado)
 
 <!-- src:S0018 -->
 

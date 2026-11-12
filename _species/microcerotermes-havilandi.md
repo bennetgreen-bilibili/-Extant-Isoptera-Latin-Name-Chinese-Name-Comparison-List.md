@@ -38,9 +38,13 @@ ES — **哈维兰锯白蚁** (*Microcerotermes havilandi*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *havilandi*：以人名 Haviland 命名（英国昆虫学家 G. D. Haviland）
 
 EN — epithet *havilandi*: Named after the entomologist G. D. Haviland
+
+ES — epithet *havilandi*: En honor del entomólogo G. D. Haviland
 
 <!-- src:S0018 -->
 

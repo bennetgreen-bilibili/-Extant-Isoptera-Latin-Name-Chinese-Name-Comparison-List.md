@@ -38,9 +38,13 @@ ES — **初始土白蚁** (*Odontotermes preliminaris*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *preliminaris*：拉丁文 praeliminaris（初步的）
 
 EN — epithet *preliminaris*: Latin praeliminaris (preliminary)
+
+ES — epithet *preliminaris*: Del latín praeliminaris (preliminar)
 
 <!-- src:S0018 -->
 

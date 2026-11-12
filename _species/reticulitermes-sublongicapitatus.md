@@ -35,9 +35,13 @@ ES — **似长头散白蚁** (*Reticulitermes sublongicapitatus*) es una especi
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *sublongicapitatus*：拉丁文/希腊文 sublongicapit（下、近）+ atus（具），指下、近具
 
 EN — epithet *sublongicapitatus*: From sublongicapit (下、近) + atus (具)
+
+ES — epithet *sublongicapitatus*: De sublongicapit (abajo, cerca) + atus (que tiene)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **金黄散白蚁** (*Reticulitermes chryseus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *chryseus*：拉丁文/希腊文 chrys（金）+ eus（相关），指金相关
 
 EN — epithet *chryseus*: From chrys (金) + eus (相关)
+
+ES — epithet *chryseus*: De chrys (oro) + eus (relativo a)
 
 <!-- src:S0018 -->
 

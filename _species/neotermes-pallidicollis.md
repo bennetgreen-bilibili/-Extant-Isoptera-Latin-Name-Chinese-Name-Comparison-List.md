@@ -35,9 +35,13 @@ ES — **灰颈新白蚁** (*Neotermes pallidicollis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *pallidicollis*：拉丁文/希腊文 pallidi（苍白）+ collis（颈），指苍白颈
 
 EN — epithet *pallidicollis*: From pallidi (苍白) + collis (颈)
+
+ES — epithet *pallidicollis*: De pallidi (pálido) + collis (cuello)
 
 <!-- src:S0018 -->
 

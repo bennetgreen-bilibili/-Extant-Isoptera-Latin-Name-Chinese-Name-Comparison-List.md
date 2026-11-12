@@ -38,9 +38,13 @@ ES — **法布里克象白蚁** (*Nasutitermes fabricii*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *fabricii*：以人名 fabric 命名（丹麦昆虫学家 J. C. Fabricius）
 
 EN — epithet *fabricii*: Named after 丹麦昆虫学家 J. C. Fabricius
+
+ES — epithet *fabricii*: En honor del entomólogo danés J. C. Fabricius
 
 <!-- src:S0018 -->
 

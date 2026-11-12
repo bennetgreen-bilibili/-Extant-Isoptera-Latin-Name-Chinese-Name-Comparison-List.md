@@ -38,9 +38,13 @@ ES — **内志小白蚁** (*Microtermes najdensis*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *najdensis*：以地名 内志（沙特阿拉伯） 命名
 
 EN — epithet *najdensis*: Named after the locality Najd
+
+ES — epithet *najdensis*: Por la localidad de Najd
 
 <!-- src:S0018 -->
 

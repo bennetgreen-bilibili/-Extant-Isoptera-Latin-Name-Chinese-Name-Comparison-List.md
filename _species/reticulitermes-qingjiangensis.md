@@ -35,9 +35,13 @@ ES — **清江散白蚁** (*Reticulitermes qingjiangensis*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *qingjiangensis*：以地名 清江（湖北） 命名
 
 EN — epithet *qingjiangensis*: Named after the locality Qingjiang
+
+ES — epithet *qingjiangensis*: Por la localidad de Qingjiang
 
 <!-- src:S0018 -->
 

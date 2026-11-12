@@ -38,9 +38,13 @@ ES — **瓦伊什诺土白蚁** (*Odontotermes vaishno*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *vaishno*：印度圣地 Vaishno Devi（或该神祇）
 
 EN — epithet *vaishno*: After Vaishno Devi (India)
+
+ES — epithet *vaishno*: Por Vaishno Devi (India)
 
 <!-- src:S0018 -->
 

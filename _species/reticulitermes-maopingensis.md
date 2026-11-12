@@ -35,9 +35,13 @@ ES — **毛坪散白蚁** (*Reticulitermes maopingensis*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *maopingensis*：以地名 茅坪（湖北） 命名
 
 EN — epithet *maopingensis*: Named after the locality Maoping
+
+ES — epithet *maopingensis*: Por la localidad de Maoping
 
 <!-- src:S0018 -->
 

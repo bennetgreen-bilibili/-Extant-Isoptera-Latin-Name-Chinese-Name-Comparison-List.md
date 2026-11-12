@@ -38,9 +38,13 @@ ES — **球形象白蚁** (*Nasutitermes rotundus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *rotundus*：拉丁文 rotundus（圆）
 
 EN — epithet *rotundus*: Latin rotundus (round)
+
+ES — epithet *rotundus*: Del latín rotundus (redondo)
 
 <!-- src:S0018 -->
 

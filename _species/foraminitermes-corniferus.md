@@ -38,9 +38,13 @@ ES — **具角孔白蚁** (*Foraminitermes corniferus*) es una especie del gén
 
 EN — *Foraminitermes*: From Latin foramen (opening) + termes.
 
+ES — *Foraminitermes*: Del latín foramen (abertura) + termes.
+
 种加词 *corniferus*：拉丁文/希腊文词根「corn」（角）
 
 EN — epithet *corniferus*: From the descriptive term 'corn' (horn)
+
+ES — epithet *corniferus*: Del término descriptivo «corn» (cuerno)
 
 <!-- src:S0018 -->
 

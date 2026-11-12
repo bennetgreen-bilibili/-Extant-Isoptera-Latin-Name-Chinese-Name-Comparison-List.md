@@ -35,9 +35,13 @@ ES — **鼓浪屿乳白蚁** (*Coptotermes gulangyuensis*) es una especie del g
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *gulangyuensis*：以地名 鼓浪屿（福建） 命名
 
 EN — epithet *gulangyuensis*: Named after the locality Gulangyu
+
+ES — epithet *gulangyuensis*: Por la localidad de Gulangyu
 
 <!-- src:S0018 -->
 

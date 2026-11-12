@@ -38,9 +38,13 @@ ES — **疑问小白蚁** (*Microtermes dubius*) es una especie del género *Mi
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *dubius*：拉丁文 dubius（可疑的、存疑的）
 
 EN — epithet *dubius*: Latin dubius (doubtful)
+
+ES — epithet *dubius*: Del latín dubius (dudoso)
 
 <!-- src:S0018 -->
 

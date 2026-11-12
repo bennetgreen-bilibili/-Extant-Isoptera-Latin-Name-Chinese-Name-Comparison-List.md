@@ -35,9 +35,13 @@ ES — **韦莱树白蚁** (*Glyptotermes ueleensis*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *ueleensis*：以地名 韦莱（刚果） 命名
 
 EN — epithet *ueleensis*: Named after the locality Uele
+
+ES — epithet *ueleensis*: Por la localidad de Uele
 
 <!-- src:S0018 -->
 

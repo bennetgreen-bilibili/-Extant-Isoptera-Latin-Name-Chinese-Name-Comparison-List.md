@@ -38,9 +38,13 @@ ES — **细颚伪扭白蚁** (*Pseudocapritermes angustignathus*) es una especi
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *angustignathus*：拉丁文/希腊文 angusti（窄）+ gnathus（颚），指窄颚
 
 EN — epithet *angustignathus*: From angusti (窄) + gnathus (颚)
+
+ES — epithet *angustignathus*: De angusti (estrecho) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

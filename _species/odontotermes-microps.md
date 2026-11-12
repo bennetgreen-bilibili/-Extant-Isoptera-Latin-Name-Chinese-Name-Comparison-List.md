@@ -38,9 +38,13 @@ ES — **小眼土白蚁** (*Odontotermes microps*) es una especie del género *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *microps*：希腊文 mikros（小）+ ōps（眼），小眼
 
 EN — epithet *microps*: Greek mikros (small) + ōps (eye), small-eyed
+
+ES — epithet *microps*: Del griego mikros (pequeño) + ōps (ojo), de ojos pequeños
 
 <!-- src:S0018 -->
 

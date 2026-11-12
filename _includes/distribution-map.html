@@ -45,6 +45,10 @@
   {%- assign t_scope = 'checklist extant taxa only' -%}
   {%- assign t_nodata = 'No GBIF record with coordinates was found for this species.' -%}
   {%- assign t_note = 'Aggregated from GBIF occurrence records on a 1° grid; only extant taxa of this checklist are used, so fossil records are excluded. Dot size and shade show the number of records inside a cell.' -%}
+  {%- assign t_note_en = t_note -%}
+  {%- assign t_note_es = 'Agregado de registros de GBIF en una rejilla de 1°; solo se usan taxones actuales de esta lista, por lo que los registros fósiles quedan excluidos. El tamaño y la intensidad del punto indican el número de registros de la celda.' -%}
+  {%- assign t_nodata_en = t_nodata -%}
+  {%- assign t_nodata_es = 'No se encontró ningún registro de GBIF con coordenadas para esta especie.' -%}
 {%- elsif page.lang == 'es' -%}
   {%- assign t_records = 'registros' -%}
   {%- assign t_cells = 'celdas de 1°' -%}
@@ -60,6 +64,10 @@
   {%- assign t_scope = 'solo taxones actuales de la lista' -%}
   {%- assign t_nodata = 'No se encontró ningún registro de GBIF con coordenadas para esta especie.' -%}
   {%- assign t_note = 'Agregado de registros de GBIF en una rejilla de 1°; solo se usan taxones actuales de esta lista, por lo que los registros fósiles quedan excluidos. El tamaño y la intensidad del punto indican el número de registros de la celda.' -%}
+  {%- assign t_note_es = t_note -%}
+  {%- assign t_note_en = 'Aggregated from GBIF occurrence records on a 1° grid; only extant taxa of this checklist are used, so fossil records are excluded. Dot size and shade show the number of records inside a cell.' -%}
+  {%- assign t_nodata_es = t_nodata -%}
+  {%- assign t_nodata_en = 'No GBIF record with coordinates was found for this species.' -%}
 {%- else -%}
   {%- assign t_records = '条记录' -%}
   {%- assign t_cells = '个网格' -%}
@@ -75,6 +83,10 @@
   {%- assign t_scope = '仅名录现生类群' -%}
   {%- assign t_nodata = 'GBIF 中暂未找到该种带坐标的记录。' -%}
   {%- assign t_note = '按 GBIF 出现记录聚合到 1°×1° 网格；只统计本名录收录的现生类群，化石记录不参与。点的大小与深浅表示该网格内的记录条数。' -%}
+  {%- assign t_note_en = 'Aggregated from GBIF occurrence records on a 1° grid; only extant taxa of this checklist are used, so fossil records are excluded. Dot size and shade show the number of records inside a cell.' -%}
+  {%- assign t_note_es = 'Agregado de registros de GBIF en una rejilla de 1°; solo se usan taxones actuales de esta lista, por lo que los registros fósiles quedan excluidos. El tamaño y la intensidad del punto indican el número de registros de la celda.' -%}
+  {%- assign t_nodata_en = 'No GBIF record with coordinates was found for this species.' -%}
+  {%- assign t_nodata_es = 'No se encontró ningún registro de GBIF con coordenadas para esta especie.' -%}
 {%- endif -%}
 {%- if occ and dmode == 'family' -%}
   {%- assign dm = nil -%}
@@ -109,14 +121,14 @@
   {%- if dm and dm.file -%}
 <div class="species-map" aria-labelledby="species-map-title" data-pagefind-ignore data-taxon="{{ dm_slug }}">
 <h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
-<p class="species-map-note">{{ t_note }}</p>
+<p class="species-map-note">{{ t_note }} <span class="fact-en" lang="en">{{ t_note_en }}</span> <span class="fact-es" lang="es">{{ t_note_es }}</span></p>
 <div class="distribution-map distribution-map-species" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
 <p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}/genus/{{ dm.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
   {%- else -%}
 <div class="species-map species-map-empty" aria-labelledby="species-map-title" data-pagefind-ignore>
 <h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
-<p class="species-map-note">{{ t_nodata }}</p>
+<p class="species-map-note">{{ t_nodata }} <span class="fact-en" lang="en">{{ t_nodata_en }}</span> <span class="fact-es" lang="es">{{ t_nodata_es }}</span></p>
 </div>
   {%- endif -%}
 {%- endif -%}

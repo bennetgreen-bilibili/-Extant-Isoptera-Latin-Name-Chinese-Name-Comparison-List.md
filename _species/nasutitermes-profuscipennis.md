@@ -38,9 +38,13 @@ ES — **似暗翅象白蚁** (*Nasutitermes profuscipennis*) es una especie del
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *profuscipennis*：拉丁文/希腊文 profusci（前）+ pennis（翅），指前翅
 
 EN — epithet *profuscipennis*: From profusci (前) + pennis (翅)
+
+ES — epithet *profuscipennis*: De profusci (oscuro) + pennis (ala)
 
 <!-- src:S0018 -->
 

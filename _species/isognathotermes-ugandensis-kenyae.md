@@ -38,9 +38,13 @@ ES — **肯尼亚亚种** (*Isognathotermes ugandensis kenyae*) es una subespec
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *kenyae*：以地名 Kenya（肯尼亚）命名
 
 EN — epithet *kenyae*: Named after Kenya
+
+ES — epithet *kenyae*: Por Kenia
 
 <!-- src:S0018 -->
 

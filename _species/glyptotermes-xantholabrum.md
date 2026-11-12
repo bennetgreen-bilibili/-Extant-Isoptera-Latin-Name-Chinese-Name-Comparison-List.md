@@ -37,9 +37,13 @@ ES — **黄唇树白蚁** (*Glyptotermes xantholabrum*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *xantholabrum*：希腊文 xanthos（黄）+ 拉丁文 labrum（唇），黄唇
 
 EN — epithet *xantholabrum*: Greek xanthos (yellow) + Latin labrum (lip), yellow-lipped
+
+ES — epithet *xantholabrum*: Del griego xanthos (amarillo) + latín labrum (labio), de labio amarillo
 
 <!-- src:S0018 -->
 

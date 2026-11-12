@@ -38,9 +38,13 @@ ES — **布拉干提纳圆白蚁** (*Rotunditermes bragantinus*) es una especie
 
 EN — *Rotunditermes*: From Latin rotundus (round) + termes.
 
+ES — *Rotunditermes*: Del latín rotundus (redondo) + termes.
+
 种加词 *bragantinus*：地名：布拉干萨（巴西）
 
 EN — epithet *bragantinus*: After Bragança (Brazil)
+
+ES — epithet *bragantinus*: Por Bragança (Brasil)
 
 <!-- src:S0018 -->
 

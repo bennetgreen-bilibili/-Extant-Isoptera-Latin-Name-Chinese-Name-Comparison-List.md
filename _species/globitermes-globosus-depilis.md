@@ -39,9 +39,13 @@ ES — **无毛亚种** (*Globitermes globosus depilis*) es una subespecie de *G
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *depilis*：拉丁文 depilis（无毛的）
 
 EN — epithet *depilis*: Latin depilis (hairless)
+
+ES — epithet *depilis*: Del latín depilis (sin pelo)
 
 <!-- src:S0018 -->
 

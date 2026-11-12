@@ -37,9 +37,13 @@ ES — **曲颚乳白蚁** (*Coptotermes curvignathus*) es una especie del géne
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *curvignathus*：拉丁文/希腊文 curvi（弯）+ gnathus（颚），指弯颚
 
 EN — epithet *curvignathus*: From curvi (弯) + gnathus (颚)
+
+ES — epithet *curvignathus*: De curvi (curvo) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

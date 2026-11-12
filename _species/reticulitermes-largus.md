@@ -35,9 +35,13 @@ ES — **大型散白蚁** (*Reticulitermes largus*) es una especie del género 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *largus*：拉丁文 largus（宽大的、丰富的）
 
 EN — epithet *largus*: Latin largus (ample, abundant)
+
+ES — epithet *largus*: Del latín largus (amplio, abundante)
 
 <!-- src:S0018 -->
 

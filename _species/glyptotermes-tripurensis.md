@@ -35,9 +35,13 @@ ES — **特里普拉树白蚁** (*Glyptotermes tripurensis*) es una especie del
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *tripurensis*：以地名 特里普拉（印度） 命名
 
 EN — epithet *tripurensis*: Named after the locality Tripur
+
+ES — epithet *tripurensis*: Por la localidad de Tripur
 
 <!-- src:S0018 -->
 

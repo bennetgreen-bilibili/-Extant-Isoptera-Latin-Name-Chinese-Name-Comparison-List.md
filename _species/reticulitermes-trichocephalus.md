@@ -35,9 +35,13 @@ ES — **毛头散白蚁** (*Reticulitermes trichocephalus*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *trichocephalus*：希腊文 thrix（毛）+ kephalē（头），毛头
 
 EN — epithet *trichocephalus*: Greek thrix (hair) + kephalē (head), hairy-headed
+
+ES — epithet *trichocephalus*: Del griego thrix (pelo) + kephalē (cabeza), de cabeza peluda
 
 <!-- src:S0018 -->
 

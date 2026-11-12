@@ -35,9 +35,13 @@ ES — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) es una especie, y la e
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *aequalis*：拉丁文/希腊文 aequ（相等）+ alis（相关），指相等相关
 
 EN — epithet *aequalis*: From aequ (相等) + alis (相关)
+
+ES — epithet *aequalis*: De aequ (igual) + alis (relativo a)
 
 <!-- src:S0018 -->
 

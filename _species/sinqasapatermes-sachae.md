@@ -38,9 +38,13 @@ ES — **森林鼻大白蚁** (*Sinqasapatermes sachae*) es la única especie vi
 
 EN — *Sinqasapatermes*: From the place name Sinqasapa; -termes from Latin termes.
 
+ES — *Sinqasapatermes*: Del topónimo Sinqasapa; -termes, del latín termes.
+
 种加词 *sachae*：源自克丘亚语 sacha（森林），指其雨林生境；亦或为人名 Sacha
 
 EN — epithet *sachae*: From Quechua sacha (forest), referring to its rainforest habitat; or a person "Sacha"
+
+ES — epithet *sachae*: Del quechua sacha (bosque), en referencia a su hábitat de selva tropical; o de una persona «Sacha»
 
 <!-- src:S0018 -->
 

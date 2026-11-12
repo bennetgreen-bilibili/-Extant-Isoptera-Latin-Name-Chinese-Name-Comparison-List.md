@@ -38,9 +38,13 @@ ES — **小华扭白蚁** (*Sinocapritermes parvulus*) es una especie del géne
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *parvulus*：拉丁文 parvulus（很小，指小词）
 
 EN — epithet *parvulus*: Latin parvulus (very small, diminutive)
+
+ES — epithet *parvulus*: Del latín parvulus (muy pequeño, diminuto)
 
 <!-- src:S0018 -->
 

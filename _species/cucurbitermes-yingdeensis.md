@@ -38,9 +38,13 @@ ES — **英德葫白蚁** (*Cucurbitermes yingdeensis*) es una especie, y la es
 
 EN — *Cucurbitermes*: From Latin cucurbita (gourd) + termes.
 
+ES — *Cucurbitermes*: Del latín cucurbita (calabaza) + termes.
+
 种加词 *yingdeensis*：以地名 英德（广东） 命名
 
 EN — epithet *yingdeensis*: Named after the locality Yingde
+
+ES — epithet *yingdeensis*: Por la localidad de Yingde
 
 <!-- src:S0018 -->
 

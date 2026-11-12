@@ -35,9 +35,13 @@ ES — **达林顿堆砂白蚁** (*Cryptotermes darlingtonae*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *darlingtonae*：以人名 Darlington（P. J. Darlington）命名
 
 EN — epithet *darlingtonae*: Named after P. J. Darlington
+
+ES — epithet *darlingtonae*: En honor de P. J. Darlington
 
 <!-- src:S0018 -->
 

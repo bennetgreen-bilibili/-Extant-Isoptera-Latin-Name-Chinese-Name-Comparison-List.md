@@ -38,9 +38,13 @@ ES — **第一象白蚁** (*Nasutitermes princeps*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *princeps*：拉丁文 princeps（首领、第一的）
 
 EN — epithet *princeps*: Latin princeps (first, chief)
+
+ES — epithet *princeps*: Del latín princeps (primero, principal)
 
 <!-- src:S0018 -->
 

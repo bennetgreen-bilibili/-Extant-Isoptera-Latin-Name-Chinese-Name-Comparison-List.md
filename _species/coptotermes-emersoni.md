@@ -35,9 +35,13 @@ ES — **埃默森乳白蚁** (*Coptotermes emersoni*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

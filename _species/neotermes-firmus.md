@@ -35,9 +35,13 @@ ES — **坚固新白蚁** (*Neotermes firmus*) es una especie del género *Neot
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *firmus*：拉丁文 firmus（坚固的、强壮的）
 
 EN — epithet *firmus*: Latin firmus (firm, strong)
+
+ES — epithet *firmus*: Del latín firmus (firme, fuerte)
 
 <!-- src:S0018 -->
 

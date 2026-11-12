@@ -38,9 +38,13 @@ ES — **波利昂缩狭白蚁** (*Coarctotermes pauliani*) es una especie del g
 
 EN — *Coarctotermes*: From Latin coarctatus (compressed) + termes.
 
+ES — *Coarctotermes*: Del latín coarctatus (comprimido) + termes.
+
 种加词 *pauliani*：以人名 Paulian（波利昂）命名（法国昆虫学家 Renaud Paulian）
 
 EN — epithet *pauliani*: Named after Paulian (French entomologist Renaud Paulian)
+
+ES — epithet *pauliani*: En honor de Paulian (entomólogo francés Renaud Paulian)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **黑色皱白蚁** (*Rugitermes niger*) es una especie del género *Rugi
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *niger*：拉丁文 niger（黑）
 
 EN — epithet *niger*: Latin niger (black)
+
+ES — epithet *niger*: Del latín niger (negro)
 
 <!-- src:S0018 -->
 

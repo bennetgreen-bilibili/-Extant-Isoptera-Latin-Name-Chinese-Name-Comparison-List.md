@@ -56,6 +56,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名以人名 Noirot 命名（法国白蚁学家 C. Noirot），词尾 -termes 为拉丁文 termes（白蚁）。</p>
 <p class="etymology-en fact-en" lang="en">Named after the termite biologist C. Noirot; -termes from Latin termes.</p>
+<p class="etymology-es fact-es" lang="es">En honor del biólogo de termitas C. Noirot; -termes, del latín termes.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

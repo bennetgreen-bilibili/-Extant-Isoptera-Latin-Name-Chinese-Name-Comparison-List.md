@@ -38,9 +38,13 @@ ES — **纤齿土白蚁** (*Odontotermes fidens*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *fidens*：拉丁文 fidens（自信的、果敢的）
 
 EN — epithet *fidens*: Latin fidens (confident)
+
+ES — epithet *fidens*: Del latín fidens (confiado)
 
 <!-- src:S0018 -->
 

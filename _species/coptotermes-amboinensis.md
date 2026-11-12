@@ -35,9 +35,13 @@ ES — **安汶乳白蚁** (*Coptotermes amboinensis*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *amboinensis*：以地名 安汶（印度尼西亚） 命名
 
 EN — epithet *amboinensis*: Named after the locality Amboin
+
+ES — epithet *amboinensis*: Por la localidad de Amboin
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **欢乐节白蚁** (*Noditermes festivus*) es una especie del género *N
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *festivus*：拉丁文 festivus（喜庆的、欢快的）
 
 EN — epithet *festivus*: Latin festivus (festive)
+
+ES — epithet *festivus*: Del latín festivus (festivo)
 
 <!-- src:S0018 -->
 

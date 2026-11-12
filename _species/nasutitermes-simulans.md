@@ -38,9 +38,13 @@ ES — **模仿象白蚁** (*Nasutitermes simulans*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *simulans*：拉丁文 simulans（模拟的、伪装的）
 
 EN — epithet *simulans*: Latin simulans (imitating)
+
+ES — epithet *simulans*: Del latín simulans (que imita)
 
 <!-- src:S0018 -->
 

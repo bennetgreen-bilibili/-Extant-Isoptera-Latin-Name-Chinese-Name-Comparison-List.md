@@ -38,9 +38,13 @@ ES — **平行土白蚁** (*Odontotermes parallelus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *parallelus*：拉丁文/希腊文词根「parallel」（平行）
 
 EN — epithet *parallelus*: From the descriptive term 'parallel' (parallel)
+
+ES — epithet *parallelus*: Del término descriptivo «parallel» (paralelo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **鼻短象白蚁** (*Nasutitermes brachynasutus*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *brachynasutus*：希腊文 brachys（短）+ 拉丁文 nasutus（鼻），短鼻
 
 EN — epithet *brachynasutus*: Greek brachys (short) + Latin nasutus (nose), short-nosed
+
+ES — epithet *brachynasutus*: Del griego brachys (corto) + latín nasutus (nariz), de nariz corta
 
 <!-- src:S0018 -->
 

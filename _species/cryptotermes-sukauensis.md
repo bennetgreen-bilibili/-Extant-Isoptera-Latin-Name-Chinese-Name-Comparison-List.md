@@ -35,9 +35,13 @@ ES — **苏高堆砂白蚁** (*Cryptotermes sukauensis*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *sukauensis*：以地名 苏高（马来西亚） 命名
 
 EN — epithet *sukauensis*: Named after the locality Sukau
+
+ES — epithet *sukauensis*: Por la localidad de Sukau
 
 <!-- src:S0018 -->
 

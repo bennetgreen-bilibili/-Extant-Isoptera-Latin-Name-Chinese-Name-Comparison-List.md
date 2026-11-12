@@ -40,9 +40,13 @@ ES — **胖身土白蚁** (*Odontotermes obesus*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *obesus*：拉丁文/希腊文词根「obes」（肥胖）
 
 EN — epithet *obesus*: From the descriptive term 'obes' (obese)
+
+ES — epithet *obesus*: Del término descriptivo «obes» (obeso)
 
 <!-- src:S0018 -->
 

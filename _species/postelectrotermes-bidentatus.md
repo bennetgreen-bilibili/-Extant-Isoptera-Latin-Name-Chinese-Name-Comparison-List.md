@@ -35,9 +35,13 @@ ES — **二齿后琥珀白蚁** (*Postelectrotermes bidentatus*) es una especie
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *bidentatus*：拉丁文 bi-（二）+ dentatus（有齿），双齿
 
 EN — epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
+
+ES — epithet *bidentatus*: Del latín bi- (dos) + dentatus (dentado), de dos dientes
 
 <!-- src:S0018 -->
 

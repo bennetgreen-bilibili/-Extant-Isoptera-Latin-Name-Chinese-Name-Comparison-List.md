@@ -35,9 +35,13 @@ ES — **直缘散白蚁** (*Reticulitermes rectis*) es una especie del género 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *rectis*：拉丁文/希腊文词根「rect」（直）
 
 EN — epithet *rectis*: From the descriptive term 'rect' (straight)
+
+ES — epithet *rectis*: Del término descriptivo «rect» (recto)
 
 <!-- src:S0018 -->
 

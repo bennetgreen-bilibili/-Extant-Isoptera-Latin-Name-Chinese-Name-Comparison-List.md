@@ -38,9 +38,13 @@ ES — **波纹原方白蚁** (*Procubitermes undulans*) es una especie del gén
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *undulans*：拉丁文 undulans（波状的）
 
 EN — epithet *undulans*: Latin undulans (wavy)
+
+ES — epithet *undulans*: Del latín undulans (ondulante)
 
 <!-- src:S0018 -->
 

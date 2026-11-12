@@ -37,9 +37,13 @@ ES — **简角近新白蚁** (*Paraneotermes simplicicornis*) es la única espe
 
 EN — *Paraneotermes*: From Greek para- (near) + neos (new) + Latin termes.
 
+ES — *Paraneotermes*: Del griego para- (cerca de) + neos (nuevo) + latín termes.
+
 种加词 *simplicicornis*：拉丁文 simplex（简单）+ cornu（角），简单角
 
 EN — epithet *simplicicornis*: Latin simplex (simple) + cornu (horn), simple-horned
+
+ES — epithet *simplicicornis*: Del latín simplex (simple) + cornu (cuerno), de cuerno simple
 
 <!-- src:S0018 -->
 

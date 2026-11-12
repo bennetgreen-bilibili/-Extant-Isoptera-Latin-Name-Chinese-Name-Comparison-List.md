@@ -38,9 +38,13 @@ ES — **大单眼小白蚁** (*Microtermes magnocellus*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *magnocellus*：拉丁文/希腊文 magn（大）+ ocellus（单眼），指大单眼
 
 EN — epithet *magnocellus*: From magn (大) + ocellus (单眼)
+
+ES — epithet *magnocellus*: De magn (grande) + ocellus (ocelo)
 
 <!-- src:S0018 -->
 

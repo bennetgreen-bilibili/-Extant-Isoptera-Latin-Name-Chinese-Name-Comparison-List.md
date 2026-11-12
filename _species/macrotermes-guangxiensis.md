@@ -38,9 +38,13 @@ ES — **广西大白蚁** (*Macrotermes guangxiensis*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *guangxiensis*：以地名 广西 命名
 
 EN — epithet *guangxiensis*: Named after the locality Guangx
+
+ES — epithet *guangxiensis*: Por la localidad de Guangx
 
 <!-- src:S0018 -->
 

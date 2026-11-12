@@ -35,9 +35,13 @@ ES — **库鲁拉乳白蚁** (*Coptotermes cooloola*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *cooloola*：以当地土名或地名命名（澳大利亚 Cooloola）
 
 EN — epithet *cooloola*: After Cooloola (Australia)
+
+ES — epithet *cooloola*: Por la localidad de Cooloola (Australia)
 
 <!-- src:S0018 -->
 

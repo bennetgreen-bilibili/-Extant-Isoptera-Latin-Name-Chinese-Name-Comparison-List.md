@@ -38,9 +38,13 @@ ES — **模糊锯白蚁** (*Microcerotermes indistinctus*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *indistinctus*：拉丁文/希腊文 in-（无、不）+ distinctus（明显），指无明显
 
 EN — epithet *indistinctus*: From in- (without) + distinctus (明显)
+
+ES — epithet *indistinctus*: De in- (sin) + distinctus (evidente)
 
 <!-- src:S0018 -->
 

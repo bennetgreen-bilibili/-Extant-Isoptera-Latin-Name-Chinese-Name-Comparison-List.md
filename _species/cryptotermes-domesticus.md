@@ -37,9 +37,13 @@ ES — **截头堆砂白蚁** (*Cryptotermes domesticus*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *domesticus*：拉丁文 domesticus（家养的、室内的）
 
 EN — epithet *domesticus*: Latin domesticus (domestic, of the house)
+
+ES — epithet *domesticus*: Del latín domesticus (doméstico, de la casa)
 
 <!-- src:S0018 -->
 

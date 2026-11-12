@@ -35,9 +35,13 @@ ES — **海南原鼻白蚁** (*Prorhinotermes hainanensis*) es una especie del 
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *hainanensis*：地名：海南（中国）
 
 EN — epithet *hainanensis*: After Hainan (China)
+
+ES — epithet *hainanensis*: Por Hainan (China)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **古尔格树白蚁** (*Glyptotermes coorgensis*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *coorgensis*：以地名 库格（印度） 命名
 
 EN — epithet *coorgensis*: Named after the locality Coorg
+
+ES — epithet *coorgensis*: Por la localidad de Coorg
 
 <!-- src:S0018 -->
 

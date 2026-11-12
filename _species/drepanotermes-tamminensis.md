@@ -38,9 +38,13 @@ ES — **塔明镰白蚁** (*Drepanotermes tamminensis*) es una especie del gén
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *tamminensis*：以地名 Tammin（塔明，澳大利亚西澳州）命名
 
 EN — epithet *tamminensis*: Named after the locality Tammin (Western Australia)
+
+ES — epithet *tamminensis*: Por la localidad de Tammin (Australia Occidental)
 
 <!-- src:S0018 -->
 

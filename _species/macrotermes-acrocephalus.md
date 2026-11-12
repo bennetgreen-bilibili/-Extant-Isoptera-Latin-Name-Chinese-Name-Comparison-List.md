@@ -38,9 +38,13 @@ ES — **隆头大白蚁** (*Macrotermes acrocephalus*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *acrocephalus*：希腊文 akros（尖、顶端）+ kephalē（头），尖头
 
 EN — epithet *acrocephalus*: Greek akros (apex) + kephalē (head), pointed-headed
+
+ES — epithet *acrocephalus*: Del griego akros (ápice) + kephalē (cabeza), de cabeza puntiaguda
 
 <!-- src:S0018 -->
 

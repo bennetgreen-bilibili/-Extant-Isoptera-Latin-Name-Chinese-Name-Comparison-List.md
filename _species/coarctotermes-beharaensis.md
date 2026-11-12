@@ -38,9 +38,13 @@ ES — **贝哈拉缩狭白蚁** (*Coarctotermes beharaensis*) es una especie de
 
 EN — *Coarctotermes*: From Latin coarctatus (compressed) + termes.
 
+ES — *Coarctotermes*: Del latín coarctatus (comprimido) + termes.
+
 种加词 *beharaensis*：以地名 贝哈拉（马达加斯加） 命名
 
 EN — epithet *beharaensis*: Named after the locality Behara
+
+ES — epithet *beharaensis*: Por la localidad de Behara
 
 <!-- src:S0018 -->
 

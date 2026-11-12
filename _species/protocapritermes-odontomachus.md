@@ -38,9 +38,13 @@ ES — **齿颚始扭白蚁** (*Protocapritermes odontomachus*) es una especie d
 
 EN — *Protocapritermes*: From Greek prōtos (first) + Latin caper (goat) + termes.
 
+ES — *Protocapritermes*: Del griego prōtos (primero) + latín caper (cabra) + termes.
+
 种加词 *odontomachus*：希腊文 odous（齿）+ machē（战斗），齿战士
 
 EN — epithet *odontomachus*: Greek odous (tooth) + machē (battle), tooth-warrior
+
+ES — epithet *odontomachus*: Del griego odous (diente) + machē (combate), guerrero de dientes
 
 <!-- src:S0018 -->
 

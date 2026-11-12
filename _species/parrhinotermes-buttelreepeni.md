@@ -35,9 +35,13 @@ ES — **巴特里彭棒鼻白蚁** (*Parrhinotermes buttelreepeni*) es una espe
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *buttelreepeni*：以人名 von Buttel-Reepen 命名（德国昆虫学家 H. von Buttel-Reepen）
 
 EN — epithet *buttelreepeni*: Named after the entomologist H. von Buttel-Reepen
+
+ES — epithet *buttelreepeni*: En honor del entomólogo H. von Buttel-Reepen
 
 <!-- src:S0018 -->
 

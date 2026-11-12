@@ -38,9 +38,13 @@ ES — **喜庆生白蚁** (*Embiratermes festivellus*) es una especie, y la esp
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *festivellus*：拉丁文 festivus（喜庆）+ -ellus（小），略喜庆
 
 EN — epithet *festivellus*: Latin festivus (festive) + -ellus (small), somewhat festive
+
+ES — epithet *festivellus*: Del latín festivus (festivo) + -ellus (pequeño), algo festivo
 
 <!-- src:S0018 -->
 

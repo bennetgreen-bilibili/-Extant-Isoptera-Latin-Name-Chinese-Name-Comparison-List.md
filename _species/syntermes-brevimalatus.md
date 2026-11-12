@@ -38,9 +38,13 @@ ES — **短颚聚白蚁** (*Syntermes brevimalatus*) es una especie del género
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *brevimalatus*：拉丁文/希腊文 brevimal（短）+ atus（具），指短具
 
 EN — epithet *brevimalatus*: From brevimal (短) + atus (具)
+
+ES — epithet *brevimalatus*: De brevimal (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

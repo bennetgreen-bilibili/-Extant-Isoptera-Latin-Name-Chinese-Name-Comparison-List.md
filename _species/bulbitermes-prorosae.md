@@ -38,9 +38,13 @@ ES — **似罗莎瓢白蚁** (*Bulbitermes prorosae*) es una especie del géner
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *prorosae*：可能源自希腊文 πρῴρα（prora，船首），形容兵蚁鼻突形似船首
 
 EN — epithet *prorosae*: Possibly from Greek prora (prow), alluding to the prow-like nasus
+
+ES — epithet *prorosae*: Posiblemente del griego prora (proa), aludiendo al nasus en forma de proa
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **卵唇散白蚁** (*Reticulitermes ovatilabrum*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *ovatilabrum*：拉丁文/希腊文词根「ov」（卵）
 
 EN — epithet *ovatilabrum*: From the descriptive term 'ov' (egg)
+
+ES — epithet *ovatilabrum*: Del término descriptivo «ov» (huevo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **格拉塞须白蚁** (*Hospitalitermes grassii*) es una especie del gé
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *grassii*：以人名 grass 命名（法国动物学家 P.-P. Grassé）
 
 EN — epithet *grassii*: Named after 法国动物学家 P.-P. Grassé
+
+ES — epithet *grassii*: En honor del zoólogo francés P.-P. Grassé
 
 <!-- src:S0018 -->
 

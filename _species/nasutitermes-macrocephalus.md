@@ -38,9 +38,13 @@ ES — **大头象白蚁** (*Nasutitermes macrocephalus*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *macrocephalus*：希腊文 makros（大）+ kephalē（头），大头
 
 EN — epithet *macrocephalus*: Greek makros (large) + kephalē (head), large-headed
+
+ES — epithet *macrocephalus*: Del griego makros (grande) + kephalē (cabeza), de cabeza grande
 
 <!-- src:S0018 -->
 

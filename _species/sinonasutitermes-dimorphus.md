@@ -38,9 +38,13 @@ ES — **二型华象白蚁** (*Sinonasutitermes dimorphus*) es una especie, y l
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
 
 EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+ES — epithet *dimorphus*: Del griego di- (dos) + morphē (forma), dimorfo
 
 <!-- src:S0018 -->
 

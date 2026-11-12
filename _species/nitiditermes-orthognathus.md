@@ -38,9 +38,13 @@ ES — **直颚净白蚁** (*Nitiditermes orthognathus*) es una especie del gén
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *orthognathus*：希腊文 orthos（直）+ gnathos（颚），直颚
 
 EN — epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straight-jawed
+
+ES — epithet *orthognathus*: Del griego orthos (recto) + gnathos (mandíbula), de mandíbula recta
 
 <!-- src:S0018 -->
 

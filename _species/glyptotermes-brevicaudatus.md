@@ -35,9 +35,13 @@ ES — **短尾树白蚁** (*Glyptotermes brevicaudatus*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *brevicaudatus*：拉丁文/希腊文 brevi（短）+ caudatus（尾），指短尾
 
 EN — epithet *brevicaudatus*: From brevi (短) + caudatus (尾)
+
+ES — epithet *brevicaudatus*: De brevi (corto) + caudatus (cola)
 
 <!-- src:S0018 -->
 

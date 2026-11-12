@@ -37,9 +37,13 @@ ES — **中暗长鼻白蚁** (*Schedorhinotermes medioobscurus*) es una especie
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *medioobscurus*：拉丁文/希腊文 medioobsc（中间）+ urus（尾），指中间尾
 
 EN — epithet *medioobscurus*: From medioobsc (中间) + urus (尾)
+
+ES — epithet *medioobscurus*: De medioobsc (intermedio) + urus (cola)
 
 <!-- src:S0018 -->
 

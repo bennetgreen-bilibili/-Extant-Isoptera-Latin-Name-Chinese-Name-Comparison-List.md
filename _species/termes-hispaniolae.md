@@ -38,9 +38,13 @@ ES — **伊斯帕尼奥拉白蚁** (*Termes hispaniolae*) es una especie del g�
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *hispaniolae*：以伊斯帕尼奥拉岛（Hispaniola）命名
 
 EN — epithet *hispaniolae*: Named after Hispaniola
+
+ES — epithet *hispaniolae*: En honor de La Española (Hispaniola)
 
 <!-- src:S0018 -->
 

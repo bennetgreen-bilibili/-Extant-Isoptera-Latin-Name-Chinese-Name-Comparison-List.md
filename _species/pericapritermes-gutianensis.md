@@ -38,9 +38,13 @@ ES — **古田近扭白蚁** (*Pericapritermes gutianensis*) es una especie del
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *gutianensis*：以地名 古田（福建） 命名
 
 EN — epithet *gutianensis*: Named after the locality Gutian
+
+ES — epithet *gutianensis*: Por la localidad de Gutian
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **杉尾新白蚁** (*Neotermes sugioi*) es una especie del género *Neot
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *sugioi*：以人名 Sugio（Koji Sugio，日本昆虫学家）命名
 
 EN — epithet *sugioi*: Named after Professor Koji Sugio (Japanese entomologist)
+
+ES — epithet *sugioi*: En honor del profesor Koji Sugio (entomólogo japonés)
 
 <!-- src:S0018 -->
 

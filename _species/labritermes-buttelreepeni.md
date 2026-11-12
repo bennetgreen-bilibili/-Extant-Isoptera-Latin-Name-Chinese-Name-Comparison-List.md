@@ -38,9 +38,13 @@ ES — **巴特里彭唇白蚁** (*Labritermes buttelreepeni*) es una especie, y
 
 EN — *Labritermes*: From Latin labrum (upper lip) + termes.
 
+ES — *Labritermes*: Del latín labrum (labio superior) + termes.
+
 种加词 *buttelreepeni*：以人名 von Buttel-Reepen 命名（德国昆虫学家 H. von Buttel-Reepen）
 
 EN — epithet *buttelreepeni*: Named after the entomologist H. von Buttel-Reepen
+
+ES — epithet *buttelreepeni*: En honor del entomólogo H. von Buttel-Reepen
 
 <!-- src:S0018 -->
 

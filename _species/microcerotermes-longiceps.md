@@ -38,9 +38,13 @@ ES — **头长锯白蚁** (*Microcerotermes longiceps*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *longiceps*：拉丁文 longus（长）+ -ceps（头），长头
 
 EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
+
+ES — epithet *longiceps*: Del latín longus (largo) + -ceps (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

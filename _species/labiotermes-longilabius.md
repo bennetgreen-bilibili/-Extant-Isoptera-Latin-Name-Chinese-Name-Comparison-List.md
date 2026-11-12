@@ -38,9 +38,13 @@ ES — **长唇厚唇白蚁** (*Labiotermes longilabius*) es una especie del gé
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *longilabius*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longilabius*: From the descriptive term 'long' (long)
+
+ES — epithet *longilabius*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

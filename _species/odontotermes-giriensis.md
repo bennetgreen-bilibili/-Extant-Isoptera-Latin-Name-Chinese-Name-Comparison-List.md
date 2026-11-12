@@ -38,9 +38,13 @@ ES — **吉里土白蚁** (*Odontotermes giriensis*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *giriensis*：以地名 Giri 命名（或梵语 giri=山）
 
 EN — epithet *giriensis*: Named after the locality Giri (or Sanskrit giri, mountain)
+
+ES — epithet *giriensis*: Por la localidad de Giri (o del sánscrito giri, montaña)
 
 <!-- src:S0018 -->
 

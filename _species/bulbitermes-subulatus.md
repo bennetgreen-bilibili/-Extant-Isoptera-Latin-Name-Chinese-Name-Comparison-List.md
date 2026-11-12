@@ -38,9 +38,13 @@ ES — **似锥瓢白蚁** (*Bulbitermes subulatus*) es una especie del género 
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *subulatus*：拉丁文/希腊文 subul（下、近）+ atus（具），指下、近具
 
 EN — epithet *subulatus*: From subul (下、近) + atus (具)
+
+ES — epithet *subulatus*: De subul (abajo, cerca) + atus (que tiene)
 
 <!-- src:S0018 -->
 

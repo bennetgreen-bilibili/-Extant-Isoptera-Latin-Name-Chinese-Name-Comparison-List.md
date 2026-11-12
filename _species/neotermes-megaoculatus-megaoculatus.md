@@ -36,9 +36,13 @@ ES — **指名亚种** (*Neotermes megaoculatus megaoculatus*) es una subespeci
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *megaoculatus*：拉丁文/希腊文 megaocul（大）+ atus（具），指大具
 
 EN — epithet *megaoculatus*: From megaocul (大) + atus (具)
+
+ES — epithet *megaoculatus*: De megaocul (grande) + atus (provisto de)
 
 <!-- src:S0018 -->
 

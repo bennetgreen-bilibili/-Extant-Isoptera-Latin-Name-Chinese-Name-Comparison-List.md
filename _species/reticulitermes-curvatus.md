@@ -35,9 +35,13 @@ ES — **弯颚散白蚁** (*Reticulitermes curvatus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *curvatus*：拉丁文/希腊文 curv（弯）+ atus（具），指弯具
 
 EN — epithet *curvatus*: From curv (弯) + atus (具)
+
+ES — epithet *curvatus*: De curv (curvo) + atus (provisto de)
 
 <!-- src:S0018 -->
 

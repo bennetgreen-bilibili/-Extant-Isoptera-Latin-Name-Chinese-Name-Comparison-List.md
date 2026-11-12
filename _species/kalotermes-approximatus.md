@@ -35,9 +35,13 @@ ES — **邻近木白蚁** (*Kalotermes approximatus*) es una especie del géner
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *approximatus*：拉丁文 approximatus（接近的）
 
 EN — epithet *approximatus*: Latin approximatus (approaching)
+
+ES — epithet *approximatus*: Del latín approximatus (aproximado)
 
 <!-- src:S0018 -->
 

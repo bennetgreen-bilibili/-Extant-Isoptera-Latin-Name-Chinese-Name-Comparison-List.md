@@ -35,9 +35,13 @@ ES — **哈根散白蚁** (*Reticulitermes hageni*) es una especie del género 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *hageni*：以人名 hagen 命名（德国昆虫学家 H. A. Hagen）
 
 EN — epithet *hageni*: Named after 德国昆虫学家 H. A. Hagen
+
+ES — epithet *hageni*: En honor del entomólogo alemán H. A. Hagen
 
 <!-- src:S0018 -->
 

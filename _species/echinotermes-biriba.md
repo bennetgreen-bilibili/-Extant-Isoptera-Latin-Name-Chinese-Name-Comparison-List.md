@@ -38,9 +38,13 @@ ES — **比里巴多刺白蚁** (*Echinotermes biriba*) es la única especie vi
 
 EN — *Echinotermes*: From Greek echinos (hedgehog, spine) + Latin termes.
 
+ES — *Echinotermes*: Del griego echinos (erizo, espina) + latín termes.
+
 种加词 *biriba*：图皮语土名 biriba（一种树/果实）
 
 EN — epithet *biriba*: Tupi vernacular name biriba (a tree/fruit)
+
+ES — epithet *biriba*: Nombre vernáculo tupí biriba (un árbol/fruto)
 
 <!-- src:S0018 -->
 

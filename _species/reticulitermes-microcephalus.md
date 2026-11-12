@@ -35,9 +35,13 @@ ES — **小头散白蚁** (*Reticulitermes microcephalus*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *microcephalus*：希腊文 mikros（小）+ kephalē（头），小头
 
 EN — epithet *microcephalus*: Greek mikros (small) + kephalē (head), small-headed
+
+ES — epithet *microcephalus*: Del griego mikros (pequeño) + kephalē (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

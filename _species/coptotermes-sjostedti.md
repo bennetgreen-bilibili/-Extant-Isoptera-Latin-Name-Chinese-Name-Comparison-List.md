@@ -37,9 +37,13 @@ ES — **舍斯泰特乳白蚁** (*Coptotermes sjostedti*) es una especie del g�
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
 
 EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 <!-- src:S0018 -->
 

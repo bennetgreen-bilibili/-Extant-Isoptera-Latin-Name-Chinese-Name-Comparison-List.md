@@ -38,9 +38,13 @@ ES — **托普斯利普宽白蚁** (*Eurytermes topslipensis*) es una especie d
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
+ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
+
 种加词 *topslipensis*：以地名 托普斯利普（印度） 命名
 
 EN — epithet *topslipensis*: Named after the locality Topslip
+
+ES — epithet *topslipensis*: Por la localidad de Topslip (India)
 
 <!-- src:S0018 -->
 

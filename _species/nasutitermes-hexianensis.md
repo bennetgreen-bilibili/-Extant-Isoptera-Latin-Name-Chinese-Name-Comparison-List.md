@@ -38,9 +38,13 @@ ES — **和县象白蚁** (*Nasutitermes hexianensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *hexianensis*：以地名 和县（安徽） 命名
 
 EN — epithet *hexianensis*: Named after the locality Hexian
+
+ES — epithet *hexianensis*: Por la localidad de Hexian
 
 <!-- src:S0018 -->
 

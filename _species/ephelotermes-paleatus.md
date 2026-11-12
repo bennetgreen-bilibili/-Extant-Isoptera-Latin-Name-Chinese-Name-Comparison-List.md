@@ -38,9 +38,13 @@ ES — **深颏棒颚白蚁** (*Ephelotermes paleatus*) es una especie del géne
 
 EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ephelotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *paleatus*：拉丁文 paleatus（具糠的、具鳞片的）
 
 EN — epithet *paleatus*: Latin paleatus (chaffy)
+
+ES — epithet *paleatus*: Del latín paleatus (con paja)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **海恩斯细颈白蚁** (*Baucaliotermes hainesi*) es la única especie
 
 EN — *Baucaliotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Baucaliotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hainesi*：以人名 Haines 命名
 
 EN — epithet *hainesi*: Named after Haines
+
+ES — epithet *hainesi*: En honor de Haines
 
 <!-- src:S0018 -->
 

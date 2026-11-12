@@ -35,9 +35,13 @@ ES — **健壮异白蚁** (*Heterotermes validus*) es una especie del género *
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *validus*：拉丁文 validus（强壮的）
 
 EN — epithet *validus*: Latin validus (strong)
+
+ES — epithet *validus*: Del latín validus (fuerte)
 
 <!-- src:S0018 -->
 

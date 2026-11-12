@@ -38,9 +38,13 @@ ES — **似讨厌弓白蚁** (*Amitermes paravilis*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *paravilis*：拉丁文/希腊文 parav（旁）+ ilis（相关），指旁相关
 
 EN — epithet *paravilis*: From parav (旁) + ilis (相关)
+
+ES — epithet *paravilis*: De parav (al lado) + ilis (relativo a)
 
 <!-- src:S0018 -->
 

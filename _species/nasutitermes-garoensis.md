@@ -38,9 +38,13 @@ ES — **山地象白蚁** (*Nasutitermes garoensis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *garoensis*：以地名 加罗丘陵（印度） 命名
 
 EN — epithet *garoensis*: Named after the locality Garo
+
+ES — epithet *garoensis*: Por la localidad de Garo
 
 <!-- src:S0018 -->
 

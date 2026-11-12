@@ -38,9 +38,13 @@ ES — **埃默森钝颚白蚁** (*Ahmaditermes emersoni*) es una especie del g�
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

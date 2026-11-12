@@ -38,9 +38,13 @@ ES — **近缘锯白蚁** (*Microcerotermes peraffinis*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *peraffinis*：拉丁文 per-（非常）+ affinis（近缘），极近缘
 
 EN — epithet *peraffinis*: Latin per- (very) + affinis (related), very closely related
+
+ES — epithet *peraffinis*: Del latín per- (muy) + affinis (emparentado), muy emparentado
 
 <!-- src:S0018 -->
 

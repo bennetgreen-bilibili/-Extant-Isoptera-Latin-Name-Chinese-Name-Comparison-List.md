@@ -38,9 +38,13 @@ ES — **马里维勒瓢白蚁** (*Bulbitermes mariveles*) es una especie del g�
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *mariveles*：地名：马里韦莱斯（菲律宾）
 
 EN — epithet *mariveles*: After Mariveles (Philippines)
+
+ES — epithet *mariveles*: Por Mariveles (Filipinas)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **沃克角象白蚁** (*Cornitermes walkeri*) es una especie del género
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *walkeri*：以人名 walker 命名（英国昆虫学家 F. Walker）
 
 EN — epithet *walkeri*: Named after 英国昆虫学家 F. Walker
+
+ES — epithet *walkeri*: En honor de F. Walker, entomólogo británico
 
 <!-- src:S0018 -->
 

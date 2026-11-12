@@ -38,9 +38,13 @@ ES — **少毛阿特拉斯白蚁** (*Atlantitermes raripilus*) es una especie d
 
 EN — *Atlantitermes*: From the Atlantic + termes.
 
+ES — *Atlantitermes*: Del Atlántico + termes.
+
 种加词 *raripilus*：拉丁文 rarus（稀少）+ pilus（毛），稀毛
 
 EN — epithet *raripilus*: Latin rarus (sparse) + pilus (hair), sparsely hairy
+
+ES — epithet *raripilus*: Del latín rarus (escaso) + pilus (pelo), de pelos escasos
 
 <!-- src:S0018 -->
 

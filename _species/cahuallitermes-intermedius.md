@@ -38,9 +38,13 @@ ES — **中间弃白蚁** (*Cahuallitermes intermedius*) es una especie, y la e
 
 EN — *Cahuallitermes*: From the place name Cahualli; -termes from Latin termes.
 
+ES — *Cahuallitermes*: Del topónimo Cahualli; -termes, del latín termes.
+
 种加词 *intermedius*：拉丁文 intermedius（中间的）
 
 EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+ES — epithet *intermedius*: Del latín intermedius (intermedio)
 
 <!-- src:S0018 -->
 

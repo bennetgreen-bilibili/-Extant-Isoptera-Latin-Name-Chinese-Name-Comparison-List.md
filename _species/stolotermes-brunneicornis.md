@@ -35,9 +35,13 @@ ES — **棕角胄白蚁** (*Stolotermes brunneicornis*) es una especie, y la es
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *brunneicornis*：拉丁文/希腊文 brunnei（褐）+ cornis（角），指褐角
 
 EN — epithet *brunneicornis*: From brunnei (褐) + cornis (角)
+
+ES — epithet *brunneicornis*: De brunnei (marrón) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

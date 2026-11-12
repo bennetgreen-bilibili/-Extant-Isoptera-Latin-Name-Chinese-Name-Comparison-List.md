@@ -38,9 +38,13 @@ ES — **可爱大白蚁** (*Macrotermes gratus*) es una especie del género *Ma
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *gratus*：拉丁文 gratus（令人愉悦的）
 
 EN — epithet *gratus*: Latin gratus (pleasing)
+
+ES — epithet *gratus*: Del latín gratus (agradable)
 
 <!-- src:S0018 -->
 

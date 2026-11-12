@@ -38,9 +38,13 @@ ES — **椭圆大腿白蚁** (*Amplucrutermes inflatus*) es la única especie v
 
 EN — *Amplucrutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amplucrutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *inflatus*：拉丁文/希腊文 infl（膨大）+ atus（具），指膨大具
 
 EN — epithet *inflatus*: From infl (膨大) + atus (具)
+
+ES — epithet *inflatus*: De infl (inflado) + atus (provisto de)
 
 <!-- src:S0018 -->
 

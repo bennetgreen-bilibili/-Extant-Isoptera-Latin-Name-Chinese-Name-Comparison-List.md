@@ -38,9 +38,13 @@ ES — **邻近齿尖白蚁** (*Dentispicotermes conjunctus*) es una especie del
 
 EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
 
+ES — *Dentispicotermes*: Del latín dens (diente) + spica (espiga) + termes.
+
 种加词 *conjunctus*：拉丁文 conjunctus（连接的）
 
 EN — epithet *conjunctus*: Latin conjunctus (joined)
+
+ES — epithet *conjunctus*: Del latín conjunctus (unido)
 
 <!-- src:S0018 -->
 

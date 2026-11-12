@@ -38,9 +38,13 @@ ES — **管鼻弧白蚁** (*Arcotermes tubus*) es la única especie viviente de
 
 EN — *Arcotermes*: From Latin arcus (bow, arch) + termes.
 
+ES — *Arcotermes*: Del latín arcus (arco) + termes.
+
 种加词 *tubus*：拉丁文 tubus（管）
 
 EN — epithet *tubus*: Latin tubus (tube)
+
+ES — epithet *tubus*: Del latín tubus (tubo)
 
 <!-- src:S0018 -->
 

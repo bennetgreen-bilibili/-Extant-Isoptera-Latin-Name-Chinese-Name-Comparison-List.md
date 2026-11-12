@@ -40,9 +40,13 @@ ES — **多哥兰三脉白蚁** (*Trinervitermes togoensis*) es una especie del
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *togoensis*：以地名 多哥 命名
 
 EN — epithet *togoensis*: Named after the locality Togo
+
+ES — epithet *togoensis*: Por la localidad de Togo
 
 <!-- src:S0018 -->
 

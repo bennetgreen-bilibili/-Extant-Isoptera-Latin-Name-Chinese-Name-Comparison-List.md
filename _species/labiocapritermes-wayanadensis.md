@@ -38,9 +38,13 @@ ES — **瓦亚纳德唇扭白蚁** (*Labiocapritermes wayanadensis*) es una esp
 
 EN — *Labiocapritermes*: From Latin labium (lip) + caper (goat) + termes.
 
+ES — *Labiocapritermes*: Del latín labium (labio) + caper (cabra) + termes.
+
 种加词 *wayanadensis*：以地名 瓦亚纳德（印度） 命名
 
 EN — epithet *wayanadensis*: Named after the locality Wayanad
+
+ES — epithet *wayanadensis*: Por la localidad de Wayanad
 
 <!-- src:S0018 -->
 

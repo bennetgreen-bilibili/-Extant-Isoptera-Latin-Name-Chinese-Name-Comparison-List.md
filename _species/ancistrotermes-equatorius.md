@@ -38,9 +38,13 @@ ES — **赤道钩白蚁** (*Ancistrotermes equatorius*) es una especie del gén
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *equatorius*：拉丁文 aequator（赤道），赤道的
 
 EN — epithet *equatorius*: Latin aequator (equator), equatorial
+
+ES — epithet *equatorius*: Del latín aequator (ecuador), ecuatorial
 
 <!-- src:S0018 -->
 

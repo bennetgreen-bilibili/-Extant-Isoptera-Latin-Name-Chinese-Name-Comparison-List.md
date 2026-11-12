@@ -35,9 +35,13 @@ ES — **细颚木白蚁** (*Kalotermes gracilignathus*) es una especie del gén
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *gracilignathus*：拉丁文/希腊文 gracili（细长）+ gnathus（颚），指细长颚
 
 EN — epithet *gracilignathus*: From gracili (细长) + gnathus (颚)
+
+ES — epithet *gracilignathus*: De gracili (esbelto) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

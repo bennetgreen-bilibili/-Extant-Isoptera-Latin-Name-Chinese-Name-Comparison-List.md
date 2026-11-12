@@ -35,9 +35,13 @@ ES — **阿托卡尔佩新白蚁** (*Neotermes artocarpi*) es una especie del g
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *artocarpi*：以波罗蜜属（Artocarpus）命名（寄主植物）
 
 EN — epithet *artocarpi*: After the plant genus Artocarpus
+
+ES — epithet *artocarpi*: Por el género vegetal Artocarpus
 
 <!-- src:S0018 -->
 

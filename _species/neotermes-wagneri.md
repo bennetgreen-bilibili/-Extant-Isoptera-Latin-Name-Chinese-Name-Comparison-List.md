@@ -35,9 +35,13 @@ ES — **瓦格纳新白蚁** (*Neotermes wagneri*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *wagneri*：以人名 Wagner（具体身份待考） 命名
 
 EN — epithet *wagneri*: Named after Wagner
+
+ES — epithet *wagneri*: En honor de Wagner
 
 <!-- src:S0018 -->
 

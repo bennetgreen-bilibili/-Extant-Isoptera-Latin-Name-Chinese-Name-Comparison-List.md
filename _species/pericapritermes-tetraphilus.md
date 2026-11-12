@@ -40,9 +40,13 @@ ES — **大近扭白蚁** (*Pericapritermes tetraphilus*) es una especie del g�
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *tetraphilus*：拉丁文/希腊文词根「tetra」（四）
 
 EN — epithet *tetraphilus*: From the descriptive term 'tetra' (four)
+
+ES — epithet *tetraphilus*: Del término descriptivo «tetra» (cuatro)
 
 <!-- src:S0018 -->
 

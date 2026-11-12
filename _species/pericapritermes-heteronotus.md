@@ -38,9 +38,13 @@ ES — **异背近扭白蚁** (*Pericapritermes heteronotus*) es una especie del
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *heteronotus*：拉丁文/希腊文 hetero（异）+ notus（背），指异背
 
 EN — epithet *heteronotus*: From hetero (异) + notus (背)
+
+ES — epithet *heteronotus*: De hetero (distinto) + notus (dorso)
 
 <!-- src:S0018 -->
 

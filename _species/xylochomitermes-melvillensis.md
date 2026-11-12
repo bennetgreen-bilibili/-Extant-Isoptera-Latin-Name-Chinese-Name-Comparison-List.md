@@ -38,9 +38,13 @@ ES — **梅尔维尔木堆白蚁** (*Xylochomitermes melvillensis*) es una espe
 
 EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
 
+ES — *Xylochomitermes*: Del griego xylon (madera) + chōma (túmulo) + latín termes.
+
 种加词 *melvillensis*：以地名 梅尔维尔岛（澳大利亚） 命名
 
 EN — epithet *melvillensis*: Named after the locality Melvill
+
+ES — epithet *melvillensis*: Por la localidad de Melvill
 
 <!-- src:S0018 -->
 

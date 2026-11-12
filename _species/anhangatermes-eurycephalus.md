@@ -38,9 +38,13 @@ ES — **宽头魔白蚁** (*Anhangatermes eurycephalus*) es una especie del gé
 
 EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
 
+ES — *Anhangatermes*: Del tupí Anhangá (un espíritu mítico del bosque) o del topónimo + -termes.
+
 种加词 *eurycephalus*：希腊文 eurys（宽）+ kephalē（头），宽头
 
 EN — epithet *eurycephalus*: Greek eurys (broad) + kephalē (head), broad-headed
+
+ES — epithet *eurycephalus*: Del griego eurys (ancho) + kephalē (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 

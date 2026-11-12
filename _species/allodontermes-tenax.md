@@ -40,9 +40,13 @@ ES — **执着奇齿白蚁** (*Allodontermes tenax*) es una especie del género
 
 EN — *Allodontermes*: From Greek allos (other) + odous (tooth) + termes.
 
+ES — *Allodontermes*: Del griego allos (otro) + odous (diente) + termes.
+
 种加词 *tenax*：拉丁文 tenax（坚韧的、黏着的）
 
 EN — epithet *tenax*: Latin tenax (tenacious)
+
+ES — epithet *tenax*: Latín tenax (tenaz)
 
 <!-- src:S0018 -->
 

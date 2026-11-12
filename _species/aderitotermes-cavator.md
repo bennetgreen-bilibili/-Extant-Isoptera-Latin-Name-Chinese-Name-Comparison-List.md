@@ -38,9 +38,13 @@ ES — **中空谐白蚁** (*Aderitotermes cavator*) es una especie del género 
 
 EN — *Aderitotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Aderitotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cavator*：拉丁文 cavator（挖掘者）
 
 EN — epithet *cavator*: Latin cavator (digger)
+
+ES — epithet *cavator*: Del latín cavator (cavador)
 
 <!-- src:S0018 -->
 

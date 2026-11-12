@@ -35,9 +35,13 @@ ES — **刚毛散白蚁** (*Reticulitermes setosus*) es una especie del género
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *setosus*：拉丁文/希腊文 set（刚毛）+ osus（多、充满），指刚毛多、充满
 
 EN — epithet *setosus*: From set (刚毛) + osus (多、充满)
+
+ES — epithet *setosus*: De set (cerda) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

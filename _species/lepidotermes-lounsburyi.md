@@ -38,9 +38,13 @@ ES — **劳恩斯伯里鳞白蚁** (*Lepidotermes lounsburyi*) es una especie d
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *lounsburyi*：以人名 lounsbury 命名（C. P. Lounsbury（南非昆虫学家））
 
 EN — epithet *lounsburyi*: Named after C. P. Lounsbury（南非昆虫学家）
+
+ES — epithet *lounsburyi*: En honor de C. P. Lounsbury (entomólogo sudafricano)
 
 <!-- src:S0018 -->
 

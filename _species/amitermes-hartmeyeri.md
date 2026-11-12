@@ -38,9 +38,13 @@ ES — **哈特迈耶弓白蚁** (*Amitermes hartmeyeri*) es una especie del gé
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hartmeyeri*：以人名 Hartmeyer（或 Robert Hartmeyer，德国动物学家）命名
 
 EN — epithet *hartmeyeri*: Named after Hartmeyer
+
+ES — epithet *hartmeyeri*: En honor de Hartmeyer
 
 <!-- src:S0018 -->
 

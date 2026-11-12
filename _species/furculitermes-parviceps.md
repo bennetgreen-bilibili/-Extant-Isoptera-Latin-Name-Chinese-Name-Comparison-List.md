@@ -38,9 +38,13 @@ ES — **小头叉白蚁** (*Furculitermes parviceps*) es una especie del géner
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *parviceps*：拉丁文 parvus（小）+ -ceps（头），小头
 
 EN — epithet *parviceps*: Latin parvus (small) + -ceps (head), small-headed
+
+ES — epithet *parviceps*: Del latín parvus (pequeño) + -ceps (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

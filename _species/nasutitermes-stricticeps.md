@@ -38,9 +38,13 @@ ES — **缩头象白蚁** (*Nasutitermes stricticeps*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *stricticeps*：拉丁文 strictus（紧、直）+ -ceps（头），紧头
 
 EN — epithet *stricticeps*: Latin strictus (tight) + -ceps (head), tight-headed
+
+ES — epithet *stricticeps*: Latín strictus (apretado) + -ceps (cabeza), de cabeza apretada
 
 <!-- src:S0018 -->
 

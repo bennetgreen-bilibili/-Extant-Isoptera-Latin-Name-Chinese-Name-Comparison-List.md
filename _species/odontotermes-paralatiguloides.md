@@ -38,9 +38,13 @@ ES — **近似宽颏土白蚁** (*Odontotermes paralatiguloides*) es una especi
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *paralatiguloides*：拉丁文/希腊文 paralatigul（旁）+ oides（似），指旁似
 
 EN — epithet *paralatiguloides*: From paralatigul (旁) + oides (似)
+
+ES — epithet *paralatiguloides*: De paralatigul (al lado) + oides (semejante a)
 
 <!-- src:S0018 -->
 

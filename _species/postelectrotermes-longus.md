@@ -37,9 +37,13 @@ ES — **长后琥珀白蚁** (*Postelectrotermes longus*) es una especie del g�
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *longus*：拉丁文 longus（长）
 
 EN — epithet *longus*: Latin longus (long)
+
+ES — epithet *longus*: Del latín longus (largo)
 
 <!-- src:S0018 -->
 

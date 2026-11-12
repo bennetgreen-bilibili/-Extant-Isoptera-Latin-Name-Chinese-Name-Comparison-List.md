@@ -38,9 +38,13 @@ ES — **河边土白蚁** (*Odontotermes aquaticus*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *aquaticus*：拉丁文 aquaticus（水生的）
 
 EN — epithet *aquaticus*: Latin aquaticus (aquatic)
+
+ES — epithet *aquaticus*: Del latín aquaticus (acuático)
 
 <!-- src:S0018 -->
 

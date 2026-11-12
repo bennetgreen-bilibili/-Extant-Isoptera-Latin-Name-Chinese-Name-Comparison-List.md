@@ -38,9 +38,13 @@ ES — **阿莱罗辛肠棘白蚁** (*Ekueitermes alerosinus*) es la única espe
 
 EN — *Ekueitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ekueitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *alerosinus*：以人名 Alero 命名（取第一作者 Alejandro Duran 及其父母 Leofrey Duran、Rosario Bautista 名字合成）
 
 EN — epithet *alerosinus*: Named after Alero, combining the names of Alejandro Duran and his parents Leofrey Duran and Rosario Bautista
+
+ES — epithet *alerosinus*: En honor de Alero, combinando los nombres de Alejandro Duran y de sus padres Leofrey Duran y Rosario Bautista
 
 <!-- src:S0018 -->
 

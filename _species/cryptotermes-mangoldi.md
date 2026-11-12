@@ -35,9 +35,13 @@ ES — **曼戈尔德堆砂白蚁** (*Cryptotermes mangoldi*) es una especie del
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *mangoldi*：以人名 Mangold（曼戈尔德）命名
 
 EN — epithet *mangoldi*: Named after Mangold
+
+ES — epithet *mangoldi*: En honor de Mangold
 
 <!-- src:S0018 -->
 

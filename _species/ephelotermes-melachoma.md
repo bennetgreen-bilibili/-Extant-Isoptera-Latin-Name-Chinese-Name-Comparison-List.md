@@ -38,9 +38,13 @@ ES — **黑垄棒颚白蚁** (*Ephelotermes melachoma*) es una especie, y la es
 
 EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ephelotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *melachoma*：拉丁文/希腊文词根「mela」（黑）
 
 EN — epithet *melachoma*: From the descriptive term 'mela' (black)
+
+ES — epithet *melachoma*: Del término descriptivo «mela» (negro)
 
 <!-- src:S0018 -->
 

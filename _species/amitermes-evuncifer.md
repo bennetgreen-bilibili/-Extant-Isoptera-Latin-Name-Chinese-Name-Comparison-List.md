@@ -40,9 +40,13 @@ ES — **完胜弓白蚁** (*Amitermes evuncifer*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *evuncifer*：拉丁文 e-（出）+ uncus（钩）+ -fer（具），具钩
 
 EN — epithet *evuncifer*: Latin e- (out) + uncus (hook) + -fer (bearing), hooked
+
+ES — epithet *evuncifer*: Del latín e- (fuera) + uncus (gancho) + -fer (portador), ganchudo
 
 <!-- src:S0018 -->
 

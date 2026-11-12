@@ -37,9 +37,13 @@ ES — **乳色乳白蚁** (*Coptotermes lacteus*) es una especie del género *C
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *lacteus*：拉丁文 lacteus（乳白色的）
 
 EN — epithet *lacteus*: Latin lacteus (milky)
+
+ES — epithet *lacteus*: Del latín lacteus (lácteo)
 
 <!-- src:S0018 -->
 

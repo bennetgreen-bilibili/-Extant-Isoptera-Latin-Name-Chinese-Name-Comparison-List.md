@@ -35,9 +35,13 @@ ES — **中凹寡脉白蚁** (*Termitogeton umbilicatus*) es una especie del g�
 
 EN — *Termitogeton*: From Greek termit- (termite) + geitōn (neighbor), 'termite's neighbor'.
 
+ES — *Termitogeton*: Del griego termit- (termita) + geitōn (vecino), «vecino de las termitas».
+
 种加词 *umbilicatus*：拉丁文 umbilicatus（具脐的）
 
 EN — epithet *umbilicatus*: Latin umbilicatus (umbilicate)
+
+ES — epithet *umbilicatus*: Del latín umbilicatus (umbilicado)
 
 <!-- src:S0018 -->
 

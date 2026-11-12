@@ -35,9 +35,13 @@ ES — **圆唇散白蚁** (*Reticulitermes labralis*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *labralis*：拉丁文 labralis（唇的、唇基的）
 
 EN — epithet *labralis*: Latin labralis (of the labrum)
+
+ES — epithet *labralis*: Del latín labralis (del labro)
 
 <!-- src:S0018 -->
 

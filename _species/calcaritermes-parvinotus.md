@@ -35,9 +35,13 @@ ES — **小背距白蚁** (*Calcaritermes parvinotus*) es una especie del géne
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *parvinotus*：拉丁文/希腊文 parvi（小）+ notus（背），指小背
 
 EN — epithet *parvinotus*: From parvi (小) + notus (背)
+
+ES — epithet *parvinotus*: De parvi (pequeño) + notus (dorso)
 
 <!-- src:S0018 -->
 

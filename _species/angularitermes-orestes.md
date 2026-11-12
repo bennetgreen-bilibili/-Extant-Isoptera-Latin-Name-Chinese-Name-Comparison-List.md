@@ -38,9 +38,13 @@ ES — **俄瑞斯忒斯棱角白蚁** (*Angularitermes orestes*) es una especie
 
 EN — *Angularitermes*: From Latin angularis (angular) + termes.
 
+ES — *Angularitermes*: Del latín angularis (angular) + termes.
+
 种加词 *orestes*：希腊文 Orestes（俄瑞斯忒斯，或意为山人）
 
 EN — epithet *orestes*: Greek Orestes (mountain-dweller, or the hero)
+
+ES — epithet *orestes*: Del griego Orestes (habitante de montañas, o el héroe)
 
 <!-- src:S0018 -->
 

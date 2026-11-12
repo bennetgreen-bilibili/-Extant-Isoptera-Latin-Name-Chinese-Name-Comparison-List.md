@@ -35,9 +35,13 @@ ES — **新中华散白蚁** (*Reticulitermes neochinensis*) es una especie del
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *neochinensis*：希腊文 neos（新）＋拉丁文 chinensis（中国的），指新中华（新中国发现的新种）
 
 EN — epithet *neochinensis*: Greek neos (new) + Latin chinensis (of China): new Chinese species
+
+ES — epithet *neochinensis*: Del griego neos (nuevo) + latín chinensis (de China): nueva especie de China
 
 <!-- src:S0018 -->
 

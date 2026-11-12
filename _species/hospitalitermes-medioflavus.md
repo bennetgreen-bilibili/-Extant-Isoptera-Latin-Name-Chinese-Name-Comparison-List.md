@@ -38,9 +38,13 @@ ES — **中黄须白蚁** (*Hospitalitermes medioflavus*) es una especie del g�
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *medioflavus*：拉丁文 medius（中间）+ flavus（黄），中黄
 
 EN — epithet *medioflavus*: Latin medius (middle) + flavus (yellow), mid-yellow
+
+ES — epithet *medioflavus*: Del latín medius (medio) + flavus (amarillo), de amarillo medio
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **弗尔特科新白蚁** (*Neotermes voeltzkowi*) es una especie del gé
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *voeltzkowi*：以人名 Voeltzkow（Alfred Voeltzkow，德国博物学家） 命名
 
 EN — epithet *voeltzkowi*: Named after Alfred Voeltzkow (German naturalist)
+
+ES — epithet *voeltzkowi*: En honor de Alfred Voeltzkow (naturalista alemán)
 
 <!-- src:S0018 -->
 

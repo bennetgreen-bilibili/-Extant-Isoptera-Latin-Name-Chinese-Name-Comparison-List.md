@@ -35,9 +35,13 @@ ES — **中部新白蚁** (*Neotermes medius*) es una especie del género *Neot
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *medius*：拉丁文 medius（中间）
 
 EN — epithet *medius*: Latin medius (middle)
+
+ES — epithet *medius*: Del latín medius (medio)
 
 <!-- src:S0018 -->
 

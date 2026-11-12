@@ -40,9 +40,13 @@ ES — **具孔平白蚁** (*Homallotermes foraminifer*) es una especie, y la es
 
 EN — *Homallotermes*: From Greek homalos (even, level) + Latin termes.
 
+ES — *Homallotermes*: Del griego homalos (uniforme, llano) + latín termes.
+
 种加词 *foraminifer*：拉丁文 foramen（孔）+ -fer（具），具孔
 
 EN — epithet *foraminifer*: Latin foramen (opening) + -fer (bearing), pore-bearing
+
+ES — epithet *foraminifer*: Del latín foramen (abertura) + -fer (portador), portador de poros
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **凯姆勒象白蚁** (*Nasutitermes kemneri*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *kemneri*：以人名 Kemner 命名（瑞典昆虫学家 N. A. Kemner）
 
 EN — epithet *kemneri*: Named after the entomologist N. A. Kemner
+
+ES — epithet *kemneri*: En honor del entomólogo N. A. Kemner
 
 <!-- src:S0018 -->
 

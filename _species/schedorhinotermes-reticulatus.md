@@ -35,9 +35,13 @@ ES — **网状长鼻白蚁** (*Schedorhinotermes reticulatus*) es una especie d
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *reticulatus*：拉丁文/希腊文 reticul（网状）+ atus（具），指网状具
 
 EN — epithet *reticulatus*: From reticul (网状) + atus (具)
+
+ES — epithet *reticulatus*: De reticul (reticulado) + atus (que posee)
 
 <!-- src:S0018 -->
 

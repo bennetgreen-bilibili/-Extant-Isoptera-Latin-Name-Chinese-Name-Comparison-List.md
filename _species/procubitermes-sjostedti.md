@@ -38,9 +38,13 @@ ES — **舍斯泰特原方白蚁** (*Procubitermes sjostedti*) es una especie d
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
 
 EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 <!-- src:S0018 -->
 

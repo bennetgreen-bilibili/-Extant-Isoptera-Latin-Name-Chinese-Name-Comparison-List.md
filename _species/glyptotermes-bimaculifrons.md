@@ -35,9 +35,13 @@ ES — **双斑树白蚁** (*Glyptotermes bimaculifrons*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *bimaculifrons*：拉丁文/希腊文 bimaculi（双斑）+ frons（额），指双斑额
 
 EN — epithet *bimaculifrons*: From bimaculi (双斑) + frons (额)
+
+ES — epithet *bimaculifrons*: De bimaculi (dos manchas) + frons (frente)
 
 <!-- src:S0018 -->
 

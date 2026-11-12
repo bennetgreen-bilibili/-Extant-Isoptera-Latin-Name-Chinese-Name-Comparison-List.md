@@ -38,9 +38,13 @@ ES — **马利克锯白蚁** (*Microcerotermes maliki*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *maliki*：以人名 Malik（马利克）命名
 
 EN — epithet *maliki*: Named after Malik
+
+ES — epithet *maliki*: En honor de Malik
 
 <!-- src:S0018 -->
 

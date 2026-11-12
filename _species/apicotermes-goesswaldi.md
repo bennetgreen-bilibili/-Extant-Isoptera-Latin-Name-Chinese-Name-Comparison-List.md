@@ -38,9 +38,13 @@ ES — **格斯瓦尔德尖白蚁** (*Apicotermes goesswaldi*) es una especie de
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *goesswaldi*：以人名 Karl Gößwald（德国蚁学家）命名
 
 EN — epithet *goesswaldi*: Named after Karl Gößwald
+
+ES — epithet *goesswaldi*: En honor de Karl Gößwald
 
 <!-- src:S0018 -->
 

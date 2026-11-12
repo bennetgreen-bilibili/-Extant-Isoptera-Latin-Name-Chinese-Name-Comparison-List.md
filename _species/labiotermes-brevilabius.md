@@ -38,9 +38,13 @@ ES — **短唇厚唇白蚁** (*Labiotermes brevilabius*) es una especie del gé
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *brevilabius*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevilabius*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevilabius*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

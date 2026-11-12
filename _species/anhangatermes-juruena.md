@@ -38,9 +38,13 @@ ES — **茹鲁埃纳魔白蚁** (*Anhangatermes juruena*) es una especie del g�
 
 EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
 
+ES — *Anhangatermes*: Del tupí Anhangá (un espíritu mítico del bosque) o del topónimo + -termes.
+
 种加词 *juruena*：地名：茹鲁埃纳河（巴西）
 
 EN — epithet *juruena*: After the Juruena River (Brazil)
+
+ES — epithet *juruena*: Por el río Juruena (Brasil)
 
 <!-- src:S0018 -->
 

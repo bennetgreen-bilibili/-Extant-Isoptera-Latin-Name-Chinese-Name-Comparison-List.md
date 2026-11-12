@@ -35,9 +35,13 @@ ES — **哈伯德边白蚁** (*Marginitermes hubbardi*) es una especie, y la es
 
 EN — *Marginitermes*: From Latin margo (margin) + termes.
 
+ES — *Marginitermes*: Del latín margo (margen) + termes.
+
 种加词 *hubbardi*：以人名 Henry G. Hubbard（美国昆虫学家）命名
 
 EN — epithet *hubbardi*: Named after Henry G. Hubbard
+
+ES — epithet *hubbardi*: En honor de Henry G. Hubbard
 
 <!-- src:S0018 -->
 

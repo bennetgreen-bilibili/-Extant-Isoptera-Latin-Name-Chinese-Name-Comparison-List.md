@@ -38,9 +38,13 @@ ES — **似祖鲁锯白蚁** (*Microcerotermes zuluoides*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *zuluoides*：祖鲁族 + 希腊文 -oides（似），似祖鲁
 
 EN — epithet *zuluoides*: Zulu + Greek -oides (like)
+
+ES — epithet *zuluoides*: Zulú + griego -oides (semejante)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **弗莱锯白蚁** (*Microcerotermes flyensis*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *flyensis*：以地名 弗莱河（巴布亚新几内亚） 命名
 
 EN — epithet *flyensis*: Named after the locality Fly
+
+ES — epithet *flyensis*: Por la localidad de Fly
 
 <!-- src:S0018 -->
 

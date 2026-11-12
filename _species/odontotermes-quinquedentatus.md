@@ -38,9 +38,13 @@ ES — **五齿土白蚁** (*Odontotermes quinquedentatus*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *quinquedentatus*：拉丁文/希腊文 quinquedent（五）+ atus（具），指五具
 
 EN — epithet *quinquedentatus*: From quinquedent (五) + atus (具)
+
+ES — epithet *quinquedentatus*: De quinquedent (cinco) + atus (que posee)
 
 <!-- src:S0018 -->
 

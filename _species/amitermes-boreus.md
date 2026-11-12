@@ -38,9 +38,13 @@ ES — **北方弓白蚁** (*Amitermes boreus*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *boreus*：希腊文 boreas（北风、北方）
 
 EN — epithet *boreus*: Greek boreas (north wind, northern)
+
+ES — epithet *boreus*: Del griego boreas (viento del norte, septentrional)
 
 <!-- src:S0018 -->
 

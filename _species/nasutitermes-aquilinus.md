@@ -40,9 +40,13 @@ ES — **鹰喙象白蚁** (*Nasutitermes aquilinus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *aquilinus*：拉丁文 aquilinus（鹰的、鹰状的）
 
 EN — epithet *aquilinus*: Latin aquilinus (eagle-like)
+
+ES — epithet *aquilinus*: Del latín aquilinus (semejante al águila)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **小囟突扭白蚁** (*Dicuspiditermes fontanellus*) es una especie del
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *fontanellus*：拉丁文 fontana（泉）+ -ellus（小），小泉
 
 EN — epithet *fontanellus*: Latin fontana (spring) + -ellus (small), little spring
+
+ES — epithet *fontanellus*: Del latín fontana (manantial) + -ellus (pequeño), manantial pequeño
 
 <!-- src:S0018 -->
 

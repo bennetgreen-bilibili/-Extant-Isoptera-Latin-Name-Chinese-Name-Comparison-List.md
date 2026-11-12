@@ -35,9 +35,13 @@ ES — **眼显舌白蚁** (*Glossotermes oculatus*) es una especie, y la especi
 
 EN — *Glossotermes*: From Greek glōssa (tongue) + Latin termes.
 
+ES — *Glossotermes*: Del griego glōssa (lengua) + latín termes.
+
 种加词 *oculatus*：拉丁文/希腊文 ocul（眼）+ atus（具），指眼具
 
 EN — epithet *oculatus*: From ocul (眼) + atus (具)
+
+ES — epithet *oculatus*: De ocul (ojo) + atus (que posee)
 
 <!-- src:S0018 -->
 

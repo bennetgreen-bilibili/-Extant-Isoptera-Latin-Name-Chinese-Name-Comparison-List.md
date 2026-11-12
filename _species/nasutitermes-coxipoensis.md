@@ -38,9 +38,13 @@ ES — **科西波象白蚁** (*Nasutitermes coxipoensis*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *coxipoensis*：以地名 Coxipó 命名
 
 EN — epithet *coxipoensis*: Named after the locality Coxipó
+
+ES — epithet *coxipoensis*: Por la localidad de Coxipó
 
 <!-- src:S0018 -->
 

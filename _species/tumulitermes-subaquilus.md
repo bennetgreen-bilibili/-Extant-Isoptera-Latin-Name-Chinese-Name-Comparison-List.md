@@ -38,9 +38,13 @@ ES — **稍暗冢白蚁** (*Tumulitermes subaquilus*) es una especie del géner
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *subaquilus*：拉丁文/希腊文词根「sub」（下、近）
 
 EN — epithet *subaquilus*: From the descriptive term 'sub' (sub-)
+
+ES — epithet *subaquilus*: Del término descriptivo «sub» (sub-)
 
 <!-- src:S0018 -->
 

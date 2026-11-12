@@ -38,9 +38,13 @@ ES — **荫生多铲白蚁** (*Polyspathotermes umbratus*) es una especie del g
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *umbratus*：拉丁文 umbratus（遮荫的、暗色的）
 
 EN — epithet *umbratus*: Latin umbratus (shaded)
+
+ES — epithet *umbratus*: Del latín umbratus (sombreado)
 
 <!-- src:S0018 -->
 

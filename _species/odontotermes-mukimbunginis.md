@@ -38,9 +38,13 @@ ES — **穆金本古土白蚁** (*Odontotermes mukimbunginis*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *mukimbunginis*：地名：Mukimbungu（刚果）
 
 EN — epithet *mukimbunginis*: After Mukimbungu (Congo)
+
+ES — epithet *mukimbunginis*: Por Mukimbungu (Congo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **安嫩代尔锯白蚁** (*Microcerotermes annandalei*) es una especie d
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *annandalei*：以人名 Nelson Annandale（印度昆虫学家）命名
 
 EN — epithet *annandalei*: Named after the entomologist Nelson Annandale
+
+ES — epithet *annandalei*: En honor del entomólogo Nelson Annandale
 
 <!-- src:S0018 -->
 

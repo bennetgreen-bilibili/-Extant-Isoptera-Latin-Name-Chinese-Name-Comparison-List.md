@@ -38,9 +38,13 @@ ES — **藏隐白蚁** (*Occultitermes occultus*) es una especie, y la especie 
 
 EN — *Occultitermes*: From Latin occultus (hidden) + termes.
 
+ES — *Occultitermes*: Del latín occultus (oculto) + termes.
+
 种加词 *occultus*：拉丁文 occultus（隐蔽的）
 
 EN — epithet *occultus*: Latin occultus (hidden)
+
+ES — epithet *occultus*: Del latín occultus (oculto)
 
 <!-- src:S0018 -->
 

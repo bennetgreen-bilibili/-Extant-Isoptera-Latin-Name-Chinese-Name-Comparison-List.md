@@ -38,9 +38,13 @@ ES — **屏南钝颚白蚁** (*Ahmaditermes pingnanensis*) es una especie del g
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *pingnanensis*：以地名 平南（广西） 命名
 
 EN — epithet *pingnanensis*: Named after the locality Pingnan
+
+ES — epithet *pingnanensis*: Por la localidad de Pingnan
 
 <!-- src:S0018 -->
 

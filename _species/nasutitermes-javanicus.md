@@ -38,9 +38,13 @@ ES — **爪哇象白蚁** (*Nasutitermes javanicus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *javanicus*：以地名 爪哇 命名
 
 EN — epithet *javanicus*: Named after the locality Javan
+
+ES — epithet *javanicus*: Por la localidad de Javan
 
 <!-- src:S0018 -->
 

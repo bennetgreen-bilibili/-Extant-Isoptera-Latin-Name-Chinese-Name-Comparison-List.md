@@ -38,9 +38,13 @@ ES — **埃默森弓白蚁** (*Amitermes emersoni*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

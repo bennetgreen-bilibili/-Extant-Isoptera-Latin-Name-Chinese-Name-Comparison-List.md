@@ -35,9 +35,13 @@ ES — **纹头堆砂白蚁** (*Cryptotermes undulans*) es una especie del géne
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *undulans*：拉丁文 undulans（波状的）
 
 EN — epithet *undulans*: Latin undulans (wavy)
+
+ES — epithet *undulans*: Del latín undulans (ondulante)
 
 <!-- src:S0018 -->
 

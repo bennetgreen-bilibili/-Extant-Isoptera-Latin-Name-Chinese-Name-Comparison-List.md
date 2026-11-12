@@ -38,9 +38,13 @@ ES — **莫罕娜宽白蚁** (*Eurytermes mohana*) es una especie del género *
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
+ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
+
 种加词 *mohana*：以人名或地名 Mohana 命名
 
 EN — epithet *mohana*: Named after Mohana (person or place)
+
+ES — epithet *mohana*: En honor de Mohana (persona o lugar)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **安哥拉锐颚白蚁** (*Hoplognathotermes angolensis*) es una especie
 
 EN — *Hoplognathotermes*: From Greek hoplon (weapon) + gnathos (jaw) + Latin termes.
 
+ES — *Hoplognathotermes*: Del griego hoplon (arma) + gnathos (mandíbula) + latín termes.
+
 种加词 *angolensis*：以地名 安哥拉 命名
 
 EN — epithet *angolensis*: Named after the locality Angol
+
+ES — epithet *angolensis*: Por la localidad de Angol
 
 <!-- src:S0018 -->
 

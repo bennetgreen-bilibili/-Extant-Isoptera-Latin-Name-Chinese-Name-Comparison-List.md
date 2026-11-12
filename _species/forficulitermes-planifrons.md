@@ -38,9 +38,13 @@ ES — **扁额剪白蚁** (*Forficulitermes planifrons*) es la única especie v
 
 EN — *Forficulitermes*: From Latin forficula (little shears, earwig) + termes.
 
+ES — *Forficulitermes*: Del latín forficula (tijerillas pequeñas, tijereta) + termes.
+
 种加词 *planifrons*：拉丁文 planus（平）+ frons（额），指额平
 
 EN — epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
+
+ES — epithet *planifrons*: Del latín planus (plano) + frons (frente), de frente plana
 
 <!-- src:S0018 -->
 

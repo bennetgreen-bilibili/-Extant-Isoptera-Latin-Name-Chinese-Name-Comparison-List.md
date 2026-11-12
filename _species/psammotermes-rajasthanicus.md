@@ -35,9 +35,13 @@ ES — **拉贾斯坦沙白蚁** (*Psammotermes rajasthanicus*) es una especie d
 
 EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
 
+ES — *Psammotermes*: Del griego psammos (arena) + latín termes.
+
 种加词 *rajasthanicus*：以地名 拉贾斯坦（印度）命名
 
 EN — epithet *rajasthanicus*: Named after Rajasthan, India
+
+ES — epithet *rajasthanicus*: Por Rajastán, India
 
 <!-- src:S0018 -->
 

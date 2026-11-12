@@ -38,9 +38,13 @@ ES — **长颚弓白蚁** (*Amitermes procerus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *procerus*：拉丁文/希腊文 pro（前）+ cerus（角），指前角
 
 EN — epithet *procerus*: From pro (前) + cerus (角)
+
+ES — epithet *procerus*: De pro (delante) + cerus (cuerno)
 
 <!-- src:S0018 -->
 

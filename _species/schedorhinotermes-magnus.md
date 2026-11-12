@@ -35,9 +35,13 @@ ES — **大长鼻白蚁** (*Schedorhinotermes magnus*) es una especie del géne
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *magnus*：拉丁文 magnus（大）
 
 EN — epithet *magnus*: Latin magnus (large)
+
+ES — epithet *magnus*: Del latín magnus (grande)
 
 <!-- src:S0018 -->
 

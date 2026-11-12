@@ -38,9 +38,13 @@ ES — **问题小白蚁** (*Microtermes problematicus*) es una especie del gén
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *problematicus*：拉丁文 problematicus（有疑问的、存疑的）
 
 EN — epithet *problematicus*: Latin problematicus (problematic, doubtful)
+
+ES — epithet *problematicus*: Del latín problematicus (problemático, dudoso)
 
 <!-- src:S0018 -->
 

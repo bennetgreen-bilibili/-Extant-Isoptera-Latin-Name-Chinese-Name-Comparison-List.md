@@ -38,9 +38,13 @@ ES — **库德雷穆克锯白蚁** (*Microcerotermes kudremukhae*) es una espec
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *kudremukhae*：以地名 Kudremukh（印度卡纳塔克邦）命名
 
 EN — epithet *kudremukhae*: Named after Kudremukh (Karnataka, India)
+
+ES — epithet *kudremukhae*: Por Kudremukh (Karnataka, India)
 
 <!-- src:S0018 -->
 

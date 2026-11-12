@@ -35,9 +35,13 @@ ES — **圆额树白蚁** (*Glyptotermes rotundifrons*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *rotundifrons*：拉丁文/希腊文 rotundi（圆）+ frons（额），指圆额
 
 EN — epithet *rotundifrons*: From rotundi (圆) + frons (额)
+
+ES — epithet *rotundifrons*: De rotundi (redondo) + frons (frente)
 
 <!-- src:S0018 -->
 

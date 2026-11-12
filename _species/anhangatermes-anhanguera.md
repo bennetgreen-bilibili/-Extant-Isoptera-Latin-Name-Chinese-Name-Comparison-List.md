@@ -38,9 +38,13 @@ ES — **魔鬼魔白蚁** (*Anhangatermes anhanguera*) es una especie del géne
 
 EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
 
+ES — *Anhangatermes*: Del tupí Anhangá (un espíritu mítico del bosque) o del topónimo + -termes.
+
 种加词 *anhanguera*：图皮语 Anhangá（老魔鬼、恶灵）
 
 EN — epithet *anhanguera*: Tupi Anhangá (evil spirit)
+
+ES — epithet *anhanguera*: Del tupí Anhangá (espíritu maligno)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **赞博恩格尔白蚁** (*Engelitermes zambo*) es la única especie viv
 
 EN — *Engelitermes*: Named after the entomologist M. S. Engel; -termes from Latin termes.
 
+ES — *Engelitermes*: En honor del entomólogo M. S. Engel; -termes, del latín termes.
+
 种加词 *zambo*：桑博人（非洲与美洲原住民混血）
 
 EN — epithet *zambo*: After the Zambo people
+
+ES — epithet *zambo*: Por el pueblo zambo
 
 <!-- src:S0018 -->
 

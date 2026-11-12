@@ -35,9 +35,13 @@ ES — **蟹腿散白蚁** (*Reticulitermes cancrifemuris*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *cancrifemuris*：拉丁文 cancer（蟹）+ femur（股），蟹股
 
 EN — epithet *cancrifemuris*: Latin cancer (crab) + femur (thigh), crab-thighed
+
+ES — epithet *cancrifemuris*: Del latín cancer (cangrejo) + femur (muslo), de muslos de cangrejo
 
 <!-- src:S0018 -->
 

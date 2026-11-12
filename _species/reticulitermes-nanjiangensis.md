@@ -35,9 +35,13 @@ ES — **南江散白蚁** (*Reticulitermes nanjiangensis*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *nanjiangensis*：以地名 南江（四川） 命名
 
 EN — epithet *nanjiangensis*: Named after the locality Nanjiang
+
+ES — epithet *nanjiangensis*: Por la localidad de Nanjiang
 
 <!-- src:S0018 -->
 

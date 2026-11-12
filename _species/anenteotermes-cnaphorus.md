@@ -38,9 +38,13 @@ ES — **笨神无甲白蚁** (*Anenteotermes cnaphorus*) es una especie del gé
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cnaphorus*：希腊文 knaphos（毛）+ -phoros（具），具毛
 
 EN — epithet *cnaphorus*: Greek knaphos (wool) + -phoros (bearing)
+
+ES — epithet *cnaphorus*: Del griego knaphos (lana) + -phoros (que lleva)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **脱皮瘤突白蚁** (*Ekphysotermes pelatus*) es una especie del géne
 
 EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ekphysotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pelatus*：拉丁文/希腊文 pel（暗）+ atus（具），指暗具
 
 EN — epithet *pelatus*: From pel (暗) + atus (具)
+
+ES — epithet *pelatus*: De pel (oscuro) + atus (que posee)
 
 <!-- src:S0018 -->
 

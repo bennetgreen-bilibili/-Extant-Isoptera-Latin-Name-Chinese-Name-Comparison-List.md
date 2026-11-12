@@ -40,9 +40,13 @@ ES — **多刺聚白蚁** (*Syntermes spinosus*) es una especie del género *Sy
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *spinosus*：拉丁文 spinosus（多刺）
 
 EN — epithet *spinosus*: Latin spinosus (spiny)
+
+ES — epithet *spinosus*: Del latín spinosus (espinoso)
 
 <!-- src:S0018 -->
 

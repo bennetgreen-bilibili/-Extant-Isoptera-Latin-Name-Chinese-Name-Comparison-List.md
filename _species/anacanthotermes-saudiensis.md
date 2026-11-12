@@ -35,9 +35,13 @@ ES — **沙特无刺白蚁** (*Anacanthotermes saudiensis*) es una especie del 
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *saudiensis*：以地名 沙特阿拉伯 命名
 
 EN — epithet *saudiensis*: Named after the locality Saud
+
+ES — epithet *saudiensis*: Por la localidad de Saud
 
 <!-- src:S0018 -->
 

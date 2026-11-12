@@ -38,9 +38,13 @@ ES — **中部象白蚁** (*Nasutitermes centraliensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *centraliensis*：拉丁文 centralis（中央的、中部的）
 
 EN — epithet *centraliensis*: From Latin centralis (central)
+
+ES — epithet *centraliensis*: Del latín centralis (central)
 
 <!-- src:S0018 -->
 

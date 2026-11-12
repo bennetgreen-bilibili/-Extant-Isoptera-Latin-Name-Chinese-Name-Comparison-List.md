@@ -38,9 +38,13 @@ ES — **粗颚弓白蚁** (*Amitermes inspissatus*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *inspissatus*：拉丁文 inspissatus（增厚的）
 
 EN — epithet *inspissatus*: Latin inspissatus (thickened)
+
+ES — epithet *inspissatus*: Del latín inspissatus (espesado)
 
 <!-- src:S0018 -->
 

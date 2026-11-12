@@ -38,9 +38,13 @@ ES — **厚壳净白蚁** (*Nitiditermes testaceus*) es una especie del género
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *testaceus*：拉丁文 testaceus（砖红、陶色）
 
 EN — epithet *testaceus*: Latin testaceus (brick-coloured)
+
+ES — epithet *testaceus*: Latín testaceus (de color ladrillo)
 
 <!-- src:S0018 -->
 

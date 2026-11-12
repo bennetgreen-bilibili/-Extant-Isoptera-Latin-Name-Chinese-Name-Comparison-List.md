@@ -38,9 +38,13 @@ ES — **缩短弯肠白蚁** (*Aparatermes abbreviatus*) es una especie, y la e
 
 EN — *Aparatermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Aparatermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *abbreviatus*：拉丁文 abbreviatus（缩短的）
 
 EN — epithet *abbreviatus*: Latin abbreviatus (shortened)
+
+ES — epithet *abbreviatus*: Del latín abbreviatus (acortado)
 
 <!-- src:S0018 -->
 

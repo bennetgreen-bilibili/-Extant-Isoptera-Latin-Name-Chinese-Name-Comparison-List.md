@@ -38,9 +38,13 @@ ES — **圆头无名白蚁** (*Ereymatermes rotundiceps*) es una especie, y la 
 
 EN — *Ereymatermes*: From the place name Ereyma; -termes from Latin termes.
 
+ES — *Ereymatermes*: Del topónimo Ereyma; -termes, del latín termes.
+
 种加词 *rotundiceps*：拉丁文 rotundus（圆）+ -ceps（头），圆头
 
 EN — epithet *rotundiceps*: Latin rotundus (round) + -ceps (head), round-headed
+
+ES — epithet *rotundiceps*: Del latín rotundus (redondo) + -ceps (cabeza), de cabeza redonda
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **好望角土白蚁** (*Odontotermes capensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *capensis*：拉丁文 capensis，开普（好望角）的
 
 EN — epithet *capensis*: From Latin capensis, of the Cape (of Good Hope)
+
+ES — epithet *capensis*: Del latín capensis, del Cabo (de Buena Esperanza)
 
 <!-- src:S0018 -->
 

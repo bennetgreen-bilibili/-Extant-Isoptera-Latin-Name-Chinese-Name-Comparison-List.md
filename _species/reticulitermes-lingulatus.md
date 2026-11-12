@@ -35,9 +35,13 @@ ES — **舌唇散白蚁** (*Reticulitermes lingulatus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *lingulatus*：拉丁文 lingulatus（舌形的）
 
 EN — epithet *lingulatus*: Latin lingulatus (tongue-shaped)
+
+ES — epithet *lingulatus*: Del latín lingulatus (en forma de lengua)
 
 <!-- src:S0018 -->
 

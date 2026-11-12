@@ -38,9 +38,13 @@ ES — **亨德里克斯叉白蚁** (*Furculitermes hendrickxi*) es una especie 
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *hendrickxi*：以人名 Hendrickx 命名
 
 EN — epithet *hendrickxi*: Named after Hendrickx
+
+ES — epithet *hendrickxi*: En honor de Hendrickx
 
 <!-- src:S0018 -->
 

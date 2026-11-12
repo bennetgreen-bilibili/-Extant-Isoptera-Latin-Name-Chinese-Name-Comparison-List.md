@@ -38,9 +38,13 @@ ES — **小前白蚁** (*Protermes minutus*) es una especie del género *Proter
 
 EN — *Protermes*: From Greek pro- (before) + Latin termes.
 
+ES — *Protermes*: Del griego pro- (antes) + latín termes.
+
 种加词 *minutus*：拉丁文 minutus（微小）
 
 EN — epithet *minutus*: Latin minutus (tiny)
+
+ES — epithet *minutus*: Del latín minutus (diminuto)
 
 <!-- src:S0018 -->
 

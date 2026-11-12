@@ -35,9 +35,13 @@ ES — **大庸散白蚁** (*Reticulitermes dayongensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *dayongensis*：以地名 大庸（湖南） 命名
 
 EN — epithet *dayongensis*: Named after the locality Dayong
+
+ES — epithet *dayongensis*: Por la localidad de Dayong
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **长唇狭鼻白蚁** (*Dolichorhinotermes longilabius*) es una especie,
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *longilabius*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longilabius*: From the descriptive term 'long' (long)
+
+ES — epithet *longilabius*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

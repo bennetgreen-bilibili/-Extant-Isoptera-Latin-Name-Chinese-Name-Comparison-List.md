@@ -38,9 +38,13 @@ ES — **稍大仿白蚁** (*Mimeutermes majusculus*) es una especie del género
 
 EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Mimeutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *majusculus*：拉丁文 majusculus（略大的）
 
 EN — epithet *majusculus*: Latin majusculus (somewhat larger)
+
+ES — epithet *majusculus*: Del latín majusculus (algo mayor)
 
 <!-- src:S0018 -->
 

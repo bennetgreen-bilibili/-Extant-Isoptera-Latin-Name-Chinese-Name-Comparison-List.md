@@ -40,9 +40,13 @@ ES — **魔鬼象白蚁** (*Nasutitermes diabolus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *diabolus*：拉丁文 diabolus（魔鬼）
 
 EN — epithet *diabolus*: Latin diabolus (devil)
+
+ES — epithet *diabolus*: Del latín diabolus (diablo)
 
 <!-- src:S0018 -->
 

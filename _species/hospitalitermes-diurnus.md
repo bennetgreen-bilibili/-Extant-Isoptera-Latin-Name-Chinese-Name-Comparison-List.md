@@ -38,9 +38,13 @@ ES — **日常须白蚁** (*Hospitalitermes diurnus*) es una especie del géner
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *diurnus*：拉丁文 diurnus（白昼的、日行的）
 
 EN — epithet *diurnus*: Latin diurnus (diurnal)
+
+ES — epithet *diurnus*: Del latín diurnus (diurno)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **埃舍里希土白蚁** (*Odontotermes escherichi*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *escherichi*：以人名 escherich 命名（K. Escherich（德国昆虫学家））
 
 EN — epithet *escherichi*: Named after K. Escherich（德国昆虫学家）
+
+ES — epithet *escherichi*: En honor de K. Escherich (entomólogo alemán)
 
 <!-- src:S0018 -->
 

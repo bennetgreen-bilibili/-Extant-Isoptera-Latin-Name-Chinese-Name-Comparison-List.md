@@ -40,9 +40,13 @@ ES — **全武喙白蚁** (*Rhynchotermes perarmatus*) es una especie del géne
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *perarmatus*：拉丁文 per-（非常）+ armatus（武装），极武装
 
 EN — epithet *perarmatus*: Latin per- (very) + armatus (armed), heavily armed
+
+ES — epithet *perarmatus*: Del latín per- (muy) + armatus (armado), muy armado
 
 <!-- src:S0018 -->
 

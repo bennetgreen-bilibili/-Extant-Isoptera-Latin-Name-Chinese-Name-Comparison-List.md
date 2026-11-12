@@ -40,9 +40,13 @@ ES — **居间多铲白蚁** (*Polyspathotermes intercalatus*) es una especie d
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *intercalatus*：拉丁文 intercalatus（插入的）
 
 EN — epithet *intercalatus*: Latin intercalatus (intercalated)
+
+ES — epithet *intercalatus*: Del latín intercalatus (intercalado)
 
 <!-- src:S0018 -->
 

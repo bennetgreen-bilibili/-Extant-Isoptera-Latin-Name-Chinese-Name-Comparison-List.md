@@ -38,9 +38,13 @@ ES — **全武弓白蚁** (*Amitermes perarmatus*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *perarmatus*：拉丁文 per-（非常）+ armatus（武装），极武装
 
 EN — epithet *perarmatus*: Latin per- (very) + armatus (armed), heavily armed
+
+ES — epithet *perarmatus*: Del latín per- (muy) + armatus (armado), muy armado
 
 <!-- src:S0018 -->
 

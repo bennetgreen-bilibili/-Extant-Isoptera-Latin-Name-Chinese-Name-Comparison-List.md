@@ -38,9 +38,13 @@ ES — **海胆肠无戟白蚁** (*Anaorotermes echinocolon*) es la única espec
 
 EN — *Anaorotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anaorotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *echinocolon*：拉丁文/希腊文词根「echin」（刺）
 
 EN — epithet *echinocolon*: From the descriptive term 'echin' (spiny)
+
+ES — epithet *echinocolon*: Del término descriptivo «echin» (espinoso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **棕胫锯白蚁** (*Microcerotermes fuscotibialis*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *fuscotibialis*：拉丁文/希腊文 fusco（暗褐）+ tibialis（胫），指暗褐胫
 
 EN — epithet *fuscotibialis*: From fusco (暗褐) + tibialis (胫)
+
+ES — epithet *fuscotibialis*: De fusco (oscuro) + tibialis (tibia)
 
 <!-- src:S0018 -->
 

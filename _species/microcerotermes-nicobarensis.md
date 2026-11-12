@@ -38,9 +38,13 @@ ES — **尼科巴锯白蚁** (*Microcerotermes nicobarensis*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *nicobarensis*：以尼科巴群岛（Nicobar）命名
 
 EN — epithet *nicobarensis*: Named after the Nicobar Islands
+
+ES — epithet *nicobarensis*: Por las islas Nicobar
 
 <!-- src:S0018 -->
 

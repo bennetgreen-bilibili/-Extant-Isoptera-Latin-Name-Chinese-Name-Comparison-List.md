@@ -38,9 +38,13 @@ ES — **黄触角须白蚁** (*Hospitalitermes flavoantennaris*) es una especie
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *flavoantennaris*：拉丁文/希腊文 flavoantenn（黄）+ aris（相关），指黄相关
 
 EN — epithet *flavoantennaris*: From flavoantenn (黄) + aris (相关)
+
+ES — epithet *flavoantennaris*: De flavoantenn (amarillo) + aris (relativo a)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **温顺无甲白蚁** (*Anenteotermes cicur*) es una especie del género
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cicur*：拉丁文 cicur（温顺的、驯服的）
 
 EN — epithet *cicur*: Latin cicur (tame)
+
+ES — epithet *cicur*: Del latín cicur (manso)
 
 <!-- src:S0018 -->
 

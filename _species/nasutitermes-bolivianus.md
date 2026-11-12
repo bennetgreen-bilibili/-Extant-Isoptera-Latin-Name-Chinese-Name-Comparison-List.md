@@ -38,9 +38,13 @@ ES — **玻利维亚象白蚁** (*Nasutitermes bolivianus*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *bolivianus*：地名：玻利维亚
 
 EN — epithet *bolivianus*: After Bolivia
+
+ES — epithet *bolivianus*: Por Bolivia
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **相似棒颚白蚁** (*Ephelotermes persimilis*) es una especie del gé
 
 EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ephelotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *persimilis*：拉丁文 per-（非常）+ similis（相似），极相似
 
 EN — epithet *persimilis*: Latin per- (very) + similis (similar), very similar
+
+ES — epithet *persimilis*: Del latín per- (muy) + similis (similar), muy similar
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **奇异漠白蚁** (*Eremotermes paradoxalis*) es una especie del géner
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *paradoxalis*：拉丁文/希腊文 paradox（奇异）+ alis（相关），指奇异相关
 
 EN — epithet *paradoxalis*: From paradox (奇异) + alis (相关)
+
+ES — epithet *paradoxalis*: De paradox (extraño) + alis (relativo a)
 
 <!-- src:S0018 -->
 

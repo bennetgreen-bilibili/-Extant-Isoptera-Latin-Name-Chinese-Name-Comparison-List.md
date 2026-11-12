@@ -35,9 +35,13 @@ ES — **粗毛新白蚁** (*Neotermes hirtellus*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *hirtellus*：拉丁文 hirtus（多毛）+ -ellus（小），微毛
 
 EN — epithet *hirtellus*: Latin hirtus (hairy) + -ellus (small), somewhat hairy
+
+ES — epithet *hirtellus*: Del latín hirtus (hirsuto) + -ellus (pequeño), algo hirsuto
 
 <!-- src:S0018 -->
 

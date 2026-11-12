@@ -38,9 +38,13 @@ ES — **阳茎盲囊等颚白蚁** (*Isognathotermes phallicaecalis*) es una es
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *phallicaecalis*：希腊文 phallos（阴茎）+ 拉丁文 caecum（盲肠），指其形状
 
 EN — epithet *phallicaecalis*: Greek phallos (phallus) + Latin caecum (caecum)
+
+ES — epithet *phallicaecalis*: Del griego phallos (falo) + latín caecum (ciego)
 
 <!-- src:S0018 -->
 

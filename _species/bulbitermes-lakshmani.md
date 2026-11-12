@@ -38,9 +38,13 @@ ES — **拉克什曼瓢白蚁** (*Bulbitermes lakshmani*) es una especie del g�
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *lakshmani*：以人名 Lakshman（印度人名）命名
 
 EN — epithet *lakshmani*: Named after Lakshman
+
+ES — epithet *lakshmani*: En honor de Lakshman
 
 <!-- src:S0018 -->
 

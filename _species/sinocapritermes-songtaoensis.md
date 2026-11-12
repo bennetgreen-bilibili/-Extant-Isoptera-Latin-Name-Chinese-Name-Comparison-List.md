@@ -38,9 +38,13 @@ ES — **松桃华扭白蚁** (*Sinocapritermes songtaoensis*) es una especie de
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *songtaoensis*：以地名 松桃（贵州） 命名
 
 EN — epithet *songtaoensis*: Named after the locality Songtao
+
+ES — epithet *songtaoensis*: Por la localidad de Songtao
 
 <!-- src:S0018 -->
 

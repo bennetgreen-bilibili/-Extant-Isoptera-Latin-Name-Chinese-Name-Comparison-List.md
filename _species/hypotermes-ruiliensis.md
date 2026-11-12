@@ -38,9 +38,13 @@ ES — **瑞丽地白蚁** (*Hypotermes ruiliensis*) es una especie del género 
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *ruiliensis*：以地名 瑞丽（云南） 命名
 
 EN — epithet *ruiliensis*: Named after the locality Ruil
+
+ES — epithet *ruiliensis*: Por la localidad de Ruil
 
 <!-- src:S0018 -->
 

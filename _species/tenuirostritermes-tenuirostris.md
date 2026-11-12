@@ -38,9 +38,13 @@ ES — **薄嘴薄嘴白蚁** (*Tenuirostritermes tenuirostris*) es una especie,
 
 EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
 
+ES — *Tenuirostritermes*: Del latín tenuis (delgado) + rostrum (pico) + termes.
+
 种加词 *tenuirostris*：拉丁文/希腊文 tenui（细）+ rostris（喙），指细喙
 
 EN — epithet *tenuirostris*: From tenui (细) + rostris (喙)
+
+ES — epithet *tenuirostris*: De tenui (fino) + rostris (pico)
 
 <!-- src:S0018 -->
 

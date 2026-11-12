@@ -40,9 +40,13 @@ ES — **鼎湖钝颚白蚁** (*Ahmaditermes dinghuensis*) es una especie del g�
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *dinghuensis*：以地名 鼎湖（广东） 命名
 
 EN — epithet *dinghuensis*: Named after the locality Dinghu
+
+ES — epithet *dinghuensis*: Por la localidad de Dinghu
 
 <!-- src:S0018 -->
 

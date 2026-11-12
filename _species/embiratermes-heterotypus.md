@@ -40,9 +40,13 @@ ES — **异型生白蚁** (*Embiratermes heterotypus*) es una especie del géne
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *heterotypus*：拉丁文/希腊文词根「heter」（异）
 
 EN — epithet *heterotypus*: From the descriptive term 'heter' (different)
+
+ES — epithet *heterotypus*: Del término descriptivo «heter» (distinto)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **奥斯本尖齿白蚁** (*Acutidentitermes osborni*) es la única espec
 
 EN — *Acutidentitermes*: From Latin acutus (sharp) + dens (tooth) + termes.
 
+ES — *Acutidentitermes*: Del latín acutus (agudo) + dens (diente) + termes.
+
 种加词 *osborni*：以人名 Osborn 命名（美国昆虫学家 H. Osborn）
 
 EN — epithet *osborni*: Named after the entomologist H. Osborn
+
+ES — epithet *osborni*: En honor del entomólogo H. Osborn
 
 <!-- src:S0018 -->
 

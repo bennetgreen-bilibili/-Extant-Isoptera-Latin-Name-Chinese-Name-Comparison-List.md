@@ -38,9 +38,13 @@ ES — **伤残角白蚁** (*Angulitermes truncatus*) es una especie del género
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *truncatus*：拉丁文 truncatus（截断的）
 
 EN — epithet *truncatus*: Latin truncatus (truncated)
+
+ES — epithet *truncatus*: Del latín truncatus (truncado)
 
 <!-- src:S0018 -->
 

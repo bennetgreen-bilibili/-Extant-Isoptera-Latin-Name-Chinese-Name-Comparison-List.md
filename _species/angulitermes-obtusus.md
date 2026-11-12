@@ -38,9 +38,13 @@ ES — **迟钝角白蚁** (*Angulitermes obtusus*) es una especie del género *
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *obtusus*：拉丁文 obtusus（钝）
 
 EN — epithet *obtusus*: Latin obtusus (blunt)
+
+ES — epithet *obtusus*: Del latín obtusus (romo)
 
 <!-- src:S0018 -->
 

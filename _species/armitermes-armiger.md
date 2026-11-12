@@ -38,9 +38,13 @@ ES — **具戟戟白蚁** (*Armitermes armiger*) es una especie, y la especie t
 
 EN — *Armitermes*: From Latin arma (arms, weapons) + termes.
 
+ES — *Armitermes*: Del latín arma (armas) + termes.
+
 种加词 *armiger*：拉丁文/希腊文 armi（武装）+ ger（具），指武装具
 
 EN — epithet *armiger*: From armi (武装) + ger (具)
+
+ES — epithet *armiger*: De armi (armas) + ger (que lleva)
 
 <!-- src:S0018 -->
 

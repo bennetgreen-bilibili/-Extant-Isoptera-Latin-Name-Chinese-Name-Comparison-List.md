@@ -35,9 +35,13 @@ ES — **扎布尔后琥珀白蚁** (*Postelectrotermes zabuliensis*) es una esp
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *zabuliensis*：以地名 Zabul（阿富汗） 命名
 
 EN — epithet *zabuliensis*: Named after the locality Zabul (Afghanistan)
+
+ES — epithet *zabuliensis*: Por la localidad de Zabul (Afganistán)
 
 <!-- src:S0018 -->
 

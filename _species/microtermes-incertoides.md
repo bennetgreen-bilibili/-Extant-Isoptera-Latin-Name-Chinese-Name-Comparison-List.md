@@ -38,9 +38,13 @@ ES — **似可疑小白蚁** (*Microtermes incertoides*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *incertoides*：拉丁文/希腊文 incert（未定）+ oides（似），指未定似
 
 EN — epithet *incertoides*: From incert (未定) + oides (似)
+
+ES — epithet *incertoides*: De incert (incierto) + oides (semejante a)
 
 <!-- src:S0018 -->
 

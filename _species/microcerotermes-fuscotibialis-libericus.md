@@ -39,9 +39,13 @@ ES — **利比里亚亚种** (*Microcerotermes fuscotibialis libericus*) es una
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *libericus*：以地名 Liberia（利比里亚）命名
 
 EN — epithet *libericus*: Named after Liberia
+
+ES — epithet *libericus*: Por Liberia
 
 <!-- src:S0018 -->
 

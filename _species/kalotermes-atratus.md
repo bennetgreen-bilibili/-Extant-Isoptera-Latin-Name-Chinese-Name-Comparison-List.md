@@ -35,9 +35,13 @@ ES — **黑色木白蚁** (*Kalotermes atratus*) es una especie del género *Ka
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *atratus*：拉丁文/希腊文 atr（黑）+ atus（具），指黑具
 
 EN — epithet *atratus*: From atr (黑) + atus (具)
+
+ES — epithet *atratus*: De atr (negro) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **埃默森似锥白蚁** (*Subulioiditermes emersoni*) es una especie de
 
 EN — *Subulioiditermes*: From Latin subula (awl) + Greek -oides (like) + termes.
 
+ES — *Subulioiditermes*: Del latín subula (lezna) + griego -oides (semejante) + termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

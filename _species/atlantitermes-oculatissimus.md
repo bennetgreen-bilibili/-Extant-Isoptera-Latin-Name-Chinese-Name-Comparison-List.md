@@ -38,9 +38,13 @@ ES — **巨眼阿特拉斯白蚁** (*Atlantitermes oculatissimus*) es una espec
 
 EN — *Atlantitermes*: From the Atlantic + termes.
 
+ES — *Atlantitermes*: Del Atlántico + termes.
+
 种加词 *oculatissimus*：拉丁文/希腊文词根「ocul」（眼）
 
 EN — epithet *oculatissimus*: From the descriptive term 'ocul' (eye)
+
+ES — epithet *oculatissimus*: Del término descriptivo «ocul» (ojo)
 
 <!-- src:S0018 -->
 

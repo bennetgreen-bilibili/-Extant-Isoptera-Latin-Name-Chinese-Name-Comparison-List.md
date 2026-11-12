@@ -35,9 +35,13 @@ ES — **扩头散白蚁** (*Reticulitermes ampliceps*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *ampliceps*：拉丁文/希腊文 ampli（宽）+ ceps（头），指宽头
 
 EN — epithet *ampliceps*: From ampli (宽) + ceps (头)
+
+ES — epithet *ampliceps*: De ampli (ancho) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

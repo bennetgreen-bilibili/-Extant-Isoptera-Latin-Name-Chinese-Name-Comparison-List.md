@@ -38,9 +38,13 @@ ES — **宽颏土白蚁** (*Odontotermes latigula*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *latigula*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latigula*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latigula*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

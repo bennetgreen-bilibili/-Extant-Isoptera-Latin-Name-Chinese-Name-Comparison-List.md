@@ -38,9 +38,13 @@ ES — **喜粪阿特拉斯白蚁** (*Atlantitermes stercophilus*) es una especi
 
 EN — *Atlantitermes*: From the Atlantic + termes.
 
+ES — *Atlantitermes*: Del Atlántico + termes.
+
 种加词 *stercophilus*：希腊文 sterko（粪）+ philos（爱），喜粪
 
 EN — epithet *stercophilus*: Greek sterko (dung) + philos (loving), dung-loving
+
+ES — epithet *stercophilus*: Griego sterko (estiércol) + philos (amante de), amante del estiércol
 
 <!-- src:S0018 -->
 

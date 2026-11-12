@@ -35,9 +35,13 @@ ES — **曼鼻白蚁** (*Rhinotermes manni*) es una especie del género *Rhinot
 
 EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
 
+ES — *Rhinotermes*: Del griego rhis (nariz) + latín termes, por el soldado nasuto.
+
 种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
 
 EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+ES — epithet *manni*: En honor del entomólogo W. M. Mann
 
 <!-- src:S0018 -->
 

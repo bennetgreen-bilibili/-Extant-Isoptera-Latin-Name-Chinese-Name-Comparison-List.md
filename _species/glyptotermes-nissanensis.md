@@ -35,9 +35,13 @@ ES — **尼桑树白蚁** (*Glyptotermes nissanensis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *nissanensis*：以地名 尼桑岛（巴布亚新几内亚） 命名
 
 EN — epithet *nissanensis*: Named after the locality Nissan
+
+ES — epithet *nissanensis*: Por la localidad de Nissan
 
 <!-- src:S0018 -->
 

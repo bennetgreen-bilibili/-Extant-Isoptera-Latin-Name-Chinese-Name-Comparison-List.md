@@ -38,9 +38,13 @@ ES — **切割锯白蚁** (*Microcerotermes secernens*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *secernens*：拉丁文 secernens（分泌的、分离的）
 
 EN — epithet *secernens*: Latin secernens (separating)
+
+ES — epithet *secernens*: Del latín secernens (que separa)
 
 <!-- src:S0018 -->
 

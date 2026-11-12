@@ -38,9 +38,13 @@ ES — **马德拉斯漠白蚁** (*Eremotermes madrasicus*) es una especie del g
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *madrasicus*：以地名 马德拉斯（印度） 命名
 
 EN — epithet *madrasicus*: Named after the locality Madras
+
+ES — epithet *madrasicus*: Por la localidad de Madrás
 
 <!-- src:S0018 -->
 

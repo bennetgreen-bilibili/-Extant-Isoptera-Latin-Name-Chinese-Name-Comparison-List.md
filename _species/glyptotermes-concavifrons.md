@@ -35,9 +35,13 @@ ES — **凹额树白蚁** (*Glyptotermes concavifrons*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *concavifrons*：拉丁文/希腊文 concavi（凹）+ frons（额），指凹额
 
 EN — epithet *concavifrons*: From concavi (凹) + frons (额)
+
+ES — epithet *concavifrons*: De concavi (cóncavo) + frons (frente)
 
 <!-- src:S0018 -->
 

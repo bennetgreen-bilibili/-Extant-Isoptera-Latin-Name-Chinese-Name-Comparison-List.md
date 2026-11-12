@@ -38,9 +38,13 @@ ES — **周氏大白蚁** (*Macrotermes choui*) es una especie del género *Mac
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *choui*：以人名 Chou 命名（中国昆虫学家周尧）
 
 EN — epithet *choui*: Named after the Chinese entomologist Chou Io
+
+ES — epithet *choui*: En honor del entomólogo chino Chou Io
 
 <!-- src:S0018 -->
 

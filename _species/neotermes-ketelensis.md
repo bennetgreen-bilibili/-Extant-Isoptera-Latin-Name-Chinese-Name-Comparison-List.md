@@ -35,9 +35,13 @@ ES — **凯特拉新白蚁** (*Neotermes ketelensis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *ketelensis*：以地名 Ketel 命名
 
 EN — epithet *ketelensis*: Named after the locality Ketel
+
+ES — epithet *ketelensis*: Por la localidad de Ketel
 
 <!-- src:S0018 -->
 

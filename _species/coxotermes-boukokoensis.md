@@ -38,9 +38,13 @@ ES — **布科科基白蚁** (*Coxotermes boukokoensis*) es la única especie v
 
 EN — *Coxotermes*: From Latin coxa (hip, coxa) + termes.
 
+ES — *Coxotermes*: Del latín coxa (cadera, coxa) + termes.
+
 种加词 *boukokoensis*：以地名 布科科（中非） 命名
 
 EN — epithet *boukokoensis*: Named after the locality Boukoko
+
+ES — epithet *boukokoensis*: Por la localidad de Boukoko
 
 <!-- src:S0018 -->
 

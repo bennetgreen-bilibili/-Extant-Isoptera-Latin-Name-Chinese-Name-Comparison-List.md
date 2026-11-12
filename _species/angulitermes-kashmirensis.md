@@ -38,9 +38,13 @@ ES — **克什米尔角白蚁** (*Angulitermes kashmirensis*) es una especie de
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *kashmirensis*：以地名 克什米尔 命名
 
 EN — epithet *kashmirensis*: Named after the locality Kashmir
+
+ES — epithet *kashmirensis*: Por la localidad de Cachemira
 
 <!-- src:S0018 -->
 

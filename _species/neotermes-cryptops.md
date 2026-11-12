@@ -35,9 +35,13 @@ ES — **隐秘新白蚁** (*Neotermes cryptops*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *cryptops*：希腊文 kryptos（隐藏）+ ōps（眼），隐眼
 
 EN — epithet *cryptops*: Greek kryptos (hidden) + ōps (eye), hidden-eyed
+
+ES — epithet *cryptops*: Del griego kryptos (oculto) + ōps (ojo), de ojos ocultos
 
 <!-- src:S0018 -->
 

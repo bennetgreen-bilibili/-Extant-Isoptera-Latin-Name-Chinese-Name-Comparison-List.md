@@ -35,9 +35,13 @@ ES — **大型树白蚁** (*Glyptotermes amplus*) es una especie del género *G
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *amplus*：拉丁文 amplus（宽大）
 
 EN — epithet *amplus*: Latin amplus (ample, large)
+
+ES — epithet *amplus*: Del latín amplus (amplio, grande)
 
 <!-- src:S0018 -->
 

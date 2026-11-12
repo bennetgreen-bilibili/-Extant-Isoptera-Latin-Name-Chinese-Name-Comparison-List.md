@@ -35,9 +35,13 @@ ES — **亚当森树白蚁** (*Glyptotermes adamsoni*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *adamsoni*：以人名 Adamson 命名
 
 EN — epithet *adamsoni*: Named after Adamson
+
+ES — epithet *adamsoni*: En honor de Adamson
 
 <!-- src:S0018 -->
 

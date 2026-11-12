@@ -38,9 +38,13 @@ ES — **眉妙印白蚁** (*Indotermes maymensis*) es una especie, y la especie
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *maymensis*：以地名 Maym 命名
 
 EN — epithet *maymensis*: Named after the locality Maym
+
+ES — epithet *maymensis*: Por la localidad de Maym
 
 <!-- src:S0018 -->
 

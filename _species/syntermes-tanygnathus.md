@@ -38,9 +38,13 @@ ES — **长颚聚白蚁** (*Syntermes tanygnathus*) es una especie del género 
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *tanygnathus*：希腊文 tany-（长）+ gnathos（颚），长颚
 
 EN — epithet *tanygnathus*: Greek tany- (long) + gnathos (jaw), long-jawed
+
+ES — epithet *tanygnathus*: Griego tany- (largo) + gnathos (mandíbula), de mandíbulas largas
 
 <!-- src:S0018 -->
 

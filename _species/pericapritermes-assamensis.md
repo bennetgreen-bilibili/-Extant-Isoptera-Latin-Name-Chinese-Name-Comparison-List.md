@@ -38,9 +38,13 @@ ES — **阿萨姆近扭白蚁** (*Pericapritermes assamensis*) es una especie d
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *assamensis*：以地名 阿萨姆（印度） 命名
 
 EN — epithet *assamensis*: Named after the locality Assam
+
+ES — epithet *assamensis*: Por la localidad de Assam
 
 <!-- src:S0018 -->
 

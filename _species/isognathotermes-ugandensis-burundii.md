@@ -38,9 +38,13 @@ ES — **布隆迪亚种** (*Isognathotermes ugandensis burundii*) es una subesp
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *burundii*：以地名 Burundi（布隆迪）命名
 
 EN — epithet *burundii*: Named after Burundi
+
+ES — epithet *burundii*: Por Burundi
 
 <!-- src:S0018 -->
 

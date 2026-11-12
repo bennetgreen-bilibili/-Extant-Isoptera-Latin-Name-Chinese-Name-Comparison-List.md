@@ -38,9 +38,13 @@ ES — **短毛森林白蚁** (*Hyleotermes brevipilus*) es la única especie vi
 
 EN — *Hyleotermes*: From Greek hylē (forest, wood) + Latin termes.
 
+ES — *Hyleotermes*: Del griego hylē (bosque, madera) + latín termes.
+
 种加词 *brevipilus*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevipilus*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevipilus*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

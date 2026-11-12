@@ -38,9 +38,13 @@ ES — **洛科里小白蚁** (*Microtermes lokoriensis*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *lokoriensis*：以肯尼亚洛科里（Lokori，图尔卡纳）命名
 
 EN — epithet *lokoriensis*: Named after Lokori, Turkana, Kenya
+
+ES — epithet *lokoriensis*: Por Lokori, Turkana, Kenia
 
 <!-- src:S0018 -->
 

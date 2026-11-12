@@ -35,9 +35,13 @@ ES — **格拉塞散白蚁** (*Reticulitermes grassei*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *grassei*：以人名 Grassé 命名（法国动物学家 P.-P. Grassé）
 
 EN — epithet *grassei*: Named after the zoologist P.-P. Grassé
+
+ES — epithet *grassei*: En honor del zoólogo P.-P. Grassé
 
 <!-- src:S0018 -->
 

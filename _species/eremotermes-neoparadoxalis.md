@@ -38,9 +38,13 @@ ES — **新奇异漠白蚁** (*Eremotermes neoparadoxalis*) es una especie del 
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *neoparadoxalis*：拉丁文/希腊文 neoparadox（新）+ alis（相关），指新相关
 
 EN — epithet *neoparadoxalis*: From neoparadox (新) + alis (相关)
+
+ES — epithet *neoparadoxalis*: De neoparadox (nuevo) + alis (relativo a)
 
 <!-- src:S0018 -->
 

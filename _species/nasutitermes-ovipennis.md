@@ -38,9 +38,13 @@ ES — **椭圆翅象白蚁** (*Nasutitermes ovipennis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *ovipennis*：拉丁文/希腊文 ovi（卵）+ pennis（翅），指卵翅
 
 EN — epithet *ovipennis*: From ovi (卵) + pennis (翅)
+
+ES — epithet *ovipennis*: De ovi (huevo) + pennis (ala)
 
 <!-- src:S0018 -->
 

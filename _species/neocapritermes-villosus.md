@@ -38,9 +38,13 @@ ES — **密毛新扭白蚁** (*Neocapritermes villosus*) es una especie del gé
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *villosus*：拉丁文 villosus（长毛）
 
 EN — epithet *villosus*: Latin villosus (shaggy)
+
+ES — epithet *villosus*: Del latín villosus (hirsuto)
 
 <!-- src:S0018 -->
 

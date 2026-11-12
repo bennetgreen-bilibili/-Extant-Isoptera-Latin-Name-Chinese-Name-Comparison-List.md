@@ -38,9 +38,13 @@ ES — **慢行无利器白蚁** (*Astalotermes impedians*) es una especie del g
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *impedians*：拉丁文/希腊文 im-（无、不）+ pedians（足），指无足
 
 EN — epithet *impedians*: From im- (without) + pedians (足)
+
+ES — epithet *impedians*: De im- (sin) + pedians (pie)
 
 <!-- src:S0018 -->
 

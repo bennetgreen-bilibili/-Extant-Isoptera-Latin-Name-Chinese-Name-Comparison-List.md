@@ -38,9 +38,13 @@ ES — **行进锯白蚁** (*Microcerotermes progrediens*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *progrediens*：拉丁文 progrediens（前进的）
 
 EN — epithet *progrediens*: Latin progrediens (advancing)
+
+ES — epithet *progrediens*: Del latín progrediens (que avanza)
 
 <!-- src:S0018 -->
 

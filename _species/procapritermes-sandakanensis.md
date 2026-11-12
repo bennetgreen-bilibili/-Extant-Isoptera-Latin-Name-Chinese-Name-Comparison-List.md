@@ -38,9 +38,13 @@ ES — **山打根前扭白蚁** (*Procapritermes sandakanensis*) es una especie
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *sandakanensis*：以地名 山打根（马来西亚） 命名
 
 EN — epithet *sandakanensis*: Named after the locality Sandakan
+
+ES — epithet *sandakanensis*: Por la localidad de Sandakan
 
 <!-- src:S0018 -->
 

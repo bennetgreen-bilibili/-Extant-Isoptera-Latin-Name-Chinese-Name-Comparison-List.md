@@ -38,9 +38,13 @@ ES — **球形解甲白蚁** (*Anoplotermes rotundus*) es una especie del géne
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *rotundus*：拉丁文 rotundus（圆）
 
 EN — epithet *rotundus*: Latin rotundus (round)
+
+ES — epithet *rotundus*: Del latín rotundus (redondo)
 
 <!-- src:S0018 -->
 

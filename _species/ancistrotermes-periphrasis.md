@@ -38,9 +38,13 @@ ES — **迂回钩白蚁** (*Ancistrotermes periphrasis*) es una especie del gé
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *periphrasis*：希腊文 periphrasis（迂回的说法）
 
 EN — epithet *periphrasis*: Greek periphrasis (circumlocution)
+
+ES — epithet *periphrasis*: Del griego periphrasis (circunloquio)
 
 <!-- src:S0018 -->
 

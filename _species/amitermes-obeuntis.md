@@ -38,9 +38,13 @@ ES — **相会弓白蚁** (*Amitermes obeuntis*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *obeuntis*：拉丁文 obeo（巡行、逝世）的现在分词
 
 EN — epithet *obeuntis*: Latin obeuntis (going around, dying)
+
+ES — epithet *obeuntis*: Del latín obeuntis (que rodea, que muere)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **马查多发白蚁** (*Trichotermes machadoi*) es una especie del géne
 
 EN — *Trichotermes*: From Greek thrix (hair) + Latin termes.
 
+ES — *Trichotermes*: Del griego thrix (cabello) + latín termes.
+
 种加词 *machadoi*：以人名 Machado（马查多）命名（葡萄牙昆虫学家 A. de Barros Machado，在安哥拉采集）
 
 EN — epithet *machadoi*: Named after Machado (Portuguese entomologist A. de Barros Machado)
+
+ES — epithet *machadoi*: En honor de Machado (entomólogo portugués A. de Barros Machado)
 
 <!-- src:S0018 -->
 

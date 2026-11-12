@@ -38,9 +38,13 @@ ES — **河口钩白蚁** (*Ancistrotermes hekouensis*) es una especie del gén
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *hekouensis*：以地名 河口（云南） 命名
 
 EN — epithet *hekouensis*: Named after the locality Hekou
+
+ES — epithet *hekouensis*: Por la localidad de Hekou
 
 <!-- src:S0018 -->
 

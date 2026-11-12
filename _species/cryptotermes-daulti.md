@@ -35,9 +35,13 @@ ES — **道尔特堆砂白蚁** (*Cryptotermes daulti*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *daulti*：以人名 Dault 命名
 
 EN — epithet *daulti*: Named after Dault
+
+ES — epithet *daulti*: En honor de Dault
 
 <!-- src:S0018 -->
 

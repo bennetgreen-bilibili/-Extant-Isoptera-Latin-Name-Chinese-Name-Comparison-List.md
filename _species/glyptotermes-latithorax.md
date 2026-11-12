@@ -35,9 +35,13 @@ ES — **宽胸树白蚁** (*Glyptotermes latithorax*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *latithorax*：拉丁文/希腊文 lati（宽）+ thorax（胸），指宽胸
 
 EN — epithet *latithorax*: From lati (宽) + thorax (胸)
+
+ES — epithet *latithorax*: De lati (ancho) + thorax (tórax)
 
 <!-- src:S0018 -->
 

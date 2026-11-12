@@ -38,9 +38,13 @@ ES — **分离三脉白蚁** (*Trinervitermes disparatus*) es una especie del g
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *disparatus*：拉丁文/希腊文 dispar（异）+ atus（具），指异具
 
 EN — epithet *disparatus*: From dispar (异) + atus (具)
+
+ES — epithet *disparatus*: De dispar (diferente) + atus (provisto de)
 
 <!-- src:S0018 -->
 

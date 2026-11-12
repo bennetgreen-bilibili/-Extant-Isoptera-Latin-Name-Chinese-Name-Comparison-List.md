@@ -40,9 +40,13 @@ ES — **毛里求斯象白蚁** (*Nasutitermes mauritianus*) es una especie del
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mauritianus*：以毛里求斯（Mauritius）命名
 
 EN — epithet *mauritianus*: Named after Mauritius
+
+ES — epithet *mauritianus*: Por Mauricio
 
 <!-- src:S0018 -->
 

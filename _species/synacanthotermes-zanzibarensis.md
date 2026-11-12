@@ -38,9 +38,13 @@ ES — **桑给巴尔聚刺白蚁** (*Synacanthotermes zanzibarensis*) es una es
 
 EN — *Synacanthotermes*: From Greek syn- (together) + akantha (thorn) + Latin termes.
 
+ES — *Synacanthotermes*: Del griego syn- (junto) + akantha (espina) + latín termes.
+
 种加词 *zanzibarensis*：以地名 桑给巴尔 命名
 
 EN — epithet *zanzibarensis*: Named after the locality Zanzibar
+
+ES — epithet *zanzibarensis*: Por la localidad de Zanzíbar
 
 <!-- src:S0018 -->
 

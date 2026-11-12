@@ -35,9 +35,13 @@ ES — **长汀杆白蚁** (*Stylotermes changtingensis*) es una especie del gé
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *changtingensis*：以地名 长汀（福建） 命名
 
 EN — epithet *changtingensis*: Named after the locality Changting
+
+ES — epithet *changtingensis*: Por la localidad de Changting
 
 <!-- src:S0018 -->
 

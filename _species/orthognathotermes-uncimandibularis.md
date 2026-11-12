@@ -38,9 +38,13 @@ ES — **钩颚直颚白蚁** (*Orthognathotermes uncimandibularis*) es una espe
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *uncimandibularis*：拉丁文/希腊文 uncimandibul（钩）+ aris（相关），指钩相关
 
 EN — epithet *uncimandibularis*: From uncimandibul (钩) + aris (相关)
+
+ES — epithet *uncimandibularis*: De uncimandibul (gancho) + aris (relativo a)
 
 <!-- src:S0018 -->
 

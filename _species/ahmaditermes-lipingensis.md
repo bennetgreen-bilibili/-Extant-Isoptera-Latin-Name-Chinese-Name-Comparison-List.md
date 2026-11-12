@@ -38,9 +38,13 @@ ES — **黎平钝颚白蚁** (*Ahmaditermes lipingensis*) es una especie del g�
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *lipingensis*：以地名 黎平（贵州） 命名
 
 EN — epithet *lipingensis*: Named after the locality Liping
+
+ES — epithet *lipingensis*: Por la localidad de Liping
 
 <!-- src:S0018 -->
 

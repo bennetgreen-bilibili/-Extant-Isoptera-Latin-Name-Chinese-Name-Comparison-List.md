@@ -38,9 +38,13 @@ ES — **强健锯白蚁** (*Microcerotermes nervosus*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *nervosus*：拉丁文/希腊文 nerv（脉）+ osus（多、充满），指脉多、充满
 
 EN — epithet *nervosus*: From nerv (脉) + osus (多、充满)
+
+ES — epithet *nervosus*: De nerv (vena) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

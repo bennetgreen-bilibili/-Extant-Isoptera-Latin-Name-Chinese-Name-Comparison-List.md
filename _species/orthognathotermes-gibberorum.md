@@ -38,9 +38,13 @@ ES — **驼背直颚白蚁** (*Orthognathotermes gibberorum*) es una especie de
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *gibberorum*：以人名 Gibber（复数属格）命名
 
 EN — epithet *gibberorum*: Named after the Gibbers
+
+ES — epithet *gibberorum*: En honor de los Gibber
 
 <!-- src:S0018 -->
 

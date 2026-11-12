@@ -38,9 +38,13 @@ ES — **弓颚弓白蚁** (*Amitermes amifer*) es una especie, y la especie tip
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *amifer*：拉丁语 -fer（具…者），词根 ami- 未释；原始描述未给词源
 
 EN — epithet *amifer*: From Latin -fer (bearing); root ami- unexplained
+
+ES — epithet *amifer*: Del latín -fer (que lleva); la raíz ami- no está explicada
 
 <!-- src:S0018 -->
 

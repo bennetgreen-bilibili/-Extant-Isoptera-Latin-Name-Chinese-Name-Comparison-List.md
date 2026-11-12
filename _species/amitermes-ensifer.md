@@ -38,9 +38,13 @@ ES — **剑颚弓白蚁** (*Amitermes ensifer*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *ensifer*：拉丁文/希腊文 ensi（剑）+ fer（具），指剑具
 
 EN — epithet *ensifer*: From ensi (剑) + fer (具)
+
+ES — epithet *ensifer*: De ensi (espada) + fer (portador)
 
 <!-- src:S0018 -->
 

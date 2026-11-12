@@ -38,9 +38,13 @@ ES — **章凤前扭白蚁** (*Procapritermes zhangfengensis*) es una especie d
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *zhangfengensis*：以地名 章凤（云南） 命名
 
 EN — epithet *zhangfengensis*: Named after the locality Zhangfeng
+
+ES — epithet *zhangfengensis*: Por la localidad de Zhangfeng
 
 <!-- src:S0018 -->
 

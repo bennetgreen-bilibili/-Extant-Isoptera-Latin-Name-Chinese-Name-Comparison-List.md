@@ -38,9 +38,13 @@ ES — **马拉巴尔土白蚁** (*Odontotermes malabaricus*) es una especie del
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *malabaricus*：以地名 马拉巴尔（印度） 命名
 
 EN — epithet *malabaricus*: Named after the locality Malabar
+
+ES — epithet *malabaricus*: Por la localidad de Malabar
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **颏奇杆白蚁** (*Stylotermes mirabilis*) es una especie del género 
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *mirabilis*：拉丁文 mirabilis（奇异的）
 
 EN — epithet *mirabilis*: Latin mirabilis (wonderful)
+
+ES — epithet *mirabilis*: Del latín mirabilis (admirable)
 
 <!-- src:S0018 -->
 

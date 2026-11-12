@@ -38,9 +38,13 @@ ES — **棕色象白蚁** (*Nasutitermes brunneus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *brunneus*：拉丁文 brunneus（褐）
 
 EN — epithet *brunneus*: Latin brunneus (brown)
+
+ES — epithet *brunneus*: Del latín brunneus (marrón)
 
 <!-- src:S0018 -->
 

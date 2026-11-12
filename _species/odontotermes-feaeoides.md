@@ -38,9 +38,13 @@ ES — **似菲氏土白蚁** (*Odontotermes feaeoides*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *feaeoides*：以人名 Fea 命名（意大利博物学家 L. Fea）+ 希腊文 -oides（似）
 
 EN — epithet *feaeoides*: Named after the naturalist L. Fea + Greek -oides (like)
+
+ES — epithet *feaeoides*: En honor del naturalista L. Fea + del griego -oides (semejante a)
 
 <!-- src:S0018 -->
 

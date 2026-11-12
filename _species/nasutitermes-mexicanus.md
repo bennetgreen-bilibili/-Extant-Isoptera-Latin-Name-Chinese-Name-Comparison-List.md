@@ -38,9 +38,13 @@ ES — **墨西哥象白蚁** (*Nasutitermes mexicanus*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mexicanus*：以地名 墨西哥 命名
 
 EN — epithet *mexicanus*: Named after the locality Mexic
+
+ES — epithet *mexicanus*: Por la localidad de Méxic
 
 <!-- src:S0018 -->
 

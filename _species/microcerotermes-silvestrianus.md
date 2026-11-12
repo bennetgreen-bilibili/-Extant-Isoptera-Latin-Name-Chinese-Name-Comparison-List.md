@@ -38,9 +38,13 @@ ES — **西尔韦斯特里锯白蚁** (*Microcerotermes silvestrianus*) es una 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *silvestrianus*：以人名 silvestr 命名（意大利昆虫学家 F. Silvestri）
 
 EN — epithet *silvestrianus*: Named after 意大利昆虫学家 F. Silvestri
+
+ES — epithet *silvestrianus*: En honor del entomólogo italiano F. Silvestri
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **阿鲁象白蚁** (*Nasutitermes aruensis*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *aruensis*：以地名 阿鲁群岛（印度尼西亚） 命名
 
 EN — epithet *aruensis*: Named after the locality Aru
+
+ES — epithet *aruensis*: Por la localidad de Aru
 
 <!-- src:S0018 -->
 

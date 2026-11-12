@@ -35,9 +35,13 @@ ES — **长颏散白蚁** (*Reticulitermes longigulus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *longigulus*：拉丁文/希腊文 longig（长）+ ulus（小（指小）），指长小（指小）
 
 EN — epithet *longigulus*: From longig (长) + ulus (小（指小）)
+
+ES — epithet *longigulus*: De longig (largo) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

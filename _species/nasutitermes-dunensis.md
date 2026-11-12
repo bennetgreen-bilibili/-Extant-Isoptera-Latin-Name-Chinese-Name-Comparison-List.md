@@ -40,9 +40,13 @@ ES — **德拉敦象白蚁** (*Nasutitermes dunensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *dunensis*：拉丁文 duna（沙丘）
 
 EN — epithet *dunensis*: From Latin duna (dune)
+
+ES — epithet *dunensis*: Del latín duna (duna)
 
 <!-- src:S0018 -->
 

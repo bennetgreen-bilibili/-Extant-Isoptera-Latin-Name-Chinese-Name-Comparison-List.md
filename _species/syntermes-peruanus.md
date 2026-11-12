@@ -38,9 +38,13 @@ ES — **秘鲁聚白蚁** (*Syntermes peruanus*) es una especie del género *Sy
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *peruanus*：以地名 秘鲁 命名
 
 EN — epithet *peruanus*: Named after the locality Peru
+
+ES — epithet *peruanus*: Por la localidad del Perú
 
 <!-- src:S0018 -->
 

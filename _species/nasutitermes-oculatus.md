@@ -40,9 +40,13 @@ ES — **眼显象白蚁** (*Nasutitermes oculatus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *oculatus*：拉丁文/希腊文 ocul（眼）+ atus（具），指眼具
 
 EN — epithet *oculatus*: From ocul (眼) + atus (具)
+
+ES — epithet *oculatus*: De ocul (ojo) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **红色须白蚁** (*Hospitalitermes rufus*) es una especie del género 
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *rufus*：拉丁文 rufus（红）
 
 EN — epithet *rufus*: Latin rufus (red)
+
+ES — epithet *rufus*: Del latín rufus (rojo)
 
 <!-- src:S0018 -->
 

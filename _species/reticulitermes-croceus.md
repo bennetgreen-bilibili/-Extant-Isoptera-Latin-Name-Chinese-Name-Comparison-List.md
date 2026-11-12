@@ -35,9 +35,13 @@ ES — **深黄散白蚁** (*Reticulitermes croceus*) es una especie del género
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *croceus*：拉丁文 croceus（藏红花黄的）
 
 EN — epithet *croceus*: Latin croceus (saffron-yellow)
+
+ES — epithet *croceus*: Del latín croceus (amarillo azafranado)
 
 <!-- src:S0018 -->
 

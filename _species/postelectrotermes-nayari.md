@@ -35,9 +35,13 @@ ES — **纳亚尔后琥珀白蚁** (*Postelectrotermes nayari*) es una especie 
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *nayari*：以人名 Nayar（纳亚尔，印度姓氏）命名
 
 EN — epithet *nayari*: Named after Nayar
+
+ES — epithet *nayari*: En honor de Nayar
 
 <!-- src:S0018 -->
 

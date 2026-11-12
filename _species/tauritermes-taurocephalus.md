@@ -35,9 +35,13 @@ ES — **牛头牛白蚁** (*Tauritermes taurocephalus*) es una especie, y la es
 
 EN — *Tauritermes*: From Latin taurus (bull) + termes.
 
+ES — *Tauritermes*: Del latín taurus (toro) + termes.
+
 种加词 *taurocephalus*：希腊文 tauros（牛）+ kephalē（头），牛头
 
 EN — epithet *taurocephalus*: Greek tauros (bull) + kephalē (head), bull-headed
+
+ES — epithet *taurocephalus*: Griego tauros (toro) + kephalē (cabeza), de cabeza de toro
 
 <!-- src:S0018 -->
 

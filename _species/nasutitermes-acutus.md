@@ -40,9 +40,13 @@ ES — **尖锐象白蚁** (*Nasutitermes acutus*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *acutus*：拉丁文 acutus（尖锐）
 
 EN — epithet *acutus*: Latin acutus (sharp)
+
+ES — epithet *acutus*: Del latín acutus (agudo)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **好斗后琥珀白蚁** (*Postelectrotermes militaris*) es una especie 
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *militaris*：拉丁文 militaris（军事的、武士的）
 
 EN — epithet *militaris*: Latin militaris (military)
+
+ES — epithet *militaris*: Del latín militaris (militar)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **布永锯白蚁** (*Microcerotermes bouilloni*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *bouilloni*：以人名 Bouillon（André Bouillon）命名
 
 EN — epithet *bouilloni*: Named after André Bouillon
+
+ES — epithet *bouilloni*: En honor de André Bouillon
 
 <!-- src:S0018 -->
 

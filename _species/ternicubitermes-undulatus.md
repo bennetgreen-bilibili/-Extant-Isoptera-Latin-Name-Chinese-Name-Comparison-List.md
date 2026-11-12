@@ -38,9 +38,13 @@ ES — **波颚三方白蚁** (*Ternicubitermes undulatus*) es una especie del g
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *undulatus*：拉丁文/希腊文 undul（波状）+ atus（具），指波状具
 
 EN — epithet *undulatus*: From undul (波状) + atus (具)
+
+ES — epithet *undulatus*: De undul (ondulado) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **噱头堆砂白蚁** (*Cryptotermes rhicnocephalus*) es una especie del
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *rhicnocephalus*：希腊文 rhiknos（皱缩）+ kephalē（头），皱头
 
 EN — epithet *rhicnocephalus*: Greek rhiknos (wrinkled) + kephalē (head), wrinkled-headed
+
+ES — epithet *rhicnocephalus*: Del griego rhiknos (arrugado) + kephalē (cabeza), de cabeza arrugada
 
 <!-- src:S0018 -->
 

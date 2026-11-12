@@ -38,9 +38,13 @@ ES — **白翅华扭白蚁** (*Sinocapritermes albipennis*) es una especie del 
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *albipennis*：拉丁文/希腊文 albi（白）+ pennis（翅），指白翅
 
 EN — epithet *albipennis*: From albi (白) + pennis (翅)
+
+ES — epithet *albipennis*: De albi (blanco) + pennis (alas)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **招雨象白蚁** (*Nasutitermes pluvialis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *pluvialis*：拉丁文 pluvialis（雨的、雨生的）
 
 EN — epithet *pluvialis*: Latin pluvialis (of rain)
+
+ES — epithet *pluvialis*: Del latín pluvialis (de la lluvia)
 
 <!-- src:S0018 -->
 

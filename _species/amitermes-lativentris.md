@@ -38,9 +38,13 @@ ES — **宽腹弓白蚁** (*Amitermes lativentris*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *lativentris*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *lativentris*: From the descriptive term 'lat' (broad)
+
+ES — epithet *lativentris*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

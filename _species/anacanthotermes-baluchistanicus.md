@@ -35,9 +35,13 @@ ES — **俾路支无刺白蚁** (*Anacanthotermes baluchistanicus*) es una espe
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *baluchistanicus*：地名：俾路支（巴基斯坦）
 
 EN — epithet *baluchistanicus*: After Baluchistan (Pakistan)
+
+ES — epithet *baluchistanicus*: Por Baluchistán (Pakistán)
 
 <!-- src:S0018 -->
 

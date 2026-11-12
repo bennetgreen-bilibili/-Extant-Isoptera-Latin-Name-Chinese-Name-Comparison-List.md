@@ -38,9 +38,13 @@ ES — **曼庄小白蚁** (*Microtermes mangzhuangensis*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *mangzhuangensis*：以云南地名 Mangzhuang（芒庄）命名
 
 EN — epithet *mangzhuangensis*: Named after a locality Mangzhuang, Yunnan, China
+
+ES — epithet *mangzhuangensis*: Por la localidad de Mangzhuang, Yunnan, China
 
 <!-- src:S0018 -->
 

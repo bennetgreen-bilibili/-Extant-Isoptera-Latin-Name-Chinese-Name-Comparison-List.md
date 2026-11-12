@@ -35,9 +35,13 @@ ES — **埃默森楹白蚁** (*Incisitermes emersoni*) es una especie del géne
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

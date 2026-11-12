@@ -38,9 +38,13 @@ ES — **稍全锯白蚁** (*Microcerotermes subinteger*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *subinteger*：拉丁文/希腊文 subinte（下、近）+ ger（具），指下、近具
 
 EN — epithet *subinteger*: From subinte (下、近) + ger (具)
+
+ES — epithet *subinteger*: De subinte (abajo, cerca) + ger (que tiene)
 
 <!-- src:S0018 -->
 

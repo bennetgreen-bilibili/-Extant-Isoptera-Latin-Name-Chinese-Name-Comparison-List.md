@@ -38,9 +38,13 @@ ES — **丝角怒白蚁** (*Lacessititermes filicornis*) es una especie del gé
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *filicornis*：拉丁文/希腊文 fili（线）+ cornis（角），指线角
 
 EN — epithet *filicornis*: From fili (线) + cornis (角)
+
+ES — epithet *filicornis*: De fili (hilo) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

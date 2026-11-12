@@ -40,9 +40,13 @@ ES — **二型三脉白蚁** (*Trinervitermes biformis*) es una especie del gé
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *biformis*：拉丁文 bi-（二）+ forma（形），二形
 
 EN — epithet *biformis*: Latin bi- (two) + forma (form), two-formed
+
+ES — epithet *biformis*: Del latín bi- (dos) + forma (forma), de dos formas
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **奇异华象白蚁** (*Sinonasutitermes admirabilis*) es una especie de
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *admirabilis*：拉丁文 admirabilis（令人惊叹的）
 
 EN — epithet *admirabilis*: Latin admirabilis (admirable)
+
+ES — epithet *admirabilis*: Del latín admirabilis (admirable)
 
 <!-- src:S0018 -->
 

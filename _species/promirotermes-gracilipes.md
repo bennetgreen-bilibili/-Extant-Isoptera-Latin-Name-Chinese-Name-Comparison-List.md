@@ -38,9 +38,13 @@ ES — **细足前奇白蚁** (*Promirotermes gracilipes*) es una especie del g�
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *gracilipes*：拉丁文/希腊文 gracili（细长）+ pes（足），指细长足
 
 EN — epithet *gracilipes*: From gracili (细长) + pes (足)
+
+ES — epithet *gracilipes*: De gracili (esbelto) + pes (pie)
 
 <!-- src:S0018 -->
 

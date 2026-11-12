@@ -40,9 +40,13 @@ ES — **霍姆格伦马来白蚁** (*Malaysiotermes holmgreni*) es una especie 
 
 EN — *Malaysiotermes*: From Malaysia + termes.
 
+ES — *Malaysiotermes*: De Malasia + termes.
+
 种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
 
 EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+ES — epithet *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 <!-- src:S0018 -->
 

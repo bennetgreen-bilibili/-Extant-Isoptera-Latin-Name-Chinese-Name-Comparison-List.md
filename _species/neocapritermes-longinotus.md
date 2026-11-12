@@ -38,9 +38,13 @@ ES — **长背新扭白蚁** (*Neocapritermes longinotus*) es una especie del g
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *longinotus*：拉丁文/希腊文 longi（长）+ notus（背），指长背
 
 EN — epithet *longinotus*: From longi (长) + notus (背)
+
+ES — epithet *longinotus*: De longi (largo) + notus (dorso)
 
 <!-- src:S0018 -->
 

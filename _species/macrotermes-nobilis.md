@@ -38,9 +38,13 @@ ES — **闻名大白蚁** (*Macrotermes nobilis*) es una especie del género *M
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *nobilis*：拉丁文 nobilis（高贵的、著名的）
 
 EN — epithet *nobilis*: Latin nobilis (noble)
+
+ES — epithet *nobilis*: Del latín nobilis (noble)
 
 <!-- src:S0018 -->
 

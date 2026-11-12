@@ -40,9 +40,13 @@ ES — **比森锯白蚁** (*Microcerotermes beesoni*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *beesoni*：以人名 Beeson 命名（英国林学家 C. F. C. Beeson）
 
 EN — epithet *beesoni*: Named after the forest entomologist C. F. C. Beeson
+
+ES — epithet *beesoni*: En honor del entomólogo forestal C. F. C. Beeson
 
 <!-- src:S0018 -->
 

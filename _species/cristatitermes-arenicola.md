@@ -38,9 +38,13 @@ ES — **沙栖脊突白蚁** (*Cristatitermes arenicola*) es una especie del g�
 
 EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
 
+ES — *Cristatitermes*: Del latín cristatus (crestado) + termes.
+
 种加词 *arenicola*：拉丁文/希腊文 areni（沙）+ cola（栖），指沙栖
 
 EN — epithet *arenicola*: From areni (沙) + cola (栖)
+
+ES — epithet *arenicola*: De areni (arena) + cola (que habita)
 
 <!-- src:S0018 -->
 

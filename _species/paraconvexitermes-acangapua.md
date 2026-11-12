@@ -38,9 +38,13 @@ ES — **圆头近凸白蚁** (*Paraconvexitermes acangapua*) es una especie del
 
 EN — *Paraconvexitermes*: From Greek para- (beside) + Latin convexus (convex) + termes.
 
+ES — *Paraconvexitermes*: Del griego para- (al lado de) + latín convexus (convexo) + termes.
+
 种加词 *acangapua*：拉丁化图皮语 acanga（头）+ pua（圆），指头形
 
 EN — epithet *acangapua*: From Tupi acanga (head) + pua (round), referring to the head shape
+
+ES — epithet *acangapua*: Del tupí acanga (cabeza) + pua (redondo), en referencia a la forma de la cabeza
 
 <!-- src:S0018 -->
 

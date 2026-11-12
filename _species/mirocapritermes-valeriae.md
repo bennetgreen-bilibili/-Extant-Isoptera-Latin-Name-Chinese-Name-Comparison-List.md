@@ -38,9 +38,13 @@ ES — **瓦莱里瘤白蚁** (*Mirocapritermes valeriae*) es una especie del g�
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *valeriae*：以人名 Valeria（女性人名） 命名
 
 EN — epithet *valeriae*: Named after Valeria
+
+ES — epithet *valeriae*: En honor de Valeria
 
 <!-- src:S0018 -->
 

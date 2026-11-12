@@ -35,9 +35,13 @@ ES — **平额散白蚁** (*Reticulitermes planifrons*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *planifrons*：拉丁文 planus（平）+ frons（额），指额平
 
 EN — epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
+
+ES — epithet *planifrons*: Del latín planus (plano) + frons (frente), de frente plana
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **西沙原鼻白蚁** (*Prorhinotermes xishaensis*) es una especie del g
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *xishaensis*：以地名 西沙（南海） 命名
 
 EN — epithet *xishaensis*: Named after the locality Xisha
+
+ES — epithet *xishaensis*: Por la localidad de Xisha
 
 <!-- src:S0018 -->
 

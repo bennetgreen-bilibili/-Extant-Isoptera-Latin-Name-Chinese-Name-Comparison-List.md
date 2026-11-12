@@ -38,9 +38,13 @@ ES — **似多产土白蚁** (*Odontotermes prodives*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *prodives*：拉丁文 pro-（非常）+ dives（富有），极富
 
 EN — epithet *prodives*: Latin pro- (very) + dives (rich), very rich
+
+ES — epithet *prodives*: Del latín pro- (muy) + dives (rico), muy rico
 
 <!-- src:S0018 -->
 

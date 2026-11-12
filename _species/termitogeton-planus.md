@@ -37,9 +37,13 @@ ES — **平坦寡脉白蚁** (*Termitogeton planus*) es una especie, y la espec
 
 EN — *Termitogeton*: From Greek termit- (termite) + geitōn (neighbor), 'termite's neighbor'.
 
+ES — *Termitogeton*: Del griego termit- (termita) + geitōn (vecino), «vecino de las termitas».
+
 种加词 *planus*：拉丁文 planus（平）
 
 EN — epithet *planus*: Latin planus (flat)
+
+ES — epithet *planus*: Del latín planus (plano)
 
 <!-- src:S0018 -->
 

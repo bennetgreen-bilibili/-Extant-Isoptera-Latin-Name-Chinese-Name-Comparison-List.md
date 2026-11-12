@@ -35,9 +35,13 @@ ES — **高要散白蚁** (*Reticulitermes gaoyaoensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *gaoyaoensis*：以地名 高要（广东） 命名
 
 EN — epithet *gaoyaoensis*: Named after the locality Gaoyao
+
+ES — epithet *gaoyaoensis*: Por la localidad de Gaoyao
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **旁遮普角白蚁** (*Angulitermes punjabensis*) es una especie del g�
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *punjabensis*：以地名 旁遮普 命名
 
 EN — epithet *punjabensis*: Named after the locality Punjab
+
+ES — epithet *punjabensis*: Por la localidad del Punyab
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **土耳其斯坦无刺白蚁** (*Anacanthotermes turkestanicus*) es una 
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *turkestanicus*：以地名 Turkestan（突厥斯坦，中亚）命名
 
 EN — epithet *turkestanicus*: Named after Turkestan (Central Asia)
+
+ES — epithet *turkestanicus*: Por Turkestán (Asia central)
 
 <!-- src:S0018 -->
 

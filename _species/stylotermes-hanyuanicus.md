@@ -35,9 +35,13 @@ ES — **汉源杆白蚁** (*Stylotermes hanyuanicus*) es una especie del géner
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *hanyuanicus*：以地名汉源（四川）命名
 
 EN — epithet *hanyuanicus*: Named after Hanyuan (Sichuan)
+
+ES — epithet *hanyuanicus*: Por Hanyuan (Sichuan)
 
 <!-- src:S0018 -->
 

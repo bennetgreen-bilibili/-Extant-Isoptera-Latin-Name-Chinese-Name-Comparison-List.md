@@ -38,9 +38,13 @@ ES — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) es la única espec
 
 EN — *Noirotitermes*: Named after the termite biologist C. Noirot; -termes from Latin termes.
 
+ES — *Noirotitermes*: En honor del biólogo de termitas C. Noirot; -termes, del latín termes.
+
 种加词 *noiroti*：以人名 noirot 命名（法国白蚁生物学家 C. Noirot）
 
 EN — epithet *noiroti*: Named after 法国白蚁生物学家 C. Noirot
+
+ES — epithet *noiroti*: En honor de C. Noirot (biólogo francés de termitas)
 
 <!-- src:S0018 -->
 

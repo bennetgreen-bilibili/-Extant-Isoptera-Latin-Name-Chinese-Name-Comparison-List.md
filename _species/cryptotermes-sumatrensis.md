@@ -35,9 +35,13 @@ ES — **苏门答腊堆砂白蚁** (*Cryptotermes sumatrensis*) es una especie 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *sumatrensis*：以地名 苏门答腊 命名
 
 EN — epithet *sumatrensis*: Named after the locality Sumatr
+
+ES — epithet *sumatrensis*: Por la localidad de Sumatra
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **峭壁弓白蚁** (*Amitermes scopulus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *scopulus*：拉丁文 scopulus（岩石、悬崖）
 
 EN — epithet *scopulus*: Latin scopulus (crag)
+
+ES — epithet *scopulus*: Del latín scopulus (peñasco)
 
 <!-- src:S0018 -->
 

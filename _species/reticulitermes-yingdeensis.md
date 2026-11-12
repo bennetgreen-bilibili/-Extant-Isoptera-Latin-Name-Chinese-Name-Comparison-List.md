@@ -35,9 +35,13 @@ ES — **英德散白蚁** (*Reticulitermes yingdeensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *yingdeensis*：以地名 英德（广东） 命名
 
 EN — epithet *yingdeensis*: Named after the locality Yingde
+
+ES — epithet *yingdeensis*: Por la localidad de Yingde
 
 <!-- src:S0018 -->
 

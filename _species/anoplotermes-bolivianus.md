@@ -38,9 +38,13 @@ ES — **玻利维亚解甲白蚁** (*Anoplotermes bolivianus*) es una especie d
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *bolivianus*：地名：玻利维亚
 
 EN — epithet *bolivianus*: After Bolivia
+
+ES — epithet *bolivianus*: Por Bolivia
 
 <!-- src:S0018 -->
 

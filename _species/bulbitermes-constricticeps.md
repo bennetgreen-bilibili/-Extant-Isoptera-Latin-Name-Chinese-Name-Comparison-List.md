@@ -38,9 +38,13 @@ ES — **缩头瓢白蚁** (*Bulbitermes constricticeps*) es una especie del gé
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *constricticeps*：拉丁文/希腊文 constricti（缢缩）+ ceps（头），指缢缩头
 
 EN — epithet *constricticeps*: From constricti (缢缩) + ceps (头)
+
+ES — epithet *constricticeps*: De constricti (constreñido) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

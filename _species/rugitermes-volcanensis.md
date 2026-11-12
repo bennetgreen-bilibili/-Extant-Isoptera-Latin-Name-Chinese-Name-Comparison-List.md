@@ -35,9 +35,13 @@ ES — **火山皱白蚁** (*Rugitermes volcanensis*) es una especie del género
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *volcanensis*：拉丁文 volcanus（火山）＋-ensis，指火山的、生于火山环境
 
 EN — epithet *volcanensis*: Latin volcanus (volcano) + -ensis: volcanic, of volcanic habitat
+
+ES — epithet *volcanensis*: Del latín volcanus (volcán) + -ensis: volcánico, de hábitat volcánico
 
 <!-- src:S0018 -->
 

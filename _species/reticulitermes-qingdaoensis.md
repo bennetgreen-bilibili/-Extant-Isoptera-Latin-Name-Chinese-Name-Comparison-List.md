@@ -35,9 +35,13 @@ ES — **青岛散白蚁** (*Reticulitermes qingdaoensis*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *qingdaoensis*：以地名 青岛（山东） 命名
 
 EN — epithet *qingdaoensis*: Named after the locality Qingdao
+
+ES — epithet *qingdaoensis*: Por la localidad de Qingdao
 
 <!-- src:S0018 -->
 

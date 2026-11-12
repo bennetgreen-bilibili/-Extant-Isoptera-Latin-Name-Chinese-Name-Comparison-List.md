@@ -38,9 +38,13 @@ ES — **菲律宾锯白蚁** (*Microcerotermes philippinensis*) es una especie 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *philippinensis*：以地名 菲律宾 命名
 
 EN — epithet *philippinensis*: Named after the locality Philippin
+
+ES — epithet *philippinensis*: Por la localidad de Filipinas
 
 <!-- src:S0018 -->
 

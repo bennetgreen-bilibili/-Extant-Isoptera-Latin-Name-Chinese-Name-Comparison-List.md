@@ -38,9 +38,13 @@ ES — **细长刻痕白蚁** (*Crenetermes elongatus*) es una especie del géne
 
 EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Crenetermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *elongatus*：拉丁文 elongatus（延长的）
 
 EN — epithet *elongatus*: Latin elongatus (elongated)
+
+ES — epithet *elongatus*: Del latín elongatus (alargado)
 
 <!-- src:S0018 -->
 

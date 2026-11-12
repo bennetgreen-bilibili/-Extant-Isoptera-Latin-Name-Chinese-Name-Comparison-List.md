@@ -38,9 +38,13 @@ ES — **大唇铲白蚁** (*Batillitermes clypeatus*) es una especie del géner
 
 EN — *Batillitermes*: From Latin batillum (shovel) + termes.
 
+ES — *Batillitermes*: Del latín batillum (pala) + termes.
+
 种加词 *clypeatus*：拉丁文 clypeatus（具盾的）
 
 EN — epithet *clypeatus*: Latin clypeatus (shielded)
+
+ES — epithet *clypeatus*: Del latín clypeatus (con escudo)
 
 <!-- src:S0018 -->
 

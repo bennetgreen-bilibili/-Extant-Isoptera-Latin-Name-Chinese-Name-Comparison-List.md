@@ -38,9 +38,13 @@ ES — **弯曲原方白蚁** (*Procubitermes curvatus*) es una especie del gén
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *curvatus*：拉丁文/希腊文 curv（弯）+ atus（具），指弯具
 
 EN — epithet *curvatus*: From curv (弯) + atus (具)
+
+ES — epithet *curvatus*: De curv (curvo) + atus (provisto de)
 
 <!-- src:S0018 -->
 

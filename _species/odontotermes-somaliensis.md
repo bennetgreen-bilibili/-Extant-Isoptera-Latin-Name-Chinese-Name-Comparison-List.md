@@ -38,9 +38,13 @@ ES — **索马里土白蚁** (*Odontotermes somaliensis*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *somaliensis*：以地名 索马里 命名
 
 EN — epithet *somaliensis*: Named after Somalia
+
+ES — epithet *somaliensis*: Por Somalia
 
 <!-- src:S0018 -->
 

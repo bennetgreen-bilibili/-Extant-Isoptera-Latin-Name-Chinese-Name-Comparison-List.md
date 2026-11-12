@@ -38,9 +38,13 @@ ES — **乔科白蚁** (*Termes chocoensis*) es una especie del género *Termes
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *chocoensis*：以地名 乔科（哥伦比亚） 命名
 
 EN — epithet *chocoensis*: Named after the locality Choco
+
+ES — epithet *chocoensis*: Por la localidad del Chocó
 
 <!-- src:S0018 -->
 

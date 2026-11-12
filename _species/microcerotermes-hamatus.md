@@ -38,9 +38,13 @@ ES — **具钩锯白蚁** (*Microcerotermes hamatus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *hamatus*：拉丁文 hamatus（具钩的）
 
 EN — epithet *hamatus*: Latin hamatus (hooked)
+
+ES — epithet *hamatus*: Del latín hamatus (ganchudo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **异齿聚刺白蚁** (*Synacanthotermes heterodon*) es una especie, y l
 
 EN — *Synacanthotermes*: From Greek syn- (together) + akantha (thorn) + Latin termes.
 
+ES — *Synacanthotermes*: Del griego syn- (junto) + akantha (espina) + latín termes.
+
 种加词 *heterodon*：拉丁文/希腊文词根「heter」（异）
 
 EN — epithet *heterodon*: From the descriptive term 'heter' (different)
+
+ES — epithet *heterodon*: Del término descriptivo «heter» (distinto)
 
 <!-- src:S0018 -->
 

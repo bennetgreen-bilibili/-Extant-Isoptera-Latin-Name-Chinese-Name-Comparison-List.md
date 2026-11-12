@@ -38,9 +38,13 @@ ES — **多刺胃白蚁** (*Gastrotermes spinatus*) es la única especie vivien
 
 EN — *Gastrotermes*: From Greek gastēr (belly) + Latin termes.
 
+ES — *Gastrotermes*: Del griego gastēr (vientre) + latín termes.
+
 种加词 *spinatus*：拉丁文/希腊文 spin（刺）+ atus（具），指刺具
 
 EN — epithet *spinatus*: From spin (刺) + atus (具)
+
+ES — epithet *spinatus*: De spin (espina) + atus (que posee)
 
 <!-- src:S0018 -->
 

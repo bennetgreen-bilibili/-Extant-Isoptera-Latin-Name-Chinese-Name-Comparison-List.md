@@ -38,9 +38,13 @@ ES — **江城瘤白蚁** (*Mirocapritermes jiangchengensis*) es una especie de
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *jiangchengensis*：以地名 江城（云南） 命名
 
 EN — epithet *jiangchengensis*: Named after the locality Jiangcheng
+
+ES — epithet *jiangchengensis*: Por la localidad de Jiangcheng
 
 <!-- src:S0018 -->
 

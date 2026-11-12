@@ -35,9 +35,13 @@ ES — **单色皱白蚁** (*Rugitermes unicolor*) es una especie del género *R
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *unicolor*：拉丁文 unus（一）+ color（色），单色
 
 EN — epithet *unicolor*: Latin unus (one) + color (colour), one-coloured
+
+ES — epithet *unicolor*: Del latín unus (uno) + color (color), de un solo color
 
 <!-- src:S0018 -->
 

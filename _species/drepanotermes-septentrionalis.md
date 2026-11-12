@@ -38,9 +38,13 @@ ES — **北方镰白蚁** (*Drepanotermes septentrionalis*) es una especie del 
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *septentrionalis*：拉丁文 septentrionalis（北方的）
 
 EN — epithet *septentrionalis*: Latin septentrionalis (northern)
+
+ES — epithet *septentrionalis*: Del latín septentrionalis (septentrional, del norte)
 
 <!-- src:S0018 -->
 

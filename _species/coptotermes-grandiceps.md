@@ -37,9 +37,13 @@ ES — **庞头乳白蚁** (*Coptotermes grandiceps*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *grandiceps*：拉丁文/希腊文 grandi（大）+ ceps（头），指大头
 
 EN — epithet *grandiceps*: From grandi (大) + ceps (头)
+
+ES — epithet *grandiceps*: De grandi (grande) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

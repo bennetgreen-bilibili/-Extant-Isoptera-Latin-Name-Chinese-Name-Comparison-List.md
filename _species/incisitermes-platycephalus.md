@@ -37,9 +37,13 @@ ES — **宽头楹白蚁** (*Incisitermes platycephalus*) es una especie del gé
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *platycephalus*：拉丁文/希腊文词根「plat」（宽扁）
 
 EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
+
+ES — epithet *platycephalus*: Del término descriptivo «plat» (ancho)
 
 <!-- src:S0018 -->
 

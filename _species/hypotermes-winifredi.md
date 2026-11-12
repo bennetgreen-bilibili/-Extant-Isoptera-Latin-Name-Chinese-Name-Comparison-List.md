@@ -38,9 +38,13 @@ ES — **威尼弗雷德地白蚁** (*Hypotermes winifredi*) es una especie del 
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *winifredi*：以人名 Winifred（人名） 命名
 
 EN — epithet *winifredi*: Named after Winifred
+
+ES — epithet *winifredi*: En honor de Winifred
 
 <!-- src:S0018 -->
 

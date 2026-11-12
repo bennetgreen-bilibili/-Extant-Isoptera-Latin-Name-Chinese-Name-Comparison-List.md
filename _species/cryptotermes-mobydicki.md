@@ -35,9 +35,13 @@ ES — **莫比迪克堆砂白蚁** (*Cryptotermes mobydicki*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *mobydicki*：以赫尔曼·梅尔维尔小说《白鲸》中的白鲸莫比·迪克（Moby Dick）命名
 
 EN — epithet *mobydicki*: Named after Moby Dick, the whale in Melville's Moby-Dick
+
+ES — epithet *mobydicki*: En honor de Moby Dick, la ballena de Moby-Dick de Melville
 
 <!-- src:S0018 -->
 

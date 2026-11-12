@@ -35,9 +35,13 @@ ES — **格林新白蚁** (*Neotermes greeni*) es una especie del género *Neot
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *greeni*：以人名 E. Ernest Green（英国昆虫学家）命名
 
 EN — epithet *greeni*: Named after E. Ernest Green
+
+ES — epithet *greeni*: En honor de E. Ernest Green
 
 <!-- src:S0018 -->
 

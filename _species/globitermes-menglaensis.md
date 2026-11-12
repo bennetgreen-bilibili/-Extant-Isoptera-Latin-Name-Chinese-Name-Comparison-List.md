@@ -38,9 +38,13 @@ ES — **勐腊球白蚁** (*Globitermes menglaensis*) es una especie del géner
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *menglaensis*：以地名 勐腊（云南） 命名
 
 EN — epithet *menglaensis*: Named after the locality Mengla
+
+ES — epithet *menglaensis*: Por la localidad de Mengla
 
 <!-- src:S0018 -->
 

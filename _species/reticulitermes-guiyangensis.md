@@ -35,9 +35,13 @@ ES — **贵阳散白蚁** (*Reticulitermes guiyangensis*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *guiyangensis*：以地名 贵阳（贵州） 命名
 
 EN — epithet *guiyangensis*: Named after the locality Guiyang
+
+ES — epithet *guiyangensis*: Por la localidad de Guiyang
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **沙赫鲁德锯白蚁** (*Microcerotermes shahroudiensis*) es una espec
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *shahroudiensis*：以地名 Shahroud（沙赫鲁德，伊朗塞姆南省）命名
 
 EN — epithet *shahroudiensis*: Named after the locality Shahroud (Iran)
+
+ES — epithet *shahroudiensis*: Por la localidad de Shahroud (Irán)
 
 <!-- src:S0018 -->
 

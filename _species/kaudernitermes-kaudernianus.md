@@ -38,9 +38,13 @@ ES — **考登考登白蚁** (*Kaudernitermes kaudernianus*) es una especie, y 
 
 EN — *Kaudernitermes*: Named after the explorer W. Kaudern; -termes from Latin termes.
 
+ES — *Kaudernitermes*: En honor del explorador W. Kaudern; -termes, del latín termes.
+
 种加词 *kaudernianus*：以人名 kaudern 命名（瑞典探险家 W. Kaudern）
 
 EN — epithet *kaudernianus*: Named after 瑞典探险家 W. Kaudern
+
+ES — epithet *kaudernianus*: En honor del explorador sueco W. Kaudern
 
 <!-- src:S0018 -->
 

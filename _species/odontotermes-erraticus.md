@@ -38,9 +38,13 @@ ES — **游荡土白蚁** (*Odontotermes erraticus*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *erraticus*：拉丁文 erraticus（漂泊不定的）
 
 EN — epithet *erraticus*: Latin erraticus (wandering, erratic)
+
+ES — epithet *erraticus*: Del latín erraticus (errante, errático)
 
 <!-- src:S0018 -->
 

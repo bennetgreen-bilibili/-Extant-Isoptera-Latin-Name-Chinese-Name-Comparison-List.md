@@ -35,9 +35,13 @@ ES — **双瘤散白蚁** (*Reticulitermes bicristatus*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *bicristatus*：拉丁文 bi-（二）+ cristatus（具冠），双冠
 
 EN — epithet *bicristatus*: Latin bi- (two) + cristatus (crested), two-crested
+
+ES — epithet *bicristatus*: Del latín bi- (dos) + cristatus (crestado), de dos crestas
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **微小弓白蚁** (*Amitermes parvus*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *parvus*：拉丁文 parvus（小）
 
 EN — epithet *parvus*: Latin parvus (small)
+
+ES — epithet *parvus*: Del latín parvus (pequeño)
 
 <!-- src:S0018 -->
 

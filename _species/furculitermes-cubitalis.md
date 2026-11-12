@@ -38,9 +38,13 @@ ES — **急弯叉白蚁** (*Furculitermes cubitalis*) es una especie del géner
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *cubitalis*：拉丁文 cubitalis（肘的、前臂的）
 
 EN — epithet *cubitalis*: Latin cubitalis (of the cubitus)
+
+ES — epithet *cubitalis*: Del latín cubitalis (del cúbito)
 
 <!-- src:S0018 -->
 

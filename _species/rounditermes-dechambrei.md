@@ -38,9 +38,13 @@ ES — **德尚布尔胖白蚁** (*Rounditermes dechambrei*) es la única especi
 
 EN — *Rounditermes*: Named after a person (Round); -termes from Latin termes.
 
+ES — *Rounditermes*: En honor de una persona (Round); -termes, del latín termes.
+
 种加词 *dechambrei*：以人名 Dechambre 命名
 
 EN — epithet *dechambrei*: Named after Dechambre
+
+ES — epithet *dechambrei*: En honor de Dechambre
 
 <!-- src:S0018 -->
 

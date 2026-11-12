@@ -38,9 +38,13 @@ ES — **大佛宽白蚁** (*Eurytermes buddha*) es una especie del género *Eur
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
+ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
+
 种加词 *buddha*：梵文 Buddha（佛陀）
 
 EN — epithet *buddha*: Sanskrit Buddha
+
+ES — epithet *buddha*: Del sánscrito Buddha
 
 <!-- src:S0018 -->
 

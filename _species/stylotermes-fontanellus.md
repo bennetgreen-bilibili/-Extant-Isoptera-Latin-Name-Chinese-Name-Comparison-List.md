@@ -35,9 +35,13 @@ ES — **长囟杆白蚁** (*Stylotermes fontanellus*) es una especie del géner
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *fontanellus*：拉丁文 fontana（泉）+ -ellus（小），小泉
 
 EN — epithet *fontanellus*: Latin fontana (spring) + -ellus (small), little spring
+
+ES — epithet *fontanellus*: Del latín fontana (manantial) + -ellus (pequeño), manantial pequeño
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **西尔韦斯特里弓白蚁** (*Amitermes silvestrianus*) es una especi
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *silvestrianus*：以人名 silvestr 命名（意大利昆虫学家 F. Silvestri）
 
 EN — epithet *silvestrianus*: Named after 意大利昆虫学家 F. Silvestri
+
+ES — epithet *silvestrianus*: En honor del entomólogo italiano F. Silvestri
 
 <!-- src:S0018 -->
 

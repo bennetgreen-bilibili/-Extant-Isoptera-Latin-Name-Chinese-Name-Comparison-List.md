@@ -38,9 +38,13 @@ ES — **勇士镰白蚁** (*Drepanotermes bellator*) es una especie del género
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *bellator*：拉丁文 bellator（战士）
 
 EN — epithet *bellator*: Latin bellator (warrior)
+
+ES — epithet *bellator*: Del latín bellator (guerrero)
 
 <!-- src:S0018 -->
 

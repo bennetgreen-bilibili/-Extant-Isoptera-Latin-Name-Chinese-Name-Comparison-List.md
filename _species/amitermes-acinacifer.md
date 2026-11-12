@@ -38,9 +38,13 @@ ES — **短刀弓白蚁** (*Amitermes acinacifer*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *acinacifer*：拉丁文/希腊文 acinaci（弯刀）+ fer（具），指弯刀具
 
 EN — epithet *acinacifer*: From acinaci (弯刀) + fer (具)
+
+ES — epithet *acinacifer*: De acinaci (cimitarra) + fer (que lleva)
 
 <!-- src:S0018 -->
 

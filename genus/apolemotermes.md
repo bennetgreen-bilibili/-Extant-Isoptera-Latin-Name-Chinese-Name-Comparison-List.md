@@ -57,6 +57,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由希腊文 a-（无）+ polemos（战争、兵）与拉丁文 termes（白蚁）组合，意为「无兵蚁的白蚁」。</p>
 <p class="etymology-en fact-en" lang="en">From Greek a- (without) + polemos (war) + Latin termes, 'termite without soldiers'.</p>
+<p class="etymology-es fact-es" lang="es">Del griego a- (sin) + polemos (guerra) + latín termes, «termita sin soldados».</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

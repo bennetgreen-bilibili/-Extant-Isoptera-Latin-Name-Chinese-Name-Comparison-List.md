@@ -38,9 +38,13 @@ ES — **平行弓白蚁** (*Amitermes parallelus*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *parallelus*：拉丁文/希腊文词根「parallel」（平行）
 
 EN — epithet *parallelus*: From the descriptive term 'parallel' (parallel)
+
+ES — epithet *parallelus*: Del término descriptivo «parallel» (paralelo)
 
 <!-- src:S0018 -->
 

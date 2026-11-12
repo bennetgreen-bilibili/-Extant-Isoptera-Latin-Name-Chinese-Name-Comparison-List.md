@@ -38,9 +38,13 @@ ES — **卡日普纳巨鼻白蚁** (*Cyranotermes karipuna*) es una especie del
 
 EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
 
+ES — *Cyranotermes*: De Cyrano (de Bergerac, famoso por su larga nariz) + termes, por el nasus largo.
+
 种加词 *karipuna*：卡里普纳族（巴西原住民）
 
 EN — epithet *karipuna*: After the Karipuna people (Brazil)
+
+ES — epithet *karipuna*: Por el pueblo karipuna (Brasil)
 
 <!-- src:S0018 -->
 

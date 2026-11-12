@@ -38,9 +38,13 @@ ES — **粗颚象白蚁** (*Nasutitermes crassus*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *crassus*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassus*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassus*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

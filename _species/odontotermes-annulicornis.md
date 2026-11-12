@@ -38,9 +38,13 @@ ES — **环角土白蚁** (*Odontotermes annulicornis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *annulicornis*：拉丁文/希腊文 annuli（环纹）+ cornis（角），指环纹角
 
 EN — epithet *annulicornis*: From annuli (环纹) + cornis (角)
+
+ES — epithet *annulicornis*: De annuli (anillo) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

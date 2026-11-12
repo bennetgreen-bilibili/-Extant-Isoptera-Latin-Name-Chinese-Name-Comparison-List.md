@@ -38,9 +38,13 @@ ES — **极宽土白蚁** (*Odontotermes latissimus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *latissimus*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latissimus*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latissimus*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

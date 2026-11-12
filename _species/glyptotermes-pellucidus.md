@@ -35,9 +35,13 @@ ES — **清晰树白蚁** (*Glyptotermes pellucidus*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *pellucidus*：拉丁文/希腊文词根「pelluc」（透明）
 
 EN — epithet *pellucidus*: From the descriptive term 'pelluc' (transparent)
+
+ES — epithet *pellucidus*: Del término descriptivo «pelluc» (transparente)
 
 <!-- src:S0018 -->
 

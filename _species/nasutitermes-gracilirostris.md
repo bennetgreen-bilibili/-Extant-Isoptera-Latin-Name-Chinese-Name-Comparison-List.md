@@ -38,9 +38,13 @@ ES — **细嘴象白蚁** (*Nasutitermes gracilirostris*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *gracilirostris*：拉丁文/希腊文 gracili（细长）+ rostris（喙），指细长喙
 
 EN — epithet *gracilirostris*: From gracili (细长) + rostris (喙)
+
+ES — epithet *gracilirostris*: De gracili (esbelto) + rostris (pico)
 
 <!-- src:S0018 -->
 

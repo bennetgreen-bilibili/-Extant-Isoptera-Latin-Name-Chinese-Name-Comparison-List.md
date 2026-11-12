@@ -38,9 +38,13 @@ ES — **大山象白蚁** (*Nasutitermes montanae*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *montanae*：拉丁文 montanus（山地的）
 
 EN — epithet *montanae*: From Latin montanus (of mountains)
+
+ES — epithet *montanae*: Del latín montanus (de las montañas)
 
 <!-- src:S0018 -->
 

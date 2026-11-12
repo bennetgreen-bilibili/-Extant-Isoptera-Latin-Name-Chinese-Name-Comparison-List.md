@@ -38,9 +38,13 @@ ES — **愤怒土白蚁** (*Odontotermes iratus*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *iratus*：拉丁文 iratus（愤怒的）
 
 EN — epithet *iratus*: Latin iratus (angry)
+
+ES — epithet *iratus*: Del latín iratus (airado)
 
 <!-- src:S0018 -->
 

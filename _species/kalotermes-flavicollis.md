@@ -37,9 +37,13 @@ ES — **黄颈木白蚁** (*Kalotermes flavicollis*) es una especie, y la espec
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *flavicollis*：拉丁文/希腊文 flavi（黄）+ collis（颈），指黄颈
 
 EN — epithet *flavicollis*: From flavi (黄) + collis (颈)
+
+ES — epithet *flavicollis*: De flavi (amarillo) + collis (cuello)
 
 <!-- src:S0018 -->
 

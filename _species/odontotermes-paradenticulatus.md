@@ -38,9 +38,13 @@ ES — **似齿小土白蚁** (*Odontotermes paradenticulatus*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *paradenticulatus*：拉丁文/希腊文 paradenticul（旁）+ atus（具），指旁具
 
 EN — epithet *paradenticulatus*: From paradenticul (旁) + atus (具)
+
+ES — epithet *paradenticulatus*: De paradenticul (al lado) + atus (que posee)
 
 <!-- src:S0018 -->
 

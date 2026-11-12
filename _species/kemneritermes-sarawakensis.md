@@ -38,9 +38,13 @@ ES — **砂拉越凯姆勒白蚁** (*Kemneritermes sarawakensis*) es la única 
 
 EN — *Kemneritermes*: Named after the entomologist N. A. Kemner; -termes from Latin termes.
 
+ES — *Kemneritermes*: En honor del entomólogo N. A. Kemner; -termes, del latín termes.
+
 种加词 *sarawakensis*：以地名 沙捞越（马来西亚） 命名
 
 EN — epithet *sarawakensis*: Named after the locality Sarawak
+
+ES — epithet *sarawakensis*: Por la localidad de Sarawak
 
 <!-- src:S0018 -->
 

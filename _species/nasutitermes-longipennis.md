@@ -40,9 +40,13 @@ ES — **长翅象白蚁** (*Nasutitermes longipennis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longipennis*：拉丁文 longus（长）+ penna（翅），长翅
 
 EN — epithet *longipennis*: Latin longus (long) + penna (wing), long-winged
+
+ES — epithet *longipennis*: Del latín longus (largo) + penna (ala), de alas largas
 
 <!-- src:S0018 -->
 

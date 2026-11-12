@@ -38,9 +38,13 @@ ES — **锡兰象白蚁** (*Nasutitermes ceylonicus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
 
 EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+ES — epithet *ceylonicus*: Por Ceilán (Sri Lanka)
 
 <!-- src:S0018 -->
 

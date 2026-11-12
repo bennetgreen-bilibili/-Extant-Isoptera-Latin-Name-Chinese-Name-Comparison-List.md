@@ -38,9 +38,13 @@ ES — **新具毛前扭白蚁** (*Procapritermes neosetiger*) es una especie de
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *neosetiger*：拉丁文/希腊文 neoseti（新）+ ger（具），指新具
 
 EN — epithet *neosetiger*: From neoseti (新) + ger (具)
+
+ES — epithet *neosetiger*: De neoseti (nuevo) + ger (que posee)
 
 <!-- src:S0018 -->
 

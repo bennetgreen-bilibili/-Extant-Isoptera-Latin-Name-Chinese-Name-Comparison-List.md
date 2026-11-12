@@ -39,9 +39,13 @@ ES — **温和亚种** (*Eurytermes assmuthi modestior*) es una subespecie de *
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
+ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
+
 种加词 *modestior*：拉丁文 modestior（较温和的，modestus 的比较级）
 
 EN — epithet *modestior*: Latin modestior (more modest, comparative of modestus)
+
+ES — epithet *modestior*: Del latín modestior (más modesto, comparativo de modestus)
 
 <!-- src:S0018 -->
 

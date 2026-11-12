@@ -38,9 +38,13 @@ ES — **中推白蚁** (*Termes medioculatus*) es una especie del género *Term
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *medioculatus*：拉丁文/希腊文 mediocul（中间）+ atus（具），指中间具
 
 EN — epithet *medioculatus*: From mediocul (中间) + atus (具)
+
+ES — epithet *medioculatus*: De mediocul (intermedio) + atus (provisto de)
 
 <!-- src:S0018 -->
 

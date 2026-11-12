@@ -38,9 +38,13 @@ ES — **尼韦迪塔锡兰白蚁** (*Ceylonitermes nivedita*) es una especie de
 
 EN — *Ceylonitermes*: From Ceylon (Sri Lanka) + termes.
 
+ES — *Ceylonitermes*: De Ceilán (Sri Lanka) + termes.
+
 种加词 *nivedita*：拉丁文/希腊文词根「nive」（雪白）
 
 EN — epithet *nivedita*: From the descriptive term 'nive' (snowy)
+
+ES — epithet *nivedita*: Del término descriptivo «nive» (nevado)
 
 <!-- src:S0018 -->
 

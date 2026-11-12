@@ -40,9 +40,13 @@ ES — **常见土白蚁** (*Odontotermes vulgaris*) es una especie, y la especi
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *vulgaris*：拉丁文 vulgaris（常见的）
 
 EN — epithet *vulgaris*: Latin vulgaris (common)
+
+ES — epithet *vulgaris*: Del latín vulgaris (común)
 
 <!-- src:S0018 -->
 

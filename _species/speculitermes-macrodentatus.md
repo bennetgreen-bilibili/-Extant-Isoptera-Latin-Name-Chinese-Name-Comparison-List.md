@@ -38,9 +38,13 @@ ES — **大齿稀白蚁** (*Speculitermes macrodentatus*) es una especie del g�
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *macrodentatus*：拉丁文/希腊文 macrodent（大）+ atus（具），指大具
 
 EN — epithet *macrodentatus*: From macrodent (大) + atus (具)
+
+ES — epithet *macrodentatus*: De macrodent (grande) + atus (provisto de)
 
 <!-- src:S0018 -->
 

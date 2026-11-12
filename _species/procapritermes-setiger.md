@@ -38,9 +38,13 @@ ES — **具毛前扭白蚁** (*Procapritermes setiger*) es una especie, y la es
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *setiger*：拉丁文/希腊文 seti（刚毛）+ ger（具），指刚毛具
 
 EN — epithet *setiger*: From seti (刚毛) + ger (具)
+
+ES — epithet *setiger*: De seti (cerda) + ger (que lleva)
 
 <!-- src:S0018 -->
 

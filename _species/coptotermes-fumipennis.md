@@ -35,9 +35,13 @@ ES — **烟翅乳白蚁** (*Coptotermes fumipennis*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *fumipennis*：拉丁文 fumus（烟）+ penna（翅），烟翅
 
 EN — epithet *fumipennis*: Latin fumus (smoke) + penna (wing), smoke-winged
+
+ES — epithet *fumipennis*: Del latín fumus (humo) + penna (ala), de alas ahumadas
 
 <!-- src:S0018 -->
 

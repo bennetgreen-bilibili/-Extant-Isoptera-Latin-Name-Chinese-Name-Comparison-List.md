@@ -38,9 +38,13 @@ ES — **细头方白蚁** (*Cubitermes tenuiceps*) es una especie del género *
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *tenuiceps*：拉丁文/希腊文 tenui（细）+ ceps（头），指细头
 
 EN — epithet *tenuiceps*: From tenui (细) + ceps (头)
+
+ES — epithet *tenuiceps*: De tenui (fino) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

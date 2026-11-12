@@ -40,9 +40,13 @@ ES — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) es una especie del
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *spiniger*：拉丁文/希腊文 spini（刺）+ ger（具），指刺具
 
 EN — epithet *spiniger*: From spini (刺) + ger (具)
+
+ES — epithet *spiniger*: De spini (espina) + ger (que lleva)
 
 <!-- src:S0018 -->
 

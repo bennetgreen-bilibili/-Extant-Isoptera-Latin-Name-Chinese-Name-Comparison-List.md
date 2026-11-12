@@ -38,9 +38,13 @@ ES — **夏氏钩白蚁** (*Ancistrotermes xiai*) es una especie del género *A
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *xiai*：以中国白蚁分类学家夏凯龄（Xia Kailing，中科院上海昆虫研究所）命名。
 
 EN — epithet *xiai*: Named after the Chinese termite taxonomist Kailing Xia.
+
+ES — epithet *xiai*: En honor de Kailing Xia, taxónomo chino de termitas.
 
 <!-- src:S0018 -->
 

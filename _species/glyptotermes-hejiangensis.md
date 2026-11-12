@@ -35,9 +35,13 @@ ES — **合江树白蚁** (*Glyptotermes hejiangensis*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *hejiangensis*：以地名 合江（四川） 命名
 
 EN — epithet *hejiangensis*: Named after the locality Hejiang
+
+ES — epithet *hejiangensis*: Por la localidad de Hejiang
 
 <!-- src:S0018 -->
 

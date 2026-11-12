@@ -38,9 +38,13 @@ ES — **高跷高跷白蚁** (*Grallatotermes grallator*) es una especie, y la 
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
+ES — *Grallatotermes*: Del latín grallator (zancudo) + termes.
+
 种加词 *grallator*：拉丁文 grallator（踩高跷者）
 
 EN — epithet *grallator*: Latin grallator (stilt-walker)
+
+ES — epithet *grallator*: Del latín grallator (zancudo)
 
 <!-- src:S0018 -->
 

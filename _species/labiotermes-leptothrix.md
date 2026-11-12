@@ -38,9 +38,13 @@ ES — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) es una especie del gén
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *leptothrix*：拉丁文/希腊文词根「lept」（细）
 
 EN — epithet *leptothrix*: From the descriptive term 'lept' (slender)
+
+ES — epithet *leptothrix*: Del término descriptivo «lept» (esbelto)
 
 <!-- src:S0018 -->
 

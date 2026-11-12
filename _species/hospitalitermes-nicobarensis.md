@@ -38,9 +38,13 @@ ES — **尼科巴须白蚁** (*Hospitalitermes nicobarensis*) es una especie de
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *nicobarensis*：以尼科巴群岛（Nicobar）命名
 
 EN — epithet *nicobarensis*: Named after the Nicobar Islands
+
+ES — epithet *nicobarensis*: Por las islas Nicobar
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **似三脉三脉白蚁** (*Trinervitermes trinervoides*) es una especie 
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *trinervoides*：拉丁文 tri-（三）+ nervus（脉）+ 希腊文 -oides（似），似三脉
 
 EN — epithet *trinervoides*: Latin tri- (three) + nervus (vein) + -oides (like)
+
+ES — epithet *trinervoides*: Del latín tri- (tres) + nervus (nervio) + -oides (semejante)
 
 <!-- src:S0018 -->
 

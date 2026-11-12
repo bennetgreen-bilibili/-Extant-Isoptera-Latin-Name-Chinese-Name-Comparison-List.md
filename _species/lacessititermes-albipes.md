@@ -38,9 +38,13 @@ ES — **白足怒白蚁** (*Lacessititermes albipes*) es una especie del géner
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *albipes*：拉丁文/希腊文 albi（白）+ pes（足），指白足
 
 EN — epithet *albipes*: From albi (白) + pes (足)
+
+ES — epithet *albipes*: De albi (blanco) + pes (pie)
 
 <!-- src:S0018 -->
 

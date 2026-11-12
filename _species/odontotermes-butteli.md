@@ -38,9 +38,13 @@ ES — **巴特土白蚁** (*Odontotermes butteli*) es una especie del género *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *butteli*：以人名 Buttel（-Reepen）命名
 
 EN — epithet *butteli*: Named after Buttel(-Reepen)
+
+ES — epithet *butteli*: En honor de Buttel(-Reepen)
 
 <!-- src:S0018 -->
 

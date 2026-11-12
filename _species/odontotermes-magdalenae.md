@@ -38,9 +38,13 @@ ES — **马格达莱纳土白蚁** (*Odontotermes magdalenae*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *magdalenae*：以河流/地名 Magdalena（马格达莱纳，如哥伦比亚马格达莱纳河）命名
 
 EN — epithet *magdalenae*: Named after the Magdalena River / locality
+
+ES — epithet *magdalenae*: Por el río Magdalena o la localidad homónima
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **粗壮桑兹白蚁** (*Sandsitermes robustus*) es la única especie viv
 
 EN — *Sandsitermes*: Named after the termite taxonomist W. A. Sands; -termes from Latin termes.
 
+ES — *Sandsitermes*: En honor del taxónomo de termitas W. A. Sands; -termes, del latín termes.
+
 种加词 *robustus*：拉丁文 robustus（粗壮）
 
 EN — epithet *robustus*: Latin robustus (robust)
+
+ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 

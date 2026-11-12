@@ -37,9 +37,13 @@ ES — **小径无刺白蚁** (*Anacanthotermes viarum*) es una especie del gén
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *viarum*：拉丁文 via（路）的复数属格
 
 EN — epithet *viarum*: Latin viarum (of roads)
+
+ES — epithet *viarum*: Del latín viarum (de los caminos)
 
 <!-- src:S0018 -->
 

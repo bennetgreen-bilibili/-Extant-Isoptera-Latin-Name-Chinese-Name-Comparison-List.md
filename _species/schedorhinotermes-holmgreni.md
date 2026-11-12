@@ -35,9 +35,13 @@ ES — **霍姆格伦长鼻白蚁** (*Schedorhinotermes holmgreni*) es una espec
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
 
 EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+ES — epithet *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 <!-- src:S0018 -->
 

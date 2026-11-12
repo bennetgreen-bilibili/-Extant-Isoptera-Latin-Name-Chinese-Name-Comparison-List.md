@@ -38,9 +38,13 @@ ES — **景洪须白蚁** (*Hospitalitermes jinghongensis*) es una especie del 
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *jinghongensis*：以地名 景洪（云南） 命名
 
 EN — epithet *jinghongensis*: Named after the locality Jinghong
+
+ES — epithet *jinghongensis*: Por la localidad de Jinghong
 
 <!-- src:S0018 -->
 

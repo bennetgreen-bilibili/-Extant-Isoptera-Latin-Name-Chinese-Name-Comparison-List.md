@@ -35,9 +35,13 @@ ES — **陌宽散白蚁** (*Reticulitermes mirus*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *mirus*：拉丁文 mirus（奇异的）
 
 EN — epithet *mirus*: Latin mirus (wonderful)
+
+ES — epithet *mirus*: Del latín mirus (admirable)
 
 <!-- src:S0018 -->
 

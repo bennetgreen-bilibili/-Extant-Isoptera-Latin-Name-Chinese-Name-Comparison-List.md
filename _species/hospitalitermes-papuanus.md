@@ -38,9 +38,13 @@ ES — **巴布亚须白蚁** (*Hospitalitermes papuanus*) es una especie del g�
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *papuanus*：地名：巴布亚（新几内亚）
 
 EN — epithet *papuanus*: After Papua (New Guinea)
+
+ES — epithet *papuanus*: Por Papúa (Nueva Guinea)
 
 <!-- src:S0018 -->
 

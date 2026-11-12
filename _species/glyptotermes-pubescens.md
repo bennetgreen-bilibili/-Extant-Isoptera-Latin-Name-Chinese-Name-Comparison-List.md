@@ -35,9 +35,13 @@ ES — **柔毛树白蚁** (*Glyptotermes pubescens*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *pubescens*：拉丁文 pubescens（被短毛的）
 
 EN — epithet *pubescens*: Latin pubescens (pubescent)
+
+ES — epithet *pubescens*: Del latín pubescens (pubescente)
 
 <!-- src:S0018 -->
 

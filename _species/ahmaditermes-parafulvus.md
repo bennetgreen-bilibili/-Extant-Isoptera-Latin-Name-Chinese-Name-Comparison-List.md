@@ -38,9 +38,13 @@ ES — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) es una especie del gé
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *parafulvus*：拉丁文/希腊文词根「para」（旁）
 
 EN — epithet *parafulvus*: From the descriptive term 'para' (beside)
+
+ES — epithet *parafulvus*: Del término descriptivo «para» (al lado)
 
 <!-- src:S0018 -->
 

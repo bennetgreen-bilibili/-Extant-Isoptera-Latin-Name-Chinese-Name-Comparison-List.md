@@ -35,9 +35,13 @@ ES — **塞内加尔沙白蚁** (*Psammotermes senegalensis*) es una especie de
 
 EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
 
+ES — *Psammotermes*: Del griego psammos (arena) + latín termes.
+
 种加词 *senegalensis*：以地名 塞内加尔 命名
 
 EN — epithet *senegalensis*: Named after the locality Senegal
+
+ES — epithet *senegalensis*: Por la localidad de Senegal
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **钩颚锯白蚁** (*Microcerotermes uncatus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *uncatus*：拉丁文/希腊文 unc（钩）+ atus（具），指钩具
 
 EN — epithet *uncatus*: From unc (钩) + atus (具)
+
+ES — epithet *uncatus*: De unc (gancho) + atus (que posee)
 
 <!-- src:S0018 -->
 

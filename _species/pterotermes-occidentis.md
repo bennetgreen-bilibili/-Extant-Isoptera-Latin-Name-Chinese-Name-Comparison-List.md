@@ -35,9 +35,13 @@ ES — **西部翅白蚁** (*Pterotermes occidentis*) es la única especie vivie
 
 EN — *Pterotermes*: From Greek pteron (wing) + Latin termes.
 
+ES — *Pterotermes*: Del griego pteron (ala) + latín termes.
+
 种加词 *occidentis*：拉丁文/希腊文词根「occident」（西方）
 
 EN — epithet *occidentis*: From the descriptive term 'occident' (western)
+
+ES — epithet *occidentis*: Del término descriptivo «occident» (occidental)
 
 <!-- src:S0018 -->
 

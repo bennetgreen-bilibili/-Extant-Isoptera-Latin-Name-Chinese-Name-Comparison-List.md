@@ -35,9 +35,13 @@ ES — **帕劳树白蚁** (*Glyptotermes palauensis*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *palauensis*：以地名 帕劳 命名
 
 EN — epithet *palauensis*: Named after the locality Palau
+
+ES — epithet *palauensis*: Por la localidad de Palaos
 
 <!-- src:S0018 -->
 

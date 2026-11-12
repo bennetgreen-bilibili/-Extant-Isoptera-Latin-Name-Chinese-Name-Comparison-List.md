@@ -35,9 +35,13 @@ ES — **褐缘散白蚁** (*Reticulitermes fulvimarginalis*) es una especie del
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *fulvimarginalis*：拉丁文/希腊文 fulvimargin（黄褐）+ alis（相关），指黄褐相关
 
 EN — epithet *fulvimarginalis*: From fulvimargin (黄褐) + alis (相关)
+
+ES — epithet *fulvimarginalis*: De fulvimargin (leonado) + alis (relativo a)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **小齿棒鼻白蚁** (*Parrhinotermes microdentiformis*) es una especie
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *microdentiformis*：拉丁文/希腊文 microdenti（小）+ formis（形），指小形
 
 EN — epithet *microdentiformis*: From microdenti (小) + formis (形)
+
+ES — epithet *microdentiformis*: De microdenti (pequeño) + formis (forma)
 
 <!-- src:S0018 -->
 

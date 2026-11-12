@@ -35,9 +35,13 @@ ES — **连平杆白蚁** (*Stylotermes lianpingensis*) es una especie del gén
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *lianpingensis*：以地名 连平（广东） 命名
 
 EN — epithet *lianpingensis*: Named after the locality Lianping
+
+ES — epithet *lianpingensis*: Por la localidad de Lianping
 
 <!-- src:S0018 -->
 

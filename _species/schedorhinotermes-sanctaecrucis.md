@@ -35,9 +35,13 @@ ES — **圣克鲁斯长鼻白蚁** (*Schedorhinotermes sanctaecrucis*) es una e
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *sanctaecrucis*：拉丁文 sancta（圣）+ crux（十字），圣十字
 
 EN — epithet *sanctaecrucis*: Latin sancta (holy) + crux (cross), holy cross
+
+ES — epithet *sanctaecrucis*: Del latín sancta (santa) + crux (cruz), santa cruz
 
 <!-- src:S0018 -->
 

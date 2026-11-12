@@ -38,9 +38,13 @@ ES — **大唇蛇白蚁** (*Ophiotermes grandilabius*) es una especie del géne
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
+ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
+
 种加词 *grandilabius*：拉丁文/希腊文词根「grand」（大）
 
 EN — epithet *grandilabius*: From the descriptive term 'grand' (great)
+
+ES — epithet *grandilabius*: Del término descriptivo «grand» (grande)
 
 <!-- src:S0018 -->
 

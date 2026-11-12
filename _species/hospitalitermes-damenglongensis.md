@@ -38,9 +38,13 @@ ES — **大勐龙须白蚁** (*Hospitalitermes damenglongensis*) es una especie
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *damenglongensis*：以地名 大勐龙（云南） 命名
 
 EN — epithet *damenglongensis*: Named after the locality Damenglong
+
+ES — epithet *damenglongensis*: Por la localidad de Damenglong
 
 <!-- src:S0018 -->
 

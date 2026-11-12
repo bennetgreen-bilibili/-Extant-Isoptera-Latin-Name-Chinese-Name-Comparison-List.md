@@ -38,9 +38,13 @@ ES — **博拉娜土白蚁** (*Odontotermes boranicus*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *boranicus*：以地名 博拉纳（埃塞俄比亚） 命名
 
 EN — epithet *boranicus*: Named after the locality Boran
+
+ES — epithet *boranicus*: Por la localidad de Boran
 
 <!-- src:S0018 -->
 

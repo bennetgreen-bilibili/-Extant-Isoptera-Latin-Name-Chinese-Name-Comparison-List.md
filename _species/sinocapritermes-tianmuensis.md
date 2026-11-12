@@ -38,9 +38,13 @@ ES — **天目华扭白蚁** (*Sinocapritermes tianmuensis*) es una especie del
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *tianmuensis*：以地名 天目山（浙江） 命名
 
 EN — epithet *tianmuensis*: Named after the locality Tianmu
+
+ES — epithet *tianmuensis*: Por la localidad de Tianmu (montaña Tianmu, Zhejiang)
 
 <!-- src:S0018 -->
 

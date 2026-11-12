@@ -40,9 +40,13 @@ ES — **长足长足白蚁** (*Longipeditermes longipes*) es una especie, y la 
 
 EN — *Longipeditermes*: From Latin longus (long) + pes (foot) + termes.
 
+ES — *Longipeditermes*: Del latín longus (largo) + pes (pie) + termes.
+
 种加词 *longipes*：拉丁文 longus（长）+ pes（足），长足
 
 EN — epithet *longipes*: Latin longus (long) + pes (foot), long-legged
+
+ES — epithet *longipes*: Del latín longus (largo) + pes (pie), de patas largas
 
 <!-- src:S0018 -->
 

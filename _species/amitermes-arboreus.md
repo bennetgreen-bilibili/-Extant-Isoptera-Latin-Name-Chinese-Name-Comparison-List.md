@@ -38,9 +38,13 @@ ES — **树栖弓白蚁** (*Amitermes arboreus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *arboreus*：拉丁文 arboreus（栖树的）
 
 EN — epithet *arboreus*: Latin arboreus (arboreal)
+
+ES — epithet *arboreus*: Del latín arboreus (arbóreo)
 
 <!-- src:S0018 -->
 

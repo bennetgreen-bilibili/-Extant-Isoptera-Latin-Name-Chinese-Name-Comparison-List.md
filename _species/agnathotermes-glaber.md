@@ -38,9 +38,13 @@ ES — **光秃无颚白蚁** (*Agnathotermes glaber*) es una especie, y la espe
 
 EN — *Agnathotermes*: From Greek a- (without) + gnathos (jaw) + Latin termes.
 
+ES — *Agnathotermes*: Del griego a- (sin) + gnathos (mandíbula) + latín termes.
+
 种加词 *glaber*：拉丁文 glaber（光滑无毛）
 
 EN — epithet *glaber*: Latin glaber (smooth, hairless)
+
+ES — epithet *glaber*: Del latín glaber (liso, sin pelos)
 
 <!-- src:S0018 -->
 

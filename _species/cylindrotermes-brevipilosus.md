@@ -38,9 +38,13 @@ ES — **短毛圆筒白蚁** (*Cylindrotermes brevipilosus*) es una especie del
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *brevipilosus*：拉丁文/希腊文 brevipil（短）+ osus（多、充满），指短多、充满
 
 EN — epithet *brevipilosus*: From brevipil (短) + osus (多、充满)
+
+ES — epithet *brevipilosus*: De brevipil (corto) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **粗鼻无颚白蚁** (*Agnathotermes crassinasus*) es una especie del g
 
 EN — *Agnathotermes*: From Greek a- (without) + gnathos (jaw) + Latin termes.
 
+ES — *Agnathotermes*: Del griego a- (sin) + gnathos (mandíbula) + latín termes.
+
 种加词 *crassinasus*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassinasus*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassinasus*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **格斯特乳白蚁** (*Coptotermes gestroi*) es una especie, y la espec
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *gestroi*：以人名 gestro 命名（R. Gestro（意大利昆虫学家））
 
 EN — epithet *gestroi*: Named after R. Gestro（意大利昆虫学家）
+
+ES — epithet *gestroi*: En honor de R. Gestro (entomólogo italiano)
 
 <!-- src:S0018 -->
 

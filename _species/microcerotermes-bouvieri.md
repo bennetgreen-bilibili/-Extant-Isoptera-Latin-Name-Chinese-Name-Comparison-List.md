@@ -38,9 +38,13 @@ ES — **布维尔锯白蚁** (*Microcerotermes bouvieri*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *bouvieri*：以人名 E.-L. Bouvier（法国昆虫学家）命名
 
 EN — epithet *bouvieri*: Named after the entomologist E.-L. Bouvier
+
+ES — epithet *bouvieri*: En honor del entomólogo E.-L. Bouvier
 
 <!-- src:S0018 -->
 

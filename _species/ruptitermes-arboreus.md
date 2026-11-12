@@ -38,9 +38,13 @@ ES — **树栖腹爆白蚁** (*Ruptitermes arboreus*) es una especie del géner
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *arboreus*：拉丁文 arboreus（栖树的）
 
 EN — epithet *arboreus*: Latin arboreus (arboreal)
+
+ES — epithet *arboreus*: Del latín arboreus (arbóreo)
 
 <!-- src:S0018 -->
 

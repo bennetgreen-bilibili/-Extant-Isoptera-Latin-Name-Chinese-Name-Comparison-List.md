@@ -38,9 +38,13 @@ ES — **察沃小白蚁** (*Microtermes tsavoensis*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *tsavoensis*：以地名 察沃（肯尼亚） 命名
 
 EN — epithet *tsavoensis*: Named after the locality Tsavo
+
+ES — epithet *tsavoensis*: Por la localidad de Tsavo
 
 <!-- src:S0018 -->
 

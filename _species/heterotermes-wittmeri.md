@@ -35,9 +35,13 @@ ES — **威特默异白蚁** (*Heterotermes wittmeri*) es una especie del géne
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *wittmeri*：以人名 Wittmer（W. Wittmer，瑞士昆虫学家） 命名
 
 EN — epithet *wittmeri*: Named after W. Wittmer (Swiss entomologist)
+
+ES — epithet *wittmeri*: En honor de W. Wittmer (entomólogo suizo)
 
 <!-- src:S0018 -->
 

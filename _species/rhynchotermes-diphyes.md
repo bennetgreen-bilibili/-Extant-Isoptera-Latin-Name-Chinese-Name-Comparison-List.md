@@ -40,9 +40,13 @@ ES — **黑白喙白蚁** (*Rhynchotermes diphyes*) es una especie del género 
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *diphyes*：希腊文 di-（二）+ phyē（生、形），二生
 
 EN — epithet *diphyes*: Greek di- (two) + phyē (nature), twofold
+
+ES — epithet *diphyes*: Del griego di- (dos) + phyē (naturaleza), doble
 
 <!-- src:S0018 -->
 

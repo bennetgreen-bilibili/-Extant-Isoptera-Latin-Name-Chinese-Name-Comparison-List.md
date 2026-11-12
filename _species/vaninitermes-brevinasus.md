@@ -38,9 +38,13 @@ ES — **短鼻瓦宁白蚁** (*Vaninitermes brevinasus*) es una especie del gé
 
 EN — *Vaninitermes*: Named after a person (Vanini); -termes from Latin termes.
 
+ES — *Vaninitermes*: En honor de una persona (Vanini); -termes, del latín termes.
+
 种加词 *brevinasus*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevinasus*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevinasus*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

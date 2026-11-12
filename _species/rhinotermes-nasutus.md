@@ -37,9 +37,13 @@ ES — **大鼻鼻白蚁** (*Rhinotermes nasutus*) es una especie, y la especie 
 
 EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
 
+ES — *Rhinotermes*: Del griego rhis (nariz) + latín termes, por el soldado nasuto.
+
 种加词 *nasutus*：拉丁文 nasutus（大鼻的、具鼻突的）
 
 EN — epithet *nasutus*: Latin nasutus (large-nosed)
+
+ES — epithet *nasutus*: Del latín nasutus (de nariz grande)
 
 <!-- src:S0018 -->
 

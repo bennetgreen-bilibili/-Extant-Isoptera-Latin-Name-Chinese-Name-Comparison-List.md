@@ -35,9 +35,13 @@ ES — **舍斯泰特新白蚁** (*Neotermes sjostedti*) es una especie del gén
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
 
 EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 <!-- src:S0018 -->
 

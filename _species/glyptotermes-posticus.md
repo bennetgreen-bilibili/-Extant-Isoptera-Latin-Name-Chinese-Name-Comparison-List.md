@@ -35,9 +35,13 @@ ES — **后部树白蚁** (*Glyptotermes posticus*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *posticus*：拉丁文 posticus（后方的）
 
 EN — epithet *posticus*: Latin posticus (posterior, hind)
+
+ES — epithet *posticus*: Del latín posticus (posterior, trasero)
 
 <!-- src:S0018 -->
 

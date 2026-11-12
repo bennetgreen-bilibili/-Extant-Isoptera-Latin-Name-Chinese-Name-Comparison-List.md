@@ -40,9 +40,13 @@ ES — **近明大白蚁** (*Macrotermes subhyalinus*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *subhyalinus*：拉丁文/希腊文 subhyal（下、近）+ inus（相关），指下、近相关
 
 EN — epithet *subhyalinus*: From subhyal (下、近) + inus (相关)
+
+ES — epithet *subhyalinus*: De subhyal (abajo, cerca) + inus (relativo a)
 
 <!-- src:S0018 -->
 

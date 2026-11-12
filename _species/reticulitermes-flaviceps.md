@@ -35,9 +35,13 @@ ES — **黄胸散白蚁** (*Reticulitermes flaviceps*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *flaviceps*：拉丁文/希腊文 flavi（黄）+ ceps（头），指黄头
 
 EN — epithet *flaviceps*: From flavi (黄) + ceps (头)
+
+ES — epithet *flaviceps*: De flavi (amarillo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

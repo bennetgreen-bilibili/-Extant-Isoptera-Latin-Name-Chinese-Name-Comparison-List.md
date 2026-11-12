@@ -40,9 +40,13 @@ ES — **体大大白蚁** (*Macrotermes amplus*) es una especie del género *Ma
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *amplus*：拉丁文 amplus（宽大）
 
 EN — epithet *amplus*: Latin amplus (ample, large)
+
+ES — epithet *amplus*: Del latín amplus (amplio, grande)
 
 <!-- src:S0018 -->
 

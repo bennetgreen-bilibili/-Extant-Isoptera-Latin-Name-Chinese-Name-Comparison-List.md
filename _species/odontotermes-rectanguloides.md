@@ -38,9 +38,13 @@ ES — **似直角土白蚁** (*Odontotermes rectanguloides*) es una especie del
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *rectanguloides*：拉丁文/希腊文 rectangul（直角）+ oides（似），指直角似
 
 EN — epithet *rectanguloides*: From rectangul (直角) + oides (似)
+
+ES — epithet *rectanguloides*: De rectangul (ángulo recto) + oides (semejante a)
 
 <!-- src:S0018 -->
 

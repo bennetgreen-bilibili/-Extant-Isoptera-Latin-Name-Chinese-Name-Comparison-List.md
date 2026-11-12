@@ -35,9 +35,13 @@ ES — **近暗散白蚁** (*Reticulitermes perilucifugus*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *perilucifugus*：希腊文 peri-（周围）+ 拉丁文 lucifugus（避光），周避光
 
 EN — epithet *perilucifugus*: Greek peri- (around) + Latin lucifugus (light-avoiding)
+
+ES — epithet *perilucifugus*: Del griego peri- (alrededor) + latín lucifugus (que evita la luz)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **榴莲岛瓢白蚁** (*Bulbitermes durianensis*) es una especie del gé
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *durianensis*：以榴莲（durian，马来语水果名）命名
 
 EN — epithet *durianensis*: Named after the durian fruit (Malay)
+
+ES — epithet *durianensis*: Por el fruto del durián (malayo)
 
 <!-- src:S0018 -->
 

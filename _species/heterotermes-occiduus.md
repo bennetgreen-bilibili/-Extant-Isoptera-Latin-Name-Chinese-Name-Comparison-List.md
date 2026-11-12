@@ -35,9 +35,13 @@ ES — **西部异白蚁** (*Heterotermes occiduus*) es una especie del género 
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *occiduus*：拉丁文 occiduus（西方的、落下的）
 
 EN — epithet *occiduus*: Latin occiduus (western, setting)
+
+ES — epithet *occiduus*: Del latín occiduus (occidental, del ocaso)
 
 <!-- src:S0018 -->
 

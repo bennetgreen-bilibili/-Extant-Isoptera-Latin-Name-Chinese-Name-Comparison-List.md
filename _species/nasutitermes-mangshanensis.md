@@ -38,9 +38,13 @@ ES — **莽山象白蚁** (*Nasutitermes mangshanensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mangshanensis*：以地名 莽山（湖南） 命名
 
 EN — epithet *mangshanensis*: Named after the locality Mangshan
+
+ES — epithet *mangshanensis*: Por la localidad de Mangshan
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **球头米勒白蚁** (*Muelleritermes globiceps*) es una especie del g�
 
 EN — *Muelleritermes*: Named after a person (Müller); -termes from Latin termes.
 
+ES — *Muelleritermes*: En honor de una persona (Müller); -termes, del latín termes.
+
 种加词 *globiceps*：拉丁文/希腊文 globi（球）+ ceps（头），指球头
 
 EN — epithet *globiceps*: From globi (球) + ceps (头)
+
+ES — epithet *globiceps*: De globi (globo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

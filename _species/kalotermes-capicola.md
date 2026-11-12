@@ -35,9 +35,13 @@ ES — **开普敦木白蚁** (*Kalotermes capicola*) es una especie del género
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *capicola*：拉丁语 caput（海角/开普）+ -cola（栖居者），栖居开普（好望角）者；据词根拆解
 
 EN — epithet *capicola*: From Latin caput (cape) + -cola (dweller), dweller of the Cape
+
+ES — epithet *capicola*: Del latín caput (cabo) + -cola (que habita), habitante del Cabo
 
 <!-- src:S0018 -->
 

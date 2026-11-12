@@ -40,9 +40,13 @@ ES — **三裂聚刺白蚁** (*Synacanthotermes trilobatus*) es una especie del
 
 EN — *Synacanthotermes*: From Greek syn- (together) + akantha (thorn) + Latin termes.
 
+ES — *Synacanthotermes*: Del griego syn- (junto) + akantha (espina) + latín termes.
+
 种加词 *trilobatus*：拉丁文 tri-（三）+ lobatus（有叶），三叶
 
 EN — epithet *trilobatus*: Latin tri- (three) + lobatus (lobed), three-lobed
+
+ES — epithet *trilobatus*: Del latín tri- (tres) + lobatus (lobulado), trilobulado
 
 <!-- src:S0018 -->
 

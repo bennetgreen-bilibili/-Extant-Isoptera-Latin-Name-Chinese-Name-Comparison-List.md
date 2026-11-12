@@ -38,9 +38,13 @@ ES — **隐秘白蚁** (*Termes incognitus*) es una especie del género *Termes
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *incognitus*：拉丁文/希腊文 in-（无、不）+ cognitus（亲缘），指无亲缘
 
 EN — epithet *incognitus*: From in- (without) + cognitus (亲缘)
+
+ES — epithet *incognitus*: De in- (sin) + cognitus (parentesco)
 
 <!-- src:S0018 -->
 

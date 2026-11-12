@@ -40,9 +40,13 @@ ES — **团结无利器白蚁** (*Astalotermes concilians*) es una especie, y l
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *concilians*：拉丁文 concilians（调解的、联结的）
 
 EN — epithet *concilians*: Latin concilians (joining, reconciling)
+
+ES — epithet *concilians*: Del latín concilians (que une, que concilia)
 
 <!-- src:S0018 -->
 

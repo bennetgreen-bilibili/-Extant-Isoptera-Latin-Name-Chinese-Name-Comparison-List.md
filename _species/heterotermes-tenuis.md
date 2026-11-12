@@ -37,9 +37,13 @@ ES — **细瘦异白蚁** (*Heterotermes tenuis*) es una especie del género *H
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *tenuis*：拉丁文 tenuis（细）
 
 EN — epithet *tenuis*: Latin tenuis (slender)
+
+ES — epithet *tenuis*: Latín tenuis (esbelto)
 
 <!-- src:S0018 -->
 

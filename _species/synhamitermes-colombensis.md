@@ -38,9 +38,13 @@ ES — **科伦坡同钩白蚁** (*Synhamitermes colombensis*) es una especie de
 
 EN — *Synhamitermes*: From Greek syn- (together) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Synhamitermes*: Del griego syn- (junto) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *colombensis*：以地名 哥伦比亚 命名
 
 EN — epithet *colombensis*: Named after the locality Colomb
+
+ES — epithet *colombensis*: Por la localidad de Colomb
 
 <!-- src:S0018 -->
 

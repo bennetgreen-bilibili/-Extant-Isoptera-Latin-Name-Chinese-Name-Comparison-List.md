@@ -35,9 +35,13 @@ ES — **芒果新白蚁** (*Neotermes mangiferae*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *mangiferae*：以杧果属（Mangifera）命名
 
 EN — epithet *mangiferae*: After the plant genus Mangifera
+
+ES — epithet *mangiferae*: Por el género vegetal Mangifera
 
 <!-- src:S0018 -->
 

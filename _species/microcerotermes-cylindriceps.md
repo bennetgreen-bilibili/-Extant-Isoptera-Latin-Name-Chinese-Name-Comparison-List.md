@@ -38,9 +38,13 @@ ES — **筒头锯白蚁** (*Microcerotermes cylindriceps*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *cylindriceps*：拉丁文/希腊文 cylindri（圆柱）+ ceps（头），指圆柱头
 
 EN — epithet *cylindriceps*: From cylindri (圆柱) + ceps (头)
+
+ES — epithet *cylindriceps*: De cylindri (cilindro) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

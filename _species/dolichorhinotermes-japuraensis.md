@@ -35,9 +35,13 @@ ES — **雅普拉狭鼻白蚁** (*Dolichorhinotermes japuraensis*) es una espec
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *japuraensis*：以地名 雅普拉（巴西） 命名
 
 EN — epithet *japuraensis*: Named after the locality Japura
+
+ES — epithet *japuraensis*: Por la localidad de Japura
 
 <!-- src:S0018 -->
 

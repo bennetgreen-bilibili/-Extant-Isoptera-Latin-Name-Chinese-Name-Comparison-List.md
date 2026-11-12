@@ -38,9 +38,13 @@ ES — **乔马小白蚁** (*Microtermes chomaensis*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *chomaensis*：以地名 乔马（赞比亚） 命名
 
 EN — epithet *chomaensis*: Named after the locality Choma
+
+ES — epithet *chomaensis*: Por la localidad de Choma
 
 <!-- src:S0018 -->
 

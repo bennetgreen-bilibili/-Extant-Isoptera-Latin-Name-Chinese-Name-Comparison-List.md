@@ -38,9 +38,13 @@ ES — **马雷拉土白蚁** (*Odontotermes malelaensis*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *malelaensis*：以刚果马莱拉（Malela）命名
 
 EN — epithet *malelaensis*: Named after Malela, DR Congo
+
+ES — epithet *malelaensis*: Por Malela, RD del Congo
 
 <!-- src:S0018 -->
 

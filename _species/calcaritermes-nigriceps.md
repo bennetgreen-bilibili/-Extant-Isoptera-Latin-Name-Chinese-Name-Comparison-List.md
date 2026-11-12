@@ -37,9 +37,13 @@ ES — **黑头距白蚁** (*Calcaritermes nigriceps*) es una especie del géner
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *nigriceps*：拉丁文 niger（黑）+ -ceps（头），黑头
 
 EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
+
+ES — epithet *nigriceps*: Del latín niger (negro) + -ceps (cabeza), de cabeza negra
 
 <!-- src:S0018 -->
 

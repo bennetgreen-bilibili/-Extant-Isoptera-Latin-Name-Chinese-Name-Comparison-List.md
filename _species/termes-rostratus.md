@@ -38,9 +38,13 @@ ES — **尖鼻白蚁** (*Termes rostratus*) es una especie del género *Termes*
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *rostratus*：拉丁文/希腊文 rostr（喙）+ atus（具），指喙具
 
 EN — epithet *rostratus*: From rostr (喙) + atus (具)
+
+ES — epithet *rostratus*: De rostr (pico) + atus (que posee)
 
 <!-- src:S0018 -->
 

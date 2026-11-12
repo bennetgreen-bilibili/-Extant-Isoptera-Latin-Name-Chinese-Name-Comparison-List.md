@@ -38,9 +38,13 @@ ES — **细瘦蛇白蚁** (*Ophiotermes gracilis*) es una especie del género *
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
+ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
+
 种加词 *gracilis*：拉丁文 gracilis（细长、纤细）
 
 EN — epithet *gracilis*: Latin gracilis (slender)
+
+ES — epithet *gracilis*: Del latín gracilis (esbelto)
 
 <!-- src:S0018 -->
 

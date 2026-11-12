@@ -38,9 +38,13 @@ ES — **麦克阿瑟魔白蚁** (*Anhangatermes macarthuri*) es una especie, y 
 
 EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
 
+ES — *Anhangatermes*: Del tupí Anhangá (un espíritu mítico del bosque) o del topónimo + -termes.
+
 种加词 *macarthuri*：以人名 MacArthur（麦克阿瑟）命名（疑为麦克阿瑟基金会相关）
 
 EN — epithet *macarthuri*: Named after MacArthur
+
+ES — epithet *macarthuri*: En honor de MacArthur
 
 <!-- src:S0018 -->
 

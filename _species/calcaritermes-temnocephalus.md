@@ -37,9 +37,13 @@ ES — **切头距白蚁** (*Calcaritermes temnocephalus*) es una especie del g�
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *temnocephalus*：希腊文 temnō（切）+ kephalē（头），切头
 
 EN — epithet *temnocephalus*: Greek temnō (cut) + kephalē (head), cut-headed
+
+ES — epithet *temnocephalus*: Griego temnō (cortar) + kephalē (cabeza), de cabeza cortada
 
 <!-- src:S0018 -->
 

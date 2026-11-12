@@ -38,9 +38,13 @@ ES — **婆罗似锥白蚁** (*Subulioiditermes borneensis*) es una especie del
 
 EN — *Subulioiditermes*: From Latin subula (awl) + Greek -oides (like) + termes.
 
+ES — *Subulioiditermes*: Del latín subula (lezna) + griego -oides (semejante) + termes.
+
 种加词 *borneensis*：地名：婆罗洲
 
 EN — epithet *borneensis*: After Borneo
+
+ES — epithet *borneensis*: Por Borneo
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **金黄新白蚁** (*Neotermes fulvescens*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *fulvescens*：拉丁文/希腊文 fulv（黄褐）+ escens（略呈），指黄褐略呈
 
 EN — epithet *fulvescens*: From fulv (黄褐) + escens (略呈)
+
+ES — epithet *fulvescens*: De fulv (leonado) + escens (que tiende a)
 
 <!-- src:S0018 -->
 

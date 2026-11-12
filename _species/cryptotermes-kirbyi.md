@@ -35,9 +35,13 @@ ES — **柯比堆砂白蚁** (*Cryptotermes kirbyi*) es una especie del género
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *kirbyi*：以人名 Kirby 命名（英国昆虫学家 W. F. Kirby）
 
 EN — epithet *kirbyi*: Named after the entomologist W. F. Kirby
+
+ES — epithet *kirbyi*: En honor del entomólogo W. F. Kirby
 
 <!-- src:S0018 -->
 

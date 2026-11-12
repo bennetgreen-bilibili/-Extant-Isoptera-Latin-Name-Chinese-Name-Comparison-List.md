@@ -38,9 +38,13 @@ ES — **赫特森突扭白蚁** (*Dicuspiditermes hutsoni*) es una especie del 
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *hutsoni*：以人名 Hutson 命名
 
 EN — epithet *hutsoni*: Named after Hutson
+
+ES — epithet *hutsoni*: En honor de Hutson
 
 <!-- src:S0018 -->
 

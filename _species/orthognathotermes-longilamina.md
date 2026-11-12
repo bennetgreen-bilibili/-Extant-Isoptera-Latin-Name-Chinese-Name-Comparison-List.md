@@ -38,9 +38,13 @@ ES — **长刀直颚白蚁** (*Orthognathotermes longilamina*) es una especie d
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *longilamina*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longilamina*: From the descriptive term 'long' (long)
+
+ES — epithet *longilamina*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

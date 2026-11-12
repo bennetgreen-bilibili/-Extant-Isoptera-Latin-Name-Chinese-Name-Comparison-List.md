@@ -38,9 +38,13 @@ ES — **麻城象白蚁** (*Nasutitermes machengensis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *machengensis*：以地名 麻城（湖北） 命名
 
 EN — epithet *machengensis*: Named after the locality Macheng
+
+ES — epithet *machengensis*: Por la localidad de Macheng
 
 <!-- src:S0018 -->
 

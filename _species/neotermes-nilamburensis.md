@@ -35,9 +35,13 @@ ES — **尼伦布尔新白蚁** (*Neotermes nilamburensis*) es una especie del 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *nilamburensis*：以地名 尼兰布尔（印度） 命名
 
 EN — epithet *nilamburensis*: Named after the locality Nilambur
+
+ES — epithet *nilamburensis*: Por la localidad de Nilambur
 
 <!-- src:S0018 -->
 

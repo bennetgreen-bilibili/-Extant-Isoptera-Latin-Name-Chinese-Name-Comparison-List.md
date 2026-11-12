@@ -40,9 +40,13 @@ ES — **阿劳若前角白蚁** (*Procornitermes araujoi*) es una especie del g
 
 EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
 
+ES — *Procornitermes*: Del griego pro- (antes) + latín cornu (cuerno) + termes.
+
 种加词 *araujoi*：以人名 araujo 命名（巴西白蚁学家 R. L. Araujo）
 
 EN — epithet *araujoi*: Named after 巴西白蚁学家 R. L. Araujo
+
+ES — epithet *araujoi*: En honor del termitólogo brasileño R. L. Araujo
 
 <!-- src:S0018 -->
 

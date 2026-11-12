@@ -38,9 +38,13 @@ ES — **长鼻怒白蚁** (*Lacessititermes longinasus*) es una especie del gé
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *longinasus*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longinasus*: From the descriptive term 'long' (long)
+
+ES — epithet *longinasus*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

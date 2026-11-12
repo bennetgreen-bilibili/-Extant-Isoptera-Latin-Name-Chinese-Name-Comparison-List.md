@@ -38,9 +38,13 @@ ES — **威吓等颚白蚁** (*Isognathotermes minitabundus*) es una especie, y
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *minitabundus*：拉丁文 minitabundus（威胁的）
 
 EN — epithet *minitabundus*: Latin minitabundus (threatening)
+
+ES — epithet *minitabundus*: Del latín minitabundus (amenazador)
 
 <!-- src:S0018 -->
 

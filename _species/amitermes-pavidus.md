@@ -38,9 +38,13 @@ ES — **胆小弓白蚁** (*Amitermes pavidus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pavidus*：拉丁文 pavidus（胆怯的）
 
 EN — epithet *pavidus*: Latin pavidus (timid)
+
+ES — epithet *pavidus*: Del latín pavidus (tímido)
 
 <!-- src:S0018 -->
 

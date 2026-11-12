@@ -35,9 +35,13 @@ ES — **大新白蚁** (*Neotermes grandis*) es una especie del género *Neoter
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *grandis*：拉丁文 grandis（巨大）
 
 EN — epithet *grandis*: Latin grandis (great)
+
+ES — epithet *grandis*: Del latín grandis (grande)
 
 <!-- src:S0018 -->
 

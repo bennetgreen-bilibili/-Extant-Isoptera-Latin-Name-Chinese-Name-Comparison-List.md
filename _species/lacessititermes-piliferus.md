@@ -38,9 +38,13 @@ ES — **具毛怒白蚁** (*Lacessititermes piliferus*) es una especie del gén
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *piliferus*：拉丁文/希腊文词根「pil」（毛）
 
 EN — epithet *piliferus*: From the descriptive term 'pil' (hair)
+
+ES — epithet *piliferus*: Del término descriptivo «pil» (pelo)
 
 <!-- src:S0018 -->
 

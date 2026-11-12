@@ -35,9 +35,13 @@ ES — **大背皱白蚁** (*Rugitermes magninotus*) es una especie del género 
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *magninotus*：拉丁文/希腊文 magni（大）+ notus（背），指大背
 
 EN — epithet *magninotus*: From magni (大) + notus (背)
+
+ES — epithet *magninotus*: De magni (grande) + notus (dorso)
 
 <!-- src:S0018 -->
 

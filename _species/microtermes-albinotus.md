@@ -38,9 +38,13 @@ ES — **白背小白蚁** (*Microtermes albinotus*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *albinotus*：拉丁文/希腊文 albi（白）+ notus（背），指白背
 
 EN — epithet *albinotus*: From albi (白) + notus (背)
+
+ES — epithet *albinotus*: De albi (blanco) + notus (dorso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **微小平白蚁** (*Homallotermes exiguus*) es una especie del género 
 
 EN — *Homallotermes*: From Greek homalos (even, level) + Latin termes.
 
+ES — *Homallotermes*: Del griego homalos (uniforme, llano) + latín termes.
+
 种加词 *exiguus*：拉丁文/希腊文词根「exigu」（微小）
 
 EN — epithet *exiguus*: From the descriptive term 'exigu' (tiny)
+
+ES — epithet *exiguus*: Del término descriptivo «exigu» (diminuto)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **圆胸圆球白蚁** (*Sphaerotermes sphaerothorax*) es la única espec
 
 EN — *Sphaerotermes*: From Greek sphaira (sphere) + Latin termes.
 
+ES — *Sphaerotermes*: Del griego sphaira (esfera) + latín termes.
+
 种加词 *sphaerothorax*：拉丁文/希腊文 sphaero（球）+ thorax（胸），指球胸
 
 EN — epithet *sphaerothorax*: From sphaero (球) + thorax (胸)
+
+ES — epithet *sphaerothorax*: De sphaero (esfera) + thorax (tórax)
 
 <!-- src:S0018 -->
 

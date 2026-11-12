@@ -35,9 +35,13 @@ ES — **似暗散白蚁** (*Reticulitermes paralucifugus*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *paralucifugus*：拉丁文/希腊文词根「para」（旁）
 
 EN — epithet *paralucifugus*: From the descriptive term 'para' (beside)
+
+ES — epithet *paralucifugus*: Del término descriptivo «para» (al lado)
 
 <!-- src:S0018 -->
 

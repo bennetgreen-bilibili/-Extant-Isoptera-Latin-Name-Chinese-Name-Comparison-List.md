@@ -38,9 +38,13 @@ ES — **印度三脉白蚁** (*Trinervitermes indicus*) es una especie del gén
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *indicus*：地名：印度
 
 EN — epithet *indicus*: After India
+
+ES — epithet *indicus*: Por la India
 
 <!-- src:S0018 -->
 

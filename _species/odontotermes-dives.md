@@ -40,9 +40,13 @@ ES — **多产土白蚁** (*Odontotermes dives*) es una especie del género *Od
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *dives*：拉丁文 dives（富有的）
 
 EN — epithet *dives*: Latin dives (rich)
+
+ES — epithet *dives*: Del latín dives (rico)
 
 <!-- src:S0018 -->
 

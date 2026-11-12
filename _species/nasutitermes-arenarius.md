@@ -38,9 +38,13 @@ ES — **沙地象白蚁** (*Nasutitermes arenarius*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *arenarius*：拉丁文/希腊文词根「aren」（沙）
 
 EN — epithet *arenarius*: From the descriptive term 'aren' (sand)
+
+ES — epithet *arenarius*: Del término descriptivo «aren» (arena)
 
 <!-- src:S0018 -->
 

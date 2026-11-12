@@ -38,9 +38,13 @@ ES — **饼头鸟嘴白蚁** (*Mycterotermes meringocephalus*) es la única esp
 
 EN — *Mycterotermes*: From Greek myktēr (nose, snout) + Latin termes.
 
+ES — *Mycterotermes*: Del griego myktēr (nariz, hocico) + latín termes.
+
 种加词 *meringocephalus*：希腊文 mēringos（?）+ kephalē（头）
 
 EN — epithet *meringocephalus*: Greek mēringos + kephalē (head)
+
+ES — epithet *meringocephalus*: Del griego mēringos + kephalē (cabeza)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **广东乳白蚁** (*Coptotermes guangdongensis*) es una especie del gé
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *guangdongensis*：以地名 广东 命名
 
 EN — epithet *guangdongensis*: Named after the locality Guangdong
+
+ES — epithet *guangdongensis*: Por la localidad de Guangdong
 
 <!-- src:S0018 -->
 

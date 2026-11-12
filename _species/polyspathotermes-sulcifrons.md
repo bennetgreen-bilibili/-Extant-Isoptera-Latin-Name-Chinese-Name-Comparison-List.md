@@ -38,9 +38,13 @@ ES — **沟额多铲白蚁** (*Polyspathotermes sulcifrons*) es una especie, y 
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *sulcifrons*：拉丁文 sulcus（沟）+ frons（额），沟额
 
 EN — epithet *sulcifrons*: Latin sulcus (groove) + frons (front), grooved-fronted
+
+ES — epithet *sulcifrons*: Latín sulcus (surco) + frons (frente), de frente surcada
 
 <!-- src:S0018 -->
 

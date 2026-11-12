@@ -40,9 +40,13 @@ ES — **角头壶头白蚁** (*Cyrilliotermes angulariceps*) es una especie, y 
 
 EN — *Cyrilliotermes*: Named after a person (Cyrillio); -termes from Latin termes.
 
+ES — *Cyrilliotermes*: En honor de una persona (Cyrillio); -termes, del latín termes.
+
 种加词 *angulariceps*：拉丁文/希腊文 angulari（角）+ ceps（头），指角头
 
 EN — epithet *angulariceps*: From angulari (角) + ceps (头)
+
+ES — epithet *angulariceps*: De angulari (ángulo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

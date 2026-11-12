@@ -35,9 +35,13 @@ ES — **瑞丽棒鼻白蚁** (*Parrhinotermes ruiliensis*) es una especie del g
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *ruiliensis*：以地名 瑞丽（云南） 命名
 
 EN — epithet *ruiliensis*: Named after the locality Ruil
+
+ES — epithet *ruiliensis*: Por la localidad de Ruil
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **僧伽罗稀白蚁** (*Speculitermes sinhalensis*) es una especie del g
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *sinhalensis*：以地名 Sinhala（僧伽罗，斯里兰卡）命名
 
 EN — epithet *sinhalensis*: Named after Sinhala (Sri Lanka)
+
+ES — epithet *sinhalensis*: Por Sinhala (Sri Lanka)
 
 <!-- src:S0018 -->
 

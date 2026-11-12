@@ -38,9 +38,13 @@ ES — **小型近扭白蚁** (*Pericapritermes parvus*) es una especie del gén
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *parvus*：拉丁文 parvus（小）
 
 EN — epithet *parvus*: Latin parvus (small)
+
+ES — epithet *parvus*: Del latín parvus (pequeño)
 
 <!-- src:S0018 -->
 

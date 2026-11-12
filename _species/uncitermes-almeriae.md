@@ -38,9 +38,13 @@ ES — **阿尔梅里弯钩白蚁** (*Uncitermes almeriae*) es una especie del g
 
 EN — *Uncitermes*: From Latin uncus (hook) + termes.
 
+ES — *Uncitermes*: Del latín uncus (gancho) + termes.
+
 种加词 *almeriae*：以人名 Almeria 命名
 
 EN — epithet *almeriae*: Named after Almeria
+
+ES — epithet *almeriae*: Por Almería
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **达梅尔曼锯白蚁** (*Microcerotermes dammermani*) es una especie d
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *dammermani*：以人名 dammerman 命名（K. W. Dammerman（荷兰昆虫学家））
 
 EN — epithet *dammermani*: Named after K. W. Dammerman（荷兰昆虫学家）
+
+ES — epithet *dammermani*: En honor de K. W. Dammerman (entomólogo neerlandés)
 
 <!-- src:S0018 -->
 

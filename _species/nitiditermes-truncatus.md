@@ -40,9 +40,13 @@ ES — **伤残净白蚁** (*Nitiditermes truncatus*) es una especie del género
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *truncatus*：拉丁文 truncatus（截断的）
 
 EN — epithet *truncatus*: Latin truncatus (truncated)
+
+ES — epithet *truncatus*: Del latín truncatus (truncado)
 
 <!-- src:S0018 -->
 

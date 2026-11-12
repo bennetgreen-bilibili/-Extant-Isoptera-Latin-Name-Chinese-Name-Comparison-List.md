@@ -35,9 +35,13 @@ ES — **里弗赖纳堆砂白蚁** (*Cryptotermes riverinae*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *riverinae*：以地名 Riverina（里弗赖纳，澳大利亚新南威尔士州）命名
 
 EN — epithet *riverinae*: Named after the locality Riverina (New South Wales, Australia)
+
+ES — epithet *riverinae*: Por la localidad de Riverina (Nueva Gales del Sur, Australia)
 
 <!-- src:S0018 -->
 

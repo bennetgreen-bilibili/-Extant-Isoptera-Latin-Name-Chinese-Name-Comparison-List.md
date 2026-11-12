@@ -38,9 +38,13 @@ ES — **缢颏大白蚁** (*Macrotermes constrictus*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *constrictus*：拉丁文/希腊文词根「constrict」（缢缩）
 
 EN — epithet *constrictus*: From the descriptive term 'constrict' (constricted)
+
+ES — epithet *constrictus*: Del término descriptivo «constrict» (constreñido)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **玻利维亚白蚁** (*Termes bolivianus*) es una especie del género *
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *bolivianus*：地名：玻利维亚
 
 EN — epithet *bolivianus*: After Bolivia
+
+ES — epithet *bolivianus*: Por Bolivia
 
 <!-- src:S0018 -->
 

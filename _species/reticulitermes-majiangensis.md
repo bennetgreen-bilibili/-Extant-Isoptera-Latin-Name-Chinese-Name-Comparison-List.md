@@ -35,9 +35,13 @@ ES — **麻江散白蚁** (*Reticulitermes majiangensis*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *majiangensis*：以地名 麻江（贵州） 命名
 
 EN — epithet *majiangensis*: Named after the locality Majiang
+
+ES — epithet *majiangensis*: Por la localidad de Majiang
 
 <!-- src:S0018 -->
 

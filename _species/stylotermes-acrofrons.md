@@ -35,9 +35,13 @@ ES — **丘额杆白蚁** (*Stylotermes acrofrons*) es una especie del género 
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *acrofrons*：拉丁文/希腊文 acro（尖、顶端）+ frons（额），指尖、顶端额
 
 EN — epithet *acrofrons*: From acro (尖、顶端) + frons (额)
+
+ES — epithet *acrofrons*: De acro (puntiagudo, extremo) + frons (frente)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **锥颚散白蚁** (*Reticulitermes conus*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *conus*：拉丁文 conus（圆锥）
 
 EN — epithet *conus*: Latin conus (cone)
+
+ES — epithet *conus*: Del latín conus (cono)
 
 <!-- src:S0018 -->
 

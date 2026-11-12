@@ -39,9 +39,13 @@ ES — **梨头亚种** (*Nasutitermes matangensis pyricephalus*) es una subespe
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *pyricephalus*：拉丁文/希腊文词根「pyr」（火）
 
 EN — epithet *pyricephalus*: From the descriptive term 'pyr' (fire)
+
+ES — epithet *pyricephalus*: Del término descriptivo «pyr» (fuego)
 
 <!-- src:S0018 -->
 

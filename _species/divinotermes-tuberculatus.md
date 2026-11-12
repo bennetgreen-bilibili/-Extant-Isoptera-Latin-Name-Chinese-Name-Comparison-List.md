@@ -38,9 +38,13 @@ ES — **小瘤迪维努白蚁** (*Divinotermes tuberculatus*) es una especie de
 
 EN — *Divinotermes*: Etymology uncertain (perhaps Latin divinus 'divine' or a personal name); -termes from Latin termes.
 
+ES — *Divinotermes*: Etimología incierta (quizá el latín divinus «divino» o un nombre personal); -termes, del latín termes.
+
 种加词 *tuberculatus*：拉丁文 tuberculatus（具小瘤）
 
 EN — epithet *tuberculatus*: Latin tuberculatus (tuberculate)
+
+ES — epithet *tuberculatus*: Del latín tuberculatus (tuberculado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **云台山亮白蚁** (*Euhamitermes yuntaishanensis*) es una especie de
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *yuntaishanensis*：以地名 Yuntai Shan（云台山，中国）命名
 
 EN — epithet *yuntaishanensis*: Named after Yuntai Shan (China)
+
+ES — epithet *yuntaishanensis*: Por Yuntai Shan (China)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **宽唇散白蚁** (*Reticulitermes latilabris*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *latilabris*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latilabris*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latilabris*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

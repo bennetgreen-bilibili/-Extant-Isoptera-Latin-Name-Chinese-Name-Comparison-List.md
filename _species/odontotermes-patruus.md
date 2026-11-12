@@ -38,9 +38,13 @@ ES — **伯伯土白蚁** (*Odontotermes patruus*) es una especie del género *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *patruus*：拉丁文 patruus（叔父的、父系的）
 
 EN — epithet *patruus*: Latin patruus (of an uncle)
+
+ES — epithet *patruus*: Del latín patruus (de un tío paterno)
 
 <!-- src:S0018 -->
 

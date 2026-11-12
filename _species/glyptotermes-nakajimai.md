@@ -37,9 +37,13 @@ ES — **中岛树白蚁** (*Glyptotermes nakajimai*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *nakajimai*：以人名 Nakajima（中岛，日本姓氏）命名
 
 EN — epithet *nakajimai*: Named after Nakajima
+
+ES — epithet *nakajimai*: En honor de Nakajima
 
 <!-- src:S0018 -->
 

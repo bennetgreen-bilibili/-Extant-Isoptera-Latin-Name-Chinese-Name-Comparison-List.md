@@ -35,9 +35,13 @@ ES — **栖北散白蚁** (*Reticulitermes speratus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *speratus*：拉丁文 speratus（被期望的）
 
 EN — epithet *speratus*: Latin speratus (hoped for)
+
+ES — epithet *speratus*: Del latín speratus (esperado)
 
 <!-- src:S0018 -->
 

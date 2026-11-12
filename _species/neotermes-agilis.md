@@ -35,9 +35,13 @@ ES — **轻快新白蚁** (*Neotermes agilis*) es una especie del género *Neot
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *agilis*：拉丁文/希腊文词根「agil」（敏捷）
 
 EN — epithet *agilis*: From the descriptive term 'agil' (agile)
+
+ES — epithet *agilis*: Del término descriptivo «agil» (ágil)
 
 <!-- src:S0018 -->
 

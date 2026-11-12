@@ -38,9 +38,13 @@ ES — **近宽颏土白蚁** (*Odontotermes paralatigula*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *paralatigula*：拉丁文/希腊文词根「para」（旁）
 
 EN — epithet *paralatigula*: From the descriptive term 'para' (beside)
+
+ES — epithet *paralatigula*: Del término descriptivo «para» (al lado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **简灰腔白蚁** (*Cavitermes simplicinervis*) es una especie del gén
 
 EN — *Cavitermes*: From Latin cavus (hollow) + termes.
 
+ES — *Cavitermes*: Del latín cavus (hueco) + termes.
+
 种加词 *simplicinervis*：拉丁文 simplex（简单）+ nervus（脉），简单脉
 
 EN — epithet *simplicinervis*: Latin simplex (simple) + nervus (vein), simple-veined
+
+ES — epithet *simplicinervis*: Del latín simplex (simple) + nervus (nervio), de nervadura simple
 
 <!-- src:S0018 -->
 

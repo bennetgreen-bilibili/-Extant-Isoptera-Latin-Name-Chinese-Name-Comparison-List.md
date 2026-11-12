@@ -38,9 +38,13 @@ ES — **五指山近扭白蚁** (*Pericapritermes wuzhishanensis*) es una espec
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *wuzhishanensis*：以地名 五指山（海南） 命名
 
 EN — epithet *wuzhishanensis*: Named after the locality Wuzhishan
+
+ES — epithet *wuzhishanensis*: Por la localidad de Wuzhishan
 
 <!-- src:S0018 -->
 

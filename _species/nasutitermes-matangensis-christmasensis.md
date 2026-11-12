@@ -39,9 +39,13 @@ ES — **圣诞岛亚种** (*Nasutitermes matangensis christmasensis*) es una su
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *christmasensis*：以地名 Christmas Island（圣诞岛）命名
 
 EN — epithet *christmasensis*: Named after Christmas Island
+
+ES — epithet *christmasensis*: Por la isla de Navidad
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **好斗阿特拉斯白蚁** (*Atlantitermes guarinim*) es una especie, y
 
 EN — *Atlantitermes*: From the Atlantic + termes.
 
+ES — *Atlantitermes*: Del Atlántico + termes.
+
 种加词 *guarinim*：图皮语 guarinim（一种树/果实）
 
 EN — epithet *guarinim*: Tupi guarinim (a tree/fruit)
+
+ES — epithet *guarinim*: Del tupí guarinim (un árbol/fruto)
 
 <!-- src:S0018 -->
 

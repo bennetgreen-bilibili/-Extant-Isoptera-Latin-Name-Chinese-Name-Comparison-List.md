@@ -38,9 +38,13 @@ ES — **小眼象白蚁** (*Nasutitermes brevioculatus*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *brevioculatus*：拉丁文/希腊文 breviocul（短）+ atus（具），指短具
 
 EN — epithet *brevioculatus*: From breviocul (短) + atus (具)
+
+ES — epithet *brevioculatus*: De breviocul (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

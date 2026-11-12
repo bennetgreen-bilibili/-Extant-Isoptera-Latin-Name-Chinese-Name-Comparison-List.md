@@ -38,9 +38,13 @@ ES — **厚唇聚白蚁** (*Syntermes crassilabrum*) es una especie del género
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *crassilabrum*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassilabrum*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassilabrum*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

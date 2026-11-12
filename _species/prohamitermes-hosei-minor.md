@@ -39,9 +39,13 @@ ES — **小亚种** (*Prohamitermes hosei minor*) es una subespecie de *Prohami
 
 EN — *Prohamitermes*: From Greek pro- (before) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Prohamitermes*: Del griego pro- (antes) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *minor*：拉丁文 minor（较小）
 
 EN — epithet *minor*: Latin minor (smaller)
+
+ES — epithet *minor*: Del latín minor (menor)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **灰胫近扭白蚁** (*Pericapritermes fuscotibialis*) es una especie d
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *fuscotibialis*：拉丁文/希腊文 fusco（暗褐）+ tibialis（胫），指暗褐胫
 
 EN — epithet *fuscotibialis*: From fusco (暗褐) + tibialis (胫)
+
+ES — epithet *fuscotibialis*: De fusco (oscuro) + tibialis (tibia)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **三宝近扭白蚁** (*Pericapritermes semarangi*) es una especie del g
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *semarangi*：以地名 Semarang（三宝垄，印度尼西亚中爪哇）命名
 
 EN — epithet *semarangi*: Named after the locality Semarang (Central Java, Indonesia)
+
+ES — epithet *semarangi*: Por la localidad de Semarang (Java Central, Indonesia)
 
 <!-- src:S0018 -->
 

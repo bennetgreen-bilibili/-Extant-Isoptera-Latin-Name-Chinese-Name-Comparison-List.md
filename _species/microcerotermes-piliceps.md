@@ -40,9 +40,13 @@ ES — **毛头锯白蚁** (*Microcerotermes piliceps*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *piliceps*：拉丁文/希腊文 pili（毛）+ ceps（头），指毛头
 
 EN — epithet *piliceps*: From pili (毛) + ceps (头)
+
+ES — epithet *piliceps*: De pili (pelo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

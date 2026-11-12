@@ -38,9 +38,13 @@ ES — **喉头尖白蚁** (*Apicotermes gurgulifex*) es una especie del género
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *gurgulifex*：拉丁文 gurgulio（象鼻虫）+ -fex（作者），象鼻虫作者
 
 EN — epithet *gurgulifex*: Latin gurgulio (weevil) + -fex (maker)
+
+ES — epithet *gurgulifex*: Del latín gurgulio (gorgojo) + -fex (hacedor)
 
 <!-- src:S0018 -->
 

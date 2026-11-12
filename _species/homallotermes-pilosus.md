@@ -38,9 +38,13 @@ ES — **多毛平白蚁** (*Homallotermes pilosus*) es una especie del género 
 
 EN — *Homallotermes*: From Greek homalos (even, level) + Latin termes.
 
+ES — *Homallotermes*: Del griego homalos (uniforme, llano) + latín termes.
+
 种加词 *pilosus*：拉丁文 pilosus（多毛）
 
 EN — epithet *pilosus*: Latin pilosus (hairy)
+
+ES — epithet *pilosus*: Del latín pilosus (peludo)
 
 <!-- src:S0018 -->
 

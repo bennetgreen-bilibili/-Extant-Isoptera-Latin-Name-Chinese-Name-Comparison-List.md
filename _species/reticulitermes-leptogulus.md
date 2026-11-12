@@ -35,9 +35,13 @@ ES — **细颏散白蚁** (*Reticulitermes leptogulus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *leptogulus*：拉丁文/希腊文 leptog（细）+ ulus（小（指小）），指细小（指小）
 
 EN — epithet *leptogulus*: From leptog (细) + ulus (小（指小）)
+
+ES — epithet *leptogulus*: De leptog (fino) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **中间乳白蚁** (*Coptotermes intermedius*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *intermedius*：拉丁文 intermedius（中间的）
 
 EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+ES — epithet *intermedius*: Del latín intermedius (intermedio)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **卵头象白蚁** (*Nasutitermes ovatus*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *ovatus*：拉丁文 ovatus（卵形）
 
 EN — epithet *ovatus*: Latin ovatus (oval)
+
+ES — epithet *ovatus*: Del latín ovatus (ovalado)
 
 <!-- src:S0018 -->
 

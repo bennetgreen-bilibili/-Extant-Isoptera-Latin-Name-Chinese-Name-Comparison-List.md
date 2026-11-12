@@ -35,9 +35,13 @@ ES — **尖唇散白蚁** (*Reticulitermes aculabialis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *aculabialis*：拉丁文 aculeus（刺）+ labialis（唇），刺唇
 
 EN — epithet *aculabialis*: Latin aculeus (sting) + labialis (lip), spiny-lipped
+
+ES — epithet *aculabialis*: Del latín aculeus (aguijón) + labialis (labio), de labios espinosos
 
 <!-- src:S0018 -->
 

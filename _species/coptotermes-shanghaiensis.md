@@ -35,9 +35,13 @@ ES — **上海乳白蚁** (*Coptotermes shanghaiensis*) es una especie del gén
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *shanghaiensis*：以地名 上海 命名
 
 EN — epithet *shanghaiensis*: Named after the locality Shangha
+
+ES — epithet *shanghaiensis*: Por la localidad de Shanghái
 
 <!-- src:S0018 -->
 

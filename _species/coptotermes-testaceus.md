@@ -37,9 +37,13 @@ ES — **厚壳乳白蚁** (*Coptotermes testaceus*) es una especie del género 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *testaceus*：拉丁文 testaceus（砖红、陶色）
 
 EN — epithet *testaceus*: Latin testaceus (brick-coloured)
+
+ES — epithet *testaceus*: Latín testaceus (de color ladrillo)
 
 <!-- src:S0018 -->
 

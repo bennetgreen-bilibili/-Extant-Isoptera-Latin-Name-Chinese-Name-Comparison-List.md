@@ -38,9 +38,13 @@ ES — **海南华象白蚁** (*Sinonasutitermes hainanensis*) es una especie de
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *hainanensis*：地名：海南（中国）
 
 EN — epithet *hainanensis*: After Hainan (China)
+
+ES — epithet *hainanensis*: Por Hainan (China)
 
 <!-- src:S0018 -->
 

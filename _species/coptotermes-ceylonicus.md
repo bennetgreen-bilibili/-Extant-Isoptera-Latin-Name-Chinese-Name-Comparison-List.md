@@ -35,9 +35,13 @@ ES — **锡兰乳白蚁** (*Coptotermes ceylonicus*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
 
 EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+ES — epithet *ceylonicus*: Por Ceilán (Sri Lanka)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **德纳尖白蚁** (*Apicotermes desneuxi*) es una especie del género *
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *desneuxi*：以人名 desneux 命名（比利时白蚁学家 J. Desneux）
 
 EN — epithet *desneuxi*: Named after 比利时白蚁学家 J. Desneux
+
+ES — epithet *desneuxi*: En honor del termitólogo belga J. Desneux
 
 <!-- src:S0018 -->
 

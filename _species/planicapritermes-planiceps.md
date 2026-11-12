@@ -38,9 +38,13 @@ ES — **平头平扭白蚁** (*Planicapritermes planiceps*) es una especie, y l
 
 EN — *Planicapritermes*: From Latin planus (flat) + caper (goat) + termes.
 
+ES — *Planicapritermes*: Del latín planus (plano) + caper (cabra) + termes.
+
 种加词 *planiceps*：拉丁文 planus（平）+ -ceps（头），平头
 
 EN — epithet *planiceps*: Latin planus (flat) + -ceps (head), flat-headed
+
+ES — epithet *planiceps*: Del latín planus (plano) + -ceps (cabeza), de cabeza plana
 
 <!-- src:S0018 -->
 

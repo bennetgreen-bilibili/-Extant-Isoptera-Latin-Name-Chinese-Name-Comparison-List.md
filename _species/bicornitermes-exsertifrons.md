@@ -35,9 +35,13 @@ ES — **突额双角白蚁** (*Bicornitermes exsertifrons*) es una especie del 
 
 EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
 
+ES — *Bicornitermes*: Del latín bi- (dos) + cornu (cuerno) + termes.
+
 种加词 *exsertifrons*：拉丁文 exsertus（伸出的）+ frons（额），伸额
 
 EN — epithet *exsertifrons*: Latin exsertus (protruding) + frons (front), protruding-fronted
+
+ES — epithet *exsertifrons*: Del latín exsertus (saliente) + frons (frente), de frente saliente
 
 <!-- src:S0018 -->
 

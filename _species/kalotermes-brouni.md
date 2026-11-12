@@ -35,9 +35,13 @@ ES — **布龙木白蚁** (*Kalotermes brouni*) es una especie del género *Kal
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *brouni*：以人名 Broun（Thomas Broun）命名
 
 EN — epithet *brouni*: Named after Thomas Broun
+
+ES — epithet *brouni*: En honor de Thomas Broun
 
 <!-- src:S0018 -->
 

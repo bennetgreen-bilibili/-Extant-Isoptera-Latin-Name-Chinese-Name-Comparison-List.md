@@ -38,9 +38,13 @@ ES — **乔德里锯白蚁** (*Microcerotermes chaudhryi*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *chaudhryi*：以人名 Chaudhry 命名
 
 EN — epithet *chaudhryi*: Named after Chaudhry
+
+ES — epithet *chaudhryi*: En honor de Chaudhry
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **迪伦德拉新白蚁** (*Neotermes dhirendrai*) es una especie del gé
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *dhirendrai*：以人名 Dhirendra（印度人名）命名
 
 EN — epithet *dhirendrai*: Named after Dhirendra
+
+ES — epithet *dhirendrai*: En honor de Dhirendra
 
 <!-- src:S0018 -->
 

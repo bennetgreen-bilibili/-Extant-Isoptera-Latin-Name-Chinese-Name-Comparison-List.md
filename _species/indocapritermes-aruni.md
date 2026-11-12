@@ -38,9 +38,13 @@ ES — **阿伦印扭白蚁** (*Indocapritermes aruni*) es la única especie viv
 
 EN — *Indocapritermes*: From India + Latin caper (goat) + termes.
 
+ES — *Indocapritermes*: De India + latín caper (cabra) + termes.
+
 种加词 *aruni*：以人名 Arun 命名
 
 EN — epithet *aruni*: Named after Arun
+
+ES — epithet *aruni*: En honor de Arun
 
 <!-- src:S0018 -->
 

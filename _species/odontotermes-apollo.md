@@ -38,9 +38,13 @@ ES — **阿波罗土白蚁** (*Odontotermes apollo*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *apollo*：拉丁文/希腊文 a-（无、不）+ pollo（多），指无多
 
 EN — epithet *apollo*: From a- (without) + pollo (多)
+
+ES — epithet *apollo*: De a- (sin) + pollo (muchos)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **菲氏土白蚁** (*Odontotermes feae*) es una especie del género *Odo
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *feae*：以人名 Leonardo Fea（意大利博物学家/探险家，1852–1903）命名
 
 EN — epithet *feae*: Named after Leonardo Fea
+
+ES — epithet *feae*: En honor de Leonardo Fea
 
 <!-- src:S0018 -->
 

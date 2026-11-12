@@ -38,9 +38,13 @@ ES — **似鼻长象白蚁** (*Nasutitermes longinasoides*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longinasoides*：拉丁文/希腊文 longinas（长）+ oides（似），指长似
 
 EN — epithet *longinasoides*: From longinas (长) + oides (似)
+
+ES — epithet *longinasoides*: De longinas (largo) + oides (semejante a)
 
 <!-- src:S0018 -->
 

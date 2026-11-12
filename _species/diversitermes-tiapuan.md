@@ -38,9 +38,13 @@ ES — **长简鼻歧白蚁** (*Diversitermes tiapuan*) es una especie del géne
 
 EN — *Diversitermes*: From Latin diversus (diverse) + termes.
 
+ES — *Diversitermes*: Del latín diversus (diverso) + termes.
+
 种加词 *tiapuan*：种加词 tiapuan 为图皮语土名，由 itá（石）与 puã（立）组成，意为「竖立的石头」。
 
 EN — epithet *tiapuan*: From Tupi itá 'stone' + puã 'standing', i.e. 'upright stone'.
+
+ES — epithet *tiapuan*: Del tupí itá «piedra» + puã «que está en pie», es decir, «piedra erguida»
 
 <!-- src:S0018 -->
 

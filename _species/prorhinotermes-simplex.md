@@ -35,9 +35,13 @@ ES — **简单原鼻白蚁** (*Prorhinotermes simplex*) es una especie del gén
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *simplex*：拉丁文 simplex（简单的、不分枝的）
 
 EN — epithet *simplex*: Latin simplex (simple)
+
+ES — epithet *simplex*: Del latín simplex (simple)
 
 <!-- src:S0018 -->
 

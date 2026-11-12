@@ -38,9 +38,13 @@ ES — **多毛象白蚁** (*Nasutitermes pilosus*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *pilosus*：拉丁文 pilosus（多毛）
 
 EN — epithet *pilosus*: Latin pilosus (hairy)
+
+ES — epithet *pilosus*: Del latín pilosus (peludo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **第二旁扭白蚁** (*Paracapritermes secundus*) es una especie del g�
 
 EN — *Paracapritermes*: From Greek para- (beside) + Latin caper (goat) + termes.
 
+ES — *Paracapritermes*: Del griego para- (al lado de) + latín caper (cabra) + termes.
+
 种加词 *secundus*：拉丁文 secundus（第二）
 
 EN — epithet *secundus*: Latin secundus (second)
+
+ES — epithet *secundus*: Del latín secundus (segundo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **愉悦多铲白蚁** (*Polyspathotermes oblectatus*) es una especie del
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *oblectatus*：拉丁文 oblectatus（被取悦的）
 
 EN — epithet *oblectatus*: Latin oblectatus (delighted)
+
+ES — epithet *oblectatus*: Del latín oblectatus (encantado)
 
 <!-- src:S0018 -->
 

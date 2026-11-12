@@ -40,9 +40,13 @@ ES — **龙州土白蚁** (*Odontotermes longzhouensis*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *longzhouensis*：以地名 龙州（广西） 命名
 
 EN — epithet *longzhouensis*: Named after the locality Longzhou
+
+ES — epithet *longzhouensis*: Por la localidad de Longzhou
 
 <!-- src:S0018 -->
 

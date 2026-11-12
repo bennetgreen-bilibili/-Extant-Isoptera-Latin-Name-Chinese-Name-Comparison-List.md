@@ -38,9 +38,13 @@ ES — **野外弓白蚁** (*Amitermes agrilus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *agrilus*：希腊文 agrios（野生的、野性的）
 
 EN — epithet *agrilus*: Greek agrios (wild)
+
+ES — epithet *agrilus*: Del griego agrios (salvaje)
 
 <!-- src:S0018 -->
 

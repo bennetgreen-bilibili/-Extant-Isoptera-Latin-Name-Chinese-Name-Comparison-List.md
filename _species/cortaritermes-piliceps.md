@@ -38,9 +38,13 @@ ES — **毛头利颚白蚁** (*Cortaritermes piliceps*) es una especie del gén
 
 EN — *Cortaritermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Cortaritermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *piliceps*：拉丁文/希腊文 pili（毛）+ ceps（头），指毛头
 
 EN — epithet *piliceps*: From pili (毛) + ceps (头)
+
+ES — epithet *piliceps*: De pili (pelo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

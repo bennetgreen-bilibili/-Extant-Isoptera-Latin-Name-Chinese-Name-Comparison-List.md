@@ -35,9 +35,13 @@ ES — **沃斯曼小草白蚁** (*Microhodotermes wasmanni*) es una especie del
 
 EN — *Microhodotermes*: From Greek mikros (small) + hodos (path) + Latin termes.
 
+ES — *Microhodotermes*: Del griego mikros (pequeño) + hodos (sendero) + latín termes.
+
 种加词 *wasmanni*：以人名 Wasmann 命名（奥地利昆虫学家 E. Wasmann）
 
 EN — epithet *wasmanni*: Named after the entomologist E. Wasmann
+
+ES — epithet *wasmanni*: En honor del entomólogo E. Wasmann
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **花坪散白蚁** (*Reticulitermes huapingensis*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *huapingensis*：以地名 花坪（广西） 命名
 
 EN — epithet *huapingensis*: Named after the locality Huaping
+
+ES — epithet *huapingensis*: Por la localidad de Huaping
 
 <!-- src:S0018 -->
 

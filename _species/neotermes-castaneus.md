@@ -37,9 +37,13 @@ ES — **栗色新白蚁** (*Neotermes castaneus*) es una especie, y la especie 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *castaneus*：拉丁文 castaneus（栗色）
 
 EN — epithet *castaneus*: Latin castaneus (chestnut)
+
+ES — epithet *castaneus*: Del latín castaneus (castaño)
 
 <!-- src:S0018 -->
 

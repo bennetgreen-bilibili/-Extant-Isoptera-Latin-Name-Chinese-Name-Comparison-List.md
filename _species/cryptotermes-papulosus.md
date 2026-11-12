@@ -35,9 +35,13 @@ ES — **丘翅堆砂白蚁** (*Cryptotermes papulosus*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *papulosus*：拉丁文 papulosus（具疱的）
 
 EN — epithet *papulosus*: Latin papulosus (pimply)
+
+ES — epithet *papulosus*: Del latín papulosus (con pústulas)
 
 <!-- src:S0018 -->
 

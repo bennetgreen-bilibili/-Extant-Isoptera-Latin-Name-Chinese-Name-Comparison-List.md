@@ -35,9 +35,13 @@ ES — **森林双裂白蚁** (*Bifiditermes sylvaticus*) es una especie del gé
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *sylvaticus*：拉丁文 silvaticus（森林的，sylva=森林）
 
 EN — epithet *sylvaticus*: Latin silvaticus (of the forest, sylva = forest)
+
+ES — epithet *sylvaticus*: Latín silvaticus (del bosque, sylva = bosque)
 
 <!-- src:S0018 -->
 

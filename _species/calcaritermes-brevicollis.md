@@ -35,9 +35,13 @@ ES — **短颈距白蚁** (*Calcaritermes brevicollis*) es una especie del gén
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *brevicollis*：拉丁文 brevis（短）+ collum（颈），短颈
 
 EN — epithet *brevicollis*: Latin brevis (short) + collum (neck), short-necked
+
+ES — epithet *brevicollis*: Del latín brevis (corto) + collum (cuello), de cuello corto
 
 <!-- src:S0018 -->
 

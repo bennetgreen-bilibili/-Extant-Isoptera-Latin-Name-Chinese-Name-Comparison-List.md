@@ -38,9 +38,13 @@ ES — **夏氏华扭白蚁** (*Sinocapritermes xiai*) es una especie del géner
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *xiai*：以中国白蚁分类学家夏凯龄（Xia Kailing，中科院上海昆虫研究所）命名。
 
 EN — epithet *xiai*: Named after the Chinese termite taxonomist Kailing Xia.
+
+ES — epithet *xiai*: En honor de Kailing Xia, taxónomo chino de termitas.
 
 <!-- src:S0018 -->
 

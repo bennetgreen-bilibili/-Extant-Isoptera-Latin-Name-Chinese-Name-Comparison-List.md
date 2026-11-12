@@ -38,9 +38,13 @@ ES — **椭囟顺白蚁** (*Acholotermes epius*) es una especie del género *Ac
 
 EN — *Acholotermes*: From Greek a- (without) + cholē (bile) + Latin termes.
 
+ES — *Acholotermes*: Del griego a- (sin) + cholē (bilis) + latín termes.
+
 种加词 *epius*：希腊文 ēpios（温和的、友善的）
 
 EN — epithet *epius*: Greek ēpios (gentle)
+
+ES — epithet *epius*: Del griego ēpios (manso)
 
 <!-- src:S0018 -->
 

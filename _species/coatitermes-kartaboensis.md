@@ -38,9 +38,13 @@ ES — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) es una especie 
 
 EN — *Coatitermes*: From Tupi Coati (coati) + termes.
 
+ES — *Coatitermes*: Del tupí Coati (coatí) + termes.
+
 种加词 *kartaboensis*：以地名 Kartabo（圭亚那）命名
 
 EN — epithet *kartaboensis*: Named after Kartabo (Guyana)
+
+ES — epithet *kartaboensis*: Por Kartabo (Guyana)
 
 <!-- src:S0018 -->
 

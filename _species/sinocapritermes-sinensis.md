@@ -38,9 +38,13 @@ ES — **中华华扭白蚁** (*Sinocapritermes sinensis*) es una especie, y la 
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *sinensis*：拉丁文 Sinensis（中国的）
 
 EN — epithet *sinensis*: Latin Sinensis (of China)
+
+ES — epithet *sinensis*: Del latín Sinensis (de China)
 
 <!-- src:S0018 -->
 

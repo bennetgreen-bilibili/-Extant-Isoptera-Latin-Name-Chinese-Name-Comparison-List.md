@@ -40,9 +40,13 @@ ES — **小土白蚁** (*Odontotermes minutus*) es una especie del género *Odo
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *minutus*：拉丁文 minutus（微小）
 
 EN — epithet *minutus*: Latin minutus (tiny)
+
+ES — epithet *minutus*: Del latín minutus (diminuto)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **林栖丽娜扭白蚁** (*Rinacapritermes silvius*) es una especie, y l
 
 EN — *Rinacapritermes*: From Greek rhis (nose) + Latin caper (goat) + termes.
 
+ES — *Rinacapritermes*: Del griego rhis (nariz) + latín caper (cabra) + termes.
+
 种加词 *silvius*：拉丁文 silva（森林），森林的
 
 EN — epithet *silvius*: Latin silva (forest), of the woods
+
+ES — epithet *silvius*: Del latín silva (bosque), de los bosques
 
 <!-- src:S0018 -->
 

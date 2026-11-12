@@ -38,9 +38,13 @@ ES — **贝奎特锯白蚁** (*Microcerotermes bequaertianus*) es una especie d
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *bequaertianus*：以人名 bequaert 命名（J. Bequaert（比利时昆虫学家））
 
 EN — epithet *bequaertianus*: Named after J. Bequaert（比利时昆虫学家）
+
+ES — epithet *bequaertianus*: En honor de J. Bequaert (entomólogo belga)
 
 <!-- src:S0018 -->
 

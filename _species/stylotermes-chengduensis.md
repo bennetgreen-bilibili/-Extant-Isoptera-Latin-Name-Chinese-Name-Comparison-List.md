@@ -35,9 +35,13 @@ ES — **成都杆白蚁** (*Stylotermes chengduensis*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *chengduensis*：以地名 成都（四川） 命名
 
 EN — epithet *chengduensis*: Named after the locality Chengdu
+
+ES — epithet *chengduensis*: Por la localidad de Chengdu
 
 <!-- src:S0018 -->
 

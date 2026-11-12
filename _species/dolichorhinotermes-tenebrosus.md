@@ -35,9 +35,13 @@ ES — **暗色狭鼻白蚁** (*Dolichorhinotermes tenebrosus*) es una especie d
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *tenebrosus*：拉丁文/希腊文 tenebr（暗）+ osus（多、充满），指暗多、充满
 
 EN — epithet *tenebrosus*: From tenebr (暗) + osus (多、充满)
+
+ES — epithet *tenebrosus*: De tenebr (oscuridad) + osus (abundancia, plenitud)
 
 <!-- src:S0018 -->
 

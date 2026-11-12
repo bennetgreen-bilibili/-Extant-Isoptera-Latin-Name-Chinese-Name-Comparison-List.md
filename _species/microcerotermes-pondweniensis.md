@@ -38,9 +38,13 @@ ES — **庞德文尼锯白蚁** (*Microcerotermes pondweniensis*) es una especi
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *pondweniensis*：以蓬德韦尼（Pondweni，南非）命名
 
 EN — epithet *pondweniensis*: Named after Pondweni (South Africa)
+
+ES — epithet *pondweniensis*: Por Pondweni (Sudáfrica)
 
 <!-- src:S0018 -->
 

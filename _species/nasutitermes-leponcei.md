@@ -38,9 +38,13 @@ ES — **莱波斯象白蚁** (*Nasutitermes leponcei*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *leponcei*：以人名 Leponce（勒蓬斯）命名（比利时昆虫学家 Maurice Leponce）
 
 EN — epithet *leponcei*: Named after Leponce (Belgian entomologist Maurice Leponce)
+
+ES — epithet *leponcei*: En honor de Leponce (entomólogo belga Maurice Leponce)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **多毛巨鼻白蚁** (*Cyranotermes timuassu*) es una especie, y la esp
 
 EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
 
+ES — *Cyranotermes*: De Cyrano (de Bergerac, famoso por su larga nariz) + termes, por el nasus largo.
+
 种加词 *timuassu*：图皮语 -assu（大）
 
 EN — epithet *timuassu*: Tupi -assu (large)
+
+ES — epithet *timuassu*: Tupí -assu (grande)
 
 <!-- src:S0018 -->
 

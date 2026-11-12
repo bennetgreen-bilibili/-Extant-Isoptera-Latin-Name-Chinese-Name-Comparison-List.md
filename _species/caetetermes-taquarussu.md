@@ -38,9 +38,13 @@ ES — **塔夸拉林白蚁** (*Caetetermes taquarussu*) es una especie, y la es
 
 EN — *Caetetermes*: From the Tupi place name Caeté + -termes.
 
+ES — *Caetetermes*: Del topónimo tupí Caeté + -termes.
+
 种加词 *taquarussu*：图皮语 taquara（竹）+ -ussu（大），大竹
 
 EN — epithet *taquarussu*: Tupi taquara (bamboo) + -ussu (large)
+
+ES — epithet *taquarussu*: Tupí taquara (bambú) + -ussu (grande)
 
 <!-- src:S0018 -->
 

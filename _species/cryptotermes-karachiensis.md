@@ -35,9 +35,13 @@ ES — **卡拉奇堆砂白蚁** (*Cryptotermes karachiensis*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *karachiensis*：以卡拉奇（Karachi，巴基斯坦）命名
 
 EN — epithet *karachiensis*: Named after Karachi (Pakistan)
+
+ES — epithet *karachiensis*: Por Karachi (Pakistán)
 
 <!-- src:S0018 -->
 

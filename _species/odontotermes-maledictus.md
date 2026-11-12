@@ -38,9 +38,13 @@ ES — **可恨土白蚁** (*Odontotermes maledictus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *maledictus*：拉丁文 maledictus（被诅咒的）
 
 EN — epithet *maledictus*: Latin maledictus (cursed)
+
+ES — epithet *maledictus*: Del latín maledictus (maldito)
 
 <!-- src:S0018 -->
 

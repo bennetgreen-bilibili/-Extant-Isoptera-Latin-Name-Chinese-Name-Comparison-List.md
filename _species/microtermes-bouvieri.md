@@ -38,9 +38,13 @@ ES — **布维尔小白蚁** (*Microtermes bouvieri*) es una especie del géner
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *bouvieri*：以人名 E.-L. Bouvier（法国昆虫学家）命名
 
 EN — epithet *bouvieri*: Named after the entomologist E.-L. Bouvier
+
+ES — epithet *bouvieri*: En honor del entomólogo E.-L. Bouvier
 
 <!-- src:S0018 -->
 

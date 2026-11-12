@@ -35,9 +35,13 @@ ES — **未料胄白蚁** (*Stolotermes inopinus*) es una especie del género *
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *inopinus*：拉丁文 inopinus（意外的）
 
 EN — epithet *inopinus*: Latin inopinus (unexpected)
+
+ES — epithet *inopinus*: Del latín inopinus (inesperado)
 
 <!-- src:S0018 -->
 

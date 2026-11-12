@@ -38,9 +38,13 @@ ES — **贝专纳前奇白蚁** (*Promirotermes bechuana*) es una especie del g
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *bechuana*：贝专纳（博茨瓦纳旧称）/ 茨瓦纳人
 
 EN — epithet *bechuana*: After Bechuanaland (Botswana) / the Tswana people
+
+ES — epithet *bechuana*: Por Bechuanalandia (Botsuana) / el pueblo tsuana
 
 <!-- src:S0018 -->
 

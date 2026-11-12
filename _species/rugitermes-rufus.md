@@ -35,9 +35,13 @@ ES — **红色皱白蚁** (*Rugitermes rufus*) es una especie del género *Rugi
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *rufus*：拉丁文 rufus（红）
 
 EN — epithet *rufus*: Latin rufus (red)
+
+ES — epithet *rufus*: Del latín rufus (rojo)
 
 <!-- src:S0018 -->
 

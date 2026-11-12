@@ -35,9 +35,13 @@ ES — **短背新白蚁** (*Neotermes brevinotus*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *brevinotus*：拉丁文/希腊文 brevi（短）+ notus（背），指短背
 
 EN — epithet *brevinotus*: From brevi (短) + notus (背)
+
+ES — epithet *brevinotus*: De brevi (corto) + notus (dorso)
 
 <!-- src:S0018 -->
 

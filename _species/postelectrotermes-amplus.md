@@ -35,9 +35,13 @@ ES — **大后琥珀白蚁** (*Postelectrotermes amplus*) es una especie del g�
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *amplus*：拉丁文 amplus（宽大）
 
 EN — epithet *amplus*: Latin amplus (ample, large)
+
+ES — epithet *amplus*: Del latín amplus (amplio, grande)
 
 <!-- src:S0018 -->
 

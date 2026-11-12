@@ -40,9 +40,13 @@ ES — **明翼大白蚁** (*Macrotermes vitrialatus*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *vitrialatus*：拉丁文 vitrum（玻璃）+ latus（侧、翅?），玻璃翅
 
 EN — epithet *vitrialatus*: Latin vitrum (glass) + latus (side/wing), glass-winged
+
+ES — epithet *vitrialatus*: Del latín vitrum (vidrio) + latus (lado/ala), de alas de vidrio
 
 <!-- src:S0018 -->
 

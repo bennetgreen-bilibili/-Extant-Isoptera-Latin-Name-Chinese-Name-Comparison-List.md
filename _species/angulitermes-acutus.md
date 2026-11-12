@@ -38,9 +38,13 @@ ES — **锋利角白蚁** (*Angulitermes acutus*) es una especie del género *A
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *acutus*：拉丁文 acutus（尖锐）
 
 EN — epithet *acutus*: Latin acutus (sharp)
+
+ES — epithet *acutus*: Del latín acutus (agudo)
 
 <!-- src:S0018 -->
 

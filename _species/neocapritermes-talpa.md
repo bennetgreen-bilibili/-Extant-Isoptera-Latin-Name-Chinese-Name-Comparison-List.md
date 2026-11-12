@@ -40,9 +40,13 @@ ES — **鼹鼠新扭白蚁** (*Neocapritermes talpa*) es una especie del géner
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *talpa*：拉丁文 talpa（鼹鼠）
 
 EN — epithet *talpa*: Latin talpa (mole)
+
+ES — epithet *talpa*: Latín talpa (topo)
 
 <!-- src:S0018 -->
 

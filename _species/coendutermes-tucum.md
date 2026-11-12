@@ -38,9 +38,13 @@ ES — **纤维箭猪白蚁** (*Coendutermes tucum*) es la única especie vivien
 
 EN — *Coendutermes*: From Tupi Coendou (prehensile-tailed porcupine) + termes.
 
+ES — *Coendutermes*: Del tupí Coendou (puercoespín de cola prensil) + termes.
+
 种加词 *tucum*：图库姆棕榈（图皮语）
 
 EN — epithet *tucum*: From tucum, a palm (Tupi)
+
+ES — epithet *tucum*: De tucum, una palmera (tupí)
 
 <!-- src:S0018 -->
 

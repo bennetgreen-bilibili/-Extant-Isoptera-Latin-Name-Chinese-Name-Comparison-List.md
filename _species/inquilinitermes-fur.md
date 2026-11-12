@@ -38,9 +38,13 @@ ES — **窃贼客白蚁** (*Inquilinitermes fur*) es una especie, y la especie 
 
 EN — *Inquilinitermes*: From Latin inquilinus (inquiline) + termes.
 
+ES — *Inquilinitermes*: Del latín inquilinus (inquilino) + termes.
+
 种加词 *fur*：拉丁文 fur（窃贼）
 
 EN — epithet *fur*: Latin fur (thief)
+
+ES — epithet *fur*: Del latín fur (ladrón)
 
 <!-- src:S0018 -->
 

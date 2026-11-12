@@ -38,9 +38,13 @@ ES — **莱特亮白蚁** (*Euhamitermes lighti*) es una especie del género *E
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *lighti*：以人名 light 命名（美国白蚁学家 S. F. Light）
 
 EN — epithet *lighti*: Named after 美国白蚁学家 S. F. Light
+
+ES — epithet *lighti*: En honor del termitólogo estadounidense S. F. Light
 
 <!-- src:S0018 -->
 

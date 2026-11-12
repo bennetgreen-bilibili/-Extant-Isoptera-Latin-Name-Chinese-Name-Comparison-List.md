@@ -38,9 +38,13 @@ ES — **孟定亮白蚁** (*Euhamitermes mengdingensis*) es una especie del gé
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *mengdingensis*：以地名 孟定（云南） 命名
 
 EN — epithet *mengdingensis*: Named after the locality Mengding
+
+ES — epithet *mengdingensis*: Por la localidad de Mengding
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **黑暗解甲白蚁** (*Anoplotermes tenebrosus*) es una especie del gé
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *tenebrosus*：拉丁文/希腊文 tenebr（暗）+ osus（多、充满），指暗多、充满
 
 EN — epithet *tenebrosus*: From tenebr (暗) + osus (多、充满)
+
+ES — epithet *tenebrosus*: De tenebr (oscuridad) + osus (abundancia, plenitud)
 
 <!-- src:S0018 -->
 

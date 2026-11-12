@@ -39,9 +39,13 @@ ES — **下亚种** (*Promirotermes holmgreni infera*) es una subespecie de *Pr
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *infera*：拉丁文 inferus（下方的）
 
 EN — epithet *infera*: Latin inferus (lower, beneath)
+
+ES — epithet *infera*: Del latín inferus (inferior, debajo)
 
 <!-- src:S0018 -->
 

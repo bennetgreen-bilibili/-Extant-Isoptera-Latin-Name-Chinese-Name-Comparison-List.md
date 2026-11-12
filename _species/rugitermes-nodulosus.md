@@ -35,9 +35,13 @@ ES — **结节皱白蚁** (*Rugitermes nodulosus*) es una especie, y la especie
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *nodulosus*：拉丁文/希腊文 nodul（瘤）+ osus（多、充满），指瘤多、充满
 
 EN — epithet *nodulosus*: From nodul (瘤) + osus (多、充满)
+
+ES — epithet *nodulosus*: De nodul (tubérculo) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

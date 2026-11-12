@@ -35,9 +35,13 @@ ES — **宫武散白蚁** (*Reticulitermes miyatakei*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *miyatakei*：以人名 Miyatake（宫武，日本姓氏）命名
 
 EN — epithet *miyatakei*: Named after Miyatake
+
+ES — epithet *miyatakei*: En honor de Miyatake
 
 <!-- src:S0018 -->
 

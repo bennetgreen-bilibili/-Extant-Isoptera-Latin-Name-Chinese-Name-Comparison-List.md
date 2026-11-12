@@ -38,9 +38,13 @@ ES — **尤卡坦微白蚁** (*Parvitermes yucatanus*) es una especie del géne
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *yucatanus*：以地名 尤卡坦（墨西哥） 命名
 
 EN — epithet *yucatanus*: Named after the locality Yucat
+
+ES — epithet *yucatanus*: Por la localidad de Yucat
 
 <!-- src:S0018 -->
 

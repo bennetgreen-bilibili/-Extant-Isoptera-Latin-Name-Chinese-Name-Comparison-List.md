@@ -37,9 +37,13 @@ ES — **短角树白蚁** (*Glyptotermes brevicornis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *brevicornis*：拉丁文 brevis（短）+ cornu（角/触角），短角
 
 EN — epithet *brevicornis*: Latin brevis (short) + cornu (horn/antenna), short-horned
+
+ES — epithet *brevicornis*: Del latín brevis (corto) + cornu (cuerno/antena), de cuernos cortos
 
 <!-- src:S0018 -->
 

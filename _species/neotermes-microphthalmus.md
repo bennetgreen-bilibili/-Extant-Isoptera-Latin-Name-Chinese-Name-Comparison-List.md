@@ -35,9 +35,13 @@ ES — **小眸新白蚁** (*Neotermes microphthalmus*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *microphthalmus*：希腊文 mikros（小）+ ophthalmos（眼），小眼
 
 EN — epithet *microphthalmus*: Greek mikros (small) + ophthalmos (eye), small-eyed
+
+ES — epithet *microphthalmus*: Del griego mikros (pequeño) + ophthalmos (ojo), de ojos pequeños
 
 <!-- src:S0018 -->
 

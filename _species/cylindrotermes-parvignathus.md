@@ -38,9 +38,13 @@ ES — **小颚圆筒白蚁** (*Cylindrotermes parvignathus*) es una especie del
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *parvignathus*：拉丁文/希腊文 parvi（小）+ gnathus（颚），指小颚
 
 EN — epithet *parvignathus*: From parvi (小) + gnathus (颚)
+
+ES — epithet *parvignathus*: De parvi (pequeño) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

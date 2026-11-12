@@ -38,9 +38,13 @@ ES — **侏儒新扭白蚁** (*Neocapritermes pumilis*) es una especie del gén
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *pumilis*：拉丁文 pumilis（矮小的）
 
 EN — epithet *pumilis*: Latin pumilis (dwarf)
+
+ES — epithet *pumilis*: Del latín pumilis (enano)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **尼泊尔角白蚁** (*Angulitermes nepalensis*) es una especie del gé
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *nepalensis*：以地名 尼泊尔 命名
 
 EN — epithet *nepalensis*: Named after the locality Nepal
+
+ES — epithet *nepalensis*: Por la localidad de Nepal
 
 <!-- src:S0018 -->
 

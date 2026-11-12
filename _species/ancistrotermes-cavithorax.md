@@ -40,9 +40,13 @@ ES — **凹胸钩白蚁** (*Ancistrotermes cavithorax*) es una especie del gén
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *cavithorax*：拉丁文 cavus（凹）+ thorax（胸），凹胸
 
 EN — epithet *cavithorax*: Latin cavus (hollow) + thorax (thorax), hollow-thoraxed
+
+ES — epithet *cavithorax*: Del latín cavus (hueco) + thorax (tórax), de tórax hueco
 
 <!-- src:S0018 -->
 

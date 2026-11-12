@@ -38,9 +38,13 @@ ES — **中凹和白蚁** (*Adaiphrotermes scapheutes*) es una especie del gén
 
 EN — *Adaiphrotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Adaiphrotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *scapheutes*：希腊文 skapheus（凿舟者、挖掘者）
 
 EN — epithet *scapheutes*: Greek skapheus (digger)
+
+ES — epithet *scapheutes*: Del griego skapheus (excavador)
 
 <!-- src:S0018 -->
 

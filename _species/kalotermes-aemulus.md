@@ -35,9 +35,13 @@ ES — **竞争木白蚁** (*Kalotermes aemulus*) es una especie del género *Ka
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *aemulus*：拉丁文 aemulus（竞争的、匹敌的）
 
 EN — epithet *aemulus*: Latin aemulus (rival, emulating)
+
+ES — epithet *aemulus*: Del latín aemulus (rival, emulador)
 
 <!-- src:S0018 -->
 

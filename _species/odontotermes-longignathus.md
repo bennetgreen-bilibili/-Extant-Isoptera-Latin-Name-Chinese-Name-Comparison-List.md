@@ -38,9 +38,13 @@ ES — **长颚土白蚁** (*Odontotermes longignathus*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *longignathus*：拉丁文 longus（长）+ 希腊文 gnathos（颚），长颚
 
 EN — epithet *longignathus*: Latin longus (long) + Greek gnathos (jaw), long-jawed
+
+ES — epithet *longignathus*: Del latín longus (largo) + del griego gnathos (mandíbula), de mandíbulas largas
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **洼额新白蚁** (*Neotermes fovefrons*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *fovefrons*：拉丁文/希腊文 fove（凹点）+ frons（额），指凹点额
 
 EN — epithet *fovefrons*: From fove (凹点) + frons (额)
+
+ES — epithet *fovefrons*: De fove (punteadura) + frons (frente)
 
 <!-- src:S0018 -->
 

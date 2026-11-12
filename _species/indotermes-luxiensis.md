@@ -38,9 +38,13 @@ ES — **潞西印白蚁** (*Indotermes luxiensis*) es una especie del género *
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *luxiensis*：以地名 泸西（云南） 命名
 
 EN — epithet *luxiensis*: Named after the locality Lux
+
+ES — epithet *luxiensis*: Por la localidad de Lux
 
 <!-- src:S0018 -->
 

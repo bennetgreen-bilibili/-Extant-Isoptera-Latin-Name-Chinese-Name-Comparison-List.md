@@ -35,9 +35,13 @@ ES — **似具瘤树白蚁** (*Glyptotermes paratuberculatus*) es una especie d
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *paratuberculatus*：拉丁文/希腊文 paratubercul（旁）+ atus（具），指旁具
 
 EN — epithet *paratuberculatus*: From paratubercul (旁) + atus (具)
+
+ES — epithet *paratuberculatus*: De paratubercul (al lado) + atus (que posee)
 
 <!-- src:S0018 -->
 

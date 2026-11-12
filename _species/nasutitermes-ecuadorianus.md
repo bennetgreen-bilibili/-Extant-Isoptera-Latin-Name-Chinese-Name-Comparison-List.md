@@ -38,9 +38,13 @@ ES — **厄瓜多尔象白蚁** (*Nasutitermes ecuadorianus*) es una especie de
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *ecuadorianus*：以厄瓜多尔（Ecuador）命名
 
 EN — epithet *ecuadorianus*: Named after Ecuador
+
+ES — epithet *ecuadorianus*: Por Ecuador
 
 <!-- src:S0018 -->
 

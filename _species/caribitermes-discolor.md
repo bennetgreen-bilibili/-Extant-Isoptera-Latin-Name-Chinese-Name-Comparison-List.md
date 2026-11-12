@@ -38,9 +38,13 @@ ES — **异色加勒比白蚁** (*Caribitermes discolor*) es la única especie 
 
 EN — *Caribitermes*: From Carib (Caribbean) + termes.
 
+ES — *Caribitermes*: Del caribe (caribeño) + termes.
+
 种加词 *discolor*：拉丁文 discolor（异色的）
 
 EN — epithet *discolor*: Latin discolor (of different colour)
+
+ES — epithet *discolor*: Del latín discolor (de color diferente)
 
 <!-- src:S0018 -->
 

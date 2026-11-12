@@ -38,9 +38,13 @@ ES — **弗莱彻锯白蚁** (*Microcerotermes fletcheri*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *fletcheri*：以人名 Fletcher（或 T. B. Fletcher，英国昆虫学家）命名
 
 EN — epithet *fletcheri*: Named after Fletcher
+
+ES — epithet *fletcheri*: En honor de Fletcher
 
 <!-- src:S0018 -->
 

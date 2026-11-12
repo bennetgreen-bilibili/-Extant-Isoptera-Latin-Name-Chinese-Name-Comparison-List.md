@@ -35,9 +35,13 @@ ES — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) es una especie del g
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *derosus*：拉丁文 derosus（被啃蚀的）
 
 EN — epithet *derosus*: Latin derosus (gnawed, eroded)
+
+ES — epithet *derosus*: Del latín derosus (roído, erosionado)
 
 <!-- src:S0018 -->
 

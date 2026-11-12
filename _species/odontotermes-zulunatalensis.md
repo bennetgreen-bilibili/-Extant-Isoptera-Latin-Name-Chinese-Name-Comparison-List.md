@@ -38,9 +38,13 @@ ES — **祖鲁纳塔尔土白蚁** (*Odontotermes zulunatalensis*) es una espec
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *zulunatalensis*：以地名 祖鲁-纳塔尔（南非） 命名
 
 EN — epithet *zulunatalensis*: Named after the locality Zulunatal
+
+ES — epithet *zulunatalensis*: Por la localidad de Zulunatal
 
 <!-- src:S0018 -->
 

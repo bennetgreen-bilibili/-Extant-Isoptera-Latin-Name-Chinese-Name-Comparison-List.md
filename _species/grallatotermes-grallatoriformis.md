@@ -38,9 +38,13 @@ ES — **似高跷高跷白蚁** (*Grallatotermes grallatoriformis*) es una espe
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
+ES — *Grallatotermes*: Del latín grallator (zancudo) + termes.
+
 种加词 *grallatoriformis*：拉丁文 grallator（踩高跷者）+-formis（形），高跷形
 
 EN — epithet *grallatoriformis*: Latin grallator (stilt-walker) + -formis (shaped)
+
+ES — epithet *grallatoriformis*: Del latín grallator (zancudo) + -formis (en forma de)
 
 <!-- src:S0018 -->
 

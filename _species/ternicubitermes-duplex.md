@@ -38,9 +38,13 @@ ES — **含糊三方白蚁** (*Ternicubitermes duplex*) es una especie del gén
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *duplex*：拉丁文 duplex（二重的、成对的）
 
 EN — epithet *duplex*: Latin duplex (double)
+
+ES — epithet *duplex*: Del latín duplex (doble)
 
 <!-- src:S0018 -->
 

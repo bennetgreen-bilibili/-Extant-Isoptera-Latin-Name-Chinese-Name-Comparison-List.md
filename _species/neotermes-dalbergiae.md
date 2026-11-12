@@ -35,9 +35,13 @@ ES — **黄檀新白蚁** (*Neotermes dalbergiae*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *dalbergiae*：以黄檀属（Dalbergia）命名
 
 EN — epithet *dalbergiae*: After the plant genus Dalbergia
+
+ES — epithet *dalbergiae*: Por el género vegetal Dalbergia
 
 <!-- src:S0018 -->
 

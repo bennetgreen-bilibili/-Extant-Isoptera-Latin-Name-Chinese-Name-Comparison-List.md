@@ -38,9 +38,13 @@ ES — **短唇叉白蚁** (*Furculitermes brevilabius*) es una especie del gén
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *brevilabius*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevilabius*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevilabius*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **楠考里长鼻白蚁** (*Schedorhinotermes nancowriensis*) es una espe
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *nancowriensis*：以地名 南科里（印度） 命名
 
 EN — epithet *nancowriensis*: Named after the locality Nancowr
+
+ES — epithet *nancowriensis*: Por la localidad de Nancowr
 
 <!-- src:S0018 -->
 

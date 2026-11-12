@@ -38,9 +38,13 @@ ES — **颏突脊突白蚁** (*Cristatitermes carinatus*) es una especie, y la 
 
 EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
 
+ES — *Cristatitermes*: Del latín cristatus (crestado) + termes.
+
 种加词 *carinatus*：拉丁文/希腊文 carin（脊）+ atus（具），指脊具
 
 EN — epithet *carinatus*: From carin (脊) + atus (具)
+
+ES — epithet *carinatus*: De carin (quilla) + atus (que posee)
 
 <!-- src:S0018 -->
 

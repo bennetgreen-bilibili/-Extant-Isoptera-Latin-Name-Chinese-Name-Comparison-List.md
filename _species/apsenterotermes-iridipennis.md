@@ -38,9 +38,13 @@ ES — **虹翅后肠白蚁** (*Apsenterotermes iridipennis*) es una especie, y 
 
 EN — *Apsenterotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apsenterotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *iridipennis*：拉丁文/希腊文 iridi（虹彩）+ pennis（翅），指虹彩翅
 
 EN — epithet *iridipennis*: From iridi (虹彩) + pennis (翅)
+
+ES — epithet *iridipennis*: De iridi (iris) + pennis (ala)
 
 <!-- src:S0018 -->
 

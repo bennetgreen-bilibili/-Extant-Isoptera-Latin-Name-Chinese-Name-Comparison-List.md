@@ -38,9 +38,13 @@ ES — **细颚锯白蚁** (*Microcerotermes tenuignathus*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *tenuignathus*：拉丁文/希腊文 tenui（细）+ gnathus（颚），指细颚
 
 EN — epithet *tenuignathus*: From tenui (细) + gnathus (颚)
+
+ES — epithet *tenuignathus*: De tenui (fino) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

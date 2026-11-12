@@ -38,9 +38,13 @@ ES — **小双三方白蚁** (*Ternicubitermes microduplex*) es una especie del
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *microduplex*：希腊文 mikros（小）+ 拉丁文 duplex（二重），小二重
 
 EN — epithet *microduplex*: Greek mikros (small) + Latin duplex (double), small and double
+
+ES — epithet *microduplex*: Del griego mikros (pequeño) + del latín duplex (doble), pequeño y doble
 
 <!-- src:S0018 -->
 

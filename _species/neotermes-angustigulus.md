@@ -35,9 +35,13 @@ ES — **细颏新白蚁** (*Neotermes angustigulus*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *angustigulus*：拉丁文/希腊文 angustig（窄）+ ulus（小（指小）），指窄小（指小）
 
 EN — epithet *angustigulus*: From angustig (窄) + ulus (小（指小）)
+
+ES — epithet *angustigulus*: De angustig (estrecho) + ulus (pequeño (diminutivo))
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **班乃象白蚁** (*Nasutitermes panayensis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *panayensis*：以地名 班乃（菲律宾） 命名
 
 EN — epithet *panayensis*: Named after the locality Panay
+
+ES — epithet *panayensis*: Por la localidad de Panay
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **近邻锯白蚁** (*Microcerotermes propinquus*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *propinquus*：拉丁文 propinquus（邻近的）
 
 EN — epithet *propinquus*: Latin propinquus (near, neighbouring)
+
+ES — epithet *propinquus*: Del latín propinquus (cercano, vecino)
 
 <!-- src:S0018 -->
 

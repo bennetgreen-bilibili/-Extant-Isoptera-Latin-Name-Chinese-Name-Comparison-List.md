@@ -38,9 +38,13 @@ ES — **刚果善白蚁** (*Amicotermes congoensis*) es una especie del género
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *congoensis*：地名：刚果
 
 EN — epithet *congoensis*: After Congo
+
+ES — epithet *congoensis*: Por el Congo
 
 <!-- src:S0018 -->
 

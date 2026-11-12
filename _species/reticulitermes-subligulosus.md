@@ -35,9 +35,13 @@ ES — **近舌唇散白蚁** (*Reticulitermes subligulosus*) es una especie del
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *subligulosus*：拉丁文/希腊文 subligul（下、近）+ osus（多、充满），指下、近多、充满
 
 EN — epithet *subligulosus*: From subligul (下、近) + osus (多、充满)
+
+ES — epithet *subligulosus*: De subligul (abajo, cerca) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

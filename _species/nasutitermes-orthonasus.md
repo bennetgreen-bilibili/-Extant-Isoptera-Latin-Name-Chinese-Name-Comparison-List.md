@@ -38,9 +38,13 @@ ES — **直鼻象白蚁** (*Nasutitermes orthonasus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *orthonasus*：拉丁文/希腊文词根「orth」（直）
 
 EN — epithet *orthonasus*: From the descriptive term 'orth' (straight)
+
+ES — epithet *orthonasus*: Del término descriptivo «orth» (recto)
 
 <!-- src:S0018 -->
 

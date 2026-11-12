@@ -35,9 +35,13 @@ ES — **西孟加拉杆白蚁** (*Stylotermes bengalensis*) es una especie del 
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *bengalensis*：以地名 孟加拉 命名
 
 EN — epithet *bengalensis*: Named after the locality Bengal
+
+ES — epithet *bengalensis*: Por la localidad de Bengala
 
 <!-- src:S0018 -->
 

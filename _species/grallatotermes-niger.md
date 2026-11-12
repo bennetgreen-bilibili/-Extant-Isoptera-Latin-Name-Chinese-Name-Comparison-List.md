@@ -38,9 +38,13 @@ ES — **黑色高跷白蚁** (*Grallatotermes niger*) es una especie del géner
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
+ES — *Grallatotermes*: Del latín grallator (zancudo) + termes.
+
 种加词 *niger*：拉丁文 niger（黑）
 
 EN — epithet *niger*: Latin niger (black)
+
+ES — epithet *niger*: Del latín niger (negro)
 
 <!-- src:S0018 -->
 

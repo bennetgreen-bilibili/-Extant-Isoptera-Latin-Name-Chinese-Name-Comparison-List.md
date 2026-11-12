@@ -38,9 +38,13 @@ ES — **博顿土白蚁** (*Odontotermes boetonensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *boetonensis*：以地名 布通（印度尼西亚） 命名
 
 EN — epithet *boetonensis*: Named after the locality Boeton
+
+ES — epithet *boetonensis*: Por la localidad de Boeton
 
 <!-- src:S0018 -->
 

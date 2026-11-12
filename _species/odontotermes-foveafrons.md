@@ -38,9 +38,13 @@ ES — **凹额土白蚁** (*Odontotermes foveafrons*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *foveafrons*：拉丁文/希腊文 fovea（凹点）+ frons（额），指凹点额
 
 EN — epithet *foveafrons*: From fovea (凹点) + frons (额)
+
+ES — epithet *foveafrons*: De fovea (punteadura) + frons (frente)
 
 <!-- src:S0018 -->
 

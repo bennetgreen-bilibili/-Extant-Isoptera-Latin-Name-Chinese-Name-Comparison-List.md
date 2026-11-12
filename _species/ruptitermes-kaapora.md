@@ -38,9 +38,13 @@ ES — **林栖腹爆白蚁** (*Ruptitermes kaapora*) es una especie del género
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *kaapora*：卡波拉（图皮神话森林精灵）
 
 EN — epithet *kaapora*: Caapora, a Tupi forest spirit
+
+ES — epithet *kaapora*: Caapora, espíritu del bosque tupí
 
 <!-- src:S0018 -->
 

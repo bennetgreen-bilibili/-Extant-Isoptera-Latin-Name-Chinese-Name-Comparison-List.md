@@ -38,9 +38,13 @@ ES — **粗壮土白蚁** (*Odontotermes robustus*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *robustus*：拉丁文 robustus（粗壮）
 
 EN — epithet *robustus*: Latin robustus (robust)
+
+ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 

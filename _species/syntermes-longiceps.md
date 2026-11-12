@@ -38,9 +38,13 @@ ES — **长头聚白蚁** (*Syntermes longiceps*) es una especie del género *S
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *longiceps*：拉丁文 longus（长）+ -ceps（头），长头
 
 EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
+
+ES — epithet *longiceps*: Del latín longus (largo) + -ceps (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

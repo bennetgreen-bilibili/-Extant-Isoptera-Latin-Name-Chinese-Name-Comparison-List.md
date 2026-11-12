@@ -38,9 +38,13 @@ ES — **菱巢锯白蚁** (*Microcerotermes rhombinidus*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *rhombinidus*：拉丁文/希腊文词根「rhomb」（菱形）
 
 EN — epithet *rhombinidus*: From the descriptive term 'rhomb' (rhombic)
+
+ES — epithet *rhombinidus*: Del término descriptivo «rhomb» (rómbico)
 
 <!-- src:S0018 -->
 

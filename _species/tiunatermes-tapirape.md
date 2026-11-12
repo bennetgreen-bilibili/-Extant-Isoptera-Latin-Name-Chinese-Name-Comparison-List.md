@@ -38,9 +38,13 @@ ES — **塔皮拉佩暗鼻白蚁** (*Tiunatermes tapirape*) es una especie del 
 
 EN — *Tiunatermes*: From the place name Tiuna; -termes from Latin termes.
 
+ES — *Tiunatermes*: Del topónimo Tiuna; -termes, del latín termes.
+
 种加词 *tapirape*：塔皮拉佩族（巴西原住民）
 
 EN — epithet *tapirape*: After the Tapirapé people (Brazil)
+
+ES — epithet *tapirape*: Por el pueblo tapirapé (Brasil)
 
 <!-- src:S0018 -->
 

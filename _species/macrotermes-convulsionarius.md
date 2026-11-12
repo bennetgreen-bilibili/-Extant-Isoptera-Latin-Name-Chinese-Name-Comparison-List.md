@@ -40,9 +40,13 @@ ES — **震撼大白蚁** (*Macrotermes convulsionarius*) es una especie del g�
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *convulsionarius*：拉丁文 convulsus（痉挛的、抽搐的）
 
 EN — epithet *convulsionarius*: Latin convulsus (convulsed)
+
+ES — epithet *convulsionarius*: Del latín convulsus (convulso)
 
 <!-- src:S0018 -->
 

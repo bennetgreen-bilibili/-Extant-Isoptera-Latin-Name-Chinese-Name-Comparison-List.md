@@ -38,9 +38,13 @@ ES — **希伯直颚白蚁** (*Orthognathotermes heberi*) es una especie del g�
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *heberi*：以人名 Heber 命名
 
 EN — epithet *heberi*: Named after Heber
+
+ES — epithet *heberi*: En honor de Heber
 
 <!-- src:S0018 -->
 

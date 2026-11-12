@@ -38,9 +38,13 @@ ES — **三型大白蚁** (*Macrotermes trimorphus*) es una especie del género
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *trimorphus*：希腊文 tri-（三）+ morphē（形），三形
 
 EN — epithet *trimorphus*: Greek tri- (three) + morphē (form), trimorphic
+
+ES — epithet *trimorphus*: Del griego tri- (tres) + morphē (forma), trimorfo
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **短头小脊突白蚁** (*Lophotermes brevicephalus*) es una especie de
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *brevicephalus*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevicephalus*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevicephalus*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

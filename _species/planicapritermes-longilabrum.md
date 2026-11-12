@@ -38,9 +38,13 @@ ES — **长唇平扭白蚁** (*Planicapritermes longilabrum*) es una especie de
 
 EN — *Planicapritermes*: From Latin planus (flat) + caper (goat) + termes.
 
+ES — *Planicapritermes*: Del latín planus (plano) + caper (cabra) + termes.
+
 种加词 *longilabrum*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longilabrum*: From the descriptive term 'long' (long)
+
+ES — epithet *longilabrum*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

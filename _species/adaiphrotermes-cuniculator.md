@@ -38,9 +38,13 @@ ES — **灵动和白蚁** (*Adaiphrotermes cuniculator*) es una especie, y la e
 
 EN — *Adaiphrotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Adaiphrotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cuniculator*：拉丁文 cuniculator（掘穴者、矿工）
 
 EN — epithet *cuniculator*: Latin cuniculator (tunneller)
+
+ES — epithet *cuniculator*: Del latín cuniculator (excavador de galerías)
 
 <!-- src:S0018 -->
 

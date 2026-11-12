@@ -38,9 +38,13 @@ ES — **缅甸须白蚁** (*Hospitalitermes birmanicus*) es una especie del gé
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *birmanicus*：以地名 缅甸（Burma）命名
 
 EN — epithet *birmanicus*: Named after Burma
+
+ES — epithet *birmanicus*: Por Birmania
 
 <!-- src:S0018 -->
 

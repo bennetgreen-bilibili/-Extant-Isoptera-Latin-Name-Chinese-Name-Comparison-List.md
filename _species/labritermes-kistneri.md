@@ -38,9 +38,13 @@ ES — **基斯特纳唇白蚁** (*Labritermes kistneri*) es una especie del gé
 
 EN — *Labritermes*: From Latin labrum (upper lip) + termes.
 
+ES — *Labritermes*: Del latín labrum (labio superior) + termes.
+
 种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
 
 EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+ES — epithet *kistneri*: En honor del entomólogo D. H. Kistner
 
 <!-- src:S0018 -->
 

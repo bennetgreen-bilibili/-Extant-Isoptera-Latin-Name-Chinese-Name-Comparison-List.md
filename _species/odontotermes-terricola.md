@@ -38,9 +38,13 @@ ES — **地栖土白蚁** (*Odontotermes terricola*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *terricola*：拉丁文 terra（土）+ -cola（栖居者），栖于土中
 
 EN — epithet *terricola*: Latin terra (earth) + -cola (dweller): earth-dwelling
+
+ES — epithet *terricola*: Latín terra (tierra) + -cola (habitante): que habita en la tierra
 
 <!-- src:S0018 -->
 

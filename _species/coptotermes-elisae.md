@@ -37,9 +37,13 @@ ES — **瑞明乳白蚁** (*Coptotermes elisae*) es una especie del género *Co
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *elisae*：以人名 Elisa/Elise 命名
 
 EN — epithet *elisae*: Named after Elisa
+
+ES — epithet *elisae*: En honor de Elisa
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **山打根象白蚁** (*Nasutitermes sandakensis*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *sandakensis*：以地名 山打根（马来西亚） 命名
 
 EN — epithet *sandakensis*: Named after the locality Sandak
+
+ES — epithet *sandakensis*: Por la localidad de Sandak
 
 <!-- src:S0018 -->
 

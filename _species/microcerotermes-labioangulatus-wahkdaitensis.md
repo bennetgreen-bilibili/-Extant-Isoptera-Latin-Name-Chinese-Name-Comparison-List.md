@@ -39,9 +39,13 @@ ES — **瓦克代特亚种** (*Microcerotermes labioangulatus wahkdaitensis*) e
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *wahkdaitensis*：以地名 Wahkdait（瓦克代特，印度）命名
 
 EN — epithet *wahkdaitensis*: Named after Wahkdait (India)
+
+ES — epithet *wahkdaitensis*: Por Wahkdait (India)
 
 <!-- src:S0018 -->
 

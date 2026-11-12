@@ -38,9 +38,13 @@ ES — **倾鼻象白蚁** (*Nasutitermes inclinasus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *inclinasus*：拉丁文 inclinatus（倾斜的）的变体
 
 EN — epithet *inclinasus*: Latin inclinatus (inclined)
+
+ES — epithet *inclinasus*: Del latín inclinatus (inclinado)
 
 <!-- src:S0018 -->
 

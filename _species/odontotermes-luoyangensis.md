@@ -38,9 +38,13 @@ ES — **洛阳土白蚁** (*Odontotermes luoyangensis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *luoyangensis*：以地名 洛阳（河南） 命名
 
 EN — epithet *luoyangensis*: Named after the locality Luoyang
+
+ES — epithet *luoyangensis*: Por la localidad de Luoyang
 
 <!-- src:S0018 -->
 

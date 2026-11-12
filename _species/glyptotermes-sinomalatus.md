@@ -35,9 +35,13 @@ ES — **弯翅树白蚁** (*Glyptotermes sinomalatus*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *sinomalatus*：拉丁文/希腊文 sinomal（中国）+ atus（具），指中国具
 
 EN — epithet *sinomalatus*: From sinomal (中国) + atus (具)
+
+ES — epithet *sinomalatus*: De sinomal (China) + atus (que posee)
 
 <!-- src:S0018 -->
 

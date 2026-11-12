@@ -38,9 +38,13 @@ ES — **柯比阿特拉斯白蚁** (*Atlantitermes kirbyi*) es una especie del 
 
 EN — *Atlantitermes*: From the Atlantic + termes.
 
+ES — *Atlantitermes*: Del Atlántico + termes.
+
 种加词 *kirbyi*：以人名 Kirby 命名（英国昆虫学家 W. F. Kirby）
 
 EN — epithet *kirbyi*: Named after the entomologist W. F. Kirby
+
+ES — epithet *kirbyi*: En honor del entomólogo W. F. Kirby
 
 <!-- src:S0018 -->
 

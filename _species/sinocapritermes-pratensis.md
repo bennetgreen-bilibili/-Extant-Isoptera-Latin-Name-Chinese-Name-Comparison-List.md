@@ -38,9 +38,13 @@ ES — **草地华扭白蚁** (*Sinocapritermes pratensis*) es una especie del g
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *pratensis*：拉丁文 pratensis（草地的，pratum=草地）
 
 EN — epithet *pratensis*: Latin pratensis (of meadows, pratum = meadow)
+
+ES — epithet *pratensis*: Del latín pratensis (de los prados, pratum = prado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **斜角肌鳞白蚁** (*Lepidotermes scalenus*) es una especie del géne
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *scalenus*：希腊文 skalēnos（不等的、斜的）
 
 EN — epithet *scalenus*: Greek skalēnos (uneven, scalene)
+
+ES — epithet *scalenus*: Del griego skalēnos (desigual, escaleno)
 
 <!-- src:S0018 -->
 

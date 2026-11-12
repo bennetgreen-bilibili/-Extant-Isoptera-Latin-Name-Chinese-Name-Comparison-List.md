@@ -38,9 +38,13 @@ ES — **胖头象白蚁** (*Nasutitermes bulbus*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *bulbus*：拉丁文 bulbus（球茎）
 
 EN — epithet *bulbus*: Latin bulbus (bulb)
+
+ES — epithet *bulbus*: Del latín bulbus (bulbo)
 
 <!-- src:S0018 -->
 

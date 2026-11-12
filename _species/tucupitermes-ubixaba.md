@@ -38,9 +38,13 @@ ES — **乌比沙巴黄汁白蚁** (*Tucupitermes ubixaba*) es la única especi
 
 EN — *Tucupitermes*: From the place name Tucupi; -termes from Latin termes.
 
+ES — *Tucupitermes*: Del topónimo Tucupi; -termes, del latín termes.
+
 种加词 *ubixaba*：种加词 ubixaba 为图皮语土名，意为「首领、酋长」（chefe）。
 
 EN — epithet *ubixaba*: From the Tupi word ubixaba 'chief, leader'.
+
+ES — epithet *ubixaba*: De la palabra tupí ubixaba «jefe, líder».
 
 <!-- src:S0018 -->
 

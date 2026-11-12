@@ -38,9 +38,13 @@ ES — **接受蛇白蚁** (*Ophiotermes receptus*) es una especie del género *
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
+ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
+
 种加词 *receptus*：拉丁文 receptus（被接受的）
 
 EN — epithet *receptus*: Latin receptus (received)
+
+ES — epithet *receptus*: Del latín receptus (recibido)
 
 <!-- src:S0018 -->
 

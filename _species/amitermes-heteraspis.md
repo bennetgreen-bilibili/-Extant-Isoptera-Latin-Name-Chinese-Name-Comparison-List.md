@@ -38,9 +38,13 @@ ES — **火罐弓白蚁** (*Amitermes heteraspis*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *heteraspis*：拉丁文/希腊文词根「heter」（异）
 
 EN — epithet *heteraspis*: From the descriptive term 'heter' (different)
+
+ES — epithet *heteraspis*: Del término descriptivo «heter» (distinto)
 
 <!-- src:S0018 -->
 

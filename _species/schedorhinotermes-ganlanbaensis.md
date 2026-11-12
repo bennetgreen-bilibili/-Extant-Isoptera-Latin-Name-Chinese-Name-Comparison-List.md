@@ -35,9 +35,13 @@ ES — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) es una espe
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *ganlanbaensis*：以地名 橄榄坝（云南） 命名
 
 EN — epithet *ganlanbaensis*: Named after the locality Ganlanba
+
+ES — epithet *ganlanbaensis*: Por la localidad de Ganlanba
 
 <!-- src:S0018 -->
 

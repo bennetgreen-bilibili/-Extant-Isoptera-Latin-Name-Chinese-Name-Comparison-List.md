@@ -38,9 +38,13 @@ ES — **埃默森尖白蚁** (*Apicotermes emersoni*) es una especie del géner
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

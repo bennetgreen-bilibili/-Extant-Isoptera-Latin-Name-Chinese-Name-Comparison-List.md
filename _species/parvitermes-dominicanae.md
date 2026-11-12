@@ -38,9 +38,13 @@ ES — **多米尼加微白蚁** (*Parvitermes dominicanae*) es una especie del 
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *dominicanae*：以多米尼加（Dominica）命名
 
 EN — epithet *dominicanae*: Named after Dominica
+
+ES — epithet *dominicanae*: Por Dominica
 
 <!-- src:S0018 -->
 

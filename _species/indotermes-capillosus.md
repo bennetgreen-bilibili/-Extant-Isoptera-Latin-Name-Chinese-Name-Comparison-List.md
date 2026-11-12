@@ -38,9 +38,13 @@ ES — **多毛印白蚁** (*Indotermes capillosus*) es una especie del género 
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *capillosus*：拉丁文/希腊文 capill（毛细）+ osus（多、充满），指毛细多、充满
 
 EN — epithet *capillosus*: From capill (毛细) + osus (多、充满)
+
+ES — epithet *capillosus*: De capill (cabello) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

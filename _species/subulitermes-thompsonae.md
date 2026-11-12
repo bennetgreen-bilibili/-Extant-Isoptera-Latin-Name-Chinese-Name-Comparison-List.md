@@ -38,9 +38,13 @@ ES — **汤普森锥白蚁** (*Subulitermes thompsonae*) es una especie del gé
 
 EN — *Subulitermes*: From Latin subula (awl) + termes.
 
+ES — *Subulitermes*: Del latín subula (lezna) + termes.
+
 种加词 *thompsonae*：以人名 Thompson（具体身份待考） 命名
 
 EN — epithet *thompsonae*: Named after Thompson
+
+ES — epithet *thompsonae*: En honor de Thompson (identidad no confirmada)
 
 <!-- src:S0018 -->
 

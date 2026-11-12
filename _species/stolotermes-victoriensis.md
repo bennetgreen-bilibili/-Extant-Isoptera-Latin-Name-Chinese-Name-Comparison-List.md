@@ -35,9 +35,13 @@ ES — **维多利亚胄白蚁** (*Stolotermes victoriensis*) es una especie del
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *victoriensis*：以维多利亚（Victoria，澳大利亚）命名
 
 EN — epithet *victoriensis*: Named after Victoria (Australia)
+
+ES — epithet *victoriensis*: Por Victoria (Australia)
 
 <!-- src:S0018 -->
 

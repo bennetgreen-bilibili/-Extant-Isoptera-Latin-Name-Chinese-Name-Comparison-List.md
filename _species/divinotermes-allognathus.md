@@ -38,9 +38,13 @@ ES — **异颚迪维努白蚁** (*Divinotermes allognathus*) es una especie, y 
 
 EN — *Divinotermes*: Etymology uncertain (perhaps Latin divinus 'divine' or a personal name); -termes from Latin termes.
 
+ES — *Divinotermes*: Etimología incierta (quizá el latín divinus «divino» o un nombre personal); -termes, del latín termes.
+
 种加词 *allognathus*：拉丁文/希腊文 allo（异）+ gnathus（颚），指异颚
 
 EN — epithet *allognathus*: From allo (异) + gnathus (颚)
+
+ES — epithet *allognathus*: De allo (distinto) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

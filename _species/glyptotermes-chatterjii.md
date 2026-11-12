@@ -35,9 +35,13 @@ ES — **查特杰树白蚁** (*Glyptotermes chatterjii*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *chatterjii*：以 P.N. Chatterjee（印度白蚁学家）命名
 
 EN — epithet *chatterjii*: Named after P.N. Chatterjee
+
+ES — epithet *chatterjii*: En honor de P.N. Chatterjee
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **异距新白蚁** (*Neotermes dubiocalcaratus*) es una especie del gén
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *dubiocalcaratus*：拉丁文/希腊文 dubiocalcar（可疑）+ atus（具），指可疑具
 
 EN — epithet *dubiocalcaratus*: From dubiocalcar (可疑) + atus (具)
+
+ES — epithet *dubiocalcaratus*: De dubiocalcar (de espolón dudoso) + atus (provisto de)
 
 <!-- src:S0018 -->
 

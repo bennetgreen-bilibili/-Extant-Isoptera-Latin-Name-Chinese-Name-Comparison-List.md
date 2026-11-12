@@ -38,9 +38,13 @@ ES — **马丁前扭白蚁** (*Procapritermes martyni*) es una especie del gén
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *martyni*：以人名 Martyn（马丁）命名（疑为昆虫学家 E. B. Martyn）
 
 EN — epithet *martyni*: Named after Martyn (likely entomologist E. B. Martyn)
+
+ES — epithet *martyni*: En honor de Martyn (probablemente el entomólogo E. B. Martyn)
 
 <!-- src:S0018 -->
 

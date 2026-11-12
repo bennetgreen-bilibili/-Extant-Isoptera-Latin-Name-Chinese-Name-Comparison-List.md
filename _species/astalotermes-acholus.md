@@ -38,9 +38,13 @@ ES — **阿彻鲁斯无利器白蚁** (*Astalotermes acholus*) es una especie d
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *acholus*：希腊文 a-（无）+ cholē（胆汁），淡色的
 
 EN — epithet *acholus*: Greek a- (without) + cholē (bile), pale
+
+ES — epithet *acholus*: Del griego a- (sin) + cholē (bilis), pálido
 
 <!-- src:S0018 -->
 

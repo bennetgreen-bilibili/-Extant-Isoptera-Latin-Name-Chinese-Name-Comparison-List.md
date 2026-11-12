@@ -40,9 +40,13 @@ ES — **单色小白蚁** (*Microtermes unicolor*) es una especie del género *
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *unicolor*：拉丁文 unus（一）+ color（色），单色
 
 EN — epithet *unicolor*: Latin unus (one) + color (colour), one-coloured
+
+ES — epithet *unicolor*: Del latín unus (uno) + color (color), de un solo color
 
 <!-- src:S0018 -->
 

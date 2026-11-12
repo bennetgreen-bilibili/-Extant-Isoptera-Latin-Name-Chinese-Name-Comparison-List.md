@@ -35,9 +35,13 @@ ES — **不同木白蚁** (*Kalotermes dispar*) es una especie del género *Kal
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *dispar*：拉丁文/希腊文词根「dispar」（异）
 
 EN — epithet *dispar*: From the descriptive term 'dispar' (unequal)
+
+ES — epithet *dispar*: Del término descriptivo «dispar» (desigual)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **大须白蚁** (*Hospitalitermes majusculus*) es una especie del géner
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *majusculus*：拉丁文 majusculus（略大的）
 
 EN — epithet *majusculus*: Latin majusculus (somewhat larger)
+
+ES — epithet *majusculus*: Del latín majusculus (algo mayor)
 
 <!-- src:S0018 -->
 

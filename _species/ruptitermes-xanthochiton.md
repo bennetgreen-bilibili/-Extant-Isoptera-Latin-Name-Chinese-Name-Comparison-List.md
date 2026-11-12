@@ -38,9 +38,13 @@ ES — **黄袍腹爆白蚁** (*Ruptitermes xanthochiton*) es una especie, y la 
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *xanthochiton*：希腊文 xanthos（黄）+ chitōn（壳、几丁质），黄壳
 
 EN — epithet *xanthochiton*: Greek xanthos (yellow) + chitōn (shell), yellow-shelled
+
+ES — epithet *xanthochiton*: Del griego xanthos (amarillo) + chitōn (concha), de concha amarilla
 
 <!-- src:S0018 -->
 

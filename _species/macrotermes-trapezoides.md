@@ -38,9 +38,13 @@ ES — **梯头大白蚁** (*Macrotermes trapezoides*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *trapezoides*：希腊文 trapezion（梯形）+ -oides（似），梯形似
 
 EN — epithet *trapezoides*: Greek trapezion (trapezium) + -oides (like), trapezoid
+
+ES — epithet *trapezoides*: Del griego trapezion (trapecio) + -oides (semejante), trapezoide
 
 <!-- src:S0018 -->
 

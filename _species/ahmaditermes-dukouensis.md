@@ -38,9 +38,13 @@ ES — **渡口钝颚白蚁** (*Ahmaditermes dukouensis*) es una especie del gé
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *dukouensis*：以地名 渡口（四川） 命名
 
 EN — epithet *dukouensis*: Named after the locality Dukou
+
+ES — epithet *dukouensis*: Por la localidad de Dukou
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **可爱瘤突白蚁** (*Ekphysotermes percomis*) es una especie del gén
 
 EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ekphysotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *percomis*：拉丁文 per-（非常）+ comis（亲切），极亲切
 
 EN — epithet *percomis*: Latin per- (very) + comis (courteous), very courteous
+
+ES — epithet *percomis*: Del latín per- (muy) + comis (cortés), muy cortés
 
 <!-- src:S0018 -->
 

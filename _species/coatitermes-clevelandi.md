@@ -38,9 +38,13 @@ ES — **克利夫兰凸鼻白蚁** (*Coatitermes clevelandi*) es una especie, y
 
 EN — *Coatitermes*: From Tupi Coati (coati) + termes.
 
+ES — *Coatitermes*: Del tupí Coati (coatí) + termes.
+
 种加词 *clevelandi*：以人名 cleveland 命名（原生动物学家 L. R. Cleveland）
 
 EN — epithet *clevelandi*: Named after 原生动物学家 L. R. Cleveland
+
+ES — epithet *clevelandi*: En honor del protozoólogo L. R. Cleveland
 
 <!-- src:S0018 -->
 

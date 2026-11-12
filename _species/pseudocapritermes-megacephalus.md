@@ -38,9 +38,13 @@ ES — **大头伪扭白蚁** (*Pseudocapritermes megacephalus*) es una especie 
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *megacephalus*：拉丁文/希腊文词根「meg」（大）
 
 EN — epithet *megacephalus*: From the descriptive term 'meg' (large)
+
+ES — epithet *megacephalus*: Del término descriptivo «meg» (grande)
 
 <!-- src:S0018 -->
 

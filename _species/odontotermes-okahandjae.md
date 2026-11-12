@@ -38,9 +38,13 @@ ES — **奥卡汉贾土白蚁** (*Odontotermes okahandjae*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *okahandjae*：以纳米比亚奥卡汉贾（Okahandja）命名
 
 EN — epithet *okahandjae*: Named after Okahandja, Namibia
+
+ES — epithet *okahandjae*: Por Okahandja, Namibia
 
 <!-- src:S0018 -->
 

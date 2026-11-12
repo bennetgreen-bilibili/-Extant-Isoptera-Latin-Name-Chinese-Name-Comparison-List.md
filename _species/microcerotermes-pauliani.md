@@ -38,9 +38,13 @@ ES — **波利昂锯白蚁** (*Microcerotermes pauliani*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *pauliani*：以人名 Paulian（波利昂）命名（法国昆虫学家 Renaud Paulian）
 
 EN — epithet *pauliani*: Named after Paulian (French entomologist Renaud Paulian)
+
+ES — epithet *pauliani*: En honor de Paulian (entomólogo francés Renaud Paulian)
 
 <!-- src:S0018 -->
 

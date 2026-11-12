@@ -35,9 +35,13 @@ ES — **尼日利亚新白蚁** (*Neotermes nigeriensis*) es una especie del g�
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *nigeriensis*：以地名 尼日利亚 命名
 
 EN — epithet *nigeriensis*: Named after the locality Niger
+
+ES — epithet *nigeriensis*: Por la localidad del Níger
 
 <!-- src:S0018 -->
 

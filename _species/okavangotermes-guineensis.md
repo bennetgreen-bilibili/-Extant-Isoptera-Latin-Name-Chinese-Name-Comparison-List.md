@@ -38,9 +38,13 @@ ES — **几内亚奥卡万戈白蚁** (*Okavangotermes guineensis*) es una espe
 
 EN — *Okavangotermes*: From the place name Okavango; -termes from Latin termes.
 
+ES — *Okavangotermes*: Del topónimo Okavango; -termes, del latín termes.
+
 种加词 *guineensis*：地名：几内亚
 
 EN — epithet *guineensis*: After Guinea
+
+ES — epithet *guineensis*: Por Guinea
 
 <!-- src:S0018 -->
 

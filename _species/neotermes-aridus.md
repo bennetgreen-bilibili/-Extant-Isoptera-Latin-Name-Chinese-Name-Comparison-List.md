@@ -35,9 +35,13 @@ ES — **干新白蚁** (*Neotermes aridus*) es una especie del género *Neoterm
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *aridus*：拉丁文 aridus（干旱的）
 
 EN — epithet *aridus*: Latin aridus (arid, dry)
+
+ES — epithet *aridus*: Del latín aridus (árido, seco)
 
 <!-- src:S0018 -->
 

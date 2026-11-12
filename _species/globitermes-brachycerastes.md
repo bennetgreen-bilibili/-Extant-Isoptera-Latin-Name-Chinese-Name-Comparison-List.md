@@ -38,9 +38,13 @@ ES — **短角球白蚁** (*Globitermes brachycerastes*) es una especie del gé
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *brachycerastes*：希腊文 brachys（短）+ keras（角），短角
 
 EN — epithet *brachycerastes*: Greek brachys (short) + keras (horn), short-horned
+
+ES — epithet *brachycerastes*: Del griego brachys (corto) + keras (cuerno), de cuernos cortos
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **管形颚钩白蚁** (*Gnathamitermes tubiformans*) es una especie del 
 
 EN — *Gnathamitermes*: Contains Greek gnathos (jaw) + Latin termes; further derivation uncertain.
 
+ES — *Gnathamitermes*: Contiene el griego gnathos (mandíbula) + latín termes; la derivación ulterior es incierta.
+
 种加词 *tubiformans*：拉丁文 tubus（管）+ formans（形成），成管
 
 EN — epithet *tubiformans*: Latin tubus (tube) + formans (forming), tube-forming
+
+ES — epithet *tubiformans*: Del latín tubus (tubo) + formans (que forma), que forma tubos
 
 <!-- src:S0018 -->
 

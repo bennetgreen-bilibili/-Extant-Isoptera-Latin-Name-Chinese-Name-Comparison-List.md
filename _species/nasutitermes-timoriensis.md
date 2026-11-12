@@ -38,9 +38,13 @@ ES — **帝汶象白蚁** (*Nasutitermes timoriensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *timoriensis*：以地名 帝汶 命名
 
 EN — epithet *timoriensis*: Named after the locality Timor
+
+ES — epithet *timoriensis*: Por la localidad de Timor
 
 <!-- src:S0018 -->
 

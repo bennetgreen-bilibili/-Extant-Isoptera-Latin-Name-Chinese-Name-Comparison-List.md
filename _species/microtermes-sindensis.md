@@ -38,9 +38,13 @@ ES — **信德小白蚁** (*Microtermes sindensis*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *sindensis*：以地名 Sind（信德，巴基斯坦）命名
 
 EN — epithet *sindensis*: Named after Sind (Pakistan)
+
+ES — epithet *sindensis*: Por Sind (Pakistán)
 
 <!-- src:S0018 -->
 

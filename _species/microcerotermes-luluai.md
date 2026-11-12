@@ -38,9 +38,13 @@ ES — **卢路亚锯白蚁** (*Microcerotermes luluai*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *luluai*：以托克皮辛语（Tok Pisin）luluai「村长、部落首领」命名
 
 EN — epithet *luluai*: From Tok Pisin luluai ('village or tribal chief')
+
+ES — epithet *luluai*: Del tok pisin luluai («jefe de aldea o de tribu»)
 
 <!-- src:S0018 -->
 

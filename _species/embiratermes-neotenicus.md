@@ -40,9 +40,13 @@ ES — **幼态生白蚁** (*Embiratermes neotenicus*) es una especie del géner
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *neotenicus*：源自 neoteny（幼态持续），希腊文 neos（幼）＋teinein（延续），指保持幼态
 
 EN — epithet *neotenicus*: From neoteny: Greek neos (young) + teinein (to extend); retaining juvenile traits
+
+ES — epithet *neotenicus*: De neotenia: griego neos (joven) + teinein (extender); retención de rasgos juveniles
 
 <!-- src:S0018 -->
 

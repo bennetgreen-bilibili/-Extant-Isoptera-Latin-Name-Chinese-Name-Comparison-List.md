@@ -35,9 +35,13 @@ ES — **细长异白蚁** (*Heterotermes tenuior*) es una especie del género *
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *tenuior*：拉丁文/希腊文词根「tenu」（细）
 
 EN — epithet *tenuior*: From the descriptive term 'tenu' (slender)
+
+ES — epithet *tenuior*: Del término descriptivo «tenu» (esbelto)
 
 <!-- src:S0018 -->
 

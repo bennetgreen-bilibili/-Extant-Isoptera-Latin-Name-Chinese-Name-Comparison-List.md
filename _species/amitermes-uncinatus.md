@@ -38,9 +38,13 @@ ES — **钩刺弓白蚁** (*Amitermes uncinatus*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *uncinatus*：拉丁文/希腊文 uncin（钩）+ atus（具），指钩具
 
 EN — epithet *uncinatus*: From uncin (钩) + atus (具)
+
+ES — epithet *uncinatus*: De uncin (gancho) + atus (que posee)
 
 <!-- src:S0018 -->
 

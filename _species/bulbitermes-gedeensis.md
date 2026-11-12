@@ -38,9 +38,13 @@ ES — **格德瓢白蚁** (*Bulbitermes gedeensis*) es una especie del género 
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *gedeensis*：以地名 Gede（印度尼西亚格德火山）命名
 
 EN — epithet *gedeensis*: Named after Mount Gede (Indonesia)
+
+ES — epithet *gedeensis*: Por el monte Gede (Indonesia)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **关门散白蚁** (*Reticulitermes kanmonensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *kanmonensis*：以地名 Kanmon（日本关门海峡）命名
 
 EN — epithet *kanmonensis*: Named after the Kanmon Strait (Japan)
+
+ES — epithet *kanmonensis*: Por el estrecho de Kanmon (Japón)
 
 <!-- src:S0018 -->
 

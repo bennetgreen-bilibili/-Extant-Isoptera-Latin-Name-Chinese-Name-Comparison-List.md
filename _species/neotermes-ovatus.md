@@ -35,9 +35,13 @@ ES — **卵形新白蚁** (*Neotermes ovatus*) es una especie del género *Neot
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *ovatus*：拉丁文 ovatus（卵形）
 
 EN — epithet *ovatus*: Latin ovatus (oval)
+
+ES — epithet *ovatus*: Del latín ovatus (ovalado)
 
 <!-- src:S0018 -->
 

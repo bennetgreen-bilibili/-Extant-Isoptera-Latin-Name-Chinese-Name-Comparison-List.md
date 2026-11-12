@@ -40,9 +40,13 @@ ES — **锡兰宽白蚁** (*Eurytermes ceylonicus*) es una especie del género 
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
+ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
+
 种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
 
 EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+ES — epithet *ceylonicus*: Por Ceilán (Sri Lanka)
 
 <!-- src:S0018 -->
 

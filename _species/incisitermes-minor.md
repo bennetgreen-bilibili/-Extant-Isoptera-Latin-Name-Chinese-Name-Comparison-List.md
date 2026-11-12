@@ -37,9 +37,13 @@ ES — **小楹白蚁** (*Incisitermes minor*) es una especie del género *Incis
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *minor*：拉丁文 minor（较小）
 
 EN — epithet *minor*: Latin minor (smaller)
+
+ES — epithet *minor*: Del latín minor (menor)
 
 <!-- src:S0018 -->
 

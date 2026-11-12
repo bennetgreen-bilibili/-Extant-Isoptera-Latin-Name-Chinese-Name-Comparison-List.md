@@ -38,9 +38,13 @@ ES — **吻长仿白蚁** (*Mimeutermes sorex*) es una especie del género *Mim
 
 EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Mimeutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *sorex*：拉丁文 sorex（鼩鼱）
 
 EN — epithet *sorex*: Latin sorex (shrew)
+
+ES — epithet *sorex*: Del latín sorex (musaraña)
 
 <!-- src:S0018 -->
 

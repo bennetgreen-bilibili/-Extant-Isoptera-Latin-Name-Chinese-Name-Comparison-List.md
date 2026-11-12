@@ -40,9 +40,13 @@ ES — **细唇厚唇白蚁** (*Labiotermes labralis*) es una especie, y la espe
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *labralis*：拉丁文 labralis（唇的、唇基的）
 
 EN — epithet *labralis*: Latin labralis (of the labrum)
+
+ES — epithet *labralis*: Del latín labralis (del labro)
 
 <!-- src:S0018 -->
 

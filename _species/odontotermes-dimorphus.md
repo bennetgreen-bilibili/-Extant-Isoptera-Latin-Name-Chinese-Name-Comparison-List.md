@@ -38,9 +38,13 @@ ES — **双工土白蚁** (*Odontotermes dimorphus*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
 
 EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+ES — epithet *dimorphus*: Del griego di- (dos) + morphē (forma), dimorfo
 
 <!-- src:S0018 -->
 

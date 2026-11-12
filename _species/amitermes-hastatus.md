@@ -40,9 +40,13 @@ ES — **长矛弓白蚁** (*Amitermes hastatus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hastatus*：拉丁文 hastatus（戟形的、具矛的）
 
 EN — epithet *hastatus*: Latin hastatus (spear-shaped)
+
+ES — epithet *hastatus*: Del latín hastatus (en forma de lanza)
 
 <!-- src:S0018 -->
 

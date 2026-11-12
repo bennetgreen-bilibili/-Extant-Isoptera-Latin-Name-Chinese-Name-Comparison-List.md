@@ -35,9 +35,13 @@ ES — **洪苏尔前砂白蚁** (*Procryptotermes hunsurensis*) es una especie 
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *hunsurensis*：以地名 Hunsur（印度卡纳塔克邦）命名
 
 EN — epithet *hunsurensis*: Named after Hunsur (Karnataka, India)
+
+ES — epithet *hunsurensis*: Por Hunsur (Karnataka, India)
 
 <!-- src:S0018 -->
 

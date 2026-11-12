@@ -38,9 +38,13 @@ ES — **皮奥伊喙白蚁** (*Rhynchotermes piauy*) es una especie del género
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *piauy*：地名：皮奥伊（巴西州）
 
 EN — epithet *piauy*: After Piauí (Brazil)
+
+ES — epithet *piauy*: Por Piauí (Brasil)
 
 <!-- src:S0018 -->
 

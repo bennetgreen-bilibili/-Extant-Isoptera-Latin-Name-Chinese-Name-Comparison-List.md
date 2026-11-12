@@ -38,9 +38,13 @@ ES — **泰勒锯白蚁** (*Microcerotermes taylori*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *taylori*：以人名 Taylor（具体身份待考） 命名
 
 EN — epithet *taylori*: Named after Taylor
+
+ES — epithet *taylori*: En honor de Taylor
 
 <!-- src:S0018 -->
 

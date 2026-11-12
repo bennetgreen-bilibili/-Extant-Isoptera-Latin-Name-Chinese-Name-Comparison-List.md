@@ -35,9 +35,13 @@ ES — **毛唇散白蚁** (*Reticulitermes tricholabralis*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *tricholabralis*：希腊文 thrix（毛）+ 拉丁文 labrum（唇），毛唇
 
 EN — epithet *tricholabralis*: Greek thrix (hair) + Latin labrum (lip), hairy-lipped
+
+ES — epithet *tricholabralis*: Del griego thrix (pelo) + latín labrum (labio), de labio peludo
 
 <!-- src:S0018 -->
 

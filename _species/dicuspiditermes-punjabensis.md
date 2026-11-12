@@ -38,9 +38,13 @@ ES — **旁遮普突扭白蚁** (*Dicuspiditermes punjabensis*) es una especie 
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *punjabensis*：以地名 旁遮普 命名
 
 EN — epithet *punjabensis*: Named after the locality Punjab
+
+ES — epithet *punjabensis*: Por la localidad del Punyab
 
 <!-- src:S0018 -->
 

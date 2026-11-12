@@ -38,9 +38,13 @@ ES — **卢纳弓白蚁** (*Amitermes lunae*) es una especie del género *Amite
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *lunae*：拉丁文 luna（月亮），或指地名 Luna
 
 EN — epithet *lunae*: From Latin luna (moon), or after a locality Luna
+
+ES — epithet *lunae*: Del latín luna (luna), o por la localidad de Luna
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **贝奎特楹白蚁** (*Incisitermes bequaerti*) es una especie del gén
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *bequaerti*：以人名 bequaert 命名（J. Bequaert（比利时昆虫学家））
 
 EN — epithet *bequaerti*: Named after J. Bequaert（比利时昆虫学家）
+
+ES — epithet *bequaerti*: En honor de J. Bequaert (entomólogo belga)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **乌干达等颚白蚁** (*Isognathotermes ugandensis*) es una especie d
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *ugandensis*：以地名 乌干达 命名
 
 EN — epithet *ugandensis*: Named after the locality Ugand
+
+ES — epithet *ugandensis*: Por la localidad de Ugand
 
 <!-- src:S0018 -->
 

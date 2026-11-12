@@ -35,9 +35,13 @@ ES — **巴特里彭树白蚁** (*Glyptotermes buttelreepeni*) es una especie d
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *buttelreepeni*：以人名 von Buttel-Reepen 命名（德国昆虫学家 H. von Buttel-Reepen）
 
 EN — epithet *buttelreepeni*: Named after the entomologist H. von Buttel-Reepen
+
+ES — epithet *buttelreepeni*: En honor del entomólogo H. von Buttel-Reepen
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **麦克格鲁象鼻白蚁** (*Proboscitermes mcgrewi*) es una especie de
 
 EN — *Proboscitermes*: From Greek proboskis (proboscis) + Latin termes.
 
+ES — *Proboscitermes*: Del griego proboskis (probóscide) + latín termes.
+
 种加词 *mcgrewi*：以人名 McGrew（麦格鲁）命名
 
 EN — epithet *mcgrewi*: Named after McGrew
+
+ES — epithet *mcgrewi*: En honor de McGrew
 
 <!-- src:S0018 -->
 

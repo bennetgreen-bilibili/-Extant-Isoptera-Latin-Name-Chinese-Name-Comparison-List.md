@@ -35,9 +35,13 @@ ES — **橙黄散白蚁** (*Reticulitermes aurantius*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *aurantius*：拉丁文/希腊文词根「aur」（金）
 
 EN — epithet *aurantius*: From the descriptive term 'aur' (gold)
+
+ES — epithet *aurantius*: Del término descriptivo «aur» (oro)
 
 <!-- src:S0018 -->
 

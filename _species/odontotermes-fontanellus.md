@@ -38,9 +38,13 @@ ES — **小囟土白蚁** (*Odontotermes fontanellus*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *fontanellus*：拉丁文 fontana（泉）+ -ellus（小），小泉
 
 EN — epithet *fontanellus*: Latin fontana (spring) + -ellus (small), little spring
+
+ES — epithet *fontanellus*: Del latín fontana (manantial) + -ellus (pequeño), manantial pequeño
 
 <!-- src:S0018 -->
 

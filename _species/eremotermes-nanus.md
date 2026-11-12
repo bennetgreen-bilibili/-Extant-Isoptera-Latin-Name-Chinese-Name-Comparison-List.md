@@ -38,9 +38,13 @@ ES — **侏儒漠白蚁** (*Eremotermes nanus*) es una especie del género *Ere
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *nanus*：希腊文 nanos（矮小）
 
 EN — epithet *nanus*: Greek nanos (dwarf)
+
+ES — epithet *nanus*: Del griego nanos (enano)
 
 <!-- src:S0018 -->
 

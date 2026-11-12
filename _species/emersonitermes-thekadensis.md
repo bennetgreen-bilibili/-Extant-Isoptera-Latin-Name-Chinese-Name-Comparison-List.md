@@ -38,9 +38,13 @@ ES — **卡迪埃默森白蚁** (*Emersonitermes thekadensis*) es la única esp
 
 EN — *Emersonitermes*: Named after the termite taxonomist A. E. Emerson; -termes from Latin termes.
 
+ES — *Emersonitermes*: En honor del taxónomo de termitas A. E. Emerson; -termes, del latín termes.
+
 种加词 *thekadensis*：以地名 Thekadi（印度）命名
 
 EN — epithet *thekadensis*: Named after Thekadi, India
+
+ES — epithet *thekadensis*: Por la localidad de Thekadi (India)
 
 <!-- src:S0018 -->
 

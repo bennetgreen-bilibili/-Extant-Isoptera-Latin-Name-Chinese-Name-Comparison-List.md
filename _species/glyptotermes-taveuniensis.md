@@ -35,9 +35,13 @@ ES — **塔韦乌尼树白蚁** (*Glyptotermes taveuniensis*) es una especie de
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *taveuniensis*：以地名 塔韦乌尼（斐济） 命名
 
 EN — epithet *taveuniensis*: Named after the locality Taveun
+
+ES — epithet *taveuniensis*: Por la localidad de Taveun
 
 <!-- src:S0018 -->
 

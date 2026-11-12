@@ -38,9 +38,13 @@ ES — **冠毛善白蚁** (*Amicotermes cristatus*) es una especie del género 
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cristatus*：拉丁文/希腊文 crist（冠）+ atus（具），指冠具
 
 EN — epithet *cristatus*: From crist (冠) + atus (具)
+
+ES — epithet *cristatus*: De crist (cresta) + atus (provisto de)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **狭颏散白蚁** (*Reticulitermes perangustus*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *perangustus*：拉丁文 per-（非常）+ angustus（窄），极窄
 
 EN — epithet *perangustus*: Latin per- (very) + angustus (narrow), very narrow
+
+ES — epithet *perangustus*: Del latín per- (muy) + angustus (estrecho), muy estrecho
 
 <!-- src:S0018 -->
 

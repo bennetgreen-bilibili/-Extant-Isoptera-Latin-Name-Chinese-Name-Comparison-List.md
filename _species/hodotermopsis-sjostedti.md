@@ -37,9 +37,13 @@ ES — **山林原白蚁** (*Hodotermopsis sjostedti*) es la única especie vivi
 
 EN — *Hodotermopsis*: From Greek hodos (path) + -termopsis.
 
+ES — *Hodotermopsis*: Del griego hodos (sendero) + -termopsis.
+
 种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
 
 EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 <!-- src:S0018 -->
 

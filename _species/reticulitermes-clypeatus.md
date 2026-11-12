@@ -35,9 +35,13 @@ ES — **大唇散白蚁** (*Reticulitermes clypeatus*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *clypeatus*：拉丁文 clypeatus（具盾的）
 
 EN — epithet *clypeatus*: Latin clypeatus (shielded)
+
+ES — epithet *clypeatus*: Del latín clypeatus (con escudo)
 
 <!-- src:S0018 -->
 

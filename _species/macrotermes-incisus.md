@@ -38,9 +38,13 @@ ES — **凹缘大白蚁** (*Macrotermes incisus*) es una especie del género *M
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
 
 EN — epithet *incisus*: Latin incisus (incised, notched)
+
+ES — epithet *incisus*: Del latín incisus (inciso, escotado)
 
 <!-- src:S0018 -->
 

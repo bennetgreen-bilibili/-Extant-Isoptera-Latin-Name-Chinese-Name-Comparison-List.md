@@ -35,9 +35,13 @@ ES — **帕玛塔塔异白蚁** (*Heterotermes pamatatensis*) es una especie de
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *pamatatensis*：以地名 Pamatata 命名
 
 EN — epithet *pamatatensis*: Named after the locality Pamatata
+
+ES — epithet *pamatatensis*: Por la localidad de Pamatata
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **梅多大白蚁** (*Macrotermes meidoensis*) es una especie del género
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *meidoensis*：以地名 Meido 命名
 
 EN — epithet *meidoensis*: Named after the locality Meido
+
+ES — epithet *meidoensis*: Por la localidad de Meido
 
 <!-- src:S0018 -->
 

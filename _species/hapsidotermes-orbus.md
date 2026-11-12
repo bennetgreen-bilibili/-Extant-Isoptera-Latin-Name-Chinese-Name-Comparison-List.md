@@ -38,9 +38,13 @@ ES — **孤儿络白蚁** (*Hapsidotermes orbus*) es una especie del género *H
 
 EN — *Hapsidotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Hapsidotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *orbus*：拉丁文 orbus（失去的、孤苦的）
 
 EN — epithet *orbus*: Latin orbus (bereft)
+
+ES — epithet *orbus*: Del latín orbus (privado de)
 
 <!-- src:S0018 -->
 

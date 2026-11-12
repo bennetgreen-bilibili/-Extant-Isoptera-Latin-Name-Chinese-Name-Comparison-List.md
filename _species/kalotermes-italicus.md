@@ -35,9 +35,13 @@ ES — **意大利木白蚁** (*Kalotermes italicus*) es una especie del género
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *italicus*：以地名 意大利 命名
 
 EN — epithet *italicus*: Named after the locality Ital
+
+ES — epithet *italicus*: Por la localidad de Ital
 
 <!-- src:S0018 -->
 

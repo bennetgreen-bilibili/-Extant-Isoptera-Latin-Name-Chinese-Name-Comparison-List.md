@@ -38,9 +38,13 @@ ES — **比勒陀利亚土白蚁** (*Odontotermes pretoriensis*) es una especie
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *pretoriensis*：以比勒陀利亚（Pretoria，南非）命名
 
 EN — epithet *pretoriensis*: Named after Pretoria (South Africa)
+
+ES — epithet *pretoriensis*: Por Pretoria (Sudáfrica)
 
 <!-- src:S0018 -->
 

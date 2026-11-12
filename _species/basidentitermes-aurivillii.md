@@ -38,9 +38,13 @@ ES — **奥里维尔基齿白蚁** (*Basidentitermes aurivillii*) es una especi
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *aurivillii*：以人名 aurivill 命名（C. Aurivillius（瑞典昆虫学家））
 
 EN — epithet *aurivillii*: Named after C. Aurivillius（瑞典昆虫学家）
+
+ES — epithet *aurivillii*: En honor de C. Aurivillius (entomólogo sueco)
 
 <!-- src:S0018 -->
 

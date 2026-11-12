@@ -38,9 +38,13 @@ ES — **宽颚大白蚁** (*Macrotermes latignathus*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *latignathus*：拉丁文 latus（宽）+ 希腊文 gnathos（颚），宽颚
 
 EN — epithet *latignathus*: Latin latus (broad) + Greek gnathos (jaw), broad-jawed
+
+ES — epithet *latignathus*: Del latín latus (ancho) + del griego gnathos (mandíbula), de mandíbulas anchas
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **大眼直颚白蚁** (*Orthognathotermes tubesauassu*) es una especie d
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *tubesauassu*：图皮语 -assu（大）
 
 EN — epithet *tubesauassu*: Tupi -assu (large)
+
+ES — epithet *tubesauassu*: Del tupí -assu (grande)
 
 <!-- src:S0018 -->
 

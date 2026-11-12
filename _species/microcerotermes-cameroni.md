@@ -38,9 +38,13 @@ ES — **卡梅伦锯白蚁** (*Microcerotermes cameroni*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *cameroni*：以人名 cameron 命名（P. Cameron（英国昆虫学家））
 
 EN — epithet *cameroni*: Named after P. Cameron（英国昆虫学家）
+
+ES — epithet *cameroni*: En honor de P. Cameron (entomólogo británico)
 
 <!-- src:S0018 -->
 

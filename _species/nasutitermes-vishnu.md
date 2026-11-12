@@ -38,9 +38,13 @@ ES — **维什鲁象白蚁** (*Nasutitermes vishnu*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *vishnu*：印度神毗湿奴
 
 EN — epithet *vishnu*: Vishnu, Hindu deity
+
+ES — epithet *vishnu*: Vishnu, deidad hindú
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **陡峭小真白蚁** (*Eutermellus abruptus*) es una especie del géner
 
 EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
 
+ES — *Eutermellus*: Del griego eu- (bien) + termes + diminutivo latino -ellus.
+
 种加词 *abruptus*：拉丁文 abruptus（突然的、陡断的）
 
 EN — epithet *abruptus*: Latin abruptus (abrupt)
+
+ES — epithet *abruptus*: Del latín abruptus (abrupto)
 
 <!-- src:S0018 -->
 

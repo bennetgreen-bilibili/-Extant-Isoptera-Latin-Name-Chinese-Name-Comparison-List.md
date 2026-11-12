@@ -38,9 +38,13 @@ ES — **尖额爪白蚁** (*Unguitermes acutifrons*) es una especie del género
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *acutifrons*：拉丁文/希腊文 acuti（尖）+ frons（额），指尖额
 
 EN — epithet *acutifrons*: From acuti (尖) + frons (额)
+
+ES — epithet *acutifrons*: De acuti (agudo) + frons (frente)
 
 <!-- src:S0018 -->
 

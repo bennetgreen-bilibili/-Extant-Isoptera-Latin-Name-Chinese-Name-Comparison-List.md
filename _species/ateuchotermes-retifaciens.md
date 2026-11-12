@@ -38,9 +38,13 @@ ES — **刚果无锐白蚁** (*Ateuchotermes retifaciens*) es una especie del g
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *retifaciens*：拉丁文 rete（网）+ faciens（制作），织网
 
 EN — epithet *retifaciens*: Latin rete (net) + faciens (making), net-making
+
+ES — epithet *retifaciens*: Del latín rete (red) + faciens (que hace), que hace redes
 
 <!-- src:S0018 -->
 

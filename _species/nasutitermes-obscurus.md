@@ -38,9 +38,13 @@ ES — **昏暗象白蚁** (*Nasutitermes obscurus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *obscurus*：拉丁文/希腊文词根「obscur」（暗）
 
 EN — epithet *obscurus*: From the descriptive term 'obscur' (obscure)
+
+ES — epithet *obscurus*: Del término descriptivo «obscur» (oscuro)
 
 <!-- src:S0018 -->
 

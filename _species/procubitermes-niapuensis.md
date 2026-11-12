@@ -38,9 +38,13 @@ ES — **尼亚普原方白蚁** (*Procubitermes niapuensis*) es una especie del
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *niapuensis*：以刚果尼亚普（Niapu）命名
 
 EN — epithet *niapuensis*: Named after Niapu, DR Congo
+
+ES — epithet *niapuensis*: Por Niapu, RD del Congo
 
 <!-- src:S0018 -->
 

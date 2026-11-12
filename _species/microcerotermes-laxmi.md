@@ -38,9 +38,13 @@ ES — **拉克西米锯白蚁** (*Microcerotermes laxmi*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *laxmi*：以人名 Laxmi（拉克希米，亦为印度女神 Lakshmi 名）命名
 
 EN — epithet *laxmi*: Named after Laxmi (also the goddess Lakshmi)
+
+ES — epithet *laxmi*: En honor de Laxmi (también la diosa Lakshmi)
 
 <!-- src:S0018 -->
 

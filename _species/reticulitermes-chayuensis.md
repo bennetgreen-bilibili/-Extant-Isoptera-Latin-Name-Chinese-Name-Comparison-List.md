@@ -35,9 +35,13 @@ ES — **察隅散白蚁** (*Reticulitermes chayuensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *chayuensis*：以地名 察隅（西藏） 命名
 
 EN — epithet *chayuensis*: Named after the locality Chayu
+
+ES — epithet *chayuensis*: Por la localidad de Chayu
 
 <!-- src:S0018 -->
 

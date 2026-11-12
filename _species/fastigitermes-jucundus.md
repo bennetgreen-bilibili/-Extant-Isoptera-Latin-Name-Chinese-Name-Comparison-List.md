@@ -38,9 +38,13 @@ ES — **可爱峰白蚁** (*Fastigitermes jucundus*) es la única especie vivie
 
 EN — *Fastigitermes*: From Latin fastigium (summit, ridge) + termes.
 
+ES — *Fastigitermes*: Del latín fastigium (cima, cresta) + termes.
+
 种加词 *jucundus*：拉丁文 jucundus（愉快的）
 
 EN — epithet *jucundus*: Latin jucundus (pleasant)
+
+ES — epithet *jucundus*: Del latín jucundus (agradable)
 
 <!-- src:S0018 -->
 

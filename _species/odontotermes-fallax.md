@@ -38,9 +38,13 @@ ES — **欺诈土白蚁** (*Odontotermes fallax*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *fallax*：拉丁文/希腊文词根「fallax」（欺骗）
 
 EN — epithet *fallax*: From the descriptive term 'fallax' (deceptive)
+
+ES — epithet *fallax*: Del término descriptivo «fallax» (engañoso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **钩状小脊突白蚁** (*Lophotermes aduncus*) es una especie del gén
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *aduncus*：拉丁文 aduncus（钩状弯曲）
 
 EN — epithet *aduncus*: Latin aduncus (hooked)
+
+ES — epithet *aduncus*: Del latín aduncus (encorvado)
 
 <!-- src:S0018 -->
 

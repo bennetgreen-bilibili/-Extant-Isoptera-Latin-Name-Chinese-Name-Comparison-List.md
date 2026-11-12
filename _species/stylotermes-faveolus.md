@@ -35,9 +35,13 @@ ES — **凹胸杆白蚁** (*Stylotermes faveolus*) es una especie del género *
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *faveolus*：拉丁文 faveolus（蜂窝状的）
 
 EN — epithet *faveolus*: Latin faveolus (honeycombed)
+
+ES — epithet *faveolus*: Del latín faveolus (con celdillas)
 
 <!-- src:S0018 -->
 

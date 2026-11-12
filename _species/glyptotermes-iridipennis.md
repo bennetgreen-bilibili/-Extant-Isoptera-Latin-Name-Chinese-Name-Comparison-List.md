@@ -35,9 +35,13 @@ ES — **虹翅树白蚁** (*Glyptotermes iridipennis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *iridipennis*：拉丁文/希腊文 iridi（虹彩）+ pennis（翅），指虹彩翅
 
 EN — epithet *iridipennis*: From iridi (虹彩) + pennis (翅)
+
+ES — epithet *iridipennis*: De iridi (iris) + pennis (ala)
 
 <!-- src:S0018 -->
 

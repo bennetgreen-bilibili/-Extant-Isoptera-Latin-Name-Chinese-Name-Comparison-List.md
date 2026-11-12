@@ -38,9 +38,13 @@ ES — **巴雷特脊突白蚁** (*Cristatitermes barretti*) es una especie del 
 
 EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
 
+ES — *Cristatitermes*: Del latín cristatus (crestado) + termes.
+
 种加词 *barretti*：以人名 Barrett 命名
 
 EN — epithet *barretti*: Named after Barrett
+
+ES — epithet *barretti*: En honor de Barrett
 
 <!-- src:S0018 -->
 

@@ -39,9 +39,13 @@ ES — **指名亚种** (*Odontotermes javanicus javanicus*) es una subespecie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *javanicus*：以地名 爪哇 命名
 
 EN — epithet *javanicus*: Named after the locality Javan
+
+ES — epithet *javanicus*: Por la localidad de Javan
 
 <!-- src:S0018 -->
 

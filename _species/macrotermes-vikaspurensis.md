@@ -38,9 +38,13 @@ ES — **维卡斯布尔大白蚁** (*Macrotermes vikaspurensis*) es una especie
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *vikaspurensis*：以地名 Vikaspur（印度） 命名
 
 EN — epithet *vikaspurensis*: Named after the locality Vikaspur (India)
+
+ES — epithet *vikaspurensis*: Por la localidad de Vikaspur (India)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **沟额原鼻白蚁** (*Prorhinotermes canalifrons*) es una especie del 
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *canalifrons*：拉丁文 canalis（沟、管）+ frons（额），沟额
 
 EN — epithet *canalifrons*: Latin canalis (groove) + frons (front), grooved-fronted
+
+ES — epithet *canalifrons*: Del latín canalis (surco) + frons (frente), de frente acanalada
 
 <!-- src:S0018 -->
 

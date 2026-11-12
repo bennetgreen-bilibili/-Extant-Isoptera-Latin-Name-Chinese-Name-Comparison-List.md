@@ -35,9 +35,13 @@ ES — **直颚树白蚁** (*Glyptotermes orthognathus*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *orthognathus*：希腊文 orthos（直）+ gnathos（颚），直颚
 
 EN — epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straight-jawed
+
+ES — epithet *orthognathus*: Del griego orthos (recto) + gnathos (mandíbula), de mandíbula recta
 
 <!-- src:S0018 -->
 

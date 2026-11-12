@@ -38,9 +38,13 @@ ES — **松果棱角白蚁** (*Angularitermes pinocchio*) es una especie del g�
 
 EN — *Angularitermes*: From Latin angularis (angular) + termes.
 
+ES — *Angularitermes*: Del latín angularis (angular) + termes.
+
 种加词 *pinocchio*：意大利童话人物 Pinocchio（匹诺曹，长鼻木偶）
 
 EN — epithet *pinocchio*: Pinocchio (the long-nosed puppet)
+
+ES — epithet *pinocchio*: Pinocchio (la marioneta de nariz larga)
 
 <!-- src:S0018 -->
 

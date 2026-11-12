@@ -38,9 +38,13 @@ ES — **直颚大白蚁** (*Macrotermes orthognathus*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *orthognathus*：希腊文 orthos（直）+ gnathos（颚），直颚
 
 EN — epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straight-jawed
+
+ES — epithet *orthognathus*: Del griego orthos (recto) + gnathos (mandíbula), de mandíbula recta
 
 <!-- src:S0018 -->
 

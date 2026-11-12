@@ -38,9 +38,13 @@ ES — **密实生白蚁** (*Embiratermes spissus*) es una especie del género *
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *spissus*：拉丁文 spissus（浓密的、稠密的）
 
 EN — epithet *spissus*: Latin spissus (dense)
+
+ES — epithet *spissus*: Del latín spissus (denso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **平鼻华象白蚁** (*Sinonasutitermes planinasus*) es una especie del
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *planinasus*：拉丁文 planus（平）+ nasus（鼻），平鼻
 
 EN — epithet *planinasus*: Latin planus (flat) + nasus (nose), flat-nosed
+
+ES — epithet *planinasus*: Del latín planus (plano) + nasus (nariz), de nariz plana
 
 <!-- src:S0018 -->
 

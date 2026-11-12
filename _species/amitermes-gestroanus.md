@@ -38,9 +38,13 @@ ES — **客栖弓白蚁** (*Amitermes gestroanus*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *gestroanus*：以人名 gestro 命名（R. Gestro（意大利昆虫学家））
 
 EN — epithet *gestroanus*: Named after R. Gestro（意大利昆虫学家）
+
+ES — epithet *gestroanus*: En honor de R. Gestro (entomólogo italiano)
 
 <!-- src:S0018 -->
 

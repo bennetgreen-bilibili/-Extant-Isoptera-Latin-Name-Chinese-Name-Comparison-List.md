@@ -38,9 +38,13 @@ ES — **怀疑歧白蚁** (*Diversitermes aporeticus*) es una especie del géne
 
 EN — *Diversitermes*: From Latin diversus (diverse) + termes.
 
+ES — *Diversitermes*: Del latín diversus (diverso) + termes.
+
 种加词 *aporeticus*：希腊文 aporetikos（存疑的、困惑的）
 
 EN — epithet *aporeticus*: Greek aporetikos (doubtful, perplexed)
+
+ES — epithet *aporeticus*: Del griego aporetikos (dudoso, perplejo)
 
 <!-- src:S0018 -->
 

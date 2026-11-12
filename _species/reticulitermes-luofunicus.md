@@ -35,9 +35,13 @@ ES — **罗浮散白蚁** (*Reticulitermes luofunicus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *luofunicus*：以广东罗浮山（Luofu）命名
 
 EN — epithet *luofunicus*: Named after Luofu Mountain (Luofu Shan, Guangdong, China)
+
+ES — epithet *luofunicus*: Por el monte Luofu (Luofu Shan, Guangdong, China)
 
 <!-- src:S0018 -->
 

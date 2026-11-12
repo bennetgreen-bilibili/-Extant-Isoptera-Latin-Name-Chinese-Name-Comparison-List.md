@@ -35,9 +35,13 @@ ES — **所罗门长鼻白蚁** (*Schedorhinotermes solomonensis*) es una espec
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *solomonensis*：以地名 所罗门 命名
 
 EN — epithet *solomonensis*: Named after the locality Solomon
+
+ES — epithet *solomonensis*: Por las islas Salomón
 
 <!-- src:S0018 -->
 

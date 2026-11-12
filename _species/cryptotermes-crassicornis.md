@@ -35,9 +35,13 @@ ES — **粗角堆砂白蚁** (*Cryptotermes crassicornis*) es una especie del g
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *crassicornis*：拉丁文/希腊文 crassi（粗厚）+ cornis（角），指粗厚角
 
 EN — epithet *crassicornis*: From crassi (粗厚) + cornis (角)
+
+ES — epithet *crassicornis*: De crassi (grueso) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

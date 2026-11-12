@@ -35,9 +35,13 @@ ES — **昆士兰胄白蚁** (*Stolotermes queenslandicus*) es una especie del 
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *queenslandicus*：以地名 昆士兰（澳大利亚） 命名
 
 EN — epithet *queenslandicus*: Named after the locality Queensland
+
+ES — epithet *queenslandicus*: Por la localidad de Queensland
 
 <!-- src:S0018 -->
 

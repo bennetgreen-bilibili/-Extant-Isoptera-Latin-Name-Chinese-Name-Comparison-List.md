@@ -38,9 +38,13 @@ ES — **粗鼻钝颚白蚁** (*Ahmaditermes crassinasus*) es una especie del g�
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *crassinasus*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassinasus*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassinasus*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

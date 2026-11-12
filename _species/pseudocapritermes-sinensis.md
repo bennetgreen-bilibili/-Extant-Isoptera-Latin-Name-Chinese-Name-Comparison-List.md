@@ -38,9 +38,13 @@ ES — **中华伪扭白蚁** (*Pseudocapritermes sinensis*) es una especie del 
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *sinensis*：拉丁文 Sinensis（中国的）
 
 EN — epithet *sinensis*: Latin Sinensis (of China)
+
+ES — epithet *sinensis*: Del latín Sinensis (de China)
 
 <!-- src:S0018 -->
 

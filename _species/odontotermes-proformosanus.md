@@ -38,9 +38,13 @@ ES — **原黑翅土白蚁** (*Odontotermes proformosanus*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *proformosanus*：拉丁文 pro（前、近）＋Formosa（台湾旧称），指近台湾的
 
 EN — epithet *proformosanus*: Latin pro (before, near) + Formosa (Taiwan): near Formosa
+
+ES — epithet *proformosanus*: Del latín pro (antes, cerca) + Formosa (Taiwán): cercano a Formosa
 
 <!-- src:S0018 -->
 

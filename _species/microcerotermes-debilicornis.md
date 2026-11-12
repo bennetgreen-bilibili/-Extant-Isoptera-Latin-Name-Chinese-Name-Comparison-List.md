@@ -38,9 +38,13 @@ ES — **软角锯白蚁** (*Microcerotermes debilicornis*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *debilicornis*：拉丁文 debilis（弱）+ cornu（角），弱角
 
 EN — epithet *debilicornis*: Latin debilis (weak) + cornu (horn), weak-horned
+
+ES — epithet *debilicornis*: Del latín debilis (débil) + cornu (cuerno), de cuernos débiles
 
 <!-- src:S0018 -->
 

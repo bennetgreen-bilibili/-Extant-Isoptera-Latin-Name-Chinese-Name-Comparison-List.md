@@ -37,9 +37,13 @@ ES — **透明长鼻白蚁** (*Schedorhinotermes translucens*) es una especie d
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *translucens*：拉丁文/希腊文词根「transluc」（半透明）
 
 EN — epithet *translucens*: From the descriptive term 'transluc' (translucent)
+
+ES — epithet *translucens*: Del término descriptivo «transluc» (translúcido)
 
 <!-- src:S0018 -->
 

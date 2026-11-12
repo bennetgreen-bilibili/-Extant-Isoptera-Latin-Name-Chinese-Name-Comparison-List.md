@@ -38,9 +38,13 @@ ES — **锋颚弓白蚁** (*Amitermes accinctus*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *accinctus*：拉丁文 accinctus（束带的、整备的）
 
 EN — epithet *accinctus*: Latin accinctus (girded, equipped)
+
+ES — epithet *accinctus*: Del latín accinctus (ceñido, equipado)
 
 <!-- src:S0018 -->
 

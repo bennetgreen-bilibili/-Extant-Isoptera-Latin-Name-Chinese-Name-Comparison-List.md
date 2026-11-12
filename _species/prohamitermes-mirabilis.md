@@ -38,9 +38,13 @@ ES — **奇异前钩白蚁** (*Prohamitermes mirabilis*) es una especie, y la e
 
 EN — *Prohamitermes*: From Greek pro- (before) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Prohamitermes*: Del griego pro- (antes) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *mirabilis*：拉丁文 mirabilis（奇异的）
 
 EN — epithet *mirabilis*: Latin mirabilis (wonderful)
+
+ES — epithet *mirabilis*: Del latín mirabilis (admirable)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **阔颏杆白蚁** (*Stylotermes latipedunculus*) es una especie del gé
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *latipedunculus*：拉丁文/希腊文 latipedunc（宽）+ ulus（小（指小）），指宽小（指小）
 
 EN — epithet *latipedunculus*: From latipedunc (宽) + ulus (小（指小）)
+
+ES — epithet *latipedunculus*: De latipedunc (ancho) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

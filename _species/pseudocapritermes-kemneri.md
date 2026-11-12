@@ -38,9 +38,13 @@ ES — **凯姆勒伪扭白蚁** (*Pseudocapritermes kemneri*) es una especie de
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *kemneri*：以人名 Kemner 命名（瑞典昆虫学家 N. A. Kemner）
 
 EN — epithet *kemneri*: Named after the entomologist N. A. Kemner
+
+ES — epithet *kemneri*: En honor del entomólogo N. A. Kemner
 
 <!-- src:S0018 -->
 

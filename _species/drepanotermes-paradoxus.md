@@ -38,9 +38,13 @@ ES — **奇异镰白蚁** (*Drepanotermes paradoxus*) es una especie del géner
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *paradoxus*：希腊文 paradoxos（奇异的、悖于常理）
 
 EN — epithet *paradoxus*: Greek paradoxos (paradoxical, strange)
+
+ES — epithet *paradoxus*: Del griego paradoxos (paradójico, extraño)
 
 <!-- src:S0018 -->
 

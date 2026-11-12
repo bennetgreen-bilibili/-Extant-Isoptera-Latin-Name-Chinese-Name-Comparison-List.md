@@ -38,9 +38,13 @@ ES — **锡兰同钩白蚁** (*Synhamitermes ceylonicus*) es una especie del g�
 
 EN — *Synhamitermes*: From Greek syn- (together) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Synhamitermes*: Del griego syn- (junto) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
 
 EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+ES — epithet *ceylonicus*: Por Ceilán (Sri Lanka)
 
 <!-- src:S0018 -->
 

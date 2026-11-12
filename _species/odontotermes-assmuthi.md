@@ -38,9 +38,13 @@ ES — **阿斯穆斯土白蚁** (*Odontotermes assmuthi*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *assmuthi*：以人名 Assmuth 命名
 
 EN — epithet *assmuthi*: Named after Assmuth
+
+ES — epithet *assmuthi*: En honor de Assmuth
 
 <!-- src:S0018 -->
 

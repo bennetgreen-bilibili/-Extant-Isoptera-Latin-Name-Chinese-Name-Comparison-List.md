@@ -38,9 +38,13 @@ ES — **丰富丽娜扭白蚁** (*Rinacapritermes abundans*) es una especie del
 
 EN — *Rinacapritermes*: From Greek rhis (nose) + Latin caper (goat) + termes.
 
+ES — *Rinacapritermes*: Del griego rhis (nariz) + latín caper (cabra) + termes.
+
 种加词 *abundans*：拉丁文/希腊文词根「abund」（丰富）
 
 EN — epithet *abundans*: From the descriptive term 'abund' (abundant)
+
+ES — epithet *abundans*: Del término descriptivo «abund» (abundante)
 
 <!-- src:S0018 -->
 

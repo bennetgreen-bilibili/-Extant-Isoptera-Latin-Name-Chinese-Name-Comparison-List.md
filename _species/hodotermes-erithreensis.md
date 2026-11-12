@@ -37,9 +37,13 @@ ES — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) es una especie d
 
 EN — *Hodotermes*: From Greek hodos (way, path) + Latin termes.
 
+ES — *Hodotermes*: Del griego hodos (camino, sendero) + latín termes.
+
 种加词 *erithreensis*：以地名 厄立特里亚 命名
 
 EN — epithet *erithreensis*: Named after the locality Erithre
+
+ES — epithet *erithreensis*: Por la localidad de Erithre
 
 <!-- src:S0018 -->
 

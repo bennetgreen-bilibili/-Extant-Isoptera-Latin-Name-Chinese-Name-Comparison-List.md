@@ -38,9 +38,13 @@ ES — **乔塔里象白蚁** (*Nasutitermes chhotanii*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *chhotanii*：以 O.B. Chhotani（印度白蚁学家）命名
 
 EN — epithet *chhotanii*: Named after O.B. Chhotani
+
+ES — epithet *chhotanii*: En honor de O.B. Chhotani
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **短角瓢白蚁** (*Bulbitermes brevicornis*) es una especie del géner
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *brevicornis*：拉丁文 brevis（短）+ cornu（角/触角），短角
 
 EN — epithet *brevicornis*: Latin brevis (short) + cornu (horn/antenna), short-horned
+
+ES — epithet *brevicornis*: Del latín brevis (corto) + cornu (cuerno/antena), de cuernos cortos
 
 <!-- src:S0018 -->
 

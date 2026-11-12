@@ -38,9 +38,13 @@ ES — **德巴迪利普瓢白蚁** (*Bulbitermes debadiliporum*) es una especie
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *debadiliporum*：以人名 Debadili（等）命名
 
 EN — epithet *debadiliporum*: Named after Debadili (and others)
+
+ES — epithet *debadiliporum*: En honor de Debadili (y otros)
 
 <!-- src:S0018 -->
 

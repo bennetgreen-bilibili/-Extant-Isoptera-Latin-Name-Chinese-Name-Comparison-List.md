@@ -40,9 +40,13 @@ ES — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) es una especie del 
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
 
 EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+ES — epithet *ceylonicus*: Por Ceilán (Sri Lanka)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **贵阳杆白蚁** (*Stylotermes guiyangensis*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *guiyangensis*：以地名 贵阳（贵州） 命名
 
 EN — epithet *guiyangensis*: Named after the locality Guiyang
+
+ES — epithet *guiyangensis*: Por la localidad de Guiyang
 
 <!-- src:S0018 -->
 

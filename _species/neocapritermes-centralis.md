@@ -38,9 +38,13 @@ ES — **中部新扭白蚁** (*Neocapritermes centralis*) es una especie del g�
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *centralis*：拉丁文 centralis（中央的）
 
 EN — epithet *centralis*: Latin centralis (central)
+
+ES — epithet *centralis*: Del latín centralis (central)
 
 <!-- src:S0018 -->
 

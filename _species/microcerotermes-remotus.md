@@ -38,9 +38,13 @@ ES — **天涯锯白蚁** (*Microcerotermes remotus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *remotus*：拉丁文 remotus（遥远的）
 
 EN — epithet *remotus*: Latin remotus (remote)
+
+ES — epithet *remotus*: Del latín remotus (remoto)
 
 <!-- src:S0018 -->
 

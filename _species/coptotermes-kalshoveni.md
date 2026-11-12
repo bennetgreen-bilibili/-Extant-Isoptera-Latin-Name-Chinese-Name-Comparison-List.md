@@ -35,9 +35,13 @@ ES — **卡尔斯霍芬乳白蚁** (*Coptotermes kalshoveni*) es una especie de
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *kalshoveni*：以人名 kalshoven 命名（荷兰林昆虫学家 L. G. E. Kalshoven）
 
 EN — epithet *kalshoveni*: Named after 荷兰林昆虫学家 L. G. E. Kalshoven
+
+ES — epithet *kalshoveni*: En honor del entomólogo forestal neerlandés L. G. E. Kalshoven
 
 <!-- src:S0018 -->
 

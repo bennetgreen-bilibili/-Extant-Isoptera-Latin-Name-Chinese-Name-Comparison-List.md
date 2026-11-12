@@ -35,9 +35,13 @@ ES — **伯斯尼后琥珀白蚁** (*Postelectrotermes pasniensis*) es una espe
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *pasniensis*：以巴基斯坦俾路支省伯斯尼（Pasni）命名
 
 EN — epithet *pasniensis*: Named after Pasni, Balochistan, Pakistan
+
+ES — epithet *pasniensis*: Por Pasni, Baluchistán, Pakistán
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **云南土白蚁** (*Odontotermes yunnanensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *yunnanensis*：地名：云南（中国）
 
 EN — epithet *yunnanensis*: After Yunnan (China)
+
+ES — epithet *yunnanensis*: Por Yunnan (China)
 
 <!-- src:S0018 -->
 

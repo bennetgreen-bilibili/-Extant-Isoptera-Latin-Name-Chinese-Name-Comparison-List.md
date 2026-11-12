@@ -38,9 +38,13 @@ ES — **遥远锯白蚁** (*Microcerotermes distans*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *distans*：拉丁文 distans（远离的）
 
 EN — epithet *distans*: Latin distans (distant)
+
+ES — epithet *distans*: Del latín distans (distante)
 
 <!-- src:S0018 -->
 

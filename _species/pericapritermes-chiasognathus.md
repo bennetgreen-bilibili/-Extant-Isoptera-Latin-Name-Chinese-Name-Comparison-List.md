@@ -40,9 +40,13 @@ ES — **隐颚近扭白蚁** (*Pericapritermes chiasognathus*) es una especie d
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *chiasognathus*：希腊文 chiasma（交叉）+ gnathos（颚），交叉颚
 
 EN — epithet *chiasognathus*: Greek chiasma (cross) + gnathos (jaw), cross-jawed
+
+ES — epithet *chiasognathus*: Del griego chiasma (cruz) + gnathos (mandíbula), de mandíbulas cruzadas
 
 <!-- src:S0018 -->
 

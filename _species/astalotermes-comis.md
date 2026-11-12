@@ -38,9 +38,13 @@ ES — **友好无利器白蚁** (*Astalotermes comis*) es una especie del géne
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *comis*：拉丁文 comis（亲切的、彬彬有礼的）
 
 EN — epithet *comis*: Latin comis (courteous)
+
+ES — epithet *comis*: Del latín comis (cortés)
 
 <!-- src:S0018 -->
 

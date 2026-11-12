@@ -38,9 +38,13 @@ ES — **单型快白蚁** (*Velocitermes uniformis*) es una especie del género
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *uniformis*：拉丁文 unus（一）+ forma（形），同形
 
 EN — epithet *uniformis*: Latin unus (one) + forma (form), uniform
+
+ES — epithet *uniformis*: Del latín unus (uno) + forma (forma), uniforme
 
 <!-- src:S0018 -->
 

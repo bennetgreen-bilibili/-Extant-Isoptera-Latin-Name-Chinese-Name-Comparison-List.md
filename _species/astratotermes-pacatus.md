@@ -40,9 +40,13 @@ ES — **平静无刃白蚁** (*Astratotermes pacatus*) es una especie del géne
 
 EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astratotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pacatus*：拉丁文 pacatus（平和的）
 
 EN — epithet *pacatus*: Latin pacatus (peaceful)
+
+ES — epithet *pacatus*: Del latín pacatus (pacífico)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **马卡古锯白蚁** (*Microcerotermes macacoensis*) es una especie del
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *macacoensis*：以地名 Macaco（马卡科）命名
 
 EN — epithet *macacoensis*: Named after the locality Macaco
+
+ES — epithet *macacoensis*: Por la localidad de Macaco
 
 <!-- src:S0018 -->
 

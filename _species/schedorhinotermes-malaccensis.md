@@ -37,9 +37,13 @@ ES — **马六甲长鼻白蚁** (*Schedorhinotermes malaccensis*) es una especi
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *malaccensis*：以地名 马六甲（马来西亚） 命名
 
 EN — epithet *malaccensis*: Named after the locality Malacc
+
+ES — epithet *malaccensis*: Por la localidad de Malacc
 
 <!-- src:S0018 -->
 

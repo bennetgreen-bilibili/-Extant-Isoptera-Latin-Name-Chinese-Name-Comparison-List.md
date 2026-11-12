@@ -38,9 +38,13 @@ ES — **栗色象白蚁** (*Nasutitermes castaneus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *castaneus*：拉丁文 castaneus（栗色）
 
 EN — epithet *castaneus*: Latin castaneus (chestnut)
+
+ES — epithet *castaneus*: Del latín castaneus (castaño)
 
 <!-- src:S0018 -->
 

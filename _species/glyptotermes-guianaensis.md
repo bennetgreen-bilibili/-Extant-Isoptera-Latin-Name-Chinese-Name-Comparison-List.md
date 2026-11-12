@@ -35,9 +35,13 @@ ES — **圭亚那树白蚁** (*Glyptotermes guianaensis*) es una especie del g�
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *guianaensis*：以地名 圭亚那 命名
 
 EN — epithet *guianaensis*: Named after Guyana
+
+ES — epithet *guianaensis*: Por Guyana
 
 <!-- src:S0018 -->
 

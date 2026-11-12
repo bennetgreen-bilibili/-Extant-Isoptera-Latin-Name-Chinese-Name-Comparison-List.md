@@ -38,9 +38,13 @@ ES — **景洪大白蚁** (*Macrotermes jinghongensis*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *jinghongensis*：以地名 景洪（云南） 命名
 
 EN — epithet *jinghongensis*: Named after the locality Jinghong
+
+ES — epithet *jinghongensis*: Por la localidad de Jinghong
 
 <!-- src:S0018 -->
 

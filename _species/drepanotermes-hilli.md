@@ -38,9 +38,13 @@ ES — **希尔镰白蚁** (*Drepanotermes hilli*) es una especie del género *D
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *hilli*：以人名 Hill 命名（昆虫学家 G. F. Hill）
 
 EN — epithet *hilli*: Named after the entomologist G. F. Hill
+
+ES — epithet *hilli*: En honor del entomólogo G. F. Hill
 
 <!-- src:S0018 -->
 

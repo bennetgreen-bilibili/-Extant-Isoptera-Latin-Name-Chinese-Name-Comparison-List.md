@@ -38,9 +38,13 @@ ES — **小伪扭白蚁** (*Pseudocapritermes minutus*) es una especie del gén
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *minutus*：拉丁文 minutus（微小）
 
 EN — epithet *minutus*: Latin minutus (tiny)
+
+ES — epithet *minutus*: Del latín minutus (diminuto)
 
 <!-- src:S0018 -->
 

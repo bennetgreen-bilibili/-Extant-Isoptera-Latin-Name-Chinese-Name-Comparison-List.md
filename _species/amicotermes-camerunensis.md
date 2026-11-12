@@ -38,9 +38,13 @@ ES — **喀麦隆善白蚁** (*Amicotermes camerunensis*) es una especie del g�
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *camerunensis*：以地名 喀麦隆 命名
 
 EN — epithet *camerunensis*: Named after the locality Camerun
+
+ES — epithet *camerunensis*: Por Camerún
 
 <!-- src:S0018 -->
 

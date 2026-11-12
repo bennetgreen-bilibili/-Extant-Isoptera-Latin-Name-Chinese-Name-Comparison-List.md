@@ -38,9 +38,13 @@ ES — **光背快白蚁** (*Velocitermes glabrinotus*) es una especie del géne
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *glabrinotus*：拉丁文/希腊文 glabri（光滑）+ notus（背），指光滑背
 
 EN — epithet *glabrinotus*: From glabri (光滑) + notus (背)
+
+ES — epithet *glabrinotus*: De glabri (liso) + notus (dorso)
 
 <!-- src:S0018 -->
 

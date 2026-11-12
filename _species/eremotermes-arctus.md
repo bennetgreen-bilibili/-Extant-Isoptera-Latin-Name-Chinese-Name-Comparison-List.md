@@ -38,9 +38,13 @@ ES — **短窄漠白蚁** (*Eremotermes arctus*) es una especie del género *Er
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *arctus*：拉丁文 arctus（狭窄的、紧密的）
 
 EN — epithet *arctus*: Latin arctus (narrow, tight)
+
+ES — epithet *arctus*: Del latín arctus (estrecho, apretado)
 
 <!-- src:S0018 -->
 

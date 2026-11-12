@@ -35,9 +35,13 @@ ES — **不等棒鼻白蚁** (*Parrhinotermes inaequalis*) es una especie del g
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *inaequalis*：拉丁文/希腊文 in-（无、不）+ aequalis（相等），指无相等
 
 EN — epithet *inaequalis*: From in- (without) + aequalis (相等)
+
+ES — epithet *inaequalis*: De in- (sin) + aequalis (igual)
 
 <!-- src:S0018 -->
 

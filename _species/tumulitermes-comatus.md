@@ -38,9 +38,13 @@ ES — **长毛冢白蚁** (*Tumulitermes comatus*) es una especie del género *
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *comatus*：拉丁文 comatus（长发的）
 
 EN — epithet *comatus*: Latin comatus (long-haired)
+
+ES — epithet *comatus*: Del latín comatus (de pelo largo)
 
 <!-- src:S0018 -->
 

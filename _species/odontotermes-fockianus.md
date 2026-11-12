@@ -38,9 +38,13 @@ ES — **福克土白蚁** (*Odontotermes fockianus*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *fockianus*：以人名 Fock/Focke 命名
 
 EN — epithet *fockianus*: Named after Fock/Focke
+
+ES — epithet *fockianus*: En honor de Fock/Focke
 
 <!-- src:S0018 -->
 

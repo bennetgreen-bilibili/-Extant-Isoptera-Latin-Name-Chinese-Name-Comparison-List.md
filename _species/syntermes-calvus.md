@@ -38,9 +38,13 @@ ES — **无毛聚白蚁** (*Syntermes calvus*) es una especie del género *Synt
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *calvus*：拉丁文 calvus（秃的、光秃的）
 
 EN — epithet *calvus*: Latin calvus (bald)
+
+ES — epithet *calvus*: Del latín calvus (calvo)
 
 <!-- src:S0018 -->
 

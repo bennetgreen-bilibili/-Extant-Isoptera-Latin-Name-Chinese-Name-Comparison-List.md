@@ -39,9 +39,13 @@ ES — **宽头亚种** (*Pseudacanthotermes militaris laticeps*) es una subespe
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
 
 EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+ES — epithet *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 

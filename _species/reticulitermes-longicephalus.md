@@ -35,9 +35,13 @@ ES — **长头散白蚁** (*Reticulitermes longicephalus*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *longicephalus*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longicephalus*: From the descriptive term 'long' (long)
+
+ES — epithet *longicephalus*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **科尔距白蚁** (*Calcaritermes colei*) es una especie del género *C
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *colei*：以人名 Cole 命名
 
 EN — epithet *colei*: Named after Cole
+
+ES — epithet *colei*: En honor de Cole
 
 <!-- src:S0018 -->
 

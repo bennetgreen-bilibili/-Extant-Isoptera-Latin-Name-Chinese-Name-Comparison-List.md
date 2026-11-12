@@ -38,9 +38,13 @@ ES — **快速快白蚁** (*Velocitermes velox*) es una especie del género *Ve
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *velox*：拉丁文 velox（快速的）
 
 EN — epithet *velox*: Latin velox (swift)
+
+ES — epithet *velox*: Del latín velox (veloz)
 
 <!-- src:S0018 -->
 

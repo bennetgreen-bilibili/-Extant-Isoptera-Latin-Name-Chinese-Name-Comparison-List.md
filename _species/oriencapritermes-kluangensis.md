@@ -38,9 +38,13 @@ ES — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) es la única espe
 
 EN — *Oriencapritermes*: From Latin Oriens (the East) + caper (goat) + termes.
 
+ES — *Oriencapritermes*: Del latín Oriens (el Oriente) + caper (cabra) + termes.
+
 种加词 *kluangensis*：以地名 居銮（马来西亚） 命名
 
 EN — epithet *kluangensis*: Named after the locality Kluang
+
+ES — epithet *kluangensis*: Por la localidad de Kluang
 
 <!-- src:S0018 -->
 

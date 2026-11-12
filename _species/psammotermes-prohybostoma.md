@@ -35,9 +35,13 @@ ES — **似弯嘴沙白蚁** (*Psammotermes prohybostoma*) es una especie del g
 
 EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
 
+ES — *Psammotermes*: Del griego psammos (arena) + latín termes.
+
 种加词 *prohybostoma*：希腊文 pro-（前）+ hybos（驼）+ stoma（口），前驼口
 
 EN — epithet *prohybostoma*: Greek pro- (front) + hybos (hump) + stoma (mouth)
+
+ES — epithet *prohybostoma*: Del griego pro- (delante) + hybos (joroba) + stoma (boca)
 
 <!-- src:S0018 -->
 

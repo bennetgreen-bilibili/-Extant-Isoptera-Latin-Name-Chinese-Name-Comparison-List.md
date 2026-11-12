@@ -35,9 +35,13 @@ ES — **角头前砂白蚁** (*Procryptotermes corniceps*) es una especie del g
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *corniceps*：拉丁文/希腊文 corni（角）+ ceps（头），指角头
 
 EN — epithet *corniceps*: From corni (角) + ceps (头)
+
+ES — epithet *corniceps*: De corni (cuerno) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

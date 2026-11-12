@@ -35,9 +35,13 @@ ES — **咖啡皱白蚁** (*Rugitermes tinto*) es una especie del género *Rugi
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *tinto*：西班牙语/葡萄牙语 tinto（深红、染色）
 
 EN — epithet *tinto*: Spanish/Portuguese tinto (dark red, dyed)
+
+ES — epithet *tinto*: Español/portugués tinto (rojo oscuro, teñido)
 
 <!-- src:S0018 -->
 

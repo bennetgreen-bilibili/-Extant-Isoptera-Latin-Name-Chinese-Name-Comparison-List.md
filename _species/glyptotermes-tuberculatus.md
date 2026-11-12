@@ -35,9 +35,13 @@ ES — **具瘤树白蚁** (*Glyptotermes tuberculatus*) es una especie, y la es
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *tuberculatus*：拉丁文 tuberculatus（具小瘤）
 
 EN — epithet *tuberculatus*: Latin tuberculatus (tuberculate)
+
+ES — epithet *tuberculatus*: Del latín tuberculatus (tuberculado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **背崩近扭白蚁** (*Pericapritermes beibengensis*) es una especie de
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *beibengensis*：以地名背崩（Beibeng）命名
 
 EN — epithet *beibengensis*: Named after the locality Beibeng
+
+ES — epithet *beibengensis*: Por la localidad de Beibeng
 
 <!-- src:S0018 -->
 

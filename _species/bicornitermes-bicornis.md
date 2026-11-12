@@ -35,9 +35,13 @@ ES — **双角双角白蚁** (*Bicornitermes bicornis*) es una especie, y la es
 
 EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
 
+ES — *Bicornitermes*: Del latín bi- (dos) + cornu (cuerno) + termes.
+
 种加词 *bicornis*：拉丁文/希腊文 bi（二）+ cornis（角），指二角
 
 EN — epithet *bicornis*: From bi (二) + cornis (角)
+
+ES — epithet *bicornis*: De bi (dos) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

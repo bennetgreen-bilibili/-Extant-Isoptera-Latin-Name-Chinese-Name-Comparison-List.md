@@ -35,9 +35,13 @@ ES — **食刺边白蚁** (*Marginitermes cactiphagus*) es una especie del gén
 
 EN — *Marginitermes*: From Latin margo (margin) + termes.
 
+ES — *Marginitermes*: Del latín margo (margen) + termes.
+
 种加词 *cactiphagus*：拉丁文 cactus（仙人掌）+ 希腊文 phagos（食），食仙人掌
 
 EN — epithet *cactiphagus*: Latin cactus (cactus) + Greek phagos (eating), cactus-eating
+
+ES — epithet *cactiphagus*: Del latín cactus (cactus) + griego phagos (que come), que come cactus
 
 <!-- src:S0018 -->
 

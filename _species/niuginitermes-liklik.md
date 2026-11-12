@@ -38,9 +38,13 @@ ES — **小新几内亚白蚁** (*Niuginitermes liklik*) es una especie del gé
 
 EN — *Niuginitermes*: From Niugini (New Guinea) + termes.
 
+ES — *Niuginitermes*: De Niugini (Nueva Guinea) + termes.
+
 种加词 *liklik*：皮钦语 liklik（小）
 
 EN — epithet *liklik*: Pidgin liklik (small)
+
+ES — epithet *liklik*: Del pidgin liklik (pequeño)
 
 <!-- src:S0018 -->
 

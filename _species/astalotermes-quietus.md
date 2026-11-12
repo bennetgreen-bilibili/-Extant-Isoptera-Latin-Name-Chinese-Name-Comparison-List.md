@@ -38,9 +38,13 @@ ES — **宁静无利器白蚁** (*Astalotermes quietus*) es una especie del gé
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *quietus*：拉丁文 quietus（安静的、静止的）
 
 EN — epithet *quietus*: Latin quietus (quiet)
+
+ES — epithet *quietus*: Del latín quietus (tranquilo)
 
 <!-- src:S0018 -->
 

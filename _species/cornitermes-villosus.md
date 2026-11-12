@@ -38,9 +38,13 @@ ES — **密毛角象白蚁** (*Cornitermes villosus*) es una especie del géner
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *villosus*：拉丁文 villosus（长毛）
 
 EN — epithet *villosus*: Latin villosus (shaggy)
+
+ES — epithet *villosus*: Del latín villosus (hirsuto)
 
 <!-- src:S0018 -->
 

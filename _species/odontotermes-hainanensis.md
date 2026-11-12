@@ -38,9 +38,13 @@ ES — **海南土白蚁** (*Odontotermes hainanensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *hainanensis*：地名：海南（中国）
 
 EN — epithet *hainanensis*: After Hainan (China)
+
+ES — epithet *hainanensis*: Por Hainan (China)
 
 <!-- src:S0018 -->
 

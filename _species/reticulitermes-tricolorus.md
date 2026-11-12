@@ -35,9 +35,13 @@ ES — **三色散白蚁** (*Reticulitermes tricolorus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *tricolorus*：拉丁文 tri-（三）+ color（色），三色
 
 EN — epithet *tricolorus*: Latin tri- (three) + color (colour), three-coloured
+
+ES — epithet *tricolorus*: Del latín tri- (tres) + color (color), tricolor
 
 <!-- src:S0018 -->
 

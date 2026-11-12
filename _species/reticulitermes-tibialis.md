@@ -37,9 +37,13 @@ ES — **黑胫散白蚁** (*Reticulitermes tibialis*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *tibialis*：拉丁文 tibialis（胫的、胫节的）
 
 EN — epithet *tibialis*: Latin tibialis (of the tibia)
+
+ES — epithet *tibialis*: Latín tibialis (de la tibia)
 
 <!-- src:S0018 -->
 

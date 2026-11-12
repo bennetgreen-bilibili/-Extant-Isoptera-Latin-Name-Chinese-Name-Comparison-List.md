@@ -38,9 +38,13 @@ ES — **多色镰白蚁** (*Drepanotermes diversicolor*) es una especie del gé
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *diversicolor*：拉丁文 diversus（不同）+ color（色），异色
 
 EN — epithet *diversicolor*: Latin diversus (diverse) + color (colour), diversely coloured
+
+ES — epithet *diversicolor*: Del latín diversus (diverso) + color (color), de colores diversos
 
 <!-- src:S0018 -->
 

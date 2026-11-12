@@ -35,9 +35,13 @@ ES — **佩雷斯前新白蚁** (*Proneotermes perezi*) es una especie, y la es
 
 EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
 
+ES — *Proneotermes*: Del griego pro- (antes) + neos (nuevo) + latín termes.
+
 种加词 *perezi*：以人名 Perez（佩雷斯）命名
 
 EN — epithet *perezi*: Named after Perez
+
+ES — epithet *perezi*: En honor de Pérez
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **鼎湖散白蚁** (*Reticulitermes dinghuensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *dinghuensis*：以地名 鼎湖（广东） 命名
 
 EN — epithet *dinghuensis*: Named after the locality Dinghu
+
+ES — epithet *dinghuensis*: Por la localidad de Dinghu
 
 <!-- src:S0018 -->
 

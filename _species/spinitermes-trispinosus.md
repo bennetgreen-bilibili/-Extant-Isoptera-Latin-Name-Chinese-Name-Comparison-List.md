@@ -38,9 +38,13 @@ ES — **三针针刺白蚁** (*Spinitermes trispinosus*) es una especie, y la e
 
 EN — *Spinitermes*: From Latin spina (spine) + termes.
 
+ES — *Spinitermes*: Del latín spina (espina) + termes.
+
 种加词 *trispinosus*：拉丁文 tri-（三）+ spinosus（多刺），三刺
 
 EN — epithet *trispinosus*: Latin tri- (three) + spinosus (spiny), three-spined
+
+ES — epithet *trispinosus*: Del latín tri- (tres) + spinosus (espinoso), con tres espinas
 
 <!-- src:S0018 -->
 

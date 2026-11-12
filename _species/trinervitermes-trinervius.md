@@ -40,9 +40,13 @@ ES — **三脉三脉白蚁** (*Trinervitermes trinervius*) es una especie, y la
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *trinervius*：拉丁文 tri-（三）+ nervus（脉），三脉
 
 EN — epithet *trinervius*: Latin tri- (three) + nervus (vein), three-veined
+
+ES — epithet *trinervius*: Del latín tri- (tres) + nervus (nervio), con tres nervios
 
 <!-- src:S0018 -->
 

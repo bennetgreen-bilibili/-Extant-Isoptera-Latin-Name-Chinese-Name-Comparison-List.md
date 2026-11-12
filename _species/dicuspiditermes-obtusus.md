@@ -40,9 +40,13 @@ ES — **迟钝突扭白蚁** (*Dicuspiditermes obtusus*) es una especie, y la e
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *obtusus*：拉丁文 obtusus（钝）
 
 EN — epithet *obtusus*: Latin obtusus (blunt)
+
+ES — epithet *obtusus*: Del latín obtusus (romo)
 
 <!-- src:S0018 -->
 

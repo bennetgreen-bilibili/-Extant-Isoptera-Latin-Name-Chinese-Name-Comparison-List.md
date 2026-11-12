@@ -35,9 +35,13 @@ ES — **大眼新白蚁** (*Neotermes magnoculus*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *magnoculus*：拉丁文/希腊文 magn（大）+ oculus（眼），指大眼
 
 EN — epithet *magnoculus*: From magn (大) + oculus (眼)
+
+ES — epithet *magnoculus*: De magn (grande) + oculus (ojo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) es una espe
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *duende*：西班牙语/葡萄牙语 duende（精灵、鬼怪）
 
 EN — epithet *duende*: Spanish/Portuguese duende (goblin)
+
+ES — epithet *duende*: Del español y portugués duende (duende)
 
 <!-- src:S0018 -->
 

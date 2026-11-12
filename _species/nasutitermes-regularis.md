@@ -38,9 +38,13 @@ ES — **规律象白蚁** (*Nasutitermes regularis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *regularis*：拉丁文 regularis（规则的）
 
 EN — epithet *regularis*: Latin regularis (regular)
+
+ES — epithet *regularis*: Del latín regularis (regular)
 
 <!-- src:S0018 -->
 

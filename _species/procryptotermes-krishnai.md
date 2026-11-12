@@ -35,9 +35,13 @@ ES — **克里希纳前砂白蚁** (*Procryptotermes krishnai*) es una especie 
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
 
 EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+ES — epithet *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 <!-- src:S0018 -->
 

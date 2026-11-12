@@ -39,9 +39,13 @@ ES — **指名亚种** (*Odontotermes badius badius*) es una subespecie de *Odo
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *badius*：拉丁文 badius（栗褐色的）
 
 EN — epithet *badius*: Latin badius (bay, chestnut-brown)
+
+ES — epithet *badius*: Del latín badius (bayo, castaño rojizo)
 
 <!-- src:S0018 -->
 

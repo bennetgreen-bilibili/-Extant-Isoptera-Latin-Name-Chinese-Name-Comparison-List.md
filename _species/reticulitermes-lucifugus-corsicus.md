@@ -36,9 +36,13 @@ ES — **科西嘉亚种** (*Reticulitermes lucifugus corsicus*) es una subespec
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *corsicus*：拉丁文 corsicus（科西嘉岛的，Corsica=科西嘉岛）
 
 EN — epithet *corsicus*: Latin corsicus (of Corsica)
+
+ES — epithet *corsicus*: Del latín corsicus (de Córcega)
 
 <!-- src:S0018 -->
 

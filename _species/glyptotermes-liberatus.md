@@ -35,9 +35,13 @@ ES — **自由树白蚁** (*Glyptotermes liberatus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *liberatus*：拉丁文 liberatus（被解放的）
 
 EN — epithet *liberatus*: Latin liberatus (freed)
+
+ES — epithet *liberatus*: Del latín liberatus (liberado)
 
 <!-- src:S0018 -->
 

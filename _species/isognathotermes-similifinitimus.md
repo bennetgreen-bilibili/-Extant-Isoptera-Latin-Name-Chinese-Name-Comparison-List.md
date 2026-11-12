@@ -38,9 +38,13 @@ ES — **似近邻等颚白蚁** (*Isognathotermes similifinitimus*) es una espe
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *similifinitimus*：拉丁文/希腊文词根「simil」（相似）
 
 EN — epithet *similifinitimus*: From the descriptive term 'simil' (similar)
+
+ES — epithet *similifinitimus*: Del término descriptivo «simil» (similar)
 
 <!-- src:S0018 -->
 

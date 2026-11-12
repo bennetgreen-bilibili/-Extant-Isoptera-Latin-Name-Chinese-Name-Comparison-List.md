@@ -38,9 +38,13 @@ ES — **具管象鼻白蚁** (*Proboscitermes tubuliferus*) es una especie, y l
 
 EN — *Proboscitermes*: From Greek proboskis (proboscis) + Latin termes.
 
+ES — *Proboscitermes*: Del griego proboskis (probóscide) + latín termes.
+
 种加词 *tubuliferus*：拉丁文 tubulus（小管）+ -fer（具），具小管
 
 EN — epithet *tubuliferus*: Latin tubulus (small tube) + -fer (bearing)
+
+ES — epithet *tubuliferus*: Del latín tubulus (tubo pequeño) + -fer (portador)
 
 <!-- src:S0018 -->
 

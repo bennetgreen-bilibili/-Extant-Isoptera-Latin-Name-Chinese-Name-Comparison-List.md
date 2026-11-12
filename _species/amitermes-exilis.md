@@ -38,9 +38,13 @@ ES — **纤细弓白蚁** (*Amitermes exilis*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *exilis*：拉丁文/希腊文词根「exil」（细弱）
 
 EN — epithet *exilis*: From the descriptive term 'exil' (slender)
+
+ES — epithet *exilis*: Del término descriptivo «exil» (esbelto)
 
 <!-- src:S0018 -->
 

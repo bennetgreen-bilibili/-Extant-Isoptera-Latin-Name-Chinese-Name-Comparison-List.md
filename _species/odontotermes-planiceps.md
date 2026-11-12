@@ -38,9 +38,13 @@ ES — **扁头土白蚁** (*Odontotermes planiceps*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *planiceps*：拉丁文 planus（平）+ -ceps（头），平头
 
 EN — epithet *planiceps*: Latin planus (flat) + -ceps (head), flat-headed
+
+ES — epithet *planiceps*: Del latín planus (plano) + -ceps (cabeza), de cabeza plana
 
 <!-- src:S0018 -->
 

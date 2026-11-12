@@ -40,9 +40,13 @@ ES — **曼近曲白蚁** (*Paracurvitermes manni*) es la única especie vivien
 
 EN — *Paracurvitermes*: From Greek para- (beside) + Latin curvus (curved) + termes.
 
+ES — *Paracurvitermes*: Del griego para- (al lado de) + latín curvus (curvo) + termes.
+
 种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
 
 EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+ES — epithet *manni*: En honor del entomólogo W. M. Mann
 
 <!-- src:S0018 -->
 

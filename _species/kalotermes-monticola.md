@@ -35,9 +35,13 @@ ES — **山栖木白蚁** (*Kalotermes monticola*) es una especie del género *
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *monticola*：拉丁文/希腊文 monti（山）+ cola（栖），指山栖
 
 EN — epithet *monticola*: From monti (山) + cola (栖)
+
+ES — epithet *monticola*: De monti (monte) + cola (que habita)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **玻利维亚角象白蚁** (*Cornitermes bolivianus*) es una especie de
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *bolivianus*：地名：玻利维亚
 
 EN — epithet *bolivianus*: After Bolivia
+
+ES — epithet *bolivianus*: Por Bolivia
 
 <!-- src:S0018 -->
 

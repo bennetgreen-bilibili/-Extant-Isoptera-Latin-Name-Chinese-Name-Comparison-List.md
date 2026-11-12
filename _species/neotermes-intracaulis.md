@@ -35,9 +35,13 @@ ES — **茎内新白蚁** (*Neotermes intracaulis*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *intracaulis*：拉丁文 intra（内）+ caulis（茎），茎内的
 
 EN — epithet *intracaulis*: Latin intra (within) + caulis (stem), within-stem
+
+ES — epithet *intracaulis*: Del latín intra (dentro) + caulis (tallo), dentro del tallo
 
 <!-- src:S0018 -->
 

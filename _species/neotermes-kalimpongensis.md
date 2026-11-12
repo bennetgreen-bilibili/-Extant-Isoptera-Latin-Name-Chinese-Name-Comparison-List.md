@@ -35,9 +35,13 @@ ES — **噶伦堡新白蚁** (*Neotermes kalimpongensis*) es una especie del g�
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *kalimpongensis*：以地名 噶伦堡（印度） 命名
 
 EN — epithet *kalimpongensis*: Named after the locality Kalimpong
+
+ES — epithet *kalimpongensis*: Por la localidad de Kalimpong
 
 <!-- src:S0018 -->
 

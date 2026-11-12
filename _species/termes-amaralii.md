@@ -38,9 +38,13 @@ ES — **阿马拉利白蚁** (*Termes amaralii*) es una especie del género *Te
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *amaralii*：以人名 Amaral 命名
 
 EN — epithet *amaralii*: Named after Amaral
+
+ES — epithet *amaralii*: En honor de Amaral
 
 <!-- src:S0018 -->
 

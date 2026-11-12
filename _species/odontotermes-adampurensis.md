@@ -38,9 +38,13 @@ ES — **阿达姆普尔土白蚁** (*Odontotermes adampurensis*) es una especie
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *adampurensis*：以地名 阿达姆普尔（印度） 命名
 
 EN — epithet *adampurensis*: Named after the locality Adampur
+
+ES — epithet *adampurensis*: Por la localidad de Adampur
 
 <!-- src:S0018 -->
 

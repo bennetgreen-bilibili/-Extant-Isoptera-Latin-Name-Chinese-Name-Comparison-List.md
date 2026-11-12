@@ -38,9 +38,13 @@ ES — **天童象白蚁** (*Nasutitermes tiantongensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *tiantongensis*：以地名 天童（浙江） 命名
 
 EN — epithet *tiantongensis*: Named after the locality Tiantong
+
+ES — epithet *tiantongensis*: Por la localidad de Tiantong (Zhejiang)
 
 <!-- src:S0018 -->
 

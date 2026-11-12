@@ -40,9 +40,13 @@ ES — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) es una especie del gé
 
 EN — *Spinitermes*: From Latin spina (spine) + termes.
 
+ES — *Spinitermes*: Del latín spina (espina) + termes.
+
 种加词 *nigrostomus*：拉丁文 niger（黑）+ 希腊文 stoma（口），黑口
 
 EN — epithet *nigrostomus*: Latin niger (black) + Greek stoma (mouth), black-mouthed
+
+ES — epithet *nigrostomus*: Del latín niger (negro) + griego stoma (boca), de boca negra
 
 <!-- src:S0018 -->
 

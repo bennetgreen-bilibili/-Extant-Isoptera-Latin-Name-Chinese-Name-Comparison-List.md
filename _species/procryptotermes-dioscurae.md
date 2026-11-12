@@ -35,9 +35,13 @@ ES — **迪奥斯屈阿前砂白蚁** (*Procryptotermes dioscurae*) es una espe
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *dioscurae*：以地名 Dioscurides（索科特拉岛古希腊名）命名
 
 EN — epithet *dioscurae*: Named after Dioscurides (ancient name of Socotra)
+
+ES — epithet *dioscurae*: En honor de Dioscurides (nombre antiguo de Socotra)
 
 <!-- src:S0018 -->
 

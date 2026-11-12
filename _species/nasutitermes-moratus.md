@@ -38,9 +38,13 @@ ES — **拖延象白蚁** (*Nasutitermes moratus*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *moratus*：拉丁文 moratus（有德行的、有习性的）
 
 EN — epithet *moratus*: Latin moratus (mannered, of character)
+
+ES — epithet *moratus*: Del latín moratus (de costumbres, de carácter)
 
 <!-- src:S0018 -->
 

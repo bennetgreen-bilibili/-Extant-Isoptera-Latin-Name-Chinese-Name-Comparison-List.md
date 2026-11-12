@@ -38,9 +38,13 @@ ES — **酒神钝白蚁** (*Obtusitermes bacchanalis*) es una especie del géne
 
 EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
 
+ES — *Obtusitermes*: Del latín obtusus (romo) + termes.
+
 种加词 *bacchanalis*：拉丁文 bacchanalis（酒神的、狂饮的）
 
 EN — epithet *bacchanalis*: Latin bacchanalis (bacchanalian)
+
+ES — epithet *bacchanalis*: Del latín bacchanalis (bacanal)
 
 <!-- src:S0018 -->
 

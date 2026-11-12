@@ -38,9 +38,13 @@ ES — **柏油伪刺白蚁** (*Pseudacanthotermes piceus*) es una especie del g
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *piceus*：拉丁文 piceus（沥青黑色的）
 
 EN — epithet *piceus*: Latin piceus (pitch-black)
+
+ES — epithet *piceus*: Del latín piceus (negro como la pez)
 
 <!-- src:S0018 -->
 

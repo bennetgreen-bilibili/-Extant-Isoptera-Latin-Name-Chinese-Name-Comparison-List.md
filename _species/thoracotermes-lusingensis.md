@@ -38,9 +38,13 @@ ES — **卢森加胸白蚁** (*Thoracotermes lusingensis*) es una especie del g
 
 EN — *Thoracotermes*: From Greek thōrax (thorax) + Latin termes.
 
+ES — *Thoracotermes*: Del griego thōrax (tórax) + latín termes.
+
 种加词 *lusingensis*：以地名 卢辛加（刚果） 命名
 
 EN — epithet *lusingensis*: Named after the locality Lusing
+
+ES — epithet *lusingensis*: Por la localidad de Lusing
 
 <!-- src:S0018 -->
 

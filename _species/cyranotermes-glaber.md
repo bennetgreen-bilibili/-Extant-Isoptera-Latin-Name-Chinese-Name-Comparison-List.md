@@ -38,9 +38,13 @@ ES — **无毛巨鼻白蚁** (*Cyranotermes glaber*) es una especie del género
 
 EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
 
+ES — *Cyranotermes*: De Cyrano (de Bergerac, famoso por su larga nariz) + termes, por el nasus largo.
+
 种加词 *glaber*：拉丁文 glaber（光滑无毛）
 
 EN — epithet *glaber*: Latin glaber (smooth, hairless)
+
+ES — epithet *glaber*: Del latín glaber (liso, sin pelos)
 
 <!-- src:S0018 -->
 

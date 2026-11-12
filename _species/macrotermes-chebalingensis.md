@@ -38,9 +38,13 @@ ES — **车八岭大白蚁** (*Macrotermes chebalingensis*) es una especie del 
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *chebalingensis*：以地名 车八岭（广东） 命名
 
 EN — epithet *chebalingensis*: Named after the locality Chebaling
+
+ES — epithet *chebalingensis*: Por la localidad de Chebaling
 
 <!-- src:S0018 -->
 

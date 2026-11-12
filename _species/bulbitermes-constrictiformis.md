@@ -40,9 +40,13 @@ ES — **类紧缩瓢白蚁** (*Bulbitermes constrictiformis*) es una especie de
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *constrictiformis*：拉丁文/希腊文 constricti（缢缩）+ formis（形），指缢缩形
 
 EN — epithet *constrictiformis*: From constricti (缢缩) + formis (形)
+
+ES — epithet *constrictiformis*: De constricti (constreñido) + formis (forma)
 
 <!-- src:S0018 -->
 

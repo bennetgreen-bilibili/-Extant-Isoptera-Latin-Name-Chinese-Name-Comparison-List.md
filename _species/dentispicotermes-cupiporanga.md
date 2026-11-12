@@ -38,9 +38,13 @@ ES — **库皮珀安加齿尖白蚁** (*Dentispicotermes cupiporanga*) es una e
 
 EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
 
+ES — *Dentispicotermes*: Del latín dens (diente) + spica (espiga) + termes.
+
 种加词 *cupiporanga*：种加词 cupiporanga 由瓜拉尼语 cupi（白蚁，源自 cupi'i「木中白蚁」）与图皮语 poranga（美丽）组合，意为「美丽的白蚁」。
 
 EN — epithet *cupiporanga*: From Guaraní cupi 'termite' (from cupi'i 'wood-dwelling ant') + Tupi poranga 'beautiful', i.e. 'beautiful termite'.
+
+ES — epithet *cupiporanga*: Del guaraní cupi «termita» (de cupiʼi «hormiga que vive en la madera») + del tupí poranga «hermoso», es decir, «termita hermosa»
 
 <!-- src:S0018 -->
 

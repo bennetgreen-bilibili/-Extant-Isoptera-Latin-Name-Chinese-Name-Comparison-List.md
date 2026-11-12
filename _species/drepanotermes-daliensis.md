@@ -38,9 +38,13 @@ ES — **戴利镰白蚁** (*Drepanotermes daliensis*) es una especie del géner
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *daliensis*：以地名 大理（云南） 命名
 
 EN — epithet *daliensis*: Named after the locality Dal
+
+ES — epithet *daliensis*: Por la localidad de Dal
 
 <!-- src:S0018 -->
 

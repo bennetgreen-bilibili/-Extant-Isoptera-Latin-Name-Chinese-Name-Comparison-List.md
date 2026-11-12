@@ -38,9 +38,13 @@ ES — **凹瘤白蚁** (*Mirocapritermes concaveus*) es una especie del género
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *concaveus*：拉丁文/希腊文 concav（凹）+ eus（相关），指凹相关
 
 EN — epithet *concaveus*: From concav (凹) + eus (相关)
+
+ES — epithet *concaveus*: De concav (cóncavo) + eus (relativo a)
 
 <!-- src:S0018 -->
 

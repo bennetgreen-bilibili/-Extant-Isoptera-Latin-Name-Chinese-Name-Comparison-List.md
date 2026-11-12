@@ -38,9 +38,13 @@ ES — **无助弓白蚁** (*Amitermes inops*) es una especie del género *Amite
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *inops*：拉丁文 inops（贫乏的）
 
 EN — epithet *inops*: Latin inops (poor, destitute)
+
+ES — epithet *inops*: Del latín inops (pobre, indigente)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **花唇树白蚁** (*Glyptotermes baliochilus*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *baliochilus*：希腊文 balios（有斑点的）+ cheilos（唇），斑唇
 
 EN — epithet *baliochilus*: Greek balios (spotted) + cheilos (lip), spotted-lipped
+
+ES — epithet *baliochilus*: Del griego balios (manchado) + cheilos (labio), de labios manchados
 
 <!-- src:S0018 -->
 

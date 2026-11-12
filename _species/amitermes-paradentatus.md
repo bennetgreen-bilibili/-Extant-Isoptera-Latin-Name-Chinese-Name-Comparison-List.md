@@ -38,9 +38,13 @@ ES — **似具齿弓白蚁** (*Amitermes paradentatus*) es una especie del gén
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *paradentatus*：拉丁文/希腊文 paradent（旁）+ atus（具），指旁具
 
 EN — epithet *paradentatus*: From paradent (旁) + atus (具)
+
+ES — epithet *paradentatus*: De paradent (al lado) + atus (que posee)
 
 <!-- src:S0018 -->
 

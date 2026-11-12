@@ -35,9 +35,13 @@ ES — **萨拉斯瓦特散白蚁** (*Reticulitermes saraswati*) es una especie 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *saraswati*：以人名 Saraswati（印度女性名，或娑罗室伐底女神）命名
 
 EN — epithet *saraswati*: Named after "Saraswati" (Indian name or the goddess)
+
+ES — epithet *saraswati*: En honor de «Saraswati» (nombre indio o la diosa)
 
 <!-- src:S0018 -->
 

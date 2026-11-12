@@ -38,9 +38,13 @@ ES — **莫迪利亚尼近扭白蚁** (*Pericapritermes modiglianii*) es una es
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *modiglianii*：以人名 Modigliani（莫迪利亚尼）命名（意大利探险家、博物学家 Elio Modigliani）
 
 EN — epithet *modiglianii*: Named after Modigliani (Italian explorer and naturalist Elio Modigliani)
+
+ES — epithet *modiglianii*: En honor de Modigliani (explorador y naturalista italiano Elio Modigliani)
 
 <!-- src:S0018 -->
 

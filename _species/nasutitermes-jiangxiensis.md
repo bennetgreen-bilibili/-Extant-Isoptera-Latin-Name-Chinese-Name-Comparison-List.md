@@ -38,9 +38,13 @@ ES — **江西象白蚁** (*Nasutitermes jiangxiensis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *jiangxiensis*：以地名 江西 命名
 
 EN — epithet *jiangxiensis*: Named after the locality Jiangx
+
+ES — epithet *jiangxiensis*: Por la localidad de Jiangx
 
 <!-- src:S0018 -->
 

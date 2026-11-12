@@ -38,9 +38,13 @@ ES — **雅各布森象白蚁** (*Nasutitermes jacobsoni*) es una especie del g
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *jacobsoni*：以人名 jacobson 命名（昆虫学家 E. Jacobson）
 
 EN — epithet *jacobsoni*: Named after 昆虫学家 E. Jacobson
+
+ES — epithet *jacobsoni*: En honor del entomólogo E. Jacobson
 
 <!-- src:S0018 -->
 

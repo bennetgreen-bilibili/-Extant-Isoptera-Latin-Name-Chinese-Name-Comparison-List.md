@@ -38,9 +38,13 @@ ES — **奇鼻象白蚁** (*Nasutitermes mirabilis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mirabilis*：拉丁文 mirabilis（奇异的）
 
 EN — epithet *mirabilis*: Latin mirabilis (wonderful)
+
+ES — epithet *mirabilis*: Del latín mirabilis (admirable)
 
 <!-- src:S0018 -->
 

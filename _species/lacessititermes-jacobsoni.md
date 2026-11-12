@@ -38,9 +38,13 @@ ES — **雅各布森怒白蚁** (*Lacessititermes jacobsoni*) es una especie de
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *jacobsoni*：以人名 jacobson 命名（昆虫学家 E. Jacobson）
 
 EN — epithet *jacobsoni*: Named after 昆虫学家 E. Jacobson
+
+ES — epithet *jacobsoni*: En honor del entomólogo E. Jacobson
 
 <!-- src:S0018 -->
 

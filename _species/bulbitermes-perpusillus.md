@@ -38,9 +38,13 @@ ES — **近极小瓢白蚁** (*Bulbitermes perpusillus*) es una especie del gé
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *perpusillus*：拉丁文 per-（非常）+ pusillus（很小），极微小
 
 EN — epithet *perpusillus*: Latin per- (very) + pusillus (tiny), very tiny
+
+ES — epithet *perpusillus*: Del latín per- (muy) + pusillus (diminuto), muy diminuto
 
 <!-- src:S0018 -->
 

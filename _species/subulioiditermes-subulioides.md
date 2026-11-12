@@ -40,9 +40,13 @@ ES — **似锥似锥白蚁** (*Subulioiditermes subulioides*) es una especie, y
 
 EN — *Subulioiditermes*: From Latin subula (awl) + Greek -oides (like) + termes.
 
+ES — *Subulioiditermes*: Del latín subula (lezna) + griego -oides (semejante) + termes.
+
 种加词 *subulioides*：拉丁文/希腊文 subuli（下、近）+ oides（似），指下、近似
 
 EN — epithet *subulioides*: From subuli (下、近) + oides (似)
+
+ES — epithet *subulioides*: De subuli (abajo, cerca) + oides (semejante a)
 
 <!-- src:S0018 -->
 

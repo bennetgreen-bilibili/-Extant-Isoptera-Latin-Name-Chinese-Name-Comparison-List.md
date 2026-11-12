@@ -35,9 +35,13 @@ ES — **格特鲁德异白蚁** (*Heterotermes gertrudae*) es una especie del g
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *gertrudae*：以人名 Gertrude 命名
 
 EN — epithet *gertrudae*: Named after Gertrude
+
+ES — epithet *gertrudae*: En honor de Gertrude
 
 <!-- src:S0018 -->
 

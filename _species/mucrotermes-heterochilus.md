@@ -38,9 +38,13 @@ ES — **异唇锐尖白蚁** (*Mucrotermes heterochilus*) es una especie del g�
 
 EN — *Mucrotermes*: From Latin mucro (sharp point) + termes.
 
+ES — *Mucrotermes*: Del latín mucro (punta aguda) + termes.
+
 种加词 *heterochilus*：拉丁文/希腊文词根「heter」（异）
 
 EN — epithet *heterochilus*: From the descriptive term 'heter' (different)
+
+ES — epithet *heterochilus*: Del término descriptivo «heter» (distinto)
 
 <!-- src:S0018 -->
 

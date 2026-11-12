@@ -35,9 +35,13 @@ ES — **宽唇新白蚁** (*Neotermes amplilabralis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *amplilabralis*：拉丁文/希腊文 ampli（宽）+ labralis（唇），指宽唇
 
 EN — epithet *amplilabralis*: From ampli (宽) + labralis (唇)
+
+ES — epithet *amplilabralis*: De ampli (ancho) + labralis (labro)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **小眼树白蚁** (*Glyptotermes parvoculatus*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *parvoculatus*：拉丁文/希腊文 parvocul（小）+ atus（具），指小具
 
 EN — epithet *parvoculatus*: From parvocul (小) + atus (具)
+
+ES — epithet *parvoculatus*: De parvocul (pequeño) + atus (que posee)
 
 <!-- src:S0018 -->
 

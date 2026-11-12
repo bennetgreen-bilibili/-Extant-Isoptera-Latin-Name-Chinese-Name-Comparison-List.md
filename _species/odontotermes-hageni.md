@@ -38,9 +38,13 @@ ES — **哈根土白蚁** (*Odontotermes hageni*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *hageni*：以人名 hagen 命名（德国昆虫学家 H. A. Hagen）
 
 EN — epithet *hageni*: Named after 德国昆虫学家 H. A. Hagen
+
+ES — epithet *hageni*: En honor del entomólogo alemán H. A. Hagen
 
 <!-- src:S0018 -->
 

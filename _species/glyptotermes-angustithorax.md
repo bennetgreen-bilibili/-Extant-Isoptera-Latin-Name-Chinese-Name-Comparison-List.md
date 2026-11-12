@@ -35,9 +35,13 @@ ES — **狭胸树白蚁** (*Glyptotermes angustithorax*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *angustithorax*：拉丁文/希腊文 angusti（窄）+ thorax（胸），指窄胸
 
 EN — epithet *angustithorax*: From angusti (窄) + thorax (胸)
+
+ES — epithet *angustithorax*: De angusti (estrecho) + thorax (tórax)
 
 <!-- src:S0018 -->
 

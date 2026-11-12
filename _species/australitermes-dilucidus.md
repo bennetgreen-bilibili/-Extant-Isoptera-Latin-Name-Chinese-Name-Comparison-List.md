@@ -38,9 +38,13 @@ ES — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) es una especie,
 
 EN — *Australitermes*: From Latin australis (southern) + termes.
 
+ES — *Australitermes*: Del latín australis (meridional) + termes.
+
 种加词 *dilucidus*：拉丁文 dilucidus（清晰的、明亮的）
 
 EN — epithet *dilucidus*: Latin dilucidus (clear, lucid)
+
+ES — epithet *dilucidus*: Del latín dilucidus (claro, lúcido)
 
 <!-- src:S0018 -->
 

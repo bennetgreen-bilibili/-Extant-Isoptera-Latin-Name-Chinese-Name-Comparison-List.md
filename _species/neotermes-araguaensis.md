@@ -35,9 +35,13 @@ ES — **阿拉瓜新白蚁** (*Neotermes araguaensis*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *araguaensis*：以地名 阿拉瓜（委内瑞拉） 命名
 
 EN — epithet *araguaensis*: Named after the locality Aragua
+
+ES — epithet *araguaensis*: Por la localidad de Aragua
 
 <!-- src:S0018 -->
 

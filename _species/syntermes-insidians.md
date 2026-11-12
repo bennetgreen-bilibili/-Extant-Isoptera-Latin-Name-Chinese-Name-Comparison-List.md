@@ -38,9 +38,13 @@ ES — **隐蔽聚白蚁** (*Syntermes insidians*) es una especie del género *S
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *insidians*：拉丁文 insidians（潜伏的、设伏的）
 
 EN — epithet *insidians*: Latin insidians (lying in wait)
+
+ES — epithet *insidians*: Del latín insidians (que acecha)
 
 <!-- src:S0018 -->
 

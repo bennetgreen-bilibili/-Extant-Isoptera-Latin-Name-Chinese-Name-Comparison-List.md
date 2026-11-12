@@ -38,9 +38,13 @@ ES — **万鸦东土白蚁** (*Odontotermes menadoensis*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *menadoensis*：以地名 万鸦老（印度尼西亚） 命名
 
 EN — epithet *menadoensis*: Named after the locality Menado
+
+ES — epithet *menadoensis*: Por la localidad de Menado
 
 <!-- src:S0018 -->
 

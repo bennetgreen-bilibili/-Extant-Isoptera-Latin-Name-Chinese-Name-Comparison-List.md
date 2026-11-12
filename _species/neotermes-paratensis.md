@@ -35,9 +35,13 @@ ES — **帕拉蒂新白蚁** (*Neotermes paratensis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *paratensis*：以地名 帕拉（巴西） 命名
 
 EN — epithet *paratensis*: Named after the locality Parat
+
+ES — epithet *paratensis*: Por la localidad de Parat
 
 <!-- src:S0018 -->
 

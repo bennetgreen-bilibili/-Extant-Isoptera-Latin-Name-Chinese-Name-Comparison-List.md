@@ -38,9 +38,13 @@ ES — **扎瓦塔里三方白蚁** (*Ternicubitermes zavattarii*) es una especi
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *zavattarii*：以人名 Zavattari（Edoardo Zavattari，意大利昆虫学家） 命名
 
 EN — epithet *zavattarii*: Named after Edoardo Zavattari (Italian entomologist)
+
+ES — epithet *zavattarii*: En honor de Edoardo Zavattari (entomólogo italiano)
 
 <!-- src:S0018 -->
 

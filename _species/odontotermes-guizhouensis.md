@@ -38,9 +38,13 @@ ES — **贵州土白蚁** (*Odontotermes guizhouensis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *guizhouensis*：地名：贵州（中国）
 
 EN — epithet *guizhouensis*: After Guizhou (China)
+
+ES — epithet *guizhouensis*: Por Guizhou (China)
 
 <!-- src:S0018 -->
 

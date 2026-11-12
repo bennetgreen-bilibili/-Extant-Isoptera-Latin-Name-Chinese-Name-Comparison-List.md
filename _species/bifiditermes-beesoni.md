@@ -35,9 +35,13 @@ ES — **比森双裂白蚁** (*Bifiditermes beesoni*) es una especie del géner
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *beesoni*：以人名 Beeson 命名（英国林学家 C. F. C. Beeson）
 
 EN — epithet *beesoni*: Named after the forest entomologist C. F. C. Beeson
+
+ES — epithet *beesoni*: En honor del entomólogo forestal C. F. C. Beeson
 
 <!-- src:S0018 -->
 

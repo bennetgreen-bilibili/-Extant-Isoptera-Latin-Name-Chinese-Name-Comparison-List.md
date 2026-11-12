@@ -35,9 +35,13 @@ ES — **莫纳新白蚁** (*Neotermes mona*) es una especie del género *Neoter
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *mona*：以莫纳岛（Mona Island，波多黎各）命名
 
 EN — epithet *mona*: Named after Mona Island (Puerto Rico)
+
+ES — epithet *mona*: Por la isla de Mona (Puerto Rico)
 
 <!-- src:S0018 -->
 

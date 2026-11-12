@@ -35,9 +35,13 @@ ES — **长头杆白蚁** (*Stylotermes mecocephalus*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *mecocephalus*：希腊文 mēkos（长）+ kephalē（头），长头
 
 EN — epithet *mecocephalus*: Greek mēkos (length) + kephalē (head), long-headed
+
+ES — epithet *mecocephalus*: Del griego mēkos (longitud) + kephalē (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

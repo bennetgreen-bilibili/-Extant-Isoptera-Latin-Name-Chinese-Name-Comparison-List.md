@@ -35,9 +35,13 @@ ES — **筒头堆砂白蚁** (*Cryptotermes cylindroceps*) es una especie del g
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *cylindroceps*：拉丁文/希腊文 cylindro（圆柱）+ ceps（头），指圆柱头
 
 EN — epithet *cylindroceps*: From cylindro (圆柱) + ceps (头)
+
+ES — epithet *cylindroceps*: De cylindro (cilindro) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **温和无利器白蚁** (*Astalotermes mitis*) es una especie del géne
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *mitis*：拉丁文 mitis（温和的、柔软的）
 
 EN — epithet *mitis*: Latin mitis (mild, soft)
+
+ES — epithet *mitis*: Del latín mitis (suave, blando)
 
 <!-- src:S0018 -->
 

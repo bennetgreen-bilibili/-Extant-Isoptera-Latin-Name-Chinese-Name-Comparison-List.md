@@ -38,9 +38,13 @@ ES — **长额角白蚁** (*Angulitermes longifrons*) es una especie del géner
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *longifrons*：拉丁文/希腊文 longi（长）+ frons（额），指长额
 
 EN — epithet *longifrons*: From longi (长) + frons (额)
+
+ES — epithet *longifrons*: De longi (largo) + frons (frente)
 
 <!-- src:S0018 -->
 

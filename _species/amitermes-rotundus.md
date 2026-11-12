@@ -38,9 +38,13 @@ ES — **圆腹弓白蚁** (*Amitermes rotundus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *rotundus*：拉丁文 rotundus（圆）
 
 EN — epithet *rotundus*: Latin rotundus (round)
+
+ES — epithet *rotundus*: Del latín rotundus (redondo)
 
 <!-- src:S0018 -->
 

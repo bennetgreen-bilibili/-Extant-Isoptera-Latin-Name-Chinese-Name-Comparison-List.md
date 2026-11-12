@@ -38,9 +38,13 @@ ES — **圣卢西亚湖锯白蚁** (*Microcerotermes sanctaeluciae*) es una esp
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *sanctaeluciae*：以圣卢西亚（Saint Lucia）命名
 
 EN — epithet *sanctaeluciae*: Named after Saint Lucia
+
+ES — epithet *sanctaeluciae*: Por Santa Lucía
 
 <!-- src:S0018 -->
 

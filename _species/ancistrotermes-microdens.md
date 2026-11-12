@@ -38,9 +38,13 @@ ES — **小齿钩白蚁** (*Ancistrotermes microdens*) es una especie del géne
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *microdens*：希腊文 mikros（小）+ 拉丁文 dens（齿），小齿
 
 EN — epithet *microdens*: Greek mikros (small) + Latin dens (tooth), small-toothed
+
+ES — epithet *microdens*: Del griego mikros (pequeño) + del latín dens (diente), de dientes pequeños
 
 <!-- src:S0018 -->
 

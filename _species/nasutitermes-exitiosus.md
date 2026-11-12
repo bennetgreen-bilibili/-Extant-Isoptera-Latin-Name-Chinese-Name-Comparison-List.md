@@ -40,9 +40,13 @@ ES — **破坏象白蚁** (*Nasutitermes exitiosus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *exitiosus*：拉丁文 exitiosus（致命的、毁灭性的）
 
 EN — epithet *exitiosus*: Latin exitiosus (deadly, destructive)
+
+ES — epithet *exitiosus*: Del latín exitiosus (mortífero, destructivo)
 
 <!-- src:S0018 -->
 

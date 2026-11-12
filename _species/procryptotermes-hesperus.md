@@ -35,9 +35,13 @@ ES — **西部前砂白蚁** (*Procryptotermes hesperus*) es una especie del g�
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *hesperus*：希腊文 hesperos（西方的、黄昏的）
 
 EN — epithet *hesperus*: Greek hesperos (western, evening)
+
+ES — epithet *hesperus*: Del griego hesperos (occidental, vespertino)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **莱古加思突扭白蚁** (*Dicuspiditermes leghugathrae*) es una espe
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *leghugathrae*：词源未详；种加词或为印度喀拉拉邦当地语言（马拉雅拉姆语）地名/人名，原始描述（Amina & Rajmohana 2021, Oriental Insects）未给词源。
 
 EN — epithet *leghugathrae*: Etymology uncertain; perhaps a local (Malayalam) place or personal name from Kerala, India. The original description (Amina & Rajmohana 2021) gives no etymology.
+
+ES — epithet *leghugathrae*: Etimología incierta; quizá un topónimo o nombre propio local (malabar) de Kerala, India. La descripción original (Amina y Rajmohana 2021) no da etimología.
 
 <!-- src:S0018 -->
 

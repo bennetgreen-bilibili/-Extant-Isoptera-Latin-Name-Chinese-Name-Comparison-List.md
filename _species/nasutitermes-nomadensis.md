@@ -38,9 +38,13 @@ ES — **诺马德象白蚁** (*Nasutitermes nomadensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *nomadensis*：以地名 Nomade 命名
 
 EN — epithet *nomadensis*: Named after the locality Nomade
+
+ES — epithet *nomadensis*: Por la localidad de Nomade
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **考登小白蚁** (*Microtermes kauderni*) es una especie del género *
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *kauderni*：以人名 kaudern 命名（瑞典探险家 W. Kaudern）
 
 EN — epithet *kauderni*: Named after 瑞典探险家 W. Kaudern
+
+ES — epithet *kauderni*: En honor del explorador sueco W. Kaudern
 
 <!-- src:S0018 -->
 

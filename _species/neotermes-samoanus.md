@@ -35,9 +35,13 @@ ES — **萨摩亚新白蚁** (*Neotermes samoanus*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *samoanus*：以地名 萨摩亚 命名
 
 EN — epithet *samoanus*: Named after the locality Samo
+
+ES — epithet *samoanus*: Por la localidad de Samo
 
 <!-- src:S0018 -->
 

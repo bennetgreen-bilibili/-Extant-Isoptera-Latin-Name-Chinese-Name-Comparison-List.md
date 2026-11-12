@@ -38,9 +38,13 @@ ES — **多波象白蚁** (*Nasutitermes dobonensis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *dobonensis*：以地名 Dobon 命名
 
 EN — epithet *dobonensis*: Named after the locality Dobon
+
+ES — epithet *dobonensis*: Por la localidad de Dobon
 
 <!-- src:S0018 -->
 

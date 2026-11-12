@@ -35,9 +35,13 @@ ES — **隐遁长鼻白蚁** (*Schedorhinotermes seclusus*) es una especie del 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *seclusus*：拉丁文 seclusus（隔离的）
 
 EN — epithet *seclusus*: Latin seclusus (secluded)
+
+ES — epithet *seclusus*: Del latín seclusus (apartado, aislado)
 
 <!-- src:S0018 -->
 

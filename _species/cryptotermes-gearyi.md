@@ -35,9 +35,13 @@ ES — **吉尔里堆砂白蚁** (*Cryptotermes gearyi*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *gearyi*：以人名 Geary 命名
 
 EN — epithet *gearyi*: Named after Geary
+
+ES — epithet *gearyi*: En honor de Geary
 
 <!-- src:S0018 -->
 

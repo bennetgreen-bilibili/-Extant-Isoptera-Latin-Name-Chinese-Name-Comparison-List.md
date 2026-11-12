@@ -38,9 +38,13 @@ ES — **海南印白蚁** (*Indotermes hainanensis*) es una especie del género
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *hainanensis*：地名：海南（中国）
 
 EN — epithet *hainanensis*: After Hainan (China)
+
+ES — epithet *hainanensis*: Por Hainan (China)
 
 <!-- src:S0018 -->
 

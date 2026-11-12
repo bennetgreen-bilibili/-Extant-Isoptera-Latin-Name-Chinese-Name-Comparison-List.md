@@ -38,9 +38,13 @@ ES — **裂缝尖白蚁** (*Apicotermes rimulifex*) es una especie del género 
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *rimulifex*：拉丁文 rimula（小缝）+ -fex（作者），缝作者
 
 EN — epithet *rimulifex*: Latin rimula (small crack) + -fex (maker)
+
+ES — epithet *rimulifex*: Del latín rimula (pequeña grieta) + -fex (hacedor)
 
 <!-- src:S0018 -->
 

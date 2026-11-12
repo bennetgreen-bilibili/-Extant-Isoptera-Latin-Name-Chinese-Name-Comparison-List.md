@@ -38,9 +38,13 @@ ES — **苍白弓白蚁** (*Amitermes pallidus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pallidus*：拉丁文 pallidus（苍白的）
 
 EN — epithet *pallidus*: Latin pallidus (pale)
+
+ES — epithet *pallidus*: Del latín pallidus (pálido)
 
 <!-- src:S0018 -->
 

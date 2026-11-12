@@ -35,9 +35,13 @@ ES — **查科堆砂白蚁** (*Cryptotermes chacoensis*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *chacoensis*：以地名 查科（南美洲） 命名
 
 EN — epithet *chacoensis*: Named after the locality Chaco
+
+ES — epithet *chacoensis*: Por la localidad del Chaco
 
 <!-- src:S0018 -->
 

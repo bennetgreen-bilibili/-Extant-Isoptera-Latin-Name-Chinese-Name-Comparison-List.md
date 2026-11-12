@@ -38,9 +38,13 @@ ES — **北方小脊突白蚁** (*Lophotermes septentrionalis*) es una especie 
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *septentrionalis*：拉丁文 septentrionalis（北方的）
 
 EN — epithet *septentrionalis*: Latin septentrionalis (northern)
+
+ES — epithet *septentrionalis*: Del latín septentrionalis (septentrional, del norte)
 
 <!-- src:S0018 -->
 

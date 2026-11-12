@@ -38,9 +38,13 @@ ES — **尖齿突扭白蚁** (*Dicuspiditermes cacuminatus*) es una especie del
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *cacuminatus*：拉丁文 cacuminatus（尖顶的）
 
 EN — epithet *cacuminatus*: Latin cacuminatus (pointed, peaked)
+
+ES — epithet *cacuminatus*: Del latín cacuminatus (puntiagudo, con cima)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **宿主白蚁** (*Termes hospes*) es una especie del género *Termes*, e
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *hospes*：拉丁文 hospes（客人、宿主）
 
 EN — epithet *hospes*: Latin hospes (host, guest)
+
+ES — epithet *hospes*: Del latín hospes (huésped)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **栗头利颚白蚁** (*Cortaritermes fulviceps*) es una especie del gé
 
 EN — *Cortaritermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Cortaritermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *fulviceps*：拉丁文/希腊文 fulvi（黄褐）+ ceps（头），指黄褐头
 
 EN — epithet *fulviceps*: From fulvi (黄褐) + ceps (头)
+
+ES — epithet *fulviceps*: De fulvi (leonado) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

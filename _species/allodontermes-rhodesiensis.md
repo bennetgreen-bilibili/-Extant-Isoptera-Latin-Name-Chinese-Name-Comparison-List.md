@@ -40,9 +40,13 @@ ES — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) es una especi
 
 EN — *Allodontermes*: From Greek allos (other) + odous (tooth) + termes.
 
+ES — *Allodontermes*: Del griego allos (otro) + odous (diente) + termes.
+
 种加词 *rhodesiensis*：以地名 罗得西亚（南部非洲） 命名
 
 EN — epithet *rhodesiensis*: Named after the locality Rhodes
+
+ES — epithet *rhodesiensis*: Por la localidad de Rodesia
 
 <!-- src:S0018 -->
 

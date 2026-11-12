@@ -40,9 +40,13 @@ ES — **劳恩斯伯里小白蚁** (*Microtermes lounsburyi*) es una especie de
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *lounsburyi*：以人名 lounsbury 命名（C. P. Lounsbury（南非昆虫学家））
 
 EN — epithet *lounsburyi*: Named after C. P. Lounsbury（南非昆虫学家）
+
+ES — epithet *lounsburyi*: En honor de C. P. Lounsbury (entomólogo sudafricano)
 
 <!-- src:S0018 -->
 

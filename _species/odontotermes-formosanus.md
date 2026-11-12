@@ -40,9 +40,13 @@ ES — **黑翅土白蚁** (*Odontotermes formosanus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *formosanus*：以地名 Formosa（台湾旧称，葡语「美丽岛」）命名
 
 EN — epithet *formosanus*: Named after Formosa (Taiwan, former name)
+
+ES — epithet *formosanus*: En honor de Formosa (nombre antiguo de Taiwán)
 
 <!-- src:S0018 -->
 

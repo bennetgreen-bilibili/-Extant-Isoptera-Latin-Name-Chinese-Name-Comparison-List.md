@@ -38,9 +38,13 @@ ES — **中国华扭白蚁** (*Sinocapritermes sinicus*) es una especie del gé
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *sinicus*：以地名 新疆 命名
 
 EN — epithet *sinicus*: Named after the locality Sin
+
+ES — epithet *sinicus*: Por la localidad de Sin
 
 <!-- src:S0018 -->
 

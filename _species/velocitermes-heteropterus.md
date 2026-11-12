@@ -40,9 +40,13 @@ ES — **异翅快白蚁** (*Velocitermes heteropterus*) es una especie, y la es
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *heteropterus*：拉丁文/希腊文 hetero（异）+ pterus（翅），指异翅
 
 EN — epithet *heteropterus*: From hetero (异) + pterus (翅)
+
+ES — epithet *heteropterus*: De hetero (distinto) + pterus (ala)
 
 <!-- src:S0018 -->
 

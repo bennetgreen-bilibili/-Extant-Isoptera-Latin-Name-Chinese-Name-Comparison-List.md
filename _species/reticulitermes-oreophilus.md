@@ -35,9 +35,13 @@ ES — **喜山散白蚁** (*Reticulitermes oreophilus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *oreophilus*：希腊文 oros（山）+ philos（爱），爱山、栖山
 
 EN — epithet *oreophilus*: Greek oros (mountain) + philos (loving), mountain-loving
+
+ES — epithet *oreophilus*: Del griego oros (montaña) + philos (amante), amante de las montañas
 
 <!-- src:S0018 -->
 

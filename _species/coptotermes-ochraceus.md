@@ -37,9 +37,13 @@ ES — **黄赭乳白蚁** (*Coptotermes ochraceus*) es una especie del género 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *ochraceus*：拉丁文 ochraceus（赭黄色的）
 
 EN — epithet *ochraceus*: Latin ochraceus (ochre)
+
+ES — epithet *ochraceus*: Del latín ochraceus (ocre)
 
 <!-- src:S0018 -->
 

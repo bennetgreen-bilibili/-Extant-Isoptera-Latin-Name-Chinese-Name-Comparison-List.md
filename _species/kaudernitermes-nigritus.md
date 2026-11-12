@@ -40,9 +40,13 @@ ES — **黑色考登白蚁** (*Kaudernitermes nigritus*) es una especie del gé
 
 EN — *Kaudernitermes*: Named after the explorer W. Kaudern; -termes from Latin termes.
 
+ES — *Kaudernitermes*: En honor del explorador W. Kaudern; -termes, del latín termes.
+
 种加词 *nigritus*：拉丁文/希腊文词根「nigr」（黑）
 
 EN — epithet *nigritus*: From the descriptive term 'nigr' (black)
+
+ES — epithet *nigritus*: Del término descriptivo «nigr» (negro)
 
 <!-- src:S0018 -->
 

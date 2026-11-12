@@ -38,9 +38,13 @@ ES — **马查多近扭白蚁** (*Pericapritermes machadoi*) es una especie del
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *machadoi*：以人名 Machado（马查多）命名（葡萄牙昆虫学家 A. de Barros Machado，在安哥拉采集）
 
 EN — epithet *machadoi*: Named after Machado (Portuguese entomologist A. de Barros Machado)
+
+ES — epithet *machadoi*: En honor de Machado (entomólogo portugués A. de Barros Machado)
 
 <!-- src:S0018 -->
 

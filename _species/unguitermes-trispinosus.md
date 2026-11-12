@@ -38,9 +38,13 @@ ES — **三针爪白蚁** (*Unguitermes trispinosus*) es una especie del géner
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *trispinosus*：拉丁文 tri-（三）+ spinosus（多刺），三刺
 
 EN — epithet *trispinosus*: Latin tri- (three) + spinosus (spiny), three-spined
+
+ES — epithet *trispinosus*: Del latín tri- (tres) + spinosus (espinoso), con tres espinas
 
 <!-- src:S0018 -->
 

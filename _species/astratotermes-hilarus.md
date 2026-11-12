@@ -38,9 +38,13 @@ ES — **高兴无刃白蚁** (*Astratotermes hilarus*) es una especie del géne
 
 EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astratotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hilarus*：拉丁文 hilarus（欢快的）
 
 EN — epithet *hilarus*: Latin hilarus (cheerful)
+
+ES — epithet *hilarus*: Del latín hilarus (alegre)
 
 <!-- src:S0018 -->
 

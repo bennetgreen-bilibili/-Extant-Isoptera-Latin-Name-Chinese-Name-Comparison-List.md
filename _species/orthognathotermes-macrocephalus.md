@@ -38,9 +38,13 @@ ES — **大头直颚白蚁** (*Orthognathotermes macrocephalus*) es una especie
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *macrocephalus*：希腊文 makros（大）+ kephalē（头），大头
 
 EN — epithet *macrocephalus*: Greek makros (large) + kephalē (head), large-headed
+
+ES — epithet *macrocephalus*: Del griego makros (grande) + kephalē (cabeza), de cabeza grande
 
 <!-- src:S0018 -->
 

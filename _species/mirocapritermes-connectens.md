@@ -38,9 +38,13 @@ ES — **连接瘤白蚁** (*Mirocapritermes connectens*) es una especie, y la e
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *connectens*：拉丁文 connectens（连接的）
 
 EN — epithet *connectens*: Latin connectens (connecting)
+
+ES — epithet *connectens*: Del latín connectens (que conecta)
 
 <!-- src:S0018 -->
 

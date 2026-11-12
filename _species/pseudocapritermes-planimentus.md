@@ -38,9 +38,13 @@ ES — **平颏伪扭白蚁** (*Pseudocapritermes planimentus*) es una especie d
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *planimentus*：拉丁文 planus（平）+ mentum（颏），平颏
 
 EN — epithet *planimentus*: Latin planus (flat) + mentum (chin), flat-chinned
+
+ES — epithet *planimentus*: Del latín planus (plano) + mentum (mentón), de mentón plano
 
 <!-- src:S0018 -->
 

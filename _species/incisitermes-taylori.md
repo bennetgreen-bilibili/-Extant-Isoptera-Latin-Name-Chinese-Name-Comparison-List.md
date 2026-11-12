@@ -35,9 +35,13 @@ ES — **泰勒楹白蚁** (*Incisitermes taylori*) es una especie del género *
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *taylori*：以人名 Taylor（具体身份待考） 命名
 
 EN — epithet *taylori*: Named after Taylor
+
+ES — epithet *taylori*: En honor de Taylor
 
 <!-- src:S0018 -->
 

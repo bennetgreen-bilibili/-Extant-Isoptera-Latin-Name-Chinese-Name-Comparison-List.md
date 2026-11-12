@@ -40,9 +40,13 @@ ES — **大锯白蚁** (*Microcerotermes crassus*) es una especie del género *
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *crassus*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassus*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassus*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

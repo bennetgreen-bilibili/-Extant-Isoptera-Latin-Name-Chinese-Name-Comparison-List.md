@@ -35,9 +35,13 @@ ES — **哥斯达黎加皱白蚁** (*Rugitermes costaricensis*) es una especie 
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *costaricensis*：以地名 哥斯达黎加 命名
 
 EN — epithet *costaricensis*: Named after the locality Costaric
+
+ES — epithet *costaricensis*: Por la localidad de Costaric
 
 <!-- src:S0018 -->
 

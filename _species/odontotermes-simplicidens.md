@@ -38,9 +38,13 @@ ES — **简齿土白蚁** (*Odontotermes simplicidens*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *simplicidens*：拉丁文 simplex（简单）+ dens（齿），简单齿
 
 EN — epithet *simplicidens*: Latin simplex (simple) + dens (tooth), simple-toothed
+
+ES — epithet *simplicidens*: Del latín simplex (simple) + dens (diente), de diente simple
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **西尔韦斯特里堆砂白蚁** (*Cryptotermes silvestrii*) es una esp
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *silvestrii*：以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）
 
 EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
+
+ES — epithet *silvestrii*: En honor del entomólogo F. Silvestri
 
 <!-- src:S0018 -->
 

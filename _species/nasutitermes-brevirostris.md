@@ -38,9 +38,13 @@ ES — **短吻象白蚁** (*Nasutitermes brevirostris*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *brevirostris*：拉丁文/希腊文 brevi（短）+ rostris（喙），指短喙
 
 EN — epithet *brevirostris*: From brevi (短) + rostris (喙)
+
+ES — epithet *brevirostris*: De brevi (corto) + rostris (pico)
 
 <!-- src:S0018 -->
 

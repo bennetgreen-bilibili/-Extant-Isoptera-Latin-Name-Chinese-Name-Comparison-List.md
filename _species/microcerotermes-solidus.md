@@ -38,9 +38,13 @@ ES — **坚硬锯白蚁** (*Microcerotermes solidus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *solidus*：拉丁文 solidus（坚实的）
 
 EN — epithet *solidus*: Latin solidus (solid)
+
+ES — epithet *solidus*: Del latín solidus (sólido)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **盖伦善白蚁** (*Amicotermes galenus*) es una especie, y la especie 
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *galenus*：以人名 Galen 命名（或指希腊名医 Galenus）
 
 EN — epithet *galenus*: Named after Galen (the Greek physician)
+
+ES — epithet *galenus*: En honor de Galeno (el médico griego)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **角头钝颚白蚁** (*Ahmaditermes deltocephalus*) es una especie del 
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *deltocephalus*：希腊文 delta（三角）+ kephalē（头），三角头
 
 EN — epithet *deltocephalus*: Greek delta (triangle) + kephalē (head), triangular-headed
+
+ES — epithet *deltocephalus*: Del griego delta (triángulo) + kephalē (cabeza), de cabeza triangular
 
 <!-- src:S0018 -->
 

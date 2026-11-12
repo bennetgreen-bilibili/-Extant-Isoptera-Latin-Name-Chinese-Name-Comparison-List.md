@@ -40,9 +40,13 @@ ES — **细瘦象白蚁** (*Nasutitermes gracilis*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *gracilis*：拉丁文 gracilis（细长、纤细）
 
 EN — epithet *gracilis*: Latin gracilis (slender)
+
+ES — epithet *gracilis*: Del latín gracilis (esbelto)
 
 <!-- src:S0018 -->
 

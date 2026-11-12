@@ -38,9 +38,13 @@ ES — **亚藏象白蚁** (*Nasutitermes subtibetanus*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *subtibetanus*：拉丁文 sub（下、近）＋Tibet（西藏），指近西藏的
 
 EN — epithet *subtibetanus*: Latin sub (below, near) + Tibet: near Tibet
+
+ES — epithet *subtibetanus*: Latín sub (debajo, cerca) + Tibet: cercano al Tíbet
 
 <!-- src:S0018 -->
 

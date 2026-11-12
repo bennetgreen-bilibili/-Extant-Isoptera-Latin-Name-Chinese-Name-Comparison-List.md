@@ -38,9 +38,13 @@ ES — **小刺无锐白蚁** (*Ateuchotermes spinulatus*) es una especie del g�
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *spinulatus*：拉丁文/希腊文 spinul（细刺）+ atus（具），指细刺具
 
 EN — epithet *spinulatus*: From spinul (细刺) + atus (具)
+
+ES — epithet *spinulatus*: De spinul (espina fina) + atus (que posee)
 
 <!-- src:S0018 -->
 

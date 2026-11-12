@@ -38,9 +38,13 @@ ES — **宽剑白蚁** (*Machadotermes latus*) es una especie del género *Mach
 
 EN — *Machadotermes*: Named after a person (Machado); -termes from Latin termes.
 
+ES — *Machadotermes*: En honor de una persona (Machado); -termes, del latín termes.
+
 种加词 *latus*：拉丁文 latus（宽）
 
 EN — epithet *latus*: Latin latus (broad)
+
+ES — epithet *latus*: Del latín latus (ancho)
 
 <!-- src:S0018 -->
 

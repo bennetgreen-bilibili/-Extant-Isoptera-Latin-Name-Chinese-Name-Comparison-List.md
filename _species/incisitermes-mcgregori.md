@@ -35,9 +35,13 @@ ES — **麦格雷戈楹白蚁** (*Incisitermes mcgregori*) es una especie del g
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *mcgregori*：以人名 McGregor（麦格雷戈）命名（疑为美国鸟类学家 Richard C. McGregor，在菲律宾采集）
 
 EN — epithet *mcgregori*: Named after McGregor (likely American ornithologist R. C. McGregor)
+
+ES — epithet *mcgregori*: En honor de McGregor (probablemente el ornitólogo estadounidense R. C. McGregor)
 
 <!-- src:S0018 -->
 

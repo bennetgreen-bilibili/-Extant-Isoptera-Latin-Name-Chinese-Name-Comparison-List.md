@@ -38,9 +38,13 @@ ES — **直颚等颚白蚁** (*Isognathotermes rectimalatus*) es una especie de
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *rectimalatus*：拉丁文/希腊文 rectimal（直）+ atus（具），指直具
 
 EN — epithet *rectimalatus*: From rectimal (直) + atus (具)
+
+ES — epithet *rectimalatus*: De rectimal (recto) + atus (que posee)
 
 <!-- src:S0018 -->
 

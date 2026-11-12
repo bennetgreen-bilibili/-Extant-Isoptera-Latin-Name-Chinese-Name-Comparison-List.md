@@ -38,9 +38,13 @@ ES — **米什拉角白蚁** (*Angulitermes mishrai*) es una especie del géner
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *mishrai*：以人名 Mishra（米什拉，印度姓氏）命名
 
 EN — epithet *mishrai*: Named after Mishra
+
+ES — epithet *mishrai*: En honor de Mishra
 
 <!-- src:S0018 -->
 

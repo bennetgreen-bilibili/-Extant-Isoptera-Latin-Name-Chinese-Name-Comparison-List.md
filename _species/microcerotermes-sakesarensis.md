@@ -38,9 +38,13 @@ ES — **瑟盖瑟尔锯白蚁** (*Microcerotermes sakesarensis*) es una especie
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *sakesarensis*：以地名 Sakesar（萨凯萨尔山，巴基斯坦旁遮普盐岭）命名
 
 EN — epithet *sakesarensis*: Named after the locality Sakesar (Salt Range, Punjab, Pakistan)
+
+ES — epithet *sakesarensis*: Por la localidad de Sakesar (Salt Range, Punyab, Pakistán)
 
 <!-- src:S0018 -->
 

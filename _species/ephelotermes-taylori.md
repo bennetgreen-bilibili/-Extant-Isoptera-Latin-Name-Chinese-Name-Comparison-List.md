@@ -38,9 +38,13 @@ ES — **泰勒棒颚白蚁** (*Ephelotermes taylori*) es una especie del géner
 
 EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ephelotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *taylori*：以人名 Taylor（具体身份待考） 命名
 
 EN — epithet *taylori*: Named after Taylor
+
+ES — epithet *taylori*: En honor de Taylor
 
 <!-- src:S0018 -->
 

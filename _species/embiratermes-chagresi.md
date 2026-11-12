@@ -38,9 +38,13 @@ ES — **查格雷斯生白蚁** (*Embiratermes chagresi*) es una especie del g�
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *chagresi*：以地名 Chagres（查格雷斯河）命名
 
 EN — epithet *chagresi*: Named after the locality Chagres
+
+ES — epithet *chagresi*: Por la localidad de Chagres
 
 <!-- src:S0018 -->
 

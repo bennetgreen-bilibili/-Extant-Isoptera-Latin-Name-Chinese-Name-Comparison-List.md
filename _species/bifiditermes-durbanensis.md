@@ -37,9 +37,13 @@ ES — **德班双裂白蚁** (*Bifiditermes durbanensis*) es una especie del g�
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *durbanensis*：以德班（Durban，南非）命名
 
 EN — epithet *durbanensis*: Named after Durban (South Africa)
+
+ES — epithet *durbanensis*: Por la localidad de Durban (Sudáfrica)
 
 <!-- src:S0018 -->
 

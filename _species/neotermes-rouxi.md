@@ -35,9 +35,13 @@ ES — **鲁新白蚁** (*Neotermes rouxi*) es una especie del género *Neoterme
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *rouxi*：以人名 Roux 命名（具体指代待考）
 
 EN — epithet *rouxi*: Named after a person "Roux" (identity unconfirmed)
+
+ES — epithet *rouxi*: En honor de una persona «Roux» (identidad no confirmada)
 
 <!-- src:S0018 -->
 

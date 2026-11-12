@@ -38,9 +38,13 @@ ES — **懒惰无利器白蚁** (*Astalotermes ignavus*) es una especie del gé
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *ignavus*：拉丁文 ignavus（懒惰的）
 
 EN — epithet *ignavus*: Latin ignavus (lazy)
+
+ES — epithet *ignavus*: Del latín ignavus (perezoso)
 
 <!-- src:S0018 -->
 

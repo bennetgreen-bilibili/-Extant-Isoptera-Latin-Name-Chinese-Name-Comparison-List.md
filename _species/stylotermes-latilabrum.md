@@ -35,9 +35,13 @@ ES — **宽唇杆白蚁** (*Stylotermes latilabrum*) es una especie del género
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *latilabrum*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latilabrum*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latilabrum*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

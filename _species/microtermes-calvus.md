@@ -38,9 +38,13 @@ ES — **无毛小白蚁** (*Microtermes calvus*) es una especie del género *Mi
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *calvus*：拉丁文 calvus（秃的、光秃的）
 
 EN — epithet *calvus*: Latin calvus (bald)
+
+ES — epithet *calvus*: Del latín calvus (calvo)
 
 <!-- src:S0018 -->
 

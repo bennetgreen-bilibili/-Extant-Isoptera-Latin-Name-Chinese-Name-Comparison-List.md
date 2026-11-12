@@ -38,9 +38,13 @@ ES — **喜树象白蚁** (*Nasutitermes dendrophilus*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *dendrophilus*：希腊文 dendron（树）+ philos（爱），爱树、栖树
 
 EN — epithet *dendrophilus*: Greek dendron (tree) + philos (loving), tree-loving
+
+ES — epithet *dendrophilus*: Del griego dendron (árbol) + philos (amante), amante de los árboles
 
 <!-- src:S0018 -->
 

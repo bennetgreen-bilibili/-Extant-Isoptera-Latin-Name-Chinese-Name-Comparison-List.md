@@ -38,9 +38,13 @@ ES — **点囟木堆白蚁** (*Xylochomitermes punctillus*) es una especie del 
 
 EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
 
+ES — *Xylochomitermes*: Del griego xylon (madera) + chōma (túmulo) + latín termes.
+
 种加词 *punctillus*：拉丁文/希腊文词根「punct」（刻点）
 
 EN — epithet *punctillus*: From the descriptive term 'punct' (punctate)
+
+ES — epithet *punctillus*: Del término descriptivo «punct» (punteado)
 
 <!-- src:S0018 -->
 

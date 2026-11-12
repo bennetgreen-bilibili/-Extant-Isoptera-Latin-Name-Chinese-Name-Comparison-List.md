@@ -38,9 +38,13 @@ ES — **骗子棕榈白蚁** (*Palmitermes impostor*) es la única especie vivi
 
 EN — *Palmitermes*: From Latin palma (palm) + termes.
 
+ES — *Palmitermes*: Del latín palma (palma) + termes.
+
 种加词 *impostor*：拉丁文/希腊文 im-（无、不）+ postor（后），指无后
 
 EN — epithet *impostor*: From im- (without) + postor (后)
+
+ES — epithet *impostor*: De im- (sin) + postor (detrás)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **具刺库塔巴白蚁** (*Koutabatermes spinifer*) es la única especie
 
 EN — *Koutabatermes*: From the place name Koutaba; -termes from Latin termes.
 
+ES — *Koutabatermes*: Del topónimo Koutaba; -termes, del latín termes.
+
 种加词 *spinifer*：拉丁文 spina（刺）+ -fer（具），具刺
 
 EN — epithet *spinifer*: Latin spina (spine) + -fer (bearing), spiny
+
+ES — epithet *spinifer*: Del latín spina (espina) + -fer (que lleva), espinoso
 
 <!-- src:S0018 -->
 

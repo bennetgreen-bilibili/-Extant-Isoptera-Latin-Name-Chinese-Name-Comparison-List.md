@@ -35,9 +35,13 @@ ES — **蒂瓦里长鼻白蚁** (*Schedorhinotermes tiwarii*) es una especie de
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *tiwarii*：以人名 Tiwar 命名（具体身份待考）
 
 EN — epithet *tiwarii*: Named after Tiwar
+
+ES — epithet *tiwarii*: En honor de Tiwar (identidad no confirmada)
 
 <!-- src:S0018 -->
 

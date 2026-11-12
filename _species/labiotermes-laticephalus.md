@@ -38,9 +38,13 @@ ES — **宽头厚唇白蚁** (*Labiotermes laticephalus*) es una especie del g�
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *laticephalus*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *laticephalus*: From the descriptive term 'lat' (broad)
+
+ES — epithet *laticephalus*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

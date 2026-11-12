@@ -38,9 +38,13 @@ ES — **西里伯斯锯白蚁** (*Microcerotermes celebensis*) es una especie d
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *celebensis*：以地名 西里伯斯（苏拉威西） 命名
 
 EN — epithet *celebensis*: Named after the locality Celeb
+
+ES — epithet *celebensis*: Por la localidad de Célebes
 
 <!-- src:S0018 -->
 

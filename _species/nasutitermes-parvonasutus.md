@@ -40,9 +40,13 @@ ES — **小象白蚁** (*Nasutitermes parvonasutus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *parvonasutus*：拉丁文/希腊文词根「parv」（小）
 
 EN — epithet *parvonasutus*: From the descriptive term 'parv' (small)
+
+ES — epithet *parvonasutus*: Del término descriptivo «parv» (pequeño)
 
 <!-- src:S0018 -->
 

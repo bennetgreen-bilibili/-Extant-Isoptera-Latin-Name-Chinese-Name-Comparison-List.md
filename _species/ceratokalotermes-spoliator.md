@@ -35,9 +35,13 @@ ES — **掠夺角木白蚁** (*Ceratokalotermes spoliator*) es la única especi
 
 EN — *Ceratokalotermes*: From Greek keras (horn) + kalos (beautiful) + Latin termes.
 
+ES — *Ceratokalotermes*: Del griego keras (cuerno) + kalos (bello) + latín termes.
+
 种加词 *spoliator*：拉丁文 spoliator（掠夺者）
 
 EN — epithet *spoliator*: Latin spoliator (plunderer)
+
+ES — epithet *spoliator*: Del latín spoliator (saqueador)
 
 <!-- src:S0018 -->
 

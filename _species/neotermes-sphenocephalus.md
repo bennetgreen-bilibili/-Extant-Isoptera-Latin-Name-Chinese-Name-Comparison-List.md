@@ -35,9 +35,13 @@ ES — **楔头新白蚁** (*Neotermes sphenocephalus*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *sphenocephalus*：拉丁文/希腊文词根「sph」（球）
 
 EN — epithet *sphenocephalus*: From the descriptive term 'sph' (sphere)
+
+ES — epithet *sphenocephalus*: Del término descriptivo «sph» (esfera)
 
 <!-- src:S0018 -->
 

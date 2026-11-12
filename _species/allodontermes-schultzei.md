@@ -38,9 +38,13 @@ ES — **舒尔茨奇齿白蚁** (*Allodontermes schultzei*) es una especie, y l
 
 EN — *Allodontermes*: From Greek allos (other) + odous (tooth) + termes.
 
+ES — *Allodontermes*: Del griego allos (otro) + odous (diente) + termes.
+
 种加词 *schultzei*：以 L. Schultze（德国动物学家）命名
 
 EN — epithet *schultzei*: Named after L. Schultze
+
+ES — epithet *schultzei*: En honor de L. Schultze
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **深棕乳白蚁** (*Coptotermes brunneus*) es una especie del género *
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *brunneus*：拉丁文 brunneus（褐）
 
 EN — epithet *brunneus*: Latin brunneus (brown)
+
+ES — epithet *brunneus*: Del latín brunneus (marrón)
 
 <!-- src:S0018 -->
 

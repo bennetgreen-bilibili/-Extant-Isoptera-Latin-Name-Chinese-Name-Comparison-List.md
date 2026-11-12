@@ -40,9 +40,13 @@ ES — **栖球土白蚁** (*Odontotermes globicola*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *globicola*：拉丁文/希腊文 globi（球）+ cola（栖），指球栖
 
 EN — epithet *globicola*: From globi (球) + cola (栖)
+
+ES — epithet *globicola*: De globi (globo) + cola (que habita)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **大平额等颚白蚁** (*Isognathotermes magniplanifrons*) es una espe
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *magniplanifrons*：拉丁文/希腊文 magniplani（大）+ frons（额），指大额
 
 EN — epithet *magniplanifrons*: From magniplani (大) + frons (额)
+
+ES — epithet *magniplanifrons*: De magniplani (grande) + frons (frente)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **倾头杆白蚁** (*Stylotermes inclinatus*) es una especie del género
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *inclinatus*：拉丁文 inclinatus（倾斜的）
 
 EN — epithet *inclinatus*: Latin inclinatus (inclined)
+
+ES — epithet *inclinatus*: Del latín inclinatus (inclinado)
 
 <!-- src:S0018 -->
 

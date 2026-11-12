@@ -35,9 +35,13 @@ ES — **埃塞俄比亚异白蚁** (*Heterotermes aethiopicus*) es una especie 
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *aethiopicus*：地名：埃塞俄比亚（泛指非洲）
 
 EN — epithet *aethiopicus*: After Ethiopia (Africa)
+
+ES — epithet *aethiopicus*: Por Etiopía (África)
 
 <!-- src:S0018 -->
 

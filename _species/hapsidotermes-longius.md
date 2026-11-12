@@ -38,9 +38,13 @@ ES — **较长络白蚁** (*Hapsidotermes longius*) es una especie del género 
 
 EN — *Hapsidotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Hapsidotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *longius*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longius*: From the descriptive term 'long' (long)
+
+ES — epithet *longius*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **马拉昆沙巴白蚁** (*Sabahitermes malakuni*) es una especie, y la 
 
 EN — *Sabahitermes*: From Sabah (Malaysia) + termes.
 
+ES — *Sabahitermes*: De Sabah (Malasia) + termes.
+
 种加词 *malakuni*：以地名 Malakun（马拉昆）命名
 
 EN — epithet *malakuni*: Named after the locality Malakun
+
+ES — epithet *malakuni*: Por la localidad de Malakun
 
 <!-- src:S0018 -->
 

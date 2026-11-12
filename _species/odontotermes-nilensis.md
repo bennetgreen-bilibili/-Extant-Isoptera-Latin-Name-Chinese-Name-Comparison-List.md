@@ -38,9 +38,13 @@ ES — **尼罗土白蚁** (*Odontotermes nilensis*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *nilensis*：以地名 尼兰布尔（印度） 命名
 
 EN — epithet *nilensis*: Named after the locality Nil
+
+ES — epithet *nilensis*: Por la localidad del Nilo
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **光背象白蚁** (*Nasutitermes glabritergus*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *glabritergus*：拉丁文/希腊文词根「glabr」（光滑）
 
 EN — epithet *glabritergus*: From the descriptive term 'glabr' (smooth)
+
+ES — epithet *glabritergus*: Del término descriptivo «glabr» (liso)
 
 <!-- src:S0018 -->
 

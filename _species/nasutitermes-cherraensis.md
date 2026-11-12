@@ -38,9 +38,13 @@ ES — **乞拉象白蚁** (*Nasutitermes cherraensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *cherraensis*：以地名 Cherrapunji（乞拉朋齐）命名
 
 EN — epithet *cherraensis*: Named after the locality Cherrapunji
+
+ES — epithet *cherraensis*: Por la localidad de Cherrapunji
 
 <!-- src:S0018 -->
 

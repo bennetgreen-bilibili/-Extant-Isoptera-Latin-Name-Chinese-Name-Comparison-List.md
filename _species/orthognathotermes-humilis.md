@@ -38,9 +38,13 @@ ES — **小直颚白蚁** (*Orthognathotermes humilis*) es una especie del gén
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *humilis*：拉丁文 humilis（低矮的、谦卑的）
 
 EN — epithet *humilis*: Latin humilis (low, humble)
+
+ES — epithet *humilis*: Del latín humilis (bajo, humilde)
 
 <!-- src:S0018 -->
 

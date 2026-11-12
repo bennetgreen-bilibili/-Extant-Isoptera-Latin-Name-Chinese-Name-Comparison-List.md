@@ -38,9 +38,13 @@ ES — **多毛小脊突白蚁** (*Lophotermes crinitus*) es una especie del gé
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *crinitus*：拉丁文 crinitus（长毛的）
 
 EN — epithet *crinitus*: Latin crinitus (long-haired)
+
+ES — epithet *crinitus*: Del latín crinitus (de pelo largo)
 
 <!-- src:S0018 -->
 

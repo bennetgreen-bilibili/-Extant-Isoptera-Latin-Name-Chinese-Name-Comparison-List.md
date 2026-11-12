@@ -35,9 +35,13 @@ ES — **波纳佩原鼻白蚁** (*Prorhinotermes ponapensis*) es una especie de
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *ponapensis*：以地名 波纳佩（密克罗尼西亚） 命名
 
 EN — epithet *ponapensis*: Named after the locality Ponap
+
+ES — epithet *ponapensis*: Por la localidad de Ponap
 
 <!-- src:S0018 -->
 

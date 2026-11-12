@@ -38,9 +38,13 @@ ES — **旅居客白蚁** (*Inquilinitermes inquilinus*) es una especie del gé
 
 EN — *Inquilinitermes*: From Latin inquilinus (inquiline) + termes.
 
+ES — *Inquilinitermes*: Del latín inquilinus (inquilino) + termes.
+
 种加词 *inquilinus*：拉丁文 inquilinus（寄居的）
 
 EN — epithet *inquilinus*: Latin inquilinus (inquiline)
+
+ES — epithet *inquilinus*: Del latín inquilinus (inquilino)
 
 <!-- src:S0018 -->
 

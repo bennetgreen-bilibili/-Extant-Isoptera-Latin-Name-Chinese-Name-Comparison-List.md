@@ -38,9 +38,13 @@ ES — **云南亮白蚁** (*Euhamitermes yunnanensis*) es una especie del géne
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *yunnanensis*：地名：云南（中国）
 
 EN — epithet *yunnanensis*: After Yunnan (China)
+
+ES — epithet *yunnanensis*: Por Yunnan (China)
 
 <!-- src:S0018 -->
 

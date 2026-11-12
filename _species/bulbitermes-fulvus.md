@@ -38,9 +38,13 @@ ES — **栗色瓢白蚁** (*Bulbitermes fulvus*) es una especie del género *Bu
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *fulvus*：拉丁文/希腊文词根「fulv」（黄褐）
 
 EN — epithet *fulvus*: From the descriptive term 'fulv' (tawny)
+
+ES — epithet *fulvus*: Del término descriptivo «fulv» (leonado)
 
 <!-- src:S0018 -->
 

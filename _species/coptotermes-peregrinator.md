@@ -35,9 +35,13 @@ ES — **陌生乳白蚁** (*Coptotermes peregrinator*) es una especie del géne
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *peregrinator*：拉丁文 peregrinator（旅行者）
 
 EN — epithet *peregrinator*: Latin peregrinator (traveller)
+
+ES — epithet *peregrinator*: Del latín peregrinator (viajero)
 
 <!-- src:S0018 -->
 

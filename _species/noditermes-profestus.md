@@ -38,9 +38,13 @@ ES — **工作日节白蚁** (*Noditermes profestus*) es una especie del géner
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *profestus*：拉丁文 profestus（平常的、非节日的）
 
 EN — epithet *profestus*: Latin profestus (ordinary, non-festive)
+
+ES — epithet *profestus*: Del latín profestus (ordinario, no festivo)
 
 <!-- src:S0018 -->
 

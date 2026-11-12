@@ -38,9 +38,13 @@ ES — **好斗角象白蚁** (*Cornitermes pugnax*) es una especie del género 
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *pugnax*：拉丁文 pugnax（好斗的）
 
 EN — epithet *pugnax*: Latin pugnax (pugnacious)
+
+ES — epithet *pugnax*: Del latín pugnax (belicoso)
 
 <!-- src:S0018 -->
 

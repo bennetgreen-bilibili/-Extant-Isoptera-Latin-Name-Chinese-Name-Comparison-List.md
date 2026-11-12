@@ -35,9 +35,13 @@ ES — **具齿树白蚁** (*Glyptotermes dentatus*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *dentatus*：拉丁文 dentatus（有齿的）
 
 EN — epithet *dentatus*: Latin dentatus (toothed)
+
+ES — epithet *dentatus*: Del latín dentatus (dentado)
 
 <!-- src:S0018 -->
 

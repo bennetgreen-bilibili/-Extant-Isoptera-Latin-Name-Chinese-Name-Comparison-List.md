@@ -38,9 +38,13 @@ ES — **若尖象白蚁** (*Nasutitermes gardneriformis*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *gardneriformis*：以人名 Gardner 命名 + 拉丁文 -formis（形），似 Gardner 属
 
 EN — epithet *gardneriformis*: Named after Gardner + Latin -formis (shaped)
+
+ES — epithet *gardneriformis*: En honor de Gardner + del latín -formis (en forma de)
 
 <!-- src:S0018 -->
 

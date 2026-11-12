@@ -40,9 +40,13 @@ ES — **宽额象白蚁** (*Nasutitermes latifrons*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *latifrons*：拉丁文/希腊文 lati（宽）+ frons（额），指宽额
 
 EN — epithet *latifrons*: From lati (宽) + frons (额)
+
+ES — epithet *latifrons*: De lati (ancho) + frons (frente)
 
 <!-- src:S0018 -->
 

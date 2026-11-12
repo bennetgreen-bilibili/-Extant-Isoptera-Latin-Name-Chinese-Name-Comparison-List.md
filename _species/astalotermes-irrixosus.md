@@ -38,9 +38,13 @@ ES — **和平无利器白蚁** (*Astalotermes irrixosus*) es una especie del g
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *irrixosus*：拉丁文 irrisor（嘲笑者）或 rixa（争斗），好斗的
 
 EN — epithet *irrixosus*: Latin irrisor (mocker) or rixa (quarrel), quarrelsome
+
+ES — epithet *irrixosus*: Del latín irrisor (burlón) o rixa (riña), pendenciero
 
 <!-- src:S0018 -->
 

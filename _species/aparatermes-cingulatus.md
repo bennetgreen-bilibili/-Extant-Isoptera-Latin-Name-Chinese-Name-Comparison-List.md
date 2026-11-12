@@ -40,9 +40,13 @@ ES — **环带弯肠白蚁** (*Aparatermes cingulatus*) es una especie del gén
 
 EN — *Aparatermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Aparatermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cingulatus*：拉丁文 cingulatus（具带的）
 
 EN — epithet *cingulatus*: Latin cingulatus (banded, girdled)
+
+ES — epithet *cingulatus*: Del latín cingulatus (con bandas, ceñido)
 
 <!-- src:S0018 -->
 

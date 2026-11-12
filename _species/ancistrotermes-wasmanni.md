@@ -38,9 +38,13 @@ ES — **沃斯曼钩白蚁** (*Ancistrotermes wasmanni*) es una especie del gé
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *wasmanni*：以人名 Wasmann 命名（奥地利昆虫学家 E. Wasmann）
 
 EN — epithet *wasmanni*: Named after the entomologist E. Wasmann
+
+ES — epithet *wasmanni*: En honor del entomólogo E. Wasmann
 
 <!-- src:S0018 -->
 

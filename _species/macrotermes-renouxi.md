@@ -38,9 +38,13 @@ ES — **勒努大白蚁** (*Macrotermes renouxi*) es una especie del género *M
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *renouxi*：以人名 Renoux 命名（具体指代待考）
 
 EN — epithet *renouxi*: Named after a person "Renoux" (identity unconfirmed)
+
+ES — epithet *renouxi*: En honor de una persona «Renoux» (identidad no confirmada)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **地下锐颚白蚁** (*Hoplognathotermes submissus*) es una especie del
 
 EN — *Hoplognathotermes*: From Greek hoplon (weapon) + gnathos (jaw) + Latin termes.
 
+ES — *Hoplognathotermes*: Del griego hoplon (arma) + gnathos (mandíbula) + latín termes.
+
 种加词 *submissus*：拉丁文/希腊文词根「sub」（下、近）
 
 EN — epithet *submissus*: From the descriptive term 'sub' (sub-)
+
+ES — epithet *submissus*: Del término descriptivo «sub» (sub-)
 
 <!-- src:S0018 -->
 

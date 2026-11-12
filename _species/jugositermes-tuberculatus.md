@@ -38,9 +38,13 @@ ES — **具瘤岗白蚁** (*Jugositermes tuberculatus*) es la única especie vi
 
 EN — *Jugositermes*: From Latin jugosus (ridged) + termes.
 
+ES — *Jugositermes*: Del latín jugosus (con crestas) + termes.
+
 种加词 *tuberculatus*：拉丁文 tuberculatus（具小瘤）
 
 EN — epithet *tuberculatus*: Latin tuberculatus (tuberculate)
+
+ES — epithet *tuberculatus*: Del latín tuberculatus (tuberculado)
 
 <!-- src:S0018 -->
 

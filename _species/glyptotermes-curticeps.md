@@ -35,9 +35,13 @@ ES — **短头树白蚁** (*Glyptotermes curticeps*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *curticeps*：拉丁文 curtus（短）+ -ceps（头），短头
 
 EN — epithet *curticeps*: Latin curtus (short) + -ceps (head), short-headed
+
+ES — epithet *curticeps*: Del latín curtus (corto) + -ceps (cabeza), de cabeza corta
 
 <!-- src:S0018 -->
 

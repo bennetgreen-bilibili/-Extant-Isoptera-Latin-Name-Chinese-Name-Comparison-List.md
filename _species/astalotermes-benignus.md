@@ -38,9 +38,13 @@ ES — **仁慈无利器白蚁** (*Astalotermes benignus*) es una especie del g�
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *benignus*：拉丁文 benignus（温和的、仁慈的）
 
 EN — epithet *benignus*: Latin benignus (benign, kind)
+
+ES — epithet *benignus*: Del latín benignus (benigno, bondadoso)
 
 <!-- src:S0018 -->
 

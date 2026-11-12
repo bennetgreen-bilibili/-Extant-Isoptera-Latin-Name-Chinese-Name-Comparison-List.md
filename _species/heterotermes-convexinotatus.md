@@ -37,9 +37,13 @@ ES — **凸背异白蚁** (*Heterotermes convexinotatus*) es una especie del g�
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *convexinotatus*：拉丁文/希腊文 convexinot（凸）+ atus（具），指凸具
 
 EN — epithet *convexinotatus*: From convexinot (凸) + atus (具)
+
+ES — epithet *convexinotatus*: De convexinot (convexo) + atus (que posee)
 
 <!-- src:S0018 -->
 

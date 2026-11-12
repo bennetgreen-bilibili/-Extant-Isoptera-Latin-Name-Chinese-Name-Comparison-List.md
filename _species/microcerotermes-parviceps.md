@@ -40,9 +40,13 @@ ES — **小头锯白蚁** (*Microcerotermes parviceps*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *parviceps*：拉丁文 parvus（小）+ -ceps（头），小头
 
 EN — epithet *parviceps*: Latin parvus (small) + -ceps (head), small-headed
+
+ES — epithet *parviceps*: Del latín parvus (pequeño) + -ceps (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

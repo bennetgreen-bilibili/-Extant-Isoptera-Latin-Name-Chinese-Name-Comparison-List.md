@@ -38,9 +38,13 @@ ES — **极轻澳大利亚白蚁** (*Australitermes perlevis*) es una especie d
 
 EN — *Australitermes*: From Latin australis (southern) + termes.
 
+ES — *Australitermes*: Del latín australis (meridional) + termes.
+
 种加词 *perlevis*：拉丁文 per-（非常）+ levis（光滑），极光滑
 
 EN — epithet *perlevis*: Latin per- (very) + levis (smooth), very smooth
+
+ES — epithet *perlevis*: Del latín per- (muy) + levis (liso), muy liso
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **长翅散白蚁** (*Reticulitermes longipennis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *longipennis*：拉丁文 longus（长）+ penna（翅），长翅
 
 EN — epithet *longipennis*: Latin longus (long) + penna (wing), long-winged
+
+ES — epithet *longipennis*: Del latín longus (largo) + penna (ala), de alas largas
 
 <!-- src:S0018 -->
 

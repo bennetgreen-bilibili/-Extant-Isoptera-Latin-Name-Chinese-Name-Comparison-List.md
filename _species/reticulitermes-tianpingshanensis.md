@@ -35,9 +35,13 @@ ES — **天平山散白蚁** (*Reticulitermes tianpingshanensis*) es una especi
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *tianpingshanensis*：以地名 天平山（广西） 命名
 
 EN — epithet *tianpingshanensis*: Named after the locality Tianpingshan
+
+ES — epithet *tianpingshanensis*: Por la localidad de Tianpingshan (montaña Tianping, Guangxi)
 
 <!-- src:S0018 -->
 

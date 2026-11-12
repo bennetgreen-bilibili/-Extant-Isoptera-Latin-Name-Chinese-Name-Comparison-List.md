@@ -38,9 +38,13 @@ ES — **舍斯泰特小白蚁** (*Microtermes sjostedti*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
 
 EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+ES — epithet *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **卡纳塔克亮白蚁** (*Euhamitermes karnatakensis*) es una especie d
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *karnatakensis*：以地名 卡纳塔克（印度） 命名
 
 EN — epithet *karnatakensis*: Named after the locality Karnatak
+
+ES — epithet *karnatakensis*: Por la localidad de Karnatak
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **帕姆奎斯特土白蚁** (*Odontotermes palmquisti*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *palmquisti*：以人名 Palmquist（帕姆奎斯特）命名
 
 EN — epithet *palmquisti*: Named after Palmquist
+
+ES — epithet *palmquisti*: En honor de Palmquist
 
 <!-- src:S0018 -->
 

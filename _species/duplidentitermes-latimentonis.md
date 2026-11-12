@@ -38,9 +38,13 @@ ES — **宽颏双齿白蚁** (*Duplidentitermes latimentonis*) es una especie d
 
 EN — *Duplidentitermes*: From Latin duplex (double) + dens (tooth) + termes.
 
+ES — *Duplidentitermes*: Del latín duplex (doble) + dens (diente) + termes.
+
 种加词 *latimentonis*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latimentonis*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latimentonis*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

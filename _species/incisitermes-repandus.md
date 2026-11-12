@@ -35,9 +35,13 @@ ES — **转变楹白蚁** (*Incisitermes repandus*) es una especie del género 
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *repandus*：拉丁文 repandus（波状边缘的）
 
 EN — epithet *repandus*: Latin repandus (with wavy margin)
+
+ES — epithet *repandus*: Del latín repandus (de margen ondulado)
 
 <!-- src:S0018 -->
 

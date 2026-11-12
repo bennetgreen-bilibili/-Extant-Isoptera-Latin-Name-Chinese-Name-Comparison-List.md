@@ -35,9 +35,13 @@ ES — **短弯颚散白蚁** (*Reticulitermes brevicurvatus*) es una especie de
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *brevicurvatus*：拉丁文/希腊文 brevicurv（短）+ atus（具），指短具
 
 EN — epithet *brevicurvatus*: From brevicurv (短) + atus (具)
+
+ES — epithet *brevicurvatus*: De brevicurv (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

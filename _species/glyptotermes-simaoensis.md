@@ -35,9 +35,13 @@ ES — **思茅树白蚁** (*Glyptotermes simaoensis*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *simaoensis*：以地名 思茅（云南） 命名
 
 EN — epithet *simaoensis*: Named after the locality Simao
+
+ES — epithet *simaoensis*: Por la localidad de Simao
 
 <!-- src:S0018 -->
 

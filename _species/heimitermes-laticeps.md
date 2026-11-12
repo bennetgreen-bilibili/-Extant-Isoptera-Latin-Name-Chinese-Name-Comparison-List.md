@@ -38,9 +38,13 @@ ES — **宽头埃姆白蚁** (*Heimitermes laticeps*) es una especie, y la espe
 
 EN — *Heimitermes*: Named after a person (Heim); -termes from Latin termes.
 
+ES — *Heimitermes*: En honor de una persona (Heim); -termes, del latín termes.
+
 种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
 
 EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+ES — epithet *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 

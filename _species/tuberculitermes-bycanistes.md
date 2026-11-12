@@ -38,9 +38,13 @@ ES — **噪犀鸟小瘤白蚁** (*Tuberculitermes bycanistes*) es una especie, 
 
 EN — *Tuberculitermes*: From Latin tuberculum (small swelling) + termes.
 
+ES — *Tuberculitermes*: Del latín tuberculum (pequeña protuberancia) + termes.
+
 种加词 *bycanistes*：希腊文 bykanē（喇叭）+ -istes（吹奏者）
 
 EN — epithet *bycanistes*: Greek bykanē (trumpet) + -istes (blower)
+
+ES — epithet *bycanistes*: Del griego bykanē (trompeta) + -istes (que sopla)
 
 <!-- src:S0018 -->
 

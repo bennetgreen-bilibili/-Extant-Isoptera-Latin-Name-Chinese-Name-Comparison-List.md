@@ -38,9 +38,13 @@ ES — **地下异颚白蚁** (*Allognathotermes hypogeus*) es una especie, y la
 
 EN — *Allognathotermes*: From Greek allos (other) + gnathos (jaw) + Latin termes.
 
+ES — *Allognathotermes*: Del griego allos (otro) + gnathos (mandíbula) + latín termes.
+
 种加词 *hypogeus*：希腊文 hypo（下）+ gē（地），地下的
 
 EN — epithet *hypogeus*: Greek hypo (under) + gē (earth), subterranean
+
+ES — epithet *hypogeus*: Del griego hypo (debajo) + gē (tierra), subterráneo
 
 <!-- src:S0018 -->
 

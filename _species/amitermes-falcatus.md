@@ -38,9 +38,13 @@ ES — **镰颚弓白蚁** (*Amitermes falcatus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *falcatus*：拉丁文 falcatus（镰状的）
 
 EN — epithet *falcatus*: Latin falcatus (sickle-shaped)
+
+ES — epithet *falcatus*: Del latín falcatus (en forma de hoz)
 
 <!-- src:S0018 -->
 

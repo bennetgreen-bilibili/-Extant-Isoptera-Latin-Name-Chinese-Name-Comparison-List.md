@@ -35,9 +35,13 @@ ES — **施密德树白蚁** (*Glyptotermes schmidti*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *schmidti*：以 K. P. Schmidt（Karl Patterson Schmidt）博士命名，芝加哥自然历史博物馆动物学首席馆长，其于 1929 年 Crane Pacific Expedition 采集了该种。
 
 EN — epithet *schmidti*: Named in honor of the late Dr. K. P. Schmidt, Chief Curator of Zoology, Chicago Natural History Museum.
+
+ES — epithet *schmidti*: En honor del difunto Dr. K. P. Schmidt, conservador jefe de zoología, Museo de Historia Natural de Chicago.
 
 <!-- src:S0018 -->
 

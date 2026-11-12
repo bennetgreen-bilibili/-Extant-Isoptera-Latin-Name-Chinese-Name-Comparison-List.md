@@ -38,9 +38,13 @@ ES — **凹胸考登白蚁** (*Kaudernitermes salebrithorax*) es una especie de
 
 EN — *Kaudernitermes*: Named after the explorer W. Kaudern; -termes from Latin termes.
 
+ES — *Kaudernitermes*: En honor del explorador W. Kaudern; -termes, del latín termes.
+
 种加词 *salebrithorax*：拉丁文 salebra（粗糙）+ thorax（胸），糙胸
 
 EN — epithet *salebrithorax*: Latin salebra (roughness) + thorax (thorax), rough-thoraxed
+
+ES — epithet *salebrithorax*: Del latín salebra (aspereza) + thorax (tórax), de tórax rugoso
 
 <!-- src:S0018 -->
 

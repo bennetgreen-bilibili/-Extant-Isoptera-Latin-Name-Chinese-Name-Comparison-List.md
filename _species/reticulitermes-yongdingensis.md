@@ -35,9 +35,13 @@ ES — **永定散白蚁** (*Reticulitermes yongdingensis*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *yongdingensis*：以地名 永定（福建） 命名
 
 EN — epithet *yongdingensis*: Named after the locality Yongding
+
+ES — epithet *yongdingensis*: Por la localidad de Yongding
 
 <!-- src:S0018 -->
 

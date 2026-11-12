@@ -37,9 +37,13 @@ ES — **麻头堆砂白蚁** (*Cryptotermes brevis*) es una especie del género
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *brevis*：拉丁文 brevis（短）
 
 EN — epithet *brevis*: Latin brevis (short)
+
+ES — epithet *brevis*: Del latín brevis (corto)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **亚径象白蚁** (*Nasutitermes subtibialis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *subtibialis*：拉丁文/希腊文 sub（下、近）+ tibialis（胫），指下、近胫
 
 EN — epithet *subtibialis*: From sub (下、近) + tibialis (胫)
+
+ES — epithet *subtibialis*: De sub (abajo, cerca) + tibialis (tibia)
 
 <!-- src:S0018 -->
 

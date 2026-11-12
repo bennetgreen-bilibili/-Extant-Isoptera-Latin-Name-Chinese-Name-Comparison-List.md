@@ -38,9 +38,13 @@ ES — **凿洞锯白蚁** (*Microcerotermes cavus*) es una especie del género 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *cavus*：拉丁文 cavus（空的、凹的）
 
 EN — epithet *cavus*: Latin cavus (hollow)
+
+ES — epithet *cavus*: Del latín cavus (hueco)
 
 <!-- src:S0018 -->
 

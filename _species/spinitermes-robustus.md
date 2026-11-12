@@ -38,9 +38,13 @@ ES — **粗壮针刺白蚁** (*Spinitermes robustus*) es una especie del géner
 
 EN — *Spinitermes*: From Latin spina (spine) + termes.
 
+ES — *Spinitermes*: Del latín spina (espina) + termes.
+
 种加词 *robustus*：拉丁文 robustus（粗壮）
 
 EN — epithet *robustus*: Latin robustus (robust)
+
+ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 

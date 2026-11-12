@@ -38,9 +38,13 @@ ES — **马登土白蚁** (*Odontotermes matangensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *matangensis*：以马来西亚沙捞越马当（Matang）命名
 
 EN — epithet *matangensis*: Named after Matang, Sarawak, Malaysia
+
+ES — epithet *matangensis*: Por Matang, Sarawak, Malasia
 
 <!-- src:S0018 -->
 

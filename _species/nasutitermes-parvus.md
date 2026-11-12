@@ -38,9 +38,13 @@ ES — **微象白蚁** (*Nasutitermes parvus*) es una especie del género *Nasu
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *parvus*：拉丁文 parvus（小）
 
 EN — epithet *parvus*: Latin parvus (small)
+
+ES — epithet *parvus*: Del latín parvus (pequeño)
 
 <!-- src:S0018 -->
 

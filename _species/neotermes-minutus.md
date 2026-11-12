@@ -35,9 +35,13 @@ ES — **微小新白蚁** (*Neotermes minutus*) es una especie del género *Neo
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *minutus*：拉丁文 minutus（微小）
 
 EN — epithet *minutus*: Latin minutus (tiny)
+
+ES — epithet *minutus*: Del latín minutus (diminuto)
 
 <!-- src:S0018 -->
 

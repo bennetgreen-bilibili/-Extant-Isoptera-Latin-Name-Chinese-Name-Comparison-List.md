@@ -38,9 +38,13 @@ ES — **不斗无甲白蚁** (*Anenteotermes disluctans*) es una especie, y la 
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *disluctans*：拉丁文 disluctans（挣脱的、争斗的）
 
 EN — epithet *disluctans*: Latin disluctans (struggling)
+
+ES — epithet *disluctans*: Del latín disluctans (que forcejea)
 
 <!-- src:S0018 -->
 

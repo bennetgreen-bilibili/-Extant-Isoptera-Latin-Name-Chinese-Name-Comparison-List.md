@@ -35,9 +35,13 @@ ES — **萨莱尔新白蚁** (*Neotermes saleierensis*) es una especie del gén
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *saleierensis*：以地名 Saleier/Selayar（塞拉亚群岛，印度尼西亚南苏拉威西）命名
 
 EN — epithet *saleierensis*: Named after the locality Saleier (Selayar) Islands, South Sulawesi, Indonesia
+
+ES — epithet *saleierensis*: Por la localidad de las islas Saleier (Selayar), Célebes Meridional, Indonesia
 
 <!-- src:S0018 -->
 

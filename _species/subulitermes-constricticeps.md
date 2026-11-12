@@ -38,9 +38,13 @@ ES — **缩头锥白蚁** (*Subulitermes constricticeps*) es una especie del g�
 
 EN — *Subulitermes*: From Latin subula (awl) + termes.
 
+ES — *Subulitermes*: Del latín subula (lezna) + termes.
+
 种加词 *constricticeps*：拉丁文/希腊文 constricti（缢缩）+ ceps（头），指缢缩头
 
 EN — epithet *constricticeps*: From constricti (缢缩) + ceps (头)
+
+ES — epithet *constricticeps*: De constricti (constreñido) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

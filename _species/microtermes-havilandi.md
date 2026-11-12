@@ -40,9 +40,13 @@ ES — **哈维兰小白蚁** (*Microtermes havilandi*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *havilandi*：以人名 Haviland 命名（英国昆虫学家 G. D. Haviland）
 
 EN — epithet *havilandi*: Named after the entomologist G. D. Haviland
+
+ES — epithet *havilandi*: En honor del entomólogo G. D. Haviland
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **奇头新白蚁** (*Neotermes miracapitalis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *miracapitalis*：拉丁文 mirus（奇异）+ caput（头），奇头
 
 EN — epithet *miracapitalis*: Latin mirus (wonderful) + caput (head), wondrous-headed
+
+ES — epithet *miracapitalis*: Del latín mirus (admirable) + caput (cabeza), de cabeza admirable
 
 <!-- src:S0018 -->
 

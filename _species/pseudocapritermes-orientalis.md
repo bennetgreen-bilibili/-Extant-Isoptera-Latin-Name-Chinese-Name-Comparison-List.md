@@ -38,9 +38,13 @@ ES — **东方伪扭白蚁** (*Pseudocapritermes orientalis*) es una especie de
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *orientalis*：拉丁文 orientalis（东方的）
 
 EN — epithet *orientalis*: Latin orientalis (eastern)
+
+ES — epithet *orientalis*: Del latín orientalis (oriental)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **伤残树白蚁** (*Glyptotermes truncatus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *truncatus*：拉丁文 truncatus（截断的）
 
 EN — epithet *truncatus*: Latin truncatus (truncated)
+
+ES — epithet *truncatus*: Del latín truncatus (truncado)
 
 <!-- src:S0018 -->
 

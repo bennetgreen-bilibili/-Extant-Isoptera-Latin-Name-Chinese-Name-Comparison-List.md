@@ -35,9 +35,13 @@ ES — **巴雷特楹白蚁** (*Incisitermes barretti*) es una especie del géne
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *barretti*：以人名 Barrett 命名
 
 EN — epithet *barretti*: Named after Barrett
+
+ES — epithet *barretti*: En honor de Barrett
 
 <!-- src:S0018 -->
 

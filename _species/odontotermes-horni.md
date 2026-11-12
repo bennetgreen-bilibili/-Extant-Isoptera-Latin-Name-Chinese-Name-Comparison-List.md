@@ -40,9 +40,13 @@ ES — **霍恩土白蚁** (*Odontotermes horni*) es una especie del género *Od
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *horni*：以人名 Walther Horn（德国昆虫学家）命名
 
 EN — epithet *horni*: Named after Walther Horn
+
+ES — epithet *horni*: En honor de Walther Horn
 
 <!-- src:S0018 -->
 

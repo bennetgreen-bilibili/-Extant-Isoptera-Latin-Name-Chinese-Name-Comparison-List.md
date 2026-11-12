@@ -38,9 +38,13 @@ ES — **最小西尔韦斯特里白蚁** (*Silvestritermes minutus*) es una esp
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *minutus*：拉丁文 minutus（微小）
 
 EN — epithet *minutus*: Latin minutus (tiny)
+
+ES — epithet *minutus*: Del latín minutus (diminuto)
 
 <!-- src:S0018 -->
 

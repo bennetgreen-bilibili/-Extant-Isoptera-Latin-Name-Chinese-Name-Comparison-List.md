@@ -38,9 +38,13 @@ ES — **硬毛腹爆白蚁** (*Ruptitermes atyra*) es una especie del género *
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *atyra*：以地名 Atyra（巴拉圭）命名
 
 EN — epithet *atyra*: Named after the locality Atyra
+
+ES — epithet *atyra*: Por la localidad de Atyra
 
 <!-- src:S0018 -->
 

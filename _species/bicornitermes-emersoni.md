@@ -35,9 +35,13 @@ ES — **埃默森双角白蚁** (*Bicornitermes emersoni*) es una especie del g
 
 EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
 
+ES — *Bicornitermes*: Del latín bi- (dos) + cornu (cuerno) + termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

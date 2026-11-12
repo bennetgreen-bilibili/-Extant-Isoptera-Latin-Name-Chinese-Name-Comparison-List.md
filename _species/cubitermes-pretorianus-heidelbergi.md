@@ -39,9 +39,13 @@ ES — **海德堡亚种** (*Cubitermes pretorianus heidelbergi*) es una subespe
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *heidelbergi*：以地名 Heidelberg（海德堡，德国）命名
 
 EN — epithet *heidelbergi*: Named after Heidelberg (Germany)
+
+ES — epithet *heidelbergi*: Por Heidelberg (Alemania)
 
 <!-- src:S0018 -->
 

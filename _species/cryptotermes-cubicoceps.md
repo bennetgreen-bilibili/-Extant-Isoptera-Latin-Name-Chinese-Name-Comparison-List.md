@@ -35,9 +35,13 @@ ES — **方头堆砂白蚁** (*Cryptotermes cubicoceps*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *cubicoceps*：拉丁文 cubicus（立方）+ -ceps（头），方头
 
 EN — epithet *cubicoceps*: Latin cubicus (cube) + -ceps (head), cube-headed
+
+ES — epithet *cubicoceps*: Del latín cubicus (cubo) + -ceps (cabeza), de cabeza cúbica
 
 <!-- src:S0018 -->
 

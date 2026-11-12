@@ -37,9 +37,13 @@ ES — **弗伦奇乳白蚁** (*Coptotermes frenchi*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *frenchi*：以人名 French（或 Charles French，澳大利亚昆虫学家）命名
 
 EN — epithet *frenchi*: Named after French
+
+ES — epithet *frenchi*: En honor de French
 
 <!-- src:S0018 -->
 

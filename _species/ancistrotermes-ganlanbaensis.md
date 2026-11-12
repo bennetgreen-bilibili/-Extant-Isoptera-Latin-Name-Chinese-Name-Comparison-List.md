@@ -38,9 +38,13 @@ ES — **橄榄坝钩白蚁** (*Ancistrotermes ganlanbaensis*) es una especie de
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *ganlanbaensis*：以地名 橄榄坝（云南） 命名
 
 EN — epithet *ganlanbaensis*: Named after the locality Ganlanba
+
+ES — epithet *ganlanbaensis*: Por la localidad de Ganlanba
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **共生木白蚁** (*Kalotermes cognatus*) es una especie del género *K
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *cognatus*：拉丁文/希腊文 cogn（亲缘）+ atus（具），指亲缘具
 
 EN — epithet *cognatus*: From cogn (亲缘) + atus (具)
+
+ES — epithet *cognatus*: De cogn (parentesco) + atus (que posee)
 
 <!-- src:S0018 -->
 

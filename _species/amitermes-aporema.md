@@ -40,9 +40,13 @@ ES — **阿波雷马弓白蚁** (*Amitermes aporema*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *aporema*：希腊文 aporema（难题、困惑）
 
 EN — epithet *aporema*: Greek aporema (a difficulty, puzzle)
+
+ES — epithet *aporema*: Del griego aporema (una dificultad, un enigma)
 
 <!-- src:S0018 -->
 

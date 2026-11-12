@@ -38,9 +38,13 @@ ES — **黑鼻三脉白蚁** (*Trinervitermes nigrirostris*) es una especie del
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *nigrirostris*：拉丁文/希腊文 nigri（黑）+ rostris（喙），指黑喙
 
 EN — epithet *nigrirostris*: From nigri (黑) + rostris (喙)
+
+ES — epithet *nigrirostris*: De nigri (negro) + rostris (pico)
 
 <!-- src:S0018 -->
 

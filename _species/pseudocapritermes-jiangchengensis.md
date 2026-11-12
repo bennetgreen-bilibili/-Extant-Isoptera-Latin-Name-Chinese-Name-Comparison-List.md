@@ -38,9 +38,13 @@ ES — **江城伪扭白蚁** (*Pseudocapritermes jiangchengensis*) es una espec
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *jiangchengensis*：以地名 江城（云南） 命名
 
 EN — epithet *jiangchengensis*: Named after the locality Jiangcheng
+
+ES — epithet *jiangchengensis*: Por la localidad de Jiangcheng
 
 <!-- src:S0018 -->
 

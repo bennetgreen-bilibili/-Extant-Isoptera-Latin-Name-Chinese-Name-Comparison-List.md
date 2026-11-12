@@ -35,9 +35,13 @@ ES — **圆头乳白蚁** (*Coptotermes cyclocoryphus*) es una especie del gén
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *cyclocoryphus*：希腊文 kyklos（圆）+ koryphē（顶、冠），圆冠
 
 EN — epithet *cyclocoryphus*: Greek kyklos (circle) + koryphē (crown), round-crowned
+
+ES — epithet *cyclocoryphus*: Del griego kyklos (círculo) + koryphē (corona), de corona redonda
 
 <!-- src:S0018 -->
 

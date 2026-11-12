@@ -38,9 +38,13 @@ ES — **贵州象白蚁** (*Nasutitermes guizhouensis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *guizhouensis*：地名：贵州（中国）
 
 EN — epithet *guizhouensis*: After Guizhou (China)
+
+ES — epithet *guizhouensis*: Por Guizhou (China)
 
 <!-- src:S0018 -->
 

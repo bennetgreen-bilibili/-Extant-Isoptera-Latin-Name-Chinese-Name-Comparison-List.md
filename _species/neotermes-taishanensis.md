@@ -35,9 +35,13 @@ ES — **台山新白蚁** (*Neotermes taishanensis*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *taishanensis*：以地名 泰山（山东） 命名
 
 EN — epithet *taishanensis*: Named after the locality Taishan
+
+ES — epithet *taishanensis*: Por la localidad de Taishan
 
 <!-- src:S0018 -->
 

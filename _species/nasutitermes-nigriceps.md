@@ -40,9 +40,13 @@ ES — **黑头象白蚁** (*Nasutitermes nigriceps*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *nigriceps*：拉丁文 niger（黑）+ -ceps（头），黑头
 
 EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
+
+ES — epithet *nigriceps*: Del latín niger (negro) + -ceps (cabeza), de cabeza negra
 
 <!-- src:S0018 -->
 

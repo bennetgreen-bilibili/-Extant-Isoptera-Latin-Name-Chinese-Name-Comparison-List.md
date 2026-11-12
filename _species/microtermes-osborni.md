@@ -38,9 +38,13 @@ ES — **奥斯本小白蚁** (*Microtermes osborni*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *osborni*：以人名 Osborn 命名（美国昆虫学家 H. Osborn）
 
 EN — epithet *osborni*: Named after the entomologist H. Osborn
+
+ES — epithet *osborni*: En honor del entomólogo H. Osborn
 
 <!-- src:S0018 -->
 

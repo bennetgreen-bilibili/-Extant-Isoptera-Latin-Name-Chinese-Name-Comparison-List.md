@@ -38,9 +38,13 @@ ES — **灰白薄嘴白蚁** (*Tenuirostritermes cinereus*) es una especie del 
 
 EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
 
+ES — *Tenuirostritermes*: Del latín tenuis (delgado) + rostrum (pico) + termes.
+
 种加词 *cinereus*：拉丁文 cinereus（灰白色的、如灰的）
 
 EN — epithet *cinereus*: Latin cinereus (ash-grey)
+
+ES — epithet *cinereus*: Del latín cinereus (gris ceniza)
 
 <!-- src:S0018 -->
 

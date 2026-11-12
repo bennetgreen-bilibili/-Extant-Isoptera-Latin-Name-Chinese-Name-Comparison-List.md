@@ -38,9 +38,13 @@ ES — **巴西新扭白蚁** (*Neocapritermes braziliensis*) es una especie del
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *braziliensis*：以地名 巴西 命名
 
 EN — epithet *braziliensis*: Named after the locality Brazil
+
+ES — epithet *braziliensis*: Por la localidad de Brasil
 
 <!-- src:S0018 -->
 

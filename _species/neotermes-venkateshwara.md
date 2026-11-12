@@ -35,9 +35,13 @@ ES — **文卡特斯沃拉新白蚁** (*Neotermes venkateshwara*) es una especi
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *venkateshwara*：印度神 Venkateswara
 
 EN — epithet *venkateshwara*: Venkateswara, Hindu deity
+
+ES — epithet *venkateshwara*: Venkateswara, deidad hindú
 
 <!-- src:S0018 -->
 

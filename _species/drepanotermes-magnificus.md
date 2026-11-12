@@ -38,9 +38,13 @@ ES — **巨大镰白蚁** (*Drepanotermes magnificus*) es una especie del géne
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *magnificus*：拉丁文 magnificus（壮丽的、宏大的）
 
 EN — epithet *magnificus*: Latin magnificus (magnificent, grand)
+
+ES — epithet *magnificus*: Del latín magnificus (magnífico, grandioso)
 
 <!-- src:S0018 -->
 

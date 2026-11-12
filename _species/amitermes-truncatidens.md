@@ -38,9 +38,13 @@ ES — **畸齿弓白蚁** (*Amitermes truncatidens*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *truncatidens*：拉丁文/希腊文词根「trunc」（截断）
 
 EN — epithet *truncatidens*: From the descriptive term 'trunc' (truncated)
+
+ES — epithet *truncatidens*: Del término descriptivo «trunc» (truncado)
 
 <!-- src:S0018 -->
 

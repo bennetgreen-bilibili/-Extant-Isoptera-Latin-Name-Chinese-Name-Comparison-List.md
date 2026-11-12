@@ -37,9 +37,13 @@ ES — **海南乳白蚁** (*Coptotermes hainanensis*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *hainanensis*：地名：海南（中国）
 
 EN — epithet *hainanensis*: After Hainan (China)
+
+ES — epithet *hainanensis*: Por Hainan (China)
 
 <!-- src:S0018 -->
 

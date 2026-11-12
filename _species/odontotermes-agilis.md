@@ -38,9 +38,13 @@ ES — **快捷土白蚁** (*Odontotermes agilis*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *agilis*：拉丁文/希腊文词根「agil」（敏捷）
 
 EN — epithet *agilis*: From the descriptive term 'agil' (agile)
+
+ES — epithet *agilis*: Del término descriptivo «agil» (ágil)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **吉尔纳尔土白蚁** (*Odontotermes girnarensis*) es una especie del
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *girnarensis*：以地名 Girnar（印度古吉拉特邦吉尔纳尔山）命名
 
 EN — epithet *girnarensis*: Named after Girnar (Gujarat, India)
+
+ES — epithet *girnarensis*: Por Girnar (Gujarat, India)
 
 <!-- src:S0018 -->
 

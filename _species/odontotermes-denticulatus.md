@@ -38,9 +38,13 @@ ES — **齿小土白蚁** (*Odontotermes denticulatus*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *denticulatus*：拉丁文 denticulatus（具细齿的）
 
 EN — epithet *denticulatus*: Latin denticulatus (finely toothed)
+
+ES — epithet *denticulatus*: Del latín denticulatus (finamente dentado)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **宏壮杆白蚁** (*Stylotermes robustus*) es una especie del género *
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *robustus*：拉丁文 robustus（粗壮）
 
 EN — epithet *robustus*: Latin robustus (robust)
+
+ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 

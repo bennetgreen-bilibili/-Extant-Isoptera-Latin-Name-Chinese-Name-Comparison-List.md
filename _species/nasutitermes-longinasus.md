@@ -38,9 +38,13 @@ ES — **鼻长象白蚁** (*Nasutitermes longinasus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longinasus*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longinasus*: From the descriptive term 'long' (long)
+
+ES — epithet *longinasus*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **优势大白蚁** (*Macrotermes herus*) es una especie del género *Mac
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *herus*：拉丁文 herus（主人）
 
 EN — epithet *herus*: Latin herus (master)
+
+ES — epithet *herus*: Del latín herus (amo)
 
 <!-- src:S0018 -->
 

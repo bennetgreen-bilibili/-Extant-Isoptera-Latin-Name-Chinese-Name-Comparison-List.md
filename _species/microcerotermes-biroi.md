@@ -38,9 +38,13 @@ ES — **比罗锯白蚁** (*Microcerotermes biroi*) es una especie del género 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *biroi*：以人名 Biró（Lajos Biró）命名
 
 EN — epithet *biroi*: Named after Lajos Biró
+
+ES — epithet *biroi*: En honor de Lajos Biró
 
 <!-- src:S0018 -->
 

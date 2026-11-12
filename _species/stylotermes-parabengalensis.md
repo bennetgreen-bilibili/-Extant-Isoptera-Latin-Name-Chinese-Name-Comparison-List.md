@@ -35,9 +35,13 @@ ES — **似西孟加拉杆白蚁** (*Stylotermes parabengalensis*) es una espec
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *parabengalensis*：希腊文 para（旁、近）＋Bengal（孟加拉），指近孟加拉的
 
 EN — epithet *parabengalensis*: Greek para (near) + Bengal: near Bengal
+
+ES — epithet *parabengalensis*: Del griego para (cerca) + Bengala: cercano a Bengala
 
 <!-- src:S0018 -->
 

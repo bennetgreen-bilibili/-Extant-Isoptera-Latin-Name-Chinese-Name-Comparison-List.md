@@ -35,9 +35,13 @@ ES — **周氏散白蚁** (*Reticulitermes choui*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *choui*：以人名 Chou 命名（中国昆虫学家周尧）
 
 EN — epithet *choui*: Named after the Chinese entomologist Chou Io
+
+ES — epithet *choui*: En honor del entomólogo chino Chou Io
 
 <!-- src:S0018 -->
 

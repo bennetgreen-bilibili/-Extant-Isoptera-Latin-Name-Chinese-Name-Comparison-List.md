@@ -38,9 +38,13 @@ ES — **埃默森东方白蚁** (*Orientotermes emersoni*) es la única especie
 
 EN — *Orientotermes*: From Latin Oriens (the East) + termes.
 
+ES — *Orientotermes*: Del latín Oriens (el Oriente) + termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

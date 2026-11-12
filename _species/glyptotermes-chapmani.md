@@ -35,9 +35,13 @@ ES — **查普曼树白蚁** (*Glyptotermes chapmani*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *chapmani*：以人名 Chapman 命名
 
 EN — epithet *chapmani*: Named after Chapman
+
+ES — epithet *chapmani*: En honor de Chapman
 
 <!-- src:S0018 -->
 

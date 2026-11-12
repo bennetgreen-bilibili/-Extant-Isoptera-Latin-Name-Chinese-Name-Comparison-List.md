@@ -38,9 +38,13 @@ ES — **加丹加多铲白蚁** (*Polyspathotermes katangensis*) es una especie
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *katangensis*：以地名 加丹加（刚果） 命名
 
 EN — epithet *katangensis*: Named after the locality Katang
+
+ES — epithet *katangensis*: Por la localidad de Katang
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **棘头无利器白蚁** (*Astalotermes empodius*) es una especie del g�
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *empodius*：希腊文 em-（内）+ pous（足），具足
 
 EN — epithet *empodius*: Greek em- (in) + pous (foot)
+
+ES — epithet *empodius*: Del griego em- (en) + pous (pie)
 
 <!-- src:S0018 -->
 

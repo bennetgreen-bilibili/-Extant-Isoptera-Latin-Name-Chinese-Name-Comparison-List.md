@@ -35,9 +35,13 @@ ES — **西比洛克树白蚁** (*Glyptotermes sepilokensis*) es una especie de
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *sepilokensis*：以地名 西必洛（马来西亚） 命名
 
 EN — epithet *sepilokensis*: Named after the locality Sepilok
+
+ES — epithet *sepilokensis*: Por la localidad de Sepilok
 
 <!-- src:S0018 -->
 

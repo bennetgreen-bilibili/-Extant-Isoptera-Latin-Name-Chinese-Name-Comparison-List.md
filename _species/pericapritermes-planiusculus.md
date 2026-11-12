@@ -38,9 +38,13 @@ ES — **平扁近扭白蚁** (*Pericapritermes planiusculus*) es una especie de
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *planiusculus*：拉丁文/希腊文 planiusc（平）+ ulus（小（指小）），指平小（指小）
 
 EN — epithet *planiusculus*: From planiusc (平) + ulus (小（指小）)
+
+ES — epithet *planiusculus*: De planiusc (plano) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

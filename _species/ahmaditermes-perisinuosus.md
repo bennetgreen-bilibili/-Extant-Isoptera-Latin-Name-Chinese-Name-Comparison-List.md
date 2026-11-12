@@ -38,9 +38,13 @@ ES — **近丘额钝颚白蚁** (*Ahmaditermes perisinuosus*) es una especie de
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *perisinuosus*：拉丁文 per-（非常）+ sinuosus（波曲），极波曲
 
 EN — epithet *perisinuosus*: Latin per- (very) + sinuosus (wavy), very sinuous
+
+ES — epithet *perisinuosus*: Del latín per- (muy) + sinuosus (ondulado), muy sinuoso
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **部白小白蚁** (*Microtermes albopartitus*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *albopartitus*：拉丁文 albus（白）+ partitus（分开），白分
 
 EN — epithet *albopartitus*: Latin albus (white) + partitus (divided), white-divided
+
+ES — epithet *albopartitus*: Del latín albus (blanco) + partitus (dividido), dividido de blanco
 
 <!-- src:S0018 -->
 

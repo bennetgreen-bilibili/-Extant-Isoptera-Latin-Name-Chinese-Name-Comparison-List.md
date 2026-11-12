@@ -38,9 +38,13 @@ ES — **宽齿生白蚁** (*Embiratermes latidens*) es una especie del género 
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *latidens*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latidens*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latidens*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

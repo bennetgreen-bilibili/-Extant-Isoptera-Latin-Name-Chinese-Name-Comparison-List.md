@@ -38,9 +38,13 @@ ES — **帕梅拉小白蚁** (*Microtermes pamelae*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *pamelae*：以人名 Pamela（帕梅拉）命名
 
 EN — epithet *pamelae*: Named after Pamela
+
+ES — epithet *pamelae*: En honor de Pamela
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **可怕聚白蚁** (*Syntermes dirus*) es una especie, y la especie tipo
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *dirus*：拉丁文 dirus（可怕的、凶恶的）
 
 EN — epithet *dirus*: Latin dirus (dreadful)
+
+ES — epithet *dirus*: Del latín dirus (terrible)
 
 <!-- src:S0018 -->
 

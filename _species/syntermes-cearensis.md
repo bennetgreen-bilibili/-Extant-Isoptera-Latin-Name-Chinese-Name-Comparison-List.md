@@ -38,9 +38,13 @@ ES — **塞阿腊聚白蚁** (*Syntermes cearensis*) es una especie del género
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *cearensis*：以地名 塞阿拉（巴西） 命名
 
 EN — epithet *cearensis*: Named after the locality Cear
+
+ES — epithet *cearensis*: Por la localidad de Ceará
 
 <!-- src:S0018 -->
 

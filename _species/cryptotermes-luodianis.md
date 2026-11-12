@@ -35,9 +35,13 @@ ES — **罗甸堆砂白蚁** (*Cryptotermes luodianis*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *luodianis*：地名：罗甸（中国贵州）
 
 EN — epithet *luodianis*: After Luodian (Guizhou, China)
+
+ES — epithet *luodianis*: Por Luodian (Guizhou, China)
 
 <!-- src:S0018 -->
 

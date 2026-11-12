@@ -35,9 +35,13 @@ ES — **双峰散白蚁** (*Reticulitermes bitumulus*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *bitumulus*：拉丁文 bi-（二）+ tumulus（小丘），双丘
 
 EN — epithet *bitumulus*: Latin bi- (two) + tumulus (mound), two-mounded
+
+ES — epithet *bitumulus*: Del latín bi- (dos) + tumulus (túmulo), de dos túmulos
 
 <!-- src:S0018 -->
 

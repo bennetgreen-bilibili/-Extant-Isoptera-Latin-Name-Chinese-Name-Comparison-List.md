@@ -35,9 +35,13 @@ ES — **红背木白蚁** (*Kalotermes rufinotum*) es una especie del género *
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *rufinotum*：拉丁文/希腊文 rufi（红）+ notum（背），指红背
 
 EN — epithet *rufinotum*: From rufi (红) + notum (背)
+
+ES — epithet *rufinotum*: De rufi (rojo) + notum (dorso)
 
 <!-- src:S0018 -->
 

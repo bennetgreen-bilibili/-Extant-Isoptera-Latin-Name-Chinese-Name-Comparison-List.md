@@ -40,9 +40,13 @@ ES — **劳拉弓白蚁** (*Amitermes laurensis*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *laurensis*：以地名 Lauren（劳伦）命名
 
 EN — epithet *laurensis*: Named after the locality Lauren
+
+ES — epithet *laurensis*: Por la localidad de Lauren
 
 <!-- src:S0018 -->
 

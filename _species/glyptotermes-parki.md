@@ -35,9 +35,13 @@ ES — **帕克树白蚁** (*Glyptotermes parki*) es una especie del género *Gl
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *parki*：以人名 Park（帕克）命名
 
 EN — epithet *parki*: Named after Park
+
+ES — epithet *parki*: En honor de Park
 
 <!-- src:S0018 -->
 

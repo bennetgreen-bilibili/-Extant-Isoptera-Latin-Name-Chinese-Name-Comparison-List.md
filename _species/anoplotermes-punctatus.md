@@ -38,9 +38,13 @@ ES — **具点解甲白蚁** (*Anoplotermes punctatus*) es una especie del gén
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *punctatus*：拉丁文/希腊文 punct（刻点）+ atus（具），指刻点具
 
 EN — epithet *punctatus*: From punct (刻点) + atus (具)
+
+ES — epithet *punctatus*: De punct (punto) + atus (que posee)
 
 <!-- src:S0018 -->
 

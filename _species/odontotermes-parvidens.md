@@ -40,9 +40,13 @@ ES — **微齿土白蚁** (*Odontotermes parvidens*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *parvidens*：拉丁文/希腊文词根「parv」（小）
 
 EN — epithet *parvidens*: From the descriptive term 'parv' (small)
+
+ES — epithet *parvidens*: Del término descriptivo «parv» (pequeño)
 
 <!-- src:S0018 -->
 

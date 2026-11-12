@@ -38,9 +38,13 @@ ES — **僧侣铲白蚁** (*Batillitermes monachus*) es una especie, y la espec
 
 EN — *Batillitermes*: From Latin batillum (shovel) + termes.
 
+ES — *Batillitermes*: Del latín batillum (pala) + termes.
+
 种加词 *monachus*：拉丁文 monachus（僧侣）
 
 EN — epithet *monachus*: Latin monachus (monk)
+
+ES — epithet *monachus*: Del latín monachus (monje)
 
 <!-- src:S0018 -->
 

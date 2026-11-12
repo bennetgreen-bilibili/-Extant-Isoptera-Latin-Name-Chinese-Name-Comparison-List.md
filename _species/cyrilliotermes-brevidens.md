@@ -38,9 +38,13 @@ ES — **短齿壶头白蚁** (*Cyrilliotermes brevidens*) es una especie del g�
 
 EN — *Cyrilliotermes*: Named after a person (Cyrillio); -termes from Latin termes.
 
+ES — *Cyrilliotermes*: En honor de una persona (Cyrillio); -termes, del latín termes.
+
 种加词 *brevidens*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevidens*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevidens*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

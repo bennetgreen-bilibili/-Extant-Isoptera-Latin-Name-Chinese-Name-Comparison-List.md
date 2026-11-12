@@ -38,9 +38,13 @@ ES — **可爱刻痕白蚁** (*Crenetermes fruitus*) es una especie del género
 
 EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Crenetermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *fruitus*：拉丁文 fruitus（享用果实的）
 
 EN — epithet *fruitus*: Latin fruitus (enjoying fruit)
+
+ES — epithet *fruitus*: Del latín fruitus (que disfruta de los frutos)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **棕色土白蚁** (*Odontotermes brunneus*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *brunneus*：拉丁文 brunneus（褐）
 
 EN — epithet *brunneus*: Latin brunneus (brown)
+
+ES — epithet *brunneus*: Del latín brunneus (marrón)
 
 <!-- src:S0018 -->
 

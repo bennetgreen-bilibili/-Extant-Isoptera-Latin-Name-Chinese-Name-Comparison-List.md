@@ -38,9 +38,13 @@ ES — **阳茎等颚白蚁** (*Isognathotermes phalloides*) es una especie del 
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *phalloides*：希腊文 phallos（阴茎）+ -oides（似），阴茎状
 
 EN — epithet *phalloides*: Greek phallos (phallus) + -oides (like), phallus-like
+
+ES — epithet *phalloides*: Del griego phallos (falo) + -oides (semejante a), semejante a un falo
 
 <!-- src:S0018 -->
 

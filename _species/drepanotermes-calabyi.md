@@ -38,9 +38,13 @@ ES — **卡拉比镰白蚁** (*Drepanotermes calabyi*) es una especie del géne
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *calabyi*：以 J.H. Calaby（澳大利亚白蚁学家）命名
 
 EN — epithet *calabyi*: Named after J.H. Calaby
+
+ES — epithet *calabyi*: En honor de J.H. Calaby
 
 <!-- src:S0018 -->
 

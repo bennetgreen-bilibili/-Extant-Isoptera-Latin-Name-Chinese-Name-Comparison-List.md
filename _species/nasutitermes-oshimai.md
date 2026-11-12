@@ -38,9 +38,13 @@ ES — **大岛象白蚁** (*Nasutitermes oshimai*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *oshimai*：以人名 Oshima（大岛）命名（日本白蚁学家大岛正满 Masamitsu Oshima）
 
 EN — epithet *oshimai*: Named after Oshima (Japanese termite specialist Masamitsu Oshima)
+
+ES — epithet *oshimai*: En honor de Oshima (especialista japonés en termitas Masamitsu Oshima)
 
 <!-- src:S0018 -->
 

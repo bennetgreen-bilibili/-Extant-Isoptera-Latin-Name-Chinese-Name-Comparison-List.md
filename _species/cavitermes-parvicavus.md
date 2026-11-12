@@ -38,9 +38,13 @@ ES — **小腔腔白蚁** (*Cavitermes parvicavus*) es una especie del género 
 
 EN — *Cavitermes*: From Latin cavus (hollow) + termes.
 
+ES — *Cavitermes*: Del latín cavus (hueco) + termes.
+
 种加词 *parvicavus*：拉丁文/希腊文词根「parv」（小）
 
 EN — epithet *parvicavus*: From the descriptive term 'parv' (small)
+
+ES — epithet *parvicavus*: Del término descriptivo «parv» (pequeño)
 
 <!-- src:S0018 -->
 

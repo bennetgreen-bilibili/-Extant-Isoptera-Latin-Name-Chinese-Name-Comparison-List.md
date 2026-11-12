@@ -38,9 +38,13 @@ ES — **粗毛木堆白蚁** (*Xylochomitermes tomentosus*) es una especie del 
 
 EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
 
+ES — *Xylochomitermes*: Del griego xylon (madera) + chōma (túmulo) + latín termes.
+
 种加词 *tomentosus*：拉丁文/希腊文 toment（切）+ osus（多、充满），指切多、充满
 
 EN — epithet *tomentosus*: From toment (切) + osus (多、充满)
+
+ES — epithet *tomentosus*: De toment (corte) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

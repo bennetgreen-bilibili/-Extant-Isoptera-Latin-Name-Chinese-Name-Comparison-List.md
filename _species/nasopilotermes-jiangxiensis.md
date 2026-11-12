@@ -38,9 +38,13 @@ ES — **江西棘象白蚁** (*Nasopilotermes jiangxiensis*) es la única espec
 
 EN — *Nasopilotermes*: From Latin nasus (nose) + pilus (hair) + termes.
 
+ES — *Nasopilotermes*: Del latín nasus (nariz) + pilus (pelo) + termes.
+
 种加词 *jiangxiensis*：以地名 江西 命名
 
 EN — epithet *jiangxiensis*: Named after the locality Jiangx
+
+ES — epithet *jiangxiensis*: Por la localidad de Jiangx
 
 <!-- src:S0018 -->
 

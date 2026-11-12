@@ -35,9 +35,13 @@ ES — **缩角树白蚁** (*Glyptotermes contracticornis*) es una especie del g
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *contracticornis*：拉丁文 contractus（收缩）+ cornu（角），缩角
 
 EN — epithet *contracticornis*: Latin contractus (contracted) + cornu (horn), contracted-horned
+
+ES — epithet *contracticornis*: Del latín contractus (contraído) + cornu (cuerno), de cuernos contraídos
 
 <!-- src:S0018 -->
 

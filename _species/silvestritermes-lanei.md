@@ -38,9 +38,13 @@ ES — **莱恩西尔韦斯特里白蚁** (*Silvestritermes lanei*) es una espec
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *lanei*：以人名 Lane 命名
 
 EN — epithet *lanei*: Named after Lane
+
+ES — epithet *lanei*: En honor de Lane
 
 <!-- src:S0018 -->
 

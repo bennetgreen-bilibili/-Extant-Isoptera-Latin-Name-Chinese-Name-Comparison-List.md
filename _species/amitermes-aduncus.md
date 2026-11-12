@@ -38,9 +38,13 @@ ES — **钩颚弓白蚁** (*Amitermes aduncus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *aduncus*：拉丁文 aduncus（钩状弯曲）
 
 EN — epithet *aduncus*: Latin aduncus (hooked)
+
+ES — epithet *aduncus*: Del latín aduncus (encorvado)
 
 <!-- src:S0018 -->
 

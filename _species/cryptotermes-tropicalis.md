@@ -35,9 +35,13 @@ ES — **热带堆砂白蚁** (*Cryptotermes tropicalis*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *tropicalis*：希腊文 tropikos（回归线的）+ 拉丁文 -alis，热带的
 
 EN — epithet *tropicalis*: Greek tropikos (tropical) + Latin -alis, tropical
+
+ES — epithet *tropicalis*: Del griego tropikos (tropical) + latín -alis, tropical
 
 <!-- src:S0018 -->
 

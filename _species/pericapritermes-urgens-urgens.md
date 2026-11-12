@@ -39,9 +39,13 @@ ES — **指名亚种** (*Pericapritermes urgens urgens*) es una subespecie de *
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *urgens*：拉丁文 urgens（迫切的）
 
 EN — epithet *urgens*: Latin urgens (urgent)
+
+ES — epithet *urgens*: Del latín urgens (urgente)
 
 <!-- src:S0018 -->
 

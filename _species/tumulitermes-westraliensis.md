@@ -38,9 +38,13 @@ ES — **西澳冢白蚁** (*Tumulitermes westraliensis*) es una especie del gé
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *westraliensis*：以地名 西澳大利亚 命名
 
 EN — epithet *westraliensis*: Named after the locality Westral
+
+ES — epithet *westraliensis*: Por la localidad de Westral
 
 <!-- src:S0018 -->
 

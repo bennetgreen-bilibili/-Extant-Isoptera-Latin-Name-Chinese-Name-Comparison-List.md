@@ -38,9 +38,13 @@ ES — **德沃瑞象白蚁** (*Nasutitermes devrayi*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *devrayi*：以人名 Devray 命名
 
 EN — epithet *devrayi*: Named after Devray
+
+ES — epithet *devrayi*: En honor de Devray
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **双齿爪白蚁** (*Unguitermes bidentatus*) es una especie, y la espec
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *bidentatus*：拉丁文 bi-（二）+ dentatus（有齿），双齿
 
 EN — epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
+
+ES — epithet *bidentatus*: Del latín bi- (dos) + dentatus (dentado), de dos dientes
 
 <!-- src:S0018 -->
 

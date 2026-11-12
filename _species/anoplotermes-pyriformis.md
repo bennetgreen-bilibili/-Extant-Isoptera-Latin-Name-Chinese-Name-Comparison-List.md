@@ -38,9 +38,13 @@ ES — **梨形解甲白蚁** (*Anoplotermes pyriformis*) es una especie del gé
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *pyriformis*：拉丁文/希腊文 pyri（火）+ formis（形），指火形
 
 EN — epithet *pyriformis*: From pyri (火) + formis (形)
+
+ES — epithet *pyriformis*: De pyri (fuego) + formis (forma)
 
 <!-- src:S0018 -->
 

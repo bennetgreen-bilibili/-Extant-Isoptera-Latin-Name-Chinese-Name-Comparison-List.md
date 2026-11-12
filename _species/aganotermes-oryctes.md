@@ -38,9 +38,13 @@ ES — **挖者雅白蚁** (*Aganotermes oryctes*) es la única especie viviente
 
 EN — *Aganotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Aganotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *oryctes*：希腊文 oryktēs（挖掘者）
 
 EN — epithet *oryctes*: Greek oryktēs (digger)
+
+ES — epithet *oryctes*: Del griego oryktēs (excavador)
 
 <!-- src:S0018 -->
 

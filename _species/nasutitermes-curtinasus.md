@@ -38,9 +38,13 @@ ES — **短鼻象白蚁** (*Nasutitermes curtinasus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *curtinasus*：拉丁文/希腊文词根「curt」（短）
 
 EN — epithet *curtinasus*: From the descriptive term 'curt' (short)
+
+ES — epithet *curtinasus*: Del término descriptivo «curt» (corto)
 
 <!-- src:S0018 -->
 

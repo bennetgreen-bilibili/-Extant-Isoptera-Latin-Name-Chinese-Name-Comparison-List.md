@@ -38,9 +38,13 @@ ES — **二型首白蚁** (*Caputitermes dimorphus*) es la única especie vivie
 
 EN — *Caputitermes*: From Latin caput (head) + termes.
 
+ES — *Caputitermes*: Del latín caput (cabeza) + termes.
+
 种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
 
 EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+ES — epithet *dimorphus*: Del griego di- (dos) + morphē (forma), dimorfo
 
 <!-- src:S0018 -->
 

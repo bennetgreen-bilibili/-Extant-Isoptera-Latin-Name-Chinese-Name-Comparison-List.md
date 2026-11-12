@@ -38,9 +38,13 @@ ES — **喷射象白蚁** (*Nasutitermes projectus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *projectus*：拉丁文 projectus（伸出的、突出的）
 
 EN — epithet *projectus*: Latin projectus (projecting)
+
+ES — epithet *projectus*: Del latín projectus (que sobresale)
 
 <!-- src:S0018 -->
 

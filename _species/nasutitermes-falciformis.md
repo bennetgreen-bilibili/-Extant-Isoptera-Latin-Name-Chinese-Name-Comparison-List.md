@@ -38,9 +38,13 @@ ES — **鹰鼻象白蚁** (*Nasutitermes falciformis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *falciformis*：拉丁文 falx（镰）+ -formis（形），镰形
 
 EN — epithet *falciformis*: Latin falx (sickle) + -formis (shaped), sickle-shaped
+
+ES — epithet *falciformis*: Del latín falx (hoz) + -formis (en forma de), en forma de hoz
 
 <!-- src:S0018 -->
 

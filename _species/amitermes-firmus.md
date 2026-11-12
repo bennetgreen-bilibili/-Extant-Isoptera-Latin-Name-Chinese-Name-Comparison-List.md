@@ -38,9 +38,13 @@ ES — **坚颚弓白蚁** (*Amitermes firmus*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *firmus*：拉丁文 firmus（坚固的、强壮的）
 
 EN — epithet *firmus*: Latin firmus (firm, strong)
+
+ES — epithet *firmus*: Del latín firmus (firme, fuerte)
 
 <!-- src:S0018 -->
 

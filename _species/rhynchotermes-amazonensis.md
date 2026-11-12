@@ -38,9 +38,13 @@ ES — **亚马孙喙白蚁** (*Rhynchotermes amazonensis*) es una especie del g
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *amazonensis*：以地名 亚马孙 命名
 
 EN — epithet *amazonensis*: Named after the locality Amazon
+
+ES — epithet *amazonensis*: Por la localidad del Amazonas
 
 <!-- src:S0018 -->
 

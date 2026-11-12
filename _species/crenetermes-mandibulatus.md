@@ -38,9 +38,13 @@ ES — **大颚刻痕白蚁** (*Crenetermes mandibulatus*) es una especie del g�
 
 EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Crenetermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *mandibulatus*：拉丁文 mandibulatus（具上颚的）
 
 EN — epithet *mandibulatus*: Latin mandibulatus (mandibulate)
+
+ES — epithet *mandibulatus*: Del latín mandibulatus (mandibulado)
 
 <!-- src:S0018 -->
 

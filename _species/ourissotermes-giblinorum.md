@@ -38,9 +38,13 @@ ES — **吉布林海胆白蚁** (*Ourissotermes giblinorum*) es la única espec
 
 EN — *Ourissotermes*: From the place name Ourisso; -termes from Latin termes.
 
+ES — *Ourissotermes*: Del topónimo Ourisso; -termes, del latín termes.
+
 种加词 *giblinorum*：以人名 Giblin（复数属格）命名
 
 EN — epithet *giblinorum*: Named after the Giblins
+
+ES — epithet *giblinorum*: En honor de los Giblin
 
 <!-- src:S0018 -->
 

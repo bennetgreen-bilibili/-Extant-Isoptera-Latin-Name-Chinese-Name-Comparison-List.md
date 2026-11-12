@@ -35,9 +35,13 @@ ES — **长头异白蚁** (*Heterotermes longiceps*) es una especie del género
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *longiceps*：拉丁文 longus（长）+ -ceps（头），长头
 
 EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
+
+ES — epithet *longiceps*: Del latín longus (largo) + -ceps (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

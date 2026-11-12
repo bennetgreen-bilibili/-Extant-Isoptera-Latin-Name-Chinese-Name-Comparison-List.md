@@ -35,9 +35,13 @@ ES — **布朗棒鼻白蚁** (*Parrhinotermes browni*) es una especie del géne
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *browni*：以人名 Brown 命名
 
 EN — epithet *browni*: Named after Brown
+
+ES — epithet *browni*: En honor de Brown
 
 <!-- src:S0018 -->
 

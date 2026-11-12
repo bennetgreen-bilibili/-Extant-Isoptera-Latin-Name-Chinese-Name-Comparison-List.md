@@ -38,9 +38,13 @@ ES — **卡那封象白蚁** (*Nasutitermes carnarvonensis*) es una especie del
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *carnarvonensis*：以地名 卡那封（澳大利亚） 命名
 
 EN — epithet *carnarvonensis*: Named after the locality Carnarvon
+
+ES — epithet *carnarvonensis*: Por la localidad de Carnarvon
 
 <!-- src:S0018 -->
 

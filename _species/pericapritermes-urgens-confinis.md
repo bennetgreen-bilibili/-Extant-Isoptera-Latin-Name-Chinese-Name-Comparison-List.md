@@ -39,9 +39,13 @@ ES — **近邻亚种** (*Pericapritermes urgens confinis*) es una subespecie de
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *confinis*：拉丁文 confinis（邻近的）
 
 EN — epithet *confinis*: Latin confinis (adjoining, neighbouring)
+
+ES — epithet *confinis*: Del latín confinis (colindante, vecino)
 
 <!-- src:S0018 -->
 

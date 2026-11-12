@@ -35,9 +35,13 @@ ES — **弯颚杆白蚁** (*Stylotermes curvatus*) es una especie del género *
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *curvatus*：拉丁文/希腊文 curv（弯）+ atus（具），指弯具
 
 EN — epithet *curvatus*: From curv (弯) + atus (具)
+
+ES — epithet *curvatus*: De curv (curvo) + atus (provisto de)
 
 <!-- src:S0018 -->
 

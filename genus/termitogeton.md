@@ -59,6 +59,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由希腊文 termit-（白蚁）+ geitōn（邻居、邻近者）组合，意为「白蚁的邻居」。</p>
 <p class="etymology-en fact-en" lang="en">From Greek termit- (termite) + geitōn (neighbor), 'termite's neighbor'.</p>
+<p class="etymology-es fact-es" lang="es">Del griego termit- (termita) + geitōn (vecino), «vecino de las termitas».</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

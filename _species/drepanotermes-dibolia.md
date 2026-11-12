@@ -38,9 +38,13 @@ ES — **狄波拉镰白蚁** (*Drepanotermes dibolia*) es una especie del géne
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *dibolia*：希腊文 di-（二）+ bolis（镖、尖），双尖
 
 EN — epithet *dibolia*: Greek di- (two) + bolis (dart), two-darted
+
+ES — epithet *dibolia*: Del griego di- (dos) + bolis (dardo), de dos dardos
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **骆驼堆砂白蚁** (*Cryptotermes camelus*) es una especie del géner
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *camelus*：拉丁文 camelus（骆驼）
 
 EN — epithet *camelus*: Latin camelus (camel)
+
+ES — epithet *camelus*: Del latín camelus (camello)
 
 <!-- src:S0018 -->
 

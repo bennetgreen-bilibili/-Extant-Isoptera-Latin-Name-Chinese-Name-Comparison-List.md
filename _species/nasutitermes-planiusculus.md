@@ -38,9 +38,13 @@ ES — **平圆象白蚁** (*Nasutitermes planiusculus*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *planiusculus*：拉丁文/希腊文 planiusc（平）+ ulus（小（指小）），指平小（指小）
 
 EN — epithet *planiusculus*: From planiusc (平) + ulus (小（指小）)
+
+ES — epithet *planiusculus*: De planiusc (plano) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

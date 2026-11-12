@@ -38,9 +38,13 @@ ES — **瘦长锯白蚁** (*Microcerotermes subtilis*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *subtilis*：拉丁文/希腊文 subt（下、近）+ ilis（相关），指下、近相关
 
 EN — epithet *subtilis*: From subt (下、近) + ilis (相关)
+
+ES — epithet *subtilis*: De subt (abajo, cerca) + ilis (relativo a)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **显额角白蚁** (*Angulitermes frontalis*) es una especie, y la espec
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *frontalis*：拉丁文/希腊文 front（额）+ alis（相关），指额相关
 
 EN — epithet *frontalis*: From front (额) + alis (相关)
+
+ES — epithet *frontalis*: De front (frente) + alis (relativo a)
 
 <!-- src:S0018 -->
 

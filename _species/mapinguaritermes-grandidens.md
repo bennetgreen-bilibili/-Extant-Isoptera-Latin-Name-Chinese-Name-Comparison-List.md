@@ -38,9 +38,13 @@ ES — **大齿红懒白蚁** (*Mapinguaritermes grandidens*) es una especie del
 
 EN — *Mapinguaritermes*: From Mapinguari (a mythical Amazonian beast) + termes.
 
+ES — *Mapinguaritermes*: Del Mapinguarí (una bestia mítica amazónica) + termes.
+
 种加词 *grandidens*：拉丁文/希腊文词根「grand」（大）
 
 EN — epithet *grandidens*: From the descriptive term 'grand' (great)
+
+ES — epithet *grandidens*: Del término descriptivo «grand» (grande)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **榕树白蚁** (*Glyptotermes ficus*) es una especie del género *Glypt
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *ficus*：拉丁文 ficus（无花果）
 
 EN — epithet *ficus*: Latin ficus (fig)
+
+ES — epithet *ficus*: Del latín ficus (higo)
 
 <!-- src:S0018 -->
 

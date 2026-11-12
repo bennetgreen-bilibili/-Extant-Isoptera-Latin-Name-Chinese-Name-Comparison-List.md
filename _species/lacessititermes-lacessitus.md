@@ -38,9 +38,13 @@ ES — **紧张怒白蚁** (*Lacessititermes lacessitus*) es una especie, y la e
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *lacessitus*：拉丁文 lacessitus（被挑衅的、被激怒的）
 
 EN — epithet *lacessitus*: Latin lacessitus (provoked)
+
+ES — epithet *lacessitus*: Del latín lacessitus (provocado)
 
 <!-- src:S0018 -->
 

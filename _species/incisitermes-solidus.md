@@ -35,9 +35,13 @@ ES — **坚硬楹白蚁** (*Incisitermes solidus*) es una especie del género *
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *solidus*：拉丁文 solidus（坚实的）
 
 EN — epithet *solidus*: Latin solidus (solid)
+
+ES — epithet *solidus*: Del latín solidus (sólido)
 
 <!-- src:S0018 -->
 

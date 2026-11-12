@@ -38,9 +38,13 @@ ES — **小钩镰白蚁** (*Drepanotermes hamulus*) es una especie del género 
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *hamulus*：拉丁文 hamulus（小钩）
 
 EN — epithet *hamulus*: Latin hamulus (small hook)
+
+ES — epithet *hamulus*: Del latín hamulus (ganchito)
 
 <!-- src:S0018 -->
 

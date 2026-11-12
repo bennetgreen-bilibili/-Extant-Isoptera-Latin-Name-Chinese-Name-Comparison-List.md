@@ -35,9 +35,13 @@ ES — **大眼树白蚁** (*Glyptotermes magnioculus*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *magnioculus*：拉丁文/希腊文 magni（大）+ oculus（眼），指大眼
 
 EN — epithet *magnioculus*: From magni (大) + oculus (眼)
+
+ES — epithet *magnioculus*: De magni (grande) + oculus (ojo)
 
 <!-- src:S0018 -->
 

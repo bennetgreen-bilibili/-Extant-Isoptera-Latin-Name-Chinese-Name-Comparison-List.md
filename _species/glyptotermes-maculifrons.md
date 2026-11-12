@@ -35,9 +35,13 @@ ES — **麻额树白蚁** (*Glyptotermes maculifrons*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *maculifrons*：拉丁文/希腊文 maculi（斑）+ frons（额），指斑额
 
 EN — epithet *maculifrons*: From maculi (斑) + frons (额)
+
+ES — epithet *maculifrons*: De maculi (mancha) + frons (frente)
 
 <!-- src:S0018 -->
 

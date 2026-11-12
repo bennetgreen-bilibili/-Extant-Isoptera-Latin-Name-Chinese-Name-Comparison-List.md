@@ -39,9 +39,13 @@ ES — **严肃等颚白蚁** (*Isognathotermes severus*) es una especie del gé
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *severus*：拉丁文 severus（严肃的、严酷的）
 
 EN — epithet *severus*: Latin severus (severe)
+
+ES — epithet *severus*: Del latín severus (severo)
 
 <!-- src:S0018 -->
 

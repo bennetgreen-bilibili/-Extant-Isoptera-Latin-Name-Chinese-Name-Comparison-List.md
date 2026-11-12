@@ -38,9 +38,13 @@ ES — **第一旁扭白蚁** (*Paracapritermes primus*) es una especie, y la es
 
 EN — *Paracapritermes*: From Greek para- (beside) + Latin caper (goat) + termes.
 
+ES — *Paracapritermes*: Del griego para- (al lado de) + latín caper (cabra) + termes.
+
 种加词 *primus*：拉丁文 primus（第一）
 
 EN — epithet *primus*: Latin primus (first)
+
+ES — epithet *primus*: Del latín primus (primero)
 
 <!-- src:S0018 -->
 

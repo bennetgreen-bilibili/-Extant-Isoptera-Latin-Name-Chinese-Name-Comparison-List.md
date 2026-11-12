@@ -38,9 +38,13 @@ ES — **多齿弓白蚁** (*Amitermes dentosus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *dentosus*：拉丁文/希腊文 dent（齿）+ osus（多、充满），指齿多、充满
 
 EN — epithet *dentosus*: From dent (齿) + osus (多、充满)
+
+ES — epithet *dentosus*: De dent (diente) + osus (abundante en)
 
 <!-- src:S0018 -->
 

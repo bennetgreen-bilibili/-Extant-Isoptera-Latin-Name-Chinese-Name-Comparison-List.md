@@ -38,9 +38,13 @@ ES — **马萨前奇白蚁** (*Promirotermes massaicus*) es una especie del gé
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *massaicus*：以地名 马赛（肯尼亚） 命名
 
 EN — epithet *massaicus*: Named after the locality Massa
+
+ES — epithet *massaicus*: Por la localidad de Massa
 
 <!-- src:S0018 -->
 

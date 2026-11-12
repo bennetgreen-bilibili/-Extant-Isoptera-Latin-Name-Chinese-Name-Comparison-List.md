@@ -38,9 +38,13 @@ ES — **干燥隐白蚁** (*Occultitermes aridus*) es una especie del género *
 
 EN — *Occultitermes*: From Latin occultus (hidden) + termes.
 
+ES — *Occultitermes*: Del latín occultus (oculto) + termes.
+
 种加词 *aridus*：拉丁文 aridus（干旱的）
 
 EN — epithet *aridus*: Latin aridus (arid, dry)
+
+ES — epithet *aridus*: Del latín aridus (árido, seco)
 
 <!-- src:S0018 -->
 

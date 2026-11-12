@@ -35,9 +35,13 @@ ES — **西部散白蚁** (*Reticulitermes hesperus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *hesperus*：希腊文 hesperos（西方的、黄昏的）
 
 EN — epithet *hesperus*: Greek hesperos (western, evening)
+
+ES — epithet *hesperus*: Del griego hesperos (occidental, vespertino)
 
 <!-- src:S0018 -->
 

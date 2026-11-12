@@ -35,9 +35,13 @@ ES — **长翅树白蚁** (*Glyptotermes longipennis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *longipennis*：拉丁文 longus（长）+ penna（翅），长翅
 
 EN — epithet *longipennis*: Latin longus (long) + penna (wing), long-winged
+
+ES — epithet *longipennis*: Del latín longus (largo) + penna (ala), de alas largas
 
 <!-- src:S0018 -->
 

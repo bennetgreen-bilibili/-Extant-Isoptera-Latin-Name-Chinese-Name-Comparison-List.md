@@ -40,9 +40,13 @@ ES — **阿卡胡特拉象白蚁** (*Nasutitermes acajutlae*) es una especie de
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *acajutlae*：以地名 Acajutla（阿卡胡特拉，萨尔瓦多）命名
 
 EN — epithet *acajutlae*: Named after Acajutla, El Salvador
+
+ES — epithet *acajutlae*: Por Acajutla, El Salvador
 
 <!-- src:S0018 -->
 

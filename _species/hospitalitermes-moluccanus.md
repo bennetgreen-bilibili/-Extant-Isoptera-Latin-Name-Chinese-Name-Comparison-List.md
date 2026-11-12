@@ -38,9 +38,13 @@ ES — **摩鹿加须白蚁** (*Hospitalitermes moluccanus*) es una especie del 
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *moluccanus*：以地名 摩鹿加（马鲁古） 命名
 
 EN — epithet *moluccanus*: Named after the locality Molucc
+
+ES — epithet *moluccanus*: Por la localidad de Molucc
 
 <!-- src:S0018 -->
 

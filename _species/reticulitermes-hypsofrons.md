@@ -35,9 +35,13 @@ ES — **高额散白蚁** (*Reticulitermes hypsofrons*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *hypsofrons*：希腊文 hypsos（高）+ 拉丁文 frons（额），高额
 
 EN — epithet *hypsofrons*: Greek hypsos (height) + Latin frons (front), high-fronted
+
+ES — epithet *hypsofrons*: Del griego hypsos (altura) + del latín frons (frente), de frente alta
 
 <!-- src:S0018 -->
 

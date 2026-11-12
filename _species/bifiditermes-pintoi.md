@@ -35,9 +35,13 @@ ES — **平托双裂白蚁** (*Bifiditermes pintoi*) es una especie del género
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *pintoi*：以人名 Pinto（平托，葡语姓氏）命名
 
 EN — epithet *pintoi*: Named after Pinto
+
+ES — epithet *pintoi*: En honor de Pinto
 
 <!-- src:S0018 -->
 

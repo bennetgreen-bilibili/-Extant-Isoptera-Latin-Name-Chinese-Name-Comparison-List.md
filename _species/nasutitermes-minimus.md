@@ -38,9 +38,13 @@ ES — **最小象白蚁** (*Nasutitermes minimus*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *minimus*：拉丁文 minimus（最小）
 
 EN — epithet *minimus*: Latin minimus (smallest)
+
+ES — epithet *minimus*: Del latín minimus (el menor)
 
 <!-- src:S0018 -->
 

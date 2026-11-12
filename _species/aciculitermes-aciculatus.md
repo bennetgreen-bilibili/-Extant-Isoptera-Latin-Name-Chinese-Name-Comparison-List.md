@@ -38,9 +38,13 @@ ES — **针状针白蚁** (*Aciculitermes aciculatus*) es una especie, y la esp
 
 EN — *Aciculitermes*: From Latin acicula (little pin) + termes.
 
+ES — *Aciculitermes*: Del latín acicula (alfiler pequeño) + termes.
+
 种加词 *aciculatus*：拉丁文/希腊文 acicul（针）+ atus（具），指针具
 
 EN — epithet *aciculatus*: From acicul (针) + atus (具)
+
+ES — epithet *aciculatus*: De acicul (aguja) + atus (que posee)
 
 <!-- src:S0018 -->
 

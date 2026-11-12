@@ -36,9 +36,13 @@ ES — **指名亚种** (*Reticulitermes speratus speratus*) es una subespecie d
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *speratus*：拉丁文 speratus（被期望的）
 
 EN — epithet *speratus*: Latin speratus (hoped for)
+
+ES — epithet *speratus*: Del latín speratus (esperado)
 
 <!-- src:S0018 -->
 

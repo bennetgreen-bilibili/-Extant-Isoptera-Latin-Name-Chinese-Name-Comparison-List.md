@@ -38,9 +38,13 @@ ES — **长毛阿劳若白蚁** (*Araujotermes parvellus*) es una especie del g
 
 EN — *Araujotermes*: Named after the termite taxonomist R. L. Araujo; -termes from Latin termes.
 
+ES — *Araujotermes*: En honor del taxónomo de termitas R. L. Araujo; -termes, del latín termes.
+
 种加词 *parvellus*：拉丁文/希腊文 parv（小）+ ellus（小（指小）），指小小（指小）
 
 EN — epithet *parvellus*: From parv (小) + ellus (小（指小）)
+
+ES — epithet *parvellus*: De parv (pequeño) + ellus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

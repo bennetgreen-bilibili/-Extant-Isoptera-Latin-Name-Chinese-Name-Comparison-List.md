@@ -38,9 +38,13 @@ ES — **似陀针筒白蚁** (*Enetotermes bembicoides*) es la única especie v
 
 EN — *Enetotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Enetotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *bembicoides*：希腊文 bembyx（蜂）+ -oides（似），似蜂
 
 EN — epithet *bembicoides*: Greek bembyx (bee) + -oides (like), bee-like
+
+ES — epithet *bembicoides*: Del griego bembyx (abeja) + -oides (semejante), semejante a una abeja
 
 <!-- src:S0018 -->
 

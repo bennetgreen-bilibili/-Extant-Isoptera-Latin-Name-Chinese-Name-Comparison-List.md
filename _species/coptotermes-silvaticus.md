@@ -35,9 +35,13 @@ ES — **森林乳白蚁** (*Coptotermes silvaticus*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *silvaticus*：拉丁文 silvaticus（森林的，silva=森林）
 
 EN — epithet *silvaticus*: Latin silvaticus (of the forest, silva = forest)
+
+ES — epithet *silvaticus*: Del latín silvaticus (del bosque, silva = bosque)
 
 <!-- src:S0018 -->
 

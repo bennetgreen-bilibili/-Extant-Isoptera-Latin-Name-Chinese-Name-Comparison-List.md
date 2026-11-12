@@ -38,9 +38,13 @@ ES — **马里巴冢白蚁** (*Tumulitermes mareebensis*) es una especie del g�
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *mareebensis*：以澳大利亚昆士兰马里巴（Mareeba）命名
 
 EN — epithet *mareebensis*: Named after Mareeba, Queensland, Australia
+
+ES — epithet *mareebensis*: Por Mareeba, Queensland, Australia
 
 <!-- src:S0018 -->
 

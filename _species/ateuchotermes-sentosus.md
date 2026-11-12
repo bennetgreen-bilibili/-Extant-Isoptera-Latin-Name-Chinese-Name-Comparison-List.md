@@ -38,9 +38,13 @@ ES — **多刺无锐白蚁** (*Ateuchotermes sentosus*) es una especie del gén
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *sentosus*：拉丁文 sentosus（多刺的）
 
 EN — epithet *sentosus*: Latin sentosus (thorny)
+
+ES — epithet *sentosus*: Del latín sentosus (espinoso)
 
 <!-- src:S0018 -->
 

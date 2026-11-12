@@ -38,9 +38,13 @@ ES — **阿斯穆斯宽白蚁** (*Eurytermes assmuthi*) es una especie, y la es
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
+ES — *Eurytermes*: Del griego eurys (ancho) + latín termes.
+
 种加词 *assmuthi*：以人名 Assmuth 命名
 
 EN — epithet *assmuthi*: Named after Assmuth
+
+ES — epithet *assmuthi*: En honor de Assmuth
 
 <!-- src:S0018 -->
 

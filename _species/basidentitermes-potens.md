@@ -38,9 +38,13 @@ ES — **强壮基齿白蚁** (*Basidentitermes potens*) es una especie del gén
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *potens*：拉丁文 potens（有力的、强大的）
 
 EN — epithet *potens*: Latin potens (powerful)
+
+ES — epithet *potens*: Del latín potens (poderoso)
 
 <!-- src:S0018 -->
 

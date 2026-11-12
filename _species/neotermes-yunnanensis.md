@@ -35,9 +35,13 @@ ES — **云南新白蚁** (*Neotermes yunnanensis*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *yunnanensis*：地名：云南（中国）
 
 EN — epithet *yunnanensis*: After Yunnan (China)
+
+ES — epithet *yunnanensis*: Por Yunnan (China)
 
 <!-- src:S0018 -->
 

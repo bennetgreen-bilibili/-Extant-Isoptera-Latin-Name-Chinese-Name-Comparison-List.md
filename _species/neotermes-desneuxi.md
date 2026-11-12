@@ -35,9 +35,13 @@ ES — **德纳新白蚁** (*Neotermes desneuxi*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *desneuxi*：以人名 desneux 命名（比利时白蚁学家 J. Desneux）
 
 EN — epithet *desneuxi*: Named after 比利时白蚁学家 J. Desneux
+
+ES — epithet *desneuxi*: En honor del termitólogo belga J. Desneux
 
 <!-- src:S0018 -->
 

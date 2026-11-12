@@ -38,9 +38,13 @@ ES — **幼小弓白蚁** (*Amitermes parvulus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *parvulus*：拉丁文 parvulus（很小，指小词）
 
 EN — epithet *parvulus*: Latin parvulus (very small, diminutive)
+
+ES — epithet *parvulus*: Del latín parvulus (muy pequeño, diminuto)
 
 <!-- src:S0018 -->
 

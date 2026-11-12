@@ -38,9 +38,13 @@ ES — **布瑞西亚薄嘴白蚁** (*Tenuirostritermes briciae*) es una especie
 
 EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
 
+ES — *Tenuirostritermes*: Del latín tenuis (delgado) + rostrum (pico) + termes.
+
 种加词 *briciae*：以人名 Bricia 命名
 
 EN — epithet *briciae*: Named after Bricia
+
+ES — epithet *briciae*: En honor de Bricia
 
 <!-- src:S0018 -->
 

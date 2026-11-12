@@ -38,9 +38,13 @@ ES — **兴山象白蚁** (*Nasutitermes xingshanensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *xingshanensis*：以地名 兴山（湖北） 命名
 
 EN — epithet *xingshanensis*: Named after the locality Xingshan
+
+ES — epithet *xingshanensis*: Por la localidad de Xingshan
 
 <!-- src:S0018 -->
 

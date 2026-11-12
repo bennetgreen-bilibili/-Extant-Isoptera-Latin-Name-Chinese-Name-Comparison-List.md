@@ -38,9 +38,13 @@ ES — **因多节白蚁** (*Noditermes indoensis*) es una especie del género *
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *indoensis*：以地名 印度 命名
 
 EN — epithet *indoensis*: Named after the locality Indo
+
+ES — epithet *indoensis*: Por la localidad de Indo
 
 <!-- src:S0018 -->
 

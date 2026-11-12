@@ -38,9 +38,13 @@ ES — **短小锯白蚁** (*Microcerotermes nanulus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *nanulus*：拉丁文/希腊文 nan（矮小）+ ulus（小（指小）），指矮小小（指小）
 
 EN — epithet *nanulus*: From nan (矮小) + ulus (小（指小）)
+
+ES — epithet *nanulus*: De nan (diminuto) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

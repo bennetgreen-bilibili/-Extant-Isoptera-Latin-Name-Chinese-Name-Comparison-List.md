@@ -38,9 +38,13 @@ ES — **瘤额孔白蚁** (*Foraminitermes tubifrons*) es una especie, y la esp
 
 EN — *Foraminitermes*: From Latin foramen (opening) + termes.
 
+ES — *Foraminitermes*: Del latín foramen (abertura) + termes.
+
 种加词 *tubifrons*：拉丁文 tubus（管）+ frons（额），管额
 
 EN — epithet *tubifrons*: Latin tubus (tube) + frons (front), tube-fronted
+
+ES — epithet *tubifrons*: Del latín tubus (tubo) + frons (frente), de frente tubular
 
 <!-- src:S0018 -->
 

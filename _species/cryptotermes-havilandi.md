@@ -37,9 +37,13 @@ ES — **叶额堆砂白蚁** (*Cryptotermes havilandi*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *havilandi*：以人名 Haviland 命名（英国昆虫学家 G. D. Haviland）
 
 EN — epithet *havilandi*: Named after the entomologist G. D. Haviland
+
+ES — epithet *havilandi*: En honor del entomólogo G. D. Haviland
 
 <!-- src:S0018 -->
 

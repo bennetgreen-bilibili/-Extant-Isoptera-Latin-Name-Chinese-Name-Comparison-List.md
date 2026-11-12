@@ -38,9 +38,13 @@ ES — **似微象白蚁** (*Nasutitermes perparvus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *perparvus*：拉丁文 per-（非常）+ parvus（小），极小
 
 EN — epithet *perparvus*: Latin per- (very) + parvus (small), very small
+
+ES — epithet *perparvus*: Del latín per- (muy) + parvus (pequeño), muy pequeño
 
 <!-- src:S0018 -->
 

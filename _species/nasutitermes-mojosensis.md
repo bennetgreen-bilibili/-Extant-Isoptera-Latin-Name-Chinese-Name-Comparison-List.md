@@ -38,9 +38,13 @@ ES — **莫霍斯象白蚁** (*Nasutitermes mojosensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mojosensis*：以地名 莫霍斯（玻利维亚） 命名
 
 EN — epithet *mojosensis*: Named after the locality Mojos
+
+ES — epithet *mojosensis*: Por la localidad de Mojos
 
 <!-- src:S0018 -->
 

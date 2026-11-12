@@ -54,6 +54,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由拉丁文 serra（锯）与 termes（白蚁）组合。</p>
 <p class="etymology-en fact-en" lang="en">From Latin serra (saw) + termes.</p>
+<p class="etymology-es fact-es" lang="es">Del latín serra (sierra) + termes.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

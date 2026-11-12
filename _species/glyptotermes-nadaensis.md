@@ -35,9 +35,13 @@ ES — **那大树白蚁** (*Glyptotermes nadaensis*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *nadaensis*：以海南那大（Nada，儋州）命名
 
 EN — epithet *nadaensis*: Named after Nada (Danzhou), Hainan, China
+
+ES — epithet *nadaensis*: Por la localidad de Nada (Danzhou), Hainan, China
 
 <!-- src:S0018 -->
 

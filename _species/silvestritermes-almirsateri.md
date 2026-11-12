@@ -38,9 +38,13 @@ ES — **阿尔米尔萨特尔西尔韦斯特里白蚁** (*Silvestritermes almir
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *almirsateri*：以人名 Almir Sater 命名
 
 EN — epithet *almirsateri*: Named after Almir Sater
+
+ES — epithet *almirsateri*: En honor de Almir Sater
 
 <!-- src:S0018 -->
 

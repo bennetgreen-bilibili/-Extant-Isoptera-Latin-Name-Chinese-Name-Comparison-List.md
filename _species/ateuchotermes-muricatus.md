@@ -38,9 +38,13 @@ ES — **胆怯无锐白蚁** (*Ateuchotermes muricatus*) es una especie del gé
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *muricatus*：拉丁文/希腊文 muric（刺）+ atus（具），指刺具
 
 EN — epithet *muricatus*: From muric (刺) + atus (具)
+
+ES — epithet *muricatus*: De muric (espina) + atus (que posee)
 
 <!-- src:S0018 -->
 

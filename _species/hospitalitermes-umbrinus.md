@@ -38,9 +38,13 @@ ES — **赭色须白蚁** (*Hospitalitermes umbrinus*) es una especie del géne
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *umbrinus*：拉丁文 umbrinus（褐色的、荫色的）
 
 EN — epithet *umbrinus*: Latin umbrinus (umber, brown)
+
+ES — epithet *umbrinus*: Del latín umbrinus (sombra de tierra, marrón)
 
 <!-- src:S0018 -->
 

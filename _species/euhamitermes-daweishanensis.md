@@ -38,9 +38,13 @@ ES — **大围亮白蚁** (*Euhamitermes daweishanensis*) es una especie del g�
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *daweishanensis*：以地名 大围山（云南） 命名
 
 EN — epithet *daweishanensis*: Named after the locality Daweishan
+
+ES — epithet *daweishanensis*: Por la localidad de Daweishan
 
 <!-- src:S0018 -->
 

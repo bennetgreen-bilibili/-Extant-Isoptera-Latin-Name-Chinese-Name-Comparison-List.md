@@ -40,9 +40,13 @@ ES — **萨赖怒白蚁** (*Lacessititermes saraiensis*) es una especie del gé
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *saraiensis*：以地名 沙捞越（马来西亚） 命名
 
 EN — epithet *saraiensis*: Named after the locality Sara
+
+ES — epithet *saraiensis*: Por la localidad de Sara
 
 <!-- src:S0018 -->
 

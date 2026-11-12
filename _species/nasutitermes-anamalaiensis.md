@@ -40,9 +40,13 @@ ES — **安纳马莱象白蚁** (*Nasutitermes anamalaiensis*) es una especie d
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *anamalaiensis*：以地名 阿奈马莱（印度） 命名
 
 EN — epithet *anamalaiensis*: Named after the locality Anamala
+
+ES — epithet *anamalaiensis*: Por la localidad de Anamala
 
 <!-- src:S0018 -->
 

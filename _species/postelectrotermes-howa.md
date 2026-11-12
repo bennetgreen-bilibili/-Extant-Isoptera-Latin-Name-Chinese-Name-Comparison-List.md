@@ -37,9 +37,13 @@ ES — **合华后琥珀白蚁** (*Postelectrotermes howa*) es una especie del g
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *howa*：霍瓦族（马达加斯加主体民族）
 
 EN — epithet *howa*: After the Hova people (Madagascar)
+
+ES — epithet *howa*: Por el pueblo hova (Madagascar)
 
 <!-- src:S0018 -->
 

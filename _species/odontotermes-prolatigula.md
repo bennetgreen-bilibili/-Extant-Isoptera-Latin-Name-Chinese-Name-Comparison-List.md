@@ -38,9 +38,13 @@ ES — **前宽颏土白蚁** (*Odontotermes prolatigula*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *prolatigula*：拉丁文 pro-（前）+ latus（宽）+ gula（喉、舌），前宽舌
 
 EN — epithet *prolatigula*: Latin pro- (front) + latus (broad) + gula (throat/tongue)
+
+ES — epithet *prolatigula*: Del latín pro- (delante) + latus (ancho) + gula (garganta/lengua)
 
 <!-- src:S0018 -->
 

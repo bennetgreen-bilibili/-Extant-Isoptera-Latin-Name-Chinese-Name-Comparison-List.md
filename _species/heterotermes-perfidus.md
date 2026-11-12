@@ -35,9 +35,13 @@ ES — **危险异白蚁** (*Heterotermes perfidus*) es una especie del género 
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *perfidus*：拉丁文 perfidus（背信弃义的）
 
 EN — epithet *perfidus*: Latin perfidus (treacherous)
+
+ES — epithet *perfidus*: Del latín perfidus (pérfido)
 
 <!-- src:S0018 -->
 

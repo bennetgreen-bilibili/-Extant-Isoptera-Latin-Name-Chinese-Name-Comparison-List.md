@@ -38,9 +38,13 @@ ES — **狭颏稀白蚁** (*Speculitermes angustigulus*) es una especie del gé
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *angustigulus*：拉丁文/希腊文 angustig（窄）+ ulus（小（指小）），指窄小（指小）
 
 EN — epithet *angustigulus*: From angustig (窄) + ulus (小（指小）)
+
+ES — epithet *angustigulus*: De angustig (estrecho) + ulus (pequeño (diminutivo))
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **温柔无利器白蚁** (*Astalotermes aganus*) es una especie del gén
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *aganus*：希腊文 aganos（温和的、柔和的）
 
 EN — epithet *aganus*: Greek aganos (gentle)
+
+ES — epithet *aganus*: Del griego aganos (suave)
 
 <!-- src:S0018 -->
 

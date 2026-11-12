@@ -35,9 +35,13 @@ ES — **干海岸新白蚁** (*Neotermes costaseca*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *costaseca*：葡萄牙语 costa（海岸）+ seca（干），干海岸
 
 EN — epithet *costaseca*: Portuguese costa (coast) + seca (dry)
+
+ES — epithet *costaseca*: Del portugués costa (costa) + seca (seca)
 
 <!-- src:S0018 -->
 

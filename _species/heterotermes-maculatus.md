@@ -35,9 +35,13 @@ ES — **斑点异白蚁** (*Heterotermes maculatus*) es una especie del género
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *maculatus*：拉丁文 maculatus（具斑点）
 
 EN — epithet *maculatus*: Latin maculatus (spotted)
+
+ES — epithet *maculatus*: Del latín maculatus (manchado)
 
 <!-- src:S0018 -->
 

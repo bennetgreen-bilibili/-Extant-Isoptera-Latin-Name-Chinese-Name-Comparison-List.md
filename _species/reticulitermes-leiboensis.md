@@ -35,9 +35,13 @@ ES — **雷波散白蚁** (*Reticulitermes leiboensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *leiboensis*：以地名 雷波（四川） 命名
 
 EN — epithet *leiboensis*: Named after the locality Leibo
+
+ES — epithet *leiboensis*: Por la localidad de Leibo
 
 <!-- src:S0018 -->
 

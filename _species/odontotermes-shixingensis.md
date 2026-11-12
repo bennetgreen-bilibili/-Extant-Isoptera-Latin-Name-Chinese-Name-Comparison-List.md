@@ -38,9 +38,13 @@ ES — **始兴土白蚁** (*Odontotermes shixingensis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *shixingensis*：以地名 始兴（广东） 命名
 
 EN — epithet *shixingensis*: Named after the locality Shixing
+
+ES — epithet *shixingensis*: Por la localidad de Shixing
 
 <!-- src:S0018 -->
 

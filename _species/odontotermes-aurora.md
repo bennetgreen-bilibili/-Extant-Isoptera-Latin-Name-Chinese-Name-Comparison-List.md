@@ -38,9 +38,13 @@ ES — **黎明土白蚁** (*Odontotermes aurora*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *aurora*：拉丁文/希腊文词根「aur」（金）
 
 EN — epithet *aurora*: From the descriptive term 'aur' (gold)
+
+ES — epithet *aurora*: Del término descriptivo «aur» (oro)
 
 <!-- src:S0018 -->
 

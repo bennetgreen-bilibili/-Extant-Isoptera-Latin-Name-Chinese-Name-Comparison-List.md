@@ -35,9 +35,13 @@ ES — **西藏散白蚁** (*Reticulitermes tibetanus*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *tibetanus*：以地名 西藏 命名
 
 EN — epithet *tibetanus*: Named after the locality Tibet
+
+ES — epithet *tibetanus*: Por la localidad del Tíbet
 
 <!-- src:S0018 -->
 

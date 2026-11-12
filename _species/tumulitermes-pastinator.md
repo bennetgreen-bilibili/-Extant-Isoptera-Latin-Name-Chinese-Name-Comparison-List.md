@@ -40,9 +40,13 @@ ES — **挖掘冢白蚁** (*Tumulitermes pastinator*) es una especie del géner
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *pastinator*：拉丁文 pastinator（挖掘者）
 
 EN — epithet *pastinator*: Latin pastinator (digger)
+
+ES — epithet *pastinator*: Del latín pastinator (excavador)
 
 <!-- src:S0018 -->
 

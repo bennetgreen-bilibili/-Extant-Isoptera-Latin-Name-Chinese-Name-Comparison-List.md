@@ -38,9 +38,13 @@ ES — **高山土白蚁** (*Odontotermes montanus*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *montanus*：拉丁文 montanus（山地的）
 
 EN — epithet *montanus*: Latin montanus (mountain-dwelling)
+
+ES — epithet *montanus*: Del latín montanus (que habita en montañas)
 
 <!-- src:S0018 -->
 

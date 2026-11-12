@@ -35,9 +35,13 @@ ES — **梨头长鼻白蚁** (*Schedorhinotermes pyricephalus*) es una especie 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *pyricephalus*：拉丁文/希腊文词根「pyr」（火）
 
 EN — epithet *pyricephalus*: From the descriptive term 'pyr' (fire)
+
+ES — epithet *pyricephalus*: Del término descriptivo «pyr» (fuego)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **锡马卢土白蚁** (*Odontotermes simalurensis*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *simalurensis*：以地名 西默卢岛（印度尼西亚） 命名
 
 EN — epithet *simalurensis*: Named after the locality Simalur
+
+ES — epithet *simalurensis*: Por la localidad de Simalur
 
 <!-- src:S0018 -->
 

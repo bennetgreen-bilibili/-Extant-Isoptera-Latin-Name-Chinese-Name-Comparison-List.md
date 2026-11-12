@@ -38,9 +38,13 @@ ES — **地蛛前扭白蚁** (*Procapritermes atypus*) es una especie del géne
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *atypus*：希腊文 a-（无）+ typos（型），非典型的
 
 EN — epithet *atypus*: Greek a- (without) + typos (type), atypical
+
+ES — epithet *atypus*: Del griego a- (sin) + typos (tipo), atípico
 
 <!-- src:S0018 -->
 

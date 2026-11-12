@@ -38,9 +38,13 @@ ES — **青色象白蚁** (*Nasutitermes lividus*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *lividus*：拉丁文/希腊文词根「livid」（铅灰）
 
 EN — epithet *lividus*: From the descriptive term 'livid' (livid)
+
+ES — epithet *lividus*: Del término descriptivo «livid» (lívido)
 
 <!-- src:S0018 -->
 

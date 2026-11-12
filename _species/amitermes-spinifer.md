@@ -38,9 +38,13 @@ ES — **具刺弓白蚁** (*Amitermes spinifer*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *spinifer*：拉丁文 spina（刺）+ -fer（具），具刺
 
 EN — epithet *spinifer*: Latin spina (spine) + -fer (bearing), spiny
+
+ES — epithet *spinifer*: Del latín spina (espina) + -fer (que lleva), espinoso
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **海桑新白蚁** (*Neotermes sonneratiae*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *sonneratiae*：以海桑属（Sonneratia）命名
 
 EN — epithet *sonneratiae*: After the plant genus Sonneratia
+
+ES — epithet *sonneratiae*: Por el género de plantas Sonneratia
 
 <!-- src:S0018 -->
 

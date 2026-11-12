@@ -38,9 +38,13 @@ ES — **易辨澳大利亚白蚁** (*Australitermes insignitus*) es una especie
 
 EN — *Australitermes*: From Latin australis (southern) + termes.
 
+ES — *Australitermes*: Del latín australis (meridional) + termes.
+
 种加词 *insignitus*：拉丁文 insignitus（具标记的）
 
 EN — epithet *insignitus*: Latin insignitus (marked)
+
+ES — epithet *insignitus*: Del latín insignitus (marcado)
 
 <!-- src:S0018 -->
 

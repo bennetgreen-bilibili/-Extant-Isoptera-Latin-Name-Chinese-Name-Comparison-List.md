@@ -35,9 +35,13 @@ ES — **高山散白蚁** (*Reticulitermes altus*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *altus*：拉丁文 altus（高）
 
 EN — epithet *altus*: Latin altus (high)
+
+ES — epithet *altus*: Del latín altus (alto)
 
 <!-- src:S0018 -->
 

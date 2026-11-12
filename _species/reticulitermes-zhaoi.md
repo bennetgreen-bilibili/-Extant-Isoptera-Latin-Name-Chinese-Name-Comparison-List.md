@@ -35,9 +35,13 @@ ES — **赵氏散白蚁** (*Reticulitermes zhaoi*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *zhaoi*：以中国昆虫分类学家赵修复（Zhao Xiufu，1919–2004，福建农学院教授）命名。
 
 EN — epithet *zhaoi*: Named after the Chinese entomologist Xiufu Zhao (1919–2004).
+
+ES — epithet *zhaoi*: En honor de Xiufu Zhao (1919–2004), entomólogo chino.
 
 <!-- src:S0018 -->
 

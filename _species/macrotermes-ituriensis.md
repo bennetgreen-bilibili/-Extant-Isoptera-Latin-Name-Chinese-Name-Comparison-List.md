@@ -38,9 +38,13 @@ ES — **伊图里大白蚁** (*Macrotermes ituriensis*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *ituriensis*：以地名 伊图里（刚果） 命名
 
 EN — epithet *ituriensis*: Named after the locality Itur
+
+ES — epithet *ituriensis*: Por la localidad de Itur
 
 <!-- src:S0018 -->
 

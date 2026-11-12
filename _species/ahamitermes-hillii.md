@@ -38,9 +38,13 @@ ES — **希尔无钩白蚁** (*Ahamitermes hillii*) es una especie del género 
 
 EN — *Ahamitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ahamitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hillii*：以人名 hill 命名（昆虫学家 G. F. Hill）
 
 EN — epithet *hillii*: Named after 昆虫学家 G. F. Hill
+
+ES — epithet *hillii*: En honor del entomólogo G. F. Hill
 
 <!-- src:S0018 -->
 

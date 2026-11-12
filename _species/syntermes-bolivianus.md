@@ -38,9 +38,13 @@ ES — **玻利维亚聚白蚁** (*Syntermes bolivianus*) es una especie del gé
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *bolivianus*：地名：玻利维亚
 
 EN — epithet *bolivianus*: After Bolivia
+
+ES — epithet *bolivianus*: Por Bolivia
 
 <!-- src:S0018 -->
 

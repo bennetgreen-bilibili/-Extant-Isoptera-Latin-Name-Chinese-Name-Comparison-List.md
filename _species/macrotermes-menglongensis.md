@@ -38,9 +38,13 @@ ES — **勐龙大白蚁** (*Macrotermes menglongensis*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *menglongensis*：以地名 勐龙（云南） 命名
 
 EN — epithet *menglongensis*: Named after the locality Menglong
+
+ES — epithet *menglongensis*: Por la localidad de Menglong
 
 <!-- src:S0018 -->
 

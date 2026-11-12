@@ -35,9 +35,13 @@ ES — **兴义散白蚁** (*Reticulitermes xingyiensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *xingyiensis*：以地名 兴义（贵州） 命名
 
 EN — epithet *xingyiensis*: Named after the locality Xingy
+
+ES — epithet *xingyiensis*: Por la localidad de Xingy
 
 <!-- src:S0018 -->
 

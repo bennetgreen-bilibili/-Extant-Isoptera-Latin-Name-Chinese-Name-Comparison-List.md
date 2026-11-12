@@ -38,9 +38,13 @@ ES — **灰头三方白蚁** (*Ternicubitermes pallidiceps*) es una especie del
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *pallidiceps*：拉丁文/希腊文 pallidi（苍白）+ ceps（头），指苍白头
 
 EN — epithet *pallidiceps*: From pallidi (苍白) + ceps (头)
+
+ES — epithet *pallidiceps*: De pallidi (pálido) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

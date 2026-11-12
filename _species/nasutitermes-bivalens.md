@@ -38,9 +38,13 @@ ES — **二价象白蚁** (*Nasutitermes bivalens*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *bivalens*：拉丁文 bi-（二）+ valens（强壮），双强
 
 EN — epithet *bivalens*: Latin bi- (two) + valens (strong)
+
+ES — epithet *bivalens*: Del latín bi- (dos) + valens (fuerte)
 
 <!-- src:S0018 -->
 

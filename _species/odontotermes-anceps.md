@@ -38,9 +38,13 @@ ES — **裂头土白蚁** (*Odontotermes anceps*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *anceps*：拉丁文/希腊文词根「anceps」（双头）
 
 EN — epithet *anceps*: From the descriptive term 'anceps' (two-headed)
+
+ES — epithet *anceps*: Del término descriptivo «anceps» (de dos cabezas)
 
 <!-- src:S0018 -->
 

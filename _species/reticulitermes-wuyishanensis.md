@@ -35,9 +35,13 @@ ES — **武夷山散白蚁** (*Reticulitermes wuyishanensis*) es una especie de
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *wuyishanensis*：以地名 武夷山（福建） 命名
 
 EN — epithet *wuyishanensis*: Named after the locality Wuyishan
+
+ES — epithet *wuyishanensis*: Por la localidad de Wuyishan
 
 <!-- src:S0018 -->
 

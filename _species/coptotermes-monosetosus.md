@@ -35,9 +35,13 @@ ES — **单毛乳白蚁** (*Coptotermes monosetosus*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *monosetosus*：希腊文 monos（单）+ 拉丁文 setosus（具刚毛），单刚毛
 
 EN — epithet *monosetosus*: Greek monos (single) + Latin setosus (bristly), one-bristled
+
+ES — epithet *monosetosus*: Del griego monos (uno) + del latín setosus (erizado), de una sola seta
 
 <!-- src:S0018 -->
 

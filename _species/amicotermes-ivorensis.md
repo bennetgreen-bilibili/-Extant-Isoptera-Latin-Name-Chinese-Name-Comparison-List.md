@@ -38,9 +38,13 @@ ES — **象牙海岸善白蚁** (*Amicotermes ivorensis*) es una especie del g�
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *ivorensis*：以科特迪瓦（象牙海岸，Ivory Coast）命名
 
 EN — epithet *ivorensis*: Named after Ivory Coast (Côte d'Ivoire)
+
+ES — epithet *ivorensis*: Por Costa de Marfil (Côte d’Ivoire)
 
 <!-- src:S0018 -->
 

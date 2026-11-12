@@ -38,9 +38,13 @@ ES — **短小方白蚁** (*Cubitermes exiguus*) es una especie del género *Cu
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *exiguus*：拉丁文/希腊文词根「exigu」（微小）
 
 EN — epithet *exiguus*: From the descriptive term 'exigu' (tiny)
+
+ES — epithet *exiguus*: Del término descriptivo «exigu» (diminuto)
 
 <!-- src:S0018 -->
 

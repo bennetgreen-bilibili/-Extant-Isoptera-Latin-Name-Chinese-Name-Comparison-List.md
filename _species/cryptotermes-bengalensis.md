@@ -35,9 +35,13 @@ ES — **孟加拉堆砂白蚁** (*Cryptotermes bengalensis*) es una especie del
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *bengalensis*：以地名 孟加拉 命名
 
 EN — epithet *bengalensis*: Named after the locality Bengal
+
+ES — epithet *bengalensis*: Por la localidad de Bengala
 
 <!-- src:S0018 -->
 

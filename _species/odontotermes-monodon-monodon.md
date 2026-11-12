@@ -39,9 +39,13 @@ ES — **指名亚种** (*Odontotermes monodon monodon*) es una subespecie de *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *monodon*：希腊文 monos（单）+ odous（齿），单齿
 
 EN — epithet *monodon*: Greek monos (single) + odous (tooth), one-toothed
+
+ES — epithet *monodon*: Del griego monos (uno) + odous (diente), de un solo diente
 
 <!-- src:S0018 -->
 

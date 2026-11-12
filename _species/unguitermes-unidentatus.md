@@ -38,9 +38,13 @@ ES — **单齿爪白蚁** (*Unguitermes unidentatus*) es una especie del géner
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *unidentatus*：拉丁文/希腊文 unident（单齿）+ atus（具），指单齿具
 
 EN — epithet *unidentatus*: From unident (单齿) + atus (具)
+
+ES — epithet *unidentatus*: De unident (un diente) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **短颚堆砂白蚁** (*Cryptotermes contognathus*) es una especie del g
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *contognathus*：希腊文 kontos（短）+ gnathos（颚），短颚
 
 EN — epithet *contognathus*: Greek kontos (short) + gnathos (jaw), short-jawed
+
+ES — epithet *contognathus*: Del griego kontos (corto) + gnathos (mandíbula), de mandíbulas cortas
 
 <!-- src:S0018 -->
 

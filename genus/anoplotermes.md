@@ -60,6 +60,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。</p>
 <p class="etymology-en fact-en" lang="en">From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.</p>
+<p class="etymology-es fact-es" lang="es">Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

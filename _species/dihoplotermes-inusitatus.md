@@ -38,9 +38,13 @@ ES — **非凡双戟白蚁** (*Dihoplotermes inusitatus*) es una especie, y la 
 
 EN — *Dihoplotermes*: From Greek di- (two) + hoplon (weapon) + Latin termes.
 
+ES — *Dihoplotermes*: Del griego di- (dos) + hoplon (arma) + latín termes.
+
 种加词 *inusitatus*：拉丁文 inusitatus（异常的、罕见的）
 
 EN — epithet *inusitatus*: Latin inusitatus (unusual)
+
+ES — epithet *inusitatus*: Del latín inusitatus (inusual)
 
 <!-- src:S0018 -->
 

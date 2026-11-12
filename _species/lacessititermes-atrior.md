@@ -38,9 +38,13 @@ ES — **暗黑怒白蚁** (*Lacessititermes atrior*) es una especie del género
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *atrior*：拉丁文/希腊文 a-（无、不）+ trior（三），指无三
 
 EN — epithet *atrior*: From a- (without) + trior (三)
+
+ES — epithet *atrior*: De a- (sin) + trior (tres)
 
 <!-- src:S0018 -->
 

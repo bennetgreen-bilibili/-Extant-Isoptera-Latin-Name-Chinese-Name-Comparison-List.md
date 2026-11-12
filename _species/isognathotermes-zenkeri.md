@@ -40,9 +40,13 @@ ES — **岑克等颚白蚁** (*Isognathotermes zenkeri*) es una especie del gé
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *zenkeri*：以人名 Zenker（Georg Zenker，德国） 命名
 
 EN — epithet *zenkeri*: Named after Georg Zenker (German)
+
+ES — epithet *zenkeri*: En honor de Georg Zenker (alemán)
 
 <!-- src:S0018 -->
 

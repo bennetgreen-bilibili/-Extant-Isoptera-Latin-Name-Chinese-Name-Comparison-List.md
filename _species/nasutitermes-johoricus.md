@@ -38,9 +38,13 @@ ES — **柔佛象白蚁** (*Nasutitermes johoricus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *johoricus*：以地名 柔佛（马来西亚） 命名
 
 EN — epithet *johoricus*: Named after the locality Johor
+
+ES — epithet *johoricus*: Por la localidad de Johor
 
 <!-- src:S0018 -->
 

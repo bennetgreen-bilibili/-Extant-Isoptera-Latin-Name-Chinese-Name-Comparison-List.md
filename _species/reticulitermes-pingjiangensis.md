@@ -35,9 +35,13 @@ ES — **平江散白蚁** (*Reticulitermes pingjiangensis*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *pingjiangensis*：以地名 平江（湖南） 命名
 
 EN — epithet *pingjiangensis*: Named after the locality Pingjiang
+
+ES — epithet *pingjiangensis*: Por la localidad de Pingjiang
 
 <!-- src:S0018 -->
 

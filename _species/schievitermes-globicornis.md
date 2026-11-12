@@ -38,9 +38,13 @@ ES — **球角不对称白蚁** (*Schievitermes globicornis*) es la única espe
 
 EN — *Schievitermes*: Named after a person (Schiev); -termes from Latin termes.
 
+ES — *Schievitermes*: En honor de una persona (Schiev); -termes, del latín termes.
+
 种加词 *globicornis*：拉丁文/希腊文 globi（球）+ cornis（角），指球角
 
 EN — epithet *globicornis*: From globi (球) + cornis (角)
+
+ES — epithet *globicornis*: De globi (globo) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

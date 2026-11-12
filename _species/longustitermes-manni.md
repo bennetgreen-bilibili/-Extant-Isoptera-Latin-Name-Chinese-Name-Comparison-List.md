@@ -40,9 +40,13 @@ ES — **曼长工白蚁** (*Longustitermes manni*) es la única especie vivient
 
 EN — *Longustitermes*: From Latin longus (long) + termes.
 
+ES — *Longustitermes*: Del latín longus (largo) + termes.
+
 种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
 
 EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+ES — epithet *manni*: En honor del entomólogo W. M. Mann
 
 <!-- src:S0018 -->
 

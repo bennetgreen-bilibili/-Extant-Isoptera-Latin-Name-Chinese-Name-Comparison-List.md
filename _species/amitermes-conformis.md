@@ -38,9 +38,13 @@ ES — **相似弓白蚁** (*Amitermes conformis*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *conformis*：拉丁文 conformis（同形的、一致的）
 
 EN — epithet *conformis*: Latin conformis (conforming, similar in form)
+
+ES — epithet *conformis*: Del latín conformis (conforme, de forma similar)
 
 <!-- src:S0018 -->
 

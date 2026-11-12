@@ -38,9 +38,13 @@ ES — **锡纳邦土白蚁** (*Odontotermes sinabangensis*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *sinabangensis*：以地名 Sinabang（锡纳邦岛，印度尼西亚）命名
 
 EN — epithet *sinabangensis*: Named after Sinabang (island, Indonesia)
+
+ES — epithet *sinabangensis*: Por Sinabang (isla, Indonesia)
 
 <!-- src:S0018 -->
 

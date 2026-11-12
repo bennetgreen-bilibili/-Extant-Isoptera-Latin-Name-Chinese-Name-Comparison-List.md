@@ -35,9 +35,13 @@ ES — **内湖新白蚁** (*Neotermes lagunensis*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *lagunensis*：以地名 Laguna（菲律宾拉古纳）命名
 
 EN — epithet *lagunensis*: Named after Laguna (Philippines)
+
+ES — epithet *lagunensis*: Por Laguna (Filipinas)
 
 <!-- src:S0018 -->
 

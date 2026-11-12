@@ -35,9 +35,13 @@ ES — **丘颏新白蚁** (*Neotermes tuberogulus*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *tuberogulus*：拉丁文/希腊文 tuberog（瘤）+ ulus（小（指小）），指瘤小（指小）
 
 EN — epithet *tuberogulus*: From tuberog (瘤) + ulus (小（指小）)
+
+ES — epithet *tuberogulus*: De tuberog (tubérculo) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **巴勒斯坦锯白蚁** (*Microcerotermes palestinensis*) es una especi
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *palestinensis*：以地名 巴勒斯坦 命名
 
 EN — epithet *palestinensis*: Named after the locality Palestin
+
+ES — epithet *palestinensis*: Por la localidad de Palestina
 
 <!-- src:S0018 -->
 

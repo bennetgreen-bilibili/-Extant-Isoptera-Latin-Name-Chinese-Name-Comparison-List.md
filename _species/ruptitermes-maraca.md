@@ -38,9 +38,13 @@ ES — **马拉卡腹爆白蚁** (*Ruptitermes maraca*) es una especie del géne
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *maraca*：图皮语 maracá（响葫芦）
 
 EN — epithet *maraca*: Tupi maracá (rattle)
+
+ES — epithet *maraca*: Del tupí maracá (maraca)
 
 <!-- src:S0018 -->
 

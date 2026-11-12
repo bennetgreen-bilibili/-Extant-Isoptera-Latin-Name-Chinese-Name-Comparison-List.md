@@ -35,9 +35,13 @@ ES — **湖北散白蚁** (*Reticulitermes hubeiensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *hubeiensis*：以地名 湖北 命名
 
 EN — epithet *hubeiensis*: Named after the locality Hube
+
+ES — epithet *hubeiensis*: Por la localidad de Hube
 
 <!-- src:S0018 -->
 

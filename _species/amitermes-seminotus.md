@@ -38,9 +38,13 @@ ES — **知半弓白蚁** (*Amitermes seminotus*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *seminotus*：拉丁文 semi-（半）+ notus（背），半背
 
 EN — epithet *seminotus*: Latin semi- (half) + notus (back), half-back
+
+ES — epithet *seminotus*: Del latín semi- (mitad) + notus (dorso), medio dorso
 
 <!-- src:S0018 -->
 

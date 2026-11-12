@@ -38,9 +38,13 @@ ES — **三头犬锐白蚁** (*Phoxotermes cerberus*) es la única especie vivi
 
 EN — *Phoxotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Phoxotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cerberus*：希腊文 Kerberos（三头犬刻耳柏洛斯）
 
 EN — epithet *cerberus*: Greek Kerberos (Cerberus)
+
+ES — epithet *cerberus*: Del griego Kerberos (Cerbero)
 
 <!-- src:S0018 -->
 

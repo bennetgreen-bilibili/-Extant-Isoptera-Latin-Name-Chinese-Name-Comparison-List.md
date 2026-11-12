@@ -38,9 +38,13 @@ ES — **收敛小真白蚁** (*Eutermellus convergens*) es una especie, y la es
 
 EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
 
+ES — *Eutermellus*: Del griego eu- (bien) + termes + diminutivo latino -ellus.
+
 种加词 *convergens*：拉丁文 convergens（汇聚的）
 
 EN — epithet *convergens*: Latin convergens (converging)
+
+ES — epithet *convergens*: Del latín convergens (convergente)
 
 <!-- src:S0018 -->
 

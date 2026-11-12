@@ -38,9 +38,13 @@ ES — **婆罗埃莉诺白蚁** (*Eleanoritermes borneensis*) es la única espe
 
 EN — *Eleanoritermes*: Named after a person (Eleanor); -termes from Latin termes.
 
+ES — *Eleanoritermes*: En honor de una persona (Eleanor); -termes, del latín termes.
+
 种加词 *borneensis*：地名：婆罗洲
 
 EN — epithet *borneensis*: After Borneo
+
+ES — epithet *borneensis*: Por Borneo
 
 <!-- src:S0018 -->
 

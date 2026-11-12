@@ -35,9 +35,13 @@ ES — **爱德华兹前砂白蚁** (*Procryptotermes edwardsi*) es una especie 
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *edwardsi*：以人名 Edwards 命名
 
 EN — epithet *edwardsi*: Named after Edwards
+
+ES — epithet *edwardsi*: En honor de Edwards
 
 <!-- src:S0018 -->
 

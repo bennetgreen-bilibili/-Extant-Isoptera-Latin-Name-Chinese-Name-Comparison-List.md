@@ -38,9 +38,13 @@ ES — **钝齿弓白蚁** (*Amitermes obtusidens*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *obtusidens*：拉丁文/希腊文词根「obtus」（钝）
 
 EN — epithet *obtusidens*: From the descriptive term 'obtus' (blunt)
+
+ES — epithet *obtusidens*: Del término descriptivo «obtus» (romo)
 
 <!-- src:S0018 -->
 

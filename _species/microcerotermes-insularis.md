@@ -38,9 +38,13 @@ ES — **岛屿锯白蚁** (*Microcerotermes insularis*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *insularis*：拉丁文 insularis（岛屿的、栖岛的）
 
 EN — epithet *insularis*: Latin insularis (of islands)
+
+ES — epithet *insularis*: Del latín insularis (de las islas)
 
 <!-- src:S0018 -->
 

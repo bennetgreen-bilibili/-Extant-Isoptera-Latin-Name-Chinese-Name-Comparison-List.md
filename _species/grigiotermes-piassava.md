@@ -38,9 +38,13 @@ ES — **皮亚萨瓦灰白蚁** (*Grigiotermes piassava*) es una especie del g�
 
 EN — *Grigiotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Grigiotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *piassava*：皮亚萨瓦棕榈纤维（图皮语）
 
 EN — epithet *piassava*: From piassava, palm fibre (Tupi)
+
+ES — epithet *piassava*: De piassava, fibra de palmera (tupí)
 
 <!-- src:S0018 -->
 

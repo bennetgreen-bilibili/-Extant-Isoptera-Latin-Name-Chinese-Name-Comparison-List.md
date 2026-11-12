@@ -38,9 +38,13 @@ ES — **葱头象白蚁** (*Nasutitermes bulbiceps*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *bulbiceps*：拉丁文 bulbus（球茎）+ -ceps（头），球头
 
 EN — epithet *bulbiceps*: Latin bulbus (bulb) + -ceps (head), bulb-headed
+
+ES — epithet *bulbiceps*: Del latín bulbus (bulbo) + -ceps (cabeza), de cabeza bulbosa
 
 <!-- src:S0018 -->
 

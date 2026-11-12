@@ -35,9 +35,13 @@ ES — **阿曼异白蚁** (*Heterotermes omanae*) es una especie del género *H
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *omanae*：以阿曼（Oman）命名
 
 EN — epithet *omanae*: Named after Oman
+
+ES — epithet *omanae*: Por Omán
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **新微象白蚁** (*Nasutitermes neoparvus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *neoparvus*：希腊文 neos（新）+ 拉丁文 parvus（小），新小
 
 EN — epithet *neoparvus*: Greek neos (new) + Latin parvus (small)
+
+ES — epithet *neoparvus*: Del griego neos (nuevo) + latín parvus (pequeño)
 
 <!-- src:S0018 -->
 

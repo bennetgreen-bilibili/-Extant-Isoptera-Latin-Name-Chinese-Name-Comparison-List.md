@@ -38,9 +38,13 @@ ES — **纳索诺夫缩狭白蚁** (*Coarctotermes nasonovi*) es una especie de
 
 EN — *Coarctotermes*: From Latin coarctatus (compressed) + termes.
 
+ES — *Coarctotermes*: Del latín coarctatus (comprimido) + termes.
+
 种加词 *nasonovi*：以人名 nasonov 命名（N. V. Nasonov（俄国昆虫学家））
 
 EN — epithet *nasonovi*: Named after N. V. Nasonov（俄国昆虫学家）
+
+ES — epithet *nasonovi*: En honor de N. V. Nasonov (entomólogo ruso)
 
 <!-- src:S0018 -->
 

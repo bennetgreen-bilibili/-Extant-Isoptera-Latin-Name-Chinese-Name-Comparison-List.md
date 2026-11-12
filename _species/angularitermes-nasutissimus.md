@@ -38,9 +38,13 @@ ES — **巨鼻棱角白蚁** (*Angularitermes nasutissimus*) es una especie, y 
 
 EN — *Angularitermes*: From Latin angularis (angular) + termes.
 
+ES — *Angularitermes*: Del latín angularis (angular) + termes.
+
 种加词 *nasutissimus*：拉丁文 nasutus（大鼻）+ -issimus（最），鼻最大
 
 EN — epithet *nasutissimus*: Latin nasutus (nasute) + -issimus (most), most nasute
+
+ES — epithet *nasutissimus*: Del latín nasutus (nasuto) + -issimus (muy), el más nasuto
 
 <!-- src:S0018 -->
 

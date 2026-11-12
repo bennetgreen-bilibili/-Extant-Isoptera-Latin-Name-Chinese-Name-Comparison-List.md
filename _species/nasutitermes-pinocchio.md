@@ -38,9 +38,13 @@ ES — **皮诺基奥象白蚁** (*Nasutitermes pinocchio*) es una especie del g
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *pinocchio*：意大利童话人物 Pinocchio（匹诺曹，长鼻木偶）
 
 EN — epithet *pinocchio*: Pinocchio (the long-nosed puppet)
+
+ES — epithet *pinocchio*: Pinocchio (la marioneta de nariz larga)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **圆唇杆白蚁** (*Stylotermes labralis*) es una especie del género *
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *labralis*：拉丁文 labralis（唇的、唇基的）
 
 EN — epithet *labralis*: Latin labralis (of the labrum)
+
+ES — epithet *labralis*: Del latín labralis (del labro)
 
 <!-- src:S0018 -->
 

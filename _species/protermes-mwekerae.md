@@ -38,9 +38,13 @@ ES — **穆维盖拉前白蚁** (*Protermes mwekerae*) es una especie del géne
 
 EN — *Protermes*: From Greek pro- (before) + Latin termes.
 
+ES — *Protermes*: Del griego pro- (antes) + latín termes.
+
 种加词 *mwekerae*：以赞比亚姆韦凯拉（Mwekera）命名
 
 EN — epithet *mwekerae*: Named after Mwekera, Zambia
+
+ES — epithet *mwekerae*: En honor de Mwekera, Zambia
 
 <!-- src:S0018 -->
 

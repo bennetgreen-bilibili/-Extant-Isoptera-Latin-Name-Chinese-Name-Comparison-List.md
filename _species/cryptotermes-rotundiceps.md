@@ -35,9 +35,13 @@ ES — **圆头堆砂白蚁** (*Cryptotermes rotundiceps*) es una especie del g�
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *rotundiceps*：拉丁文 rotundus（圆）+ -ceps（头），圆头
 
 EN — epithet *rotundiceps*: Latin rotundus (round) + -ceps (head), round-headed
+
+ES — epithet *rotundiceps*: Del latín rotundus (redondo) + -ceps (cabeza), de cabeza redonda
 
 <!-- src:S0018 -->
 

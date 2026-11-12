@@ -38,9 +38,13 @@ ES — **小型象白蚁** (*Nasutitermes minor*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *minor*：拉丁文 minor（较小）
 
 EN — epithet *minor*: Latin minor (smaller)
+
+ES — epithet *minor*: Del latín minor (menor)
 
 <!-- src:S0018 -->
 

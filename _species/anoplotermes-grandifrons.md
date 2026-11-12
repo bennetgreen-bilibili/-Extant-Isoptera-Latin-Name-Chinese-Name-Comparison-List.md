@@ -38,9 +38,13 @@ ES — **大囟解甲白蚁** (*Anoplotermes grandifrons*) es una especie del g�
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *grandifrons*：拉丁文/希腊文 grandi（大）+ frons（额），指大额
 
 EN — epithet *grandifrons*: From grandi (大) + frons (额)
+
+ES — epithet *grandifrons*: De grandi (grande) + frons (frente)
 
 <!-- src:S0018 -->
 

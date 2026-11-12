@@ -40,9 +40,13 @@ ES — **祸根白蚁** (*Termes fatalis*) es una especie, y la especie tipo del
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *fatalis*：拉丁文 fatalis（致命的、宿命的）
 
 EN — epithet *fatalis*: Latin fatalis (fatal)
+
+ES — epithet *fatalis*: Del latín fatalis (fatal)
 
 <!-- src:S0018 -->
 

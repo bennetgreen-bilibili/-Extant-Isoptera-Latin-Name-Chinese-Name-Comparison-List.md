@@ -38,9 +38,13 @@ ES — **极长长颚白蚁** (*Macrognathotermes prolatus*) es una especie del 
 
 EN — *Macrognathotermes*: From Greek makros (large) + gnathos (jaw) + Latin termes.
 
+ES — *Macrognathotermes*: Del griego makros (grande) + gnathos (mandíbula) + latín termes.
+
 种加词 *prolatus*：拉丁文/希腊文 prol（前）+ atus（具），指前具
 
 EN — epithet *prolatus*: From prol (前) + atus (具)
+
+ES — epithet *prolatus*: De prol (delante) + atus (que posee)
 
 <!-- src:S0018 -->
 

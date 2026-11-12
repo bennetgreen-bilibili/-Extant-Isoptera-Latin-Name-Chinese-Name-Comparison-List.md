@@ -40,9 +40,13 @@ ES — **宽背钩白蚁** (*Ancistrotermes latinotus*) es una especie del géne
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *latinotus*：拉丁文/希腊文 lati（宽）+ notus（背），指宽背
 
 EN — epithet *latinotus*: From lati (宽) + notus (背)
+
+ES — epithet *latinotus*: De lati (ancho) + notus (dorso)
 
 <!-- src:S0018 -->
 

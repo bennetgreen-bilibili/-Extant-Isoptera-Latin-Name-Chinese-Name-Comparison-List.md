@@ -38,9 +38,13 @@ ES — **宽翅土白蚁** (*Odontotermes latialatus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *latialatus*：拉丁文/希腊文 latial（宽）+ atus（具），指宽具
 
 EN — epithet *latialatus*: From latial (宽) + atus (具)
+
+ES — epithet *latialatus*: De latial (ancho) + atus (provisto de)
 
 <!-- src:S0018 -->
 

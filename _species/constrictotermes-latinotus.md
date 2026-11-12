@@ -38,9 +38,13 @@ ES — **宽背缩白蚁** (*Constrictotermes latinotus*) es una especie del gé
 
 EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
 
+ES — *Constrictotermes*: Del latín constrictus (constreñido) + termes.
+
 种加词 *latinotus*：拉丁文/希腊文 lati（宽）+ notus（背），指宽背
 
 EN — epithet *latinotus*: From lati (宽) + notus (背)
+
+ES — epithet *latinotus*: De lati (ancho) + notus (dorso)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **蛀果楹白蚁** (*Incisitermes fruticavus*) es una especie del géner
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *fruticavus*：拉丁文 frutex（灌木）+ cavus（穴），灌木穴
 
 EN — epithet *fruticavus*: Latin frutex (shrub) + cavus (hollow), shrub-hollow
+
+ES — epithet *fruticavus*: Del latín frutex (arbusto) + cavus (hueco), hueco de arbusto
 
 <!-- src:S0018 -->
 

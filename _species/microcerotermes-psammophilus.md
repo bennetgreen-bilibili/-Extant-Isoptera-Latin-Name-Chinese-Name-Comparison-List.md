@@ -38,9 +38,13 @@ ES — **喜沙锯白蚁** (*Microcerotermes psammophilus*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *psammophilus*：希腊文 psammos（沙）+ philos（爱），爱沙、栖沙
 
 EN — epithet *psammophilus*: Greek psammos (sand) + philos (loving), sand-loving
+
+ES — epithet *psammophilus*: Del griego psammos (arena) + philos (amante), amante de la arena
 
 <!-- src:S0018 -->
 

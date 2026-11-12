@@ -35,9 +35,13 @@ ES — **缝合树白蚁** (*Glyptotermes suturis*) es una especie del género *
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *suturis*：拉丁文 sutura（缝），缝的
 
 EN — epithet *suturis*: Latin sutura (suture), of the suture
+
+ES — epithet *suturis*: Latín sutura (sutura), de la sutura
 
 <!-- src:S0018 -->
 

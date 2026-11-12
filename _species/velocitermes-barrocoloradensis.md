@@ -38,9 +38,13 @@ ES — **巴罗科罗拉多快白蚁** (*Velocitermes barrocoloradensis*) es una
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *barrocoloradensis*：以地名 巴罗科罗拉多（巴拿马） 命名
 
 EN — epithet *barrocoloradensis*: Named after the locality Barrocolorad
+
+ES — epithet *barrocoloradensis*: Por la localidad de Barrocolorad
 
 <!-- src:S0018 -->
 

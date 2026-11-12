@@ -38,9 +38,13 @@ ES — **查基马约聚白蚁** (*Syntermes chaquimayensis*) es una especie del
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *chaquimayensis*：以地名 Chaquimayo 命名
 
 EN — epithet *chaquimayensis*: Named after the locality Chaquimayo
+
+ES — epithet *chaquimayensis*: Por la localidad de Chaquimayo
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **科罗尔堆砂白蚁** (*Cryptotermes kororensis*) es una especie del 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *kororensis*：以地名 Koror（帕劳科罗尔）命名
 
 EN — epithet *kororensis*: Named after Koror (Palau)
+
+ES — epithet *kororensis*: Por Koror (Palaos)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **李氏散白蚁** (*Reticulitermes lii*) es una especie del género *Re
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *lii*：以华人姓氏 Li（李）命名
 
 EN — epithet *lii*: Named after a person surnamed Li
+
+ES — epithet *lii*: En honor de una persona de apellido Li
 
 <!-- src:S0018 -->
 

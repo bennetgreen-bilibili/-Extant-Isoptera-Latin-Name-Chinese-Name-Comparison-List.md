@@ -35,9 +35,13 @@ ES — **延伸树白蚁** (*Glyptotermes dilatatus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *dilatatus*：拉丁文/希腊文 dilat（膨大）+ atus（具），指膨大具
 
 EN — epithet *dilatatus*: From dilat (膨大) + atus (具)
+
+ES — epithet *dilatatus*: De dilat (dilatado) + atus (provisto de)
 
 <!-- src:S0018 -->
 

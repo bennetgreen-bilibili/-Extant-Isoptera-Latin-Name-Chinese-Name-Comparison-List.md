@@ -40,9 +40,13 @@ ES — **秘鲁象白蚁** (*Nasutitermes peruanus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *peruanus*：以地名 秘鲁 命名
 
 EN — epithet *peruanus*: Named after the locality Peru
+
+ES — epithet *peruanus*: Por la localidad del Perú
 
 <!-- src:S0018 -->
 

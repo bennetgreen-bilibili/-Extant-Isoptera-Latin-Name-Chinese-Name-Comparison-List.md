@@ -38,9 +38,13 @@ ES — **强壮象白蚁** (*Nasutitermes roboratus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *roboratus*：拉丁文 roboratus（强壮的、坚实的）
 
 EN — epithet *roboratus*: Latin roboratus (strengthened)
+
+ES — epithet *roboratus*: Del latín roboratus (fortalecido)
 
 <!-- src:S0018 -->
 

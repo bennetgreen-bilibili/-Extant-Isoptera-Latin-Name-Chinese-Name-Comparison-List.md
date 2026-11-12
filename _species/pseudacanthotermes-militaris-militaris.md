@@ -41,9 +41,13 @@ ES — **指名亚种** (*Pseudacanthotermes militaris militaris*) es una subesp
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *militaris*：拉丁文 militaris（军事的、武士的）
 
 EN — epithet *militaris*: Latin militaris (military)
+
+ES — epithet *militaris*: Del latín militaris (militar)
 
 <!-- src:S0018 -->
 

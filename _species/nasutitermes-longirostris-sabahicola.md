@@ -39,9 +39,13 @@ ES — **沙巴亚种** (*Nasutitermes longirostris sabahicola*) es una subespec
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *sabahicola*：以地名 Sabah（沙巴，马来西亚）＋拉丁文 -cola（栖）命名，指沙巴栖
 
 EN — epithet *sabahicola*: Named after Sabah (Malaysia) + Latin -cola (dweller)
+
+ES — epithet *sabahicola*: Por Sabah (Malasia) + latín -cola (habitante)
 
 <!-- src:S0018 -->
 

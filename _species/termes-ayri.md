@@ -38,9 +38,13 @@ ES — **艾尔白蚁** (*Termes ayri*) es una especie del género *Termes*, en 
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *ayri*：种加词 ayri 为图皮语/瓜拉尼语土名，指一种刺棕榈 Astrocaryum ayri（俗称 airi、iri、coco-de-iri）。
 
 EN — epithet *ayri*: From the Tupi-Guarani vernacular name ayri, a spiny palm (Astrocaryum ayri; common names airi, iri, coco-de-iri).
+
+ES — epithet *ayri*: Del nombre vernáculo tupí-guaraní ayri, una palma espinosa (Astrocaryum ayri; nombres comunes airi, iri, coco-de-iri).
 
 <!-- src:S0018 -->
 

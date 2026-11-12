@@ -38,9 +38,13 @@ ES — **居中华象白蚁** (*Sinonasutitermes mediocris*) es una especie del 
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *mediocris*：拉丁文 mediocris（中等的、普通的）
 
 EN — epithet *mediocris*: Latin mediocris (moderate, middling)
+
+ES — epithet *mediocris*: Del latín mediocris (moderado, mediocre)
 
 <!-- src:S0018 -->
 

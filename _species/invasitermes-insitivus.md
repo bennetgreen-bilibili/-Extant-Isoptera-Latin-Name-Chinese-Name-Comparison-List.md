@@ -38,9 +38,13 @@ ES — **候补闯白蚁** (*Invasitermes insitivus*) es una especie del género
 
 EN — *Invasitermes*: From Latin invasus (invaded) + termes.
 
+ES — *Invasitermes*: Del latín invasus (invadido) + termes.
+
 种加词 *insitivus*：拉丁文 insitivus（嫁接的、插入的）
 
 EN — epithet *insitivus*: Latin insitivus (grafted)
+
+ES — epithet *insitivus*: Del latín insitivus (injertado)
 
 <!-- src:S0018 -->
 

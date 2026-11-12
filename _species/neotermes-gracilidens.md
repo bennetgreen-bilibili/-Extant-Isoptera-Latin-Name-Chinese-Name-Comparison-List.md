@@ -35,9 +35,13 @@ ES — **细齿新白蚁** (*Neotermes gracilidens*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *gracilidens*：拉丁文/希腊文词根「gracil」（细长）
 
 EN — epithet *gracilidens*: From the descriptive term 'gracil' (slender)
+
+ES — epithet *gracilidens*: Del término descriptivo «gracil» (esbelto)
 
 <!-- src:S0018 -->
 

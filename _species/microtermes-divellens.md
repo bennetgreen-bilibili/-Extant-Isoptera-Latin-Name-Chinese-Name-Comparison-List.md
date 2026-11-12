@@ -38,9 +38,13 @@ ES — **撕裂小白蚁** (*Microtermes divellens*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *divellens*：拉丁文 divellens（撕裂的）
 
 EN — epithet *divellens*: Latin divellens (tearing apart)
+
+ES — epithet *divellens*: Del latín divellens (que desgarra)
 
 <!-- src:S0018 -->
 

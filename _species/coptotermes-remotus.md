@@ -35,9 +35,13 @@ ES — **远方乳白蚁** (*Coptotermes remotus*) es una especie del género *C
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *remotus*：拉丁文 remotus（遥远的）
 
 EN — epithet *remotus*: Latin remotus (remote)
+
+ES — epithet *remotus*: Del latín remotus (remoto)
 
 <!-- src:S0018 -->
 

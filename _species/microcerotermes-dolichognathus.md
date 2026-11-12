@@ -38,9 +38,13 @@ ES — **狭颚锯白蚁** (*Microcerotermes dolichognathus*) es una especie del
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *dolichognathus*：拉丁文/希腊文 dolicho（长）+ gnathus（颚），指长颚
 
 EN — epithet *dolichognathus*: From dolicho (长) + gnathus (颚)
+
+ES — epithet *dolichognathus*: De dolicho (largo) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

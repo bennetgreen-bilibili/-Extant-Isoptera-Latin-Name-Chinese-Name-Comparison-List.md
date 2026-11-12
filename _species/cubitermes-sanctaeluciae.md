@@ -38,9 +38,13 @@ ES — **圣卢西亚方白蚁** (*Cubitermes sanctaeluciae*) es una especie del
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *sanctaeluciae*：以圣卢西亚（Saint Lucia）命名
 
 EN — epithet *sanctaeluciae*: Named after Saint Lucia
+
+ES — epithet *sanctaeluciae*: Por Santa Lucía
 
 <!-- src:S0018 -->
 

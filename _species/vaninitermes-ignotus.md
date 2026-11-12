@@ -40,9 +40,13 @@ ES — **忽视瓦宁白蚁** (*Vaninitermes ignotus*) es una especie, y la espe
 
 EN — *Vaninitermes*: Named after a person (Vanini); -termes from Latin termes.
 
+ES — *Vaninitermes*: En honor de una persona (Vanini); -termes, del latín termes.
+
 种加词 *ignotus*：拉丁文 ignotus（未知的）
 
 EN — epithet *ignotus*: Latin ignotus (unknown)
+
+ES — epithet *ignotus*: Del latín ignotus (desconocido)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **宾厄姆仿白蚁** (*Mimeutermes binghami*) es una especie del géner
 
 EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Mimeutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *binghami*：以人名 bingham 命名（C. T. Bingham（英国昆虫学家））
 
 EN — epithet *binghami*: Named after C. T. Bingham（英国昆虫学家）
+
+ES — epithet *binghami*: En honor de C. T. Bingham (entomólogo británico)
 
 <!-- src:S0018 -->
 

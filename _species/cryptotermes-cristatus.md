@@ -35,9 +35,13 @@ ES — **高额堆砂白蚁** (*Cryptotermes cristatus*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *cristatus*：拉丁文/希腊文 crist（冠）+ atus（具），指冠具
 
 EN — epithet *cristatus*: From crist (冠) + atus (具)
+
+ES — epithet *cristatus*: De crist (cresta) + atus (provisto de)
 
 <!-- src:S0018 -->
 

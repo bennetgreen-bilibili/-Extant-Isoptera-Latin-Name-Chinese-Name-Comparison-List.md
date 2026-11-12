@@ -35,9 +35,13 @@ ES — **宽头树白蚁** (*Glyptotermes euryceps*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *euryceps*：拉丁文/希腊文 eury（宽）+ ceps（头），指宽头
 
 EN — epithet *euryceps*: From eury (宽) + ceps (头)
+
+ES — epithet *euryceps*: De eury (ancho) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **苍白堆砂白蚁** (*Cryptotermes pallidus*) es una especie del géne
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *pallidus*：拉丁文 pallidus（苍白的）
 
 EN — epithet *pallidus*: Latin pallidus (pale)
+
+ES — epithet *pallidus*: Del latín pallidus (pálido)
 
 <!-- src:S0018 -->
 

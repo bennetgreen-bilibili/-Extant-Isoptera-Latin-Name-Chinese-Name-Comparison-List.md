@@ -38,9 +38,13 @@ ES — **多刺善白蚁** (*Amicotermes multispinus*) es una especie del géner
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *multispinus*：拉丁文/希腊文 multisp（多）+ inus（相关），指多相关
 
 EN — epithet *multispinus*: From multisp (多) + inus (相关)
+
+ES — epithet *multispinus*: De multisp (muchos) + inus (relativo a)
 
 <!-- src:S0018 -->
 

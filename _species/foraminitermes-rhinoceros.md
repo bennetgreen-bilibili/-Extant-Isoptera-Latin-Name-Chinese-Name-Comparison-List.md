@@ -38,9 +38,13 @@ ES — **犀牛孔白蚁** (*Foraminitermes rhinoceros*) es una especie del gén
 
 EN — *Foraminitermes*: From Latin foramen (opening) + termes.
 
+ES — *Foraminitermes*: Del latín foramen (abertura) + termes.
+
 种加词 *rhinoceros*：希腊文 rhis（鼻）+ keras（角），犀牛、鼻角
 
 EN — epithet *rhinoceros*: Greek rhis (nose) + keras (horn), rhinoceros
+
+ES — epithet *rhinoceros*: Del griego rhis (nariz) + keras (cuerno), rinoceronte
 
 <!-- src:S0018 -->
 

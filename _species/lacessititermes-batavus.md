@@ -38,9 +38,13 @@ ES — **荷兰怒白蚁** (*Lacessititermes batavus*) es una especie del géner
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *batavus*：拉丁文 Batavus（巴达维的，今荷兰）
 
 EN — epithet *batavus*: Latin Batavus (of Batavia, the Netherlands)
+
+ES — epithet *batavus*: Del latín Batavus (de Batavia, los Países Bajos)
 
 <!-- src:S0018 -->
 

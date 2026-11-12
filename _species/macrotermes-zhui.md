@@ -38,9 +38,13 @@ ES — **朱氏大白蚁** (*Macrotermes zhui*) es una especie del género *Macr
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *zhui*：以中国白蚁分类学家朱世模（Zhu Shimao）命名。Macrotermes zhui 是 Krishna (2013) 为 Macrotermes latinotus Zhu & Luo, 1985（初级同名，被 Macrotermes gilvus latinotus Kemner, 1934 占用）建立的替代名。
 
 EN — epithet *zhui*: Named after the Chinese termite taxonomist Shimao Zhu. Macrotermes zhui is a replacement name (Krishna 2013) for Macrotermes latinotus Zhu & Luo, 1985, a junior primary homonym of Macrotermes gilvus latinotus Kemner, 1934.
+
+ES — epithet *zhui*: En honor de Shimao Zhu, taxónomo chino de termitas. Macrotermes zhui es un nombre de reemplazo (Krishna 2013) para Macrotermes latinotus Zhu & Luo, 1985, homónimo primario junior de Macrotermes gilvus latinotus Kemner, 1934.
 
 <!-- src:S0018 -->
 

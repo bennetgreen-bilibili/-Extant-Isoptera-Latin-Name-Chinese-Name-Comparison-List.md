@@ -40,9 +40,13 @@ ES — **祖鲁兰方白蚁** (*Cubitermes zulucola*) es una especie del género
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *zulucola*：祖鲁族（Zulu，南非）+ -cola（栖居者），栖于祖鲁兰
 
 EN — epithet *zulucola*: Zulu (people, South Africa) + -cola (dweller): Zululand-dwelling
+
+ES — epithet *zulucola*: Zulú (pueblo, Sudáfrica) + -cola (habitante): que habita en Zululandia
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **巨大象白蚁** (*Nasutitermes magnus*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *magnus*：拉丁文 magnus（大）
 
 EN — epithet *magnus*: Latin magnus (large)
+
+ES — epithet *magnus*: Del latín magnus (grande)
 
 <!-- src:S0018 -->
 

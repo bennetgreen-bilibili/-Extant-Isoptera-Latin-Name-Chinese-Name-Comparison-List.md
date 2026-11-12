@@ -38,9 +38,13 @@ ES — **阻碍无利器白蚁** (*Astalotermes obstructus*) es una especie del 
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *obstructus*：拉丁文 obstructus（被阻塞的）
 
 EN — epithet *obstructus*: Latin obstructus (blocked)
+
+ES — epithet *obstructus*: Del latín obstructus (bloqueado)
 
 <!-- src:S0018 -->
 

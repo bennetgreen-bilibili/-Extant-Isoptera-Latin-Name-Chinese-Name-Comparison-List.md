@@ -38,9 +38,13 @@ ES — **砂拉越土白蚁** (*Odontotermes sarawakensis*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *sarawakensis*：以地名 沙捞越（马来西亚） 命名
 
 EN — epithet *sarawakensis*: Named after the locality Sarawak
+
+ES — epithet *sarawakensis*: Por la localidad de Sarawak
 
 <!-- src:S0018 -->
 

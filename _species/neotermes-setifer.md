@@ -35,9 +35,13 @@ ES — **刚毛新白蚁** (*Neotermes setifer*) es una especie del género *Neo
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *setifer*：拉丁文/希腊文 seti（刚毛）+ fer（具），指刚毛具
 
 EN — epithet *setifer*: From seti (刚毛) + fer (具)
+
+ES — epithet *setifer*: De seti (cerda) + fer (que lleva)
 
 <!-- src:S0018 -->
 

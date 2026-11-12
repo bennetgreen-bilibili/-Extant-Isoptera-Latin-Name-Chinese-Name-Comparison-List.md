@@ -35,9 +35,13 @@ ES — **突额散白蚁** (*Reticulitermes assamensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *assamensis*：以地名 阿萨姆（印度） 命名
 
 EN — epithet *assamensis*: Named after the locality Assam
+
+ES — epithet *assamensis*: Por la localidad de Assam
 
 <!-- src:S0018 -->
 

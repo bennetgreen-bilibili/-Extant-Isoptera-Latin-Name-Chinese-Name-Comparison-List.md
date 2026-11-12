@@ -35,9 +35,13 @@ ES — **纳尔逊散白蚁** (*Reticulitermes nelsonae*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *nelsonae*：以人名 Nelson（纳尔逊）命名
 
 EN — epithet *nelsonae*: Named after Nelson
+
+ES — epithet *nelsonae*: En honor de Nelson
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **湖泊象白蚁** (*Nasutitermes lacustris*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *lacustris*：拉丁文 lacustris（湖泊的、栖湖的）
 
 EN — epithet *lacustris*: Latin lacustris (of lakes)
+
+ES — epithet *lacustris*: Del latín lacustris (de los lagos)
 
 <!-- src:S0018 -->
 

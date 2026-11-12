@@ -38,9 +38,13 @@ ES — **四川钝颚白蚁** (*Ahmaditermes sichuanensis*) es una especie del g
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *sichuanensis*：以地名 四川 命名
 
 EN — epithet *sichuanensis*: Named after the locality Sichuan
+
+ES — epithet *sichuanensis*: Por la localidad de Sichuan
 
 <!-- src:S0018 -->
 

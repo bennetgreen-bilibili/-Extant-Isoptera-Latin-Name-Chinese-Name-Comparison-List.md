@@ -38,9 +38,13 @@ ES — **祥云钝颚白蚁** (*Ahmaditermes xiangyunensis*) es una especie del 
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *xiangyunensis*：以地名 祥云（云南） 命名
 
 EN — epithet *xiangyunensis*: Named after the locality Xiangyun
+
+ES — epithet *xiangyunensis*: Por la localidad de Xiangyun
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **高山杆白蚁** (*Stylotermes alpinus*) es una especie del género *S
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *alpinus*：拉丁文 alpinus（阿尔卑斯的、高山的）
 
 EN — epithet *alpinus*: Latin alpinus (alpine)
+
+ES — epithet *alpinus*: Del latín alpinus (alpino)
 
 <!-- src:S0018 -->
 

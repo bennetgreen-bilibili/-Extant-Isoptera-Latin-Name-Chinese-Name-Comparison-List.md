@@ -38,9 +38,13 @@ ES — **柔佛瓢白蚁** (*Bulbitermes johorensis*) es una especie del género
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *johorensis*：以地名 柔佛（马来西亚） 命名
 
 EN — epithet *johorensis*: Named after the locality Johor
+
+ES — epithet *johorensis*: Por la localidad de Johor
 
 <!-- src:S0018 -->
 

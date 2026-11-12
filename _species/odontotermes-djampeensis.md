@@ -38,9 +38,13 @@ ES — **达扎丕土白蚁** (*Odontotermes djampeensis*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *djampeensis*：以地名 詹佩（印度尼西亚） 命名
 
 EN — epithet *djampeensis*: Named after the locality Djampe
+
+ES — epithet *djampeensis*: Por la localidad de Djampe
 
 <!-- src:S0018 -->
 

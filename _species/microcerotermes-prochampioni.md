@@ -38,9 +38,13 @@ ES — **近冠锯白蚁** (*Microcerotermes prochampioni*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *prochampioni*：以人名 Champion（G. C. Champion，英国昆虫学家）命名，前缀 pro- 表“近似”
 
 EN — epithet *prochampioni*: Named after G. C. Champion (English entomologist), with prefix pro-
+
+ES — epithet *prochampioni*: En honor de G. C. Champion (entomólogo inglés), con el prefijo pro-
 
 <!-- src:S0018 -->
 

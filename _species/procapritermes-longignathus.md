@@ -38,9 +38,13 @@ ES — **长颚前扭白蚁** (*Procapritermes longignathus*) es una especie del
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *longignathus*：拉丁文 longus（长）+ 希腊文 gnathos（颚），长颚
 
 EN — epithet *longignathus*: Latin longus (long) + Greek gnathos (jaw), long-jawed
+
+ES — epithet *longignathus*: Del latín longus (largo) + del griego gnathos (mandíbula), de mandíbulas largas
 
 <!-- src:S0018 -->
 

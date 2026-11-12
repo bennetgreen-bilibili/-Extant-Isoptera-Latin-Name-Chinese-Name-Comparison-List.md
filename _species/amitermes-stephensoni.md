@@ -38,9 +38,13 @@ ES — **斯蒂芬森弓白蚁** (*Amitermes stephensoni*) es una especie del g�
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *stephensoni*：以人名 Stephenson 命名（具体指代待考）
 
 EN — epithet *stephensoni*: Named after a person "Stephenson" (identity unconfirmed)
+
+ES — epithet *stephensoni*: En honor de una persona «Stephenson» (identidad no confirmada)
 
 <!-- src:S0018 -->
 

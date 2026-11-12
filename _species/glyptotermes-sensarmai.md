@@ -35,9 +35,13 @@ ES — **森萨尔马树白蚁** (*Glyptotermes sensarmai*) es una especie del g
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *sensarmai*：以 P.K. Sen-Sarma（印度白蚁学家）命名
 
 EN — epithet *sensarmai*: Named after P.K. Sen-Sarma
+
+ES — epithet *sensarmai*: En honor de P.K. Sen-Sarma
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **具齿亮白蚁** (*Euhamitermes dentatus*) es una especie del género 
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *dentatus*：拉丁文 dentatus（有齿的）
 
 EN — epithet *dentatus*: Latin dentatus (toothed)
+
+ES — epithet *dentatus*: Del latín dentatus (dentado)
 
 <!-- src:S0018 -->
 

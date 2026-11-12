@@ -38,9 +38,13 @@ ES — **波颚始扭白蚁** (*Protocapritermes krisiformis*) es una especie, y
 
 EN — *Protocapritermes*: From Greek prōtos (first) + Latin caper (goat) + termes.
 
+ES — *Protocapritermes*: Del griego prōtos (primero) + latín caper (cabra) + termes.
+
 种加词 *krisiformis*：以 Krishna 命名 + 拉丁文 -formis（形），似 Krishna
 
 EN — epithet *krisiformis*: Named after Krishna + Latin -formis (shaped)
+
+ES — epithet *krisiformis*: En honor de Krishna + del latín -formis (en forma de)
 
 <!-- src:S0018 -->
 

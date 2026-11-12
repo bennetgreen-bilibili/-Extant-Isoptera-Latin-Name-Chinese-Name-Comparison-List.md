@@ -37,9 +37,13 @@ ES — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) es una especie, y la
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *ochraceus*：拉丁文 ochraceus（赭黄色的）
 
 EN — epithet *ochraceus*: Latin ochraceus (ochre)
+
+ES — epithet *ochraceus*: Del latín ochraceus (ocre)
 
 <!-- src:S0018 -->
 

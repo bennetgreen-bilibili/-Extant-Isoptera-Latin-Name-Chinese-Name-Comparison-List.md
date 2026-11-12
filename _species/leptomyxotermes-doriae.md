@@ -38,9 +38,13 @@ ES — **多利亚薄喙白蚁** (*Leptomyxotermes doriae*) es la única especie
 
 EN — *Leptomyxotermes*: From Greek leptos (slender) + myxa (mucus) + Latin termes.
 
+ES — *Leptomyxotermes*: Del griego leptos (delgado) + myxa (moco) + latín termes.
+
 种加词 *doriae*：以人名 Giacomo Doria（意大利博物学家，1840–1913）命名
 
 EN — epithet *doriae*: Named after Giacomo Doria
+
+ES — epithet *doriae*: En honor de Giacomo Doria
 
 <!-- src:S0018 -->
 

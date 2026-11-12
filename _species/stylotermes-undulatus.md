@@ -35,9 +35,13 @@ ES — **波颚杆白蚁** (*Stylotermes undulatus*) es una especie del género 
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *undulatus*：拉丁文/希腊文 undul（波状）+ atus（具），指波状具
 
 EN — epithet *undulatus*: From undul (波状) + atus (具)
+
+ES — epithet *undulatus*: De undul (ondulado) + atus (que posee)
 
 <!-- src:S0018 -->
 

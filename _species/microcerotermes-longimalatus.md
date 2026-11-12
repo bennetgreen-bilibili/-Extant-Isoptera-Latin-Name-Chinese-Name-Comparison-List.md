@@ -38,9 +38,13 @@ ES — **长腭锯白蚁** (*Microcerotermes longimalatus*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *longimalatus*：拉丁文/希腊文 longimal（长）+ atus（具），指长具
 
 EN — epithet *longimalatus*: From longimal (长) + atus (具)
+
+ES — epithet *longimalatus*: De longimal (largo) + atus (provisto de)
 
 <!-- src:S0018 -->
 

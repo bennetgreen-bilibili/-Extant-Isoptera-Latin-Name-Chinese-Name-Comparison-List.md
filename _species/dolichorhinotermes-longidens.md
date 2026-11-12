@@ -35,9 +35,13 @@ ES — **长齿狭鼻白蚁** (*Dolichorhinotermes longidens*) es una especie de
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *longidens*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longidens*: From the descriptive term 'long' (long)
+
+ES — epithet *longidens*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

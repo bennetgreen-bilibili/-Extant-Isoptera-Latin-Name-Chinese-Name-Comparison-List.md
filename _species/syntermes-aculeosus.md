@@ -38,9 +38,13 @@ ES — **胸刺聚白蚁** (*Syntermes aculeosus*) es una especie del género *S
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *aculeosus*：拉丁文/希腊文 acule（刺）+ osus（多、充满），指刺多、充满
 
 EN — epithet *aculeosus*: From acule (刺) + osus (多、充满)
+
+ES — epithet *aculeosus*: De acule (aguijón) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **小唇络白蚁** (*Hapsidotermes labellus*) es una especie del género
 
 EN — *Hapsidotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Hapsidotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *labellus*：拉丁文 labellum（小唇）
 
 EN — epithet *labellus*: Latin labellum (small lip)
+
+ES — epithet *labellus*: Del latín labellum (labio pequeño)
 
 <!-- src:S0018 -->
 

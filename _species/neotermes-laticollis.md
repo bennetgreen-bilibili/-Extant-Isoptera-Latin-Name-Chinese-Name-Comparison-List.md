@@ -35,9 +35,13 @@ ES — **宽颈新白蚁** (*Neotermes laticollis*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *laticollis*：拉丁文/希腊文 lati（宽）+ collis（颈），指宽颈
 
 EN — epithet *laticollis*: From lati (宽) + collis (颈)
+
+ES — epithet *laticollis*: De lati (ancho) + collis (cuello)
 
 <!-- src:S0018 -->
 

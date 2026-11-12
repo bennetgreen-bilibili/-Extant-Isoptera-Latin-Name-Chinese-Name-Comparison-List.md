@@ -38,9 +38,13 @@ ES — **易动锯白蚁** (*Microcerotermes implacidus*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *implacidus*：拉丁文 in-（不）+ placidus（平静），不平静
 
 EN — epithet *implacidus*: Latin in- (not) + placidus (calm), not calm
+
+ES — epithet *implacidus*: Del latín in- (no) + placidus (tranquilo), no tranquilo
 
 <!-- src:S0018 -->
 

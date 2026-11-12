@@ -38,9 +38,13 @@ ES — **邻近白蚁** (*Termes propinquus*) es una especie del género *Termes
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *propinquus*：拉丁文 propinquus（邻近的）
 
 EN — epithet *propinquus*: Latin propinquus (near, neighbouring)
+
+ES — epithet *propinquus*: Del latín propinquus (cercano, vecino)
 
 <!-- src:S0018 -->
 

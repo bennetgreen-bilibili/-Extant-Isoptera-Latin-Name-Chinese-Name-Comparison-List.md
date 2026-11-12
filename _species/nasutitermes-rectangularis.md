@@ -38,9 +38,13 @@ ES — **直角象白蚁** (*Nasutitermes rectangularis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *rectangularis*：拉丁文/希腊文 rectangul（直角）+ aris（相关），指直角相关
 
 EN — epithet *rectangularis*: From rectangul (直角) + aris (相关)
+
+ES — epithet *rectangularis*: De rectangul (ángulo recto) + aris (relativo a)
 
 <!-- src:S0018 -->
 

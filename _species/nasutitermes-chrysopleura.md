@@ -38,9 +38,13 @@ ES — **金纹象白蚁** (*Nasutitermes chrysopleura*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *chrysopleura*：拉丁文/希腊文词根「chrys」（金）
 
 EN — epithet *chrysopleura*: From the descriptive term 'chrys' (golden)
+
+ES — epithet *chrysopleura*: Del término descriptivo «chrys» (dorado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **短角针刺白蚁** (*Spinitermes brevicornutus*) es una especie del g
 
 EN — *Spinitermes*: From Latin spina (spine) + termes.
 
+ES — *Spinitermes*: Del latín spina (espina) + termes.
+
 种加词 *brevicornutus*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevicornutus*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevicornutus*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

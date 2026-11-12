@@ -38,9 +38,13 @@ ES — **多节象白蚁** (*Nasutitermes pluriarticulatus*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *pluriarticulatus*：拉丁文 pluri-（多）+ articulatus（具节），多节
 
 EN — epithet *pluriarticulatus*: Latin pluri- (many) + articulatus (jointed), many-jointed
+
+ES — epithet *pluriarticulatus*: Del latín pluri- (muchos) + articulatus (articulado), muy articulado
 
 <!-- src:S0018 -->
 

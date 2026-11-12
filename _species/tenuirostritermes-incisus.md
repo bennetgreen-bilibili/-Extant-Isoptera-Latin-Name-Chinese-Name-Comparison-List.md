@@ -38,9 +38,13 @@ ES — **切割薄嘴白蚁** (*Tenuirostritermes incisus*) es una especie del g
 
 EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
 
+ES — *Tenuirostritermes*: Del latín tenuis (delgado) + rostrum (pico) + termes.
+
 种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
 
 EN — epithet *incisus*: Latin incisus (incised, notched)
+
+ES — epithet *incisus*: Del latín incisus (inciso, escotado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **隐齿弓白蚁** (*Amitermes cryptodon*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *cryptodon*：希腊文 kryptos（隐藏）+ odous（齿），隐齿
 
 EN — epithet *cryptodon*: Greek kryptos (hidden) + odous (tooth), hidden-toothed
+
+ES — epithet *cryptodon*: Del griego kryptos (oculto) + odous (diente), de dientes ocultos
 
 <!-- src:S0018 -->
 

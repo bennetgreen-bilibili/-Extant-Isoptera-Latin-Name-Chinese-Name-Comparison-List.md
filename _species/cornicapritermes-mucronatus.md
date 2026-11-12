@@ -38,9 +38,13 @@ ES — **尖锐角扭白蚁** (*Cornicapritermes mucronatus*) es la única espec
 
 EN — *Cornicapritermes*: From Latin cornu (horn) + caper (goat) + termes.
 
+ES — *Cornicapritermes*: Del latín cornu (cuerno) + caper (cabra) + termes.
+
 种加词 *mucronatus*：拉丁文/希腊文 mucron（尖突）+ atus（具），指尖突具
 
 EN — epithet *mucronatus*: From mucron (尖突) + atus (具)
+
+ES — epithet *mucronatus*: De mucron (punta) + atus (provisto de)
 
 <!-- src:S0018 -->
 

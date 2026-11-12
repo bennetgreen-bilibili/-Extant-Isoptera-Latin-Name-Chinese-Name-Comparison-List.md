@@ -38,9 +38,13 @@ ES — **马姆斯伯里锯白蚁** (*Microcerotermes malmesburyi*) es una espec
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *malmesburyi*：以南非西开普省马姆斯伯里（Malmesbury）命名
 
 EN — epithet *malmesburyi*: Named after Malmesbury, Western Cape, South Africa
+
+ES — epithet *malmesburyi*: Por Malmesbury, Cabo Occidental, Sudáfrica
 
 <!-- src:S0018 -->
 

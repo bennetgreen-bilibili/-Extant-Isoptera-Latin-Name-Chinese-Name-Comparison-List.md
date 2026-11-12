@@ -38,9 +38,13 @@ ES — **天童钝颚白蚁** (*Ahmaditermes tiantongensis*) es una especie del 
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *tiantongensis*：以地名 天童（浙江） 命名
 
 EN — epithet *tiantongensis*: Named after the locality Tiantong
+
+ES — epithet *tiantongensis*: Por la localidad de Tiantong (Zhejiang)
 
 <!-- src:S0018 -->
 

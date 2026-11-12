@@ -38,9 +38,13 @@ ES — **安纳马赖土白蚁** (*Odontotermes anamallensis*) es una especie de
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *anamallensis*：以地名 阿奈马莱（印度） 命名
 
 EN — epithet *anamallensis*: Named after the locality Anamall
+
+ES — epithet *anamallensis*: Por la localidad de Anamall
 
 <!-- src:S0018 -->
 

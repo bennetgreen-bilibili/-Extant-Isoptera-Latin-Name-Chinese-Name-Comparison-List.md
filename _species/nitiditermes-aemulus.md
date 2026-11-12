@@ -38,9 +38,13 @@ ES — **竞争净白蚁** (*Nitiditermes aemulus*) es una especie del género *
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *aemulus*：拉丁文 aemulus（竞争的、匹敌的）
 
 EN — epithet *aemulus*: Latin aemulus (rival, emulating)
+
+ES — epithet *aemulus*: Del latín aemulus (rival, emulador)
 
 <!-- src:S0018 -->
 

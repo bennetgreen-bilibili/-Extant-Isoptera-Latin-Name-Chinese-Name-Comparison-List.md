@@ -38,9 +38,13 @@ ES — **杰普森须白蚁** (*Hospitalitermes jepsoni*) es una especie del gé
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *jepsoni*：以人名 Jepson 命名
 
 EN — epithet *jepsoni*: Named after Jepson
+
+ES — epithet *jepsoni*: En honor de Jepson
 
 <!-- src:S0018 -->
 

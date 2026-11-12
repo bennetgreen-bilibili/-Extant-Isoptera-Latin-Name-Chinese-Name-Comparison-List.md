@@ -37,9 +37,13 @@ ES — **达尔文澳白蚁** (*Mastotermes darwiniensis*) es la única especie 
 
 EN — *Mastotermes*: From Greek mastos (breast, nipple) + Latin termes (termite).
 
+ES — *Mastotermes*: Del griego mastos (pecho, pezón) + latín termes (termita).
+
 种加词 *darwiniensis*：以地名 达尔文（澳大利亚） 命名
 
 EN — epithet *darwiniensis*: Named after the locality Darwin
+
+ES — epithet *darwiniensis*: Por la localidad de Darwin
 
 <!-- src:S0018 -->
 

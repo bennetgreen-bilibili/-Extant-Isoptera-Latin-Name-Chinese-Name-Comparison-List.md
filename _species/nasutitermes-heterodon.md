@@ -38,9 +38,13 @@ ES — **异齿象白蚁** (*Nasutitermes heterodon*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *heterodon*：拉丁文/希腊文词根「heter」（异）
 
 EN — epithet *heterodon*: From the descriptive term 'heter' (different)
+
+ES — epithet *heterodon*: Del término descriptivo «heter» (distinto)
 
 <!-- src:S0018 -->
 

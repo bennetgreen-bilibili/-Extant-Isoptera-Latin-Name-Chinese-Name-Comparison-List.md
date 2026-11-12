@@ -38,9 +38,13 @@ ES — **弯钩角象白蚁** (*Cornitermes falcatus*) es una especie del géner
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *falcatus*：拉丁文 falcatus（镰状的）
 
 EN — epithet *falcatus*: Latin falcatus (sickle-shaped)
+
+ES — epithet *falcatus*: Del latín falcatus (en forma de hoz)
 
 <!-- src:S0018 -->
 

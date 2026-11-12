@@ -40,9 +40,13 @@ ES — **蔓菁三脉白蚁** (*Trinervitermes rapulum*) es una especie del gén
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *rapulum*：拉丁文 rapum（芜菁）+ -ulum（小），小芜菁
 
 EN — epithet *rapulum*: Latin rapum (turnip) + -ulum (small), small turnip
+
+ES — epithet *rapulum*: Del latín rapum (nabo) + -ulum (pequeño), nabo pequeño
 
 <!-- src:S0018 -->
 

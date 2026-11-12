@@ -38,9 +38,13 @@ ES — **凶猛方白蚁** (*Cubitermes atrox*) es una especie del género *Cubi
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *atrox*：拉丁文/希腊文词根「atr」（黑）
 
 EN — epithet *atrox*: From the descriptive term 'atr' (dark)
+
+ES — epithet *atrox*: Del término descriptivo «atr» (oscuro)
 
 <!-- src:S0018 -->
 

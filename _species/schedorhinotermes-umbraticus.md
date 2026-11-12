@@ -35,9 +35,13 @@ ES — **隐蔽长鼻白蚁** (*Schedorhinotermes umbraticus*) es una especie de
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *umbraticus*：拉丁文 umbraticus（荫蔽的，umbra=荫）
 
 EN — epithet *umbraticus*: Latin umbraticus (shaded, of the shade; umbra = shadow)
+
+ES — epithet *umbraticus*: Del latín umbraticus (sombreado, de la sombra; umbra = sombra)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **安弟斯生白蚁** (*Embiratermes transandinus*) es una especie del g
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
+ES — *Embiratermes*: Del tupí Embirá (un árbol) + -termes.
+
 种加词 *transandinus*：拉丁文/希腊文 transand（横越）+ inus（相关），指横越相关
 
 EN — epithet *transandinus*: From transand (横越) + inus (相关)
+
+ES — epithet *transandinus*: De transand (atravesar) + inus (relativo a)
 
 <!-- src:S0018 -->
 

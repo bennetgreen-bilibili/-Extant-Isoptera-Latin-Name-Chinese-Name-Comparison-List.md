@@ -38,9 +38,13 @@ ES — **黑头颚钩白蚁** (*Gnathamitermes nigriceps*) es una especie del g�
 
 EN — *Gnathamitermes*: Contains Greek gnathos (jaw) + Latin termes; further derivation uncertain.
 
+ES — *Gnathamitermes*: Contiene el griego gnathos (mandíbula) + latín termes; la derivación ulterior es incierta.
+
 种加词 *nigriceps*：拉丁文 niger（黑）+ -ceps（头），黑头
 
 EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
+
+ES — epithet *nigriceps*: Del latín niger (negro) + -ceps (cabeza), de cabeza negra
 
 <!-- src:S0018 -->
 

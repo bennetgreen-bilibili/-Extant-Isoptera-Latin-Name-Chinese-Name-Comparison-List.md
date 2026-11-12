@@ -38,9 +38,13 @@ ES — **细长近凸白蚁** (*Paraconvexitermes junceus*) es una especie del g
 
 EN — *Paraconvexitermes*: From Greek para- (beside) + Latin convexus (convex) + termes.
 
+ES — *Paraconvexitermes*: Del griego para- (al lado de) + latín convexus (convexo) + termes.
+
 种加词 *junceus*：拉丁文 junceus（灯心草的、灯心草状的）
 
 EN — epithet *junceus*: Latin junceus (rush-like)
+
+ES — epithet *junceus*: Del latín junceus (semejante a un junco)
 
 <!-- src:S0018 -->
 

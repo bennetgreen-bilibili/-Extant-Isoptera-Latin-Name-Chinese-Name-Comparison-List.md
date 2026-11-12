@@ -38,9 +38,13 @@ ES — **亚德维土白蚁** (*Odontotermes yadevi*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *yadevi*：以人名 Yadev/Yadav（印度人名） 命名
 
 EN — epithet *yadevi*: Named after Yadev
+
+ES — epithet *yadevi*: En honor de Yadev
 
 <!-- src:S0018 -->
 

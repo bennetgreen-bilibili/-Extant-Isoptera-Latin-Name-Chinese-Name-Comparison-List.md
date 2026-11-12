@@ -38,9 +38,13 @@ ES — **亚让土白蚁** (*Odontotermes yarangensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *yarangensis*：以产地地名「亚让」命名（西藏自治区墨脱县）。
 
 EN — epithet *yarangensis*: Named after the type locality Yarang, Mêdog County, Tibet, China.
+
+ES — epithet *yarangensis*: Por la localidad tipo Yarang, condado de Mêdog, Tíbet, China.
 
 <!-- src:S0018 -->
 

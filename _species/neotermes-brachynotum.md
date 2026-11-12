@@ -35,9 +35,13 @@ ES — **扁胸新白蚁** (*Neotermes brachynotum*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *brachynotum*：拉丁文/希腊文 brachy（短）+ notum（背），指短背
 
 EN — epithet *brachynotum*: From brachy (短) + notum (背)
+
+ES — epithet *brachynotum*: De brachy (corto) + notum (dorso)
 
 <!-- src:S0018 -->
 

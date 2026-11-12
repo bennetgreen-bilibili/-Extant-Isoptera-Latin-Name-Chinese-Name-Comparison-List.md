@@ -38,9 +38,13 @@ ES — **帕埃特近扭白蚁** (*Pericapritermes paetensis*) es una especie de
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *paetensis*：以菲律宾内湖省帕埃特（Paete）命名
 
 EN — epithet *paetensis*: Named after Paete, Laguna, Philippines
+
+ES — epithet *paetensis*: Por Paete, Laguna, Filipinas
 
 <!-- src:S0018 -->
 

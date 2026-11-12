@@ -38,9 +38,13 @@ ES — **长颚锯白蚁** (*Microcerotermes longignathus*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *longignathus*：拉丁文 longus（长）+ 希腊文 gnathos（颚），长颚
 
 EN — epithet *longignathus*: Latin longus (long) + Greek gnathos (jaw), long-jawed
+
+ES — epithet *longignathus*: Del latín longus (largo) + del griego gnathos (mandíbula), de mandíbulas largas
 
 <!-- src:S0018 -->
 

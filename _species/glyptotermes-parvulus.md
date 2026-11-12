@@ -35,9 +35,13 @@ ES — **细小树白蚁** (*Glyptotermes parvulus*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *parvulus*：拉丁文 parvulus（很小，指小词）
 
 EN — epithet *parvulus*: Latin parvulus (very small, diminutive)
+
+ES — epithet *parvulus*: Del latín parvulus (muy pequeño, diminuto)
 
 <!-- src:S0018 -->
 

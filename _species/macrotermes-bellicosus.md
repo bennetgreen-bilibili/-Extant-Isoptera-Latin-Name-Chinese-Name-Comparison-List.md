@@ -40,9 +40,13 @@ ES — **勇猛大白蚁** (*Macrotermes bellicosus*) es una especie del género
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *bellicosus*：拉丁文 bellicosus（好战的）
 
 EN — epithet *bellicosus*: Latin bellicosus (warlike)
+
+ES — epithet *bellicosus*: Del latín bellicosus (belicoso)
 
 <!-- src:S0018 -->
 

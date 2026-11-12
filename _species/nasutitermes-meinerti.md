@@ -38,9 +38,13 @@ ES — **迈纳特象白蚁** (*Nasutitermes meinerti*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *meinerti*：以人名 Meinert（迈纳特）命名（丹麦动物学家 Frederik Meinert）
 
 EN — epithet *meinerti*: Named after Meinert (Danish zoologist Frederik Meinert)
+
+ES — epithet *meinerti*: En honor de Meinert (zoólogo danés Frederik Meinert)
 
 <!-- src:S0018 -->
 

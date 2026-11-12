@@ -38,9 +38,13 @@ ES — **糙额土白蚁** (*Odontotermes salebrifrons*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *salebrifrons*：拉丁文 salebra（粗糙）+ frons（额），糙额
 
 EN — epithet *salebrifrons*: Latin salebra (roughness) + frons (front), rough-fronted
+
+ES — epithet *salebrifrons*: Del latín salebra (aspereza) + frons (frente), de frente rugosa
 
 <!-- src:S0018 -->
 

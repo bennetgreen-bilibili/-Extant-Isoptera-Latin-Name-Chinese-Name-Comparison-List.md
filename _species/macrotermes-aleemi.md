@@ -38,9 +38,13 @@ ES — **阿利姆大白蚁** (*Macrotermes aleemi*) es una especie del género 
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *aleemi*：以人名 Aleem 命名
 
 EN — epithet *aleemi*: Named after Aleem
+
+ES — epithet *aleemi*: En honor de Aleem
 
 <!-- src:S0018 -->
 

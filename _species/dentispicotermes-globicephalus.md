@@ -38,9 +38,13 @@ ES — **球头齿尖白蚁** (*Dentispicotermes globicephalus*) es una especie,
 
 EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
 
+ES — *Dentispicotermes*: Del latín dens (diente) + spica (espiga) + termes.
+
 种加词 *globicephalus*：拉丁文/希腊文词根「glob」（球）
 
 EN — epithet *globicephalus*: From the descriptive term 'glob' (globe)
+
+ES — epithet *globicephalus*: Del término descriptivo «glob» (globo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **扁头华象白蚁** (*Sinonasutitermes platycephalus*) es una especie 
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *platycephalus*：拉丁文/希腊文词根「plat」（宽扁）
 
 EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
+
+ES — epithet *platycephalus*: Del término descriptivo «plat» (ancho)
 
 <!-- src:S0018 -->
 

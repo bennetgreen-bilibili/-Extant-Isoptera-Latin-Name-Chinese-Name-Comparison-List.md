@@ -38,9 +38,13 @@ ES — **小角突扭白蚁** (*Dicuspiditermes cornutella*) es una especie del 
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *cornutella*：拉丁文/希腊文词根「corn」（角）
 
 EN — epithet *cornutella*: From the descriptive term 'corn' (horn)
+
+ES — epithet *cornutella*: Del término descriptivo «corn» (cuerno)
 
 <!-- src:S0018 -->
 

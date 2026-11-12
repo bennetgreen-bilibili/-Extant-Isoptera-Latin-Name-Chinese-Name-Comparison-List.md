@@ -38,9 +38,13 @@ ES — **方形小脊突白蚁** (*Lophotermes quadratus*) es una especie del g�
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *quadratus*：拉丁文 quadratus（方形）
 
 EN — epithet *quadratus*: Latin quadratus (square)
+
+ES — epithet *quadratus*: Del latín quadratus (cuadrado)
 
 <!-- src:S0018 -->
 

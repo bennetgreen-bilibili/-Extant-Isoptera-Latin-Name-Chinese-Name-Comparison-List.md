@@ -35,9 +35,13 @@ ES — **马吉岭长鼻白蚁** (*Schedorhinotermes makilingensis*) es una espe
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *makilingensis*：以地名 马基林（菲律宾） 命名
 
 EN — epithet *makilingensis*: Named after the locality Makiling
+
+ES — epithet *makilingensis*: Por la localidad de Makiling
 
 <!-- src:S0018 -->
 

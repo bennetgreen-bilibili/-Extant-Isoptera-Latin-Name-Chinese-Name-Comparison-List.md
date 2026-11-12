@@ -37,9 +37,13 @@ ES — **班克斯楹白蚁** (*Incisitermes banksi*) es una especie del género
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *banksi*：以人名 banks 命名（美国昆虫学家 N. Banks）
 
 EN — epithet *banksi*: Named after 美国昆虫学家 N. Banks
+
+ES — epithet *banksi*: En honor del entomólogo estadounidense N. Banks
 
 <!-- src:S0018 -->
 

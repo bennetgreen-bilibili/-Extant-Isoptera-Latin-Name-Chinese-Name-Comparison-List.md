@@ -38,9 +38,13 @@ ES — **粗鲁锯白蚁** (*Microcerotermes acerbus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *acerbus*：拉丁文 acerbus（苦涩的、苛刻的）
 
 EN — epithet *acerbus*: Latin acerbus (bitter, harsh)
+
+ES — epithet *acerbus*: Del latín acerbus (amargo, severo)
 
 <!-- src:S0018 -->
 

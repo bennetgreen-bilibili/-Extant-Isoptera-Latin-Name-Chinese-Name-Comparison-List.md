@@ -38,9 +38,13 @@ ES — **大头土白蚁** (*Odontotermes grandiceps*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *grandiceps*：拉丁文/希腊文 grandi（大）+ ceps（头），指大头
 
 EN — epithet *grandiceps*: From grandi (大) + ceps (头)
+
+ES — epithet *grandiceps*: De grandi (grande) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

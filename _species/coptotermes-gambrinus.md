@@ -35,9 +35,13 @@ ES — **甘布里努斯乳白蚁** (*Coptotermes gambrinus*) es una especie del
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *gambrinus*：以人名 Gambrinus 命名（啤酒之神）
 
 EN — epithet *gambrinus*: After Gambrinus (mythical beer king)
+
+ES — epithet *gambrinus*: Por Gambrinus (rey mítico de la cerveza)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **多疣响白蚁** (*Crepititermes verruculosus*) es la única especie v
 
 EN — *Crepititermes*: From Latin crepitus (crackling sound) + termes.
 
+ES — *Crepititermes*: Del latín crepitus (sonido crepitante) + termes.
+
 种加词 *verruculosus*：拉丁文/希腊文 verrucul（疣）+ osus（多、充满），指疣多、充满
 
 EN — epithet *verruculosus*: From verrucul (疣) + osus (多、充满)
+
+ES — epithet *verruculosus*: De verrucul (verruga) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

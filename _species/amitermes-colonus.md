@@ -38,9 +38,13 @@ ES — **小山弓白蚁** (*Amitermes colonus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *colonus*：拉丁文 colonus（定居者、殖民者）
 
 EN — epithet *colonus*: Latin colonus (colonist, inhabitant)
+
+ES — epithet *colonus*: Del latín colonus (colono, habitante)
 
 <!-- src:S0018 -->
 

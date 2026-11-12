@@ -38,9 +38,13 @@ ES — **角唇同钩白蚁** (*Synhamitermes labioangulatus*) es una especie de
 
 EN — *Synhamitermes*: From Greek syn- (together) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Synhamitermes*: Del griego syn- (junto) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *labioangulatus*：拉丁文/希腊文 labioangul（唇）+ atus（具），指唇具
 
 EN — epithet *labioangulatus*: From labioangul (唇) + atus (具)
+
+ES — epithet *labioangulatus*: De labioangul (labio) + atus (provisto de)
 
 <!-- src:S0018 -->
 

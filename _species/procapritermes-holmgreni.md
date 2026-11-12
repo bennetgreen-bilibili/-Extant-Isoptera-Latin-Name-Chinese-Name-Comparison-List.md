@@ -38,9 +38,13 @@ ES — **霍姆格伦前扭白蚁** (*Procapritermes holmgreni*) es una especie 
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
 
 EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+ES — epithet *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 <!-- src:S0018 -->
 

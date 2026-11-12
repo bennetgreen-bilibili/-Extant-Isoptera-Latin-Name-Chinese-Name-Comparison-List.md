@@ -38,9 +38,13 @@ ES — **马拉维亚种** (*Isognathotermes ugandensis malawii*) es una subespe
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *malawii*：以地名 Malawi（马拉维）命名
 
 EN — epithet *malawii*: Named after Malawi
+
+ES — epithet *malawii*: Por Malaui
 
 <!-- src:S0018 -->
 

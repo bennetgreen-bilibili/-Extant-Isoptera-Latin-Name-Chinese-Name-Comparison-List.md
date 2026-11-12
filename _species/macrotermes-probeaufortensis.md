@@ -38,9 +38,13 @@ ES — **似保佛大白蚁** (*Macrotermes probeaufortensis*) es una especie de
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *probeaufortensis*：以地名 Beaufort（保佛，马来西亚沙巴）命名，前缀 pro- 表“近似/邻近”
 
 EN — epithet *probeaufortensis*: Named after the locality Beaufort (Sabah, Malaysia), with prefix pro- ("near")
+
+ES — epithet *probeaufortensis*: Por la localidad de Beaufort (Sabah, Malasia), con el prefijo pro- («cerca»)
 
 <!-- src:S0018 -->
 

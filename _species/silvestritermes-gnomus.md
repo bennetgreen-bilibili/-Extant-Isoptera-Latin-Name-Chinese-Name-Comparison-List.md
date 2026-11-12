@@ -38,9 +38,13 @@ ES — **标记西尔韦斯特里白蚁** (*Silvestritermes gnomus*) es una espe
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *gnomus*：希腊文 gnomos（地精、矮人）
 
 EN — epithet *gnomus*: Greek gnomos (gnome)
+
+ES — epithet *gnomus*: Del griego gnomos (gnomo)
 
 <!-- src:S0018 -->
 

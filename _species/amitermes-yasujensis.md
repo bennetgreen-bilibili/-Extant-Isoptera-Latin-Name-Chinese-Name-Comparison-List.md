@@ -38,9 +38,13 @@ ES — **亚苏季弓白蚁** (*Amitermes yasujensis*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *yasujensis*：以地名 亚苏季（伊朗） 命名
 
 EN — epithet *yasujensis*: Named after the locality Yasuj
+
+ES — epithet *yasujensis*: Por la localidad de Yasuj
 
 <!-- src:S0018 -->
 

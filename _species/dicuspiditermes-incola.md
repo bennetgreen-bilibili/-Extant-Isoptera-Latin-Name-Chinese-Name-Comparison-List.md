@@ -40,9 +40,13 @@ ES — **栖息突扭白蚁** (*Dicuspiditermes incola*) es una especie del gén
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *incola*：拉丁文 incola（栖居者）
 
 EN — epithet *incola*: Latin incola (inhabitant)
+
+ES — epithet *incola*: Del latín incola (habitante)
 
 <!-- src:S0018 -->
 

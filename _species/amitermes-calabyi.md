@@ -38,9 +38,13 @@ ES — **卡拉比弓白蚁** (*Amitermes calabyi*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *calabyi*：以 J.H. Calaby（澳大利亚白蚁学家）命名
 
 EN — epithet *calabyi*: Named after J.H. Calaby
+
+ES — epithet *calabyi*: En honor de J.H. Calaby
 
 <!-- src:S0018 -->
 

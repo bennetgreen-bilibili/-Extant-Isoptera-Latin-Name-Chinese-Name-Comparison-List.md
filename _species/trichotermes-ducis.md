@@ -38,9 +38,13 @@ ES — **首领发白蚁** (*Trichotermes ducis*) es una especie del género *Tr
 
 EN — *Trichotermes*: From Greek thrix (hair) + Latin termes.
 
+ES — *Trichotermes*: Del griego thrix (cabello) + latín termes.
+
 种加词 *ducis*：拉丁文 dux（首领）的属格
 
 EN — epithet *ducis*: Latin ducis (of a leader)
+
+ES — epithet *ducis*: Del latín ducis (del jefe)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **杰格拉达杆白蚁** (*Stylotermes chakratensis*) es una especie del
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *chakratensis*：以地名 查克拉塔（印度） 命名
 
 EN — epithet *chakratensis*: Named after the locality Chakrat
+
+ES — epithet *chakratensis*: Por la localidad de Chakrat
 
 <!-- src:S0018 -->
 

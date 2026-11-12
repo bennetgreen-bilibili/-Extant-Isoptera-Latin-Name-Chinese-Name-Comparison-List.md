@@ -35,9 +35,13 @@ ES — **铁卡德树白蚁** (*Glyptotermes tikaderi*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *tikaderi*：以人名 Tikader（B. K. Tikader，印度蛛形学家） 命名
 
 EN — epithet *tikaderi*: Named after B. K. Tikader (Indian arachnologist)
+
+ES — epithet *tikaderi*: En honor de B. K. Tikader (aracnólogo indio)
 
 <!-- src:S0018 -->
 

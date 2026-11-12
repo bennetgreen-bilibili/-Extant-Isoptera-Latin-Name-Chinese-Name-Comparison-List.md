@@ -38,9 +38,13 @@ ES — **寡脉弓白蚁** (*Amitermes paucinervius*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *paucinervius*：拉丁文 pauci-（少）+ nervus（脉），少脉
 
 EN — epithet *paucinervius*: Latin pauci- (few) + nervus (vein), few-veined
+
+ES — epithet *paucinervius*: Del latín pauci- (pocos) + nervus (vena), de pocas venas
 
 <!-- src:S0018 -->
 

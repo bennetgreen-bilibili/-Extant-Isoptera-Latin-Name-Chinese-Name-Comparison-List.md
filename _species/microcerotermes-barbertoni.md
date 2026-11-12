@@ -38,9 +38,13 @@ ES — **巴伯顿锯白蚁** (*Microcerotermes barbertoni*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *barbertoni*：以地名 Barberton（巴伯顿）命名
 
 EN — epithet *barbertoni*: Named after the locality Barberton
+
+ES — epithet *barbertoni*: Por la localidad de Barberton
 
 <!-- src:S0018 -->
 

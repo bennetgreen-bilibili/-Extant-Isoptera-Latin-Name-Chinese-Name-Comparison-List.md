@@ -35,9 +35,13 @@ ES — **安达曼新白蚁** (*Neotermes andamanensis*) es una especie del gén
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *andamanensis*：以地名 安达曼群岛（印度） 命名
 
 EN — epithet *andamanensis*: Named after the locality Andaman
+
+ES — epithet *andamanensis*: Por la localidad de Andaman
 
 <!-- src:S0018 -->
 

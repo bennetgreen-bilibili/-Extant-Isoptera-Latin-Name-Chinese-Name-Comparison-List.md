@@ -40,9 +40,13 @@ ES — **栗头歧白蚁** (*Diversitermes castaniceps*) es una especie del gén
 
 EN — *Diversitermes*: From Latin diversus (diverse) + termes.
 
+ES — *Diversitermes*: Del latín diversus (diverso) + termes.
+
 种加词 *castaniceps*：拉丁文 castanea（栗）+ -ceps（头），栗头
 
 EN — epithet *castaniceps*: Latin castanea (chestnut) + -ceps (head), chestnut-headed
+
+ES — epithet *castaniceps*: Del latín castanea (castaña) + -ceps (cabeza), de cabeza castaña
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **刺棘弯肠白蚁** (*Aparatermes thornatus*) es una especie del géne
 
 EN — *Aparatermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Aparatermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *thornatus*：以人名 Thorn 命名 或 英语 thorn（刺）+-atus（具），具刺
 
 EN — epithet *thornatus*: Named after Thorn, or from thorn + -atus (spiny)
+
+ES — epithet *thornatus*: En honor de Thorn, o de thorn (espina) + -atus (que tiene), espinoso
 
 <!-- src:S0018 -->
 

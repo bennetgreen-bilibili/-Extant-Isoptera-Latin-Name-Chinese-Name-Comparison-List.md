@@ -38,9 +38,13 @@ ES — **栖巢无钩白蚁** (*Ahamitermes nidicola*) es una especie, y la espe
 
 EN — *Ahamitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ahamitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *nidicola*：拉丁文 nidus（巢）+ -cola（栖居者），栖于巢中
 
 EN — epithet *nidicola*: Latin nidus (nest) + -cola (dweller): nest-dwelling
+
+ES — epithet *nidicola*: Del latín nidus (nido) + -cola (habitante): que vive en nidos
 
 <!-- src:S0018 -->
 

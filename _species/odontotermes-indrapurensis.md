@@ -38,9 +38,13 @@ ES — **因德拉普拉土白蚁** (*Odontotermes indrapurensis*) es una especi
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *indrapurensis*：以地名 Indrapur（因德拉普尔，印度）命名
 
 EN — epithet *indrapurensis*: Named after Indrapur (India)
+
+ES — epithet *indrapurensis*: Por Indrapur (India)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **秘鲁红懒白蚁** (*Mapinguaritermes peruanus*) es una especie, y la
 
 EN — *Mapinguaritermes*: From Mapinguari (a mythical Amazonian beast) + termes.
 
+ES — *Mapinguaritermes*: Del Mapinguarí (una bestia mítica amazónica) + termes.
+
 种加词 *peruanus*：以地名 秘鲁 命名
 
 EN — epithet *peruanus*: Named after the locality Peru
+
+ES — epithet *peruanus*: Por la localidad del Perú
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **粗鲁弓白蚁** (*Amitermes importunus*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *importunus*：拉丁文 importunus（不合时宜的、粗暴的）
 
 EN — epithet *importunus*: Latin importunus (troublesome)
+
+ES — epithet *importunus*: Del latín importunus (molesto)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **桂林散白蚁** (*Reticulitermes guilinensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *guilinensis*：以地名 桂林（广西） 命名
 
 EN — epithet *guilinensis*: Named after the locality Guilin
+
+ES — epithet *guilinensis*: Por la localidad de Guilin
 
 <!-- src:S0018 -->
 

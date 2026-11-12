@@ -35,9 +35,13 @@ ES — **瓦莱里前砂白蚁** (*Procryptotermes valeriae*) es una especie del
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *valeriae*：以人名 Valeria（女性人名） 命名
 
 EN — epithet *valeriae*: Named after Valeria
+
+ES — epithet *valeriae*: En honor de Valeria
 
 <!-- src:S0018 -->
 

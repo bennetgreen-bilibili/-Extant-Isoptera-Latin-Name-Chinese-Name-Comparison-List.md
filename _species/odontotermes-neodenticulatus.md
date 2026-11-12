@@ -38,9 +38,13 @@ ES — **新齿小土白蚁** (*Odontotermes neodenticulatus*) es una especie de
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *neodenticulatus*：拉丁文/希腊文 neodenticul（新）+ atus（具），指新具
 
 EN — epithet *neodenticulatus*: From neodenticul (新) + atus (具)
+
+ES — epithet *neodenticulatus*: De neodenticul (nuevo) + atus (que posee)
 
 <!-- src:S0018 -->
 

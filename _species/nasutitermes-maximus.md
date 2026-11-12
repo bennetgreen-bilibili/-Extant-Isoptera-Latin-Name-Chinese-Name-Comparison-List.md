@@ -38,9 +38,13 @@ ES — **最大象白蚁** (*Nasutitermes maximus*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *maximus*：拉丁文 maximus（最大的）
 
 EN — epithet *maximus*: Latin maximus (largest)
+
+ES — epithet *maximus*: Del latín maximus (el mayor)
 
 <!-- src:S0018 -->
 

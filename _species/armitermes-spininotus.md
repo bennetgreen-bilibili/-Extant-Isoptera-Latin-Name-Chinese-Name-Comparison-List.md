@@ -38,9 +38,13 @@ ES — **刺背戟白蚁** (*Armitermes spininotus*) es una especie del género 
 
 EN — *Armitermes*: From Latin arma (arms, weapons) + termes.
 
+ES — *Armitermes*: Del latín arma (armas) + termes.
+
 种加词 *spininotus*：拉丁文/希腊文 spini（刺）+ notus（背），指刺背
 
 EN — epithet *spininotus*: From spini (刺) + notus (背)
+
+ES — epithet *spininotus*: De spini (espina) + notus (dorso)
 
 <!-- src:S0018 -->
 

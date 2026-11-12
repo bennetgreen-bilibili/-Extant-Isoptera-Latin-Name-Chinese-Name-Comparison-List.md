@@ -35,9 +35,13 @@ ES — **毛胸散白蚁** (*Reticulitermes trichothorax*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *trichothorax*：希腊文 thrix（毛）+ thorax（胸），毛胸
 
 EN — epithet *trichothorax*: Greek thrix (hair) + thorax (thorax), hairy-thoraxed
+
+ES — epithet *trichothorax*: Del griego thrix (pelo) + thorax (tórax), de tórax peludo
 
 <!-- src:S0018 -->
 

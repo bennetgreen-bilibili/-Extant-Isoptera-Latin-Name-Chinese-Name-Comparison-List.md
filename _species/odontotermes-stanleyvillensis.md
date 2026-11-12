@@ -38,9 +38,13 @@ ES — **斯坦利维尔土白蚁** (*Odontotermes stanleyvillensis*) es una esp
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *stanleyvillensis*：以地名 斯坦利维尔（刚果） 命名
 
 EN — epithet *stanleyvillensis*: Named after the locality Stanleyvill
+
+ES — epithet *stanleyvillensis*: Por la localidad de Stanleyville
 
 <!-- src:S0018 -->
 

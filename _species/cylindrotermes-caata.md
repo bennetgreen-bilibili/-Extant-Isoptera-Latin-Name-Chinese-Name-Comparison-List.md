@@ -38,9 +38,13 @@ ES — **骨痂圆筒白蚁** (*Cylindrotermes caata*) es una especie del géner
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *caata*：图皮语（ka'a = 森林/叶）相关
 
 EN — epithet *caata*: From Tupi ka'a (forest/leaf)
+
+ES — epithet *caata*: Del tupí «kaʼa» (bosque, hoja)
 
 <!-- src:S0018 -->
 

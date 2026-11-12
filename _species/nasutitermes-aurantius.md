@@ -38,9 +38,13 @@ ES — **橙黄象白蚁** (*Nasutitermes aurantius*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *aurantius*：拉丁文/希腊文词根「aur」（金）
 
 EN — epithet *aurantius*: From the descriptive term 'aur' (gold)
+
+ES — epithet *aurantius*: Del término descriptivo «aur» (oro)
 
 <!-- src:S0018 -->
 

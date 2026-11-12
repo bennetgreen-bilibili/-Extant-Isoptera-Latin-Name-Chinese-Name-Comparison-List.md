@@ -38,9 +38,13 @@ ES — **托普斯利普近扭白蚁** (*Pericapritermes topslipensis*) es una e
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *topslipensis*：以地名 托普斯利普（印度） 命名
 
 EN — epithet *topslipensis*: Named after the locality Topslip
+
+ES — epithet *topslipensis*: Por la localidad de Topslip (India)
 
 <!-- src:S0018 -->
 

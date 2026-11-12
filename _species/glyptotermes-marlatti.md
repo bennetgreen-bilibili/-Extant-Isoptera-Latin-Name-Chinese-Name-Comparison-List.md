@@ -35,9 +35,13 @@ ES — **马拉特树白蚁** (*Glyptotermes marlatti*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *marlatti*：以人名 Marlatt（马拉特）命名（美国昆虫学家 Charles Lester Marlatt）
 
 EN — epithet *marlatti*: Named after Marlatt (American entomologist C. L. Marlatt)
+
+ES — epithet *marlatti*: En honor de Marlatt (entomólogo estadounidense C. L. Marlatt)
 
 <!-- src:S0018 -->
 

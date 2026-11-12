@@ -35,9 +35,13 @@ ES — **锡纳邦乳白蚁** (*Coptotermes sinabangensis*) es una especie del g
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *sinabangensis*：以地名 Sinabang（锡纳邦岛，印度尼西亚）命名
 
 EN — epithet *sinabangensis*: Named after Sinabang (island, Indonesia)
+
+ES — epithet *sinabangensis*: Por Sinabang (isla, Indonesia)
 
 <!-- src:S0018 -->
 

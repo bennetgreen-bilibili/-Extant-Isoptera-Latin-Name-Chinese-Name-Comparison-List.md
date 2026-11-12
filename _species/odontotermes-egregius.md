@@ -38,9 +38,13 @@ ES — **卓越土白蚁** (*Odontotermes egregius*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *egregius*：拉丁文 egregius（卓越的）
 
 EN — epithet *egregius*: Latin egregius (excellent)
+
+ES — epithet *egregius*: Del latín egregius (excelente)
 
 <!-- src:S0018 -->
 

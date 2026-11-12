@@ -38,9 +38,13 @@ ES — **勇猛前奇白蚁** (*Promirotermes bellicosi*) es una especie del gé
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *bellicosi*：拉丁文 bellicosus（好斗的、尚武的）
 
 EN — epithet *bellicosi*: From Latin bellicosus (warlike, belligerent)
+
+ES — epithet *bellicosi*: Del latín bellicosus (belicoso, guerrero)
 
 <!-- src:S0018 -->
 

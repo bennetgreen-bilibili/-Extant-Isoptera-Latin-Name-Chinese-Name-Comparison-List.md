@@ -35,9 +35,13 @@ ES — **直角长鼻白蚁** (*Schedorhinotermes rectangularis*) es una especie
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *rectangularis*：拉丁文/希腊文 rectangul（直角）+ aris（相关），指直角相关
 
 EN — epithet *rectangularis*: From rectangul (直角) + aris (相关)
+
+ES — epithet *rectangularis*: De rectangul (ángulo recto) + aris (relativo a)
 
 <!-- src:S0018 -->
 

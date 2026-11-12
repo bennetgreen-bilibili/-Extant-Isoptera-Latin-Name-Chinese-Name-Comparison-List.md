@@ -37,9 +37,13 @@ ES — **海洋原鼻白蚁** (*Prorhinotermes oceanicus*) es una especie del g�
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *oceanicus*：拉丁文 oceanus（大洋），大洋的
 
 EN — epithet *oceanicus*: Latin oceanus (ocean): oceanic
+
+ES — epithet *oceanicus*: Del latín oceanus (océano): oceánico
 
 <!-- src:S0018 -->
 

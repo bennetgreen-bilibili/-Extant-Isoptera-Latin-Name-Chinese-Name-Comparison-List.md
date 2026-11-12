@@ -35,9 +35,13 @@ ES — **中华新白蚁** (*Neotermes sinensis*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *sinensis*：拉丁文 Sinensis（中国的）
 
 EN — epithet *sinensis*: Latin Sinensis (of China)
+
+ES — epithet *sinensis*: Del latín Sinensis (de China)
 
 <!-- src:S0018 -->
 

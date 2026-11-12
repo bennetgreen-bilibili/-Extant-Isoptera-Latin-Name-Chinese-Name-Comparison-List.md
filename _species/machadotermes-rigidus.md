@@ -38,9 +38,13 @@ ES — **强直剑白蚁** (*Machadotermes rigidus*) es una especie del género 
 
 EN — *Machadotermes*: Named after a person (Machado); -termes from Latin termes.
 
+ES — *Machadotermes*: En honor de una persona (Machado); -termes, del latín termes.
+
 种加词 *rigidus*：拉丁文 rigidus（坚硬的）
 
 EN — epithet *rigidus*: Latin rigidus (rigid)
+
+ES — epithet *rigidus*: Del latín rigidus (rígido)
 
 <!-- src:S0018 -->
 

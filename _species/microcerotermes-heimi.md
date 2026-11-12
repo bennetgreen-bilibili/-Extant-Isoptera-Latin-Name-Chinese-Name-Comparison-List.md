@@ -38,9 +38,13 @@ ES — **埃姆锯白蚁** (*Microcerotermes heimi*) es una especie del género 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *heimi*：以人名 Heim 命名
 
 EN — epithet *heimi*: Named after Heim
+
+ES — epithet *heimi*: En honor de Heim
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **中等等颚白蚁** (*Isognathotermes modicus*) es una especie del gé
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *modicus*：拉丁文 modicus（适度的、中等的）
 
 EN — epithet *modicus*: Latin modicus (moderate, of modest size)
+
+ES — epithet *modicus*: Del latín modicus (moderado, de tamaño modesto)
 
 <!-- src:S0018 -->
 

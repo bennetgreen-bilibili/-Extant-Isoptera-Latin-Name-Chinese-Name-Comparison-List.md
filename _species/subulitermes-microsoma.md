@@ -40,9 +40,13 @@ ES — **体小锥白蚁** (*Subulitermes microsoma*) es una especie, y la espec
 
 EN — *Subulitermes*: From Latin subula (awl) + termes.
 
+ES — *Subulitermes*: Del latín subula (lezna) + termes.
+
 种加词 *microsoma*：希腊文 mikros（小）+ sōma（体），小体
 
 EN — epithet *microsoma*: Greek mikros (small) + sōma (body), small-bodied
+
+ES — epithet *microsoma*: Del griego mikros (pequeño) + sōma (cuerpo), de cuerpo pequeño
 
 <!-- src:S0018 -->
 

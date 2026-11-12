@@ -35,9 +35,13 @@ ES — **忽视树白蚁** (*Glyptotermes ignotus*) es una especie del género *
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *ignotus*：拉丁文 ignotus（未知的）
 
 EN — epithet *ignotus*: Latin ignotus (unknown)
+
+ES — epithet *ignotus*: Del latín ignotus (desconocido)
 
 <!-- src:S0018 -->
 

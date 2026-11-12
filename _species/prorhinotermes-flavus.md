@@ -37,9 +37,13 @@ ES — **黄色原鼻白蚁** (*Prorhinotermes flavus*) es una especie del géne
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *flavus*：拉丁文 flavus（黄）
 
 EN — epithet *flavus*: Latin flavus (yellow)
+
+ES — epithet *flavus*: Del latín flavus (amarillo)
 
 <!-- src:S0018 -->
 

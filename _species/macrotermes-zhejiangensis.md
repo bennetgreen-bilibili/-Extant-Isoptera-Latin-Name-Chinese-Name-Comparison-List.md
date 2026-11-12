@@ -38,9 +38,13 @@ ES — **浙江大白蚁** (*Macrotermes zhejiangensis*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *zhejiangensis*：以地名 浙江 命名
 
 EN — epithet *zhejiangensis*: Named after the locality Zhejiang
+
+ES — epithet *zhejiangensis*: Por la localidad de Zhejiang
 
 <!-- src:S0018 -->
 

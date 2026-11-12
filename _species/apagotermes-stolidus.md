@@ -38,9 +38,13 @@ ES — **愚蠢疲白蚁** (*Apagotermes stolidus*) es la única especie vivient
 
 EN — *Apagotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apagotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *stolidus*：拉丁文 stolidus（迟钝的）
 
 EN — epithet *stolidus*: Latin stolidus (dull)
+
+ES — epithet *stolidus*: Latín stolidus (romo)
 
 <!-- src:S0018 -->
 

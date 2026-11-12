@@ -38,9 +38,13 @@ ES — **狭小锯白蚁** (*Microcerotermes brevior*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *brevior*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevior*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevior*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

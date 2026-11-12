@@ -35,9 +35,13 @@ ES — **科廷原鼻白蚁** (*Prorhinotermes cotym*) es una especie del géner
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *cotym*：词源未详；种加词或为印度喀拉拉邦当地语言（马拉雅拉姆语）土名，原始描述（Joseph, Amina & Mathew 2023, Int. J. Trop. Insect Sci.）未给词源。
 
 EN — epithet *cotym*: Etymology uncertain; perhaps a local (Malayalam) vernacular name from Kerala, India. The original description (Joseph, Amina & Mathew 2023) gives no etymology.
+
+ES — epithet *cotym*: Etimología incierta; quizá un nombre vernáculo local (malabar) de Kerala, India. La descripción original (Joseph, Amina y Mathew 2023) no da etimología.
 
 <!-- src:S0018 -->
 

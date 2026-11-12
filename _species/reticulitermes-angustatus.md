@@ -35,9 +35,13 @@ ES — **狭胸散白蚁** (*Reticulitermes angustatus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *angustatus*：拉丁文/希腊文 angust（窄）+ atus（具），指窄具
 
 EN — epithet *angustatus*: From angust (窄) + atus (具)
+
+ES — epithet *angustatus*: De angust (estrecho) + atus (que posee)
 
 <!-- src:S0018 -->
 

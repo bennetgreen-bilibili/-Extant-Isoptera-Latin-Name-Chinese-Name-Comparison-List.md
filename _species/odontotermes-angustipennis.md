@@ -38,9 +38,13 @@ ES — **窄翅土白蚁** (*Odontotermes angustipennis*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *angustipennis*：拉丁文/希腊文 angusti（窄）+ pennis（翅），指窄翅
 
 EN — epithet *angustipennis*: From angusti (窄) + pennis (翅)
+
+ES — epithet *angustipennis*: De angusti (estrecho) + pennis (alas)
 
 <!-- src:S0018 -->
 

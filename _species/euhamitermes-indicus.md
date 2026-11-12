@@ -38,9 +38,13 @@ ES — **印度亮白蚁** (*Euhamitermes indicus*) es una especie del género *
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *indicus*：地名：印度
 
 EN — epithet *indicus*: After India
+
+ES — epithet *indicus*: Por la India
 
 <!-- src:S0018 -->
 

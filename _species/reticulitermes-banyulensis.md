@@ -35,9 +35,13 @@ ES — **巴尼于勒散白蚁** (*Reticulitermes banyulensis*) es una especie d
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *banyulensis*：以地名 巴纽尔斯（法国） 命名
 
 EN — epithet *banyulensis*: Named after the locality Banyul
+
+ES — epithet *banyulensis*: Por la localidad de Banyul
 
 <!-- src:S0018 -->
 

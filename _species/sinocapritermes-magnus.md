@@ -38,9 +38,13 @@ ES — **大华扭白蚁** (*Sinocapritermes magnus*) es una especie del género
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *magnus*：拉丁文 magnus（大）
 
 EN — epithet *magnus*: Latin magnus (large)
+
+ES — epithet *magnus*: Del latín magnus (grande)
 
 <!-- src:S0018 -->
 

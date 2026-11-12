@@ -38,9 +38,13 @@ ES — **西澳弓白蚁** (*Amitermes westraliensis*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *westraliensis*：以地名 西澳大利亚 命名
 
 EN — epithet *westraliensis*: Named after the locality Westral
+
+ES — epithet *westraliensis*: Por la localidad de Westral
 
 <!-- src:S0018 -->
 

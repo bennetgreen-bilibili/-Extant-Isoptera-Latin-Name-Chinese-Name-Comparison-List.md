@@ -38,9 +38,13 @@ ES — **安汶象白蚁** (*Nasutitermes amboinensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *amboinensis*：以地名 安汶（印度尼西亚） 命名
 
 EN — epithet *amboinensis*: Named after the locality Amboin
+
+ES — epithet *amboinensis*: Por la localidad de Amboin
 
 <!-- src:S0018 -->
 

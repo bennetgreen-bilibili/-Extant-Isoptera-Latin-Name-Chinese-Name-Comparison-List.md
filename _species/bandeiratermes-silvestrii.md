@@ -38,9 +38,13 @@ ES — **西尔韦斯特里班代拉白蚁** (*Bandeiratermes silvestrii*) es un
 
 EN — *Bandeiratermes*: Named after a person (Bandeira); -termes from Latin termes.
 
+ES — *Bandeiratermes*: En honor de una persona (Bandeira); -termes, del latín termes.
+
 种加词 *silvestrii*：以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）
 
 EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
+
+ES — epithet *silvestrii*: En honor del entomólogo F. Silvestri
 
 <!-- src:S0018 -->
 

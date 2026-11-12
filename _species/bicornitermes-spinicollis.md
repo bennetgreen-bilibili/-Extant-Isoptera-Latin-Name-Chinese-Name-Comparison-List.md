@@ -35,9 +35,13 @@ ES — **刺颈双角白蚁** (*Bicornitermes spinicollis*) es una especie del g
 
 EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
 
+ES — *Bicornitermes*: Del latín bi- (dos) + cornu (cuerno) + termes.
+
 种加词 *spinicollis*：拉丁文/希腊文 spini（刺）+ collis（颈），指刺颈
 
 EN — epithet *spinicollis*: From spini (刺) + collis (颈)
+
+ES — epithet *spinicollis*: De spini (espina) + collis (cuello)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **树生象白蚁** (*Nasutitermes arborum*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *arborum*：拉丁文 arborum（树木的，arbor 的复数属格）
 
 EN — epithet *arborum*: Latin arborum (of trees)
+
+ES — epithet *arborum*: Del latín arborum (de los árboles)
 
 <!-- src:S0018 -->
 

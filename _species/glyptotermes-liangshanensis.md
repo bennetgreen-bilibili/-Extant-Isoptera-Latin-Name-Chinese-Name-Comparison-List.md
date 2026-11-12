@@ -35,9 +35,13 @@ ES — **凉山树白蚁** (*Glyptotermes liangshanensis*) es una especie del g�
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *liangshanensis*：以地名 凉山（四川） 命名
 
 EN — epithet *liangshanensis*: Named after the locality Liangshan
+
+ES — epithet *liangshanensis*: Por la localidad de Liangshan
 
 <!-- src:S0018 -->
 

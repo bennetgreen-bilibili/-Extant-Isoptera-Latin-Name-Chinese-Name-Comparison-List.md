@@ -38,9 +38,13 @@ ES — **细管后肠白蚁** (*Apsenterotermes stenopronos*) es una especie del
 
 EN — *Apsenterotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apsenterotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *stenopronos*：拉丁文/希腊文词根「sten」（窄）
 
 EN — epithet *stenopronos*: From the descriptive term 'sten' (narrow)
+
+ES — epithet *stenopronos*: Del término descriptivo «sten» (estrecho)
 
 <!-- src:S0018 -->
 

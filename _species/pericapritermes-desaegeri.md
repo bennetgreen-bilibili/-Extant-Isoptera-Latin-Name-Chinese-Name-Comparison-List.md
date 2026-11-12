@@ -38,9 +38,13 @@ ES — **德埃吉近扭白蚁** (*Pericapritermes desaegeri*) es una especie de
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *desaegeri*：以人名 De Saeger（Henri De Saeger）命名
 
 EN — epithet *desaegeri*: Named after Henri De Saeger
+
+ES — epithet *desaegeri*: En honor de Henri De Saeger
 
 <!-- src:S0018 -->
 

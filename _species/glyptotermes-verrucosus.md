@@ -35,9 +35,13 @@ ES — **疣多树白蚁** (*Glyptotermes verrucosus*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *verrucosus*：拉丁文 verrucosus（多疣）
 
 EN — epithet *verrucosus*: Latin verrucosus (warty)
+
+ES — epithet *verrucosus*: Del latín verrucosus (verrugoso)
 
 <!-- src:S0018 -->
 

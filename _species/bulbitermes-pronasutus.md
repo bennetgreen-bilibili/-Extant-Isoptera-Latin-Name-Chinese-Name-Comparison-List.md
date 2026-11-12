@@ -38,9 +38,13 @@ ES — **似大鼻瓢白蚁** (*Bulbitermes pronasutus*) es una especie del gén
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *pronasutus*：拉丁文 pro-（前）+ nasutus（具鼻突），前鼻
 
 EN — epithet *pronasutus*: Latin pro- (front) + nasutus (nasute), front-nasute
+
+ES — epithet *pronasutus*: Del latín pro- (delante) + nasutus (nasuto), nasuto en la parte anterior
 
 <!-- src:S0018 -->
 

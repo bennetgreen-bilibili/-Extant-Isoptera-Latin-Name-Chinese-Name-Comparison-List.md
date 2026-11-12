@@ -35,9 +35,13 @@ ES — **短头散白蚁** (*Reticulitermes curticeps*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *curticeps*：拉丁文 curtus（短）+ -ceps（头），短头
 
 EN — epithet *curticeps*: Latin curtus (short) + -ceps (head), short-headed
+
+ES — epithet *curticeps*: Del latín curtus (corto) + -ceps (cabeza), de cabeza corta
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **关岛树白蚁** (*Glyptotermes guamensis*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *guamensis*：以地名 关岛 命名
 
 EN — epithet *guamensis*: Named after the locality Guam
+
+ES — epithet *guamensis*: Por la localidad de Guam
 
 <!-- src:S0018 -->
 

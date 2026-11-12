@@ -38,9 +38,13 @@ ES — **箕头大白蚁** (*Macrotermes declivatus*) es una especie del género
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *declivatus*：拉丁文/希腊文 decliv（斜）+ atus（具），指斜具
 
 EN — epithet *declivatus*: From decliv (斜) + atus (具)
+
+ES — epithet *declivatus*: De decliv (inclinado) + atus (provisto de)
 
 <!-- src:S0018 -->
 

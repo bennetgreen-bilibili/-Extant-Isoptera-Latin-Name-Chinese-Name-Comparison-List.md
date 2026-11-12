@@ -40,9 +40,13 @@ ES — **近邻等颚白蚁** (*Isognathotermes finitimus*) es una especie del g
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *finitimus*：拉丁文 finitimus（邻近的）
 
 EN — epithet *finitimus*: Latin finitimus (neighbouring)
+
+ES — epithet *finitimus*: Del latín finitimus (vecino)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **红色象白蚁** (*Nasutitermes retus*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *retus*：拉丁文 retusus（顶端微凹的）
 
 EN — epithet *retus*: Latin retusus (retuse)
+
+ES — epithet *retus*: Del latín retusus (retuso)
 
 <!-- src:S0018 -->
 

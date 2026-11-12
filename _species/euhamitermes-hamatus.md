@@ -38,9 +38,13 @@ ES — **多毛亮白蚁** (*Euhamitermes hamatus*) es una especie, y la especie
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *hamatus*：拉丁文 hamatus（具钩的）
 
 EN — epithet *hamatus*: Latin hamatus (hooked)
+
+ES — epithet *hamatus*: Del latín hamatus (ganchudo)
 
 <!-- src:S0018 -->
 

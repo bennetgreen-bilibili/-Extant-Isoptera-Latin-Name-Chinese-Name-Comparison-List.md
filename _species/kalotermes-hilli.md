@@ -35,9 +35,13 @@ ES — **希尔木白蚁** (*Kalotermes hilli*) es una especie del género *Kalo
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *hilli*：以人名 Hill 命名（昆虫学家 G. F. Hill）
 
 EN — epithet *hilli*: Named after the entomologist G. F. Hill
+
+ES — epithet *hilli*: En honor del entomólogo G. F. Hill
 
 <!-- src:S0018 -->
 

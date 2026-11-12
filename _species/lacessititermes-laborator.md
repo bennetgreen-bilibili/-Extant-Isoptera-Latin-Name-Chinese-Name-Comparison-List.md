@@ -38,9 +38,13 @@ ES — **耕地怒白蚁** (*Lacessititermes laborator*) es una especie del gén
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *laborator*：拉丁文 laborator（劳动者）
 
 EN — epithet *laborator*: Latin laborator (worker)
+
+ES — epithet *laborator*: Del latín laborator (trabajador)
 
 <!-- src:S0018 -->
 

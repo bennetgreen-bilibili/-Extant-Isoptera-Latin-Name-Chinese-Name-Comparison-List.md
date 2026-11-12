@@ -38,9 +38,13 @@ ES — **斯奈德弓白蚁** (*Amitermes snyderi*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *snyderi*：以人名 Snyder 命名（美国白蚁学家 T. E. Snyder）
 
 EN — epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
+
+ES — epithet *snyderi*: En honor del taxónomo de termitas T. E. Snyder
 
 <!-- src:S0018 -->
 

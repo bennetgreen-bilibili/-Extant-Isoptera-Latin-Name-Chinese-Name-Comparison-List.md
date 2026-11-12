@@ -38,9 +38,13 @@ ES — **贵州亮白蚁** (*Euhamitermes guizhouensis*) es una especie del gén
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *guizhouensis*：地名：贵州（中国）
 
 EN — epithet *guizhouensis*: After Guizhou (China)
+
+ES — epithet *guizhouensis*: Por Guizhou (China)
 
 <!-- src:S0018 -->
 

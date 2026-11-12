@@ -38,9 +38,13 @@ ES — **西部木堆白蚁** (*Xylochomitermes occidualis*) es una especie, y l
 
 EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
 
+ES — *Xylochomitermes*: Del griego xylon (madera) + chōma (túmulo) + latín termes.
+
 种加词 *occidualis*：拉丁文 occidualis（西方的）
 
 EN — epithet *occidualis*: Latin occidualis (western)
+
+ES — epithet *occidualis*: Del latín occidualis (occidental)
 
 <!-- src:S0018 -->
 

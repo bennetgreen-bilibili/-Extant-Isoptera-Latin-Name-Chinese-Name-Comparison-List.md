@@ -35,9 +35,13 @@ ES — **凹头散白蚁** (*Reticulitermes coelceps*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *coelceps*：希腊文 koilos（凹）+ 拉丁文 -ceps（头），凹头
 
 EN — epithet *coelceps*: Greek koilos (hollow) + Latin -ceps (head), hollow-headed
+
+ES — epithet *coelceps*: Del griego koilos (hueco) + latín -ceps (cabeza), de cabeza hueca
 
 <!-- src:S0018 -->
 

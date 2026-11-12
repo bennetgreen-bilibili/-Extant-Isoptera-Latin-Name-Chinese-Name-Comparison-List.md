@@ -38,9 +38,13 @@ ES — **巴基斯坦锯白蚁** (*Microcerotermes pakistanicus*) es una especie
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *pakistanicus*：地名：巴基斯坦
 
 EN — epithet *pakistanicus*: After Pakistan
+
+ES — epithet *pakistanicus*: Por Pakistán
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **几内亚钩白蚁** (*Ancistrotermes guineensis*) es una especie del g
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *guineensis*：地名：几内亚
 
 EN — epithet *guineensis*: After Guinea
+
+ES — epithet *guineensis*: Por Guinea
 
 <!-- src:S0018 -->
 

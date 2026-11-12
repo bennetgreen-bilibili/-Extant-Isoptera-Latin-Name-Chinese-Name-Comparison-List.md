@@ -38,9 +38,13 @@ ES — **拉曼角白蚁** (*Angulitermes ramanii*) es una especie del género *
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *ramanii*：以人名 Raman/Ramani 命名（具体指代待考）
 
 EN — epithet *ramanii*: Named after a person "Raman/Ramani" (identity unconfirmed)
+
+ES — epithet *ramanii*: En honor de una persona «Raman/Ramani» (identidad no confirmada)
 
 <!-- src:S0018 -->
 

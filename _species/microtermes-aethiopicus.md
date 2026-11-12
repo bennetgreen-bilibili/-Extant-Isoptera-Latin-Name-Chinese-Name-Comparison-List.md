@@ -38,9 +38,13 @@ ES — **埃塞俄比亚小白蚁** (*Microtermes aethiopicus*) es una especie d
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *aethiopicus*：地名：埃塞俄比亚（泛指非洲）
 
 EN — epithet *aethiopicus*: After Ethiopia (Africa)
+
+ES — epithet *aethiopicus*: Por Etiopía (África)
 
 <!-- src:S0018 -->
 

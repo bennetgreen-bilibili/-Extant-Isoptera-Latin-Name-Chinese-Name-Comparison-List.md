@@ -38,9 +38,13 @@ ES — **白腹小白蚁** (*Microtermes pallidiventris*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *pallidiventris*：拉丁文/希腊文词根「pallid」（苍白）
 
 EN — epithet *pallidiventris*: From the descriptive term 'pallid' (pale)
+
+ES — epithet *pallidiventris*: Del término descriptivo «pallid» (pálido)
 
 <!-- src:S0018 -->
 

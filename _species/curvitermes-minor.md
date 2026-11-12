@@ -40,9 +40,13 @@ ES — **小型曲白蚁** (*Curvitermes minor*) es una especie del género *Cur
 
 EN — *Curvitermes*: From Latin curvus (curved) + termes.
 
+ES — *Curvitermes*: Del latín curvus (curvo) + termes.
+
 种加词 *minor*：拉丁文 minor（较小）
 
 EN — epithet *minor*: Latin minor (smaller)
+
+ES — epithet *minor*: Del latín minor (menor)
 
 <!-- src:S0018 -->
 

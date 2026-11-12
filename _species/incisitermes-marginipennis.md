@@ -37,9 +37,13 @@ ES — **缘翅楹白蚁** (*Incisitermes marginipennis*) es una especie del gé
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *marginipennis*：拉丁文/希腊文 margini（缘）+ pennis（翅），指缘翅
 
 EN — epithet *marginipennis*: From margini (缘) + pennis (翅)
+
+ES — epithet *marginipennis*: De margini (margen) + pennis (ala)
 
 <!-- src:S0018 -->
 

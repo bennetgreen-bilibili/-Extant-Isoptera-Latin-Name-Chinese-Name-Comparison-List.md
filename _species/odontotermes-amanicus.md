@@ -38,9 +38,13 @@ ES — **阿马尼** (*Odontotermes amanicus*) es una especie del género *Odont
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *amanicus*：以地名 阿马尼（坦桑尼亚） 命名
 
 EN — epithet *amanicus*: Named after the locality Aman
+
+ES — epithet *amanicus*: Por la localidad de Aman
 
 <!-- src:S0018 -->
 

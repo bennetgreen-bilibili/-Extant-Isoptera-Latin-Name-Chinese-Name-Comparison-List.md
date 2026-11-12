@@ -38,9 +38,13 @@ ES — **宽头钝颚白蚁** (*Ahmaditermes laticephalus*) es una especie del g
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *laticephalus*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *laticephalus*: From the descriptive term 'lat' (broad)
+
+ES — epithet *laticephalus*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

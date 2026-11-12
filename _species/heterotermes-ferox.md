@@ -35,9 +35,13 @@ ES — **好斗异白蚁** (*Heterotermes ferox*) es una especie del género *He
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *ferox*：拉丁文 ferox（凶猛的）
 
 EN — epithet *ferox*: Latin ferox (fierce)
+
+ES — epithet *ferox*: Del latín ferox (feroz)
 
 <!-- src:S0018 -->
 

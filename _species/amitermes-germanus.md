@@ -40,9 +40,13 @@ ES — **芽弓白蚁** (*Amitermes germanus*) es una especie del género *Amite
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *germanus*：拉丁文 germanus（真实的、同血缘的）
 
 EN — epithet *germanus*: Latin germanus (genuine, brotherly/of the same stock)
+
+ES — epithet *germanus*: Del latín germanus (genuino, hermano, del mismo linaje)
 
 <!-- src:S0018 -->
 

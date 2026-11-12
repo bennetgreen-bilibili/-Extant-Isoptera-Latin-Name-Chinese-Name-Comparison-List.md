@@ -38,9 +38,13 @@ ES — **全黑镰白蚁** (*Drepanotermes perniger*) es una especie, y la espec
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *perniger*：拉丁文 per-（非常）+ niger（黑），极黑
 
 EN — epithet *perniger*: Latin per- (very) + niger (black), very black
+
+ES — epithet *perniger*: Del latín per- (muy) + niger (negro), muy negro
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **泰国怒白蚁** (*Lacessititermes thailandicus*) es una especie del g
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *thailandicus*：以地名 泰国 命名
 
 EN — epithet *thailandicus*: Named after the locality Thailand
+
+ES — epithet *thailandicus*: Por la localidad de Tailandia
 
 <!-- src:S0018 -->
 

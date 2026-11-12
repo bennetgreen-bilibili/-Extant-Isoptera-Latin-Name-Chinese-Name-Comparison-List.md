@@ -40,9 +40,13 @@ ES — **达尔文弓白蚁** (*Amitermes darwini*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *darwini*：以人名 darwin 命名（英国博物学家 C. Darwin）
 
 EN — epithet *darwini*: Named after 英国博物学家 C. Darwin
+
+ES — epithet *darwini*: En honor del naturalista británico C. Darwin
 
 <!-- src:S0018 -->
 

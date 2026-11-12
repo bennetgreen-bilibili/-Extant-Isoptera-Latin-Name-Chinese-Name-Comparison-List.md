@@ -37,9 +37,13 @@ ES — **喀麦隆新白蚁** (*Neotermes camerunensis*) es una especie del gén
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *camerunensis*：以地名 喀麦隆 命名
 
 EN — epithet *camerunensis*: Named after the locality Camerun
+
+ES — epithet *camerunensis*: Por Camerún
 
 <!-- src:S0018 -->
 

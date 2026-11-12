@@ -38,9 +38,13 @@ ES — **阿拉伯角白蚁** (*Angulitermes arabiae*) es una especie del géner
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *arabiae*：以阿拉伯（Arabia）命名
 
 EN — epithet *arabiae*: Named after Arabia
+
+ES — epithet *arabiae*: Por Arabia
 
 <!-- src:S0018 -->
 

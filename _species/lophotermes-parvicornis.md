@@ -38,9 +38,13 @@ ES — **小角小脊突白蚁** (*Lophotermes parvicornis*) es una especie del 
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *parvicornis*：拉丁文/希腊文 parvi（小）+ cornis（角），指小角
 
 EN — epithet *parvicornis*: From parvi (小) + cornis (角)
+
+ES — epithet *parvicornis*: De parvi (pequeño) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

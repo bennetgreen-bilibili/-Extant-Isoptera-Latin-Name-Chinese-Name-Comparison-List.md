@@ -38,9 +38,13 @@ ES — **长颚圆筒白蚁** (*Cylindrotermes macrognathus*) es una especie del
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *macrognathus*：拉丁文/希腊文 macro（大）+ gnathus（颚），指大颚
 
 EN — epithet *macrognathus*: From macro (大) + gnathus (颚)
+
+ES — epithet *macrognathus*: De macro (grande) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

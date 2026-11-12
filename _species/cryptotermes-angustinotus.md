@@ -35,9 +35,13 @@ ES — **狭背堆砂白蚁** (*Cryptotermes angustinotus*) es una especie del g
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *angustinotus*：拉丁文/希腊文 angusti（窄）+ notus（背），指窄背
 
 EN — epithet *angustinotus*: From angusti (窄) + notus (背)
+
+ES — epithet *angustinotus*: De angusti (estrecho) + notus (dorso)
 
 <!-- src:S0018 -->
 

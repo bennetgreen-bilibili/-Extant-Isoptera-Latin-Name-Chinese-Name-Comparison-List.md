@@ -38,9 +38,13 @@ ES — **勐捧球白蚁** (*Globitermes mengpengensis*) es una especie del gén
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *mengpengensis*：以地名 勐捧（中国云南）命名
 
 EN — epithet *mengpengensis*: Named after Mengpeng, Yunnan, China
+
+ES — epithet *mengpengensis*: Por Mengpeng, Yunnan, China
 
 <!-- src:S0018 -->
 

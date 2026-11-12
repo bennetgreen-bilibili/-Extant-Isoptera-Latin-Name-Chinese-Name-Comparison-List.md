@@ -38,9 +38,13 @@ ES — **贝奎特角象白蚁** (*Cornitermes bequaerti*) es una especie del g�
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *bequaerti*：以人名 bequaert 命名（J. Bequaert（比利时昆虫学家））
 
 EN — epithet *bequaerti*: Named after J. Bequaert（比利时昆虫学家）
+
+ES — epithet *bequaerti*: En honor de J. Bequaert (entomólogo belga)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **友善基齿白蚁** (*Basidentitermes amicus*) es una especie del gén
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *amicus*：拉丁文 amicus（友好的、亲近的）
 
 EN — epithet *amicus*: Latin amicus (friendly)
+
+ES — epithet *amicus*: Del latín amicus (amistoso)
 
 <!-- src:S0018 -->
 

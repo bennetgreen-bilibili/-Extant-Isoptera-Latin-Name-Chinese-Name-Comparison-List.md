@@ -38,9 +38,13 @@ ES — **凯姆勒东锥白蚁** (*Oriensubulitermes kemneri*) es una especie de
 
 EN — *Oriensubulitermes*: From Latin Oriens (the East) + subula (awl) + termes.
 
+ES — *Oriensubulitermes*: Del latín Oriens (el Oriente) + subula (lezna) + termes.
+
 种加词 *kemneri*：以人名 Kemner 命名（瑞典昆虫学家 N. A. Kemner）
 
 EN — epithet *kemneri*: Named after the entomologist N. A. Kemner
+
+ES — epithet *kemneri*: En honor del entomólogo N. A. Kemner
 
 <!-- src:S0018 -->
 

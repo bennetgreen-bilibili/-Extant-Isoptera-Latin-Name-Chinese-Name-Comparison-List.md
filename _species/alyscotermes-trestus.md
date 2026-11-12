@@ -38,9 +38,13 @@ ES — **懦夫逃白蚁** (*Alyscotermes trestus*) es una especie del género *
 
 EN — *Alyscotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Alyscotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *trestus*：种加词来自希腊语 τρητός (trētos)「有孔的、穿孔的」（LSJ：perforated, having a hole in it，源自 τετραίνω tetrainō「钻孔」），拉丁化作 trestus，或指工蚁肠瓣（enteric valve）的刺状构造。
 
 EN — epithet *trestus*: From Greek τρητός (trētos) 'perforated, having a hole in it' (LSJ, from τετραίνω tetrainō 'to bore'), Latinized as trestus, perhaps referring to the spiny enteric valve armature of the worker caste.
+
+ES — epithet *trestus*: Del griego τρητός (trētos) «perforado, con un orificio» (LSJ, de τετραίνω tetrainō «perforar»), latinizado como trestus, quizá en referencia a la armadura espinosa de la válvula entérica de la casta obrera.
 
 <!-- src:S0018 -->
 

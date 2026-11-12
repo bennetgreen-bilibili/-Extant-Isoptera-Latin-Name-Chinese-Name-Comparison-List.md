@@ -35,9 +35,13 @@ ES — **适度新白蚁** (*Neotermes modestus*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *modestus*：拉丁文/希腊文词根「modest」（朴素）
 
 EN — epithet *modestus*: From the descriptive term 'modest' (modest)
+
+ES — epithet *modestus*: Del término descriptivo «modest» (modesto)
 
 <!-- src:S0018 -->
 

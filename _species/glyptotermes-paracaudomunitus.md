@@ -35,9 +35,13 @@ ES — **似具尾树白蚁** (*Glyptotermes paracaudomunitus*) es una especie d
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *paracaudomunitus*：拉丁文/希腊文词根「para」（旁）
 
 EN — epithet *paracaudomunitus*: From the descriptive term 'para' (beside)
+
+ES — epithet *paracaudomunitus*: Del término descriptivo «para» (al lado)
 
 <!-- src:S0018 -->
 

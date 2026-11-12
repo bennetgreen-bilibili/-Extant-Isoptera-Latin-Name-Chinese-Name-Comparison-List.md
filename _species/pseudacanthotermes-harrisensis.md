@@ -38,9 +38,13 @@ ES — **哈里斯伪刺白蚁** (*Pseudacanthotermes harrisensis*) es una espec
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *harrisensis*：以地名 哈里斯（？） 命名
 
 EN — epithet *harrisensis*: Named after the locality Harris
+
+ES — epithet *harrisensis*: Por la localidad de Harris
 
 <!-- src:S0018 -->
 

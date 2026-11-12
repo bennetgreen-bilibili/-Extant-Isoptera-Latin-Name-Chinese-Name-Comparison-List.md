@@ -38,9 +38,13 @@ ES — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) es una especie
 
 EN — *Macrognathotermes*: From Greek makros (large) + gnathos (jaw) + Latin termes.
 
+ES — *Macrognathotermes*: Del griego makros (grande) + gnathos (mandíbula) + latín termes.
+
 种加词 *broomensis*：以地名 布鲁姆（澳大利亚） 命名
 
 EN — epithet *broomensis*: Named after the locality Broom
+
+ES — epithet *broomensis*: Por la localidad de Broom
 
 <!-- src:S0018 -->
 

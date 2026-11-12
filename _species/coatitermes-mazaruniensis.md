@@ -38,9 +38,13 @@ ES — **马扎鲁尼凸鼻白蚁** (*Coatitermes mazaruniensis*) es una especie
 
 EN — *Coatitermes*: From Tupi Coati (coati) + termes.
 
+ES — *Coatitermes*: Del tupí Coati (coatí) + termes.
+
 种加词 *mazaruniensis*：以地名 马扎鲁尼（圭亚那） 命名
 
 EN — epithet *mazaruniensis*: Named after the locality Mazarun
+
+ES — epithet *mazaruniensis*: Por la localidad de Mazarun
 
 <!-- src:S0018 -->
 

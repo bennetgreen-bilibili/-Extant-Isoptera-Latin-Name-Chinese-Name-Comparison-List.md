@@ -35,9 +35,13 @@ ES — **大异白蚁** (*Heterotermes assu*) es una especie del género *Hetero
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *assu*：以地名 Assu/Açu 命名
 
 EN — epithet *assu*: Named after the locality Assu (Açu)
+
+ES — epithet *assu*: Por la localidad de Assu (Açu)
 
 <!-- src:S0018 -->
 

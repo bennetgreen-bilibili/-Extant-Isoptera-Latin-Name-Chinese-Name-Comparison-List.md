@@ -38,9 +38,13 @@ ES — **甲洞土白蚁** (*Odontotermes kepongensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *kepongensis*：以地名 甲洞（马来西亚） 命名
 
 EN — epithet *kepongensis*: Named after the locality Kepong
+
+ES — epithet *kepongensis*: Por la localidad de Kepong
 
 <!-- src:S0018 -->
 

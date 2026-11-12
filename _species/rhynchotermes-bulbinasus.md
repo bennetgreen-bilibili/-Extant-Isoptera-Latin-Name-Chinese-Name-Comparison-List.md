@@ -38,9 +38,13 @@ ES — **葱鼻喙白蚁** (*Rhynchotermes bulbinasus*) es una especie del géne
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *bulbinasus*：拉丁文 bulbus（球茎）+ nasus（鼻），球鼻
 
 EN — epithet *bulbinasus*: Latin bulbus (bulb) + nasus (nose), bulb-nosed
+
+ES — epithet *bulbinasus*: Del latín bulbus (bulbo) + nasus (nariz), de nariz bulbosa
 
 <!-- src:S0018 -->
 

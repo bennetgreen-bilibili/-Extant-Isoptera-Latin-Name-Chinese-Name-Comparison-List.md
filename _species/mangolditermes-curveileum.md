@@ -38,9 +38,13 @@ ES — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) es la única e
 
 EN — *Mangolditermes*: Named after a person (Mangold); -termes from Latin termes.
 
+ES — *Mangolditermes*: En honor de una persona (Mangold); -termes, del latín termes.
+
 种加词 *curveileum*：拉丁文/希腊文词根「curv」（弯）
 
 EN — epithet *curveileum*: From the descriptive term 'curv' (curved)
+
+ES — epithet *curveileum*: Del término descriptivo «curv» (curvo)
 
 <!-- src:S0018 -->
 

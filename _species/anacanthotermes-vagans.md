@@ -35,9 +35,13 @@ ES — **游荡无刺白蚁** (*Anacanthotermes vagans*) es una especie del gén
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *vagans*：拉丁文 vagans（游荡的、漂泊的）
 
 EN — epithet *vagans*: Latin vagans (wandering)
+
+ES — epithet *vagans*: Del latín vagans (errante)
 
 <!-- src:S0018 -->
 

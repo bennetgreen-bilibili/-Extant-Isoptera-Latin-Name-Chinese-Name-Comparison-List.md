@@ -35,9 +35,13 @@ ES — **客居树白蚁** (*Glyptotermes hospitalis*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *hospitalis*：拉丁文 hospitalis（好客的、与宿主有关的）
 
 EN — epithet *hospitalis*: Latin hospitalis (hospitable, of a host)
+
+ES — epithet *hospitalis*: Del latín hospitalis (hospitalario, del huésped)
 
 <!-- src:S0018 -->
 

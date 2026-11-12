@@ -35,9 +35,13 @@ ES — **版纳乳白蚁** (*Coptotermes bannaensis*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *bannaensis*：以地名 版纳（云南） 命名
 
 EN — epithet *bannaensis*: Named after the locality Banna
+
+ES — epithet *bannaensis*: Por la localidad de Banna
 
 <!-- src:S0018 -->
 

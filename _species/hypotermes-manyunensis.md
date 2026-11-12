@@ -38,9 +38,13 @@ ES — **曼允地白蚁** (*Hypotermes manyunensis*) es una especie del género
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *manyunensis*：以云南蛮允（Manyun，盈江县）命名
 
 EN — epithet *manyunensis*: Named after Manyun, Yingjiang, Yunnan, China
+
+ES — epithet *manyunensis*: Por Manyun, Yingjiang, Yunnan, China
 
 <!-- src:S0018 -->
 

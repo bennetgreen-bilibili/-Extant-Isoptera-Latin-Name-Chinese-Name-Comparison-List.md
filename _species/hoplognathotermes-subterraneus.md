@@ -40,9 +40,13 @@ ES — **土栖锐颚白蚁** (*Hoplognathotermes subterraneus*) es una especie,
 
 EN — *Hoplognathotermes*: From Greek hoplon (weapon) + gnathos (jaw) + Latin termes.
 
+ES — *Hoplognathotermes*: Del griego hoplon (arma) + gnathos (mandíbula) + latín termes.
+
 种加词 *subterraneus*：拉丁文 subterraneus（地下的）
 
 EN — epithet *subterraneus*: Latin subterraneus (subterranean)
+
+ES — epithet *subterraneus*: Latín subterraneus (subterráneo)
 
 <!-- src:S0018 -->
 

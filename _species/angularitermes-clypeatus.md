@@ -38,9 +38,13 @@ ES — **大唇棱角白蚁** (*Angularitermes clypeatus*) es una especie del g�
 
 EN — *Angularitermes*: From Latin angularis (angular) + termes.
 
+ES — *Angularitermes*: Del latín angularis (angular) + termes.
+
 种加词 *clypeatus*：拉丁文 clypeatus（具盾的）
 
 EN — epithet *clypeatus*: Latin clypeatus (shielded)
+
+ES — epithet *clypeatus*: Del latín clypeatus (con escudo)
 
 <!-- src:S0018 -->
 

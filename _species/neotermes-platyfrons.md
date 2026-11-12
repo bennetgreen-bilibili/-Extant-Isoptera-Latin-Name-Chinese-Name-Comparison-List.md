@@ -35,9 +35,13 @@ ES — **宽额新白蚁** (*Neotermes platyfrons*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *platyfrons*：拉丁文/希腊文 platy（宽扁）+ frons（额），指宽扁额
 
 EN — epithet *platyfrons*: From platy (宽扁) + frons (额)
+
+ES — epithet *platyfrons*: De platy (ancho y plano) + frons (frente)
 
 <!-- src:S0018 -->
 

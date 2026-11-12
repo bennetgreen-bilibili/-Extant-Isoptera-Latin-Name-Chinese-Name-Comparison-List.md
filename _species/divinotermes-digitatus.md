@@ -38,9 +38,13 @@ ES — **具指迪维努白蚁** (*Divinotermes digitatus*) es una especie del g
 
 EN — *Divinotermes*: Etymology uncertain (perhaps Latin divinus 'divine' or a personal name); -termes from Latin termes.
 
+ES — *Divinotermes*: Etimología incierta (quizá el latín divinus «divino» o un nombre personal); -termes, del latín termes.
+
 种加词 *digitatus*：拉丁文 digitatus（有趾的、指状的）
 
 EN — epithet *digitatus*: Latin digitatus (fingered)
+
+ES — epithet *digitatus*: Del latín digitatus (digitado)
 
 <!-- src:S0018 -->
 

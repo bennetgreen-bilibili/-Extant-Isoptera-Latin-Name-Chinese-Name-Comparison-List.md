@@ -38,9 +38,13 @@ ES — **赞比亚无刃白蚁** (*Astratotermes aneristus*) es una especie del 
 
 EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astratotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *aneristus*：希腊语 a-（无）+ eris（争斗），无争的；原始描述未明示，据词根拆解
 
 EN — epithet *aneristus*: From Greek a- (without) + eris (strife); not stated in original description
+
+ES — epithet *aneristus*: Del griego a- (sin) + eris (discordia); no se indica en la descripción original
 
 <!-- src:S0018 -->
 

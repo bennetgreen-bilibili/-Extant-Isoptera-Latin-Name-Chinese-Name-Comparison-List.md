@@ -38,9 +38,13 @@ ES — **侏儒阿劳若白蚁** (*Araujotermes nanus*) es una especie del géne
 
 EN — *Araujotermes*: Named after the termite taxonomist R. L. Araujo; -termes from Latin termes.
 
+ES — *Araujotermes*: En honor del taxónomo de termitas R. L. Araujo; -termes, del latín termes.
+
 种加词 *nanus*：希腊文 nanos（矮小）
 
 EN — epithet *nanus*: Greek nanos (dwarf)
+
+ES — epithet *nanus*: Del griego nanos (enano)
 
 <!-- src:S0018 -->
 

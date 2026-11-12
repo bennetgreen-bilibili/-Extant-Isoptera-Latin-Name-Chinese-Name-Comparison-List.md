@@ -38,9 +38,13 @@ ES — **侏儒锯白蚁** (*Microcerotermes nanus*) es una especie del género 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *nanus*：希腊文 nanos（矮小）
 
 EN — epithet *nanus*: Greek nanos (dwarf)
+
+ES — epithet *nanus*: Del griego nanos (enano)
 
 <!-- src:S0018 -->
 

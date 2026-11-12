@@ -35,9 +35,13 @@ ES — **拳头堆砂白蚁** (*Cryptotermes pugnus*) es una especie del género
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *pugnus*：拉丁文 pugnus（拳头）
 
 EN — epithet *pugnus*: Latin pugnus (fist)
+
+ES — epithet *pugnus*: Del latín pugnus (puño)
 
 <!-- src:S0018 -->
 

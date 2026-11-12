@@ -38,9 +38,13 @@ ES — **普鲁士土白蚁** (*Odontotermes prewensis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *prewensis*：以地名 Prewe 命名
 
 EN — epithet *prewensis*: Named after the locality Prewe
+
+ES — epithet *prewensis*: Por la localidad de Prewe
 
 <!-- src:S0018 -->
 

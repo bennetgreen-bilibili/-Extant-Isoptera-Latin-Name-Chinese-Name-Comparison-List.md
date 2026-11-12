@@ -38,9 +38,13 @@ ES — **阳光锯白蚁** (*Microcerotermes apricitatis*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *apricitatis*：拉丁文 apricus（向阳的、日光充足的）
 
 EN — epithet *apricitatis*: Latin apricus (sunny)
+
+ES — epithet *apricitatis*: Del latín apricus (soleado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **雷霍博特土白蚁** (*Odontotermes rehobothensis*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *rehobothensis*：以雷霍博特（Rehoboth，纳米比亚）命名
 
 EN — epithet *rehobothensis*: Named after Rehoboth (Namibia)
+
+ES — epithet *rehobothensis*: Por Rehobot (Namibia)
 
 <!-- src:S0018 -->
 

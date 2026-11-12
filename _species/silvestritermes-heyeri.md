@@ -40,9 +40,13 @@ ES — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) es una e
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *heyeri*：以人名 Heyer 命名
 
 EN — epithet *heyeri*: Named after Heyer
+
+ES — epithet *heyeri*: En honor de Heyer
 
 <!-- src:S0018 -->
 

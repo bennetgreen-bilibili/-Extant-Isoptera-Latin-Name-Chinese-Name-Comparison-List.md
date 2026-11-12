@@ -38,9 +38,13 @@ ES — **萨亚德里小锡兰白蚁** (*Ceylonitermellus sahyadriensis*) es una
 
 EN — *Ceylonitermellus*: From Ceylon (Sri Lanka) + diminutive -ellus (with termes).
 
+ES — *Ceylonitermellus*: De Ceilán (Sri Lanka) + diminutivo -ellus (con termes).
+
 种加词 *sahyadriensis*：以地名 萨希亚德里（印度） 命名
 
 EN — epithet *sahyadriensis*: Named after the locality Sahyadr
+
+ES — epithet *sahyadriensis*: Por la localidad de Sahyadr
 
 <!-- src:S0018 -->
 

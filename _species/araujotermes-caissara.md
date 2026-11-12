@@ -38,9 +38,13 @@ ES — **凯萨拉阿劳若白蚁** (*Araujotermes caissara*) es una especie, y 
 
 EN — *Araujotermes*: Named after the termite taxonomist R. L. Araujo; -termes from Latin termes.
 
+ES — *Araujotermes*: En honor del taxónomo de termitas R. L. Araujo; -termes, del latín termes.
+
 种加词 *caissara*：卡伊萨拉人（巴西沿海居民）
 
 EN — epithet *caissara*: After the caiçara people (coastal Brazil)
+
+ES — epithet *caissara*: Por el pueblo caiçara (costa de Brasil)
 
 <!-- src:S0018 -->
 

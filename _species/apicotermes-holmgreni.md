@@ -38,9 +38,13 @@ ES — **霍姆格伦尖白蚁** (*Apicotermes holmgreni*) es una especie del g�
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
 
 EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+ES — epithet *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 <!-- src:S0018 -->
 

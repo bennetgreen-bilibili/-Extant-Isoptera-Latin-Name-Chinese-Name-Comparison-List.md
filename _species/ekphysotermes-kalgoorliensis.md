@@ -38,9 +38,13 @@ ES — **卡尔古利瘤突白蚁** (*Ekphysotermes kalgoorliensis*) es una espe
 
 EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ekphysotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *kalgoorliensis*：以地名 卡尔古利（澳大利亚） 命名
 
 EN — epithet *kalgoorliensis*: Named after the locality Kalgoorl
+
+ES — epithet *kalgoorliensis*: Por la localidad de Kalgoorl
 
 <!-- src:S0018 -->
 

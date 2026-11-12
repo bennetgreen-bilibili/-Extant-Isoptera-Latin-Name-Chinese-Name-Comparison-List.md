@@ -38,9 +38,13 @@ ES — **刺头多毛白蚁** (*Hirtitermes spinocephalus*) es una especie del g
 
 EN — *Hirtitermes*: From Latin hirtus (hairy) + termes.
 
+ES — *Hirtitermes*: Del latín hirtus (peludo) + termes.
+
 种加词 *spinocephalus*：拉丁文/希腊文词根「spin」（刺）
 
 EN — epithet *spinocephalus*: From the descriptive term 'spin' (spine)
+
+ES — epithet *spinocephalus*: Del término descriptivo «spin» (espina)
 
 <!-- src:S0018 -->
 

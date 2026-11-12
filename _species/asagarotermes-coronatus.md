@@ -38,9 +38,13 @@ ES — **冠毛无剑白蚁** (*Asagarotermes coronatus*) es la única especie v
 
 EN — *Asagarotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Asagarotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *coronatus*：拉丁文 coronatus（具冠的）
 
 EN — epithet *coronatus*: Latin coronatus (crowned)
+
+ES — epithet *coronatus*: Del latín coronatus (coronado)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **卡内尔树白蚁** (*Glyptotermes canellae*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *canellae*：以人名 Canella 命名
 
 EN — epithet *canellae*: Named after Canella
+
+ES — epithet *canellae*: En honor de Canella
 
 <!-- src:S0018 -->
 

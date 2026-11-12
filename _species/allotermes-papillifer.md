@@ -35,9 +35,13 @@ ES — **乳突奇白蚁** (*Allotermes papillifer*) es una especie del género 
 
 EN — *Allotermes*: From Greek allos (other, different) + Latin termes.
 
+ES — *Allotermes*: Del griego allos (otro, diferente) + latín termes.
+
 种加词 *papillifer*：拉丁文/希腊文 papilli（乳突）+ fer（具），指乳突具
 
 EN — epithet *papillifer*: From papilli (乳突) + fer (具)
+
+ES — epithet *papillifer*: De papilli (papila) + fer (que posee)
 
 <!-- src:S0018 -->
 

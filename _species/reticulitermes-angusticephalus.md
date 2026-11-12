@@ -35,9 +35,13 @@ ES — **窄头散白蚁** (*Reticulitermes angusticephalus*) es una especie del
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *angusticephalus*：拉丁文/希腊文词根「angust」（窄）
 
 EN — epithet *angusticephalus*: From the descriptive term 'angust' (narrow)
+
+ES — epithet *angusticephalus*: Del término descriptivo «angust» (estrecho)
 
 <!-- src:S0018 -->
 

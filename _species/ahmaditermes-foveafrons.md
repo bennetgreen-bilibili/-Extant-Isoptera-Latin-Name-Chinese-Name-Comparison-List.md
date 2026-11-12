@@ -38,9 +38,13 @@ ES — **凹额钝颚白蚁** (*Ahmaditermes foveafrons*) es una especie del gé
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *foveafrons*：拉丁文/希腊文 fovea（凹点）+ frons（额），指凹点额
 
 EN — epithet *foveafrons*: From fovea (凹点) + frons (额)
+
+ES — epithet *foveafrons*: De fovea (punteadura) + frons (frente)
 
 <!-- src:S0018 -->
 

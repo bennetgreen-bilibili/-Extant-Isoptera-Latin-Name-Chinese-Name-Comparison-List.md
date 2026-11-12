@@ -39,9 +39,13 @@ ES — **中间亚种** (*Odontotermes latericius media*) es una subespecie de *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *media*：拉丁文 medius（中间的）
 
 EN — epithet *media*: Latin medius (middle)
+
+ES — epithet *media*: Del latín medius (medio)
 
 <!-- src:S0018 -->
 

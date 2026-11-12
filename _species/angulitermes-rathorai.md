@@ -38,9 +38,13 @@ ES — **拉托拉角白蚁** (*Angulitermes rathorai*) es una especie del géne
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *rathorai*：以人名 Rathore（拉托尔，印度姓氏）命名
 
 EN — epithet *rathorai*: Named after a person "Rathore"
+
+ES — epithet *rathorai*: En honor de una persona «Rathore»
 
 <!-- src:S0018 -->
 

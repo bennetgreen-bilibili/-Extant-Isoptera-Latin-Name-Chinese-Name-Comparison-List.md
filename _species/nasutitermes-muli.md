@@ -38,9 +38,13 @@ ES — **柑橘象白蚁** (*Nasutitermes muli*) es una especie del género *Nas
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *muli*：以地名 Muli（木里，四川）命名
 
 EN — epithet *muli*: Named after the locality Muli, Sichuan, China
+
+ES — epithet *muli*: Por la localidad de Muli, Sichuan, China
 
 <!-- src:S0018 -->
 

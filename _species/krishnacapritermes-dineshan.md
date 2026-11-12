@@ -38,9 +38,13 @@ ES — **迪内尚克里希纳扭白蚁** (*Krishnacapritermes dineshan*) es una
 
 EN — *Krishnacapritermes*: Named after the termite taxonomist K. Krishna + Latin caper (goat) + termes.
 
+ES — *Krishnacapritermes*: En honor del taxónomo de termitas K. Krishna + latín caper (cabra) + termes.
+
 种加词 *dineshan*：以人名 Dineshan 命名
 
 EN — epithet *dineshan*: Named after a person (Dineshan)
+
+ES — epithet *dineshan*: En honor de una persona (Dineshan)
 
 <!-- src:S0018 -->
 

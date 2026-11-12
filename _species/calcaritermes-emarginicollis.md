@@ -35,9 +35,13 @@ ES — **刻颈距白蚁** (*Calcaritermes emarginicollis*) es una especie del g
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *emarginicollis*：拉丁文/希腊文 emargini（凹缘）+ collis（颈），指凹缘颈
 
 EN — epithet *emarginicollis*: From emargini (凹缘) + collis (颈)
+
+ES — epithet *emarginicollis*: De emargini (margen escotado) + collis (cuello)
 
 <!-- src:S0018 -->
 

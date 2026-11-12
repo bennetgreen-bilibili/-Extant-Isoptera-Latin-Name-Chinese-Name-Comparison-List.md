@@ -38,9 +38,13 @@ ES — **索马里弓白蚁** (*Amitermes somaliensis*) es una especie del géne
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *somaliensis*：以地名 索马里 命名
 
 EN — epithet *somaliensis*: Named after Somalia
+
+ES — epithet *somaliensis*: Por Somalia
 
 <!-- src:S0018 -->
 

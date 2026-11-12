@@ -38,9 +38,13 @@ ES — **中间利颚白蚁** (*Cortaritermes intermedius*) es una especie del g
 
 EN — *Cortaritermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Cortaritermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *intermedius*：拉丁文 intermedius（中间的）
 
 EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+ES — epithet *intermedius*: Del latín intermedius (intermedio)
 
 <!-- src:S0018 -->
 

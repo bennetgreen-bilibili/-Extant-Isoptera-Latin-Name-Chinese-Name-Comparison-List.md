@@ -38,9 +38,13 @@ ES — **佩里弓白蚁** (*Amitermes perryi*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *perryi*：以人名 Perry（佩里）命名
 
 EN — epithet *perryi*: Named after Perry
+
+ES — epithet *perryi*: En honor de Perry
 
 <!-- src:S0018 -->
 

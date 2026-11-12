@@ -38,9 +38,13 @@ ES — **似鼹鼠新扭白蚁** (*Neocapritermes talpoides*) es una especie del
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *talpoides*：拉丁文 talpa（鼹鼠）+ 希腊文 -oides（似），似鼹鼠
 
 EN — epithet *talpoides*: Latin talpa (mole) + Greek -oides (like), mole-like
+
+ES — epithet *talpoides*: Latín talpa (topo) + griego -oides (semejante), semejante a un topo
 
 <!-- src:S0018 -->
 

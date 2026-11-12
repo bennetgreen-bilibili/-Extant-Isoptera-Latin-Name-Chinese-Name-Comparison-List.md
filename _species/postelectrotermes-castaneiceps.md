@@ -35,9 +35,13 @@ ES — **栗头后琥珀白蚁** (*Postelectrotermes castaneiceps*) es una espec
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *castaneiceps*：拉丁文/希腊文 castanei（栗）+ ceps（头），指栗头
 
 EN — epithet *castaneiceps*: From castanei (栗) + ceps (头)
+
+ES — epithet *castaneiceps*: De castanei (castaño) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

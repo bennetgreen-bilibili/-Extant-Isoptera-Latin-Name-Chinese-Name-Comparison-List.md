@@ -38,9 +38,13 @@ ES — **短颚锯白蚁** (*Microcerotermes brachygnathus*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *brachygnathus*：拉丁文/希腊文 brachy（短）+ gnathus（颚），指短颚
 
 EN — epithet *brachygnathus*: From brachy (短) + gnathus (颚)
+
+ES — epithet *brachygnathus*: De brachy (corto) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

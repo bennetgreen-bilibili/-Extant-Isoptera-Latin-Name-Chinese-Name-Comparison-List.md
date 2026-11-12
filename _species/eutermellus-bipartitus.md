@@ -38,9 +38,13 @@ ES — **两段小真白蚁** (*Eutermellus bipartitus*) es una especie del gén
 
 EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
 
+ES — *Eutermellus*: Del griego eu- (bien) + termes + diminutivo latino -ellus.
+
 种加词 *bipartitus*：拉丁文 bipartitus（二分的）
 
 EN — epithet *bipartitus*: Latin bipartitus (divided in two)
+
+ES — epithet *bipartitus*: Del latín bipartitus (dividido en dos)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **梨头钝颚白蚁** (*Ahmaditermes pyricephalus*) es una especie, y la
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *pyricephalus*：拉丁文/希腊文词根「pyr」（火）
 
 EN — epithet *pyricephalus*: From the descriptive term 'pyr' (fire)
+
+ES — epithet *pyricephalus*: Del término descriptivo «pyr» (fuego)
 
 <!-- src:S0018 -->
 

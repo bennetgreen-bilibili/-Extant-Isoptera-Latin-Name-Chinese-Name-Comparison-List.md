@@ -38,9 +38,13 @@ ES — **暗翅象白蚁** (*Nasutitermes fuscipennis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *fuscipennis*：拉丁文/希腊文 fusci（暗褐）+ pennis（翅），指暗褐翅
 
 EN — epithet *fuscipennis*: From fusci (暗褐) + pennis (翅)
+
+ES — epithet *fuscipennis*: De fusci (oscuro) + pennis (ala)
 
 <!-- src:S0018 -->
 

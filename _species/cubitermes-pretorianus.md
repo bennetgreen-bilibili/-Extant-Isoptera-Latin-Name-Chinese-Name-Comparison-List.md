@@ -38,9 +38,13 @@ ES — **比勒陀利亚方白蚁** (*Cubitermes pretorianus*) es una especie de
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *pretorianus*：以南非比勒陀利亚（Pretoria）命名
 
 EN — epithet *pretorianus*: Named after Pretoria, South Africa
+
+ES — epithet *pretorianus*: Por Pretoria, Sudáfrica
 
 <!-- src:S0018 -->
 

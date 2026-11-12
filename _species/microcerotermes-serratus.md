@@ -38,9 +38,13 @@ ES — **锯锯白蚁** (*Microcerotermes serratus*) es una especie del género 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *serratus*：拉丁文/希腊文 serr（锯齿）+ atus（具），指锯齿具
 
 EN — epithet *serratus*: From serr (锯齿) + atus (具)
+
+ES — epithet *serratus*: De serr (sierra) + atus (que posee)
 
 <!-- src:S0018 -->
 

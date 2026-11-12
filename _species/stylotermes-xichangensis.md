@@ -35,9 +35,13 @@ ES — **西昌杆白蚁** (*Stylotermes xichangensis*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *xichangensis*：以地名 西昌（四川） 命名
 
 EN — epithet *xichangensis*: Named after the locality Xichang
+
+ES — epithet *xichangensis*: Por la localidad de Xichang
 
 <!-- src:S0018 -->
 

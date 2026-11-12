@@ -38,9 +38,13 @@ ES — **较大白蚁** (*Termes major*) es una especie del género *Termes*, en
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *major*：拉丁文 major（较大）
 
 EN — epithet *major*: Latin major (larger)
+
+ES — epithet *major*: Del latín major (mayor)
 
 <!-- src:S0018 -->
 

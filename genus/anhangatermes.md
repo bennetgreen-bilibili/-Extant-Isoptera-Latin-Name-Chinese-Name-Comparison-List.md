@@ -56,6 +56,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。</p>
 <p class="etymology-en fact-en" lang="en">From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.</p>
+<p class="etymology-es fact-es" lang="es">Del tupí Anhangá (un espíritu mítico del bosque) o del topónimo + -termes.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

@@ -38,9 +38,13 @@ ES — **仁爱无利器白蚁** (*Astalotermes amicus*) es una especie del gén
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *amicus*：拉丁文 amicus（友好的、亲近的）
 
 EN — epithet *amicus*: Latin amicus (friendly)
+
+ES — epithet *amicus*: Del latín amicus (amistoso)
 
 <!-- src:S0018 -->
 

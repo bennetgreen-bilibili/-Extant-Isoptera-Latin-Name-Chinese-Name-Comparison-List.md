@@ -38,9 +38,13 @@ ES — **宽头锯白蚁** (*Microcerotermes laticeps*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
 
 EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+ES — epithet *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 

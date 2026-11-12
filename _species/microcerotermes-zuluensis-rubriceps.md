@@ -39,9 +39,13 @@ ES — **红头亚种** (*Microcerotermes zuluensis rubriceps*) es una subespeci
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *rubriceps*：拉丁文/希腊文 rubri（红）+ ceps（头），指红头
 
 EN — epithet *rubriceps*: From rubri (红) + ceps (头)
+
+ES — epithet *rubriceps*: De rubri (rojo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

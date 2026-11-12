@@ -38,9 +38,13 @@ ES — **弯曲小瘤白蚁** (*Tuberculitermes flexuosus*) es una especie del g
 
 EN — *Tuberculitermes*: From Latin tuberculum (small swelling) + termes.
 
+ES — *Tuberculitermes*: Del latín tuberculum (pequeña protuberancia) + termes.
+
 种加词 *flexuosus*：拉丁文/希腊文 flexu（波曲）+ osus（多、充满），指波曲多、充满
 
 EN — epithet *flexuosus*: From flexu (波曲) + osus (多、充满)
+
+ES — epithet *flexuosus*: De flexu (ondulado) + osus (abundante en)
 
 <!-- src:S0018 -->
 

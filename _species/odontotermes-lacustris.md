@@ -38,9 +38,13 @@ ES — **湖泊土白蚁** (*Odontotermes lacustris*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *lacustris*：拉丁文 lacustris（湖泊的、栖湖的）
 
 EN — epithet *lacustris*: Latin lacustris (of lakes)
+
+ES — epithet *lacustris*: Del latín lacustris (de los lagos)
 
 <!-- src:S0018 -->
 

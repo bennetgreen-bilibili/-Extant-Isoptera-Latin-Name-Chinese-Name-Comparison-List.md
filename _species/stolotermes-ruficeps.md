@@ -35,9 +35,13 @@ ES — **红头胄白蚁** (*Stolotermes ruficeps*) es una especie del género *
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *ruficeps*：拉丁文/希腊文 rufi（红）+ ceps（头），指红头
 
 EN — epithet *ruficeps*: From rufi (红) + ceps (头)
+
+ES — epithet *ruficeps*: De rufi (rojo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

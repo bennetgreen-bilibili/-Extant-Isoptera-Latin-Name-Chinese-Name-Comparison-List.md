@@ -35,9 +35,13 @@ ES — **莫利诺原鼻白蚁** (*Prorhinotermes molinoi*) es una especie del g
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *molinoi*：以人名 Molino（莫利诺）命名
 
 EN — epithet *molinoi*: Named after Molino
+
+ES — epithet *molinoi*: En honor de Molino
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **松球脊突白蚁** (*Cristatitermes pineaformis*) es una especie del 
 
 EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
 
+ES — *Cristatitermes*: Del latín cristatus (crestado) + termes.
+
 种加词 *pineaformis*：拉丁文 pinea（松果）+ -formis（形），松果形
 
 EN — epithet *pineaformis*: Latin pinea (pine-cone) + -formis (shaped), pine-cone-shaped
+
+ES — epithet *pineaformis*: Del latín pinea (piña) + -formis (con forma de), con forma de piña
 
 <!-- src:S0018 -->
 

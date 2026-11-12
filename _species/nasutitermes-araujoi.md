@@ -38,9 +38,13 @@ ES — **阿劳若象白蚁** (*Nasutitermes araujoi*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *araujoi*：以人名 araujo 命名（巴西白蚁学家 R. L. Araujo）
 
 EN — epithet *araujoi*: Named after 巴西白蚁学家 R. L. Araujo
+
+ES — epithet *araujoi*: En honor del termitólogo brasileño R. L. Araujo
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **克里希纳新白蚁** (*Neotermes krishnai*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
 
 EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+ES — epithet *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 <!-- src:S0018 -->
 

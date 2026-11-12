@@ -38,9 +38,13 @@ ES — **三裂基齿白蚁** (*Basidentitermes trilobatus*) es una especie del 
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *trilobatus*：拉丁文 tri-（三）+ lobatus（有叶），三叶
 
 EN — epithet *trilobatus*: Latin tri- (three) + lobatus (lobed), three-lobed
+
+ES — epithet *trilobatus*: Del latín tri- (tres) + lobatus (lobulado), trilobulado
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **无冠等颚白蚁** (*Isognathotermes acristatus*) es una especie del 
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *acristatus*：拉丁文/希腊文 a-（无、不）+ cristatus（冠），指无冠
 
 EN — epithet *acristatus*: From a- (without) + cristatus (冠)
+
+ES — epithet *acristatus*: De a- (sin) + cristatus (cresta)
 
 <!-- src:S0018 -->
 

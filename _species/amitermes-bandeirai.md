@@ -38,9 +38,13 @@ ES — **班代拉弓白蚁** (*Amitermes bandeirai*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *bandeirai*：以人名 Bandeira 命名
 
 EN — epithet *bandeirai*: Named after Bandeira
+
+ES — epithet *bandeirai*: En honor de Bandeira
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **方头角白蚁** (*Angulitermes quadriceps*) es una especie del géner
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *quadriceps*：拉丁文/希腊文 quadri（方）+ ceps（头），指方头
 
 EN — epithet *quadriceps*: From quadri (方) + ceps (头)
+
+ES — epithet *quadriceps*: De quadri (cuadrado) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

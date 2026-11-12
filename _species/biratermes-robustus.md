@@ -38,9 +38,13 @@ ES — **粗壮拜拉白蚁** (*Biratermes robustus*) es la única especie vivie
 
 EN — *Biratermes*: From the name Bira; -termes from Latin termes.
 
+ES — *Biratermes*: Del nombre Bira; -termes, del latín termes.
+
 种加词 *robustus*：拉丁文 robustus（粗壮）
 
 EN — epithet *robustus*: Latin robustus (robust)
+
+ES — epithet *robustus*: Del latín robustus (robusto)
 
 <!-- src:S0018 -->
 

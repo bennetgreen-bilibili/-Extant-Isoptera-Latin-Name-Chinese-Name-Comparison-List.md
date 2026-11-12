@@ -38,9 +38,13 @@ ES — **安哥拉节白蚁** (*Noditermes angolensis*) es una especie del géne
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *angolensis*：以地名 安哥拉 命名
 
 EN — epithet *angolensis*: Named after the locality Angol
+
+ES — epithet *angolensis*: Por la localidad de Angol
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **暗头软白蚁** (*Amalotermes phaeocephalus*) es la única especie vi
 
 EN — *Amalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *phaeocephalus*：拉丁文/希腊文词根「phae」（褐）
 
 EN — epithet *phaeocephalus*: From the descriptive term 'phae' (brown)
+
+ES — epithet *phaeocephalus*: Del término descriptivo «phae» (marrón)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **卡丁异白蚁** (*Heterotermes cardini*) es una especie del género *
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *cardini*：以人名 Cardin 命名
 
 EN — epithet *cardini*: Named after Cardin
+
+ES — epithet *cardini*: En honor de Cardin
 
 <!-- src:S0018 -->
 

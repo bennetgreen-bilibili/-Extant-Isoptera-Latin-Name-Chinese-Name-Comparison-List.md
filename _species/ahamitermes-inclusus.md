@@ -38,9 +38,13 @@ ES — **栖垄无钩白蚁** (*Ahamitermes inclusus*) es una especie del géner
 
 EN — *Ahamitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ahamitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *inclusus*：拉丁文 inclusus（被包含的、封闭的）
 
 EN — epithet *inclusus*: Latin inclusus (enclosed)
+
+ES — epithet *inclusus*: Del latín inclusus (encerrado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **黄山象白蚁** (*Nasutitermes huangshanensis*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *huangshanensis*：以地名 黄山（安徽） 命名
 
 EN — epithet *huangshanensis*: Named after the locality Huangshan
+
+ES — epithet *huangshanensis*: Por la localidad de Huangshan
 
 <!-- src:S0018 -->
 

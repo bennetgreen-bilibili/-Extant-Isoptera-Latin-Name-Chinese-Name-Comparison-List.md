@@ -38,9 +38,13 @@ ES — **宽齿弓白蚁** (*Amitermes latidens*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *latidens*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latidens*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latidens*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

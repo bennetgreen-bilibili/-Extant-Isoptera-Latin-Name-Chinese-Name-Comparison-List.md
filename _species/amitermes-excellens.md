@@ -38,9 +38,13 @@ ES — **优秀弓白蚁** (*Amitermes excellens*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *excellens*：拉丁文 excellens（卓越的）
 
 EN — epithet *excellens*: Latin excellens (excellent)
+
+ES — epithet *excellens*: Del latín excellens (excelente)
 
 <!-- src:S0018 -->
 

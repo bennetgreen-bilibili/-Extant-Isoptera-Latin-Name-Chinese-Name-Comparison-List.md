@@ -35,9 +35,13 @@ ES — **小齿奇白蚁** (*Allotermes denticulatus*) es una especie del géner
 
 EN — *Allotermes*: From Greek allos (other, different) + Latin termes.
 
+ES — *Allotermes*: Del griego allos (otro, diferente) + latín termes.
+
 种加词 *denticulatus*：拉丁文 denticulatus（具细齿的）
 
 EN — epithet *denticulatus*: Latin denticulatus (finely toothed)
+
+ES — epithet *denticulatus*: Del latín denticulatus (finamente dentado)
 
 <!-- src:S0018 -->
 

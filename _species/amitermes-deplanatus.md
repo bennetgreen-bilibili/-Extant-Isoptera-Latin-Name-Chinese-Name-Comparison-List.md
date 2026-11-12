@@ -38,9 +38,13 @@ ES — **变平弓白蚁** (*Amitermes deplanatus*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *deplanatus*：拉丁文/希腊文 deplan（平扁）+ atus（具），指平扁具
 
 EN — epithet *deplanatus*: From deplan (平扁) + atus (具)
+
+ES — epithet *deplanatus*: De deplan (aplanado) + atus (provisto de)
 
 <!-- src:S0018 -->
 

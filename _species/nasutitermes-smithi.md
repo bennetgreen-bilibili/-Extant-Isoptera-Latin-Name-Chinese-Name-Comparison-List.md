@@ -38,9 +38,13 @@ ES — **史密斯象白蚁** (*Nasutitermes smithi*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *smithi*：以人名 smith 命名（昆虫学家 F. Smith）
 
 EN — epithet *smithi*: Named after 昆虫学家 F. Smith
+
+ES — epithet *smithi*: En honor del entomólogo F. Smith
 
 <!-- src:S0018 -->
 

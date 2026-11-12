@@ -35,9 +35,13 @@ ES — **锯齿白蚁** (*Serritermes serrifer*) es la única especie viviente d
 
 EN — *Serritermes*: From Latin serra (saw) + termes.
 
+ES — *Serritermes*: Del latín serra (sierra) + termes.
+
 种加词 *serrifer*：拉丁文/希腊文 serri（锯齿）+ fer（具），指锯齿具
 
 EN — epithet *serrifer*: From serri (锯齿) + fer (具)
+
+ES — epithet *serrifer*: De serri (sierra) + fer (que lleva)
 
 <!-- src:S0018 -->
 

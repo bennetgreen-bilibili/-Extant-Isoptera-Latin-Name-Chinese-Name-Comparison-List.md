@@ -38,9 +38,13 @@ ES — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) es una especie de
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *curticeps*：拉丁文 curtus（短）+ -ceps（头），短头
 
 EN — epithet *curticeps*: Latin curtus (short) + -ceps (head), short-headed
+
+ES — epithet *curticeps*: Del latín curtus (corto) + -ceps (cabeza), de cabeza corta
 
 <!-- src:S0018 -->
 

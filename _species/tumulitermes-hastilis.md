@@ -38,9 +38,13 @@ ES — **甘蔗冢白蚁** (*Tumulitermes hastilis*) es una especie del género 
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *hastilis*：拉丁文 hastilis（矛状的）
 
 EN — epithet *hastilis*: Latin hastilis (of a spear)
+
+ES — epithet *hastilis*: Del latín hastilis (de la lanza)
 
 <!-- src:S0018 -->
 

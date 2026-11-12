@@ -35,9 +35,13 @@ ES — **隆头散白蚁** (*Reticulitermes levatoriceps*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *levatoriceps*：拉丁文/希腊文 levatori（光滑）+ ceps（头），指光滑头
 
 EN — epithet *levatoriceps*: From levatori (光滑) + ceps (头)
+
+ES — epithet *levatoriceps*: De levatori (liso) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

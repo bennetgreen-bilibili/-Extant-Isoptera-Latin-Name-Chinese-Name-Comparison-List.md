@@ -38,9 +38,13 @@ ES — **不同锯白蚁** (*Microcerotermes diversus*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *diversus*：拉丁文 diversus（多样的、不同的）
 
 EN — epithet *diversus*: Latin diversus (diverse)
+
+ES — epithet *diversus*: Del latín diversus (diverso)
 
 <!-- src:S0018 -->
 

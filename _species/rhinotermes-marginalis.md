@@ -37,9 +37,13 @@ ES — **微小鼻白蚁** (*Rhinotermes marginalis*) es una especie del género
 
 EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
 
+ES — *Rhinotermes*: Del griego rhis (nariz) + latín termes, por el soldado nasuto.
+
 种加词 *marginalis*：拉丁文 marginalis（边缘的）
 
 EN — epithet *marginalis*: Latin marginalis (marginal)
+
+ES — epithet *marginalis*: Del latín marginalis (marginal)
 
 <!-- src:S0018 -->
 

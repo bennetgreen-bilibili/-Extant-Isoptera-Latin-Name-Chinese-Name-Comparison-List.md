@@ -38,9 +38,13 @@ ES — **蒂范弯钩白蚁** (*Uncitermes teevani*) es una especie, y la especi
 
 EN — *Uncitermes*: From Latin uncus (hook) + termes.
 
+ES — *Uncitermes*: Del latín uncus (gancho) + termes.
+
 种加词 *teevani*：以 John Tee-Van 命名，纽约动物学会 Kartabo 热带研究站工作人员（William Beebe 的助手），采集了该种唯一的翅成体标本。
 
 EN — epithet *teevani*: Named in honor of Mr. John Tee-Van, who collected the only specimens of winged imagos.
+
+ES — epithet *teevani*: En honor del Sr. John Tee-Van, quien recolectó los únicos ejemplares de imagos alados.
 
 <!-- src:S0018 -->
 

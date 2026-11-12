@@ -38,9 +38,13 @@ ES — **夏氏华象白蚁** (*Sinonasutitermes xiai*) es una especie del géne
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *xiai*：以中国白蚁分类学家夏凯龄（Xia Kailing，中科院上海昆虫研究所）命名。
 
 EN — epithet *xiai*: Named after the Chinese termite taxonomist Kailing Xia.
+
+ES — epithet *xiai*: En honor de Kailing Xia, taxónomo chino de termitas.
 
 <!-- src:S0018 -->
 

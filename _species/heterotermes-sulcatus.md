@@ -35,9 +35,13 @@ ES — **具沟异白蚁** (*Heterotermes sulcatus*) es una especie del género 
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *sulcatus*：拉丁文 sulcatus（具沟的）
 
 EN — epithet *sulcatus*: Latin sulcatus (grooved)
+
+ES — epithet *sulcatus*: Latín sulcatus (surcado)
 
 <!-- src:S0018 -->
 

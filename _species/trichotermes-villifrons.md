@@ -38,9 +38,13 @@ ES — **毛额发白蚁** (*Trichotermes villifrons*) es una especie, y la espe
 
 EN — *Trichotermes*: From Greek thrix (hair) + Latin termes.
 
+ES — *Trichotermes*: Del griego thrix (cabello) + latín termes.
+
 种加词 *villifrons*：拉丁文/希腊文 villi（长毛）+ frons（额），指长毛额
 
 EN — epithet *villifrons*: From villi (长毛) + frons (额)
+
+ES — epithet *villifrons*: De villi (pelo largo) + frons (frente)
 
 <!-- src:S0018 -->
 

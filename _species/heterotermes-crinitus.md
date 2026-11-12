@@ -35,9 +35,13 @@ ES — **密毛异白蚁** (*Heterotermes crinitus*) es una especie del género 
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *crinitus*：拉丁文 crinitus（长毛的）
 
 EN — epithet *crinitus*: Latin crinitus (long-haired)
+
+ES — epithet *crinitus*: Del latín crinitus (de pelo largo)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **简单鳞白蚁** (*Lepidotermes simplex*) es una especie del género *
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *simplex*：拉丁文 simplex（简单的、不分枝的）
 
 EN — epithet *simplex*: Latin simplex (simple)
+
+ES — epithet *simplex*: Del latín simplex (simple)
 
 <!-- src:S0018 -->
 

@@ -39,9 +39,13 @@ ES — **指名亚种** (*Odontotermes latericius latericius*) es una subespecie
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *latericius*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latericius*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latericius*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

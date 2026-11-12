@@ -38,9 +38,13 @@ ES — **小齿土白蚁** (*Odontotermes microdentatus*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *microdentatus*：拉丁文/希腊文 microdent（小）+ atus（具），指小具
 
 EN — epithet *microdentatus*: From microdent (小) + atus (具)
+
+ES — epithet *microdentatus*: De microdent (pequeño) + atus (provisto de)
 
 <!-- src:S0018 -->
 

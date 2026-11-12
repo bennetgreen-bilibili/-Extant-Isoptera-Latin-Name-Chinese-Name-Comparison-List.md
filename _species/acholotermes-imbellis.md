@@ -38,9 +38,13 @@ ES — **和平顺白蚁** (*Acholotermes imbellis*) es una especie del género 
 
 EN — *Acholotermes*: From Greek a- (without) + cholē (bile) + Latin termes.
 
+ES — *Acholotermes*: Del griego a- (sin) + cholē (bilis) + latín termes.
+
 种加词 *imbellis*：拉丁文 in-（无）+ bellum（战争），不好斗的
 
 EN — epithet *imbellis*: Latin in- (without) + bellum (war), unwarlike
+
+ES — epithet *imbellis*: Del latín in- (sin) + bellum (guerra), pacífico
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **荣耀基齿白蚁** (*Basidentitermes mactus*) es una especie del gén
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *mactus*：拉丁文 mactus（受尊崇的、荣耀的）
 
 EN — epithet *mactus*: Latin mactus (honoured)
+
+ES — epithet *mactus*: Del latín mactus (honrado)
 
 <!-- src:S0018 -->
 

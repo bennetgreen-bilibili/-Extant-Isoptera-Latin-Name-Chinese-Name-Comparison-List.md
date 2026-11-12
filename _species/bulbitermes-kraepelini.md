@@ -38,9 +38,13 @@ ES — **克雷珀林瓢白蚁** (*Bulbitermes kraepelini*) es una especie del g
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *kraepelini*：以人名 kraepelin 命名（K. Kraepelin（德国动物学家））
 
 EN — epithet *kraepelini*: Named after K. Kraepelin（德国动物学家）
+
+ES — epithet *kraepelini*: En honor de K. Kraepelin (zoólogo alemán)
 
 <!-- src:S0018 -->
 

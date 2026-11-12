@@ -38,9 +38,13 @@ ES — **姆图瓦卢米鳞白蚁** (*Lepidotermes mtwalumi*) es una especie del
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *mtwalumi*：以地名 Mtwalume（姆特瓦卢梅，南非夸祖鲁-纳塔尔）命名
 
 EN — epithet *mtwalumi*: Named after Mtwalume, KwaZulu-Natal, South Africa
+
+ES — epithet *mtwalumi*: Por Mtwalume, KwaZulu-Natal, Sudáfrica
 
 <!-- src:S0018 -->
 

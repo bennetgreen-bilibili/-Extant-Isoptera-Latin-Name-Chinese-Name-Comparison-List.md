@@ -38,9 +38,13 @@ ES — **勒塞尔沙巴白蚁** (*Sabahitermes leuserensis*) es una especie del
 
 EN — *Sabahitermes*: From Sabah (Malaysia) + termes.
 
+ES — *Sabahitermes*: De Sabah (Malasia) + termes.
+
 种加词 *leuserensis*：以地名 勒塞尔（印度尼西亚） 命名
 
 EN — epithet *leuserensis*: Named after the locality Leuser
+
+ES — epithet *leuserensis*: Por la localidad de Leuser
 
 <!-- src:S0018 -->
 

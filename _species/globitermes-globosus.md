@@ -38,9 +38,13 @@ ES — **球形球白蚁** (*Globitermes globosus*) es una especie, y la especie
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *globosus*：拉丁文 globosus（球状）
 
 EN — epithet *globosus*: Latin globosus (globular)
+
+ES — epithet *globosus*: Del latín globosus (globular)
 
 <!-- src:S0018 -->
 

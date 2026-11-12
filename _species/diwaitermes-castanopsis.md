@@ -38,9 +38,13 @@ ES — **锥栗木象白蚁** (*Diwaitermes castanopsis*) es una especie del gé
 
 EN — *Diwaitermes*: From the place name Diwai; -termes from Latin termes.
 
+ES — *Diwaitermes*: Del topónimo Diwai; -termes, del latín termes.
+
 种加词 *castanopsis*：拉丁文 castanea（栗）+ 希腊文 -opsis（外观），似栗
 
 EN — epithet *castanopsis*: Latin castanea (chestnut) + Greek -opsis (appearance), chestnut-like
+
+ES — epithet *castanopsis*: Del latín castanea (castaña) + griego -opsis (aspecto), semejante a una castaña
 
 <!-- src:S0018 -->
 

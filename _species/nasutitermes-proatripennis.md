@@ -38,9 +38,13 @@ ES — **似黑翅象白蚁** (*Nasutitermes proatripennis*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *proatripennis*：拉丁文/希腊文 proatri（前）+ pennis（翅），指前翅
 
 EN — epithet *proatripennis*: From proatri (前) + pennis (翅)
+
+ES — epithet *proatripennis*: De proatri (delantero) + pennis (ala)
 
 <!-- src:S0018 -->
 

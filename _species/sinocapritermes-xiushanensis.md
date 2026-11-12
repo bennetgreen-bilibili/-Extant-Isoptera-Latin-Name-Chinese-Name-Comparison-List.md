@@ -38,9 +38,13 @@ ES — **秀山华扭白蚁** (*Sinocapritermes xiushanensis*) es una especie de
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *xiushanensis*：以地名 秀山（重庆） 命名
 
 EN — epithet *xiushanensis*: Named after the locality Xiushan
+
+ES — epithet *xiushanensis*: Por la localidad de Xiushan
 
 <!-- src:S0018 -->
 

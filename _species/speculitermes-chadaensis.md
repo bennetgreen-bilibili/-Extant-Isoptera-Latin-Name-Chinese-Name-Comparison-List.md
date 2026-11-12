@@ -38,9 +38,13 @@ ES — **查达稀白蚁** (*Speculitermes chadaensis*) es una especie del géne
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *chadaensis*：以地名 Chada 命名
 
 EN — epithet *chadaensis*: Named after the locality Chada
+
+ES — epithet *chadaensis*: Por la localidad de Chada
 
 <!-- src:S0018 -->
 

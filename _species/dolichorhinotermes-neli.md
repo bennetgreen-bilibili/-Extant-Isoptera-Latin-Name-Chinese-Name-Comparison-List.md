@@ -35,9 +35,13 @@ ES — **内尔狭鼻白蚁** (*Dolichorhinotermes neli*) es una especie del gé
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *neli*：以人名 Nel（内尔，南非姓氏）命名
 
 EN — epithet *neli*: Named after Nel
+
+ES — epithet *neli*: En honor de Nel
 
 <!-- src:S0018 -->
 

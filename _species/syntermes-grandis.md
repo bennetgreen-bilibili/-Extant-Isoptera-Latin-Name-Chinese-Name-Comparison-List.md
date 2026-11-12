@@ -40,9 +40,13 @@ ES — **大聚白蚁** (*Syntermes grandis*) es una especie del género *Synter
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *grandis*：拉丁文 grandis（巨大）
 
 EN — epithet *grandis*: Latin grandis (great)
+
+ES — epithet *grandis*: Del latín grandis (grande)
 
 <!-- src:S0018 -->
 

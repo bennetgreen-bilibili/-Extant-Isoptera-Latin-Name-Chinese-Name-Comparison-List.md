@@ -38,9 +38,13 @@ ES — **长头近扭白蚁** (*Pericapritermes dolichocephalus*) es una especie
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *dolichocephalus*：希腊文 dolichos（长）+ kephalē（头），长头
 
 EN — epithet *dolichocephalus*: Greek dolichos (long) + kephalē (head), long-headed
+
+ES — epithet *dolichocephalus*: Del griego dolichos (largo) + kephalē (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

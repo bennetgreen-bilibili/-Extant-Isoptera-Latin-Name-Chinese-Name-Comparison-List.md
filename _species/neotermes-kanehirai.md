@@ -35,9 +35,13 @@ ES — **凯恩希拉新白蚁** (*Neotermes kanehirai*) es una especie del gén
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *kanehirai*：以人名 Ryōzō Kanehira（金平亮三，日本植物学家）命名
 
 EN — epithet *kanehirai*: Named after Ryōzō Kanehira
+
+ES — epithet *kanehirai*: En honor de Ryōzō Kanehira
 
 <!-- src:S0018 -->
 

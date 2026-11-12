@@ -38,9 +38,13 @@ ES — **活跃薄嘴白蚁** (*Tenuirostritermes strenuus*) es una especie del 
 
 EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
 
+ES — *Tenuirostritermes*: Del latín tenuis (delgado) + rostrum (pico) + termes.
+
 种加词 *strenuus*：拉丁文 strenuus（强健的、奋发的）
 
 EN — epithet *strenuus*: Latin strenuus (vigorous)
+
+ES — epithet *strenuus*: Latín strenuus (vigoroso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **橘黄小白蚁** (*Microtermes luteus*) es una especie del género *Mi
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *luteus*：拉丁文 luteus（深黄）
 
 EN — epithet *luteus*: Latin luteus (yellow)
+
+ES — epithet *luteus*: Del latín luteus (amarillo)
 
 <!-- src:S0018 -->
 

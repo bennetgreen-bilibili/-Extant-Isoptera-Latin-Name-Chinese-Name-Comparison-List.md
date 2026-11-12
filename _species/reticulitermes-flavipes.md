@@ -37,9 +37,13 @@ ES — **北美散白蚁** (*Reticulitermes flavipes*) es una especie, y la espe
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *flavipes*：拉丁文/希腊文 flavi（黄）+ pes（足），指黄足
 
 EN — epithet *flavipes*: From flavi (黄) + pes (足)
+
+ES — epithet *flavipes*: De flavi (amarillo) + pes (pie)
 
 <!-- src:S0018 -->
 

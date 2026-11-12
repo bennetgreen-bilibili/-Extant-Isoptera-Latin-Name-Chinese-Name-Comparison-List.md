@@ -38,9 +38,13 @@ ES — **显长象白蚁** (*Nasutitermes longiarticulatus*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longiarticulatus*：拉丁文/希腊文 longiarticul（长）+ atus（具），指长具
 
 EN — epithet *longiarticulatus*: From longiarticul (长) + atus (具)
+
+ES — epithet *longiarticulatus*: De longiarticul (largo) + atus (provisto de)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **平颏散白蚁** (*Reticulitermes planimentus*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *planimentus*：拉丁文 planus（平）+ mentum（颏），平颏
 
 EN — epithet *planimentus*: Latin planus (flat) + mentum (chin), flat-chinned
+
+ES — epithet *planimentus*: Del latín planus (plano) + mentum (mentón), de mentón plano
 
 <!-- src:S0018 -->
 

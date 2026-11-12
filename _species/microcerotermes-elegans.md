@@ -38,9 +38,13 @@ ES — **苗条锯白蚁** (*Microcerotermes elegans*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *elegans*：拉丁文 elegans（优雅的）
 
 EN — epithet *elegans*: Latin elegans (elegant)
+
+ES — epithet *elegans*: Del latín elegans (elegante)
 
 <!-- src:S0018 -->
 

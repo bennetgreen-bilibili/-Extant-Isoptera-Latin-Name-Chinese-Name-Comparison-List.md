@@ -38,9 +38,13 @@ ES — **刚果非锥白蚁** (*Afrosubulitermes congoensis*) es la única espec
 
 EN — *Afrosubulitermes*: From Latin Afro- (Africa) + subula (awl) + termes.
 
+ES — *Afrosubulitermes*: Del latín Afro- (África) + subula (lezna) + termes.
+
 种加词 *congoensis*：地名：刚果
 
 EN — epithet *congoensis*: After Congo
+
+ES — epithet *congoensis*: Por el Congo
 
 <!-- src:S0018 -->
 

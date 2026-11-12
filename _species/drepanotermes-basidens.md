@@ -38,9 +38,13 @@ ES — **基齿镰白蚁** (*Drepanotermes basidens*) es una especie del género
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *basidens*：拉丁文/希腊文词根「bas」（基）
 
 EN — epithet *basidens*: From the descriptive term 'bas' (base)
+
+ES — epithet *basidens*: Del término descriptivo «bas» (base)
 
 <!-- src:S0018 -->
 

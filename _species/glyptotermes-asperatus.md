@@ -35,9 +35,13 @@ ES — **粗糙树白蚁** (*Glyptotermes asperatus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *asperatus*：拉丁文/希腊文 asper（粗糙）+ atus（具），指粗糙具
 
 EN — epithet *asperatus*: From asper (粗糙) + atus (具)
+
+ES — epithet *asperatus*: De asper (áspero) + atus (que posee)
 
 <!-- src:S0018 -->
 

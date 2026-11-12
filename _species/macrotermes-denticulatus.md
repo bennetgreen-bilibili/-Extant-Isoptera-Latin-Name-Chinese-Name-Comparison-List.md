@@ -38,9 +38,13 @@ ES — **细齿大白蚁** (*Macrotermes denticulatus*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *denticulatus*：拉丁文 denticulatus（具细齿的）
 
 EN — epithet *denticulatus*: Latin denticulatus (finely toothed)
+
+ES — epithet *denticulatus*: Del latín denticulatus (finamente dentado)
 
 <!-- src:S0018 -->
 

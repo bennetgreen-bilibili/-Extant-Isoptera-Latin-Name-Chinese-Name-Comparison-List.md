@@ -38,9 +38,13 @@ ES — **高山多铲白蚁** (*Polyspathotermes montanus*) es una especie del g
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *montanus*：拉丁文 montanus（山地的）
 
 EN — epithet *montanus*: Latin montanus (mountain-dwelling)
+
+ES — epithet *montanus*: Del latín montanus (que habita en montañas)
 
 <!-- src:S0018 -->
 

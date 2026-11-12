@@ -38,9 +38,13 @@ ES — **庆界象白蚁** (*Nasutitermes qingjiensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *qingjiensis*：以地名 清江（湖北） 命名
 
 EN — epithet *qingjiensis*: Named after the locality Qingj
+
+ES — epithet *qingjiensis*: Por la localidad de Qingj
 
 <!-- src:S0018 -->
 

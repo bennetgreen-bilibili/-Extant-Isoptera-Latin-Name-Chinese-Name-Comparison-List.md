@@ -38,9 +38,13 @@ ES — **细瘦弓白蚁** (*Amitermes gracilis*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *gracilis*：拉丁文 gracilis（细长、纤细）
 
 EN — epithet *gracilis*: Latin gracilis (slender)
+
+ES — epithet *gracilis*: Del latín gracilis (esbelto)
 
 <!-- src:S0018 -->
 

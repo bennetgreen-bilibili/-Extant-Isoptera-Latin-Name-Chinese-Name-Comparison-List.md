@@ -35,9 +35,13 @@ ES — **黑色树白蚁** (*Glyptotermes niger*) es una especie del género *Gl
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *niger*：拉丁文 niger（黑）
 
 EN — epithet *niger*: Latin niger (black)
+
+ES — epithet *niger*: Del latín niger (negro)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **不变无甲白蚁** (*Anenteotermes improelatans*) es una especie del 
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *improelatans*：拉丁文/希腊文 im-（无、不）+ proelatans（前），指无前
 
 EN — epithet *improelatans*: From im- (without) + proelatans (前)
+
+ES — epithet *improelatans*: De im- (sin) + proelatans (delante)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **拉贾锯白蚁** (*Microcerotermes raja*) es una especie del género *
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *raja*：梵文 raja（王、首领）
 
 EN — epithet *raja*: Sanskrit raja (king)
+
+ES — epithet *raja*: Del sánscrito raja (rey)
 
 <!-- src:S0018 -->
 

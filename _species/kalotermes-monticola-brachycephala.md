@@ -36,9 +36,13 @@ ES — **短头亚种** (*Kalotermes monticola brachycephala*) es una subespecie
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *brachycephala*：希腊文 brachys（短）＋kephalē（头），指短头的
 
 EN — epithet *brachycephala*: Greek brachys (short) + kephalē (head): short-headed
+
+ES — epithet *brachycephala*: Del griego brachys (corto) + kephalē (cabeza): de cabeza corta
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **细瘦安的列斯白蚁** (*Antillitermes subtilis*) es la única espe
 
 EN — *Antillitermes*: From the Antilles + termes.
 
+ES — *Antillitermes*: De las Antillas + termes.
+
 种加词 *subtilis*：拉丁文/希腊文 subt（下、近）+ ilis（相关），指下、近相关
 
 EN — epithet *subtilis*: From subt (下、近) + ilis (相关)
+
+ES — epithet *subtilis*: De subt (abajo, cerca) + ilis (relativo a)
 
 <!-- src:S0018 -->
 

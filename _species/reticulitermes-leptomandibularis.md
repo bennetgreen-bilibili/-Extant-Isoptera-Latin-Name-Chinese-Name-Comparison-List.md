@@ -35,9 +35,13 @@ ES — **细颚散白蚁** (*Reticulitermes leptomandibularis*) es una especie d
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *leptomandibularis*：拉丁文/希腊文 leptomandibul（细）+ aris（相关），指细相关
 
 EN — epithet *leptomandibularis*: From leptomandibul (细) + aris (相关)
+
+ES — epithet *leptomandibularis*: De leptomandibul (fino) + aris (relativo a)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **似具毛前扭白蚁** (*Procapritermes prosetiger*) es una especie de
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *prosetiger*：拉丁文/希腊文 proseti（前）+ ger（具），指前具
 
 EN — epithet *prosetiger*: From proseti (前) + ger (具)
+
+ES — epithet *prosetiger*: De proseti (delantero) + ger (que posee)
 
 <!-- src:S0018 -->
 

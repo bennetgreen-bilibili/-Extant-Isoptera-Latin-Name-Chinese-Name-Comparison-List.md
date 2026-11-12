@@ -40,9 +40,13 @@ ES — **林鸮小白蚁** (*Microtermes aluco*) es una especie del género *Mic
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *aluco*：拉丁文 aluco（猫头鹰）
 
 EN — epithet *aluco*: Latin aluco (an owl)
+
+ES — epithet *aluco*: Del latín aluco (un búho)
 
 <!-- src:S0018 -->
 

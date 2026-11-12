@@ -38,9 +38,13 @@ ES — **卵形角象白蚁** (*Cornitermes ovatus*) es una especie del género 
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *ovatus*：拉丁文 ovatus（卵形）
 
 EN — epithet *ovatus*: Latin ovatus (oval)
+
+ES — epithet *ovatus*: Del latín ovatus (ovalado)
 
 <!-- src:S0018 -->
 

@@ -39,9 +39,13 @@ ES — **指名亚种** (*Globitermes globosus globosus*) es una subespecie de *
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *globosus*：拉丁文 globosus（球状）
 
 EN — epithet *globosus*: Latin globosus (globular)
+
+ES — epithet *globosus*: Del latín globosus (globular)
 
 <!-- src:S0018 -->
 

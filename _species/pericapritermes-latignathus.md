@@ -38,9 +38,13 @@ ES — **多毛近扭白蚁** (*Pericapritermes latignathus*) es una especie del
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *latignathus*：拉丁文 latus（宽）+ 希腊文 gnathos（颚），宽颚
 
 EN — epithet *latignathus*: Latin latus (broad) + Greek gnathos (jaw), broad-jawed
+
+ES — epithet *latignathus*: Del latín latus (ancho) + del griego gnathos (mandíbula), de mandíbulas anchas
 
 <!-- src:S0018 -->
 

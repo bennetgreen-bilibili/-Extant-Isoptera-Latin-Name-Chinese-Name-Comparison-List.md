@@ -38,9 +38,13 @@ ES — **毛头象白蚁** (*Nasutitermes hirticeps*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *hirticeps*：拉丁文 hirtus（多毛）+ -ceps（头），毛头
 
 EN — epithet *hirticeps*: Latin hirtus (hairy) + -ceps (head), hairy-headed
+
+ES — epithet *hirticeps*: Del latín hirtus (hirsuto) + -ceps (cabeza), de cabeza hirsuta
 
 <!-- src:S0018 -->
 

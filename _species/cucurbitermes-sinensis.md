@@ -38,9 +38,13 @@ ES — **中华葫白蚁** (*Cucurbitermes sinensis*) es una especie del género
 
 EN — *Cucurbitermes*: From Latin cucurbita (gourd) + termes.
 
+ES — *Cucurbitermes*: Del latín cucurbita (calabaza) + termes.
+
 种加词 *sinensis*：拉丁文 Sinensis（中国的）
 
 EN — epithet *sinensis*: Latin Sinensis (of China)
+
+ES — epithet *sinensis*: Del latín Sinensis (de China)
 
 <!-- src:S0018 -->
 

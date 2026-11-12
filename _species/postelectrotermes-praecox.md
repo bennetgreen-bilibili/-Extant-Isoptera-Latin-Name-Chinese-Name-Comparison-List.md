@@ -37,9 +37,13 @@ ES — **早熟后琥珀白蚁** (*Postelectrotermes praecox*) es una especie, y
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
+ES — *Postelectrotermes*: Del latín post (después) + griego ēlektron (ámbar) + termes (posible alusión a fósiles en ámbar).
+
 种加词 *praecox*：拉丁文 praecox（早熟的）
 
 EN — epithet *praecox*: Latin praecox (precocious)
+
+ES — epithet *praecox*: Del latín praecox (precoz)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **波额堆砂白蚁** (*Cryptotermes cymatofrons*) es una especie del g�
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *cymatofrons*：希腊文 kyma（波）+ 拉丁文 frons（额），波额
 
 EN — epithet *cymatofrons*: Greek kyma (wave) + Latin frons (front), wavy-fronted
+
+ES — epithet *cymatofrons*: Del griego kyma (ola) + del latín frons (frente), de frente ondulada
 
 <!-- src:S0018 -->
 

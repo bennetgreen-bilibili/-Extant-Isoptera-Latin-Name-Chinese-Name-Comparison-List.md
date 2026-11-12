@@ -40,9 +40,13 @@ ES — **树荫突扭白蚁** (*Dicuspiditermes nemorosus*) es una especie del g
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *nemorosus*：拉丁文 nemorosus（多林的）
 
 EN — epithet *nemorosus*: Latin nemorosus (wooded)
+
+ES — epithet *nemorosus*: Del latín nemorosus (boscoso)
 
 <!-- src:S0018 -->
 

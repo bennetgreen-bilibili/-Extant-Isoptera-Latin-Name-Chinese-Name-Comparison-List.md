@@ -38,9 +38,13 @@ ES — **似森林伪扭白蚁** (*Pseudocapritermes parasilvaticus*) es una esp
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *parasilvaticus*：希腊文 para（旁、近）＋拉丁文 silvaticus（森林的），指近森林的
 
 EN — epithet *parasilvaticus*: Greek para (beside) + Latin silvaticus (of the forest): near forests
+
+ES — epithet *parasilvaticus*: Del griego para (al lado) + latín silvaticus (del bosque): cercano a los bosques
 
 <!-- src:S0018 -->
 

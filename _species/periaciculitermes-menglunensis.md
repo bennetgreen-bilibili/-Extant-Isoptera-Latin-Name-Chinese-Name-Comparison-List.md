@@ -38,9 +38,13 @@ ES — **勐仑近针白蚁** (*Periaciculitermes menglunensis*) es la única es
 
 EN — *Periaciculitermes*: From Greek peri- (around) + Latin acicula (little pin) + termes.
 
+ES — *Periaciculitermes*: Del griego peri- (alrededor) + latín acicula (alfiler pequeño) + termes.
+
 种加词 *menglunensis*：以地名 勐仑（云南） 命名
 
 EN — epithet *menglunensis*: Named after the locality Menglun
+
+ES — epithet *menglunensis*: Por la localidad de Menglun
 
 <!-- src:S0018 -->
 

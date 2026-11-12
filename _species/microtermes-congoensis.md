@@ -38,9 +38,13 @@ ES — **刚果小白蚁** (*Microtermes congoensis*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *congoensis*：地名：刚果
 
 EN — epithet *congoensis*: After Congo
+
+ES — epithet *congoensis*: Por el Congo
 
 <!-- src:S0018 -->
 

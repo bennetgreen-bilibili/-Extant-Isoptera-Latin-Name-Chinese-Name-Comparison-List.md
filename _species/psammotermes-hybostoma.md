@@ -37,9 +37,13 @@ ES — **弯嘴沙白蚁** (*Psammotermes hybostoma*) es una especie, y la espec
 
 EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
 
+ES — *Psammotermes*: Del griego psammos (arena) + latín termes.
+
 种加词 *hybostoma*：希腊文 hybos（驼背）+ stoma（口），驼口
 
 EN — epithet *hybostoma*: Greek hybos (hump) + stoma (mouth), humped-mouthed
+
+ES — epithet *hybostoma*: Del griego hybos (joroba) + stoma (boca), de boca jorobada
 
 <!-- src:S0018 -->
 

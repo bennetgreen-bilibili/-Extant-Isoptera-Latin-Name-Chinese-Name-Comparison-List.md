@@ -38,9 +38,13 @@ ES — **方头弓白蚁** (*Amitermes quadratus*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *quadratus*：拉丁文 quadratus（方形）
 
 EN — epithet *quadratus*: Latin quadratus (square)
+
+ES — epithet *quadratus*: Del latín quadratus (cuadrado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **树林锯白蚁** (*Microcerotermes nemoralis*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *nemoralis*：拉丁文 nemoralis（森林的、栖林的）
 
 EN — epithet *nemoralis*: Latin nemoralis (of woods)
+
+ES — epithet *nemoralis*: Del latín nemoralis (de los bosques)
 
 <!-- src:S0018 -->
 

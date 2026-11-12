@@ -35,9 +35,13 @@ ES — **希莫加新白蚁** (*Neotermes shimogensis*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *shimogensis*：以地名 希莫加（印度） 命名
 
 EN — epithet *shimogensis*: Named after the locality Shimog
+
+ES — epithet *shimogensis*: Por la localidad de Shimoga
 
 <!-- src:S0018 -->
 

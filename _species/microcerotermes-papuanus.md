@@ -38,9 +38,13 @@ ES — **巴布亚锯白蚁** (*Microcerotermes papuanus*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *papuanus*：地名：巴布亚（新几内亚）
 
 EN — epithet *papuanus*: After Papua (New Guinea)
+
+ES — epithet *papuanus*: Por Papúa (Nueva Guinea)
 
 <!-- src:S0018 -->
 

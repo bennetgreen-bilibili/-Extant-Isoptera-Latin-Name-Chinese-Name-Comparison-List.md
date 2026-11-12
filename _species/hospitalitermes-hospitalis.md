@@ -38,9 +38,13 @@ ES — **寄宿须白蚁** (*Hospitalitermes hospitalis*) es una especie, y la e
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *hospitalis*：拉丁文 hospitalis（好客的、与宿主有关的）
 
 EN — epithet *hospitalis*: Latin hospitalis (hospitable, of a host)
+
+ES — epithet *hospitalis*: Del latín hospitalis (hospitalario, del huésped)
 
 <!-- src:S0018 -->
 

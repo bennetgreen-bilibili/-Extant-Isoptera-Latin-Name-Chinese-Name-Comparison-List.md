@@ -38,9 +38,13 @@ ES — **长头无毛白蚁** (*Apilitermes longiceps*) es la única especie viv
 
 EN — *Apilitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apilitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *longiceps*：拉丁文 longus（长）+ -ceps（头），长头
 
 EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
+
+ES — epithet *longiceps*: Del latín longus (largo) + -ceps (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

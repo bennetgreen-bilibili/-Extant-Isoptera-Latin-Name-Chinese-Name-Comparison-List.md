@@ -38,9 +38,13 @@ ES — **短背胸白蚁** (*Thoracotermes brevinotus*) es una especie del géne
 
 EN — *Thoracotermes*: From Greek thōrax (thorax) + Latin termes.
 
+ES — *Thoracotermes*: Del griego thōrax (tórax) + latín termes.
+
 种加词 *brevinotus*：拉丁文/希腊文 brevi（短）+ notus（背），指短背
 
 EN — epithet *brevinotus*: From brevi (短) + notus (背)
+
+ES — epithet *brevinotus*: De brevi (corto) + notus (dorso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **多毛魔白蚁** (*Anhangatermes pilosus*) es una especie del género 
 
 EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
 
+ES — *Anhangatermes*: Del tupí Anhangá (un espíritu mítico del bosque) o del topónimo + -termes.
+
 种加词 *pilosus*：拉丁文 pilosus（多毛）
 
 EN — epithet *pilosus*: Latin pilosus (hairy)
+
+ES — epithet *pilosus*: Del latín pilosus (peludo)
 
 <!-- src:S0018 -->
 

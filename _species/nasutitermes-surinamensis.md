@@ -38,9 +38,13 @@ ES — **苏里南象白蚁** (*Nasutitermes surinamensis*) es una especie del g
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *surinamensis*：以地名 苏里南 命名
 
 EN — epithet *surinamensis*: Named after the locality Surinam
+
+ES — epithet *surinamensis*: Por la localidad de Surinam
 
 <!-- src:S0018 -->
 

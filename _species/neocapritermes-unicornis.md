@@ -38,9 +38,13 @@ ES — **独角新扭白蚁** (*Neocapritermes unicornis*) es una especie del g�
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *unicornis*：拉丁文/希腊文 uni（单）+ cornis（角），指单角
 
 EN — epithet *unicornis*: From uni (单) + cornis (角)
+
+ES — epithet *unicornis*: De uni (uno) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

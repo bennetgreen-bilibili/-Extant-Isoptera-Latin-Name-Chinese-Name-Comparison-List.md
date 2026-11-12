@@ -38,9 +38,13 @@ ES — **来兴土白蚁** (*Odontotermes takensis*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *takensis*：以地名 Tak（达府，泰国）命名
 
 EN — epithet *takensis*: Named after the locality Tak (Thailand)
+
+ES — epithet *takensis*: Por la localidad de Tak (Tailandia)
 
 <!-- src:S0018 -->
 

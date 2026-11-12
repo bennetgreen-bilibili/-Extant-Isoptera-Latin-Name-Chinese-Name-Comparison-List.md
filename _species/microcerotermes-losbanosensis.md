@@ -38,9 +38,13 @@ ES — **洛斯巴尼奥斯锯白蚁** (*Microcerotermes losbanosensis*) es una 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *losbanosensis*：以地名 Los Baños（洛斯巴尼奥斯，菲律宾）命名
 
 EN — epithet *losbanosensis*: Named after Los Baños, Philippines
+
+ES — epithet *losbanosensis*: Por Los Baños, Filipinas
 
 <!-- src:S0018 -->
 

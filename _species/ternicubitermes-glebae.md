@@ -38,9 +38,13 @@ ES — **土块三方白蚁** (*Ternicubitermes glebae*) es una especie del gén
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *glebae*：拉丁文 gleba（土块）
 
 EN — epithet *glebae*: From Latin gleba (clod of earth)
+
+ES — epithet *glebae*: Del latín gleba (terrón de tierra)
 
 <!-- src:S0018 -->
 

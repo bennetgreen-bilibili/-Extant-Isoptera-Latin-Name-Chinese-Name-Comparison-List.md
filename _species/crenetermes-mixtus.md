@@ -38,9 +38,13 @@ ES — **混杂刻痕白蚁** (*Crenetermes mixtus*) es una especie del género 
 
 EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Crenetermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *mixtus*：拉丁文 mixtus（混合的）
 
 EN — epithet *mixtus*: Latin mixtus (mixed)
+
+ES — epithet *mixtus*: Del latín mixtus (mezclado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **微齿三方白蚁** (*Ternicubitermes subcrenulatus*) es una especie d
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *subcrenulatus*：拉丁文/希腊文 subcrenul（下、近）+ atus（具），指下、近具
 
 EN — epithet *subcrenulatus*: From subcrenul (下、近) + atus (具)
+
+ES — epithet *subcrenulatus*: De subcrenul (abajo, cerca) + atus (que tiene)
 
 <!-- src:S0018 -->
 

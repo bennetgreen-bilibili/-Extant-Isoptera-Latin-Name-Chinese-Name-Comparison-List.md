@@ -35,9 +35,13 @@ ES — **山龙眼木白蚁** (*Kalotermes banksiae*) es una especie del género
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *banksiae*：以人名 banksi 命名（美国昆虫学家 N. Banks）
 
 EN — epithet *banksiae*: Named after 美国昆虫学家 N. Banks
+
+ES — epithet *banksiae*: En honor del entomólogo estadounidense N. Banks
 
 <!-- src:S0018 -->
 

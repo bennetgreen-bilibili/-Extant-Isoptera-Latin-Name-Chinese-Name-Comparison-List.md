@@ -35,9 +35,13 @@ ES — **阿哈默德杆白蚁** (*Stylotermes ahmadi*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *ahmadi*：以人名 ahmad 命名（巴基斯坦白蚁学家 M. Ahmad）
 
 EN — epithet *ahmadi*: Named after 巴基斯坦白蚁学家 M. Ahmad
+
+ES — epithet *ahmadi*: En honor del termitólogo paquistaní M. Ahmad
 
 <!-- src:S0018 -->
 

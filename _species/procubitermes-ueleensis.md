@@ -38,9 +38,13 @@ ES — **韦莱原方白蚁** (*Procubitermes ueleensis*) es una especie del gé
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *ueleensis*：以地名 韦莱（刚果） 命名
 
 EN — epithet *ueleensis*: Named after the locality Uele
+
+ES — epithet *ueleensis*: Por la localidad de Uele
 
 <!-- src:S0018 -->
 

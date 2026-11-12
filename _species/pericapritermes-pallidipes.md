@@ -38,9 +38,13 @@ ES — **灰足近扭白蚁** (*Pericapritermes pallidipes*) es una especie del 
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *pallidipes*：拉丁文/希腊文 pallidi（苍白）+ pes（足），指苍白足
 
 EN — epithet *pallidipes*: From pallidi (苍白) + pes (足)
+
+ES — epithet *pallidipes*: De pallidi (pálido) + pes (pie)
 
 <!-- src:S0018 -->
 

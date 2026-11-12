@@ -38,9 +38,13 @@ ES — **可爱小白蚁** (*Microtermes lepidus*) es una especie del género *M
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *lepidus*：拉丁文 lepidus（雅致的、迷人的）
 
 EN — epithet *lepidus*: Latin lepidus (charming)
+
+ES — epithet *lepidus*: Del latín lepidus (encantador)
 
 <!-- src:S0018 -->
 

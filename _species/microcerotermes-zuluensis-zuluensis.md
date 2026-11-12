@@ -41,9 +41,13 @@ ES — **指名亚种** (*Microcerotermes zuluensis zuluensis*) es una subespeci
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *zuluensis*：以地名 祖鲁-纳塔尔（南非） 命名
 
 EN — epithet *zuluensis*: Named after the locality Zulu
+
+ES — epithet *zuluensis*: Por la localidad de Zulu
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **莽山散白蚁** (*Reticulitermes mangshanensis*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *mangshanensis*：以地名 莽山（湖南） 命名
 
 EN — epithet *mangshanensis*: Named after the locality Mangshan
+
+ES — epithet *mangshanensis*: Por la localidad de Mangshan
 
 <!-- src:S0018 -->
 

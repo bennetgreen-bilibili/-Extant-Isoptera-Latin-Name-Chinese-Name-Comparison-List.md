@@ -38,9 +38,13 @@ ES — **格拉塞象牙白蚁** (*Eburnitermes grassei*) es la única especie v
 
 EN — *Eburnitermes*: From Latin eburneus (ivory-white) + termes.
 
+ES — *Eburnitermes*: Del latín eburneus (blanco como el marfil) + termes.
+
 种加词 *grassei*：以人名 Grassé 命名（法国动物学家 P.-P. Grassé）
 
 EN — epithet *grassei*: Named after the zoologist P.-P. Grassé
+
+ES — epithet *grassei*: En honor del zoólogo P.-P. Grassé
 
 <!-- src:S0018 -->
 

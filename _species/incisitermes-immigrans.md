@@ -37,9 +37,13 @@ ES — **移境楹白蚁** (*Incisitermes immigrans*) es una especie del género
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *immigrans*：拉丁文 immigrans（移入的）
 
 EN — epithet *immigrans*: Latin immigrans (immigrating)
+
+ES — epithet *immigrans*: Del latín immigrans (que inmigra)
 
 <!-- src:S0018 -->
 

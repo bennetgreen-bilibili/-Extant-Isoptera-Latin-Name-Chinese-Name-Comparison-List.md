@@ -38,9 +38,13 @@ ES — **沃克象白蚁** (*Nasutitermes walkeri*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *walkeri*：以人名 walker 命名（英国昆虫学家 F. Walker）
 
 EN — epithet *walkeri*: Named after 英国昆虫学家 F. Walker
+
+ES — epithet *walkeri*: En honor de F. Walker, entomólogo británico
 
 <!-- src:S0018 -->
 

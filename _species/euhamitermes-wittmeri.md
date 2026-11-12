@@ -38,9 +38,13 @@ ES — **威特默亮白蚁** (*Euhamitermes wittmeri*) es una especie del géne
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *wittmeri*：以人名 Wittmer（W. Wittmer，瑞士昆虫学家） 命名
 
 EN — epithet *wittmeri*: Named after W. Wittmer (Swiss entomologist)
+
+ES — epithet *wittmeri*: En honor de W. Wittmer (entomólogo suizo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **新加坡瓢白蚁** (*Bulbitermes singaporiensis*) es una especie del 
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *singaporiensis*：以地名 Singapore（新加坡）命名
 
 EN — epithet *singaporiensis*: Named after Singapore
+
+ES — epithet *singaporiensis*: Por Singapur
 
 <!-- src:S0018 -->
 

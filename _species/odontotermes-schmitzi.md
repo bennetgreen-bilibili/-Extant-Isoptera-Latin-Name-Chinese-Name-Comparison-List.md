@@ -38,9 +38,13 @@ ES — **施米茨土白蚁** (*Odontotermes schmitzi*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *schmitzi*：以人名 Schmitz 命名
 
 EN — epithet *schmitzi*: Named after a person (Schmitz)
+
+ES — epithet *schmitzi*: En honor de una persona (Schmitz)
 
 <!-- src:S0018 -->
 

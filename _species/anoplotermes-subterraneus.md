@@ -38,9 +38,13 @@ ES — **地下解甲白蚁** (*Anoplotermes subterraneus*) es una especie del g
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *subterraneus*：拉丁文 subterraneus（地下的）
 
 EN — epithet *subterraneus*: Latin subterraneus (subterranean)
+
+ES — epithet *subterraneus*: Latín subterraneus (subterráneo)
 
 <!-- src:S0018 -->
 

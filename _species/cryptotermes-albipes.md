@@ -35,9 +35,13 @@ ES — **白足堆砂白蚁** (*Cryptotermes albipes*) es una especie del géner
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *albipes*：拉丁文/希腊文 albi（白）+ pes（足），指白足
 
 EN — epithet *albipes*: From albi (白) + pes (足)
+
+ES — epithet *albipes*: De albi (blanco) + pes (pie)
 
 <!-- src:S0018 -->
 

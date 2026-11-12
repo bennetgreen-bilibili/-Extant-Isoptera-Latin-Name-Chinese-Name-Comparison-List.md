@@ -38,9 +38,13 @@ ES — **保佛大白蚁** (*Macrotermes beaufortensis*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *beaufortensis*：以地名 Beaufort（保佛）命名
 
 EN — epithet *beaufortensis*: Named after the locality Beaufort
+
+ES — epithet *beaufortensis*: Por la localidad de Beaufort
 
 <!-- src:S0018 -->
 

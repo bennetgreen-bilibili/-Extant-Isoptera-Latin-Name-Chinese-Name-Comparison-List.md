@@ -35,9 +35,13 @@ ES — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) es la única es
 
 EN — *Roisinitermes*: Named after a person (Roisin); -termes from Latin termes.
 
+ES — *Roisinitermes*: En honor de una persona (Roisin); -termes, del latín termes.
+
 种加词 *ebogoensis*：以地名 Ebogo（喀麦隆）命名
 
 EN — epithet *ebogoensis*: Named after the locality Ebogo
+
+ES — epithet *ebogoensis*: Por la localidad de Ebogo
 
 <!-- src:S0018 -->
 

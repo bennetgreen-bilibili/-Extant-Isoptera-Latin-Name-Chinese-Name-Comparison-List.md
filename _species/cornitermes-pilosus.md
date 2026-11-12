@@ -38,9 +38,13 @@ ES — **多毛角象白蚁** (*Cornitermes pilosus*) es una especie del género
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *pilosus*：拉丁文 pilosus（多毛）
 
 EN — epithet *pilosus*: Latin pilosus (hairy)
+
+ES — epithet *pilosus*: Del latín pilosus (peludo)
 
 <!-- src:S0018 -->
 

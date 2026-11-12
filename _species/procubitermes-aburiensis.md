@@ -38,9 +38,13 @@ ES — **阿布里原方白蚁** (*Procubitermes aburiensis*) es una especie del
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *aburiensis*：以地名 阿布里（加纳） 命名
 
 EN — epithet *aburiensis*: Named after the locality Abur
+
+ES — epithet *aburiensis*: Por la localidad de Abur
 
 <!-- src:S0018 -->
 

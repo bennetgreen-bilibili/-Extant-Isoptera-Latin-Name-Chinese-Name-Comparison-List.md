@@ -38,9 +38,13 @@ ES — **马尼坎丹克里希纳扭白蚁** (*Krishnacapritermes manikandan*) e
 
 EN — *Krishnacapritermes*: Named after the termite taxonomist K. Krishna + Latin caper (goat) + termes.
 
+ES — *Krishnacapritermes*: En honor del taxónomo de termitas K. Krishna + latín caper (cabra) + termes.
+
 种加词 *manikandan*：以人名 Manikandan 命名（印度人名）
 
 EN — epithet *manikandan*: Named after a person (Manikandan)
+
+ES — epithet *manikandan*: En honor de una persona (Manikandan)
 
 <!-- src:S0018 -->
 

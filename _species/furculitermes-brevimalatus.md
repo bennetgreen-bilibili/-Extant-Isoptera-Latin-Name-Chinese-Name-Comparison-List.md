@@ -38,9 +38,13 @@ ES — **短颚叉白蚁** (*Furculitermes brevimalatus*) es una especie del gé
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *brevimalatus*：拉丁文/希腊文 brevimal（短）+ atus（具），指短具
 
 EN — epithet *brevimalatus*: From brevimal (短) + atus (具)
+
+ES — epithet *brevimalatus*: De brevimal (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

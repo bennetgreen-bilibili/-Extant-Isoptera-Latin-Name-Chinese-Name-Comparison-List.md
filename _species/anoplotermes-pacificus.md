@@ -40,9 +40,13 @@ ES — **太平洋解甲白蚁** (*Anoplotermes pacificus*) es una especie, y la
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *pacificus*：拉丁文 pacificus，太平洋的
 
 EN — epithet *pacificus*: From Latin pacificus, of the Pacific
+
+ES — epithet *pacificus*: Del latín pacificus, del Pacífico
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **最小近扭白蚁** (*Pericapritermes minimus*) es una especie del gé
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *minimus*：拉丁文 minimus（最小）
 
 EN — epithet *minimus*: Latin minimus (smallest)
+
+ES — epithet *minimus*: Del latín minimus (el menor)
 
 <!-- src:S0018 -->
 

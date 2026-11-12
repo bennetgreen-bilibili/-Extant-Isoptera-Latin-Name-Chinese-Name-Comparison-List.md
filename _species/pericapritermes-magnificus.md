@@ -38,9 +38,13 @@ ES — **非凡近扭白蚁** (*Pericapritermes magnificus*) es una especie del 
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *magnificus*：拉丁文 magnificus（壮丽的、宏大的）
 
 EN — epithet *magnificus*: Latin magnificus (magnificent, grand)
+
+ES — epithet *magnificus*: Del latín magnificus (magnífico, grandioso)
 
 <!-- src:S0018 -->
 

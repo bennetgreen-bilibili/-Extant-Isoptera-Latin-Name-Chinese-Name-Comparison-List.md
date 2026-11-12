@@ -38,9 +38,13 @@ ES — **扎卡里亚安瓿白蚁** (*Ampoulitermes zacharia*) es una especie de
 
 EN — *Ampoulitermes*: From Latin ampulla (flask) + termes.
 
+ES — *Ampoulitermes*: Del latín ampulla (frasco) + termes.
+
 种加词 *zacharia*：以人名 Zacharia（人名） 命名
 
 EN — epithet *zacharia*: Named after Zacharia
+
+ES — epithet *zacharia*: En honor de Zacharia
 
 <!-- src:S0018 -->
 

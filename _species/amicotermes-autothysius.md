@@ -38,9 +38,13 @@ ES — **自爆善白蚁** (*Amicotermes autothysius*) es una especie del géner
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *autothysius*：希腊文 autos（自身）+ thysia（献祭），自主的
 
 EN — epithet *autothysius*: Greek autos (self) + thysia (sacrifice)
+
+ES — epithet *autothysius*: Del griego autos (mismo) + thysia (sacrificio)
 
 <!-- src:S0018 -->
 

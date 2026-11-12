@@ -38,9 +38,13 @@ ES — **粗鼻壶头白蚁** (*Cyrilliotermes crassinasus*) es una especie del 
 
 EN — *Cyrilliotermes*: Named after a person (Cyrillio); -termes from Latin termes.
 
+ES — *Cyrilliotermes*: En honor de una persona (Cyrillio); -termes, del latín termes.
+
 种加词 *crassinasus*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassinasus*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassinasus*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

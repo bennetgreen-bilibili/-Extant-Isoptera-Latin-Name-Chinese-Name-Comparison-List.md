@@ -40,9 +40,13 @@ ES — **显赫多铲白蚁** (*Polyspathotermes inclitus*) es una especie del g
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *inclitus*：拉丁文 inclitus（著名的、显赫的）
 
 EN — epithet *inclitus*: Latin inclitus (renowned)
+
+ES — epithet *inclitus*: Del latín inclitus (renombrado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **无产土白蚁** (*Odontotermes classicus*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *classicus*：拉丁文 classicus（经典的、上等的）
 
 EN — epithet *classicus*: Latin classicus (classic, of the highest rank)
+
+ES — epithet *classicus*: Del latín classicus (clásico, del rango más alto)
 
 <!-- src:S0018 -->
 

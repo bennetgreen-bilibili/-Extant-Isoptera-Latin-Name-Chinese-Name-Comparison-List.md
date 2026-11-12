@@ -35,9 +35,13 @@ ES — **干皱白蚁** (*Rugitermes aridus*) es una especie del género *Rugite
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *aridus*：拉丁文 aridus（干旱的）
 
 EN — epithet *aridus*: Latin aridus (arid, dry)
+
+ES — epithet *aridus*: Del latín aridus (árido, seco)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **埃尔哈特象白蚁** (*Nasutitermes ehrhardti*) es una especie del g
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *ehrhardti*：以人名 Ehrhardt 命名
 
 EN — epithet *ehrhardti*: Named after Ehrhardt
+
+ES — epithet *ehrhardti*: En honor de Ehrhardt
 
 <!-- src:S0018 -->
 

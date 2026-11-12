@@ -38,9 +38,13 @@ ES — **真帅弓白蚁** (*Amitermes perelegans*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *perelegans*：拉丁文 per-（非常）+ elegans（优雅），极优雅
 
 EN — epithet *perelegans*: Latin per- (very) + elegans (elegant), very elegant
+
+ES — epithet *perelegans*: Del latín per- (muy) + elegans (elegante), muy elegante
 
 <!-- src:S0018 -->
 

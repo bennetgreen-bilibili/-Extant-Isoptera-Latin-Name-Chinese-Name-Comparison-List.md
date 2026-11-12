@@ -38,9 +38,13 @@ ES — **受惊聚白蚁** (*Syntermes territus*) es una especie del género *Sy
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *territus*：拉丁文 territus（受惊的）
 
 EN — epithet *territus*: Latin territus (frightened)
+
+ES — epithet *territus*: Latín territus (asustado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **短小镰白蚁** (*Drepanotermes brevis*) es una especie del género *
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *brevis*：拉丁文 brevis（短）
 
 EN — epithet *brevis*: Latin brevis (short)
+
+ES — epithet *brevis*: Del latín brevis (corto)
 
 <!-- src:S0018 -->
 

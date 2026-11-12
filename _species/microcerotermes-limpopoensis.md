@@ -38,9 +38,13 @@ ES — **林波波锯白蚁** (*Microcerotermes limpopoensis*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *limpopoensis*：以地名 林波波（南部非洲） 命名
 
 EN — epithet *limpopoensis*: Named after the locality Limpopo
+
+ES — epithet *limpopoensis*: Por la localidad de Limpopo
 
 <!-- src:S0018 -->
 

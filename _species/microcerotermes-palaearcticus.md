@@ -38,9 +38,13 @@ ES — **古北锯白蚁** (*Microcerotermes palaearcticus*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *palaearcticus*：拉丁文 palaearcticus，古北区的
 
 EN — epithet *palaearcticus*: From Latin palaearcticus, of the Palaearctic region
+
+ES — epithet *palaearcticus*: Del latín palaearcticus, de la región paleártica
 
 <!-- src:S0018 -->
 

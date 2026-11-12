@@ -35,9 +35,13 @@ ES — **鲁恩沃堆砂白蚁** (*Cryptotermes roonwali*) es una especie del g�
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *roonwali*：以人名 Roonwal 命名（印度白蚁学家 M. L. Roonwal）
 
 EN — epithet *roonwali*: Named after the termite taxonomist M. L. Roonwal
+
+ES — epithet *roonwali*: En honor del taxónomo de termitas M. L. Roonwal
 
 <!-- src:S0018 -->
 

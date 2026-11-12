@@ -38,9 +38,13 @@ ES — **大型象白蚁** (*Nasutitermes major*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *major*：拉丁文 major（较大）
 
 EN — epithet *major*: Latin major (larger)
+
+ES — epithet *major*: Del latín major (mayor)
 
 <!-- src:S0018 -->
 

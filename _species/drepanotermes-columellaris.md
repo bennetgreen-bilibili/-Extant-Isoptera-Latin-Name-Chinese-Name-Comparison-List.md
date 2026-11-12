@@ -38,9 +38,13 @@ ES — **小柱镰白蚁** (*Drepanotermes columellaris*) es una especie del gé
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *columellaris*：拉丁文 columellaris（小柱的）
 
 EN — epithet *columellaris*: Latin columellaris (of a small column)
+
+ES — epithet *columellaris*: Del latín columellaris (de una columnilla)
 
 <!-- src:S0018 -->
 

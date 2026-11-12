@@ -37,9 +37,13 @@ ES — **宽头异白蚁** (*Heterotermes platycephalus*) es una especie, y la e
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *platycephalus*：拉丁文/希腊文词根「plat」（宽扁）
 
 EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
+
+ES — epithet *platycephalus*: Del término descriptivo «plat» (ancho)
 
 <!-- src:S0018 -->
 

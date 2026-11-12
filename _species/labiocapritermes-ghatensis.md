@@ -38,9 +38,13 @@ ES — **高止唇扭白蚁** (*Labiocapritermes ghatensis*) es una especie del 
 
 EN — *Labiocapritermes*: From Latin labium (lip) + caper (goat) + termes.
 
+ES — *Labiocapritermes*: Del latín labium (labio) + caper (cabra) + termes.
+
 种加词 *ghatensis*：以地名 西高止山（印度） 命名
 
 EN — epithet *ghatensis*: Named after the locality Ghat
+
+ES — epithet *ghatensis*: Por la localidad de Ghat
 
 <!-- src:S0018 -->
 

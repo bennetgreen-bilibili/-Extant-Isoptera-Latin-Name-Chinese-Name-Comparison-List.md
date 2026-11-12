@@ -38,9 +38,13 @@ ES — **腰肠善白蚁** (*Amicotermes gasteruptus*) es una especie del géner
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *gasteruptus*：希腊文 gastēr（腹）+ 拉丁文 ruptus（破裂、突起），腹突
 
 EN — epithet *gasteruptus*: Greek gastēr (belly) + Latin ruptus (broken), belly-ruptured
+
+ES — epithet *gasteruptus*: Del griego gastēr (vientre) + del latín ruptus (roto), de vientre roto
 
 <!-- src:S0018 -->
 

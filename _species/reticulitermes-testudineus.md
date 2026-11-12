@@ -35,9 +35,13 @@ ES — **龟唇散白蚁** (*Reticulitermes testudineus*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *testudineus*：拉丁文/希腊文 testudin（龟）+ eus（相关），指龟相关
 
 EN — epithet *testudineus*: From testudin (龟) + eus (相关)
+
+ES — epithet *testudineus*: De testudin- (tortuga) + -eus (relativo a), relativo a la tortuga
 
 <!-- src:S0018 -->
 

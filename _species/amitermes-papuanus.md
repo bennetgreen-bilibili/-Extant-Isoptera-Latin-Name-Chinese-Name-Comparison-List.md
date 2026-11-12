@@ -38,9 +38,13 @@ ES — **巴布亚弓白蚁** (*Amitermes papuanus*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *papuanus*：地名：巴布亚（新几内亚）
 
 EN — epithet *papuanus*: After Papua (New Guinea)
+
+ES — epithet *papuanus*: Por Papúa (Nueva Guinea)
 
 <!-- src:S0018 -->
 

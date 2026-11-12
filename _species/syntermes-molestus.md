@@ -40,9 +40,13 @@ ES — **讨厌聚白蚁** (*Syntermes molestus*) es una especie del género *Sy
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *molestus*：拉丁文 molestus（烦扰的）
 
 EN — epithet *molestus*: Latin molestus (troublesome)
+
+ES — epithet *molestus*: Del latín molestus (molesto)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **加州弓白蚁** (*Amitermes californicus*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *californicus*：以地名 加利福尼亚（美国） 命名
 
 EN — epithet *californicus*: Named after the locality Californ
+
+ES — epithet *californicus*: Por la localidad de California
 
 <!-- src:S0018 -->
 

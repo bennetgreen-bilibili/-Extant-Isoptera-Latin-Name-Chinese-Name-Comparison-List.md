@@ -38,9 +38,13 @@ ES — **雅各布森小白蚁** (*Microtermes jacobsoni*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *jacobsoni*：以人名 jacobson 命名（昆虫学家 E. Jacobson）
 
 EN — epithet *jacobsoni*: Named after 昆虫学家 E. Jacobson
+
+ES — epithet *jacobsoni*: En honor del entomólogo E. Jacobson
 
 <!-- src:S0018 -->
 

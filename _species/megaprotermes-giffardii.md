@@ -38,9 +38,13 @@ ES — **吉法德大前白蚁** (*Megaprotermes giffardii*) es la única especi
 
 EN — *Megaprotermes*: From Greek megas (large) + pro- (before) + Latin termes.
 
+ES — *Megaprotermes*: Del griego megas (grande) + pro- (antes) + latín termes.
+
 种加词 *giffardii*：以人名 Giffard 命名
 
 EN — epithet *giffardii*: Named after Giffard
+
+ES — epithet *giffardii*: En honor de Giffard
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **三角头三角白蚁** (*Triangularitermes triangulariceps*) es la ún
 
 EN — *Triangularitermes*: From Latin triangulus (triangular) + termes.
 
+ES — *Triangularitermes*: Del latín triangulus (triangular) + termes.
+
 种加词 *triangulariceps*：拉丁文/希腊文 triangulari（三角）+ ceps（头），指三角头
 
 EN — epithet *triangulariceps*: From triangulari (三角) + ceps (头)
+
+ES — epithet *triangulariceps*: De triangulari (triangular) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

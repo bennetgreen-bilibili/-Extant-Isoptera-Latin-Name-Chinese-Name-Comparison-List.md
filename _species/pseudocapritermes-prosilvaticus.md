@@ -38,9 +38,13 @@ ES — **近森林伪扭白蚁** (*Pseudocapritermes prosilvaticus*) es una espe
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *prosilvaticus*：拉丁文 pro（前、近）＋silvaticus（森林的）
 
 EN — epithet *prosilvaticus*: Latin pro (before, near) + silvaticus (of the forest)
+
+ES — epithet *prosilvaticus*: Del latín pro (antes, cerca) + silvaticus (del bosque)
 
 <!-- src:S0018 -->
 

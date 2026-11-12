@@ -38,9 +38,13 @@ ES — **姆兹立卡兹锯白蚁** (*Microcerotermes mzilikazi*) es una especie
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *mzilikazi*：以恩德贝莱国王姆济利卡齐（Mzilikazi）命名
 
 EN — epithet *mzilikazi*: Named after Mzilikazi, King of the Ndebele
+
+ES — epithet *mzilikazi*: En honor de Mzilikazi, rey de los ndebele
 
 <!-- src:S0018 -->
 

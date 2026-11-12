@@ -37,9 +37,13 @@ ES — **金黄异白蚁** (*Heterotermes aureus*) es una especie del género *H
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *aureus*：拉丁文 aureus（金黄）
 
 EN — epithet *aureus*: Latin aureus (golden)
+
+ES — epithet *aureus*: Del latín aureus (dorado)
 
 <!-- src:S0018 -->
 

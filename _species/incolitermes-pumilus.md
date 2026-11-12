@@ -38,9 +38,13 @@ ES — **侏儒子民白蚁** (*Incolitermes pumilus*) es la única especie vivi
 
 EN — *Incolitermes*: From Latin incola (inhabitant) + termes.
 
+ES — *Incolitermes*: Del latín incola (habitante) + termes.
+
 种加词 *pumilus*：拉丁文 pumilus（矮小）
 
 EN — epithet *pumilus*: Latin pumilus (dwarf)
+
+ES — epithet *pumilus*: Del latín pumilus (enano)
 
 <!-- src:S0018 -->
 

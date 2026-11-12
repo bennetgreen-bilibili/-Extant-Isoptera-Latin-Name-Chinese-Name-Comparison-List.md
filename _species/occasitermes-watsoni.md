@@ -38,9 +38,13 @@ ES — **沃森西部白蚁** (*Occasitermes watsoni*) es una especie del géner
 
 EN — *Occasitermes*: Etymology uncertain (perhaps Latin occasus 'setting, west'); -termes from Latin termes.
 
+ES — *Occasitermes*: Etimología incierta (quizá el latín occasus «ocaso, oeste»); -termes, del latín termes.
+
 种加词 *watsoni*：以 J.A.L. Watson（澳大利亚白蚁学家）命名
 
 EN — epithet *watsoni*: Named after J.A.L. Watson
+
+ES — epithet *watsoni*: En honor de J.A.L. Watson
 
 <!-- src:S0018 -->
 

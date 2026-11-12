@@ -38,9 +38,13 @@ ES — **科顿孔白蚁** (*Foraminitermes coatoni*) es una especie del género
 
 EN — *Foraminitermes*: From Latin foramen (opening) + termes.
 
+ES — *Foraminitermes*: Del latín foramen (abertura) + termes.
+
 种加词 *coatoni*：以 W.G.H. Coaton（南非白蚁学家）命名
 
 EN — epithet *coatoni*: Named after W.G.H. Coaton
+
+ES — epithet *coatoni*: En honor de W.G.H. Coaton
 
 <!-- src:S0018 -->
 

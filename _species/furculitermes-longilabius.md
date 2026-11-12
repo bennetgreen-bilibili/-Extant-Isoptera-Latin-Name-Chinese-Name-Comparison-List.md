@@ -38,9 +38,13 @@ ES — **长唇叉白蚁** (*Furculitermes longilabius*) es una especie del gén
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *longilabius*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longilabius*: From the descriptive term 'long' (long)
+
+ES — epithet *longilabius*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

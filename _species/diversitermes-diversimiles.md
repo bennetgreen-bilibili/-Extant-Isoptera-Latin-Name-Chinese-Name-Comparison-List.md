@@ -40,9 +40,13 @@ ES — **多兵歧白蚁** (*Diversitermes diversimiles*) es una especie, y la e
 
 EN — *Diversitermes*: From Latin diversus (diverse) + termes.
 
+ES — *Diversitermes*: Del latín diversus (diverso) + termes.
+
 种加词 *diversimiles*：拉丁文 diversus（不同）+ similis（相似），异似
 
 EN — epithet *diversimiles*: Latin diversus (diverse) + similis (similar), diversely similar
+
+ES — epithet *diversimiles*: Del latín diversus (diverso) + similis (similar), diversamente similares
 
 <!-- src:S0018 -->
 

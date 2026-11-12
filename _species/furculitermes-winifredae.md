@@ -38,9 +38,13 @@ ES — **威尼弗雷德叉白蚁** (*Furculitermes winifredae*) es una especie,
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
+ES — *Furculitermes*: Del latín furcula (horquilla pequeña) + termes.
+
 种加词 *winifredae*：以人名 Winifred（女性人名） 命名
 
 EN — epithet *winifredae*: Named after Winifred
+
+ES — epithet *winifredae*: En honor de Winifred
 
 <!-- src:S0018 -->
 

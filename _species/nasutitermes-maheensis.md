@@ -38,9 +38,13 @@ ES — **马埃象白蚁** (*Nasutitermes maheensis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *maheensis*：以地名 马埃岛（塞舌尔） 命名
 
 EN — epithet *maheensis*: Named after the locality Mahe
+
+ES — epithet *maheensis*: Por la localidad de Mahé
 
 <!-- src:S0018 -->
 

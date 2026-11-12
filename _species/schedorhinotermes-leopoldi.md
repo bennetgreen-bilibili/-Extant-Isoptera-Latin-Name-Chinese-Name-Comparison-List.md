@@ -35,9 +35,13 @@ ES — **利奥波德长鼻白蚁** (*Schedorhinotermes leopoldi*) es una especi
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *leopoldi*：以人名 Leopold（利奥波德）命名
 
 EN — epithet *leopoldi*: Named after Leopold
+
+ES — epithet *leopoldi*: En honor de Leopold
 
 <!-- src:S0018 -->
 

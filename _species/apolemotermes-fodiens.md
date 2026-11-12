@@ -38,9 +38,13 @@ ES — **挖掘和平白蚁** (*Apolemotermes fodiens*) es la única especie viv
 
 EN — *Apolemotermes*: From Greek a- (without) + polemos (war) + Latin termes, 'termite without soldiers'.
 
+ES — *Apolemotermes*: Del griego a- (sin) + polemos (guerra) + latín termes, «termita sin soldados».
+
 种加词 *fodiens*：拉丁文 fodiens（挖掘的）
 
 EN — epithet *fodiens*: Latin fodiens (digging)
+
+ES — epithet *fodiens*: Del latín fodiens (que cava)
 
 <!-- src:S0018 -->
 

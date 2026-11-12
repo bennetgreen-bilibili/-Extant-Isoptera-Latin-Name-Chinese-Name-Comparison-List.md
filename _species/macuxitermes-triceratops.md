@@ -38,9 +38,13 @@ ES — **三角马库希白蚁** (*Macuxitermes triceratops*) es una especie, y 
 
 EN — *Macuxitermes*: From Macuxi (an Amazonian indigenous people) + termes.
 
+ES — *Macuxitermes*: De los macuxí (un pueblo indígena amazónico) + termes.
+
 种加词 *triceratops*：希腊文 tri-（三）+ keras（角）+ ōps（面），三角面
 
 EN — epithet *triceratops*: Greek tri- (three) + keras (horn) + ōps (face), three-horned-faced
+
+ES — epithet *triceratops*: Del griego tri- (tres) + keras (cuerno) + ōps (rostro), de rostro con tres cuernos
 
 <!-- src:S0018 -->
 

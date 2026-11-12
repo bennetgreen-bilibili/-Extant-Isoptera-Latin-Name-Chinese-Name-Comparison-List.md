@@ -40,9 +40,13 @@ ES — **美丽近扭白蚁** (*Pericapritermes speciosus*) es una especie del g
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *speciosus*：拉丁文 speciosus（华丽的、美丽的）
 
 EN — epithet *speciosus*: Latin speciosus (beautiful, showy)
+
+ES — epithet *speciosus*: Del latín speciosus (hermoso, vistoso)
 
 <!-- src:S0018 -->
 

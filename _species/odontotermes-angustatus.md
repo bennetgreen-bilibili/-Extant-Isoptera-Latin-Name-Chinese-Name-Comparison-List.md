@@ -38,9 +38,13 @@ ES — **细窄土白蚁** (*Odontotermes angustatus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *angustatus*：拉丁文/希腊文 angust（窄）+ atus（具），指窄具
 
 EN — epithet *angustatus*: From angust (窄) + atus (具)
+
+ES — epithet *angustatus*: De angust (estrecho) + atus (que posee)
 
 <!-- src:S0018 -->
 

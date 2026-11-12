@@ -35,9 +35,13 @@ ES — **赵氏树白蚁** (*Glyptotermes zhaoi*) es una especie del género *Gl
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *zhaoi*：以中国昆虫分类学家赵修复（Zhao Xiufu，1919–2004，福建农学院教授）命名。
 
 EN — epithet *zhaoi*: Named after the Chinese entomologist Xiufu Zhao (1919–2004).
+
+ES — epithet *zhaoi*: En honor de Xiufu Zhao (1919–2004), entomólogo chino.
 
 <!-- src:S0018 -->
 

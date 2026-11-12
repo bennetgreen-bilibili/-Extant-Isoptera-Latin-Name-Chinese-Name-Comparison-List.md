@@ -38,9 +38,13 @@ ES — **坦噶土白蚁** (*Odontotermes tanganicus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *tanganicus*：以地名 坦噶尼喀 命名
 
 EN — epithet *tanganicus*: Named after the locality Tangan
+
+ES — epithet *tanganicus*: Por la localidad de Tangan
 
 <!-- src:S0018 -->
 

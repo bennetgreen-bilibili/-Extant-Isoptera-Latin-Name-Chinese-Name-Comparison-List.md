@@ -35,9 +35,13 @@ ES — **江城散白蚁** (*Reticulitermes jiangchengensis*) es una especie del
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *jiangchengensis*：以地名 江城（云南） 命名
 
 EN — epithet *jiangchengensis*: Named after the locality Jiangcheng
+
+ES — epithet *jiangchengensis*: Por la localidad de Jiangcheng
 
 <!-- src:S0018 -->
 

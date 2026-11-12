@@ -35,9 +35,13 @@ ES — **印度双裂白蚁** (*Bifiditermes indicus*) es una especie del géner
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *indicus*：地名：印度
 
 EN — epithet *indicus*: After India
+
+ES — epithet *indicus*: Por la India
 
 <!-- src:S0018 -->
 

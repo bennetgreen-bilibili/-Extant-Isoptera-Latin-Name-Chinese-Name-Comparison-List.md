@@ -38,9 +38,13 @@ ES — **北方锯白蚁** (*Microcerotermes septentrionalis*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *septentrionalis*：拉丁文 septentrionalis（北方的）
 
 EN — epithet *septentrionalis*: Latin septentrionalis (northern)
+
+ES — epithet *septentrionalis*: Del latín septentrionalis (septentrional, del norte)
 
 <!-- src:S0018 -->
 

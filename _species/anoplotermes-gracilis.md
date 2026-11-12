@@ -38,9 +38,13 @@ ES — **细瘦解甲白蚁** (*Anoplotermes gracilis*) es una especie del géne
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *gracilis*：拉丁文 gracilis（细长、纤细）
 
 EN — epithet *gracilis*: Latin gracilis (slender)
+
+ES — epithet *gracilis*: Del latín gracilis (esbelto)
 
 <!-- src:S0018 -->
 

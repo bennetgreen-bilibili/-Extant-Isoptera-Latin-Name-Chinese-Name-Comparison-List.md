@@ -38,9 +38,13 @@ ES — **苍白小白蚁** (*Microtermes etiolatus*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *etiolatus*：拉丁文 etiolatus（黄化的、苍白的）
 
 EN — epithet *etiolatus*: Latin etiolatus (etiolated, pale)
+
+ES — epithet *etiolatus*: Del latín etiolatus (etiolado, pálido)
 
 <!-- src:S0018 -->
 

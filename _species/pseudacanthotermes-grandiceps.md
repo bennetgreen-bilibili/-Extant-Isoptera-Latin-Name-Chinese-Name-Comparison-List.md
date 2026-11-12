@@ -38,9 +38,13 @@ ES — **大头伪刺白蚁** (*Pseudacanthotermes grandiceps*) es una especie d
 
 EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
 
+ES — *Pseudacanthotermes*: Del griego pseudēs (falso) + akantha (espina) + latín termes.
+
 种加词 *grandiceps*：拉丁文/希腊文 grandi（大）+ ceps（头），指大头
 
 EN — epithet *grandiceps*: From grandi (大) + ceps (头)
+
+ES — epithet *grandiceps*: De grandi (grande) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

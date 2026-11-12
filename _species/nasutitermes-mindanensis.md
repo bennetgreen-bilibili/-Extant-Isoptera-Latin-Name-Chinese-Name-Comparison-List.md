@@ -38,9 +38,13 @@ ES — **棉兰老岛象白蚁** (*Nasutitermes mindanensis*) es una especie del
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mindanensis*：以地名 棉兰老（菲律宾） 命名
 
 EN — epithet *mindanensis*: Named after the locality Mindan
+
+ES — epithet *mindanensis*: Por la localidad de Mindan
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **毛腹多毛白蚁** (*Hirtitermes hirtiventris*) es una especie, y la 
 
 EN — *Hirtitermes*: From Latin hirtus (hairy) + termes.
 
+ES — *Hirtitermes*: Del latín hirtus (peludo) + termes.
+
 种加词 *hirtiventris*：拉丁文 hirtus（多毛）+ venter（腹），毛腹
 
 EN — epithet *hirtiventris*: Latin hirtus (hairy) + venter (belly), hairy-bellied
+
+ES — epithet *hirtiventris*: Del latín hirtus (hirsuto) + venter (vientre), de vientre hirsuto
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **直头前奇白蚁** (*Promirotermes orthoceps*) es una especie del gé
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *orthoceps*：拉丁文/希腊文 ortho（直）+ ceps（头），指直头
 
 EN — epithet *orthoceps*: From ortho (直) + ceps (头)
+
+ES — epithet *orthoceps*: De ortho (recto) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

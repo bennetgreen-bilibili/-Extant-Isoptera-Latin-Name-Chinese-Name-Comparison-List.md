@@ -38,9 +38,13 @@ ES — **小兵直颚白蚁** (*Orthognathotermes mirim*) es una especie del gé
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *mirim*：图皮语 mirim（小）
 
 EN — epithet *mirim*: Tupi mirim (small)
+
+ES — epithet *mirim*: Del tupí mirim (pequeño)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **具矛弓白蚁** (*Amitermes lanceolatus*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *lanceolatus*：拉丁文/希腊文 lanceol（矛）+ atus（具），指矛具
 
 EN — epithet *lanceolatus*: From lanceol (矛) + atus (具)
+
+ES — epithet *lanceolatus*: De lanceol (lanza) + atus (provisto de)
 
 <!-- src:S0018 -->
 

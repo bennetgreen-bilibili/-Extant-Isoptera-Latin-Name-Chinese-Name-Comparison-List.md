@@ -38,9 +38,13 @@ ES — **无毛冢白蚁** (*Tumulitermes recalvus*) es una especie del género 
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *recalvus*：拉丁文 re-（再）+ calvus（秃），更秃
 
 EN — epithet *recalvus*: Latin re- (again) + calvus (bald), quite bald
+
+ES — epithet *recalvus*: Del latín re- (de nuevo) + calvus (calvo), bastante calvo
 
 <!-- src:S0018 -->
 

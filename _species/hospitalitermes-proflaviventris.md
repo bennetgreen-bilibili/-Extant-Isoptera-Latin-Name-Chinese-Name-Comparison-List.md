@@ -38,9 +38,13 @@ ES — **似黄腹须白蚁** (*Hospitalitermes proflaviventris*) es una especie
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *proflaviventris*：拉丁文 pro-（前）+ flavus（黄）+ venter（腹），前黄腹
 
 EN — epithet *proflaviventris*: Latin pro- (front) + flavus (yellow) + venter (belly), front-yellow-bellied
+
+ES — epithet *proflaviventris*: Del latín pro- (delantero) + flavus (amarillo) + venter (vientre), de vientre amarillo en la parte anterior
 
 <!-- src:S0018 -->
 

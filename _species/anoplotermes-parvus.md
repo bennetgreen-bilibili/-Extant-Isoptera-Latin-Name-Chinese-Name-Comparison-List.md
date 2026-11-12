@@ -40,9 +40,13 @@ ES — **小解甲白蚁** (*Anoplotermes parvus*) es una especie del género *A
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *parvus*：拉丁文 parvus（小）
 
 EN — epithet *parvus*: Latin parvus (small)
+
+ES — epithet *parvus*: Del latín parvus (pequeño)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **封开象白蚁** (*Nasutitermes fengkaiensis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *fengkaiensis*：以地名 封开（广东） 命名
 
 EN — epithet *fengkaiensis*: Named after the locality Fengka
+
+ES — epithet *fengkaiensis*: Por la localidad de Fengka
 
 <!-- src:S0018 -->
 

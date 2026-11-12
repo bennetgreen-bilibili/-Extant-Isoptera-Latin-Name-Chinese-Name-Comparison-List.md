@@ -38,9 +38,13 @@ ES — **合浦近扭白蚁** (*Pericapritermes hepuensis*) es una especie del g
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *hepuensis*：以地名 合浦（广西） 命名
 
 EN — epithet *hepuensis*: Named after the locality Hepu
+
+ES — epithet *hepuensis*: Por la localidad de Hepu
 
 <!-- src:S0018 -->
 

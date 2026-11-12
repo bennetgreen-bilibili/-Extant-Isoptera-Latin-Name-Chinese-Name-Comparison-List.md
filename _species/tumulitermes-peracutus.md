@@ -38,9 +38,13 @@ ES — **锐利冢白蚁** (*Tumulitermes peracutus*) es una especie del género
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *peracutus*：拉丁文 per-（非常）+ acutus（尖），极尖
 
 EN — epithet *peracutus*: Latin per- (very) + acutus (sharp), very sharp
+
+ES — epithet *peracutus*: Del latín per- (muy) + acutus (agudo), muy agudo
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) es una especie, y
 
 EN — *Malaysiotermes*: From Malaysia + termes.
 
+ES — *Malaysiotermes*: De Malasia + termes.
+
 种加词 *spinocephalus*：拉丁文/希腊文词根「spin」（刺）
 
 EN — epithet *spinocephalus*: From the descriptive term 'spin' (spine)
+
+ES — epithet *spinocephalus*: Del término descriptivo «spin» (espina)
 
 <!-- src:S0018 -->
 

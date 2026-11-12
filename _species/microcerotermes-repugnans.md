@@ -38,9 +38,13 @@ ES — **抵抗锯白蚁** (*Microcerotermes repugnans*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *repugnans*：拉丁文 repugnans（对抗的）
 
 EN — epithet *repugnans*: Latin repugnans (opposing)
+
+ES — epithet *repugnans*: Del latín repugnans (que se opone)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **尼科尔斯冢白蚁** (*Tumulitermes nichollsi*) es una especie del g
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *nichollsi*：以人名 Nicholls（尼科尔斯）命名
 
 EN — epithet *nichollsi*: Named after Nicholls
+
+ES — epithet *nichollsi*: En honor de Nicholls
 
 <!-- src:S0018 -->
 

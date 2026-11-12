@@ -38,9 +38,13 @@ ES — **具针善白蚁** (*Amicotermes spiculatus*) es una especie del género
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *spiculatus*：拉丁文 spiculatus（具细刺的）
 
 EN — epithet *spiculatus*: Latin spiculatus (pointed, spiculate)
+
+ES — epithet *spiculatus*: Del latín spiculatus (puntiagudo, espiculado)
 
 <!-- src:S0018 -->
 

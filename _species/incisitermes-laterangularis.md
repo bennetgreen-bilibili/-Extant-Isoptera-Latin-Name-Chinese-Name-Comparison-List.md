@@ -35,9 +35,13 @@ ES — **侧角楹白蚁** (*Incisitermes laterangularis*) es una especie del g�
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *laterangularis*：拉丁文/希腊文 laterangul（宽）+ aris（相关），指宽相关
 
 EN — epithet *laterangularis*: From laterangul (宽) + aris (相关)
+
+ES — epithet *laterangularis*: De laterangul (ancho) + aris (relativo a)
 
 <!-- src:S0018 -->
 

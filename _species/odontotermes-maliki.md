@@ -38,9 +38,13 @@ ES — **马利克土白蚁** (*Odontotermes maliki*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *maliki*：以人名 Malik（马利克）命名
 
 EN — epithet *maliki*: Named after Malik
+
+ES — epithet *maliki*: En honor de Malik
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **短脊齿尖白蚁** (*Dentispicotermes brevicarinatus*) es una especie
 
 EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
 
+ES — *Dentispicotermes*: Del latín dens (diente) + spica (espiga) + termes.
+
 种加词 *brevicarinatus*：拉丁文/希腊文 brevicarin（短）+ atus（具），指短具
 
 EN — epithet *brevicarinatus*: From brevicarin (短) + atus (具)
+
+ES — epithet *brevicarinatus*: De brevicarin (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

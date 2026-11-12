@@ -38,9 +38,13 @@ ES — **博尔顿白蚁** (*Termes boultoni*) es una especie del género *Terme
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *boultoni*：以人名 Boulton 命名
 
 EN — epithet *boultoni*: Named after Boulton
+
+ES — epithet *boultoni*: En honor de Boulton
 
 <!-- src:S0018 -->
 

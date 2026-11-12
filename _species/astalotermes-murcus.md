@@ -38,9 +38,13 @@ ES — **懦弱无利器白蚁** (*Astalotermes murcus*) es una especie del gén
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *murcus*：拉丁文 murcus（残缺的、被截的）
 
 EN — epithet *murcus*: Latin murcus (maimed)
+
+ES — epithet *murcus*: Del latín murcus (lisiado)
 
 <!-- src:S0018 -->
 

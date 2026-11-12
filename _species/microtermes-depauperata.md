@@ -38,9 +38,13 @@ ES — **矮小小白蚁** (*Microtermes depauperata*) es una especie del géner
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *depauperata*：拉丁文 depauperatus（贫乏的、衰弱的）
 
 EN — epithet *depauperata*: Latin depauperatus (impoverished)
+
+ES — epithet *depauperata*: Del latín depauperatus (empobrecido)
 
 <!-- src:S0018 -->
 

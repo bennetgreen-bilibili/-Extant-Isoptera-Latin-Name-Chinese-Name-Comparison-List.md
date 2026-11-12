@@ -38,9 +38,13 @@ ES — **哈维兰象白蚁** (*Nasutitermes havilandi*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *havilandi*：以人名 Haviland 命名（英国昆虫学家 G. D. Haviland）
 
 EN — epithet *havilandi*: Named after the entomologist G. D. Haviland
+
+ES — epithet *havilandi*: En honor del entomólogo G. D. Haviland
 
 <!-- src:S0018 -->
 

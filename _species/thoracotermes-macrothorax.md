@@ -38,9 +38,13 @@ ES — **大胸胸白蚁** (*Thoracotermes macrothorax*) es una especie, y la es
 
 EN — *Thoracotermes*: From Greek thōrax (thorax) + Latin termes.
 
+ES — *Thoracotermes*: Del griego thōrax (tórax) + latín termes.
+
 种加词 *macrothorax*：拉丁文/希腊文 macro（大）+ thorax（胸），指大胸
 
 EN — epithet *macrothorax*: From macro (大) + thorax (胸)
+
+ES — epithet *macrothorax*: De macro (grande) + thorax (tórax)
 
 <!-- src:S0018 -->
 

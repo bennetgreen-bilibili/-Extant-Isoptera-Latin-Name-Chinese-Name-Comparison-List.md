@@ -38,9 +38,13 @@ ES — **锡斯坦锯白蚁** (*Microcerotermes sistaniensis*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *sistaniensis*：以地名 锡斯坦（伊朗） 命名
 
 EN — epithet *sistaniensis*: Named after the locality Sistan
+
+ES — epithet *sistaniensis*: Por la localidad de Sistán
 
 <!-- src:S0018 -->
 

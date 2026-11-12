@@ -38,9 +38,13 @@ ES — **英帕尔小白蚁** (*Microtermes imphalensis*) es una especie del gé
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *imphalensis*：以地名 英帕尔（印度） 命名
 
 EN — epithet *imphalensis*: Named after the locality Imphal
+
+ES — epithet *imphalensis*: Por la localidad de Imphal
 
 <!-- src:S0018 -->
 

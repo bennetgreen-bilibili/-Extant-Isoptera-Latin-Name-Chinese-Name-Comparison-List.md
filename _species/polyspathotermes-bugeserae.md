@@ -38,9 +38,13 @@ ES — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) es una especi
 
 EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
 
+ES — *Polyspathotermes*: Del griego polys (muchos) + spathē (espátula) + latín termes.
+
 种加词 *bugeserae*：以地名 Bugesera（布盖塞拉）命名
 
 EN — epithet *bugeserae*: Named after the locality Bugesera
+
+ES — epithet *bugeserae*: Por la localidad de Bugesera
 
 <!-- src:S0018 -->
 

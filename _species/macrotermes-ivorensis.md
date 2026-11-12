@@ -38,9 +38,13 @@ ES — **象牙海岸大白蚁** (*Macrotermes ivorensis*) es una especie del g�
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *ivorensis*：以科特迪瓦（象牙海岸，Ivory Coast）命名
 
 EN — epithet *ivorensis*: Named after Ivory Coast (Côte d'Ivoire)
+
+ES — epithet *ivorensis*: Por Costa de Marfil (Côte d’Ivoire)
 
 <!-- src:S0018 -->
 

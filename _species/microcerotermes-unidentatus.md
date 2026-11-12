@@ -38,9 +38,13 @@ ES — **单齿锯白蚁** (*Microcerotermes unidentatus*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *unidentatus*：拉丁文/希腊文 unident（单齿）+ atus（具），指单齿具
 
 EN — epithet *unidentatus*: From unident (单齿) + atus (具)
+
+ES — epithet *unidentatus*: De unident (un diente) + atus (que posee)
 
 <!-- src:S0018 -->
 

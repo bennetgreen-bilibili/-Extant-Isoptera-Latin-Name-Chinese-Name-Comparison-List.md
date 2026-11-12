@@ -38,9 +38,13 @@ ES — **布劳恩斯角白蚁** (*Angulitermes braunsi*) es una especie del gé
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *braunsi*：以人名 Brauns（Hans Brauns）命名
 
 EN — epithet *braunsi*: Named after Hans Brauns
+
+ES — epithet *braunsi*: En honor de Hans Brauns
 
 <!-- src:S0018 -->
 

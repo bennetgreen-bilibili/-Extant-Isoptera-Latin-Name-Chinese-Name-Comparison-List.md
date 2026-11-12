@@ -38,9 +38,13 @@ ES — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) es una especie 
 
 EN — *Allognathotermes*: From Greek allos (other) + gnathos (jaw) + Latin termes.
 
+ES — *Allognathotermes*: Del griego allos (otro) + gnathos (mandíbula) + latín termes.
+
 种加词 *aburiensis*：以地名 阿布里（加纳） 命名
 
 EN — epithet *aburiensis*: Named after the locality Abur
+
+ES — epithet *aburiensis*: Por la localidad de Abur
 
 <!-- src:S0018 -->
 

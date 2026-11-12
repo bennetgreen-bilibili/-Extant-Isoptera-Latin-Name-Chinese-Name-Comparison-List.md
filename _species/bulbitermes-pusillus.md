@@ -38,9 +38,13 @@ ES — **极小瓢白蚁** (*Bulbitermes pusillus*) es una especie del género *
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *pusillus*：拉丁文/希腊文词根「pusill」（很小）
 
 EN — epithet *pusillus*: From the descriptive term 'pusill' (tiny)
+
+ES — epithet *pusillus*: Del término descriptivo «pusill» (diminuto)
 
 <!-- src:S0018 -->
 

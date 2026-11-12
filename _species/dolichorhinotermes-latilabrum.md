@@ -35,9 +35,13 @@ ES — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) es una especie d
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *latilabrum*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latilabrum*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latilabrum*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

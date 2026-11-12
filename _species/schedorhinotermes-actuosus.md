@@ -35,9 +35,13 @@ ES — **活跃长鼻白蚁** (*Schedorhinotermes actuosus*) es una especie del 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *actuosus*：拉丁文 actuosus（活跃的）
 
 EN — epithet *actuosus*: Latin actuosus (active)
+
+ES — epithet *actuosus*: Del latín actuosus (activo)
 
 <!-- src:S0018 -->
 

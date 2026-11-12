@@ -38,9 +38,13 @@ ES — **姚氏土白蚁** (*Odontotermes yaoi*) es una especie del género *Odo
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *yaoi*：以中国姚姓学者命名（全名待考；Odontotermes yaoi=Huang & Li, 1988）。
 
 EN — epithet *yaoi*: Named after a Chinese scholar surnamed Yao (full name uncertain).
+
+ES — epithet *yaoi*: En honor de un estudioso chino de apellido Yao (nombre completo incierto).
 
 <!-- src:S0018 -->
 

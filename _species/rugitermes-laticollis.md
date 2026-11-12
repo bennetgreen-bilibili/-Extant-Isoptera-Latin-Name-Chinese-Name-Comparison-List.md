@@ -35,9 +35,13 @@ ES — **宽颈皱白蚁** (*Rugitermes laticollis*) es una especie del género 
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *laticollis*：拉丁文/希腊文 lati（宽）+ collis（颈），指宽颈
 
 EN — epithet *laticollis*: From lati (宽) + collis (颈)
+
+ES — epithet *laticollis*: De lati (ancho) + collis (cuello)
 
 <!-- src:S0018 -->
 

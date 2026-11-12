@@ -35,9 +35,13 @@ ES — **普雷姆阿斯米乳白蚁** (*Coptotermes premrasmii*) es una especie
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *premrasmii*：以人名 Premrasmi（泰国人名）命名
 
 EN — epithet *premrasmii*: Named after Premrasmi
+
+ES — epithet *premrasmii*: En honor de Premrasmi
 
 <!-- src:S0018 -->
 

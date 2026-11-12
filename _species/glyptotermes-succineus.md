@@ -35,9 +35,13 @@ ES — **琥珀树白蚁** (*Glyptotermes succineus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *succineus*：拉丁文 succineus（琥珀色的）
 
 EN — epithet *succineus*: Latin succineus (amber-coloured)
+
+ES — epithet *succineus*: Latín succineus (de color ámbar)
 
 <!-- src:S0018 -->
 

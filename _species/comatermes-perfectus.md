@@ -37,9 +37,13 @@ ES — **完美毛白蚁** (*Comatermes perfectus*) es la única especie vivient
 
 EN — *Comatermes*: From Greek komē (hair) + Latin termes.
 
+ES — *Comatermes*: Del griego komē (cabello) + latín termes.
+
 种加词 *perfectus*：拉丁文 perfectus（完善的、完美的）
 
 EN — epithet *perfectus*: Latin perfectus (perfect)
+
+ES — epithet *perfectus*: Del latín perfectus (perfecto)
 
 <!-- src:S0018 -->
 

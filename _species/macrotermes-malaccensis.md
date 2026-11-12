@@ -40,9 +40,13 @@ ES — **马六甲大白蚁** (*Macrotermes malaccensis*) es una especie del gé
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *malaccensis*：以地名 马六甲（马来西亚） 命名
 
 EN — epithet *malaccensis*: Named after the locality Malacc
+
+ES — epithet *malaccensis*: Por la localidad de Malacc
 
 <!-- src:S0018 -->
 

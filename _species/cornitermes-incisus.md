@@ -38,9 +38,13 @@ ES — **切割角象白蚁** (*Cornitermes incisus*) es una especie del género
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
 
 EN — epithet *incisus*: Latin incisus (incised, notched)
+
+ES — epithet *incisus*: Del latín incisus (inciso, escotado)
 
 <!-- src:S0018 -->
 

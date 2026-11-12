@@ -38,9 +38,13 @@ ES — **三型华象白蚁** (*Sinonasutitermes trimorphus*) es una especie del
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *trimorphus*：希腊文 tri-（三）+ morphē（形），三形
 
 EN — epithet *trimorphus*: Greek tri- (three) + morphē (form), trimorphic
+
+ES — epithet *trimorphus*: Del griego tri- (tres) + morphē (forma), trimorfo
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **爱琴散白蚁** (*Reticulitermes aegeus*) es una especie del género 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *aegeus*：拉丁文 Aegeus（爱琴海的、或人名 Aegeus）
 
 EN — epithet *aegeus*: Latin Aegeus (Aegean, or the name Aegeus)
+
+ES — epithet *aegeus*: Del latín Aegeus (egeo, o el nombre Egeo)
 
 <!-- src:S0018 -->
 

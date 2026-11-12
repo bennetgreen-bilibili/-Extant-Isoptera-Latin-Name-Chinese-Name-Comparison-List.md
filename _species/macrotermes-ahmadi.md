@@ -38,9 +38,13 @@ ES — **阿哈默德大白蚁** (*Macrotermes ahmadi*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *ahmadi*：以人名 ahmad 命名（巴基斯坦白蚁学家 M. Ahmad）
 
 EN — epithet *ahmadi*: Named after 巴基斯坦白蚁学家 M. Ahmad
+
+ES — epithet *ahmadi*: En honor del termitólogo paquistaní M. Ahmad
 
 <!-- src:S0018 -->
 

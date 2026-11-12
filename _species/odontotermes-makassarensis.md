@@ -38,9 +38,13 @@ ES — **望加锡土白蚁** (*Odontotermes makassarensis*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *makassarensis*：以地名 望加锡（印度尼西亚） 命名
 
 EN — epithet *makassarensis*: Named after the locality Makassar
+
+ES — epithet *makassarensis*: Por la localidad de Makasar
 
 <!-- src:S0018 -->
 

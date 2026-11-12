@@ -35,9 +35,13 @@ ES — **矛唇狭鼻白蚁** (*Dolichorhinotermes lanciarius*) es una especie d
 
 EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
 
+ES — *Dolichorhinotermes*: Del griego dolichos (largo) + rhis (nariz) + latín termes.
+
 种加词 *lanciarius*：拉丁文 lanciarius（持矛的）
 
 EN — epithet *lanciarius*: Latin lanciarius (spearman)
+
+ES — epithet *lanciarius*: Del latín lanciarius (lancero)
 
 <!-- src:S0018 -->
 

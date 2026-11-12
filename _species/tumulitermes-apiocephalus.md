@@ -40,9 +40,13 @@ ES — **蜂头冢白蚁** (*Tumulitermes apiocephalus*) es una especie del gén
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *apiocephalus*：拉丁文 apium（梨）+ 希腊文 kephalē（头），梨头
 
 EN — epithet *apiocephalus*: Latin apium (pear) + Greek kephalē (head), pear-headed
+
+ES — epithet *apiocephalus*: Del latín apium (pera) + griego kephalē (cabeza), de cabeza de pera
 
 <!-- src:S0018 -->
 

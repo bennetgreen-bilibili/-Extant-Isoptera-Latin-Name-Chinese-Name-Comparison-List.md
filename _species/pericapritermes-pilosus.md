@@ -38,9 +38,13 @@ ES — **毛多近扭白蚁** (*Pericapritermes pilosus*) es una especie del gé
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *pilosus*：拉丁文 pilosus（多毛）
 
 EN — epithet *pilosus*: Latin pilosus (hairy)
+
+ES — epithet *pilosus*: Del latín pilosus (peludo)
 
 <!-- src:S0018 -->
 

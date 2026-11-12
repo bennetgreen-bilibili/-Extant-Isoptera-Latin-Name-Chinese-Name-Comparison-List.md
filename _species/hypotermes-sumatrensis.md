@@ -38,9 +38,13 @@ ES — **暗齿地白蚁** (*Hypotermes sumatrensis*) es una especie del género
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *sumatrensis*：以地名 苏门答腊 命名
 
 EN — epithet *sumatrensis*: Named after the locality Sumatr
+
+ES — epithet *sumatrensis*: Por la localidad de Sumatra
 
 <!-- src:S0018 -->
 

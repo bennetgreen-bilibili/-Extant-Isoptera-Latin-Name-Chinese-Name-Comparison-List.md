@@ -38,9 +38,13 @@ ES — **西部西部白蚁** (*Occasitermes occasus*) es una especie, y la espe
 
 EN — *Occasitermes*: Etymology uncertain (perhaps Latin occasus 'setting, west'); -termes from Latin termes.
 
+ES — *Occasitermes*: Etimología incierta (quizá el latín occasus «ocaso, oeste»); -termes, del latín termes.
+
 种加词 *occasus*：拉丁文 occasus（落下、西方）
 
 EN — epithet *occasus*: Latin occasus (setting, west)
+
+ES — epithet *occasus*: Del latín occasus (ocaso, oeste)
 
 <!-- src:S0018 -->
 

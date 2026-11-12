@@ -38,9 +38,13 @@ ES — **反色慢白蚁** (*Tarditermes contracolor*) es la única especie vivi
 
 EN — *Tarditermes*: From Latin tardus (slow) + termes.
 
+ES — *Tarditermes*: Del latín tardus (lento) + termes.
+
 种加词 *contracolor*：拉丁文 contra（相对）+ color（色），对比色
 
 EN — epithet *contracolor*: Latin contra (against) + color (colour), contrasting colour
+
+ES — epithet *contracolor*: Del latín contra (contra) + color (color), de color contrastante
 
 <!-- src:S0018 -->
 

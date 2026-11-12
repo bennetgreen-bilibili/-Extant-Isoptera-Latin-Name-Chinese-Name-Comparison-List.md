@@ -38,9 +38,13 @@ ES — **直颚直颚白蚁** (*Orthognathotermes orthognathus*) es una especie 
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *orthognathus*：希腊文 orthos（直）+ gnathos（颚），直颚
 
 EN — epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straight-jawed
+
+ES — epithet *orthognathus*: Del griego orthos (recto) + gnathos (mandíbula), de mandíbula recta
 
 <!-- src:S0018 -->
 

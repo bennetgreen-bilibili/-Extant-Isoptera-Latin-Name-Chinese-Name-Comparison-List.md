@@ -35,9 +35,13 @@ ES — **昆士兰棒鼻白蚁** (*Parrhinotermes queenslandicus*) es una especi
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *queenslandicus*：以地名 昆士兰（澳大利亚） 命名
 
 EN — epithet *queenslandicus*: Named after the locality Queensland
+
+ES — epithet *queenslandicus*: Por la localidad de Queensland
 
 <!-- src:S0018 -->
 

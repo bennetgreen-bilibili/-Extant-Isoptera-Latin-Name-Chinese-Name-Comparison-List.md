@@ -38,9 +38,13 @@ ES — **树栖原方白蚁** (*Procubitermes arboricola*) es una especie, y la 
 
 EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
 
+ES — *Procubitermes*: Del griego pro- (antes) + latín cubitus (codo) + termes.
+
 种加词 *arboricola*：拉丁文 arbor（树）+ -cola（栖居者），栖于树上
 
 EN — epithet *arboricola*: Latin arbor (tree) + -cola (dweller): tree-dwelling
+
+ES — epithet *arboricola*: Del latín arbor (árbol) + -cola (que habita): que vive en los árboles
 
 <!-- src:S0018 -->
 

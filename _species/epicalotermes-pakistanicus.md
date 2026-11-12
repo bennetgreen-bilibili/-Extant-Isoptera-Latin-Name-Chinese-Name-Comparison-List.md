@@ -35,9 +35,13 @@ ES — **巴基斯坦上木白蚁** (*Epicalotermes pakistanicus*) es una especi
 
 EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
 
+ES — *Epicalotermes*: Del griego epi- (sobre) + kalos (bello) + latín termes.
+
 种加词 *pakistanicus*：地名：巴基斯坦
 
 EN — epithet *pakistanicus*: After Pakistan
+
+ES — epithet *pakistanicus*: Por Pakistán
 
 <!-- src:S0018 -->
 

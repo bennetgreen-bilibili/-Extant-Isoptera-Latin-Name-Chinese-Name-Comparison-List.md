@@ -40,9 +40,13 @@ ES — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) es la única esp
 
 EN — *Firmitermes*: From Latin firmus (firm, strong) + termes.
 
+ES — *Firmitermes*: Del latín firmus (firme, fuerte) + termes.
+
 种加词 *abyssinicus*：以地名 Abyssinia（阿比西尼亚，埃塞俄比亚旧称）命名
 
 EN — epithet *abyssinicus*: Named after Abyssinia (Ethiopia, former name)
+
+ES — epithet *abyssinicus*: Por Abisinia (Etiopía, antiguo nombre)
 
 <!-- src:S0018 -->
 

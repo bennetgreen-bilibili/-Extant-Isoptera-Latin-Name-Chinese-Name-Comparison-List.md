@@ -35,9 +35,13 @@ ES — **奇白沙白蚁** (*Psammotermes allocerus*) es una especie del género
 
 EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
 
+ES — *Psammotermes*: Del griego psammos (arena) + latín termes.
+
 种加词 *allocerus*：拉丁文/希腊文 allo（异）+ cerus（角），指异角
 
 EN — epithet *allocerus*: From allo (异) + cerus (角)
+
+ES — epithet *allocerus*: De allo (distinto) + cerus (cuerno)
 
 <!-- src:S0018 -->
 

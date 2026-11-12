@@ -38,9 +38,13 @@ ES — **圆头象白蚁** (*Nasutitermes communis*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *communis*：拉丁文 communis（常见的、共有的）
 
 EN — epithet *communis*: Latin communis (common)
+
+ES — epithet *communis*: Del latín communis (común)
 
 <!-- src:S0018 -->
 

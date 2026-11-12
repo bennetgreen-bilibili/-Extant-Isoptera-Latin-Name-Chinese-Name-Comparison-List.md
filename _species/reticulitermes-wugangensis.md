@@ -35,9 +35,13 @@ ES — **武冈散白蚁** (*Reticulitermes wugangensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *wugangensis*：以地名 武冈（湖南） 命名
 
 EN — epithet *wugangensis*: Named after the locality Wugang
+
+ES — epithet *wugangensis*: Por la localidad de Wugang
 
 <!-- src:S0018 -->
 

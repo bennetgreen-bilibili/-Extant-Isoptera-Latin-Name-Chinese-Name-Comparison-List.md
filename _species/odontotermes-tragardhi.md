@@ -38,9 +38,13 @@ ES — **特雷高土白蚁** (*Odontotermes tragardhi*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *tragardhi*：以人名 Trägårdh（Ivar Trägårdh，瑞典昆虫学家） 命名
 
 EN — epithet *tragardhi*: Named after Ivar Trägårdh (Swedish entomologist)
+
+ES — epithet *tragardhi*: En honor de Ivar Trägårdh (entomólogo sueco)
 
 <!-- src:S0018 -->
 

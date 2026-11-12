@@ -38,9 +38,13 @@ ES — **缺齿土白蚁** (*Odontotermes erodens*) es una especie del género *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *erodens*：拉丁文 erodens（侵蚀的）
 
 EN — epithet *erodens*: Latin erodens (eroding)
+
+ES — epithet *erodens*: Del latín erodens (que erosiona)
 
 <!-- src:S0018 -->
 

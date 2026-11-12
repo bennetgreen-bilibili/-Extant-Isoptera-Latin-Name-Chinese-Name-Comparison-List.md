@@ -37,9 +37,13 @@ ES — **智利新白蚁** (*Neotermes chilensis*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *chilensis*：以地名 智利 命名
 
 EN — epithet *chilensis*: Named after the locality Chil
+
+ES — epithet *chilensis*: Por la localidad de Chile
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **方头真唇白蚁** (*Euchilotermes quadriceps*) es una especie del g�
 
 EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
 
+ES — *Euchilotermes*: Del griego eu- (bien) + cheilos (labio, margen) + latín termes.
+
 种加词 *quadriceps*：拉丁文/希腊文 quadri（方）+ ceps（头），指方头
 
 EN — epithet *quadriceps*: From quadri (方) + ceps (头)
+
+ES — epithet *quadriceps*: De quadri (cuadrado) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

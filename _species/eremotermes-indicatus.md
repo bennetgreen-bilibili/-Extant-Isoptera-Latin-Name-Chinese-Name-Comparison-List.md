@@ -38,9 +38,13 @@ ES — **指示漠白蚁** (*Eremotermes indicatus*) es una especie, y la especi
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
+ES — *Eremotermes*: Del griego erēmos (desierto, solitario) + latín termes.
+
 种加词 *indicatus*：拉丁文 indicatus（标记的）
 
 EN — epithet *indicatus*: Latin indicatus (marked)
+
+ES — epithet *indicatus*: Del latín indicatus (señalado)
 
 <!-- src:S0018 -->
 

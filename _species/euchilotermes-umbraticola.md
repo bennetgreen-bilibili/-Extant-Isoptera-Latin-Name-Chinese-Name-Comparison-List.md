@@ -38,9 +38,13 @@ ES — **隐蔽真唇白蚁** (*Euchilotermes umbraticola*) es una especie del g
 
 EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
 
+ES — *Euchilotermes*: Del griego eu- (bien) + cheilos (labio, margen) + latín termes.
+
 种加词 *umbraticola*：拉丁文/希腊文 umbrati（荫）+ cola（栖），指荫栖
 
 EN — epithet *umbraticola*: From umbrati (荫) + cola (栖)
+
+ES — epithet *umbraticola*: De umbrati (sombra) + cola (habitar)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **合江象白蚁** (*Nasutitermes hejiangensis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *hejiangensis*：以地名 合江（四川） 命名
 
 EN — epithet *hejiangensis*: Named after the locality Hejiang
+
+ES — epithet *hejiangensis*: Por la localidad de Hejiang
 
 <!-- src:S0018 -->
 

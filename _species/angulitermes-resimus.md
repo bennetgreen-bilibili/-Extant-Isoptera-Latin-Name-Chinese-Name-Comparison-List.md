@@ -38,9 +38,13 @@ ES — **高鼻角白蚁** (*Angulitermes resimus*) es una especie del género *
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *resimus*：拉丁文 resimus（鼻翘的、上翻的）
 
 EN — epithet *resimus*: Latin resimus (turned-up)
+
+ES — epithet *resimus*: Del latín resimus (levantado hacia arriba)
 
 <!-- src:S0018 -->
 

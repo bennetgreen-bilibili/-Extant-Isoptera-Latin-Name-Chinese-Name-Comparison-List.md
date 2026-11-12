@@ -35,9 +35,13 @@ ES — **西奈头长白蚁** (*Longicaputermes sinaicus*) es la única especie 
 
 EN — *Longicaputermes*: From Latin longus (long) + caput (head) + termes.
 
+ES — *Longicaputermes*: Del latín longus (largo) + caput (cabeza) + termes.
+
 种加词 *sinaicus*：以地名 Sinai（西奈半岛，埃及）命名
 
 EN — epithet *sinaicus*: Named after Sinai (peninsula, Egypt)
+
+ES — epithet *sinaicus*: Por Sinaí (península, Egipto)
 
 <!-- src:S0018 -->
 

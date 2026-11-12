@@ -38,9 +38,13 @@ ES — **梳状小脊突白蚁** (*Lophotermes pectinatus*) es una especie, y la
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *pectinatus*：拉丁文/希腊文 pectin（栉）+ atus（具），指栉具
 
 EN — epithet *pectinatus*: From pectin (栉) + atus (具)
+
+ES — epithet *pectinatus*: De pectin (peine) + atus (que posee)
 
 <!-- src:S0018 -->
 

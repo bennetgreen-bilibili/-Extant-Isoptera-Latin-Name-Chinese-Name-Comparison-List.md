@@ -38,9 +38,13 @@ ES — **圆额前奇白蚁** (*Promirotermes rotundifrons*) es una especie del 
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *rotundifrons*：拉丁文/希腊文 rotundi（圆）+ frons（额），指圆额
 
 EN — epithet *rotundifrons*: From rotundi (圆) + frons (额)
+
+ES — epithet *rotundifrons*: De rotundi (redondo) + frons (frente)
 
 <!-- src:S0018 -->
 

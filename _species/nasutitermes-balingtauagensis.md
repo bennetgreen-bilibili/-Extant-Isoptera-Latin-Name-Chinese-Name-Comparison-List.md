@@ -38,9 +38,13 @@ ES — **巴林他象白蚁** (*Nasutitermes balingtauagensis*) es una especie d
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *balingtauagensis*：以地名 Balingtauag 命名
 
 EN — epithet *balingtauagensis*: Named after the locality Balingtauag
+
+ES — epithet *balingtauagensis*: Por la localidad de Balingtauag
 
 <!-- src:S0018 -->
 

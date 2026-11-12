@@ -38,9 +38,13 @@ ES — **独角须白蚁** (*Hospitalitermes monoceros*) es una especie del gén
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *monoceros*：希腊文 monos（单）+ keras（角），独角
 
 EN — epithet *monoceros*: Greek monos (single) + keras (horn), one-horned
+
+ES — epithet *monoceros*: Del griego monos (uno) + keras (cuerno), de un solo cuerno
 
 <!-- src:S0018 -->
 

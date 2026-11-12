@@ -38,9 +38,13 @@ ES — **几内亚弓白蚁** (*Amitermes guineensis*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *guineensis*：地名：几内亚
 
 EN — epithet *guineensis*: After Guinea
+
+ES — epithet *guineensis*: Por Guinea
 
 <!-- src:S0018 -->
 

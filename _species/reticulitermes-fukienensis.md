@@ -35,9 +35,13 @@ ES — **花胸散白蚁** (*Reticulitermes fukienensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *fukienensis*：以地名 福建 命名
 
 EN — epithet *fukienensis*: Named after the locality Fukien
+
+ES — epithet *fukienensis*: Por la localidad de Fukien
 
 <!-- src:S0018 -->
 

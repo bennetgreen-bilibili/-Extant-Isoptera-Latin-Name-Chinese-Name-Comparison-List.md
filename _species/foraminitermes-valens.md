@@ -38,9 +38,13 @@ ES — **强健孔白蚁** (*Foraminitermes valens*) es una especie del género 
 
 EN — *Foraminitermes*: From Latin foramen (opening) + termes.
 
+ES — *Foraminitermes*: Del latín foramen (abertura) + termes.
+
 种加词 *valens*：拉丁文 valens（强壮的）
 
 EN — epithet *valens*: Latin valens (strong)
+
+ES — epithet *valens*: Del latín valens (fuerte)
 
 <!-- src:S0018 -->
 

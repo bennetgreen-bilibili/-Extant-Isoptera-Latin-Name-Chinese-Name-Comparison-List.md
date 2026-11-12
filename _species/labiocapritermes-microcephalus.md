@@ -38,9 +38,13 @@ ES — **小头唇扭白蚁** (*Labiocapritermes microcephalus*) es una especie 
 
 EN — *Labiocapritermes*: From Latin labium (lip) + caper (goat) + termes.
 
+ES — *Labiocapritermes*: Del latín labium (labio) + caper (cabra) + termes.
+
 种加词 *microcephalus*：希腊文 mikros（小）+ kephalē（头），小头
 
 EN — epithet *microcephalus*: Greek mikros (small) + kephalē (head), small-headed
+
+ES — epithet *microcephalus*: Del griego mikros (pequeño) + kephalē (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

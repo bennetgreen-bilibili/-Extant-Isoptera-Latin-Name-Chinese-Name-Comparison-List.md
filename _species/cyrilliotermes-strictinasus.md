@@ -40,9 +40,13 @@ ES — **缩鼻壶头白蚁** (*Cyrilliotermes strictinasus*) es una especie del
 
 EN — *Cyrilliotermes*: Named after a person (Cyrillio); -termes from Latin termes.
 
+ES — *Cyrilliotermes*: En honor de una persona (Cyrillio); -termes, del latín termes.
+
 种加词 *strictinasus*：拉丁文 strictus（紧、直）+ nasus（鼻），紧鼻
 
 EN — epithet *strictinasus*: Latin strictus (tight) + nasus (nose), tight-nosed
+
+ES — epithet *strictinasus*: Latín strictus (apretado) + nasus (nariz), de nariz apretada
 
 <!-- src:S0018 -->
 

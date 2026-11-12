@@ -35,9 +35,13 @@ ES — **稍长树白蚁** (*Glyptotermes longuisculus*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *longuisculus*：拉丁文/希腊文 longuisc（长）+ ulus（小（指小）），指长小（指小）
 
 EN — epithet *longuisculus*: From longuisc (长) + ulus (小（指小）)
+
+ES — epithet *longuisculus*: De longuisc (largo) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

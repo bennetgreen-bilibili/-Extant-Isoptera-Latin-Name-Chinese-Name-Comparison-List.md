@@ -35,9 +35,13 @@ ES — **阔颚树白蚁** (*Glyptotermes latignathus*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *latignathus*：拉丁文 latus（宽）+ 希腊文 gnathos（颚），宽颚
 
 EN — epithet *latignathus*: Latin latus (broad) + Greek gnathos (jaw), broad-jawed
+
+ES — epithet *latignathus*: Del latín latus (ancho) + del griego gnathos (mandíbula), de mandíbulas anchas
 
 <!-- src:S0018 -->
 

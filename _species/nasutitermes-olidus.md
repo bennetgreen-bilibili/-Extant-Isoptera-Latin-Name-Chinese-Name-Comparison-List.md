@@ -38,9 +38,13 @@ ES — **臭味象白蚁** (*Nasutitermes olidus*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *olidus*：拉丁文 olidus（有臭味的）
 
 EN — epithet *olidus*: Latin olidus (smelly)
+
+ES — epithet *olidus*: Del latín olidus (maloliente)
 
 <!-- src:S0018 -->
 

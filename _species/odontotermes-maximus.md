@@ -38,9 +38,13 @@ ES — **最大土白蚁** (*Odontotermes maximus*) es una especie del género *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *maximus*：拉丁文 maximus（最大的）
 
 EN — epithet *maximus*: Latin maximus (largest)
+
+ES — epithet *maximus*: Del latín maximus (el mayor)
 
 <!-- src:S0018 -->
 

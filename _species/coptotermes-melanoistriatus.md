@@ -35,9 +35,13 @@ ES — **黑带乳白蚁** (*Coptotermes melanoistriatus*) es una especie del g�
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *melanoistriatus*：拉丁文/希腊文 melanoistri（黑）+ atus（具），指黑具
 
 EN — epithet *melanoistriatus*: From melanoistri (黑) + atus (具)
+
+ES — epithet *melanoistriatus*: De melanoistri (negro) + atus (provisto de)
 
 <!-- src:S0018 -->
 

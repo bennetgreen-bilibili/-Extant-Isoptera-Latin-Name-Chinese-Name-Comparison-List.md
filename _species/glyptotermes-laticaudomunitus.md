@@ -35,9 +35,13 @@ ES — **宽尾树白蚁** (*Glyptotermes laticaudomunitus*) es una especie del 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *laticaudomunitus*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *laticaudomunitus*: From the descriptive term 'lat' (broad)
+
+ES — epithet *laticaudomunitus*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

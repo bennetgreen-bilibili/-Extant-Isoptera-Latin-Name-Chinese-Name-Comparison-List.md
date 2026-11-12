@@ -38,9 +38,13 @@ ES — **细长镰白蚁** (*Drepanotermes acicularis*) es una especie del géne
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *acicularis*：拉丁文/希腊文 acicul（针）+ aris（相关），指针相关
 
 EN — epithet *acicularis*: From acicul (针) + aris (相关)
+
+ES — epithet *acicularis*: De acicul (aguja) + aris (relativo a)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **单型钝白蚁** (*Obtusitermes monomorphus*) es una especie del géne
 
 EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
 
+ES — *Obtusitermes*: Del latín obtusus (romo) + termes.
+
 种加词 *monomorphus*：希腊文 monos（单）+ morphē（形），单形
 
 EN — epithet *monomorphus*: Greek monos (single) + morphē (form), monomorphic
+
+ES — epithet *monomorphus*: Del griego monos (uno) + morphē (forma), monomorfo
 
 <!-- src:S0018 -->
 

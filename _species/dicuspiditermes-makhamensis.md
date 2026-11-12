@@ -38,9 +38,13 @@ ES — **玛堪突扭白蚁** (*Dicuspiditermes makhamensis*) es una especie del
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *makhamensis*：以地名 Makham（马坎）命名
 
 EN — epithet *makhamensis*: Named after the locality Makham
+
+ES — epithet *makhamensis*: Por la localidad de Makham
 
 <!-- src:S0018 -->
 

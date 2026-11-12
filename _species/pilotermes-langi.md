@@ -38,9 +38,13 @@ ES — **兰棘白蚁** (*Pilotermes langi*) es la única especie viviente del g
 
 EN — *Pilotermes*: From Latin pilus (hair) + termes.
 
+ES — *Pilotermes*: Del latín pilus (pelo) + termes.
+
 种加词 *langi*：以人名 Lang 命名
 
 EN — epithet *langi*: Named after Lang
+
+ES — epithet *langi*: En honor de Lang
 
 <!-- src:S0018 -->
 

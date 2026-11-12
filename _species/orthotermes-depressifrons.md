@@ -38,9 +38,13 @@ ES — **陷额直白蚁** (*Orthotermes depressifrons*) es una especie, y la es
 
 EN — *Orthotermes*: From Greek orthos (straight) + Latin termes.
 
+ES — *Orthotermes*: Del griego orthos (recto) + latín termes.
+
 种加词 *depressifrons*：拉丁文/希腊文 depressi（扁平）+ frons（额），指扁平额
 
 EN — epithet *depressifrons*: From depressi (扁平) + frons (额)
+
+ES — epithet *depressifrons*: De depressi (deprimido) + frons (frente)
 
 <!-- src:S0018 -->
 

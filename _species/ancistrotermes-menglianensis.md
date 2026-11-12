@@ -38,9 +38,13 @@ ES — **孟连钩白蚁** (*Ancistrotermes menglianensis*) es una especie del g
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *menglianensis*：以地名 孟连（云南） 命名
 
 EN — epithet *menglianensis*: Named after the locality Menglian
+
+ES — epithet *menglianensis*: Por la localidad de Menglian
 
 <!-- src:S0018 -->
 

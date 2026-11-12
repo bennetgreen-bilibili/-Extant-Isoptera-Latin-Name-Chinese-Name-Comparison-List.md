@@ -35,9 +35,13 @@ ES — **具疣树白蚁** (*Glyptotermes tuberifer*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *tuberifer*：拉丁文/希腊文 tuberi（瘤）+ fer（具），指瘤具
 
 EN — epithet *tuberifer*: From tuberi (瘤) + fer (具)
+
+ES — epithet *tuberifer*: De tuberi (tubérculo) + fer (portador)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **褐胸散白蚁** (*Reticulitermes castanus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *castanus*：拉丁文 castaneus（栗色的，castanea=栗树）
 
 EN — epithet *castanus*: Latin castaneus (chestnut-coloured, castanea = chestnut)
+
+ES — epithet *castanus*: Del latín castaneus (de color castaño, castanea = castaña)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **具颚锯白蚁** (*Microcerotermes mandibularis*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *mandibularis*：拉丁文 mandibula（上颚），上颚的
 
 EN — epithet *mandibularis*: Latin mandibula (mandible), mandibular
+
+ES — epithet *mandibularis*: Del latín mandibula (mandíbula), mandibular
 
 <!-- src:S0018 -->
 

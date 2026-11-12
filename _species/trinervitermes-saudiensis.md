@@ -38,9 +38,13 @@ ES — **沙特三脉白蚁** (*Trinervitermes saudiensis*) es una especie del g
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *saudiensis*：以地名 沙特阿拉伯 命名
 
 EN — epithet *saudiensis*: Named after the locality Saud
+
+ES — epithet *saudiensis*: Por la localidad de Saud
 
 <!-- src:S0018 -->
 

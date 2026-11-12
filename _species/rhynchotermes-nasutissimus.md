@@ -40,9 +40,13 @@ ES — **巨鼻喙白蚁** (*Rhynchotermes nasutissimus*) es una especie, y la e
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *nasutissimus*：拉丁文 nasutus（大鼻）+ -issimus（最），鼻最大
 
 EN — epithet *nasutissimus*: Latin nasutus (nasute) + -issimus (most), most nasute
+
+ES — epithet *nasutissimus*: Del latín nasutus (nasuto) + -issimus (muy), el más nasuto
 
 <!-- src:S0018 -->
 

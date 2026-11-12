@@ -35,9 +35,13 @@ ES — **北方无刺白蚁** (*Anacanthotermes septentrionalis*) es una especie
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *septentrionalis*：拉丁文 septentrionalis（北方的）
 
 EN — epithet *septentrionalis*: Latin septentrionalis (northern)
+
+ES — epithet *septentrionalis*: Del latín septentrionalis (septentrional, del norte)
 
 <!-- src:S0018 -->
 

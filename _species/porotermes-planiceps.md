@@ -37,9 +37,13 @@ ES — **扁头洞白蚁** (*Porotermes planiceps*) es una especie del género *
 
 EN — *Porotermes*: From Greek poros (pore, passage) + Latin termes.
 
+ES — *Porotermes*: Del griego poros (poro, pasaje) + latín termes.
+
 种加词 *planiceps*：拉丁文 planus（平）+ -ceps（头），平头
 
 EN — epithet *planiceps*: Latin planus (flat) + -ceps (head), flat-headed
+
+ES — epithet *planiceps*: Del latín planus (plano) + -ceps (cabeza), de cabeza plana
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **洪都拉斯解甲白蚁** (*Anoplotermes hondurensis*) es una especie 
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *hondurensis*：以地名 洪都拉斯 命名
 
 EN — epithet *hondurensis*: Named after the locality Hondur
+
+ES — epithet *hondurensis*: Por la localidad de Hondur
 
 <!-- src:S0018 -->
 

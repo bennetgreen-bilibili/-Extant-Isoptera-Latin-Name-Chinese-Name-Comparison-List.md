@@ -38,9 +38,13 @@ ES — **库林匙白蚁** (*Spatulitermes coolingi*) es la única especie vivie
 
 EN — *Spatulitermes*: From Latin spatula (spatula) + termes.
 
+ES — *Spatulitermes*: Del latín spatula (espátula) + termes.
+
 种加词 *coolingi*：以人名 Cooling 命名
 
 EN — epithet *coolingi*: Named after Cooling
+
+ES — epithet *coolingi*: En honor de Cooling
 
 <!-- src:S0018 -->
 

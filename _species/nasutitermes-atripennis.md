@@ -40,9 +40,13 @@ ES — **黑翅象白蚁** (*Nasutitermes atripennis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *atripennis*：拉丁文/希腊文 atri（黑）+ pennis（翅），指黑翅
 
 EN — epithet *atripennis*: From atri (黑) + pennis (翅)
+
+ES — epithet *atripennis*: De atri (negro) + pennis (alas)
 
 <!-- src:S0018 -->
 

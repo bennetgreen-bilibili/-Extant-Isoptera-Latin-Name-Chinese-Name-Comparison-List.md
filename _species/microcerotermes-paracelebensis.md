@@ -38,9 +38,13 @@ ES — **似西里伯斯锯白蚁** (*Microcerotermes paracelebensis*) es una es
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *paracelebensis*：希腊文 para（旁、近）＋Celebes（西里伯斯，今苏拉威西），指近西里伯斯的
 
 EN — epithet *paracelebensis*: Greek para (near) + Celebes (Sulawesi): near Celebes
+
+ES — epithet *paracelebensis*: Del griego para (cerca) + Célebes (Sulawesi): cercano a Célebes
 
 <!-- src:S0018 -->
 

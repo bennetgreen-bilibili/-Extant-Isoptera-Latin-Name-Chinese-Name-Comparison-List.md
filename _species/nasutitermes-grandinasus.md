@@ -38,9 +38,13 @@ ES — **大鼻象白蚁** (*Nasutitermes grandinasus*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *grandinasus*：拉丁文/希腊文词根「grand」（大）
 
 EN — epithet *grandinasus*: From the descriptive term 'grand' (great)
+
+ES — epithet *grandinasus*: Del término descriptivo «grand» (grande)
 
 <!-- src:S0018 -->
 

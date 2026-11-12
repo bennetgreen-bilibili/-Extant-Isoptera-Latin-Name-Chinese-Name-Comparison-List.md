@@ -35,9 +35,13 @@ ES — **锈色新白蚁** (*Neotermes ferrugineus*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *ferrugineus*：拉丁文 ferrugineus（铁锈色）
 
 EN — epithet *ferrugineus*: Latin ferrugineus (rusty)
+
+ES — epithet *ferrugineus*: Del latín ferrugineus (herrumbroso)
 
 <!-- src:S0018 -->
 

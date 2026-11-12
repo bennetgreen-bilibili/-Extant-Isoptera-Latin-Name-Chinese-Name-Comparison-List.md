@@ -38,9 +38,13 @@ ES — **尖颚角象白蚁** (*Cornitermes acignathus*) es una especie del gén
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *acignathus*：拉丁文 acies（尖、刃）+ 希腊文 gnathos（颚），尖颚
 
 EN — epithet *acignathus*: Latin acies (point, edge) + Greek gnathos (jaw), sharp-jawed
+
+ES — epithet *acignathus*: Del latín acies (punta, filo) + griego gnathos (mandíbula), de mandíbulas afiladas
 
 <!-- src:S0018 -->
 

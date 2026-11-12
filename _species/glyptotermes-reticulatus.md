@@ -35,9 +35,13 @@ ES — **似网树白蚁** (*Glyptotermes reticulatus*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *reticulatus*：拉丁文/希腊文 reticul（网状）+ atus（具），指网状具
 
 EN — epithet *reticulatus*: From reticul (网状) + atus (具)
+
+ES — epithet *reticulatus*: De reticul (reticulado) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **新伪扭白蚁** (*Pseudocapritermes novus*) es una especie del géner
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *novus*：拉丁文 novus（新的）
 
 EN — epithet *novus*: Latin novus (new)
+
+ES — epithet *novus*: Del latín novus (nuevo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **长弯后肠白蚁** (*Apsenterotermes declinatus*) es una especie del 
 
 EN — *Apsenterotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apsenterotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *declinatus*：拉丁文 declinatus（下弯的、偏斜的）
 
 EN — epithet *declinatus*: Latin declinatus (bent down, declined)
+
+ES — epithet *declinatus*: Del latín declinatus (inclinado hacia abajo, declinado)
 
 <!-- src:S0018 -->
 

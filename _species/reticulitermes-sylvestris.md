@@ -35,9 +35,13 @@ ES — **林海散白蚁** (*Reticulitermes sylvestris*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *sylvestris*：拉丁文/希腊文词根「sylv」（森林）
 
 EN — epithet *sylvestris*: From the descriptive term 'sylv' (forest)
+
+ES — epithet *sylvestris*: Del término descriptivo «sylv» (bosque)
 
 <!-- src:S0018 -->
 

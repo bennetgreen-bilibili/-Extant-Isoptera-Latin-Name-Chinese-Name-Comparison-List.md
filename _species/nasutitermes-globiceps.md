@@ -38,9 +38,13 @@ ES — **球头象白蚁** (*Nasutitermes globiceps*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *globiceps*：拉丁文/希腊文 globi（球）+ ceps（头），指球头
 
 EN — epithet *globiceps*: From globi (球) + ceps (头)
+
+ES — epithet *globiceps*: De globi (globo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

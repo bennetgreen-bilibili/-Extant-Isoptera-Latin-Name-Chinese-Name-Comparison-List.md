@@ -38,9 +38,13 @@ ES — **瓢头瓢白蚁** (*Bulbitermes bulbiceps*) es una especie del género 
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *bulbiceps*：拉丁文 bulbus（球茎）+ -ceps（头），球头
 
 EN — epithet *bulbiceps*: Latin bulbus (bulb) + -ceps (head), bulb-headed
+
+ES — epithet *bulbiceps*: Del latín bulbus (bulbo) + -ceps (cabeza), de cabeza bulbosa
 
 <!-- src:S0018 -->
 

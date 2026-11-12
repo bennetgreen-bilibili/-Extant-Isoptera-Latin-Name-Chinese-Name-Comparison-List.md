@@ -38,9 +38,13 @@ ES — **凯撒方白蚁** (*Cubitermes caesareus*) es una especie del género *
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *caesareus*：拉丁文 caesareus（恺撒的、帝王的）
 
 EN — epithet *caesareus*: Latin caesareus (of Caesar, imperial)
+
+ES — epithet *caesareus*: Del latín caesareus (de César, imperial)
 
 <!-- src:S0018 -->
 

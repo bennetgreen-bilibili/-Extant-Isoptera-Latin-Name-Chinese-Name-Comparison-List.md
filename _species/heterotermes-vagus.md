@@ -37,9 +37,13 @@ ES — **游荡异白蚁** (*Heterotermes vagus*) es una especie del género *He
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *vagus*：拉丁文 vagus（游荡的）
 
 EN — epithet *vagus*: Latin vagus (wandering)
+
+ES — epithet *vagus*: Del latín vagus (errante)
 
 <!-- src:S0018 -->
 

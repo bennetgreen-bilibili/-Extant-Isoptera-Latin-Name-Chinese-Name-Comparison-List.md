@@ -38,9 +38,13 @@ ES — **凸额凸白蚁** (*Convexitermes convexifrons*) es una especie, y la e
 
 EN — *Convexitermes*: From Latin convexus (convex) + termes.
 
+ES — *Convexitermes*: Del latín convexus (convexo) + termes.
+
 种加词 *convexifrons*：拉丁文/希腊文 convexi（凸）+ frons（额），指凸额
 
 EN — epithet *convexifrons*: From convexi (凸) + frons (额)
+
+ES — epithet *convexifrons*: De convexi (convexo) + frons (frente)
 
 <!-- src:S0018 -->
 

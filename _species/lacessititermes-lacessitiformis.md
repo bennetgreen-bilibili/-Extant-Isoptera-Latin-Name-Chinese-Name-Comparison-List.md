@@ -38,9 +38,13 @@ ES — **似紧张怒白蚁** (*Lacessititermes lacessitiformis*) es una especie
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *lacessitiformis*：拉丁文 lacessitus（被挑衅）+ -formis（形），似 lacessitus
 
 EN — epithet *lacessitiformis*: Latin lacessitus (provoked) + -formis (shaped)
+
+ES — epithet *lacessitiformis*: Del latín lacessitus (provocado) + -formis (en forma de)
 
 <!-- src:S0018 -->
 

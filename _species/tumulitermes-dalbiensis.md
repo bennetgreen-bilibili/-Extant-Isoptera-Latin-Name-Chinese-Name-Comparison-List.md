@@ -38,9 +38,13 @@ ES — **多尔比冢白蚁** (*Tumulitermes dalbiensis*) es una especie del gé
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *dalbiensis*：以地名 Dalby 命名
 
 EN — epithet *dalbiensis*: Named after Dalby
+
+ES — epithet *dalbiensis*: En honor de Dalby
 
 <!-- src:S0018 -->
 

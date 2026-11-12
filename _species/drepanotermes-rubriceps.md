@@ -40,9 +40,13 @@ ES — **红头镰白蚁** (*Drepanotermes rubriceps*) es una especie del géner
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *rubriceps*：拉丁文/希腊文 rubri（红）+ ceps（头），指红头
 
 EN — epithet *rubriceps*: From rubri (红) + ceps (头)
+
+ES — epithet *rubriceps*: De rubri (rojo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

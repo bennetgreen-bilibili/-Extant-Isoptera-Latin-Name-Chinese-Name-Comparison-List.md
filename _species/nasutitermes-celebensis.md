@@ -38,9 +38,13 @@ ES — **西里伯斯象白蚁** (*Nasutitermes celebensis*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *celebensis*：以地名 西里伯斯（苏拉威西） 命名
 
 EN — epithet *celebensis*: Named after the locality Celeb
+
+ES — epithet *celebensis*: Por la localidad de Célebes
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **利略弓白蚁** (*Amitermes lilloi*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *lilloi*：以人名 Lillo（利略）命名（阿根廷博物学家 Miguel Lillo）
 
 EN — epithet *lilloi*: Named after Lillo (Argentine naturalist Miguel Lillo)
+
+ES — epithet *lilloi*: En honor de Lillo (naturalista argentino Miguel Lillo)
 
 <!-- src:S0018 -->
 

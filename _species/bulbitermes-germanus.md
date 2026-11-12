@@ -38,9 +38,13 @@ ES — **常见瓢白蚁** (*Bulbitermes germanus*) es una especie del género *
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *germanus*：拉丁文 germanus（真实的、同血缘的）
 
 EN — epithet *germanus*: Latin germanus (genuine, brotherly/of the same stock)
+
+ES — epithet *germanus*: Del latín germanus (genuino, hermano, del mismo linaje)
 
 <!-- src:S0018 -->
 

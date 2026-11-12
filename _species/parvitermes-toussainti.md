@@ -38,9 +38,13 @@ ES — **图森特微白蚁** (*Parvitermes toussainti*) es una especie del gén
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *toussainti*：以人名命名；疑纪念海地革命领袖杜桑·卢维杜尔（Toussaint Louverture），原文词源句未读到，待考。
 
 EN — epithet *toussainti*: Named after a person; probably honors the Haitian revolutionary leader Toussaint Louverture, but the etymology statement was not seen; uncertain.
+
+ES — epithet *toussainti*: En honor de una persona; probablemente honra al líder revolucionario haitiano Toussaint Louverture, pero no se consultó el enunciado etimológico; incierto
 
 <!-- src:S0018 -->
 

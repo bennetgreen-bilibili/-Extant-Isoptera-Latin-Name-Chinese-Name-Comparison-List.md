@@ -38,9 +38,13 @@ ES — **细锯齿大白蚁** (*Macrotermes serrulatus*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *serrulatus*：拉丁文/希腊文 serrul（锯齿）+ atus（具），指锯齿具
 
 EN — epithet *serrulatus*: From serrul (锯齿) + atus (具)
+
+ES — epithet *serrulatus*: De serrul (sierra pequeña) + atus (que posee)
 
 <!-- src:S0018 -->
 

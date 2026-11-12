@@ -40,9 +40,13 @@ ES — **隐匿腹爆白蚁** (*Ruptitermes reconditus*) es una especie del gén
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *reconditus*：拉丁文 reconditus（隐秘的）
 
 EN — epithet *reconditus*: Latin reconditus (hidden)
+
+ES — epithet *reconditus*: Del latín reconditus (oculto)
 
 <!-- src:S0018 -->
 

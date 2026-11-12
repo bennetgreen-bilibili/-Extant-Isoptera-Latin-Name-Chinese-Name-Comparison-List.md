@@ -40,9 +40,13 @@ ES — **明亮突扭白蚁** (*Dicuspiditermes laetus*) es una especie del gén
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *laetus*：拉丁文 laetus（愉悦的、鲜艳的）
 
 EN — epithet *laetus*: Latin laetus (joyful, bright)
+
+ES — epithet *laetus*: Del latín laetus (alegre, vivo)
 
 <!-- src:S0018 -->
 

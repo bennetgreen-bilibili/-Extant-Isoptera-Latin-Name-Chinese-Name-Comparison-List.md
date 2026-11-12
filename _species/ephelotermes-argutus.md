@@ -38,9 +38,13 @@ ES — **清楚棒颚白蚁** (*Ephelotermes argutus*) es una especie del géner
 
 EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Ephelotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *argutus*：拉丁文 argutus（尖锐的、清晰的）
 
 EN — epithet *argutus*: Latin argutus (sharp, clear)
+
+ES — epithet *argutus*: Del latín argutus (agudo, claro)
 
 <!-- src:S0018 -->
 

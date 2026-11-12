@@ -38,9 +38,13 @@ ES — **喜沙洁白蚁** (*Skatitermes psammophilus*) es una especie, y la esp
 
 EN — *Skatitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Skatitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *psammophilus*：希腊文 psammos（沙）+ philos（爱），爱沙、栖沙
 
 EN — epithet *psammophilus*: Greek psammos (sand) + philos (loving), sand-loving
+
+ES — epithet *psammophilus*: Del griego psammos (arena) + philos (amante), amante de la arena
 
 <!-- src:S0018 -->
 

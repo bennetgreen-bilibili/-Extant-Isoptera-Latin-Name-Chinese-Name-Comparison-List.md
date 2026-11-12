@@ -35,9 +35,13 @@ ES — **短链异白蚁** (*Heterotermes brevicatena*) es una especie del géne
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *brevicatena*：拉丁文/希腊文词根「brev」（短）
 
 EN — epithet *brevicatena*: From the descriptive term 'brev' (short)
+
+ES — epithet *brevicatena*: Del término descriptivo «brev» (corto)
 
 <!-- src:S0018 -->
 

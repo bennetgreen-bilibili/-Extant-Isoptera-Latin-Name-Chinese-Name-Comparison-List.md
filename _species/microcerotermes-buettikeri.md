@@ -38,9 +38,13 @@ ES — **比特铁克锯白蚁** (*Microcerotermes buettikeri*) es una especie d
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *buettikeri*：以人名 Büttiker（Willi Büttiker）命名
 
 EN — epithet *buettikeri*: Named after Willi Büttiker
+
+ES — epithet *buettikeri*: En honor de Willi Büttiker
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **漏壶缩狭白蚁** (*Coarctotermes clepsydra*) es una especie, y la e
 
 EN — *Coarctotermes*: From Latin coarctatus (compressed) + termes.
 
+ES — *Coarctotermes*: Del latín coarctatus (comprimido) + termes.
+
 种加词 *clepsydra*：希腊文 klepsydra（水钟）
 
 EN — epithet *clepsydra*: Greek klepsydra (water-clock)
+
+ES — epithet *clepsydra*: Del griego klepsydra (reloj de agua)
 
 <!-- src:S0018 -->
 

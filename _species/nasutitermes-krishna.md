@@ -38,9 +38,13 @@ ES — **克里希纳象白蚁** (*Nasutitermes krishna*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *krishna*：以 Krishna 命名（白蚁学家 K. Krishna 或印度神 Krishna）
 
 EN — epithet *krishna*: Named after K. Krishna or the Hindu deity Krishna
+
+ES — epithet *krishna*: En honor de K. Krishna o de la deidad hindú Krishna
 
 <!-- src:S0018 -->
 

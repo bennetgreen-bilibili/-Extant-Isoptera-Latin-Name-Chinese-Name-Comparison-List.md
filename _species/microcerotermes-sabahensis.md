@@ -38,9 +38,13 @@ ES — **沙巴锯白蚁** (*Microcerotermes sabahensis*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *sabahensis*：以地名 沙巴（马来西亚） 命名
 
 EN — epithet *sabahensis*: Named after the locality Sabah
+
+ES — epithet *sabahensis*: Por la localidad de Sabah
 
 <!-- src:S0018 -->
 

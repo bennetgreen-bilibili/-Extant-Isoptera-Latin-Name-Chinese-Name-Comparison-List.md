@@ -35,9 +35,13 @@ ES — **凯姆勒新白蚁** (*Neotermes kemneri*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *kemneri*：以人名 Kemner 命名（瑞典昆虫学家 N. A. Kemner）
 
 EN — epithet *kemneri*: Named after the entomologist N. A. Kemner
+
+ES — epithet *kemneri*: En honor del entomólogo N. A. Kemner
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **充裕新白蚁** (*Neotermes superans*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *superans*：拉丁文/希腊文词根「super」（上）
 
 EN — epithet *superans*: From the descriptive term 'super' (above)
+
+ES — epithet *superans*: Del término descriptivo «super» (arriba)
 
 <!-- src:S0018 -->
 

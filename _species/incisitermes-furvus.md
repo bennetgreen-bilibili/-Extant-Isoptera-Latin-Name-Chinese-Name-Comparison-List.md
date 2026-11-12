@@ -35,9 +35,13 @@ ES — **暗黑楹白蚁** (*Incisitermes furvus*) es una especie del género *I
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *furvus*：拉丁文 furvus（暗黑的）
 
 EN — epithet *furvus*: Latin furvus (dark, black)
+
+ES — epithet *furvus*: Del latín furvus (oscuro, negro)
 
 <!-- src:S0018 -->
 

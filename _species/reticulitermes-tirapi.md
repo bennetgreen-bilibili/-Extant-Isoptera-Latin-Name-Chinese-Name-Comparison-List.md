@@ -35,9 +35,13 @@ ES — **特拉普散白蚁** (*Reticulitermes tirapi*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *tirapi*：以地名 Tirap（印度阿鲁纳恰尔邦） 命名
 
 EN — epithet *tirapi*: Named after the locality Tirap (Arunachal Pradesh, India)
+
+ES — epithet *tirapi*: Por la localidad de Tirap (Arunachal Pradesh, India)
 
 <!-- src:S0018 -->
 

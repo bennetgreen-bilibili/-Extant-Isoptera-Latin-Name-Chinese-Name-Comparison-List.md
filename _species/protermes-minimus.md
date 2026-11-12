@@ -38,9 +38,13 @@ ES — **最小前白蚁** (*Protermes minimus*) es una especie del género *Pro
 
 EN — *Protermes*: From Greek pro- (before) + Latin termes.
 
+ES — *Protermes*: Del griego pro- (antes) + latín termes.
+
 种加词 *minimus*：拉丁文 minimus（最小）
 
 EN — epithet *minimus*: Latin minimus (smallest)
+
+ES — epithet *minimus*: Del latín minimus (el menor)
 
 <!-- src:S0018 -->
 

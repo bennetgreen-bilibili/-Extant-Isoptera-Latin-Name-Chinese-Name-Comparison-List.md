@@ -38,9 +38,13 @@ ES — **基斯特纳土白蚁** (*Odontotermes kistneri*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
 
 EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+ES — epithet *kistneri*: En honor del entomólogo D. H. Kistner
 
 <!-- src:S0018 -->
 

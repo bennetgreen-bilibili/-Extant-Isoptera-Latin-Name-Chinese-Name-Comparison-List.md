@@ -35,9 +35,13 @@ ES — **短盖杆白蚁** (*Stylotermes valvules*) es una especie del género *
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *valvules*：拉丁文 valvula（小瓣膜）
 
 EN — epithet *valvules*: Latin valvula (small valve)
+
+ES — epithet *valvules*: Del latín valvula (válvula pequeña)
 
 <!-- src:S0018 -->
 

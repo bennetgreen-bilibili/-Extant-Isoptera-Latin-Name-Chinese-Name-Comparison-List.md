@@ -38,9 +38,13 @@ ES — **近明小白蚁** (*Microtermes subhyalinus*) es una especie del géner
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *subhyalinus*：拉丁文/希腊文 subhyal（下、近）+ inus（相关），指下、近相关
 
 EN — epithet *subhyalinus*: From subhyal (下、近) + inus (相关)
+
+ES — epithet *subhyalinus*: De subhyal (abajo, cerca) + inus (relativo a)
 
 <!-- src:S0018 -->
 

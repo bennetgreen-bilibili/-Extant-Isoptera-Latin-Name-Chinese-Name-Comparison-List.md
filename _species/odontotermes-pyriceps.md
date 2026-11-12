@@ -38,9 +38,13 @@ ES — **梨头土白蚁** (*Odontotermes pyriceps*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *pyriceps*：拉丁文/希腊文 pyri（火）+ ceps（头），指火头
 
 EN — epithet *pyriceps*: From pyri (火) + ceps (头)
+
+ES — epithet *pyriceps*: De pyri (fuego) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **巴拿马钝白蚁** (*Obtusitermes panamae*) es una especie, y la espe
 
 EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
 
+ES — *Obtusitermes*: Del latín obtusus (romo) + termes.
+
 种加词 *panamae*：以巴拿马（Panama）命名
 
 EN — epithet *panamae*: Named after Panama
+
+ES — epithet *panamae*: Por Panamá
 
 <!-- src:S0018 -->
 

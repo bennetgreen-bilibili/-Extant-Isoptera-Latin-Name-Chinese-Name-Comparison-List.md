@@ -35,9 +35,13 @@ ES — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) es una especie, y 
 
 EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
 
+ES — *Acorhinotermes*: Contiene el griego rhis (nariz) + latín termes; la derivación del prefijo es incierta.
+
 种加词 *subfusciceps*：拉丁文/希腊文 subfusci（下、近）+ ceps（头），指下、近头
 
 EN — epithet *subfusciceps*: From subfusci (下、近) + ceps (头)
+
+ES — epithet *subfusciceps*: De subfusci (abajo, cerca) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

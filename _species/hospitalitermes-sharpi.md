@@ -38,9 +38,13 @@ ES — **夏普须白蚁** (*Hospitalitermes sharpi*) es una especie del género
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *sharpi*：以人名 sharp 命名（D. Sharp（英国昆虫学家））
 
 EN — epithet *sharpi*: Named after D. Sharp（英国昆虫学家）
+
+ES — epithet *sharpi*: En honor de D. Sharp (entomólogo británico)
 
 <!-- src:S0018 -->
 

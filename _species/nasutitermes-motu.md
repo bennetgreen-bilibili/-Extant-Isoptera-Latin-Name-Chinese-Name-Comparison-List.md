@@ -38,9 +38,13 @@ ES — **易动象白蚁** (*Nasutitermes motu*) es una especie del género *Nas
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *motu*：波利尼西亚语 motu（小岛）
 
 EN — epithet *motu*: Polynesian motu (islet)
+
+ES — epithet *motu*: Del polinesio motu (islote)
 
 <!-- src:S0018 -->
 

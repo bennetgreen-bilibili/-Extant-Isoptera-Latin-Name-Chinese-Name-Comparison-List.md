@@ -38,9 +38,13 @@ ES — **卡埃特巨鼻白蚁** (*Cyranotermes caete*) es una especie del géne
 
 EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
 
+ES — *Cyranotermes*: De Cyrano (de Bergerac, famoso por su larga nariz) + termes, por el nasus largo.
+
 种加词 *caete*：卡埃特族（巴西原住民）
 
 EN — epithet *caete*: After the Caeté people (Brazil)
+
+ES — epithet *caete*: Por el pueblo caeté (Brasil)
 
 <!-- src:S0018 -->
 

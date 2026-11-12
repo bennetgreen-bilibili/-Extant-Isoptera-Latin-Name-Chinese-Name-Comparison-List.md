@@ -38,9 +38,13 @@ ES — **基桑图尖白蚁** (*Apicotermes kisantuensis*) es una especie del g�
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *kisantuensis*：以地名 基桑图（刚果） 命名
 
 EN — epithet *kisantuensis*: Named after the locality Kisantu
+
+ES — epithet *kisantuensis*: Por la localidad de Kisantu
 
 <!-- src:S0018 -->
 

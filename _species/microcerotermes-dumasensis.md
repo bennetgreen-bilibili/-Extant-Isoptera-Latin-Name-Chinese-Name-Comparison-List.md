@@ -38,9 +38,13 @@ ES — **杜马斯锯白蚁** (*Microcerotermes dumasensis*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *dumasensis*：以地名 Dumas 命名
 
 EN — epithet *dumasensis*: Named after the locality Dumas
+
+ES — epithet *dumasensis*: Por la localidad de Dumas
 
 <!-- src:S0018 -->
 

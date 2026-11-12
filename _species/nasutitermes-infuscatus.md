@@ -40,9 +40,13 @@ ES — **暗色象白蚁** (*Nasutitermes infuscatus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *infuscatus*：拉丁文/希腊文 infusc（变暗）+ atus（具），指变暗具
 
 EN — epithet *infuscatus*: From infusc (变暗) + atus (具)
+
+ES — epithet *infuscatus*: De infusc (oscurecido) + atus (provisto de)
 
 <!-- src:S0018 -->
 

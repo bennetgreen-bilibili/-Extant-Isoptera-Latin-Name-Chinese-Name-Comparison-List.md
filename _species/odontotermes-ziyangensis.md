@@ -38,9 +38,13 @@ ES — **资阳土白蚁** (*Odontotermes ziyangensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *ziyangensis*：以地名 资阳（四川） 命名
 
 EN — epithet *ziyangensis*: Named after the locality Ziyang
+
+ES — epithet *ziyangensis*: Por la localidad de Ziyang
 
 <!-- src:S0018 -->
 

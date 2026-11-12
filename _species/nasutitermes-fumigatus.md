@@ -38,9 +38,13 @@ ES — **烟色象白蚁** (*Nasutitermes fumigatus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *fumigatus*：拉丁文 fumigatus（烟熏的）
 
 EN — epithet *fumigatus*: Latin fumigatus (smoked)
+
+ES — epithet *fumigatus*: Del latín fumigatus (ahumado)
 
 <!-- src:S0018 -->
 

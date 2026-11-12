@@ -38,9 +38,13 @@ ES — **塞巴锯白蚁** (*Microcerotermes sabaeus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *sabaeus*：拉丁文 Sabaeus（示巴的、阿拉伯的）
 
 EN — epithet *sabaeus*: Latin Sabaeus (of Sheba, Arabian)
+
+ES — epithet *sabaeus*: Del latín Sabaeus (de Saba, árabe)
 
 <!-- src:S0018 -->
 

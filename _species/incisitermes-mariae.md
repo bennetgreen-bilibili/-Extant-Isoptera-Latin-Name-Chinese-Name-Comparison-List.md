@@ -35,9 +35,13 @@ ES — **玛丽亚楹白蚁** (*Incisitermes mariae*) es una especie del género
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *mariae*：以人名 Maria 命名
 
 EN — epithet *mariae*: Named after a person (Maria)
+
+ES — epithet *mariae*: En honor de una persona (María)
 
 <!-- src:S0018 -->
 

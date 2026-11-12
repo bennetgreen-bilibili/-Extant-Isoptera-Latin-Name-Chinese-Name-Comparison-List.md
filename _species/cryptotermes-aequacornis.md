@@ -35,9 +35,13 @@ ES — **等角堆砂白蚁** (*Cryptotermes aequacornis*) es una especie del g�
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *aequacornis*：拉丁文/希腊文 aequa（相等）+ cornis（角），指相等角
 
 EN — epithet *aequacornis*: From aequa (相等) + cornis (角)
+
+ES — epithet *aequacornis*: De aequa (igual) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

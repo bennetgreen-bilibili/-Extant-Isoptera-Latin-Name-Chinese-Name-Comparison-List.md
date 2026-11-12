@@ -39,9 +39,13 @@ ES — **指名亚种** (*Nasutitermes longirostris longirostris*) es una subesp
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longirostris*：拉丁文/希腊文 longi（长）+ rostris（喙），指长喙
 
 EN — epithet *longirostris*: From longi (长) + rostris (喙)
+
+ES — epithet *longirostris*: De longi (largo) + rostris (pico)
 
 <!-- src:S0018 -->
 

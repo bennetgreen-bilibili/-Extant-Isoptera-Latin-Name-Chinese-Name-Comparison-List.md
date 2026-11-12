@@ -38,9 +38,13 @@ ES — **裂开突扭白蚁** (*Dicuspiditermes fissifex*) es una especie del g�
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *fissifex*：拉丁文 fissus（裂）+ -fex（作者），裂作者
 
 EN — epithet *fissifex*: Latin fissus (cleft) + -fex (maker)
+
+ES — epithet *fissifex*: Del latín fissus (hendido) + -fex (hacedor)
 
 <!-- src:S0018 -->
 

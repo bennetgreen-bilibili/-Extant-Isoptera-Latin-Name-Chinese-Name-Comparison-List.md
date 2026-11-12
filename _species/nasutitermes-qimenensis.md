@@ -38,9 +38,13 @@ ES — **祁门象白蚁** (*Nasutitermes qimenensis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *qimenensis*：以地名 祁门（安徽） 命名
 
 EN — epithet *qimenensis*: Named after the locality Qimen
+
+ES — epithet *qimenensis*: Por la localidad de Qimen
 
 <!-- src:S0018 -->
 

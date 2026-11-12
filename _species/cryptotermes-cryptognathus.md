@@ -35,9 +35,13 @@ ES — **隐颚堆砂白蚁** (*Cryptotermes cryptognathus*) es una especie del 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *cryptognathus*：希腊文 kryptos（隐藏）+ gnathos（颚），隐颚
 
 EN — epithet *cryptognathus*: Greek kryptos (hidden) + gnathos (jaw), hidden-jawed
+
+ES — epithet *cryptognathus*: Del griego kryptos (oculto) + gnathos (mandíbula), de mandíbulas ocultas
 
 <!-- src:S0018 -->
 

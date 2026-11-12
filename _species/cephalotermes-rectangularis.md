@@ -38,9 +38,13 @@ ES — **直角头白蚁** (*Cephalotermes rectangularis*) es la única especie 
 
 EN — *Cephalotermes*: From Greek kephalē (head) + Latin termes.
 
+ES — *Cephalotermes*: Del griego kephalē (cabeza) + latín termes.
+
 种加词 *rectangularis*：拉丁文/希腊文 rectangul（直角）+ aris（相关），指直角相关
 
 EN — epithet *rectangularis*: From rectangul (直角) + aris (相关)
+
+ES — epithet *rectangularis*: De rectangul (ángulo recto) + aris (relativo a)
 
 <!-- src:S0018 -->
 

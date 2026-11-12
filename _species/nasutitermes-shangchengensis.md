@@ -38,9 +38,13 @@ ES — **商城象白蚁** (*Nasutitermes shangchengensis*) es una especie del g
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *shangchengensis*：以地名 商城（河南） 命名
 
 EN — epithet *shangchengensis*: Named after the locality Shangcheng
+
+ES — epithet *shangchengensis*: Por la localidad de Shangcheng
 
 <!-- src:S0018 -->
 

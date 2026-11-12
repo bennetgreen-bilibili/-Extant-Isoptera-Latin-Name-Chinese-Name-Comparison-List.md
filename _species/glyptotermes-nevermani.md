@@ -35,9 +35,13 @@ ES — **内韦曼树白蚁** (*Glyptotermes nevermani*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *nevermani*：以人名 Nevermann（内韦尔曼）命名（德国昆虫采集者 Wilhelm Nevermann，哥斯达黎加）
 
 EN — epithet *nevermani*: Named after Nevermann (German collector Wilhelm Nevermann, Costa Rica)
+
+ES — epithet *nevermani*: En honor de Nevermann (colector alemán Wilhelm Nevermann, Costa Rica)
 
 <!-- src:S0018 -->
 

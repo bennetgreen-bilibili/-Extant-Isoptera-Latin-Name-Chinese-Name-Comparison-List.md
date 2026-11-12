@@ -35,9 +35,13 @@ ES — **双色皱白蚁** (*Rugitermes bicolor*) es una especie del género *Ru
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *bicolor*：拉丁文 bi-（二）+ color（色），二色
 
 EN — epithet *bicolor*: Latin bi- (two) + color (colour), two-coloured
+
+ES — epithet *bicolor*: Del latín bi- (dos) + color (color), de dos colores
 
 <!-- src:S0018 -->
 

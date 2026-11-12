@@ -38,9 +38,13 @@ ES — **山羊角扭白蚁** (*Capritermes capricornis*) es la única especie v
 
 EN — *Capritermes*: From Latin caper (goat) + termes, for the asymmetrically curved soldier mandibles.
 
+ES — *Capritermes*: Del latín caper (cabra) + termes, por las mandíbulas asimétricamente curvadas del soldado.
+
 种加词 *capricornis*：拉丁文 caper（山羊）+ cornu（角），山羊角
 
 EN — epithet *capricornis*: Latin caper (goat) + cornu (horn), goat-horned
+
+ES — epithet *capricornis*: Del latín caper (cabra) + cornu (cuerno), de cuernos de cabra
 
 <!-- src:S0018 -->
 

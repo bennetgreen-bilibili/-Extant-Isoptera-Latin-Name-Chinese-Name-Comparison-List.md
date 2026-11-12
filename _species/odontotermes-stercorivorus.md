@@ -38,9 +38,13 @@ ES — **食粪土白蚁** (*Odontotermes stercorivorus*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *stercorivorus*：拉丁文 stercus（粪）+ vorus（食），食粪
 
 EN — epithet *stercorivorus*: Latin stercus (dung) + vorus (eating), dung-eating
+
+ES — epithet *stercorivorus*: Latín stercus (estiércol) + vorus (que come), que come estiércol
 
 <!-- src:S0018 -->
 

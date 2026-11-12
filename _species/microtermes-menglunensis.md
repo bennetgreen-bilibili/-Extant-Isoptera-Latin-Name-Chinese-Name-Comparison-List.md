@@ -38,9 +38,13 @@ ES — **勐仑小白蚁** (*Microtermes menglunensis*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *menglunensis*：以地名 勐仑（云南） 命名
 
 EN — epithet *menglunensis*: Named after the locality Menglun
+
+ES — epithet *menglunensis*: Por la localidad de Menglun
 
 <!-- src:S0018 -->
 

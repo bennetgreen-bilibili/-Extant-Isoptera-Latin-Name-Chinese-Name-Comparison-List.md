@@ -38,9 +38,13 @@ ES — **短小前奇白蚁** (*Promirotermes pygmaeus*) es una especie del gén
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *pygmaeus*：拉丁文/希腊文 pygma（矮小）+ eus（相关），指矮小相关
 
 EN — epithet *pygmaeus*: From pygma (矮小) + eus (相关)
+
+ES — epithet *pygmaeus*: De pygma (enano) + eus (relativo a)
 
 <!-- src:S0018 -->
 

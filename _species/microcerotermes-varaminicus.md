@@ -38,9 +38,13 @@ ES — **瓦拉明锯白蚁** (*Microcerotermes varaminicus*) es una especie del
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *varaminicus*：以地名 瓦拉明（伊朗） 命名
 
 EN — epithet *varaminicus*: Named after the locality Varamin
+
+ES — epithet *varaminicus*: Por la localidad de Varamin
 
 <!-- src:S0018 -->
 

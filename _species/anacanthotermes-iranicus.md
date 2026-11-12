@@ -35,9 +35,13 @@ ES — **伊朗无刺白蚁** (*Anacanthotermes iranicus*) es una especie del g�
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *iranicus*：以地名 伊朗 命名
 
 EN — epithet *iranicus*: Named after the locality Iran
+
+ES — epithet *iranicus*: Por la localidad de Irán
 
 <!-- src:S0018 -->
 

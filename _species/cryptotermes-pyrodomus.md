@@ -35,9 +35,13 @@ ES — **锅房堆砂白蚁** (*Cryptotermes pyrodomus*) es una especie del gén
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *pyrodomus*：拉丁文/希腊文词根「pyr」（火）
 
 EN — epithet *pyrodomus*: From the descriptive term 'pyr' (fire)
+
+ES — epithet *pyrodomus*: Del término descriptivo «pyr» (fuego)
 
 <!-- src:S0018 -->
 

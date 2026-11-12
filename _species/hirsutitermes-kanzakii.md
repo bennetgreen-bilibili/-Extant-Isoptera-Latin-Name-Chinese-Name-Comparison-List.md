@@ -38,9 +38,13 @@ ES — **神崎毛糙白蚁** (*Hirsutitermes kanzakii*) es la única especie vi
 
 EN — *Hirsutitermes*: From Latin hirsutus (hairy) + termes.
 
+ES — *Hirsutitermes*: Del latín hirsutus (peludo) + termes.
+
 种加词 *kanzakii*：以人名 Kanzaki（神崎，日本）命名
 
 EN — epithet *kanzakii*: Named after Kanzaki
+
+ES — epithet *kanzakii*: En honor de Kanzaki
 
 <!-- src:S0018 -->
 

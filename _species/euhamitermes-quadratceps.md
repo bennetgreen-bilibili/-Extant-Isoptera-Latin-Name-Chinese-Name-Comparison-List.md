@@ -38,9 +38,13 @@ ES — **方头亮白蚁** (*Euhamitermes quadratceps*) es una especie del géne
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *quadratceps*：拉丁文/希腊文 quadrat（方）+ ceps（头），指方头
 
 EN — epithet *quadratceps*: From quadrat (方) + ceps (头)
+
+ES — epithet *quadratceps*: De quadrat (cuadrado) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

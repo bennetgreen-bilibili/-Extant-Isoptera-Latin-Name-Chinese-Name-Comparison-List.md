@@ -38,9 +38,13 @@ ES — **细颚土白蚁** (*Odontotermes angustignathus*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *angustignathus*：拉丁文/希腊文 angusti（窄）+ gnathus（颚），指窄颚
 
 EN — epithet *angustignathus*: From angusti (窄) + gnathus (颚)
+
+ES — epithet *angustignathus*: De angusti (estrecho) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **沙栖散白蚁** (*Reticulitermes arenincola*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *arenincola*：拉丁文/希腊文 arenin（沙）+ cola（栖），指沙栖
 
 EN — epithet *arenincola*: From arenin (沙) + cola (栖)
+
+ES — epithet *arenincola*: De arenin (arena) + cola (que habita)
 
 <!-- src:S0018 -->
 

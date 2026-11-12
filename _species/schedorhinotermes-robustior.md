@@ -35,9 +35,13 @@ ES — **强壮长鼻白蚁** (*Schedorhinotermes robustior*) es una especie del
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *robustior*：拉丁文 robustior（更粗壮的）
 
 EN — epithet *robustior*: Latin robustior (more robust)
+
+ES — epithet *robustior*: Del latín robustior (más robusto)
 
 <!-- src:S0018 -->
 

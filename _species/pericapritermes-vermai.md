@@ -38,9 +38,13 @@ ES — **维尔马近扭白蚁** (*Pericapritermes vermai*) es una especie del g
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *vermai*：以人名 Verma（印度人名） 命名
 
 EN — epithet *vermai*: Named after Verma
+
+ES — epithet *vermai*: En honor de Verma
 
 <!-- src:S0018 -->
 

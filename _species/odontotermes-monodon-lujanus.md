@@ -39,9 +39,13 @@ ES — **卢扬亚种** (*Odontotermes monodon lujanus*) es una subespecie de *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *lujanus*：以地名 Luján（卢扬，阿根廷）命名
 
 EN — epithet *lujanus*: Named after Luján (Argentina)
+
+ES — epithet *lujanus*: Por Luján (Argentina)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **古普塔土白蚁** (*Odontotermes guptai*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *guptai*：以人名 Gupta（印度）命名
 
 EN — epithet *guptai*: Named after Gupta
+
+ES — epithet *guptai*: En honor de Gupta
 
 <!-- src:S0018 -->
 

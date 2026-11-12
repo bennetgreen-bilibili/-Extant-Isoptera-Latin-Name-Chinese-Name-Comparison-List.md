@@ -38,9 +38,13 @@ ES — **富阳土白蚁** (*Odontotermes fuyangensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *fuyangensis*：以地名 富阳（浙江） 命名
 
 EN — epithet *fuyangensis*: Named after the locality Fuyang
+
+ES — epithet *fuyangensis*: Por la localidad de Fuyang
 
 <!-- src:S0018 -->
 

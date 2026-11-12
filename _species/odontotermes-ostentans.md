@@ -38,9 +38,13 @@ ES — **显形土白蚁** (*Odontotermes ostentans*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *ostentans*：拉丁文 ostentans（炫耀的）
 
 EN — epithet *ostentans*: Latin ostentans (displaying)
+
+ES — epithet *ostentans*: Del latín ostentans (que exhibe)
 
 <!-- src:S0018 -->
 

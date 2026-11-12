@@ -38,9 +38,13 @@ ES — **布桑加瓢白蚁** (*Bulbitermes busuangae*) es una especie del géne
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *busuangae*：以地名 Busuanga（布桑加岛）命名
 
 EN — epithet *busuangae*: Named after the locality Busuanga
+
+ES — epithet *busuangae*: Por la localidad de Busuanga
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **凤凰镰白蚁** (*Drepanotermes phoenix*) es una especie del género 
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *phoenix*：希腊文 phoenix（凤凰）
 
 EN — epithet *phoenix*: Greek phoenix (phoenix)
+
+ES — epithet *phoenix*: Del griego phoenix (fénix)
 
 <!-- src:S0018 -->
 

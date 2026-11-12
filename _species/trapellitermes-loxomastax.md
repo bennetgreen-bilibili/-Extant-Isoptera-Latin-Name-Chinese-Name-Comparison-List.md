@@ -38,9 +38,13 @@ ES — **弯颚菱角白蚁** (*Trapellitermes loxomastax*) es la única especie
 
 EN — *Trapellitermes*: From Greek trapeza (table) + diminutive -ellus + termes.
 
+ES — *Trapellitermes*: Del griego trapeza (mesa) + diminutivo -ellus + termes.
+
 种加词 *loxomastax*：希腊文 loxos（斜）+ mastax（颚、口器），斜颚
 
 EN — epithet *loxomastax*: Greek loxos (oblique) + mastax (jaw), oblique-jawed
+
+ES — epithet *loxomastax*: Del griego loxos (oblicuo) + mastax (mandíbula), de mandíbulas oblicuas
 
 <!-- src:S0018 -->
 

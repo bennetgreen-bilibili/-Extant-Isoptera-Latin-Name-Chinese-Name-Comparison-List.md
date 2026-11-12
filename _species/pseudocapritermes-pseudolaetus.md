@@ -38,9 +38,13 @@ ES — **隆额伪扭白蚁** (*Pseudocapritermes pseudolaetus*) es una especie 
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *pseudolaetus*：拉丁文/希腊文词根「pseud」（假）
 
 EN — epithet *pseudolaetus*: From the descriptive term 'pseud' (false)
+
+ES — epithet *pseudolaetus*: Del término descriptivo «pseud» (falso)
 
 <!-- src:S0018 -->
 

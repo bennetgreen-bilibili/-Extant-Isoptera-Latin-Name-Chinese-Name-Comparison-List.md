@@ -38,9 +38,13 @@ ES — **门神解甲白蚁** (*Anoplotermes janus*) es una especie del género 
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *janus*：罗马神话门神 Janus（雅努斯）
 
 EN — epithet *janus*: Janus, Roman god
+
+ES — epithet *janus*: Jano, dios romano
 
 <!-- src:S0018 -->
 

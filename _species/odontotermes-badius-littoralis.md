@@ -39,9 +39,13 @@ ES — **海滨亚种** (*Odontotermes badius littoralis*) es una subespecie de 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *littoralis*：拉丁文 litoralis（海滨的，litus=海岸）
 
 EN — epithet *littoralis*: Latin litoralis (of the seashore, litus = shore)
+
+ES — epithet *littoralis*: Del latín litoralis (de la costa; litus = orilla)
 
 <!-- src:S0018 -->
 

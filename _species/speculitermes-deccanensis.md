@@ -38,9 +38,13 @@ ES — **德干稀白蚁** (*Speculitermes deccanensis*) es una especie del gén
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *deccanensis*：以地名 德干高原（印度） 命名
 
 EN — epithet *deccanensis*: Named after the locality Deccan
+
+ES — epithet *deccanensis*: Por la localidad de Deccan
 
 <!-- src:S0018 -->
 

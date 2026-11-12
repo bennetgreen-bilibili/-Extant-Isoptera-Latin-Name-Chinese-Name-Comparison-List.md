@@ -38,9 +38,13 @@ ES — **方头同钩白蚁** (*Synhamitermes quadriceps*) es una especie, y la 
 
 EN — *Synhamitermes*: From Greek syn- (together) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Synhamitermes*: Del griego syn- (junto) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *quadriceps*：拉丁文/希腊文 quadri（方）+ ceps（头），指方头
 
 EN — epithet *quadriceps*: From quadri (方) + ceps (头)
+
+ES — epithet *quadriceps*: De quadri (cuadrado) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

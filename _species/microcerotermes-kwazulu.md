@@ -38,9 +38,13 @@ ES — **夸祖鲁锯白蚁** (*Microcerotermes kwazulu*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *kwazulu*：地名：夸祖鲁（南非）
 
 EN — epithet *kwazulu*: After KwaZulu (South Africa)
+
+ES — epithet *kwazulu*: Por KwaZulu (Sudáfrica)
 
 <!-- src:S0018 -->
 

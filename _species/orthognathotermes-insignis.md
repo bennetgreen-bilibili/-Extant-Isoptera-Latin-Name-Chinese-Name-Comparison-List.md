@@ -38,9 +38,13 @@ ES — **醒目直颚白蚁** (*Orthognathotermes insignis*) es una especie del 
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *insignis*：拉丁文 insignis（显著的、卓越的）
 
 EN — epithet *insignis*: Latin insignis (remarkable)
+
+ES — epithet *insignis*: Del latín insignis (notable)
 
 <!-- src:S0018 -->
 

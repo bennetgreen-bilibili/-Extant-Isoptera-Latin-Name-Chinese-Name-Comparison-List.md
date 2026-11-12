@@ -40,9 +40,13 @@ ES — **不同三脉白蚁** (*Trinervitermes dispar*) es una especie del géne
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *dispar*：拉丁文/希腊文词根「dispar」（异）
 
 EN — epithet *dispar*: From the descriptive term 'dispar' (unequal)
+
+ES — epithet *dispar*: Del término descriptivo «dispar» (desigual)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **最大长鼻白蚁** (*Schedorhinotermes maximus*) es una especie del g
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *maximus*：拉丁文 maximus（最大的）
 
 EN — epithet *maximus*: Latin maximus (largest)
+
+ES — epithet *maximus*: Del latín maximus (el mayor)
 
 <!-- src:S0018 -->
 

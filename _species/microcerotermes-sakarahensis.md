@@ -38,9 +38,13 @@ ES — **萨卡拉哈锯白蚁** (*Microcerotermes sakarahensis*) es una especie
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *sakarahensis*：以萨卡拉哈（Sakaraha，马达加斯加）命名
 
 EN — epithet *sakarahensis*: Named after Sakaraha (Madagascar)
+
+ES — epithet *sakarahensis*: Por Sakaraha (Madagascar)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **伤残乳白蚁** (*Coptotermes truncatus*) es una especie del género 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *truncatus*：拉丁文 truncatus（截断的）
 
 EN — epithet *truncatus*: Latin truncatus (truncated)
+
+ES — epithet *truncatus*: Del latín truncatus (truncado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **克里希纳漏斗白蚁** (*Acangaobitermes krishnai*) es la única es
 
 EN — *Acangaobitermes*: From the place name Acangaobí; -termes from Latin termes.
 
+ES — *Acangaobitermes*: Del topónimo Acangaobí; -termes, del latín termes.
+
 种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
 
 EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+ES — epithet *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **厚头钩白蚁** (*Ancistrotermes crassiceps*) es una especie del gén
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *crassiceps*：拉丁文/希腊文 crassi（粗厚）+ ceps（头），指粗厚头
 
 EN — epithet *crassiceps*: From crassi (粗厚) + ceps (头)
+
+ES — epithet *crassiceps*: De crassi (grueso) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **鞍胸土白蚁** (*Odontotermes sellathorax*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *sellathorax*：拉丁文 sella（鞍）+ thorax（胸），鞍胸
 
 EN — epithet *sellathorax*: Latin sella (saddle) + thorax (thorax), saddle-thoraxed
+
+ES — epithet *sellathorax*: Del latín sella (silla de montar) + thorax (tórax), de tórax en silla
 
 <!-- src:S0018 -->
 

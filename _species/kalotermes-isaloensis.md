@@ -35,9 +35,13 @@ ES — **伊萨卢木白蚁** (*Kalotermes isaloensis*) es una especie del géne
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *isaloensis*：以地名 伊萨卢（马达加斯加） 命名
 
 EN — epithet *isaloensis*: Named after the locality Isalo
+
+ES — epithet *isaloensis*: Por la localidad de Isalo
 
 <!-- src:S0018 -->
 

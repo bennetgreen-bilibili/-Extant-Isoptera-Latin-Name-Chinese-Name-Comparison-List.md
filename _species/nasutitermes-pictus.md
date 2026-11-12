@@ -38,9 +38,13 @@ ES — **着色象白蚁** (*Nasutitermes pictus*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *pictus*：拉丁文/希腊文词根「pict」（着色）
 
 EN — epithet *pictus*: From the descriptive term 'pict' (painted)
+
+ES — epithet *pictus*: Del término descriptivo «pict» (pintado)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **大头散白蚁** (*Reticulitermes grandis*) es una especie del género
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *grandis*：拉丁文 grandis（巨大）
 
 EN — epithet *grandis*: Latin grandis (great)
+
+ES — epithet *grandis*: Del latín grandis (grande)
 
 <!-- src:S0018 -->
 

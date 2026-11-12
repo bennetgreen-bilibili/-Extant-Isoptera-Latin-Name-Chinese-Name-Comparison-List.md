@@ -38,9 +38,13 @@ ES — **俾路支弓白蚁** (*Amitermes baluchistanicus*) es una especie del g
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *baluchistanicus*：地名：俾路支（巴基斯坦）
 
 EN — epithet *baluchistanicus*: After Baluchistan (Pakistan)
+
+ES — epithet *baluchistanicus*: Por Baluchistán (Pakistán)
 
 <!-- src:S0018 -->
 

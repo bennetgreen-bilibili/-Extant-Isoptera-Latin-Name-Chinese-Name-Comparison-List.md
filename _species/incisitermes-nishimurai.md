@@ -35,9 +35,13 @@ ES — **西村楹白蚁** (*Incisitermes nishimurai*) es una especie del géner
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *nishimurai*：以人名 Nishimura（西村，日本姓氏）命名
 
 EN — epithet *nishimurai*: Named after Nishimura
+
+ES — epithet *nishimurai*: En honor de Nishimura
 
 <!-- src:S0018 -->
 

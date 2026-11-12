@@ -39,9 +39,13 @@ ES — **似马登亚种** (*Nasutitermes matangensis matangensioides*) es una s
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *matangensioides*：以地名 Matang（马登）＋希腊文 -oides（似）命名，指似马登的
 
 EN — epithet *matangensioides*: Named after Matang + Greek -oides (like)
+
+ES — epithet *matangensioides*: Por Matang + griego -oides (semejante)
 
 <!-- src:S0018 -->
 

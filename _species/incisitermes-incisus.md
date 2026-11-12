@@ -35,9 +35,13 @@ ES — **切割楹白蚁** (*Incisitermes incisus*) es una especie del género *
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
 
 EN — epithet *incisus*: Latin incisus (incised, notched)
+
+ES — epithet *incisus*: Del latín incisus (inciso, escotado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **乌黑镰白蚁** (*Drepanotermes corax*) es una especie del género *D
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *corax*：希腊文 korax（乌鸦）
 
 EN — epithet *corax*: Greek korax (raven)
+
+ES — epithet *corax*: Del griego korax (cuervo)
 
 <!-- src:S0018 -->
 

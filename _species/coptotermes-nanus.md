@@ -35,9 +35,13 @@ ES — **侏儒乳白蚁** (*Coptotermes nanus*) es una especie del género *Cop
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *nanus*：希腊文 nanos（矮小）
 
 EN — epithet *nanus*: Greek nanos (dwarf)
+
+ES — epithet *nanus*: Del griego nanos (enano)
 
 <!-- src:S0018 -->
 

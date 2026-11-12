@@ -35,9 +35,13 @@ ES — **蔡氏树白蚁** (*Glyptotermes tsaii*) es una especie del género *Gl
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *tsaii*：以中国白蚁分类学家蔡邦华（Tsai Pang-hwa，1902–1983，中国白蚁学奠基人、中科院院士）命名。
 
 EN — epithet *tsaii*: Named after the Chinese termite taxonomist Pang-hwa Tsai (1902–1983), a founder of Chinese termite studies.
+
+ES — epithet *tsaii*: En honor de Pang-hwa Tsai (1902–1983), taxónomo chino de termitas y fundador de los estudios sobre termitas en China.
 
 <!-- src:S0018 -->
 

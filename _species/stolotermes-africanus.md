@@ -35,9 +35,13 @@ ES — **非洲胄白蚁** (*Stolotermes africanus*) es una especie del género 
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *africanus*：地名：非洲
 
 EN — epithet *africanus*: After Africa
+
+ES — epithet *africanus*: Por África
 
 <!-- src:S0018 -->
 

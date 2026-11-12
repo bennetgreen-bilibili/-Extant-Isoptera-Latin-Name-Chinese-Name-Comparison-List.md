@@ -38,9 +38,13 @@ ES — **弯曲弓白蚁** (*Amitermes pandus*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pandus*：拉丁文 pandus（弯曲的、弯的）
 
 EN — epithet *pandus*: Latin pandus (bent)
+
+ES — epithet *pandus*: Del latín pandus (curvado)
 
 <!-- src:S0018 -->
 

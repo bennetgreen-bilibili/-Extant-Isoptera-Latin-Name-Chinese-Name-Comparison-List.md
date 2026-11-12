@@ -38,9 +38,13 @@ ES — **萨皮兰加圆筒白蚁** (*Cylindrotermes sapiranga*) es una especie 
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *sapiranga*：种加词 sapiranga 为图皮语土名，由 sapi（眼）与 pyranga（红）组成，意为「红眼」。
 
 EN — epithet *sapiranga*: From the Tupi name sapiranga, from sapi 'eye' + pyranga 'red', i.e. 'red-eyed'.
+
+ES — epithet *sapiranga*: Del nombre tupí sapiranga, de sapi «ojo» + pyranga «rojo», es decir, «de ojos rojos».
 
 <!-- src:S0018 -->
 

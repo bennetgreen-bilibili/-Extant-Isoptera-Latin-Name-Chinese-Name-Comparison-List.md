@@ -35,9 +35,13 @@ ES — **黑胸散白蚁** (*Reticulitermes chinensis*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *chinensis*：拉丁文 Chinensis（中国的）
 
 EN — epithet *chinensis*: Latin Chinensis (of China)
+
+ES — epithet *chinensis*: Del latín Chinensis (de China)
 
 <!-- src:S0018 -->
 

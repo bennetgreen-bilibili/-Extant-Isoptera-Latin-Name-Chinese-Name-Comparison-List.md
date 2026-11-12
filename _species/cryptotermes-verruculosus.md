@@ -35,9 +35,13 @@ ES — **多疣堆砂白蚁** (*Cryptotermes verruculosus*) es una especie del g
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *verruculosus*：拉丁文/希腊文 verrucul（疣）+ osus（多、充满），指疣多、充满
 
 EN — epithet *verruculosus*: From verrucul (疣) + osus (多、充满)
+
+ES — epithet *verruculosus*: De verrucul (verruga) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

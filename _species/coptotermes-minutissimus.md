@@ -35,9 +35,13 @@ ES — **最小乳白蚁** (*Coptotermes minutissimus*) es una especie del géne
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *minutissimus*：拉丁文/希腊文词根「minutiss」（极微小）
 
 EN — epithet *minutissimus*: From the descriptive term 'minutiss' (very tiny)
+
+ES — epithet *minutissimus*: Del término descriptivo «minutiss» (muy diminuto)
 
 <!-- src:S0018 -->
 

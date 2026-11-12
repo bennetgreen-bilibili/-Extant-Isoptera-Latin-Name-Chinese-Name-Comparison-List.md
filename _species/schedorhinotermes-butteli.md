@@ -35,9 +35,13 @@ ES — **巴特尔长鼻白蚁** (*Schedorhinotermes butteli*) es una especie de
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *butteli*：以人名 Buttel（-Reepen）命名
 
 EN — epithet *butteli*: Named after Buttel(-Reepen)
+
+ES — epithet *butteli*: En honor de Buttel(-Reepen)
 
 <!-- src:S0018 -->
 

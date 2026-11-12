@@ -38,9 +38,13 @@ ES — **锥鼻棱角白蚁** (*Angularitermes coninasus*) es una especie del g�
 
 EN — *Angularitermes*: From Latin angularis (angular) + termes.
 
+ES — *Angularitermes*: Del latín angularis (angular) + termes.
+
 种加词 *coninasus*：希腊文 kōnos（锥）+ 拉丁文 nasus（鼻），锥鼻
 
 EN — epithet *coninasus*: Greek kōnos (cone) + Latin nasus (nose), cone-nosed
+
+ES — epithet *coninasus*: Del griego kōnos (cono) + latín nasus (nariz), de nariz cónica
 
 <!-- src:S0018 -->
 

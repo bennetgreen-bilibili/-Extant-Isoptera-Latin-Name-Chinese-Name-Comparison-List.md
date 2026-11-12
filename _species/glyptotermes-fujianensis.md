@@ -35,9 +35,13 @@ ES — **福建树白蚁** (*Glyptotermes fujianensis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *fujianensis*：以地名 福建 命名
 
 EN — epithet *fujianensis*: Named after the locality Fujian
+
+ES — epithet *fujianensis*: Por la localidad de Fujian
 
 <!-- src:S0018 -->
 

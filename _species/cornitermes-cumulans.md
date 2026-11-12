@@ -40,9 +40,13 @@ ES — **成堆角象白蚁** (*Cornitermes cumulans*) es una especie, y la espe
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *cumulans*：拉丁文 cumulans（堆积的）
 
 EN — epithet *cumulans*: Latin cumulans (heaping)
+
+ES — epithet *cumulans*: Del latín cumulans (que acumula)
 
 <!-- src:S0018 -->
 

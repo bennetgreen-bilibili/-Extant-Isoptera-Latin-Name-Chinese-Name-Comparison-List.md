@@ -35,9 +35,13 @@ ES — **达尔文堆砂白蚁** (*Cryptotermes darwini*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *darwini*：以人名 darwin 命名（英国博物学家 C. Darwin）
 
 EN — epithet *darwini*: Named after 英国博物学家 C. Darwin
+
+ES — epithet *darwini*: En honor del naturalista británico C. Darwin
 
 <!-- src:S0018 -->
 

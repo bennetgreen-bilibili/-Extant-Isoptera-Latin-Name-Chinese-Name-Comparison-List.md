@@ -40,9 +40,13 @@ ES — **伦伯格弓白蚁** (*Amitermes loennbergianus*) es una especie del g�
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *loennbergianus*：以人名 Lönnberg（伦贝里）命名（瑞典动物学家 Einar Lönnberg）
 
 EN — epithet *loennbergianus*: Named after Lönnberg (Swedish zoologist Einar Lönnberg)
+
+ES — epithet *loennbergianus*: En honor de Lönnberg (zoólogo sueco Einar Lönnberg)
 
 <!-- src:S0018 -->
 

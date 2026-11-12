@@ -38,9 +38,13 @@ ES — **隐藏三方白蚁** (*Ternicubitermes latens*) es una especie del gén
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *latens*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latens*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latens*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **惠勒弓白蚁** (*Amitermes wheeleri*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *wheeleri*：以人名 Wheeler 命名（美国蚁学家 W. M. Wheeler）
 
 EN — epithet *wheeleri*: Named after the myrmecologist W. M. Wheeler
+
+ES — epithet *wheeleri*: En honor del mirmecólogo W. M. Wheeler
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **等齿印白蚁** (*Indotermes isodentatus*) es una especie del género
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *isodentatus*：希腊文 isos（等）+ 拉丁文 dentatus（有齿），等齿
 
 EN — epithet *isodentatus*: Greek isos (equal) + Latin dentatus (toothed), equal-toothed
+
+ES — epithet *isodentatus*: Del griego isos (igual) + del latín dentatus (dentado), de dientes iguales
 
 <!-- src:S0018 -->
 

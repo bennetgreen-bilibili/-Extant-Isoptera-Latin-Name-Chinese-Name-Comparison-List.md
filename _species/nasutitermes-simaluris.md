@@ -38,9 +38,13 @@ ES — **锡默卢象白蚁** (*Nasutitermes simaluris*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *simaluris*：地名：锡默卢岛（印度尼西亚）
 
 EN — epithet *simaluris*: After Simeulue Island (Indonesia)
+
+ES — epithet *simaluris*: Por la isla Simeulue (Indonesia)
 
 <!-- src:S0018 -->
 

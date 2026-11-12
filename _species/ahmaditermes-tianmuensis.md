@@ -38,9 +38,13 @@ ES — **天目钝颚白蚁** (*Ahmaditermes tianmuensis*) es una especie del g�
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *tianmuensis*：以地名 天目山（浙江） 命名
 
 EN — epithet *tianmuensis*: Named after the locality Tianmu
+
+ES — epithet *tianmuensis*: Por la localidad de Tianmu (montaña Tianmu, Zhejiang)
 
 <!-- src:S0018 -->
 

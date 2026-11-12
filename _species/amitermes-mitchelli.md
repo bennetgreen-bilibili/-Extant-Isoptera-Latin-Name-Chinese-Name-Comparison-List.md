@@ -38,9 +38,13 @@ ES — **米切尔弓白蚁** (*Amitermes mitchelli*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *mitchelli*：以人名 Mitchell（米切尔）命名
 
 EN — epithet *mitchelli*: Named after Mitchell
+
+ES — epithet *mitchelli*: En honor de Mitchell
 
 <!-- src:S0018 -->
 

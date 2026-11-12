@@ -40,9 +40,13 @@ ES — **氙地白蚁** (*Hypotermes xenotermitis*) es una especie del género *
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *xenotermitis*：希腊文 xenos（异、陌生）+ termes（白蚁），异白蚁
 
 EN — epithet *xenotermitis*: Greek xenos (strange) + termes (termite), alien termite
+
+ES — epithet *xenotermitis*: Del griego xenos (extraño) + termes (termita), termita ajena
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **峨嵋散白蚁** (*Reticulitermes emei*) es una especie del género *R
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *emei*：以地名峨眉山（四川）命名
 
 EN — epithet *emei*: Named after Mount Emei (Sichuan)
+
+ES — epithet *emei*: Por el monte Emei (Sichuan)
 
 <!-- src:S0018 -->
 

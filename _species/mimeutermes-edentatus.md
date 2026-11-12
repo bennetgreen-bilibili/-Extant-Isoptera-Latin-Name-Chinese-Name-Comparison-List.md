@@ -38,9 +38,13 @@ ES — **无齿仿白蚁** (*Mimeutermes edentatus*) es una especie del género 
 
 EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Mimeutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *edentatus*：拉丁文 e-（无）+ dentatus（有齿），无齿
 
 EN — epithet *edentatus*: Latin e- (without) + dentatus (toothed), toothless
+
+ES — epithet *edentatus*: Del latín e- (sin) + dentatus (dentado), sin dientes
 
 <!-- src:S0018 -->
 

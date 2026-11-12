@@ -35,9 +35,13 @@ ES — **波颚新白蚁** (*Neotermes undulatus*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *undulatus*：拉丁文/希腊文 undul（波状）+ atus（具），指波状具
 
 EN — epithet *undulatus*: From undul (波状) + atus (具)
+
+ES — epithet *undulatus*: De undul (ondulado) + atus (que posee)
 
 <!-- src:S0018 -->
 

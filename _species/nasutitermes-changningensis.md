@@ -38,9 +38,13 @@ ES — **长宁象白蚁** (*Nasutitermes changningensis*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *changningensis*：以地名长宁（Changning）命名
 
 EN — epithet *changningensis*: Named after the locality Changning
+
+ES — epithet *changningensis*: Por la localidad de Changning
 
 <!-- src:S0018 -->
 

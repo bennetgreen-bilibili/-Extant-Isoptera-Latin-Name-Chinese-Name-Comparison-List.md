@@ -38,9 +38,13 @@ ES — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) es una especie del g
 
 EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
 
+ES — *Dentispicotermes*: Del latín dens (diente) + spica (espiga) + termes.
+
 种加词 *trapezia*：希腊文 trapezion（梯形、小桌）
 
 EN — epithet *trapezia*: Greek trapezion (trapezium)
+
+ES — epithet *trapezia*: Del griego trapezion (trapecio)
 
 <!-- src:S0018 -->
 

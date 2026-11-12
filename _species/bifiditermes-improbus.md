@@ -37,9 +37,13 @@ ES — **不诚双裂白蚁** (*Bifiditermes improbus*) es una especie del géne
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *improbus*：拉丁文/希腊文 im-（无、不）+ probus（前），指无前
 
 EN — epithet *improbus*: From im- (without) + probus (前)
+
+ES — epithet *improbus*: De im- (sin) + probus (delante)
 
 <!-- src:S0018 -->
 

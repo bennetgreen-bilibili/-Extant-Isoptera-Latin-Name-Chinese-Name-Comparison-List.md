@@ -38,9 +38,13 @@ ES — **科利马象白蚁** (*Nasutitermes colimae*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *colimae*：以科利马（Colima，墨西哥）命名
 
 EN — epithet *colimae*: Named after Colima (Mexico)
+
+ES — epithet *colimae*: Por Colima (México)
 
 <!-- src:S0018 -->
 

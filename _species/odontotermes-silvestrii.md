@@ -38,9 +38,13 @@ ES — **西尔韦斯特里土白蚁** (*Odontotermes silvestrii*) es una especi
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *silvestrii*：以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）
 
 EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
+
+ES — epithet *silvestrii*: En honor del entomólogo F. Silvestri
 
 <!-- src:S0018 -->
 

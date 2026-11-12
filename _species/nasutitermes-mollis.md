@@ -38,9 +38,13 @@ ES — **柔软象白蚁** (*Nasutitermes mollis*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *mollis*：拉丁文 mollis（柔软的）
 
 EN — epithet *mollis*: Latin mollis (soft)
+
+ES — epithet *mollis*: Del latín mollis (blando)
 
 <!-- src:S0018 -->
 

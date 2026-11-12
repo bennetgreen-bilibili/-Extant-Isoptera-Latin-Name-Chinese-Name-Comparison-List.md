@@ -38,9 +38,13 @@ ES — **无刺木堆白蚁** (*Xylochomitermes aspinosus*) es una especie del g
 
 EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
 
+ES — *Xylochomitermes*: Del griego xylon (madera) + chōma (túmulo) + latín termes.
+
 种加词 *aspinosus*：拉丁文/希腊文 a-（无、不）+ spinosus（多刺），指无多刺
 
 EN — epithet *aspinosus*: From a- (without) + spinosus (多刺)
+
+ES — epithet *aspinosus*: De a- (sin) + spinosus (muy espinoso)
 
 <!-- src:S0018 -->
 

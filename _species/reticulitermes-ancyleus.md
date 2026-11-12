@@ -35,9 +35,13 @@ ES — **钩颚散白蚁** (*Reticulitermes ancyleus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *ancyleus*：希腊文 ankylos（弯曲的、钩曲的）
 
 EN — epithet *ancyleus*: Greek ankylos (curved, hooked)
+
+ES — epithet *ancyleus*: Del griego ankylos (curvado, encorvado)
 
 <!-- src:S0018 -->
 

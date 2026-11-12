@@ -38,9 +38,13 @@ ES — **天目象白蚁** (*Nasutitermes tianmuensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *tianmuensis*：以地名 天目山（浙江） 命名
 
 EN — epithet *tianmuensis*: Named after the locality Tianmu
+
+ES — epithet *tianmuensis*: Por la localidad de Tianmu (montaña Tianmu, Zhejiang)
 
 <!-- src:S0018 -->
 

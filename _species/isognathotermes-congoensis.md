@@ -40,9 +40,13 @@ ES — **刚果等颚白蚁** (*Isognathotermes congoensis*) es una especie del 
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *congoensis*：地名：刚果
 
 EN — epithet *congoensis*: After Congo
+
+ES — epithet *congoensis*: Por el Congo
 
 <!-- src:S0018 -->
 

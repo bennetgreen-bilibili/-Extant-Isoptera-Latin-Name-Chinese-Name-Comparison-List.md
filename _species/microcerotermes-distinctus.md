@@ -38,9 +38,13 @@ ES — **易识锯白蚁** (*Microcerotermes distinctus*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *distinctus*：拉丁文/希腊文词根「distinct」（明显）
 
 EN — epithet *distinctus*: From the descriptive term 'distinct' (distinct)
+
+ES — epithet *distinctus*: Del término descriptivo «distinct» (distinto)
 
 <!-- src:S0018 -->
 

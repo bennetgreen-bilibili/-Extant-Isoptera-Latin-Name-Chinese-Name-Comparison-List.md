@@ -38,9 +38,13 @@ ES — **米尔甘杰土白蚁** (*Odontotermes mirganjensis*) es una especie de
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *mirganjensis*：以地名 米尔甘杰（印度） 命名
 
 EN — epithet *mirganjensis*: Named after the locality Mirganj
+
+ES — epithet *mirganjensis*: Por la localidad de Mirganj
 
 <!-- src:S0018 -->
 

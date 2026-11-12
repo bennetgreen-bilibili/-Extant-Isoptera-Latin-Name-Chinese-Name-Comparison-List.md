@@ -38,9 +38,13 @@ ES — **体大顺白蚁** (*Acholotermes tithasus*) es una especie, y la especi
 
 EN — *Acholotermes*: From Greek a- (without) + cholē (bile) + Latin termes.
 
+ES — *Acholotermes*: Del griego a- (sin) + cholē (bilis) + latín termes.
+
 种加词 *tithasus*：种加词来自希腊语 τιθασός (tithasos)「驯服的、温顺的」（LSJ：tamed, domesticated），与属名 Acholotermes（acholos「温和」）及同属种名 imbellis（不战斗的）、epius（温和的）语义呼应，指该属无兵蚁、性情温和。拉丁化作 tithasus。
 
 EN — epithet *tithasus*: From Greek τιθασός (tithasos) 'tamed, domesticated' (LSJ), echoing the genus name Acholotermes (acholos 'meek') and the congeneric epithets imbellis ('unwarlike') and epius ('gentle'), alluding to the soldierless, mild-natured condition. Latinized as tithasus.
+
+ES — epithet *tithasus*: Del griego τιθασός (tithasos) «domesticado, manso» (LSJ), en eco del nombre del género Acholotermes (acholos «apacible») y de los epítetos congéneres imbellis («no belicoso») y epius («tranquilo»), aludiendo a la condición sin soldados y de carácter apacible. Latinizado como tithasus
 
 <!-- src:S0018 -->
 

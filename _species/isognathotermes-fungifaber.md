@@ -40,9 +40,13 @@ ES — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) es una especie del 
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *fungifaber*：拉丁文 fungus（菌）+ faber（工匠），菌工匠
 
 EN — epithet *fungifaber*: Latin fungus (fungus) + faber (maker)
+
+ES — epithet *fungifaber*: Del latín fungus (hongo) + faber (artífice)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **二型象白蚁** (*Nasutitermes dimorphus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
 
 EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+ES — epithet *dimorphus*: Del griego di- (dos) + morphē (forma), dimorfo
 
 <!-- src:S0018 -->
 

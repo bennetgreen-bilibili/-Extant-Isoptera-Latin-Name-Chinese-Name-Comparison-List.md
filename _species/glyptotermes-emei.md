@@ -35,9 +35,13 @@ ES — **峨嵋树白蚁** (*Glyptotermes emei*) es una especie del género *Gly
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *emei*：以地名峨眉山（四川）命名
 
 EN — epithet *emei*: Named after Mount Emei (Sichuan)
+
+ES — epithet *emei*: Por el monte Emei (Sichuan)
 
 <!-- src:S0018 -->
 

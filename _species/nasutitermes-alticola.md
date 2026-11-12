@@ -38,9 +38,13 @@ ES — **高地象白蚁** (*Nasutitermes alticola*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *alticola*：拉丁文/希腊文 alti（高）+ cola（栖），指高栖
 
 EN — epithet *alticola*: From alti (高) + cola (栖)
+
+ES — epithet *alticola*: De alti (alto) + cola (que habita)
 
 <!-- src:S0018 -->
 

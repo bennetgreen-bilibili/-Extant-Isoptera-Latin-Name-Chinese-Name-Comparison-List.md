@@ -38,9 +38,13 @@ ES — **西里伯斯土白蚁** (*Odontotermes celebensis*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *celebensis*：以地名 西里伯斯（苏拉威西） 命名
 
 EN — epithet *celebensis*: Named after the locality Celeb
+
+ES — epithet *celebensis*: Por la localidad de Célebes
 
 <!-- src:S0018 -->
 

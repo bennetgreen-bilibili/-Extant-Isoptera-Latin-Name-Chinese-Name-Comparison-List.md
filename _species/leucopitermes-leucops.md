@@ -40,9 +40,13 @@ ES — **白脸白脸白蚁** (*Leucopitermes leucops*) es una especie, y la esp
 
 EN — *Leucopitermes*: From Greek leukos (white) + Latin termes; further derivation uncertain.
 
+ES — *Leucopitermes*: Del griego leukos (blanco) + latín termes; la derivación ulterior es incierta.
+
 种加词 *leucops*：拉丁文/希腊文词根「leuc」（白）
 
 EN — epithet *leucops*: From the descriptive term 'leuc' (white)
+
+ES — epithet *leucops*: Del término descriptivo «leuc» (blanco)
 
 <!-- src:S0018 -->
 

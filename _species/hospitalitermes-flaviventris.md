@@ -38,9 +38,13 @@ ES — **黄腹须白蚁** (*Hospitalitermes flaviventris*) es una especie del g
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *flaviventris*：拉丁文/希腊文词根「flav」（黄）
 
 EN — epithet *flaviventris*: From the descriptive term 'flav' (yellow)
+
+ES — epithet *flaviventris*: Del término descriptivo «flav» (amarillo)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **单齿弓白蚁** (*Amitermes unidentatus*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *unidentatus*：拉丁文/希腊文 unident（单齿）+ atus（具），指单齿具
 
 EN — epithet *unidentatus*: From unident (单齿) + atus (具)
+
+ES — epithet *unidentatus*: De unident (un diente) + atus (que posee)
 
 <!-- src:S0018 -->
 

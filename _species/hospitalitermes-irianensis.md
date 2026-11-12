@@ -38,9 +38,13 @@ ES — **伊里安查亚须白蚁** (*Hospitalitermes irianensis*) es una especi
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *irianensis*：以地名 伊里安（新几内亚） 命名
 
 EN — epithet *irianensis*: Named after the locality Irian
+
+ES — epithet *irianensis*: Por la localidad de Irian
 
 <!-- src:S0018 -->
 

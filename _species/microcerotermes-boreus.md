@@ -38,9 +38,13 @@ ES — **北部锯白蚁** (*Microcerotermes boreus*) es una especie del género
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *boreus*：希腊文 boreas（北风、北方）
 
 EN — epithet *boreus*: Greek boreas (north wind, northern)
+
+ES — epithet *boreus*: Del griego boreas (viento del norte, septentrional)
 
 <!-- src:S0018 -->
 

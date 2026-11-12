@@ -35,9 +35,13 @@ ES — **侏儒棒鼻白蚁** (*Parrhinotermes pygmaeus*) es una especie del gé
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *pygmaeus*：拉丁文/希腊文 pygma（矮小）+ eus（相关），指矮小相关
 
 EN — epithet *pygmaeus*: From pygma (矮小) + eus (相关)
+
+ES — epithet *pygmaeus*: De pygma (enano) + eus (relativo a)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **无备无甲白蚁** (*Anenteotermes improcinctus*) es una especie del 
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *improcinctus*：拉丁文/希腊文 im-（无、不）+ procinctus（前），指无前
 
 EN — epithet *improcinctus*: From im- (without) + procinctus (前)
+
+ES — epithet *improcinctus*: De im- (sin) + procinctus (delante)
 
 <!-- src:S0018 -->
 

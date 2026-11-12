@@ -38,9 +38,13 @@ ES — **布劳恩斯弓白蚁** (*Amitermes braunsi*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *braunsi*：以人名 Brauns（Hans Brauns）命名
 
 EN — epithet *braunsi*: Named after Hans Brauns
+
+ES — epithet *braunsi*: En honor de Hans Brauns
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **半月楹白蚁** (*Incisitermes semilunaris*) es una especie del géne
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *semilunaris*：拉丁文 semi-（半）+ luna（月），半月形
 
 EN — epithet *semilunaris*: Latin semi- (half) + luna (moon), half-moon
+
+ES — epithet *semilunaris*: Del latín semi- (mitad) + luna (luna), media luna
 
 <!-- src:S0018 -->
 

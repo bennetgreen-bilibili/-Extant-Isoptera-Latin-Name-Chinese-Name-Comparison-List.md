@@ -37,9 +37,13 @@ ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la
 
 EN — *Hodotermes*: From Greek hodos (way, path) + Latin termes.
 
+ES — *Hodotermes*: Del griego hodos (camino, sendero) + latín termes.
+
 种加词 *mossambicus*：以地名 莫桑比克 命名
 
 EN — epithet *mossambicus*: Named after the locality Mossamb
+
+ES — epithet *mossambicus*: Por la localidad de Mossamb
 
 <!-- src:S0018 -->
 

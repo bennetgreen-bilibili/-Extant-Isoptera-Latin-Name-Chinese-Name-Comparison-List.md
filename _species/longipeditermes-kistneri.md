@@ -38,9 +38,13 @@ ES — **基斯特纳长足白蚁** (*Longipeditermes kistneri*) es una especie 
 
 EN — *Longipeditermes*: From Latin longus (long) + pes (foot) + termes.
 
+ES — *Longipeditermes*: Del latín longus (largo) + pes (pie) + termes.
+
 种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
 
 EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+ES — epithet *kistneri*: En honor del entomólogo D. H. Kistner
 
 <!-- src:S0018 -->
 

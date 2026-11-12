@@ -38,9 +38,13 @@ ES — **钝颚象白蚁** (*Nasutitermes obtusimandibulus*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *obtusimandibulus*：拉丁文/希腊文 obtusimandib（钝）+ ulus（小（指小）），指钝小（指小）
 
 EN — epithet *obtusimandibulus*: From obtusimandib (钝) + ulus (小（指小）)
+
+ES — epithet *obtusimandibulus*: De obtusimandib (romo) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

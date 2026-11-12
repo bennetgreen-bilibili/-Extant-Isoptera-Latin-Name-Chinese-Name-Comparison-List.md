@@ -38,9 +38,13 @@ ES — **双色须白蚁** (*Hospitalitermes bicolor*) es una especie del géner
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *bicolor*：拉丁文 bi-（二）+ color（色），二色
 
 EN — epithet *bicolor*: Latin bi- (two) + color (colour), two-coloured
+
+ES — epithet *bicolor*: Del latín bi- (dos) + color (color), de dos colores
 
 <!-- src:S0018 -->
 

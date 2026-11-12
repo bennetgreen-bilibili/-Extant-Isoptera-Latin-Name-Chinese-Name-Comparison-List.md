@@ -38,9 +38,13 @@ ES — **苏丹土白蚁** (*Odontotermes sudanensis*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *sudanensis*：以地名 苏丹 命名
 
 EN — epithet *sudanensis*: Named after the locality Sudan
+
+ES — epithet *sudanensis*: Por la localidad de Sudán
 
 <!-- src:S0018 -->
 

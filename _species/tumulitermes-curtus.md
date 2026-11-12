@@ -38,9 +38,13 @@ ES — **缩短冢白蚁** (*Tumulitermes curtus*) es una especie del género *T
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *curtus*：拉丁文/希腊文词根「curt」（短）
 
 EN — epithet *curtus*: From the descriptive term 'curt' (short)
+
+ES — epithet *curtus*: Del término descriptivo «curt» (corto)
 
 <!-- src:S0018 -->
 

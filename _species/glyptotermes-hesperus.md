@@ -35,9 +35,13 @@ ES — **川西树白蚁** (*Glyptotermes hesperus*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *hesperus*：希腊文 hesperos（西方的、黄昏的）
 
 EN — epithet *hesperus*: Greek hesperos (western, evening)
+
+ES — epithet *hesperus*: Del griego hesperos (occidental, vespertino)
 
 <!-- src:S0018 -->
 

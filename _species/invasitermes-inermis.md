@@ -38,9 +38,13 @@ ES — **非武闯白蚁** (*Invasitermes inermis*) es una especie, y la especie
 
 EN — *Invasitermes*: From Latin invasus (invaded) + termes.
 
+ES — *Invasitermes*: Del latín invasus (invadido) + termes.
+
 种加词 *inermis*：拉丁文 in-（无）+ arma（武器），无刺、无武装
 
 EN — epithet *inermis*: Latin in- (without) + arma (arms), unarmed
+
+ES — epithet *inermis*: Del latín in- (sin) + arma (armas), inerme
 
 <!-- src:S0018 -->
 

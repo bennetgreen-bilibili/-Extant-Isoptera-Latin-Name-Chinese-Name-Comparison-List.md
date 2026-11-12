@@ -35,9 +35,13 @@ ES — **中间异白蚁** (*Heterotermes intermedius*) es una especie del géne
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *intermedius*：拉丁文 intermedius（中间的）
 
 EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+ES — epithet *intermedius*: Del latín intermedius (intermedio)
 
 <!-- src:S0018 -->
 

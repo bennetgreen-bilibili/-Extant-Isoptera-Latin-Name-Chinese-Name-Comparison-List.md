@@ -38,9 +38,13 @@ ES — **华美高跷白蚁** (*Grallatotermes splendidus*) es una especie del g
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
+ES — *Grallatotermes*: Del latín grallator (zancudo) + termes.
+
 种加词 *splendidus*：拉丁文/希腊文词根「splendid」（华丽）
 
 EN — epithet *splendidus*: From the descriptive term 'splendid' (splendid)
+
+ES — epithet *splendidus*: Del término descriptivo «splendid» (espléndido)
 
 <!-- src:S0018 -->
 

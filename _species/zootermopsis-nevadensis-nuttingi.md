@@ -36,9 +36,13 @@ ES — **纳丁亚种** (*Zootermopsis nevadensis nuttingi*) es una subespecie d
 
 EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
 
+ES — *Zootermopsis*: Del griego zōon (animal) + -termopsis (term- + -opsis).
+
 种加词 *nuttingi*：以人名 W. L. Nutting（美国白蚁学家）命名
 
 EN — epithet *nuttingi*: Named after W. L. Nutting (American termitologist)
+
+ES — epithet *nuttingi*: En honor de W. L. Nutting (termitólogo estadounidense)
 
 <!-- src:S0018 -->
 

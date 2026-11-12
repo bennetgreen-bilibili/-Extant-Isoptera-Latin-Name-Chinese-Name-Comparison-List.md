@@ -38,9 +38,13 @@ ES — **树栖锯白蚁** (*Microcerotermes arboreus*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *arboreus*：拉丁文 arboreus（栖树的）
 
 EN — epithet *arboreus*: Latin arboreus (arboreal)
+
+ES — epithet *arboreus*: Del latín arboreus (arbóreo)
 
 <!-- src:S0018 -->
 

@@ -36,9 +36,13 @@ ES — **西西里亚种** (*Reticulitermes lucifugus siculus*) es una subespeci
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *siculus*：拉丁文 siculus（西西里岛的，Sicilia=西西里岛）
 
 EN — epithet *siculus*: Latin siculus (of Sicily)
+
+ES — epithet *siculus*: Del latín siculus (de Sicilia)
 
 <!-- src:S0018 -->
 

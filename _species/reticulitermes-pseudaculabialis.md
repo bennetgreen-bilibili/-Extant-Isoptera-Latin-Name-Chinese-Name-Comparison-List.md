@@ -35,9 +35,13 @@ ES — **拟尖唇散白蚁** (*Reticulitermes pseudaculabialis*) es una especie
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *pseudaculabialis*：拉丁文/希腊文 pseudacu（假）+ labialis（唇），指假唇
 
 EN — epithet *pseudaculabialis*: From pseudacu (假) + labialis (唇)
+
+ES — epithet *pseudaculabialis*: De pseudacu (falso) + labialis (labio)
 
 <!-- src:S0018 -->
 

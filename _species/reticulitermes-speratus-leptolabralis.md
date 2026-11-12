@@ -36,9 +36,13 @@ ES — **细唇亚种** (*Reticulitermes speratus leptolabralis*) es una subespe
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *leptolabralis*：希腊文 leptos（细）＋拉丁文 labrum（唇），指细唇的
 
 EN — epithet *leptolabralis*: Greek leptos (slender) + Latin labrum (lip): slender-lipped
+
+ES — epithet *leptolabralis*: Del griego leptos (esbelto) + latín labrum (labio): de labio esbelto
 
 <!-- src:S0018 -->
 

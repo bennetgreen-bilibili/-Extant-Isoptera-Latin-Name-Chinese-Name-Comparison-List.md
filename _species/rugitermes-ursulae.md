@@ -35,9 +35,13 @@ ES — **小熊皱白蚁** (*Rugitermes ursulae*) es una especie del género *Ru
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *ursulae*：以人名 Ursula（女性人名） 命名
 
 EN — epithet *ursulae*: Named after Ursula
+
+ES — epithet *ursulae*: En honor de Ursula
 
 <!-- src:S0018 -->
 

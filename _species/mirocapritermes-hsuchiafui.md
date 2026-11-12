@@ -38,9 +38,13 @@ ES — **云南瘤白蚁** (*Mirocapritermes hsuchiafui*) es una especie del gé
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *hsuchiafui*：以人名 Hsu Chia-fu（徐家富，中国）命名
 
 EN — epithet *hsuchiafui*: Named after Hsu Chia-fu (Chinese)
+
+ES — epithet *hsuchiafui*: En honor de Hsu Chia-fu (chino)
 
 <!-- src:S0018 -->
 

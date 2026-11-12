@@ -35,9 +35,13 @@ ES — **大岛乳白蚁** (*Coptotermes oshimai*) es una especie del género *C
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *oshimai*：以人名 Oshima（大岛）命名（日本白蚁学家大岛正满 Masamitsu Oshima）
 
 EN — epithet *oshimai*: Named after Oshima (Japanese termite specialist Masamitsu Oshima)
+
+ES — epithet *oshimai*: En honor de Oshima (especialista japonés en termitas Masamitsu Oshima)
 
 <!-- src:S0018 -->
 

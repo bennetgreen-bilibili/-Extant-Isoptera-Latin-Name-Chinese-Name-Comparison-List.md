@@ -35,9 +35,13 @@ ES — **鲁恩沃杆白蚁** (*Stylotermes roonwali*) es una especie del géner
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *roonwali*：以人名 Roonwal 命名（印度白蚁学家 M. L. Roonwal）
 
 EN — epithet *roonwali*: Named after the termite taxonomist M. L. Roonwal
+
+ES — epithet *roonwali*: En honor del taxónomo de termitas M. L. Roonwal
 
 <!-- src:S0018 -->
 

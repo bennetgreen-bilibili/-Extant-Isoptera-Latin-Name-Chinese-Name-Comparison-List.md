@@ -35,9 +35,13 @@ ES — **希尔堆砂白蚁** (*Cryptotermes hilli*) es una especie del género 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *hilli*：以人名 Hill 命名（昆虫学家 G. F. Hill）
 
 EN — epithet *hilli*: Named after the entomologist G. F. Hill
+
+ES — epithet *hilli*: En honor del entomólogo G. F. Hill
 
 <!-- src:S0018 -->
 

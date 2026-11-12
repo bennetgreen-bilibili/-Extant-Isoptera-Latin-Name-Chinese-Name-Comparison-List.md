@@ -38,9 +38,13 @@ ES — **哈多象白蚁** (*Nasutitermes haddoensis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *haddoensis*：以地名 Haddo 命名
 
 EN — epithet *haddoensis*: Named after the locality Haddo
+
+ES — epithet *haddoensis*: Por la localidad de Haddo
 
 <!-- src:S0018 -->
 

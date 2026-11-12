@@ -38,9 +38,13 @@ ES — **弧颚弓白蚁** (*Amitermes arcuatus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *arcuatus*：拉丁文/希腊文 arcu（弓）+ atus（具），指弓具
 
 EN — epithet *arcuatus*: From arcu (弓) + atus (具)
+
+ES — epithet *arcuatus*: De arcu (arco) + atus (que posee)
 
 <!-- src:S0018 -->
 

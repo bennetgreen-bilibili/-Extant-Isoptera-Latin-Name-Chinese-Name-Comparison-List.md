@@ -38,9 +38,13 @@ ES — **高唇基地球白蚁** (*Ibitermes inflatus*) es una especie, y la esp
 
 EN — *Ibitermes*: From Tupi Ibi (land, tree) + -termes.
 
+ES — *Ibitermes*: Del tupí Ibi (tierra, árbol) + -termes.
+
 种加词 *inflatus*：拉丁文/希腊文 infl（膨大）+ atus（具），指膨大具
 
 EN — epithet *inflatus*: From infl (膨大) + atus (具)
+
+ES — epithet *inflatus*: De infl (inflado) + atus (provisto de)
 
 <!-- src:S0018 -->
 

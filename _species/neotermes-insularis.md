@@ -37,9 +37,13 @@ ES — **岛生新白蚁** (*Neotermes insularis*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *insularis*：拉丁文 insularis（岛屿的、栖岛的）
 
 EN — epithet *insularis*: Latin insularis (of islands)
+
+ES — epithet *insularis*: Del latín insularis (de las islas)
 
 <!-- src:S0018 -->
 

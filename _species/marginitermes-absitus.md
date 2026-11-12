@@ -35,9 +35,13 @@ ES — **遥远边白蚁** (*Marginitermes absitus*) es una especie del género 
 
 EN — *Marginitermes*: From Latin margo (margin) + termes.
 
+ES — *Marginitermes*: Del latín margo (margen) + termes.
+
 种加词 *absitus*：拉丁文 absitus（远离的、偏僻的）
 
 EN — epithet *absitus*: Latin absitus (remote, distant)
+
+ES — epithet *absitus*: Del latín absitus (remoto, distante)
 
 <!-- src:S0018 -->
 

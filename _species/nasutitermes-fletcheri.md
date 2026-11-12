@@ -40,9 +40,13 @@ ES — **弗莱彻象白蚁** (*Nasutitermes fletcheri*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *fletcheri*：以人名 Fletcher（或 T. B. Fletcher，英国昆虫学家）命名
 
 EN — epithet *fletcheri*: Named after Fletcher
+
+ES — epithet *fletcheri*: En honor de Fletcher
 
 <!-- src:S0018 -->
 

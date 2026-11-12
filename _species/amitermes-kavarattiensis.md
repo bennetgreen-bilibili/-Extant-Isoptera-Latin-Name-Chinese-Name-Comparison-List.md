@@ -38,9 +38,13 @@ ES — **卡瓦拉蒂弓白蚁** (*Amitermes kavarattiensis*) es una especie del
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *kavarattiensis*：以地名 卡瓦拉蒂（印度） 命名
 
 EN — epithet *kavarattiensis*: Named after the locality Kavaratt
+
+ES — epithet *kavarattiensis*: Por la localidad de Kavaratt
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **平扁树白蚁** (*Glyptotermes planus*) es una especie del género *G
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *planus*：拉丁文 planus（平）
 
 EN — epithet *planus*: Latin planus (flat)
+
+ES — epithet *planus*: Del latín planus (plano)
 
 <!-- src:S0018 -->
 

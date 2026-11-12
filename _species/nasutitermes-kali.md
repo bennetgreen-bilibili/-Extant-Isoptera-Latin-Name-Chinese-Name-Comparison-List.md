@@ -38,9 +38,13 @@ ES — **卡尔象白蚁** (*Nasutitermes kali*) es una especie del género *Nas
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *kali*：以神祇/人名 Kali（迦梨）命名
 
 EN — epithet *kali*: Named after Kali
+
+ES — epithet *kali*: En honor de Kali
 
 <!-- src:S0018 -->
 

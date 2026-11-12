@@ -37,9 +37,13 @@ ES — **旅游小草白蚁** (*Microhodotermes viator*) es una especie, y la es
 
 EN — *Microhodotermes*: From Greek mikros (small) + hodos (path) + Latin termes.
 
+ES — *Microhodotermes*: Del griego mikros (pequeño) + hodos (sendero) + latín termes.
+
 种加词 *viator*：拉丁文 viator（旅行者）
 
 EN — epithet *viator*: Latin viator (traveller)
+
+ES — epithet *viator*: Del latín viator (viajero)
 
 <!-- src:S0018 -->
 

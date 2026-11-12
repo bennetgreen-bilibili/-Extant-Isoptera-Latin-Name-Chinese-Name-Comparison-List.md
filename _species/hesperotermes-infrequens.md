@@ -38,9 +38,13 @@ ES — **罕见西澳白蚁** (*Hesperotermes infrequens*) es la única especie 
 
 EN — *Hesperotermes*: From Greek hesperos (western, evening) + Latin termes.
 
+ES — *Hesperotermes*: Del griego hesperos (occidental, vespertino) + latín termes.
+
 种加词 *infrequens*：拉丁文 infrequens（稀少的）
 
 EN — epithet *infrequens*: Latin infrequens (infrequent)
+
+ES — epithet *infrequens*: Del latín infrequens (infrecuente)
 
 <!-- src:S0018 -->
 

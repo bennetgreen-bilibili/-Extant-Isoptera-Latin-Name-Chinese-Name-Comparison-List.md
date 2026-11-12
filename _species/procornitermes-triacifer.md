@@ -38,9 +38,13 @@ ES — **三尖唇前角白蚁** (*Procornitermes triacifer*) es una especie, y 
 
 EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
 
+ES — *Procornitermes*: Del griego pro- (antes) + latín cornu (cuerno) + termes.
+
 种加词 *triacifer*：拉丁文/希腊文 triaci（三）+ fer（具），指三具
 
 EN — epithet *triacifer*: From triaci (三) + fer (具)
+
+ES — epithet *triacifer*: De triaci (tres) + fer (portador)
 
 <!-- src:S0018 -->
 

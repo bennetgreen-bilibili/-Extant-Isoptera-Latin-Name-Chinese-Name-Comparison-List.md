@@ -35,9 +35,13 @@ ES — **雷公山散白蚁** (*Reticulitermes leigongshanensis*) es una especie
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *leigongshanensis*：以地名 雷公山（贵州） 命名
 
 EN — epithet *leigongshanensis*: Named after the locality Leigongshan
+
+ES — epithet *leigongshanensis*: Por la localidad de Leigongshan
 
 <!-- src:S0018 -->
 

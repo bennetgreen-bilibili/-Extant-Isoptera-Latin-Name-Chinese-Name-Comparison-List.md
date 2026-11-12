@@ -35,9 +35,13 @@ ES — **望加锡长鼻白蚁** (*Schedorhinotermes makassarensis*) es una espe
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *makassarensis*：以地名 望加锡（印度尼西亚） 命名
 
 EN — epithet *makassarensis*: Named after the locality Makassar
+
+ES — epithet *makassarensis*: Por la localidad de Makasar
 
 <!-- src:S0018 -->
 

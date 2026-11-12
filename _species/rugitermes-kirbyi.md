@@ -35,9 +35,13 @@ ES — **柯比皱白蚁** (*Rugitermes kirbyi*) es una especie del género *Rug
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *kirbyi*：以人名 Kirby 命名（英国昆虫学家 W. F. Kirby）
 
 EN — epithet *kirbyi*: Named after the entomologist W. F. Kirby
+
+ES — epithet *kirbyi*: En honor del entomólogo W. F. Kirby
 
 <!-- src:S0018 -->
 

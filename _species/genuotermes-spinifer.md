@@ -38,9 +38,13 @@ ES — **具脊膝白蚁** (*Genuotermes spinifer*) es la única especie vivient
 
 EN — *Genuotermes*: From Latin genu (knee) + termes.
 
+ES — *Genuotermes*: Del latín genu (rodilla) + termes.
+
 种加词 *spinifer*：拉丁文 spina（刺）+ -fer（具），具刺
 
 EN — epithet *spinifer*: Latin spina (spine) + -fer (bearing), spiny
+
+ES — epithet *spinifer*: Del latín spina (espina) + -fer (que lleva), espinoso
 
 <!-- src:S0018 -->
 

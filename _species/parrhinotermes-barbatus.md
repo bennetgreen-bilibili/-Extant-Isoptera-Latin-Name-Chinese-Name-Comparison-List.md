@@ -35,9 +35,13 @@ ES — **毛颏棒鼻白蚁** (*Parrhinotermes barbatus*) es una especie del gé
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
+ES — *Parrhinotermes*: Del griego para- (al lado de) + rhis (nariz) + latín termes.
+
 种加词 *barbatus*：拉丁文/希腊文 barb（髯）+ atus（具），指髯具
 
 EN — epithet *barbatus*: From barb (髯) + atus (具)
+
+ES — epithet *barbatus*: De barb (barba) + atus (que posee)
 
 <!-- src:S0018 -->
 

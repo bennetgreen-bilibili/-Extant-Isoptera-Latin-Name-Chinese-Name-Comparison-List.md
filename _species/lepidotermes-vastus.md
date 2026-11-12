@@ -38,9 +38,13 @@ ES — **空闲鳞白蚁** (*Lepidotermes vastus*) es una especie del género *L
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *vastus*：拉丁文 vastus（广大的、空旷的）
 
 EN — epithet *vastus*: Latin vastus (vast)
+
+ES — epithet *vastus*: Del latín vastus (vasto)
 
 <!-- src:S0018 -->
 

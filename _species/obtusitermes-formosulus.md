@@ -38,9 +38,13 @@ ES — **漂亮钝白蚁** (*Obtusitermes formosulus*) es una especie del géner
 
 EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
 
+ES — *Obtusitermes*: Del latín obtusus (romo) + termes.
+
 种加词 *formosulus*：拉丁文 formosus（美丽）+ -ulus（小），小巧美丽
 
 EN — epithet *formosulus*: Latin formosus (beautiful) + -ulus (small), dainty
+
+ES — epithet *formosulus*: Del latín formosus (hermoso) + -ulus (pequeño), delicado
 
 <!-- src:S0018 -->
 

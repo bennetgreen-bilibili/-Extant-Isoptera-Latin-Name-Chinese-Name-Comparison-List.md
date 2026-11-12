@@ -38,9 +38,13 @@ ES — **扁形鳞白蚁** (*Lepidotermes planifacies*) es una especie del géne
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
+ES — *Lepidotermes*: Del griego lepis (escama) + latín termes.
+
 种加词 *planifacies*：拉丁文 planus（平）+ facies（面），平面
 
 EN — epithet *planifacies*: Latin planus (flat) + facies (face), flat-faced
+
+ES — epithet *planifacies*: Del latín planus (plano) + facies (cara), de cara plana
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **弗里茨米勒白蚁米勒白蚁** (*Muelleritermes fritzi*) es una es
 
 EN — *Muelleritermes*: Named after a person (Müller); -termes from Latin termes.
 
+ES — *Muelleritermes*: En honor de una persona (Müller); -termes, del latín termes.
+
 种加词 *fritzi*：以人名 Fritz 命名
 
 EN — epithet *fritzi*: Named after Fritz
+
+ES — epithet *fritzi*: En honor de Fritz
 
 <!-- src:S0018 -->
 

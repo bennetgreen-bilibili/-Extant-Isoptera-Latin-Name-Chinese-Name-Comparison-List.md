@@ -38,9 +38,13 @@ ES — **尤氏华象白蚁** (*Sinonasutitermes yui*) es una especie del géner
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *yui*：以中国白蚁分类学家尤其伟（You Qiwei）命名。
 
 EN — epithet *yui*: Named after the Chinese termite taxonomist Qiwei You.
+
+ES — epithet *yui*: En honor de Qiwei You, taxónomo chino de termitas.
 
 <!-- src:S0018 -->
 

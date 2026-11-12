@@ -38,9 +38,13 @@ ES — **显颚蛇白蚁** (*Ophiotermes mandibularis*) es una especie, y la esp
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
+ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
+
 种加词 *mandibularis*：拉丁文 mandibula（上颚），上颚的
 
 EN — epithet *mandibularis*: Latin mandibula (mandible), mandibular
+
+ES — epithet *mandibularis*: Del latín mandibula (mandíbula), mandibular
 
 <!-- src:S0018 -->
 

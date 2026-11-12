@@ -38,9 +38,13 @@ ES — **小锯白蚁** (*Microcerotermes parvus*) es una especie del género *M
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *parvus*：拉丁文 parvus（小）
 
 EN — epithet *parvus*: Latin parvus (small)
+
+ES — epithet *parvus*: Del latín parvus (pequeño)
 
 <!-- src:S0018 -->
 

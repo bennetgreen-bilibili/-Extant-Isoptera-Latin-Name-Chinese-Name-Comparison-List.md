@@ -38,9 +38,13 @@ ES — **塔普拉班土白蚁** (*Odontotermes taprobanes*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *taprobanes*：拉丁文 Taprobane（斯里兰卡的古称）
 
 EN — epithet *taprobanes*: Latin Taprobane (ancient name of Sri Lanka)
+
+ES — epithet *taprobanes*: Latín Taprobane (nombre antiguo de Sri Lanka)
 
 <!-- src:S0018 -->
 

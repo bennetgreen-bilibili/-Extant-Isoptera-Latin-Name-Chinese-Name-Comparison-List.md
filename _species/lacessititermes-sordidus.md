@@ -38,9 +38,13 @@ ES — **肮脏怒白蚁** (*Lacessititermes sordidus*) es una especie del géne
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *sordidus*：拉丁文/希腊文词根「sordid」（污浊）
 
 EN — epithet *sordidus*: From the descriptive term 'sordid' (sordid)
+
+ES — epithet *sordidus*: Del término descriptivo «sordid» (sórdido)
 
 <!-- src:S0018 -->
 

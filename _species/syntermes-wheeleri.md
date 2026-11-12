@@ -38,9 +38,13 @@ ES — **惠勒聚白蚁** (*Syntermes wheeleri*) es una especie del género *Sy
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *wheeleri*：以人名 Wheeler 命名（美国蚁学家 W. M. Wheeler）
 
 EN — epithet *wheeleri*: Named after the myrmecologist W. M. Wheeler
+
+ES — epithet *wheeleri*: En honor del mirmecólogo W. M. Wheeler
 
 <!-- src:S0018 -->
 

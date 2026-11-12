@@ -35,9 +35,13 @@ ES — **狭颈动白蚁** (*Zootermopsis angusticollis*) es una especie, y la e
 
 EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
 
+ES — *Zootermopsis*: Del griego zōon (animal) + -termopsis (term- + -opsis).
+
 种加词 *angusticollis*：拉丁文/希腊文 angusti（窄）+ collis（颈），指窄颈
 
 EN — epithet *angusticollis*: From angusti (窄) + collis (颈)
+
+ES — epithet *angusticollis*: De angusti (estrecho) + collis (cuello)
 
 <!-- src:S0018 -->
 

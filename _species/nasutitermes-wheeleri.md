@@ -38,9 +38,13 @@ ES — **惠勒象白蚁** (*Nasutitermes wheeleri*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *wheeleri*：以人名 Wheeler 命名（美国蚁学家 W. M. Wheeler）
 
 EN — epithet *wheeleri*: Named after the myrmecologist W. M. Wheeler
+
+ES — epithet *wheeleri*: En honor del mirmecólogo W. M. Wheeler
 
 <!-- src:S0018 -->
 

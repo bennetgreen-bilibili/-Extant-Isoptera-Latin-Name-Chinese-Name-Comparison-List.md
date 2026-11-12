@@ -38,9 +38,13 @@ ES — **阿西尔角白蚁** (*Angulitermes asirensis*) es una especie del gén
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *asirensis*：以地名 阿西尔（沙特阿拉伯） 命名
 
 EN — epithet *asirensis*: Named after the locality Asir
+
+ES — epithet *asirensis*: Por la localidad de Asir
 
 <!-- src:S0018 -->
 

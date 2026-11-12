@@ -38,9 +38,13 @@ ES — **小胸小白蚁** (*Microtermes microthorax*) es una especie del géner
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *microthorax*：拉丁文/希腊文 micro（小）+ thorax（胸），指小胸
 
 EN — epithet *microthorax*: From micro (小) + thorax (胸)
+
+ES — epithet *microthorax*: De micro (pequeño) + thorax (tórax)
 
 <!-- src:S0018 -->
 

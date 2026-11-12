@@ -38,9 +38,13 @@ ES — **泰国印白蚁** (*Indotermes thailandis*) es una especie del género 
 
 EN — *Indotermes*: From India + Latin termes.
 
+ES — *Indotermes*: De India + latín termes.
+
 种加词 *thailandis*：地名：泰国
 
 EN — epithet *thailandis*: After Thailand
+
+ES — epithet *thailandis*: Por Tailandia
 
 <!-- src:S0018 -->
 

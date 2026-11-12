@@ -38,9 +38,13 @@ ES — **乔塔里锯白蚁** (*Microcerotermes chhotanii*) es una especie del g
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *chhotanii*：以 O.B. Chhotani（印度白蚁学家）命名
 
 EN — epithet *chhotanii*: Named after O.B. Chhotani
+
+ES — epithet *chhotanii*: En honor de O.B. Chhotani
 
 <!-- src:S0018 -->
 

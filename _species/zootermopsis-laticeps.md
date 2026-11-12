@@ -35,9 +35,13 @@ ES — **宽头动白蚁** (*Zootermopsis laticeps*) es una especie del género 
 
 EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
 
+ES — *Zootermopsis*: Del griego zōon (animal) + -termopsis (term- + -opsis).
+
 种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
 
 EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+ES — epithet *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de cabeza ancha
 
 <!-- src:S0018 -->
 

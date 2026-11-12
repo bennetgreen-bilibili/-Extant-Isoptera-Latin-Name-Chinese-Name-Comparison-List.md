@@ -38,9 +38,13 @@ ES — **黑头亮白蚁** (*Euhamitermes melanocephalus*) es una especie del g�
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *melanocephalus*：希腊文 melas（黑）+ kephalē（头），黑头
 
 EN — epithet *melanocephalus*: Greek melas (black) + kephalē (head), black-headed
+
+ES — epithet *melanocephalus*: Del griego melas (negro) + kephalē (cabeza), de cabeza negra
 
 <!-- src:S0018 -->
 

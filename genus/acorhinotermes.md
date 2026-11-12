@@ -59,6 +59,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名含希腊文 rhis（鼻）与拉丁文 termes（白蚁）；前缀 acorhin- 组成未详。</p>
 <p class="etymology-en fact-en" lang="en">Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.</p>
+<p class="etymology-es fact-es" lang="es">Contiene el griego rhis (nariz) + latín termes; la derivación del prefijo es incierta.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

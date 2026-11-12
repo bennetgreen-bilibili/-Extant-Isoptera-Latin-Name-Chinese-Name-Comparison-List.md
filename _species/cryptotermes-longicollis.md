@@ -35,9 +35,13 @@ ES — **长颈堆砂白蚁** (*Cryptotermes longicollis*) es una especie del g�
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *longicollis*：拉丁文/希腊文 longi（长）+ collis（颈），指长颈
 
 EN — epithet *longicollis*: From longi (长) + collis (颈)
+
+ES — epithet *longicollis*: De longi (largo) + collis (cuello)
 
 <!-- src:S0018 -->
 

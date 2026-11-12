@@ -38,9 +38,13 @@ ES — **隐蔽尖白蚁** (*Apicotermes occultus*) es una especie del género *
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *occultus*：拉丁文 occultus（隐蔽的）
 
 EN — epithet *occultus*: Latin occultus (hidden)
+
+ES — epithet *occultus*: Del latín occultus (oculto)
 
 <!-- src:S0018 -->
 

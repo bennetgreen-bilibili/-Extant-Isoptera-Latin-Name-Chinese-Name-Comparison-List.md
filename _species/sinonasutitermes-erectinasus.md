@@ -38,9 +38,13 @@ ES — **翘鼻华象白蚁** (*Sinonasutitermes erectinasus*) es una especie de
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *erectinasus*：拉丁文/希腊文 e-（无、不）+ rectinasus（直），指无直
 
 EN — epithet *erectinasus*: From e- (without) + rectinasus (直)
+
+ES — epithet *erectinasus*: De e- (sin) + rectinasus (recto)
 
 <!-- src:S0018 -->
 

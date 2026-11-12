@@ -38,9 +38,13 @@ ES — **小葫白蚁** (*Cucurbitermes parviceps*) es una especie del género *
 
 EN — *Cucurbitermes*: From Latin cucurbita (gourd) + termes.
 
+ES — *Cucurbitermes*: Del latín cucurbita (calabaza) + termes.
+
 种加词 *parviceps*：拉丁文 parvus（小）+ -ceps（头），小头
 
 EN — epithet *parviceps*: Latin parvus (small) + -ceps (head), small-headed
+
+ES — epithet *parviceps*: Del latín parvus (pequeño) + -ceps (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

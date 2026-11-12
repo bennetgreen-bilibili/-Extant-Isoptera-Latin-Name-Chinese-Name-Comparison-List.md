@@ -38,9 +38,13 @@ ES — **努登舍尔德圆筒白蚁** (*Cylindrotermes nordenskioldi*) es una e
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *nordenskioldi*：以人名 Nordenskiöld（诺登舍尔德）命名（瑞典-芬兰探险家 Adolf Erik Nordenskiöld）
 
 EN — epithet *nordenskioldi*: Named after Nordenskiöld (Swedish-Finnish explorer A. E. Nordenskiöld)
+
+ES — epithet *nordenskioldi*: En honor de Nordenskiöld (explorador sueco-finlandés A. E. Nordenskiöld)
 
 <!-- src:S0018 -->
 

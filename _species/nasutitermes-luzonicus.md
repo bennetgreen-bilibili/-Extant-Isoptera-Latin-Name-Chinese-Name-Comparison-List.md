@@ -40,9 +40,13 @@ ES — **吕宋象白蚁** (*Nasutitermes luzonicus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *luzonicus*：以地名 吕宋（菲律宾） 命名
 
 EN — epithet *luzonicus*: Named after the locality Luzon
+
+ES — epithet *luzonicus*: Por la localidad de Luzón
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **宁静无锐白蚁** (*Ateuchotermes tranquillus*) es una especie del g
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *tranquillus*：拉丁文 tranquillus（平静的）
 
 EN — epithet *tranquillus*: Latin tranquillus (tranquil)
+
+ES — epithet *tranquillus*: Del latín tranquillus (tranquilo)
 
 <!-- src:S0018 -->
 

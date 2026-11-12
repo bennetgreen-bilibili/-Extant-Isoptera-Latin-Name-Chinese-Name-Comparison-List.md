@@ -40,9 +40,13 @@ ES — **埃夫拉塔象白蚁** (*Nasutitermes ephratae*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *ephratae*：以地名 Ephrata（苏里南）命名
 
 EN — epithet *ephratae*: Named after the locality Ephrata (Suriname)
+
+ES — epithet *ephratae*: Por la localidad de Ephrata (Surinam)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **近圆唇散白蚁** (*Reticulitermes perilabralis*) es una especie del
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *perilabralis*：希腊文 peri-（周围）+ 拉丁文 labrum（唇），周唇
 
 EN — epithet *perilabralis*: Greek peri- (around) + Latin labrum (lip)
+
+ES — epithet *perilabralis*: Del griego peri- (alrededor) + latín labrum (labio)
 
 <!-- src:S0018 -->
 

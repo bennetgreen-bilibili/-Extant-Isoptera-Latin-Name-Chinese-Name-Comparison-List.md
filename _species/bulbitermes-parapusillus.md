@@ -38,9 +38,13 @@ ES — **似极小瓢白蚁** (*Bulbitermes parapusillus*) es una especie del g�
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *parapusillus*：拉丁文/希腊文词根「para」（旁）
 
 EN — epithet *parapusillus*: From the descriptive term 'para' (beside)
+
+ES — epithet *parapusillus*: Del término descriptivo «para» (al lado)
 
 <!-- src:S0018 -->
 

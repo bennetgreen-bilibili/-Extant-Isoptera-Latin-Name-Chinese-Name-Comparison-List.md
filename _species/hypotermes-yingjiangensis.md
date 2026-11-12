@@ -38,9 +38,13 @@ ES — **盈江地白蚁** (*Hypotermes yingjiangensis*) es una especie del gén
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *yingjiangensis*：以地名 盈江（云南） 命名
 
 EN — epithet *yingjiangensis*: Named after the locality Yingjiang
+
+ES — epithet *yingjiangensis*: Por la localidad de Yingjiang
 
 <!-- src:S0018 -->
 

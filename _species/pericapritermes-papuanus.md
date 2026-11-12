@@ -38,9 +38,13 @@ ES — **巴布亚近扭白蚁** (*Pericapritermes papuanus*) es una especie del
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *papuanus*：地名：巴布亚（新几内亚）
 
 EN — epithet *papuanus*: After Papua (New Guinea)
+
+ES — epithet *papuanus*: Por Papúa (Nueva Guinea)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **小齿弓白蚁** (*Amitermes parvidens*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *parvidens*：拉丁文/希腊文词根「parv」（小）
 
 EN — epithet *parvidens*: From the descriptive term 'parv' (small)
+
+ES — epithet *parvidens*: Del término descriptivo «parv» (pequeño)
 
 <!-- src:S0018 -->
 

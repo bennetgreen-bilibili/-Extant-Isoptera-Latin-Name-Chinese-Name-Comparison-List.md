@@ -40,9 +40,13 @@ ES — **发黑新扭白蚁** (*Neocapritermes opacus*) es una especie, y la esp
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *opacus*：拉丁文 opacus（晦暗、无光泽）
 
 EN — epithet *opacus*: Latin opacus (dull, opaque)
+
+ES — epithet *opacus*: Del latín opacus (mate, opaco)
 
 <!-- src:S0018 -->
 

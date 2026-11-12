@@ -35,9 +35,13 @@ ES — **新婆罗树白蚁** (*Glyptotermes neoborneensis*) es una especie del 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *neoborneensis*：希腊文 neos（新）＋Borneo（婆罗洲），指新婆罗洲的
 
 EN — epithet *neoborneensis*: Greek neos (new) + Borneo: new Bornean
+
+ES — epithet *neoborneensis*: Del griego neos (nuevo) + Borneo: nuevo de Borneo
 
 <!-- src:S0018 -->
 

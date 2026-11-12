@@ -40,9 +40,13 @@ ES — **暗黄大白蚁** (*Macrotermes gilvus*) es una especie del género *Ma
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *gilvus*：拉丁文 gilvus（淡黄褐色的）
 
 EN — epithet *gilvus*: Latin gilvus (yellowish-grey)
+
+ES — epithet *gilvus*: Del latín gilvus (gris amarillento)
 
 <!-- src:S0018 -->
 

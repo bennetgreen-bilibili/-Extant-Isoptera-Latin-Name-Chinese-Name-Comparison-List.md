@@ -35,9 +35,13 @@ ES — **陕西树白蚁** (*Glyptotermes shaanxiensis*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *shaanxiensis*：以地名 陕西 命名
 
 EN — epithet *shaanxiensis*: Named after the locality Shaanx
+
+ES — epithet *shaanxiensis*: Por la localidad de Shaanxi
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **弯肠缩白蚁** (*Constrictotermes cyphergaster*) es una especie, y l
 
 EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
 
+ES — *Constrictotermes*: Del latín constrictus (constreñido) + termes.
+
 种加词 *cyphergaster*：希腊文 kryptos（隐藏）+ gastēr（腹），隐腹
 
 EN — epithet *cyphergaster*: Greek kryptos (hidden) + gastēr (belly), hidden-bellied
+
+ES — epithet *cyphergaster*: Del griego kryptos (oculto) + gastēr (vientre), de vientre oculto
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **科摩罗象白蚁** (*Nasutitermes comorensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *comorensis*：以地名 科摩罗 命名
 
 EN — epithet *comorensis*: Named after the locality Comor
+
+ES — epithet *comorensis*: Por la localidad de Comoras
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **康杰尼方白蚁** (*Cubitermes conjenii*) es una especie del género
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *conjenii*：以人名 Conjeni 命名
 
 EN — epithet *conjenii*: Named after Conjeni
+
+ES — epithet *conjenii*: En honor de Conjeni
 
 <!-- src:S0018 -->
 

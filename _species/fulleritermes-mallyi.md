@@ -38,9 +38,13 @@ ES — **马利富勒白蚁** (*Fulleritermes mallyi*) es una especie del géner
 
 EN — *Fulleritermes*: Named after the entomologist C. Fuller; -termes from Latin termes.
 
+ES — *Fulleritermes*: En honor del entomólogo C. Fuller; -termes, del latín termes.
+
 种加词 *mallyi*：以人名 Mally（马利）命名
 
 EN — epithet *mallyi*: Named after Mally
+
+ES — epithet *mallyi*: En honor de Mally
 
 <!-- src:S0018 -->
 

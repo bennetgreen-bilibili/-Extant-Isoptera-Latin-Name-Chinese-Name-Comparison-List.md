@@ -40,9 +40,13 @@ ES — **直头厚唇白蚁** (*Labiotermes orthocephalus*) es una especie del g
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *orthocephalus*：拉丁文/希腊文词根「orth」（直）
 
 EN — epithet *orthocephalus*: From the descriptive term 'orth' (straight)
+
+ES — epithet *orthocephalus*: Del término descriptivo «orth» (recto)
 
 <!-- src:S0018 -->
 

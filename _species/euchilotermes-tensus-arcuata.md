@@ -39,9 +39,13 @@ ES — **弓形亚种** (*Euchilotermes tensus arcuata*) es una subespecie de *E
 
 EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
 
+ES — *Euchilotermes*: Del griego eu- (bien) + cheilos (labio, margen) + latín termes.
+
 种加词 *arcuata*：拉丁文 arcuatus（弓形的）
 
 EN — epithet *arcuata*: Latin arcuatus (bowed, arcuate)
+
+ES — epithet *arcuata*: Del latín arcuatus (curvado, arqueado)
 
 <!-- src:S0018 -->
 

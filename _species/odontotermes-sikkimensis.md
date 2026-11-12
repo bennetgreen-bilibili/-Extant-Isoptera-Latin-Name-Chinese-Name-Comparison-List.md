@@ -38,9 +38,13 @@ ES — **锡金土白蚁** (*Odontotermes sikkimensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *sikkimensis*：以地名 锡金 命名
 
 EN — epithet *sikkimensis*: Named after the locality Sikkim
+
+ES — epithet *sikkimensis*: Por la localidad de Sikkim
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **十三节象白蚁** (*Nasutitermes tredecimarticulatus*) es una especi
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *tredecimarticulatus*：拉丁文 tredecim（十三）+ articulatus（具节），十三节
 
 EN — epithet *tredecimarticulatus*: Latin tredecim (thirteen) + articulatus (jointed), thirteen-jointed
+
+ES — epithet *tredecimarticulatus*: Del latín tredecim (trece) + articulatus (articulado), con trece artejos
 
 <!-- src:S0018 -->
 

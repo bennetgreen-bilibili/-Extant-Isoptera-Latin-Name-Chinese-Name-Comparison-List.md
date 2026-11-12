@@ -38,9 +38,13 @@ ES — **阿留奥德小白蚁** (*Microtermes alluaudanus*) es una especie del 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *alluaudanus*：以人名 alluaud 命名（C. Alluaud（法国昆虫学家））
 
 EN — epithet *alluaudanus*: Named after C. Alluaud（法国昆虫学家）
+
+ES — epithet *alluaudanus*: En honor de C. Alluaud (entomólogo francés)
 
 <!-- src:S0018 -->
 

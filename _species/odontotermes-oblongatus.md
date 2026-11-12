@@ -38,9 +38,13 @@ ES — **矩形土白蚁** (*Odontotermes oblongatus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *oblongatus*：拉丁文/希腊文 oblong（长椭圆）+ atus（具），指长椭圆具
 
 EN — epithet *oblongatus*: From oblong (长椭圆) + atus (具)
+
+ES — epithet *oblongatus*: De oblong (oblongo) + atus (que posee)
 
 <!-- src:S0018 -->
 

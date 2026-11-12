@@ -35,9 +35,13 @@ ES — **戴云树白蚁** (*Glyptotermes daiyunensis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *daiyunensis*：以地名 戴云山（福建） 命名
 
 EN — epithet *daiyunensis*: Named after the locality Daiyun
+
+ES — epithet *daiyunensis*: Por la localidad de Daiyun
 
 <!-- src:S0018 -->
 

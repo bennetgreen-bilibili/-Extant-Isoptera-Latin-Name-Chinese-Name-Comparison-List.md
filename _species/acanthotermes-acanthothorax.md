@@ -38,9 +38,13 @@ ES — **刺胸刺白蚁** (*Acanthotermes acanthothorax*) es la única especie 
 
 EN — *Acanthotermes*: From Greek akantha (thorn) + Latin termes.
 
+ES — *Acanthotermes*: Del griego akantha (espina) + latín termes.
+
 种加词 *acanthothorax*：拉丁文/希腊文 acantho（刺）+ thorax（胸），指刺胸
 
 EN — epithet *acanthothorax*: From acantho (刺) + thorax (胸)
+
+ES — epithet *acanthothorax*: De acantho (espina) + thorax (tórax)
 
 <!-- src:S0018 -->
 

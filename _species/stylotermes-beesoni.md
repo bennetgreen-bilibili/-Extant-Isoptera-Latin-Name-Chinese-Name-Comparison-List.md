@@ -35,9 +35,13 @@ ES — **比森杆白蚁** (*Stylotermes beesoni*) es una especie del género *S
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *beesoni*：以人名 Beeson 命名（英国林学家 C. F. C. Beeson）
 
 EN — epithet *beesoni*: Named after the forest entomologist C. F. C. Beeson
+
+ES — epithet *beesoni*: En honor del entomólogo forestal C. F. C. Beeson
 
 <!-- src:S0018 -->
 

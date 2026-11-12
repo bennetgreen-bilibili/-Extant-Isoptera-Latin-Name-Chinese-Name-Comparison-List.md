@@ -38,9 +38,13 @@ ES — **特雷高小白蚁** (*Microtermes tragardhi*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *tragardhi*：以人名 Trägårdh（Ivar Trägårdh，瑞典昆虫学家） 命名
 
 EN — epithet *tragardhi*: Named after Ivar Trägårdh (Swedish entomologist)
+
+ES — epithet *tragardhi*: En honor de Ivar Trägårdh (entomólogo sueco)
 
 <!-- src:S0018 -->
 

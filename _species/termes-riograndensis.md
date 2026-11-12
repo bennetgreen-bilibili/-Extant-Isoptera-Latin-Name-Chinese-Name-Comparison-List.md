@@ -40,9 +40,13 @@ ES — **里奥格兰德白蚁** (*Termes riograndensis*) es una especie del gé
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *riograndensis*：以地名 格兰德河（美洲） 命名
 
 EN — epithet *riograndensis*: Named after the locality Riogrand
+
+ES — epithet *riograndensis*: Por la localidad de Riogrand
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **贵州钝颚白蚁** (*Ahmaditermes guizhouensis*) es una especie del g
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *guizhouensis*：地名：贵州（中国）
 
 EN — epithet *guizhouensis*: After Guizhou (China)
+
+ES — epithet *guizhouensis*: Por Guizhou (China)
 
 <!-- src:S0018 -->
 

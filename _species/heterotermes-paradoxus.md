@@ -37,9 +37,13 @@ ES — **奇异异白蚁** (*Heterotermes paradoxus*) es una especie del género
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *paradoxus*：希腊文 paradoxos（奇异的、悖于常理）
 
 EN — epithet *paradoxus*: Greek paradoxos (paradoxical, strange)
+
+ES — epithet *paradoxus*: Del griego paradoxos (paradójico, extraño)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **黑触角须白蚁** (*Hospitalitermes nigriantennalis*) es una especie
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *nigriantennalis*：拉丁文/希腊文 nigri（黑）+ antennalis（触角），指黑触角
 
 EN — epithet *nigriantennalis*: From nigri (黑) + antennalis (触角)
+
+ES — epithet *nigriantennalis*: De nigri (negro) + antennalis (antena)
 
 <!-- src:S0018 -->
 

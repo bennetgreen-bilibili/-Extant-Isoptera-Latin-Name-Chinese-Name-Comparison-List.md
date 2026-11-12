@@ -38,9 +38,13 @@ ES — **短缩净白蚁** (*Nitiditermes curtatus*) es una especie del género 
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *curtatus*：拉丁文/希腊文 curt（短）+ atus（具），指短具
 
 EN — epithet *curtatus*: From curt (短) + atus (具)
+
+ES — epithet *curtatus*: De curt (corto) + atus (provisto de)
 
 <!-- src:S0018 -->
 

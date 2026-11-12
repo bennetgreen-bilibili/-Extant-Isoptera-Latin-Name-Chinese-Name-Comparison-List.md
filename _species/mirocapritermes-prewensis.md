@@ -38,9 +38,13 @@ ES — **普鲁瘤白蚁** (*Mirocapritermes prewensis*) es una especie del gén
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *prewensis*：以地名 Prewe 命名
 
 EN — epithet *prewensis*: Named after the locality Prewe
+
+ES — epithet *prewensis*: Por la localidad de Prewe
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **温和土白蚁** (*Odontotermes mediocris*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *mediocris*：拉丁文 mediocris（中等的、普通的）
 
 EN — epithet *mediocris*: Latin mediocris (moderate, middling)
+
+ES — epithet *mediocris*: Del latín mediocris (moderado, mediocre)
 
 <!-- src:S0018 -->
 

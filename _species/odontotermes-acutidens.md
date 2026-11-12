@@ -38,9 +38,13 @@ ES — **尖齿土白蚁** (*Odontotermes acutidens*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *acutidens*：拉丁文/希腊文词根「acut」（尖）
 
 EN — epithet *acutidens*: From the descriptive term 'acut' (sharp)
+
+ES — epithet *acutidens*: Del término descriptivo «acut» (agudo)
 
 <!-- src:S0018 -->
 

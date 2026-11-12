@@ -35,9 +35,13 @@ ES — **长颚杆白蚁** (*Stylotermes longignathus*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *longignathus*：拉丁文 longus（长）+ 希腊文 gnathos（颚），长颚
 
 EN — epithet *longignathus*: Latin longus (long) + Greek gnathos (jaw), long-jawed
+
+ES — epithet *longignathus*: Del latín longus (largo) + del griego gnathos (mandíbula), de mandíbulas largas
 
 <!-- src:S0018 -->
 

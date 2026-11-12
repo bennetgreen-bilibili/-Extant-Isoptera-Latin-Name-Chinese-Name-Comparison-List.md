@@ -35,9 +35,13 @@ ES — **鲁斯特散白蚁** (*Reticulitermes rusti*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *rusti*：以人名 Rust（Michael K. Rust，美国加州大学河滨分校昆虫学家）命名
 
 EN — epithet *rusti*: Named after Michael K. Rust (UCR entomologist)
+
+ES — epithet *rusti*: En honor de Michael K. Rust (entomólogo de la UCR)
 
 <!-- src:S0018 -->
 

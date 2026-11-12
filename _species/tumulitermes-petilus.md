@@ -38,9 +38,13 @@ ES — **修长冢白蚁** (*Tumulitermes petilus*) es una especie del género *
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *petilus*：拉丁文 petilus（纤细的）
 
 EN — epithet *petilus*: Latin petilus (slender)
+
+ES — epithet *petilus*: Del latín petilus (esbelto)
 
 <!-- src:S0018 -->
 

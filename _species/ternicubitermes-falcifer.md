@@ -38,9 +38,13 @@ ES — **具镰三方白蚁** (*Ternicubitermes falcifer*) es una especie del g�
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *falcifer*：拉丁文 falx（镰）+ -fer（具），具镰
 
 EN — epithet *falcifer*: Latin falx (sickle) + -fer (bearing), sickle-bearing
+
+ES — epithet *falcifer*: Del latín falx (hoz) + -fer (portador), portador de hoz
 
 <!-- src:S0018 -->
 

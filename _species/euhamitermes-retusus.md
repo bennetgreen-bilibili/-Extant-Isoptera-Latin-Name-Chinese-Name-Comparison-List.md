@@ -38,9 +38,13 @@ ES — **凹唇亮白蚁** (*Euhamitermes retusus*) es una especie del género *
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *retusus*：拉丁文/希腊文词根「retus」（凹缺）
 
 EN — epithet *retusus*: From the descriptive term 'retus' (retuse)
+
+ES — epithet *retusus*: Del término descriptivo «retus» (retuso)
 
 <!-- src:S0018 -->
 

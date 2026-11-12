@@ -38,9 +38,13 @@ ES — **安吉象白蚁** (*Nasutitermes anjiensis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *anjiensis*：以地名 安吉（浙江） 命名
 
 EN — epithet *anjiensis*: Named after the locality Anj
+
+ES — epithet *anjiensis*: Por la localidad de Anj
 
 <!-- src:S0018 -->
 

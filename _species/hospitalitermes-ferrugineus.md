@@ -38,9 +38,13 @@ ES — **铁锈须白蚁** (*Hospitalitermes ferrugineus*) es una especie del g�
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *ferrugineus*：拉丁文 ferrugineus（铁锈色）
 
 EN — epithet *ferrugineus*: Latin ferrugineus (rusty)
+
+ES — epithet *ferrugineus*: Del latín ferrugineus (herrumbroso)
 
 <!-- src:S0018 -->
 

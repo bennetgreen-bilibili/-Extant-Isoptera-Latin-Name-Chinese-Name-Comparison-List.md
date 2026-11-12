@@ -38,9 +38,13 @@ ES — **石栖石白蚁** (*Saxatilitermes saxatilis*) es la única especie viv
 
 EN — *Saxatilitermes*: From Latin saxatilis (dwelling among rocks) + termes.
 
+ES — *Saxatilitermes*: Del latín saxatilis (que habita entre rocas) + termes.
+
 种加词 *saxatilis*：拉丁文 saxatilis（栖于岩石的）
 
 EN — epithet *saxatilis*: Latin saxatilis (dwelling among rocks)
+
+ES — epithet *saxatilis*: Del latín saxatilis (que vive entre las rocas)
 
 <!-- src:S0018 -->
 

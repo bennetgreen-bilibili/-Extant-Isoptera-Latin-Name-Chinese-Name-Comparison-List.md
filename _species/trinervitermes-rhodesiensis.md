@@ -40,9 +40,13 @@ ES — **罗得西亚三脉白蚁** (*Trinervitermes rhodesiensis*) es una espec
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *rhodesiensis*：以地名 罗得西亚（南部非洲） 命名
 
 EN — epithet *rhodesiensis*: Named after the locality Rhodes
+
+ES — epithet *rhodesiensis*: Por la localidad de Rodesia
 
 <!-- src:S0018 -->
 

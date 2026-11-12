@@ -38,9 +38,13 @@ ES — **埃舍里希锡兰白蚁** (*Ceylonitermes escherichi*) es una especie,
 
 EN — *Ceylonitermes*: From Ceylon (Sri Lanka) + termes.
 
+ES — *Ceylonitermes*: De Ceilán (Sri Lanka) + termes.
+
 种加词 *escherichi*：以人名 escherich 命名（K. Escherich（德国昆虫学家））
 
 EN — epithet *escherichi*: Named after K. Escherich（德国昆虫学家）
+
+ES — epithet *escherichi*: En honor de K. Escherich (entomólogo alemán)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **德兰士瓦土白蚁** (*Odontotermes transvaalensis*) es una especie 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *transvaalensis*：以地名 Transvaal（德兰士瓦，南非）命名
 
 EN — epithet *transvaalensis*: Named after Transvaal, South Africa
+
+ES — epithet *transvaalensis*: Por Transvaal, Sudáfrica
 
 <!-- src:S0018 -->
 

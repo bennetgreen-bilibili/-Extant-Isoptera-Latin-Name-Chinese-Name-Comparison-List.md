@@ -38,9 +38,13 @@ ES — **华南前扭白蚁** (*Procapritermes huananensis*) es una especie del 
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
+ES — *Procapritermes*: Del griego pro- (antes) + latín caper (cabra) + termes.
+
 种加词 *huananensis*：以地名 华南（中国） 命名
 
 EN — epithet *huananensis*: Named after the locality Huanan
+
+ES — epithet *huananensis*: Por la localidad de Huanan
 
 <!-- src:S0018 -->
 

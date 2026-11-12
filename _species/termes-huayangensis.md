@@ -38,9 +38,13 @@ ES — **怀阳白蚁** (*Termes huayangensis*) es una especie del género *Term
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *huayangensis*：以地名 华阳（四川） 命名
 
 EN — epithet *huayangensis*: Named after the locality Huayang
+
+ES — epithet *huayangensis*: Por la localidad de Huayang
 
 <!-- src:S0018 -->
 

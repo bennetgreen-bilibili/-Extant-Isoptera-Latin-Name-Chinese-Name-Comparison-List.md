@@ -39,9 +39,13 @@ ES — **上亚种** (*Basidentitermes mactus supera*) es una subespecie de *Bas
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
+ES — *Basidentitermes*: Del griego basis (base) + latín dens (diente) + termes.
+
 种加词 *supera*：拉丁文 supera（上方的、较高的）
 
 EN — epithet *supera*: Latin supera (upper, higher)
+
+ES — epithet *supera*: Del latín supera (superior, más alto)
 
 <!-- src:S0018 -->
 

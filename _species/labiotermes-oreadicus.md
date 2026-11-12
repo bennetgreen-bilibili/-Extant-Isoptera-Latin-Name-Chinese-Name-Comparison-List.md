@@ -38,9 +38,13 @@ ES — **山神厚唇白蚁** (*Labiotermes oreadicus*) es una especie del géne
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *oreadicus*：希腊文 Oreas（山林仙女，Oread）
 
 EN — epithet *oreadicus*: Greek Oreas (a mountain nymph, an Oread)
+
+ES — epithet *oreadicus*: Del griego Oreas (una ninfa de montaña, una oréade)
 
 <!-- src:S0018 -->
 

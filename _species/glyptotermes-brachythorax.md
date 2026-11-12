@@ -35,9 +35,13 @@ ES — **短胸树白蚁** (*Glyptotermes brachythorax*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *brachythorax*：拉丁文/希腊文 brachy（短）+ thorax（胸），指短胸
 
 EN — epithet *brachythorax*: From brachy (短) + thorax (胸)
+
+ES — epithet *brachythorax*: De brachy (corto) + thorax (tórax)
 
 <!-- src:S0018 -->
 

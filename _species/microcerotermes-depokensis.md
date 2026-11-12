@@ -38,9 +38,13 @@ ES — **德波锯白蚁** (*Microcerotermes depokensis*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *depokensis*：以地名 德波（印度尼西亚） 命名
 
 EN — epithet *depokensis*: Named after the locality Depok
+
+ES — epithet *depokensis*: Por la localidad de Depok
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **可爱海德瑞克白蚁** (*Hydrecotermes kawaii*) es una especie del 
 
 EN — *Hydrecotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Hydrecotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *kawaii*：以人名 Kawai（河合，日本）命名
 
 EN — epithet *kawaii*: Named after Kawai (Japanese)
+
+ES — epithet *kawaii*: En honor de Kawai (japonés)
 
 <!-- src:S0018 -->
 

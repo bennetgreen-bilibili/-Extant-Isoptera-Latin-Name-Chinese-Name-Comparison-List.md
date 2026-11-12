@@ -38,9 +38,13 @@ ES — **岛生间断白蚁** (*Disjunctitermes insularis*) es la única especie
 
 EN — *Disjunctitermes*: From Latin disjunctus (disjoined) + termes.
 
+ES — *Disjunctitermes*: Del latín disjunctus (disyunto) + termes.
+
 种加词 *insularis*：拉丁文 insularis（岛屿的、栖岛的）
 
 EN — epithet *insularis*: Latin insularis (of islands)
+
+ES — epithet *insularis*: Del latín insularis (de las islas)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **丘额钝颚白蚁** (*Ahmaditermes sinuosus*) es una especie del géne
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *sinuosus*：拉丁文/希腊文 sinu（波曲）+ osus（多、充满），指波曲多、充满
 
 EN — epithet *sinuosus*: From sinu (波曲) + osus (多、充满)
+
+ES — epithet *sinuosus*: De sinu (ondulado) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

@@ -36,9 +36,13 @@ ES — **拉夫雷亚种** (*Coptotermes acinaciformis raffrayi*) es una subespe
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *raffrayi*：以人名 A. Raffray（法国昆虫学家）命名
 
 EN — epithet *raffrayi*: Named after A. Raffray (French entomologist)
+
+ES — epithet *raffrayi*: En honor de A. Raffray (entomólogo francés)
 
 <!-- src:S0018 -->
 

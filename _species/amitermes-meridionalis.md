@@ -38,9 +38,13 @@ ES — **南方弓白蚁** (*Amitermes meridionalis*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *meridionalis*：拉丁文 meridionalis（南方的）
 
 EN — epithet *meridionalis*: Latin meridionalis (southern)
+
+ES — epithet *meridionalis*: Del latín meridionalis (meridional)
 
 <!-- src:S0018 -->
 

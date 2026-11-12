@@ -38,9 +38,13 @@ ES — **非洲高跷白蚁** (*Grallatotermes africanus*) es una especie del g�
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
+ES — *Grallatotermes*: Del latín grallator (zancudo) + termes.
+
 种加词 *africanus*：地名：非洲
 
 EN — epithet *africanus*: After Africa
+
+ES — epithet *africanus*: Por África
 
 <!-- src:S0018 -->
 

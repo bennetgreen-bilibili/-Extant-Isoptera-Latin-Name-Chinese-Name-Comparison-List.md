@@ -38,9 +38,13 @@ ES — **斯米瑟曼土白蚁** (*Odontotermes smeathmani*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *smeathmani*：以人名 Smeathman（Henry Smeathman，英国博物学家）命名
 
 EN — epithet *smeathmani*: Named after Henry Smeathman (English naturalist)
+
+ES — epithet *smeathmani*: En honor de Henry Smeathman (naturalista inglés)
 
 <!-- src:S0018 -->
 

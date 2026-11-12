@@ -38,9 +38,13 @@ ES — **定名近扭白蚁** (*Pericapritermes appellans*) es una especie del g
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *appellans*：拉丁文 appellans（称呼的、呼求的）
 
 EN — epithet *appellans*: Latin appellans (calling)
+
+ES — epithet *appellans*: Del latín appellans (que llama)
 
 <!-- src:S0018 -->
 

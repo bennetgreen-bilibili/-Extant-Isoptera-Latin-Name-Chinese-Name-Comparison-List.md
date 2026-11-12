@@ -38,9 +38,13 @@ ES — **弗洛格特脊突白蚁** (*Cristatitermes froggatti*) es una especie 
 
 EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
 
+ES — *Cristatitermes*: Del latín cristatus (crestado) + termes.
+
 种加词 *froggatti*：以人名 froggatt 命名（澳大利亚昆虫学家 W. W. Froggatt）
 
 EN — epithet *froggatti*: Named after 澳大利亚昆虫学家 W. W. Froggatt
+
+ES — epithet *froggatti*: En honor del entomólogo australiano W. W. Froggatt
 
 <!-- src:S0018 -->
 

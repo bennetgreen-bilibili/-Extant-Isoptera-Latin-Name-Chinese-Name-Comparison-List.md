@@ -38,9 +38,13 @@ ES — **可疑小白蚁** (*Microtermes incertus*) es una especie, y la especie
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *incertus*：拉丁文/希腊文词根「incert」（未定）
 
 EN — epithet *incertus*: From the descriptive term 'incert' (uncertain)
+
+ES — epithet *incertus*: Del término descriptivo «incert» (incierto)
 
 <!-- src:S0018 -->
 

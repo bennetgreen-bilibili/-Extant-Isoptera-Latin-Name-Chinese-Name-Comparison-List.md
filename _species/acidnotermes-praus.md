@@ -38,9 +38,13 @@ ES — **短肠虚白蚁** (*Acidnotermes praus*) es la única especie viviente 
 
 EN — *Acidnotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Acidnotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *praus*：希腊文 praos（温和的）
 
 EN — epithet *praus*: Greek praos (gentle)
+
+ES — epithet *praus*: Del griego praos (suave)
 
 <!-- src:S0018 -->
 

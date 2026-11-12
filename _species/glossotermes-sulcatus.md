@@ -35,9 +35,13 @@ ES — **具纹舌白蚁** (*Glossotermes sulcatus*) es una especie del género 
 
 EN — *Glossotermes*: From Greek glōssa (tongue) + Latin termes.
 
+ES — *Glossotermes*: Del griego glōssa (lengua) + latín termes.
+
 种加词 *sulcatus*：拉丁文 sulcatus（具沟的）
 
 EN — epithet *sulcatus*: Latin sulcatus (grooved)
+
+ES — epithet *sulcatus*: Latín sulcatus (surcado)
 
 <!-- src:S0018 -->
 

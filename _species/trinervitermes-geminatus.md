@@ -40,9 +40,13 @@ ES — **成对三脉白蚁** (*Trinervitermes geminatus*) es una especie del g�
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *geminatus*：拉丁文/希腊文 gemin（成双）+ atus（具），指成双具
 
 EN — epithet *geminatus*: From gemin (成双) + atus (具)
+
+ES — epithet *geminatus*: De gemin (pareado) + atus (provisto de)
 
 <!-- src:S0018 -->
 

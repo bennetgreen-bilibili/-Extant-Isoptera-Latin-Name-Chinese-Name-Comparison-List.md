@@ -37,9 +37,13 @@ ES — **巢县乳白蚁** (*Coptotermes chaoxianensis*) es una especie del gén
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *chaoxianensis*：以地名巢县（Chaoxian）命名
 
 EN — epithet *chaoxianensis*: Named after the locality Chaoxian
+
+ES — epithet *chaoxianensis*: Por la localidad de Chaoxian
 
 <!-- src:S0018 -->
 

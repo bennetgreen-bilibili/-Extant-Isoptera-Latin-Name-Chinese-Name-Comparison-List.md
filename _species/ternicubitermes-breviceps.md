@@ -38,9 +38,13 @@ ES — **短头三方白蚁** (*Ternicubitermes breviceps*) es una especie del g
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *breviceps*：拉丁文/希腊文 brevi（短）+ ceps（头），指短头
 
 EN — epithet *breviceps*: From brevi (短) + ceps (头)
+
+ES — epithet *breviceps*: De brevi (corto) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

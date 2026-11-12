@@ -38,9 +38,13 @@ ES — **墨脱象白蚁** (*Nasutitermes medoensis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *medoensis*：以地名 墨脱（西藏） 命名
 
 EN — epithet *medoensis*: Named after the locality Medo
+
+ES — epithet *medoensis*: Por la localidad de Medo
 
 <!-- src:S0018 -->
 

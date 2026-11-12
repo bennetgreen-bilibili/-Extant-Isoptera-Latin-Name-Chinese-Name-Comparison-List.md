@@ -39,9 +39,13 @@ ES — **似寄宿亚种** (*Hospitalitermes hospitalis hospitaloides*) es una s
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *hospitaloides*：拉丁文 hospitalis（寄宿的）＋希腊文 -oides（似），指似寄宿的
 
 EN — epithet *hospitaloides*: Latin hospitalis (of a guest) + Greek -oides (like)
+
+ES — epithet *hospitaloides*: Del latín hospitalis (de huésped) + griego -oides (semejante)
 
 <!-- src:S0018 -->
 

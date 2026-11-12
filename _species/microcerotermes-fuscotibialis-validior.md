@@ -39,9 +39,13 @@ ES — **较壮亚种** (*Microcerotermes fuscotibialis validior*) es una subesp
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *validior*：拉丁文 validior（较壮的，validus 的比较级）
 
 EN — epithet *validior*: Latin validior (stouter, comparative of validus)
+
+ES — epithet *validior*: Del latín validior (más robusto, comparativo de validus)
 
 <!-- src:S0018 -->
 

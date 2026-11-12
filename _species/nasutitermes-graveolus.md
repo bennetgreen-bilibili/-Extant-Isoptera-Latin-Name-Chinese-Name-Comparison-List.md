@@ -38,9 +38,13 @@ ES — **稍重象白蚁** (*Nasutitermes graveolus*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *graveolus*：拉丁文 graveolens（气味浓重的）的变体，微臭
 
 EN — epithet *graveolus*: Latin graveolens (strong-scented), slightly odorous
+
+ES — epithet *graveolus*: Del latín graveolens (de olor fuerte), ligeramente oloroso
 
 <!-- src:S0018 -->
 

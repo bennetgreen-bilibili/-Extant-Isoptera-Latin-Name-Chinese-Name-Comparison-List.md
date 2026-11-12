@@ -40,9 +40,13 @@ ES — **切割相似白蚁** (*Quasitermes incisus*) es la única especie vivie
 
 EN — *Quasitermes*: From Latin quasi (as if, resembling) + termes.
 
+ES — *Quasitermes*: Del latín quasi (como si, semejante a) + termes.
+
 种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
 
 EN — epithet *incisus*: Latin incisus (incised, notched)
+
+ES — epithet *incisus*: Del latín incisus (inciso, escotado)
 
 <!-- src:S0018 -->
 

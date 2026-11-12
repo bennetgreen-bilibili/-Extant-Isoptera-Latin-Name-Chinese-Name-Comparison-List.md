@@ -38,9 +38,13 @@ ES — **大眼聚白蚁** (*Syntermes magnoculus*) es una especie del género *
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *magnoculus*：拉丁文/希腊文 magn（大）+ oculus（眼），指大眼
 
 EN — epithet *magnoculus*: From magn (大) + oculus (眼)
+
+ES — epithet *magnoculus*: De magn (grande) + oculus (ojo)
 
 <!-- src:S0018 -->
 

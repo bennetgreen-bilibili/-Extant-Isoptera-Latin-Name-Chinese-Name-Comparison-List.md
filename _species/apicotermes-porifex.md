@@ -38,9 +38,13 @@ ES — **具孔尖白蚁** (*Apicotermes porifex*) es una especie del género *A
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
+ES — *Apicotermes*: Del latín apex (punta, cima) + termes.
+
 种加词 *porifex*：拉丁文 porus（孔）+ -fex（作者），孔作者
 
 EN — epithet *porifex*: Latin porus (pore) + -fex (maker)
+
+ES — epithet *porifex*: Del latín porus (poro) + -fex (hacedor)
 
 <!-- src:S0018 -->
 

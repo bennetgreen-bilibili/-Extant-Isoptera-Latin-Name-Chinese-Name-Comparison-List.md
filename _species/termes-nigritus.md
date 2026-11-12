@@ -38,9 +38,13 @@ ES — **黑色白蚁** (*Termes nigritus*) es una especie del género *Termes*,
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *nigritus*：拉丁文/希腊文词根「nigr」（黑）
 
 EN — epithet *nigritus*: From the descriptive term 'nigr' (black)
+
+ES — epithet *nigritus*: Del término descriptivo «nigr» (negro)
 
 <!-- src:S0018 -->
 

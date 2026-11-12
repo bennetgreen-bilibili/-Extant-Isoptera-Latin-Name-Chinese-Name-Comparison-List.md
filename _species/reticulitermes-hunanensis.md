@@ -35,9 +35,13 @@ ES — **湖南散白蚁** (*Reticulitermes hunanensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *hunanensis*：以地名 湖南 命名
 
 EN — epithet *hunanensis*: Named after the locality Hunan
+
+ES — epithet *hunanensis*: Por la localidad de Hunan
 
 <!-- src:S0018 -->
 

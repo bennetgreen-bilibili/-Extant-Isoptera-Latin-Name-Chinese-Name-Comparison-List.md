@@ -35,9 +35,13 @@ ES — **双凹新白蚁** (*Neotermes binovatus*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *binovatus*：拉丁文/希腊文 binov（二）+ atus（具），指二具
 
 EN — epithet *binovatus*: From binov (二) + atus (具)
+
+ES — epithet *binovatus*: De binov (dos) + atus (que posee)
 
 <!-- src:S0018 -->
 

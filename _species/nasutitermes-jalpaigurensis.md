@@ -38,9 +38,13 @@ ES — **杰尔拜古里象白蚁** (*Nasutitermes jalpaigurensis*) es una espec
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *jalpaigurensis*：以地名 杰尔拜古里（印度） 命名
 
 EN — epithet *jalpaigurensis*: Named after the locality Jalpaigur
+
+ES — epithet *jalpaigurensis*: Por la localidad de Jalpaigur
 
 <!-- src:S0018 -->
 

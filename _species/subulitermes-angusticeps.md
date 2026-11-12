@@ -38,9 +38,13 @@ ES — **窄头锥白蚁** (*Subulitermes angusticeps*) es una especie del géne
 
 EN — *Subulitermes*: From Latin subula (awl) + termes.
 
+ES — *Subulitermes*: Del latín subula (lezna) + termes.
+
 种加词 *angusticeps*：拉丁文/希腊文 angusti（窄）+ ceps（头），指窄头
 
 EN — epithet *angusticeps*: From angusti (窄) + ceps (头)
+
+ES — epithet *angusticeps*: De angusti (estrecho) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

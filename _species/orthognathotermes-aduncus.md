@@ -38,9 +38,13 @@ ES — **具钩直颚白蚁** (*Orthognathotermes aduncus*) es una especie del g
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *aduncus*：拉丁文 aduncus（钩状弯曲）
 
 EN — epithet *aduncus*: Latin aduncus (hooked)
+
+ES — epithet *aduncus*: Del latín aduncus (encorvado)
 
 <!-- src:S0018 -->
 

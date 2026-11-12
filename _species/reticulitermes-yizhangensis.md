@@ -35,9 +35,13 @@ ES — **宜章散白蚁** (*Reticulitermes yizhangensis*) es una especie del g�
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *yizhangensis*：以地名 宜章（湖南） 命名
 
 EN — epithet *yizhangensis*: Named after the locality Yizhang
+
+ES — epithet *yizhangensis*: Por la localidad de Yizhang
 
 <!-- src:S0018 -->
 

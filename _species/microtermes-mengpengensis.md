@@ -38,9 +38,13 @@ ES — **勐捧小白蚁** (*Microtermes mengpengensis*) es una especie del gén
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *mengpengensis*：以地名 勐捧（中国云南）命名
 
 EN — epithet *mengpengensis*: Named after Mengpeng, Yunnan, China
+
+ES — epithet *mengpengensis*: Por Mengpeng, Yunnan, China
 
 <!-- src:S0018 -->
 

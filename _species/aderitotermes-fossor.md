@@ -38,9 +38,13 @@ ES — **挖掘谐白蚁** (*Aderitotermes fossor*) es una especie, y la especie
 
 EN — *Aderitotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Aderitotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *fossor*：拉丁文 fossor（挖掘者）
 
 EN — epithet *fossor*: Latin fossor (digger)
+
+ES — epithet *fossor*: Del latín fossor (cavador)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **白足树白蚁** (*Glyptotermes albofemoralis*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *albofemoralis*：拉丁文/希腊文 albo（白）+ femoralis（股），指白股
 
 EN — epithet *albofemoralis*: From albo (白) + femoralis (股)
+
+ES — epithet *albofemoralis*: De albo (blanco) + femoralis (fémur)
 
 <!-- src:S0018 -->
 

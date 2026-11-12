@@ -38,9 +38,13 @@ ES — **红额土白蚁** (*Odontotermes flammifrons*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *flammifrons*：拉丁文 flamma（火焰）+ frons（额），火额
 
 EN — epithet *flammifrons*: Latin flamma (flame) + frons (front), flame-fronted
+
+ES — epithet *flammifrons*: Del latín flamma (llama) + frons (frente), de frente de llama
 
 <!-- src:S0018 -->
 

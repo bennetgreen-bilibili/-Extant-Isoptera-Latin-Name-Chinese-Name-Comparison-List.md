@@ -40,9 +40,13 @@ ES — **讨厌弓白蚁** (*Amitermes vilis*) es una especie del género *Amite
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *vilis*：拉丁文 vilis（廉价的、低贱的）
 
 EN — epithet *vilis*: Latin vilis (cheap, worthless)
+
+ES — epithet *vilis*: Del latín vilis (barato, sin valor)
 
 <!-- src:S0018 -->
 

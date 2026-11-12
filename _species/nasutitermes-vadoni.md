@@ -38,9 +38,13 @@ ES — **瓦东象白蚁** (*Nasutitermes vadoni*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *vadoni*：以人名 Vadon（J. Vadon，法国昆虫学家） 命名
 
 EN — epithet *vadoni*: Named after J. Vadon (French entomologist)
+
+ES — epithet *vadoni*: En honor de J. Vadon (entomólogo francés)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **支脉土白蚁** (*Odontotermes ramulosus*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *ramulosus*：拉丁文 ramulosus（多小枝的）
 
 EN — epithet *ramulosus*: Latin ramulosus (branching)
+
+ES — epithet *ramulosus*: Del latín ramulosus (ramificado)
 
 <!-- src:S0018 -->
 

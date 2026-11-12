@@ -38,9 +38,13 @@ ES — **甘哈亮白蚁** (*Euhamitermes kanhaensis*) es una especie del géner
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *kanhaensis*：以地名 坎哈（印度） 命名
 
 EN — epithet *kanhaensis*: Named after the locality Kanha
+
+ES — epithet *kanhaensis*: Por la localidad de Kanha
 
 <!-- src:S0018 -->
 

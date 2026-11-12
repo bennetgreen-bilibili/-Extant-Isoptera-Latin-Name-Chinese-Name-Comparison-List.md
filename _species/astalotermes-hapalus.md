@@ -38,9 +38,13 @@ ES — **哈帕勒斯无利器白蚁** (*Astalotermes hapalus*) es una especie d
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *hapalus*：希腊文 hapalos（柔软的）
 
 EN — epithet *hapalus*: Greek hapalos (soft, tender)
+
+ES — epithet *hapalus*: Del griego hapalos (blando, tierno)
 
 <!-- src:S0018 -->
 

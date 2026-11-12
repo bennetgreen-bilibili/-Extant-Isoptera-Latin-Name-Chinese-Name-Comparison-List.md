@@ -38,9 +38,13 @@ ES — **具角突吻白蚁** (*Rostrotermes cornutus*) es la única especie viv
 
 EN — *Rostrotermes*: From Latin rostrum (beak, rostrum) + termes.
 
+ES — *Rostrotermes*: Del latín rostrum (pico, rostro) + termes.
+
 种加词 *cornutus*：拉丁文/希腊文词根「corn」（角）
 
 EN — epithet *cornutus*: From the descriptive term 'corn' (horn)
+
+ES — epithet *cornutus*: Del término descriptivo «corn» (cuerno)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **巴尔万特异白蚁** (*Heterotermes balwanti*) es una especie del g�
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *balwanti*：以人名 Balwant 命名
 
 EN — epithet *balwanti*: Named after Balwant
+
+ES — epithet *balwanti*: En honor de Balwant
 
 <!-- src:S0018 -->
 

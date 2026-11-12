@@ -38,9 +38,13 @@ ES — **齿颚曲白蚁** (*Curvitermes odontognathus*) es una especie, y la es
 
 EN — *Curvitermes*: From Latin curvus (curved) + termes.
 
+ES — *Curvitermes*: Del latín curvus (curvo) + termes.
+
 种加词 *odontognathus*：希腊文 odous（齿）+ gnathos（颚），齿颚
 
 EN — epithet *odontognathus*: Greek odous (tooth) + gnathos (jaw), toothed-jawed
+
+ES — epithet *odontognathus*: Del griego odous (diente) + gnathos (mandíbula), de mandíbula dentada
 
 <!-- src:S0018 -->
 

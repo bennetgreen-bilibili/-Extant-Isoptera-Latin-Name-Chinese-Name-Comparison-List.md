@@ -37,9 +37,13 @@ ES — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) es una especie de
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *lamanianus*：以人名 Laman（-ianus 敬称）命名
 
 EN — epithet *lamanianus*: Named after Laman
+
+ES — epithet *lamanianus*: En honor de Laman
 
 <!-- src:S0018 -->
 

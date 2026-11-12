@@ -38,9 +38,13 @@ ES — **尖齿真唇白蚁** (*Euchilotermes acutidens*) es una especie del gé
 
 EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
 
+ES — *Euchilotermes*: Del griego eu- (bien) + cheilos (labio, margen) + latín termes.
+
 种加词 *acutidens*：拉丁文/希腊文词根「acut」（尖）
 
 EN — epithet *acutidens*: From the descriptive term 'acut' (sharp)
+
+ES — epithet *acutidens*: Del término descriptivo «acut» (agudo)
 
 <!-- src:S0018 -->
 

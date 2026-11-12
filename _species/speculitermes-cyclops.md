@@ -38,9 +38,13 @@ ES — **巨人稀白蚁** (*Speculitermes cyclops*) es una especie, y la especi
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *cyclops*：希腊文 kyklops（独眼巨人）
 
 EN — epithet *cyclops*: Greek kyklops (cyclops, round-eyed)
+
+ES — epithet *cyclops*: Del griego kyklops (cíclope, de ojo redondo)
 
 <!-- src:S0018 -->
 

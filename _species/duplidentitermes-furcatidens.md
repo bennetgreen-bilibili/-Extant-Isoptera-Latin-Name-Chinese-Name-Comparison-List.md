@@ -38,9 +38,13 @@ ES — **叉齿双齿白蚁** (*Duplidentitermes furcatidens*) es una especie, y
 
 EN — *Duplidentitermes*: From Latin duplex (double) + dens (tooth) + termes.
 
+ES — *Duplidentitermes*: Del latín duplex (doble) + dens (diente) + termes.
+
 种加词 *furcatidens*：拉丁文 furca（叉）+ dens（齿），叉齿
 
 EN — epithet *furcatidens*: Latin furca (fork) + dens (tooth), fork-toothed
+
+ES — epithet *furcatidens*: Del latín furca (horquilla) + dens (diente), de dientes en horquilla
 
 <!-- src:S0018 -->
 

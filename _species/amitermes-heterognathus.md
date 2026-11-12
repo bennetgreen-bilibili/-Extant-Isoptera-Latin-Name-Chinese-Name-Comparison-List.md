@@ -38,9 +38,13 @@ ES — **异颚弓白蚁** (*Amitermes heterognathus*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *heterognathus*：拉丁文/希腊文 hetero（异）+ gnathus（颚），指异颚
 
 EN — epithet *heterognathus*: From hetero (异) + gnathus (颚)
+
+ES — epithet *heterognathus*: De hetero (distinto) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

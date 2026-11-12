@@ -38,9 +38,13 @@ ES — **凶残弓白蚁** (*Amitermes vitiosus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *vitiosus*：拉丁文 vitiosus（有缺陷的）
 
 EN — epithet *vitiosus*: Latin vitiosus (defective)
+
+ES — epithet *vitiosus*: Del latín vitiosus (defectuoso)
 
 <!-- src:S0018 -->
 

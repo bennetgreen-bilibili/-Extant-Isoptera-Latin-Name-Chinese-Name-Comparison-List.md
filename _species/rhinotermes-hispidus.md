@@ -35,9 +35,13 @@ ES — **多毛鼻白蚁** (*Rhinotermes hispidus*) es una especie del género *
 
 EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
 
+ES — *Rhinotermes*: Del griego rhis (nariz) + latín termes, por el soldado nasuto.
+
 种加词 *hispidus*：拉丁文 hispidus（粗毛的、具硬毛的）
 
 EN — epithet *hispidus*: Latin hispidus (bristly)
+
+ES — epithet *hispidus*: Del latín hispidus (erizado)
 
 <!-- src:S0018 -->
 

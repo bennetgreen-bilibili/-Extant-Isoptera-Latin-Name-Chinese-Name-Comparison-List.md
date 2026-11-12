@@ -38,9 +38,13 @@ ES — **厚角象白蚁** (*Nasutitermes crassicornis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *crassicornis*：拉丁文/希腊文 crassi（粗厚）+ cornis（角），指粗厚角
 
 EN — epithet *crassicornis*: From crassi (粗厚) + cornis (角)
+
+ES — epithet *crassicornis*: De crassi (grueso) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

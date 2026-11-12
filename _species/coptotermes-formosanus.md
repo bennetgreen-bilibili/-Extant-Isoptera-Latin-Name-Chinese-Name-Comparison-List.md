@@ -37,9 +37,13 @@ ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *formosanus*：以地名 Formosa（台湾旧称，葡语「美丽岛」）命名
 
 EN — epithet *formosanus*: Named after Formosa (Taiwan, former name)
+
+ES — epithet *formosanus*: En honor de Formosa (nombre antiguo de Taiwán)
 
 <!-- src:S0018 -->
 

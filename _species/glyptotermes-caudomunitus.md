@@ -35,9 +35,13 @@ ES — **具尾树白蚁** (*Glyptotermes caudomunitus*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *caudomunitus*：拉丁文/希腊文词根「caud」（尾）
 
 EN — epithet *caudomunitus*: From the descriptive term 'caud' (tail)
+
+ES — epithet *caudomunitus*: Del término descriptivo «caud» (cola)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **皱纹皱白蚁** (*Rugitermes rugosus*) es una especie del género *Ru
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *rugosus*：拉丁文 rugosus（多皱）
 
 EN — epithet *rugosus*: Latin rugosus (wrinkled)
+
+ES — epithet *rugosus*: Del latín rugosus (arrugado)
 
 <!-- src:S0018 -->
 

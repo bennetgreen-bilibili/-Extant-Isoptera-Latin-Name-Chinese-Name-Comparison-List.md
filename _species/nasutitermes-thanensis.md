@@ -38,9 +38,13 @@ ES — **塔诺象白蚁** (*Nasutitermes thanensis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *thanensis*：以地名 塔那（印度） 命名
 
 EN — epithet *thanensis*: Named after the locality Than
+
+ES — epithet *thanensis*: Por la localidad de Than (India)
 
 <!-- src:S0018 -->
 

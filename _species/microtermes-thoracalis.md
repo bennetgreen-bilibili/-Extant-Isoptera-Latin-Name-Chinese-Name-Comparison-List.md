@@ -38,9 +38,13 @@ ES — **胸突小白蚁** (*Microtermes thoracalis*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *thoracalis*：拉丁文/希腊文 thorac（胸）+ alis（相关），指胸相关
 
 EN — epithet *thoracalis*: From thorac (胸) + alis (相关)
+
+ES — epithet *thoracalis*: De thorac- (tórax) + -alis (relativo a), relativo al tórax
 
 <!-- src:S0018 -->
 

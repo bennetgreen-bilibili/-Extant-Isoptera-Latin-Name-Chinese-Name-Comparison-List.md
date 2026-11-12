@@ -38,9 +38,13 @@ ES — **刺胫突扭白蚁** (*Dicuspiditermes spinitibialis*) es una especie d
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *spinitibialis*：拉丁文/希腊文 spini（刺）+ tibialis（胫），指刺胫
 
 EN — epithet *spinitibialis*: From spini (刺) + tibialis (胫)
+
+ES — epithet *spinitibialis*: De spini (espina) + tibialis (tibial)
 
 <!-- src:S0018 -->
 

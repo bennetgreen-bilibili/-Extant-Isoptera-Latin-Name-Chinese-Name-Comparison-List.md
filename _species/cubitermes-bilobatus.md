@@ -40,9 +40,13 @@ ES — **双裂方白蚁** (*Cubitermes bilobatus*) es una especie, y la especie
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *bilobatus*：拉丁文 bi-（二）+ lobatus（有叶），双叶
 
 EN — epithet *bilobatus*: Latin bi- (two) + lobatus (lobed), two-lobed
+
+ES — epithet *bilobatus*: Del latín bi- (dos) + lobatus (lobulado), de dos lóbulos
 
 <!-- src:S0018 -->
 

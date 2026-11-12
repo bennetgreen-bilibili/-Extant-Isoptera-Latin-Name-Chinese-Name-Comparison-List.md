@@ -35,9 +35,13 @@ ES — **马达加斯加双裂白蚁** (*Bifiditermes madagascariensis*) es una 
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
+ES — *Bifiditermes*: Del latín bifidus (hendido en dos) + termes.
+
 种加词 *madagascariensis*：以地名 马达加斯加 命名
 
 EN — epithet *madagascariensis*: Named after the locality Madagascar
+
+ES — epithet *madagascariensis*: Por la localidad de Madagascar
 
 <!-- src:S0018 -->
 

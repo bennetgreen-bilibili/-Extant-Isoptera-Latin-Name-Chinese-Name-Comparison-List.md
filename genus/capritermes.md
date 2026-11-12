@@ -56,6 +56,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由拉丁文 caper（山羊）与 termes（白蚁）组合，指兵蚁如羊角般弯曲不对称的上颚。</p>
 <p class="etymology-en fact-en" lang="en">From Latin caper (goat) + termes, for the asymmetrically curved soldier mandibles.</p>
+<p class="etymology-es fact-es" lang="es">Del latín caper (cabra) + termes, por las mandíbulas asimétricamente curvadas del soldado.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

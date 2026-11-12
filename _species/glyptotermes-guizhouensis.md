@@ -35,9 +35,13 @@ ES — **贵州树白蚁** (*Glyptotermes guizhouensis*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *guizhouensis*：地名：贵州（中国）
 
 EN — epithet *guizhouensis*: After Guizhou (China)
+
+ES — epithet *guizhouensis*: Por Guizhou (China)
 
 <!-- src:S0018 -->
 

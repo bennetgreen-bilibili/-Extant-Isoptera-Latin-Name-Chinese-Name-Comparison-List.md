@@ -38,9 +38,13 @@ ES — **霍兰德小白蚁** (*Microtermes hollandei*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *hollandei*：以人名 André Hollande（法国原生动物学家）命名
 
 EN — epithet *hollandei*: Named after André Hollande
+
+ES — epithet *hollandei*: En honor de André Hollande
 
 <!-- src:S0018 -->
 

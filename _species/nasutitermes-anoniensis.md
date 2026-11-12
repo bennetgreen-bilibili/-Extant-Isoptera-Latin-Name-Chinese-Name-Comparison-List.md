@@ -38,9 +38,13 @@ ES — **阿诺尼象白蚁** (*Nasutitermes anoniensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *anoniensis*：以地名 Anoni 命名
 
 EN — epithet *anoniensis*: Named after the locality Anoni
+
+ES — epithet *anoniensis*: Por la localidad de Anoni
 
 <!-- src:S0018 -->
 

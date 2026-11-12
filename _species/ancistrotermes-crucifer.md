@@ -40,9 +40,13 @@ ES — **十字钩白蚁** (*Ancistrotermes crucifer*) es una especie, y la espe
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *crucifer*：拉丁文 crux（十字）+ -fer（具），具十字
 
 EN — epithet *crucifer*: Latin crux (cross) + -fer (bearing), cross-bearing
+
+ES — epithet *crucifer*: Del latín crux (cruz) + -fer (portador), que lleva la cruz
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **毛头前白蚁** (*Protermes hirticeps*) es una especie del género *P
 
 EN — *Protermes*: From Greek pro- (before) + Latin termes.
 
+ES — *Protermes*: Del griego pro- (antes) + latín termes.
+
 种加词 *hirticeps*：拉丁文 hirtus（多毛）+ -ceps（头），毛头
 
 EN — epithet *hirticeps*: Latin hirtus (hairy) + -ceps (head), hairy-headed
+
+ES — epithet *hirticeps*: Del latín hirtus (hirsuto) + -ceps (cabeza), de cabeza hirsuta
 
 <!-- src:S0018 -->
 

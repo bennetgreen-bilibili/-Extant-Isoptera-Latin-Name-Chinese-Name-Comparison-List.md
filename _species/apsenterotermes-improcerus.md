@@ -38,9 +38,13 @@ ES — **粗短后肠白蚁** (*Apsenterotermes improcerus*) es una especie del 
 
 EN — *Apsenterotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Apsenterotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *improcerus*：拉丁文/希腊文 im-（无、不）+ procerus（高），指无高
 
 EN — epithet *improcerus*: From im- (without) + procerus (高)
+
+ES — epithet *improcerus*: De im- (sin) + procerus (alto)
 
 <!-- src:S0018 -->
 

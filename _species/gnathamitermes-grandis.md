@@ -38,9 +38,13 @@ ES — **大颚钩白蚁** (*Gnathamitermes grandis*) es una especie del género
 
 EN — *Gnathamitermes*: Contains Greek gnathos (jaw) + Latin termes; further derivation uncertain.
 
+ES — *Gnathamitermes*: Contiene el griego gnathos (mandíbula) + latín termes; la derivación ulterior es incierta.
+
 种加词 *grandis*：拉丁文 grandis（巨大）
 
 EN — epithet *grandis*: Latin grandis (great)
+
+ES — epithet *grandis*: Del latín grandis (grande)
 
 <!-- src:S0018 -->
 

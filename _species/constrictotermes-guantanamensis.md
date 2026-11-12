@@ -38,9 +38,13 @@ ES — **关塔那摩缩白蚁** (*Constrictotermes guantanamensis*) es una espe
 
 EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
 
+ES — *Constrictotermes*: Del latín constrictus (constreñido) + termes.
+
 种加词 *guantanamensis*：以地名 关塔那摩（古巴） 命名
 
 EN — epithet *guantanamensis*: Named after the locality Guantanam
+
+ES — epithet *guantanamensis*: Por la localidad de Guantanam
 
 <!-- src:S0018 -->
 

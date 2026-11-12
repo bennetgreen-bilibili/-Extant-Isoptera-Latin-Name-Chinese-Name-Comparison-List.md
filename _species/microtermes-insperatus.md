@@ -38,9 +38,13 @@ ES — **未料小白蚁** (*Microtermes insperatus*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *insperatus*：拉丁文 insperatus（出乎意料的）
 
 EN — epithet *insperatus*: Latin insperatus (unhoped-for)
+
+ES — epithet *insperatus*: Del latín insperatus (inesperado)
 
 <!-- src:S0018 -->
 

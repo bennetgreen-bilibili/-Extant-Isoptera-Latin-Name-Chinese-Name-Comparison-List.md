@@ -38,9 +38,13 @@ ES — **阿拉瓜亚新扭白蚁** (*Neocapritermes araguaia*) es una especie d
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *araguaia*：地名：阿拉瓜亚河（巴西）
 
 EN — epithet *araguaia*: After the Araguaia River (Brazil)
+
+ES — epithet *araguaia*: Por el río Araguaia (Brasil)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **遵义土白蚁** (*Odontotermes zunyiensis*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *zunyiensis*：以地名 遵义（贵州） 命名
 
 EN — epithet *zunyiensis*: Named after the locality Zuny
+
+ES — epithet *zunyiensis*: Por la localidad de Zuny
 
 <!-- src:S0018 -->
 

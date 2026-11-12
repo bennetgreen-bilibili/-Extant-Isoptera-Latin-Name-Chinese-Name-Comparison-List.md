@@ -38,9 +38,13 @@ ES — **曼凸白蚁** (*Convexitermes manni*) es una especie del género *Conv
 
 EN — *Convexitermes*: From Latin convexus (convex) + termes.
 
+ES — *Convexitermes*: Del latín convexus (convexo) + termes.
+
 种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
 
 EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+ES — epithet *manni*: En honor del entomólogo W. M. Mann
 
 <!-- src:S0018 -->
 

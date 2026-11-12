@@ -38,9 +38,13 @@ ES — **西部小白蚁** (*Microtermes occidentalis*) es una especie del géne
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *occidentalis*：拉丁文 occidentalis（西方的）
 
 EN — epithet *occidentalis*: Latin occidentalis (western)
+
+ES — epithet *occidentalis*: Del latín occidentalis (occidental)
 
 <!-- src:S0018 -->
 

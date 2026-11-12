@@ -40,9 +40,13 @@ ES — **复杂颚钩白蚁** (*Gnathamitermes perplexus*) es una especie, y la 
 
 EN — *Gnathamitermes*: Contains Greek gnathos (jaw) + Latin termes; further derivation uncertain.
 
+ES — *Gnathamitermes*: Contiene el griego gnathos (mandíbula) + latín termes; la derivación ulterior es incierta.
+
 种加词 *perplexus*：拉丁文/希腊文词根「perplex」（迷惑）
 
 EN — epithet *perplexus*: From the descriptive term 'perplex' (perplexing)
+
+ES — epithet *perplexus*: Del término descriptivo «perplex» (desconcertante)
 
 <!-- src:S0018 -->
 

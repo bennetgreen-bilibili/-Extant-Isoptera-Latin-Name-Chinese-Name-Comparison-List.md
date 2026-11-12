@@ -38,9 +38,13 @@ ES — **短角白蚁** (*Termes brevicornis*) es una especie del género *Terme
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *brevicornis*：拉丁文 brevis（短）+ cornu（角/触角），短角
 
 EN — epithet *brevicornis*: Latin brevis (short) + cornu (horn/antenna), short-horned
+
+ES — epithet *brevicornis*: Del latín brevis (corto) + cornu (cuerno/antena), de cuernos cortos
 
 <!-- src:S0018 -->
 

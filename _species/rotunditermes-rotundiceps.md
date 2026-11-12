@@ -38,9 +38,13 @@ ES — **圆头圆白蚁** (*Rotunditermes rotundiceps*) es una especie, y la es
 
 EN — *Rotunditermes*: From Latin rotundus (round) + termes.
 
+ES — *Rotunditermes*: Del latín rotundus (redondo) + termes.
+
 种加词 *rotundiceps*：拉丁文 rotundus（圆）+ -ceps（头），圆头
 
 EN — epithet *rotundiceps*: Latin rotundus (round) + -ceps (head), round-headed
+
+ES — epithet *rotundiceps*: Del latín rotundus (redondo) + -ceps (cabeza), de cabeza redonda
 
 <!-- src:S0018 -->
 

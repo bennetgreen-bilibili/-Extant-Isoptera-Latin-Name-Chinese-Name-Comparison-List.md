@@ -38,9 +38,13 @@ ES — **阿米克弓白蚁** (*Amitermes amicki*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *amicki*：以人名 Amick 命名
 
 EN — epithet *amicki*: Named after Amick
+
+ES — epithet *amicki*: En honor de Amick
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) es una especie d
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *macrocephalus*：希腊文 makros（大）+ kephalē（头），大头
 
 EN — epithet *macrocephalus*: Greek makros (large) + kephalē (head), large-headed
+
+ES — epithet *macrocephalus*: Del griego makros (grande) + kephalē (cabeza), de cabeza grande
 
 <!-- src:S0018 -->
 

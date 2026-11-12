@@ -38,9 +38,13 @@ ES — **栗色净白蚁** (*Nitiditermes fulvus*) es una especie del género *N
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *fulvus*：拉丁文/希腊文词根「fulv」（黄褐）
 
 EN — epithet *fulvus*: From the descriptive term 'fulv' (tawny)
+
+ES — epithet *fulvus*: Del término descriptivo «fulv» (leonado)
 
 <!-- src:S0018 -->
 

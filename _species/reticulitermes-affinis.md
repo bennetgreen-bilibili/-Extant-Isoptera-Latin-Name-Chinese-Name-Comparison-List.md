@@ -35,9 +35,13 @@ ES — **肖若散白蚁** (*Reticulitermes affinis*) es una especie del género
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *affinis*：拉丁文/希腊文词根「affin」（近缘）
 
 EN — epithet *affinis*: From the descriptive term 'affin' (related)
+
+ES — epithet *affinis*: Del término descriptivo «affin» (relacionado)
 
 <!-- src:S0018 -->
 

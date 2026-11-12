@@ -35,9 +35,13 @@ ES — **长翅新白蚁** (*Neotermes longipennis*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *longipennis*：拉丁文 longus（长）+ penna（翅），长翅
 
 EN — epithet *longipennis*: Latin longus (long) + penna (wing), long-winged
+
+ES — epithet *longipennis*: Del latín longus (largo) + penna (ala), de alas largas
 
 <!-- src:S0018 -->
 

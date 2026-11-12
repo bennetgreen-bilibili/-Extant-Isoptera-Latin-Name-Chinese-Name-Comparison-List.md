@@ -38,9 +38,13 @@ ES — **莫尔近扭白蚁** (*Pericapritermes mohri*) es una especie del géne
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *mohri*：以人名 Mohr（莫尔）命名
 
 EN — epithet *mohri*: Named after Mohr
+
+ES — epithet *mohri*: En honor de Mohr
 
 <!-- src:S0018 -->
 

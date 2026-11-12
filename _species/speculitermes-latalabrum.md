@@ -38,9 +38,13 @@ ES — **宽唇稀白蚁** (*Speculitermes latalabrum*) es una especie del géne
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *latalabrum*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *latalabrum*: From the descriptive term 'lat' (broad)
+
+ES — epithet *latalabrum*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

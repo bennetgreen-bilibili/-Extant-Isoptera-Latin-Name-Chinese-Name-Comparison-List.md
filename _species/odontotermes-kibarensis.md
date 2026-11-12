@@ -40,9 +40,13 @@ ES — **基巴拉土白蚁** (*Odontotermes kibarensis*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *kibarensis*：以地名 基巴拉（刚果） 命名
 
 EN — epithet *kibarensis*: Named after the locality Kibar
+
+ES — epithet *kibarensis*: Por la localidad de Kibar
 
 <!-- src:S0018 -->
 

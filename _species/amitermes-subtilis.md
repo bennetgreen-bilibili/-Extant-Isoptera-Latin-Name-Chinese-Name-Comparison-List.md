@@ -38,9 +38,13 @@ ES — **微型弓白蚁** (*Amitermes subtilis*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *subtilis*：拉丁文/希腊文 subt（下、近）+ ilis（相关），指下、近相关
 
 EN — epithet *subtilis*: From subt (下、近) + ilis (相关)
+
+ES — epithet *subtilis*: De subt (abajo, cerca) + ilis (relativo a)
 
 <!-- src:S0018 -->
 

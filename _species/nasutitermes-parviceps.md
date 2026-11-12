@@ -38,9 +38,13 @@ ES — **小头象白蚁** (*Nasutitermes parviceps*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *parviceps*：拉丁文 parvus（小）+ -ceps（头），小头
 
 EN — epithet *parviceps*: Latin parvus (small) + -ceps (head), small-headed
+
+ES — epithet *parviceps*: Del latín parvus (pequeño) + -ceps (cabeza), de cabeza pequeña
 
 <!-- src:S0018 -->
 

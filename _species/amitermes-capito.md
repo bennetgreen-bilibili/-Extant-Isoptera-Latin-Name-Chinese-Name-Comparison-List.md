@@ -38,9 +38,13 @@ ES — **大头弓白蚁** (*Amitermes capito*) es una especie del género *Amit
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *capito*：拉丁文 capito（大头的）
 
 EN — epithet *capito*: Latin capito (big-headed)
+
+ES — epithet *capito*: Del latín capito (de cabeza grande)
 
 <!-- src:S0018 -->
 

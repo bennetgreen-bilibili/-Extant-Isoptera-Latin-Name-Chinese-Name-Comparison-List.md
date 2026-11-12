@@ -38,9 +38,13 @@ ES — **加内什锯白蚁** (*Microcerotermes ganeshi*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *ganeshi*：以人名/神祇 Ganesh（印度象头神 Ganesha）命名
 
 EN — epithet *ganeshi*: Named after Ganesh (Hindu deity Ganesha)
+
+ES — epithet *ganeshi*: En honor de Ganesh (la deidad hindú Ganesha)
 
 <!-- src:S0018 -->
 

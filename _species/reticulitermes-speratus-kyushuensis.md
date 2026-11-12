@@ -36,9 +36,13 @@ ES — **九州亚种** (*Reticulitermes speratus kyushuensis*) es una subespeci
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *kyushuensis*：以地名 Kyūshū（九州，日本）命名
 
 EN — epithet *kyushuensis*: Named after Kyūshū (Japan)
+
+ES — epithet *kyushuensis*: Por Kyūshū (Japón)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **长头锯白蚁** (*Microcerotermes dolichocephalicus*) es una especie 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *dolichocephalicus*：希腊文 dolichos（长）+ kephale（头），长头的
 
 EN — epithet *dolichocephalicus*: From Greek dolichos (long) + kephale (head), long-headed
+
+ES — epithet *dolichocephalicus*: Del griego dolichos (largo) + kephale (cabeza), de cabeza larga
 
 <!-- src:S0018 -->
 

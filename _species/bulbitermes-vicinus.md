@@ -38,9 +38,13 @@ ES — **相似瓢白蚁** (*Bulbitermes vicinus*) es una especie del género *B
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *vicinus*：拉丁文 vicinus（邻近的）
 
 EN — epithet *vicinus*: Latin vicinus (neighbouring)
+
+ES — epithet *vicinus*: Del latín vicinus (vecino)
 
 <!-- src:S0018 -->
 

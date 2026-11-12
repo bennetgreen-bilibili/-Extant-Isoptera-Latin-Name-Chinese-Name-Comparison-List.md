@@ -38,9 +38,13 @@ ES — **无害弓白蚁** (*Amitermes innoxius*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *innoxius*：拉丁文 innoxius（无害的）
 
 EN — epithet *innoxius*: Latin innoxius (harmless)
+
+ES — epithet *innoxius*: Del latín innoxius (inocuo)
 
 <!-- src:S0018 -->
 

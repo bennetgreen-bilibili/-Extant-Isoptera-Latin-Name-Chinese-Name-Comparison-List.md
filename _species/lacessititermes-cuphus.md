@@ -38,9 +38,13 @@ ES — **驼身怒白蚁** (*Lacessititermes cuphus*) es una especie del género
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *cuphus*：源自希腊语 kyphos（弯曲的、隆起的），指兵蚁头背形态
 
 EN — epithet *cuphus*: From Greek kyphos ('bent, humped')
+
+ES — epithet *cuphus*: Del griego kyphos («curvado, jorobado»)
 
 <!-- src:S0018 -->
 

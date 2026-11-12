@@ -40,9 +40,13 @@ ES — **收缩富勒白蚁** (*Fulleritermes contractus*) es una especie, y la 
 
 EN — *Fulleritermes*: Named after the entomologist C. Fuller; -termes from Latin termes.
 
+ES — *Fulleritermes*: En honor del entomólogo C. Fuller; -termes, del latín termes.
+
 种加词 *contractus*：拉丁文 contractus（收缩的）
 
 EN — epithet *contractus*: Latin contractus (contracted)
+
+ES — epithet *contractus*: Del latín contractus (contraído)
 
 <!-- src:S0018 -->
 

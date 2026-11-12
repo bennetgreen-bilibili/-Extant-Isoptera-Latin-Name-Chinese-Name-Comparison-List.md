@@ -37,9 +37,13 @@ ES — **凸木白蚁** (*Kalotermes convexus*) es una especie del género *Kalo
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *convexus*：拉丁文 convexus（凸）
 
 EN — epithet *convexus*: Latin convexus (convex)
+
+ES — epithet *convexus*: Del latín convexus (convexo)
 
 <!-- src:S0018 -->
 

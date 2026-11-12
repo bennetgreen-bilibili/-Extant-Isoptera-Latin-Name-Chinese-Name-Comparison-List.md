@@ -38,9 +38,13 @@ ES — **乌干达蛇白蚁** (*Ophiotermes ugandaensis*) es una especie del gé
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
+ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
+
 种加词 *ugandaensis*：以地名 乌干达 命名
 
 EN — epithet *ugandaensis*: Named after the locality Uganda
+
+ES — epithet *ugandaensis*: Por la localidad de Uganda
 
 <!-- src:S0018 -->
 

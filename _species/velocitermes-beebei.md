@@ -38,9 +38,13 @@ ES — **毕比快白蚁** (*Velocitermes beebei*) es una especie del género *V
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *beebei*：以人名 Beebe（William Beebe）命名
 
 EN — epithet *beebei*: Named after William Beebe
+
+ES — epithet *beebei*: En honor de William Beebe
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **白跗刻痕白蚁** (*Crenetermes albotarsalis*) es una especie, y la 
 
 EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Crenetermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *albotarsalis*：拉丁文/希腊文 albo（白）+ tarsalis（跗），指白跗
 
 EN — epithet *albotarsalis*: From albo (白) + tarsalis (跗)
+
+ES — epithet *albotarsalis*: De albo (blanco) + tarsalis (tarso)
 
 <!-- src:S0018 -->
 

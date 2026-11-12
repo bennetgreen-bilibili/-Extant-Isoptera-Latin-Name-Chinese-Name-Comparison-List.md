@@ -38,9 +38,13 @@ ES — **短小无名白蚁** (*Ereymatermes piquira*) es una especie del géner
 
 EN — *Ereymatermes*: From the place name Ereyma; -termes from Latin termes.
 
+ES — *Ereymatermes*: Del topónimo Ereyma; -termes, del latín termes.
+
 种加词 *piquira*：图皮语 piquira（小）
 
 EN — epithet *piquira*: Tupi piquira (small)
+
+ES — epithet *piquira*: Del tupí piquira (pequeño)
 
 <!-- src:S0018 -->
 

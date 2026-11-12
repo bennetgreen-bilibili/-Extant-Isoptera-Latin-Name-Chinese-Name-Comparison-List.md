@@ -38,9 +38,13 @@ ES — **戈拉皮斯怒白蚁** (*Lacessititermes kolapisensis*) es una especie
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *kolapisensis*：以地名 Kolapis（马来西亚沙巴）命名
 
 EN — epithet *kolapisensis*: Named after Kolapis (Sabah, Malaysia)
+
+ES — epithet *kolapisensis*: Por Kolapis (Sabah, Malasia)
 
 <!-- src:S0018 -->
 

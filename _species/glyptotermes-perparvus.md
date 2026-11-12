@@ -35,9 +35,13 @@ ES — **极小树白蚁** (*Glyptotermes perparvus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *perparvus*：拉丁文 per-（非常）+ parvus（小），极小
 
 EN — epithet *perparvus*: Latin per- (very) + parvus (small), very small
+
+ES — epithet *perparvus*: Del latín per- (muy) + parvus (pequeño), muy pequeño
 
 <!-- src:S0018 -->
 

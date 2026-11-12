@@ -38,9 +38,13 @@ ES — **德拉敦近扭白蚁** (*Pericapritermes dunensis*) es una especie del
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *dunensis*：拉丁文 duna（沙丘）
 
 EN — epithet *dunensis*: From Latin duna (dune)
+
+ES — epithet *dunensis*: Del latín duna (duna)
 
 <!-- src:S0018 -->
 

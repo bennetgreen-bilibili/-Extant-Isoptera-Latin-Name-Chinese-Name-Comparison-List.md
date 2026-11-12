@@ -38,9 +38,13 @@ ES — **标记大颚白蚁** (*Megagnathotermes notandus*) es la única especie
 
 EN — *Megagnathotermes*: From Greek megas (large) + gnathos (jaw) + Latin termes.
 
+ES — *Megagnathotermes*: Del griego megas (grande) + gnathos (mandíbula) + latín termes.
+
 种加词 *notandus*：拉丁文/希腊文词根「not」（背）
 
 EN — epithet *notandus*: From the descriptive term 'not' (back)
+
+ES — epithet *notandus*: Del término descriptivo «not» (dorso)
 
 <!-- src:S0018 -->
 

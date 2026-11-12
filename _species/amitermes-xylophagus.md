@@ -38,9 +38,13 @@ ES — **食木弓白蚁** (*Amitermes xylophagus*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *xylophagus*：希腊文 xylon（木）+ phagos（食），食木
 
 EN — epithet *xylophagus*: Greek xylon (wood) + phagos (eating), wood-eating
+
+ES — epithet *xylophagus*: Del griego xylon (madera) + phagos (que come), que come madera
 
 <!-- src:S0018 -->
 

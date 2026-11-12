@@ -40,9 +40,13 @@ ES — **纳塔尔大白蚁** (*Macrotermes natalensis*) es una especie del gén
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *natalensis*：以地名 纳塔尔（南非） 命名
 
 EN — epithet *natalensis*: Named after the locality Natal
+
+ES — epithet *natalensis*: Por la localidad de Natal
 
 <!-- src:S0018 -->
 

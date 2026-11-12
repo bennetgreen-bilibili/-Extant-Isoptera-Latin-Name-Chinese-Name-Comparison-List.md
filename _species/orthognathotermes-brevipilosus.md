@@ -38,9 +38,13 @@ ES — **短毛直颚白蚁** (*Orthognathotermes brevipilosus*) es una especie 
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *brevipilosus*：拉丁文/希腊文 brevipil（短）+ osus（多、充满），指短多、充满
 
 EN — epithet *brevipilosus*: From brevipil (短) + osus (多、充满)
+
+ES — epithet *brevipilosus*: De brevipil (corto) + osus (abundante, lleno de)
 
 <!-- src:S0018 -->
 

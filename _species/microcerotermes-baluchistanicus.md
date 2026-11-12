@@ -38,9 +38,13 @@ ES — **俾路支锯白蚁** (*Microcerotermes baluchistanicus*) es una especie
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *baluchistanicus*：地名：俾路支（巴基斯坦）
 
 EN — epithet *baluchistanicus*: After Baluchistan (Pakistan)
+
+ES — epithet *baluchistanicus*: Por Baluchistán (Pakistán)
 
 <!-- src:S0018 -->
 

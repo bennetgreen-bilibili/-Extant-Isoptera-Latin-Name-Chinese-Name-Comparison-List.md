@@ -38,9 +38,13 @@ ES — **安的列斯微白蚁** (*Parvitermes antillarum*) es una especie del g
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *antillarum*：以安的列斯群岛（Antilles）命名
 
 EN — epithet *antillarum*: Named after the Antilles
+
+ES — epithet *antillarum*: Por las Antillas
 
 <!-- src:S0018 -->
 

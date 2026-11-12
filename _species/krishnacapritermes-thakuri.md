@@ -40,9 +40,13 @@ ES — **塔库尔克里希纳扭白蚁** (*Krishnacapritermes thakuri*) es una 
 
 EN — *Krishnacapritermes*: Named after the termite taxonomist K. Krishna + Latin caper (goat) + termes.
 
+ES — *Krishnacapritermes*: En honor del taxónomo de termitas K. Krishna + latín caper (cabra) + termes.
+
 种加词 *thakuri*：以 M.L. Thakur（印度白蚁学家）命名
 
 EN — epithet *thakuri*: Named after M.L. Thakur
+
+ES — epithet *thakuri*: En honor de M. L. Thakur
 
 <!-- src:S0018 -->
 

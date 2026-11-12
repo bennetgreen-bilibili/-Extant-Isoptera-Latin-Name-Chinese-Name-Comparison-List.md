@@ -38,9 +38,13 @@ ES — **伊朗弓白蚁** (*Amitermes iranicus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *iranicus*：以地名 伊朗 命名
 
 EN — epithet *iranicus*: Named after the locality Iran
+
+ES — epithet *iranicus*: Por la localidad de Irán
 
 <!-- src:S0018 -->
 

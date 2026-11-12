@@ -40,9 +40,13 @@ ES — **镰刀大白蚁** (*Macrotermes falciger*) es una especie del género *
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *falciger*：拉丁文 falx（镰）+ -ger（具），具镰
 
 EN — epithet *falciger*: Latin falx (sickle) + -ger (bearing), sickle-bearing
+
+ES — epithet *falciger*: Del latín falx (hoz) + -ger (portador), portador de hoz
 
 <!-- src:S0018 -->
 

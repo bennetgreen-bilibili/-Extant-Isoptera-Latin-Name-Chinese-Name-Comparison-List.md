@@ -37,9 +37,13 @@ ES — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) es una especie del 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *putorius*：拉丁文 putorius（鼬的、有鼬臭的）
 
 EN — epithet *putorius*: Latin putorius (of a polecat, stinking)
+
+ES — epithet *putorius*: Del latín putorius (de turón, hediondo)
 
 <!-- src:S0018 -->
 

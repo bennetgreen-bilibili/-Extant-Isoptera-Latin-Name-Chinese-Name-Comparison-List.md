@@ -35,9 +35,13 @@ ES — **埃塞俄比亚上木白蚁** (*Epicalotermes aethiopicus*) es una espe
 
 EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
 
+ES — *Epicalotermes*: Del griego epi- (sobre) + kalos (bello) + latín termes.
+
 种加词 *aethiopicus*：地名：埃塞俄比亚（泛指非洲）
 
 EN — epithet *aethiopicus*: After Ethiopia (Africa)
+
+ES — epithet *aethiopicus*: Por Etiopía (África)
 
 <!-- src:S0018 -->
 

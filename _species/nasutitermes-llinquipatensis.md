@@ -38,9 +38,13 @@ ES — **林奎帕塔象白蚁** (*Nasutitermes llinquipatensis*) es una especie
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *llinquipatensis*：以地名 Llinquipata（秘鲁）命名
 
 EN — epithet *llinquipatensis*: Named after Llinquipata, Peru
+
+ES — epithet *llinquipatensis*: Por Llinquipata, Perú
 
 <!-- src:S0018 -->
 

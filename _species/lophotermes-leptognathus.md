@@ -38,9 +38,13 @@ ES — **细颚小脊突白蚁** (*Lophotermes leptognathus*) es una especie del
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *leptognathus*：拉丁文/希腊文 lepto（细）+ gnathus（颚），指细颚
 
 EN — epithet *leptognathus*: From lepto (细) + gnathus (颚)
+
+ES — epithet *leptognathus*: De lepto (fino) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **巴拉依丹树白蚁** (*Glyptotermes panaitanensis*) es una especie d
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *panaitanensis*：以印度尼西亚帕奈坦岛（Panaitan）命名
 
 EN — epithet *panaitanensis*: Named after Panaitan Island, Indonesia
+
+ES — epithet *panaitanensis*: Por la isla de Panaitan, Indonesia
 
 <!-- src:S0018 -->
 

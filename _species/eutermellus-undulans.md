@@ -38,9 +38,13 @@ ES — **波纹小真白蚁** (*Eutermellus undulans*) es una especie del géner
 
 EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
 
+ES — *Eutermellus*: Del griego eu- (bien) + termes + diminutivo latino -ellus.
+
 种加词 *undulans*：拉丁文 undulans（波状的）
 
 EN — epithet *undulans*: Latin undulans (wavy)
+
+ES — epithet *undulans*: Del latín undulans (ondulante)
 
 <!-- src:S0018 -->
 

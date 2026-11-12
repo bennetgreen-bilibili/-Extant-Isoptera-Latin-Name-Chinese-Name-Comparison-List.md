@@ -38,9 +38,13 @@ ES — **惊人海德瑞克白蚁** (*Hydrecotermes arienesho*) es una especie, 
 
 EN — *Hydrecotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Hydrecotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *arienesho*：以地名（法属圭亚那某地）命名
 
 EN — epithet *arienesho*: Named after a locality in French Guiana
+
+ES — epithet *arienesho*: Por una localidad de la Guayana Francesa
 
 <!-- src:S0018 -->
 

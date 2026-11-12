@@ -38,9 +38,13 @@ ES — **几内亚小瘤白蚁** (*Tuberculitermes guineensis*) es una especie d
 
 EN — *Tuberculitermes*: From Latin tuberculum (small swelling) + termes.
 
+ES — *Tuberculitermes*: Del latín tuberculum (pequeña protuberancia) + termes.
+
 种加词 *guineensis*：地名：几内亚
 
 EN — epithet *guineensis*: After Guinea
+
+ES — epithet *guineensis*: Por Guinea
 
 <!-- src:S0018 -->
 

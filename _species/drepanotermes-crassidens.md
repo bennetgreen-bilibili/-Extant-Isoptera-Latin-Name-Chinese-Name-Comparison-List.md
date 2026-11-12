@@ -38,9 +38,13 @@ ES — **厚齿镰白蚁** (*Drepanotermes crassidens*) es una especie del géne
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *crassidens*：拉丁文/希腊文词根「crass」（粗厚）
 
 EN — epithet *crassidens*: From the descriptive term 'crass' (thick)
+
+ES — epithet *crassidens*: Del término descriptivo «crass» (grueso)
 
 <!-- src:S0018 -->
 

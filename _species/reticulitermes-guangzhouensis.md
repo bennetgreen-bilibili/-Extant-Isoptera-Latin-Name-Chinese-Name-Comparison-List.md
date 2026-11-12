@@ -37,9 +37,13 @@ ES — **广州散白蚁** (*Reticulitermes guangzhouensis*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *guangzhouensis*：以地名 广州（广东） 命名
 
 EN — epithet *guangzhouensis*: Named after the locality Guangzhou
+
+ES — epithet *guangzhouensis*: Por la localidad de Guangzhou
 
 <!-- src:S0018 -->
 

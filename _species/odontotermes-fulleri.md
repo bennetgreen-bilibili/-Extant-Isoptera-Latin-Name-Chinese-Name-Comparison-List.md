@@ -38,9 +38,13 @@ ES — **富勒土白蚁** (*Odontotermes fulleri*) es una especie del género *
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *fulleri*：以人名 fuller 命名（南非昆虫学家 C. Fuller）
 
 EN — epithet *fulleri*: Named after 南非昆虫学家 C. Fuller
+
+ES — epithet *fulleri*: En honor del entomólogo sudafricano C. Fuller
 
 <!-- src:S0018 -->
 

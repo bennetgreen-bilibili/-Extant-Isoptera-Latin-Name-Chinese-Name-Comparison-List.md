@@ -38,9 +38,13 @@ ES — **黛安娜土白蚁** (*Odontotermes diana*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *diana*：罗马神话中的女神 Diana（狄安娜）
 
 EN — epithet *diana*: Diana, Roman goddess
+
+ES — epithet *diana*: Diana, diosa romana
 
 <!-- src:S0018 -->
 

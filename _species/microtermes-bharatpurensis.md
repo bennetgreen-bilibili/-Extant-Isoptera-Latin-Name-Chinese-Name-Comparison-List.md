@@ -38,9 +38,13 @@ ES — **珀勒德布尔小白蚁** (*Microtermes bharatpurensis*) es una especi
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *bharatpurensis*：以地名 珀勒德布尔（印度） 命名
 
 EN — epithet *bharatpurensis*: Named after the locality Bharatpur
+
+ES — epithet *bharatpurensis*: Por la localidad de Bharatpur
 
 <!-- src:S0018 -->
 

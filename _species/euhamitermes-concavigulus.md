@@ -38,9 +38,13 @@ ES — **匙颏亮白蚁** (*Euhamitermes concavigulus*) es una especie del gén
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *concavigulus*：拉丁文/希腊文 concavig（凹）+ ulus（小（指小）），指凹小（指小）
 
 EN — epithet *concavigulus*: From concavig (凹) + ulus (小（指小）)
+
+ES — epithet *concavigulus*: De concavig (cóncavo) + ulus (pequeño (diminutivo))
 
 <!-- src:S0018 -->
 

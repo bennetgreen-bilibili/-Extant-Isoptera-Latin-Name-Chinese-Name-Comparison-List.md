@@ -38,9 +38,13 @@ ES — **窄头新扭白蚁** (*Neocapritermes angusticeps*) es una especie del 
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *angusticeps*：拉丁文/希腊文 angusti（窄）+ ceps（头），指窄头
 
 EN — epithet *angusticeps*: From angusti (窄) + ceps (头)
+
+ES — epithet *angusticeps*: De angusti (estrecho) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

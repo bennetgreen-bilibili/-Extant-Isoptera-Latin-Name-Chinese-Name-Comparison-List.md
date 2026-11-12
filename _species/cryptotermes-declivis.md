@@ -35,9 +35,13 @@ ES — **铲头堆砂白蚁** (*Cryptotermes declivis*) es una especie del géne
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *declivis*：拉丁文/希腊文词根「decliv」（斜）
 
 EN — epithet *declivis*: From the descriptive term 'decliv' (declivous)
+
+ES — epithet *declivis*: Del término descriptivo «decliv» (en declive)
 
 <!-- src:S0018 -->
 

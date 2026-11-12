@@ -38,9 +38,13 @@ ES — **梨形瓢白蚁** (*Bulbitermes pyriformis*) es una especie del género
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *pyriformis*：拉丁文/希腊文 pyri（火）+ formis（形），指火形
 
 EN — epithet *pyriformis*: From pyri (火) + formis (形)
+
+ES — epithet *pyriformis*: De pyri (fuego) + formis (forma)
 
 <!-- src:S0018 -->
 

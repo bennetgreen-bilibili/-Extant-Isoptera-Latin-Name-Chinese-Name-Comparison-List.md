@@ -38,9 +38,13 @@ ES — **不丹伪扭白蚁** (*Pseudocapritermes bhutanensis*) es una especie d
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *bhutanensis*：以地名 不丹 命名
 
 EN — epithet *bhutanensis*: Named after the locality Bhutan
+
+ES — epithet *bhutanensis*: Por la localidad de Bután
 
 <!-- src:S0018 -->
 

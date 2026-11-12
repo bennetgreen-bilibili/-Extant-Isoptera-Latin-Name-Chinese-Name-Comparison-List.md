@@ -35,9 +35,13 @@ ES — **圣克鲁斯新白蚁** (*Neotermes sanctaecrucis*) es una especie del 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *sanctaecrucis*：拉丁文 sancta（圣）+ crux（十字），圣十字
 
 EN — epithet *sanctaecrucis*: Latin sancta (holy) + crux (cross), holy cross
+
+ES — epithet *sanctaecrucis*: Del latín sancta (santa) + crux (cruz), santa cruz
 
 <!-- src:S0018 -->
 

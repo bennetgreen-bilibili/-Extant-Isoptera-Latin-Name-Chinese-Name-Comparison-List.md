@@ -38,9 +38,13 @@ ES — **微缩后锥白蚁** (*Postsubulitermes parviconstrictus*) es la única
 
 EN — *Postsubulitermes*: From Latin post (after) + subula (awl) + termes.
 
+ES — *Postsubulitermes*: Del latín post (después) + subula (lezna) + termes.
+
 种加词 *parviconstrictus*：拉丁文/希腊文词根「parv」（小）
 
 EN — epithet *parviconstrictus*: From the descriptive term 'parv' (small)
+
+ES — epithet *parviconstrictus*: Del término descriptivo «parv» (pequeño)
 
 <!-- src:S0018 -->
 

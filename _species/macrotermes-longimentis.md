@@ -38,9 +38,13 @@ ES — **长颏大白蚁** (*Macrotermes longimentis*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *longimentis*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longimentis*: From the descriptive term 'long' (long)
+
+ES — epithet *longimentis*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

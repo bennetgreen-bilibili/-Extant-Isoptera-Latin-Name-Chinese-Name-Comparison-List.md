@@ -40,9 +40,13 @@ ES — **友好白蚁** (*Termes comis*) es una especie del género *Termes*, en
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *comis*：拉丁文 comis（亲切的、彬彬有礼的）
 
 EN — epithet *comis*: Latin comis (courteous)
+
+ES — epithet *comis*: Del latín comis (cortés)
 
 <!-- src:S0018 -->
 

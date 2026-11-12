@@ -38,9 +38,13 @@ ES — **南方土白蚁** (*Odontotermes meridionalis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *meridionalis*：拉丁文 meridionalis（南方的）
 
 EN — epithet *meridionalis*: Latin meridionalis (southern)
+
+ES — epithet *meridionalis*: Del latín meridionalis (meridional)
 
 <!-- src:S0018 -->
 

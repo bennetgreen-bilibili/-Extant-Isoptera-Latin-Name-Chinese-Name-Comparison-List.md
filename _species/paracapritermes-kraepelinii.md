@@ -40,9 +40,13 @@ ES — **克雷珀林旁扭白蚁** (*Paracapritermes kraepelinii*) es una espec
 
 EN — *Paracapritermes*: From Greek para- (beside) + Latin caper (goat) + termes.
 
+ES — *Paracapritermes*: Del griego para- (al lado de) + latín caper (cabra) + termes.
+
 种加词 *kraepelinii*：以人名 kraepelin 命名（K. Kraepelin（德国动物学家））
 
 EN — epithet *kraepelinii*: Named after K. Kraepelin（德国动物学家）
+
+ES — epithet *kraepelinii*: En honor de K. Kraepelin (zoólogo alemán)
 
 <!-- src:S0018 -->
 

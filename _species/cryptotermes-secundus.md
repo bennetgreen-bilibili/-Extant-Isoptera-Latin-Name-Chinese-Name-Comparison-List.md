@@ -35,9 +35,13 @@ ES — **第二堆砂白蚁** (*Cryptotermes secundus*) es una especie del géne
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *secundus*：拉丁文 secundus（第二）
 
 EN — epithet *secundus*: Latin secundus (second)
+
+ES — epithet *secundus*: Del latín secundus (segundo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **巴拿马无名白蚁** (*Ereymatermes panamensis*) es una especie del 
 
 EN — *Ereymatermes*: From the place name Ereyma; -termes from Latin termes.
 
+ES — *Ereymatermes*: Del topónimo Ereyma; -termes, del latín termes.
+
 种加词 *panamensis*：以地名 巴拿马 命名
 
 EN — epithet *panamensis*: Named after the locality Panam
+
+ES — epithet *panamensis*: Por la localidad de Panamá
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **小额堆砂白蚁** (*Cryptotermes parvifrons*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *parvifrons*：拉丁文/希腊文 parvi（小）+ frons（额），指小额
 
 EN — epithet *parvifrons*: From parvi (小) + frons (额)
+
+ES — epithet *parvifrons*: De parvi (pequeño) + frons (frente)
 
 <!-- src:S0018 -->
 

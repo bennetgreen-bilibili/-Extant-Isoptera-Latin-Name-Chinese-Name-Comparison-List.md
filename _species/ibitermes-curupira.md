@@ -38,9 +38,13 @@ ES — **长毛地球白蚁** (*Ibitermes curupira*) es una especie del género 
 
 EN — *Ibitermes*: From Tupi Ibi (land, tree) + -termes.
 
+ES — *Ibitermes*: Del tupí Ibi (tierra, árbol) + -termes.
+
 种加词 *curupira*：库鲁皮拉（巴西神话森林精灵）
 
 EN — epithet *curupira*: Curupira, a Brazilian forest spirit
+
+ES — epithet *curupira*: Curupira, espíritu del bosque brasileño
 
 <!-- src:S0018 -->
 

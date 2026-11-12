@@ -35,9 +35,13 @@ ES — **重庆杆白蚁** (*Stylotermes chongqingensis*) es una especie del gé
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *chongqingensis*：以地名 重庆 命名
 
 EN — epithet *chongqingensis*: Named after the locality Chongqing
+
+ES — epithet *chongqingensis*: Por la localidad de Chongqing
 
 <!-- src:S0018 -->
 

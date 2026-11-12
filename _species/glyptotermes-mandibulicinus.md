@@ -35,9 +35,13 @@ ES — **翘颚树白蚁** (*Glyptotermes mandibulicinus*) es una especie del g�
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *mandibulicinus*：拉丁文 mandibula（上颚）+ 指小后缀，小颚
 
 EN — epithet *mandibulicinus*: Latin mandibula (mandible) + diminutive
+
+ES — epithet *mandibulicinus*: Del latín mandibula (mandíbula) + diminutivo
 
 <!-- src:S0018 -->
 

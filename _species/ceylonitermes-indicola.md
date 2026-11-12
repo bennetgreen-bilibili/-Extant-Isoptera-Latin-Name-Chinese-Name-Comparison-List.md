@@ -38,9 +38,13 @@ ES — **印度锡兰白蚁** (*Ceylonitermes indicola*) es una especie del gén
 
 EN — *Ceylonitermes*: From Ceylon (Sri Lanka) + termes.
 
+ES — *Ceylonitermes*: De Ceilán (Sri Lanka) + termes.
+
 种加词 *indicola*：拉丁文 India（印度）+ -cola（栖居者），栖于印度
 
 EN — epithet *indicola*: Latin India + -cola (dweller): dwelling in India
+
+ES — epithet *indicola*: Del latín India + -cola (habitante): que habita en la India
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **压缩锥形白蚁** (*Rhadinotermes coarctatus*) es la única especie 
 
 EN — *Rhadinotermes*: From Greek rhadinos (slender) + Latin termes.
 
+ES — *Rhadinotermes*: Del griego rhadinos (delgado) + latín termes.
+
 种加词 *coarctatus*：拉丁文/希腊文 coarct（缢缩）+ atus（具），指缢缩具
 
 EN — epithet *coarctatus*: From coarct (缢缩) + atus (具)
+
+ES — epithet *coarctatus*: De coarct (constreñido) + atus (que posee)
 
 <!-- src:S0018 -->
 

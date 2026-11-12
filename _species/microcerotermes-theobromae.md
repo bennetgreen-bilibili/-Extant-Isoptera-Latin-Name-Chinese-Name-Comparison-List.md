@@ -38,9 +38,13 @@ ES — **可可锯白蚁** (*Microcerotermes theobromae*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *theobromae*：以可可属（Theobroma）命名（寄主植物）
 
 EN — epithet *theobromae*: After the plant genus Theobroma
+
+ES — epithet *theobromae*: Del género vegetal Theobroma (cacao), planta huésped
 
 <!-- src:S0018 -->
 

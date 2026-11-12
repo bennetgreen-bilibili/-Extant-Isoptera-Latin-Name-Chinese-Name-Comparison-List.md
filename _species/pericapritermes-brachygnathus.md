@@ -38,9 +38,13 @@ ES — **短颚近扭白蚁** (*Pericapritermes brachygnathus*) es una especie d
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *brachygnathus*：拉丁文/希腊文 brachy（短）+ gnathus（颚），指短颚
 
 EN — epithet *brachygnathus*: From brachy (短) + gnathus (颚)
+
+ES — epithet *brachygnathus*: De brachy (corto) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

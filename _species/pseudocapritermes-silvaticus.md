@@ -38,9 +38,13 @@ ES — **森林伪扭白蚁** (*Pseudocapritermes silvaticus*) es una especie, y
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
+ES — *Pseudocapritermes*: Del griego pseudēs (falso) + latín caper (cabra) + termes.
+
 种加词 *silvaticus*：拉丁文 silvaticus（森林的，silva=森林）
 
 EN — epithet *silvaticus*: Latin silvaticus (of the forest, silva = forest)
+
+ES — epithet *silvaticus*: Del latín silvaticus (del bosque, silva = bosque)
 
 <!-- src:S0018 -->
 

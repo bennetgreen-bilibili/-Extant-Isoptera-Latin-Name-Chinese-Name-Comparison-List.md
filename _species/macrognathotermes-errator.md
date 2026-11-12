@@ -38,9 +38,13 @@ ES — **游荡长颚白蚁** (*Macrognathotermes errator*) es una especie, y la
 
 EN — *Macrognathotermes*: From Greek makros (large) + gnathos (jaw) + Latin termes.
 
+ES — *Macrognathotermes*: Del griego makros (grande) + gnathos (mandíbula) + latín termes.
+
 种加词 *errator*：拉丁文 errator（游荡者）
 
 EN — epithet *errator*: Latin errator (wanderer)
+
+ES — epithet *errator*: Del latín errator (errante)
 
 <!-- src:S0018 -->
 

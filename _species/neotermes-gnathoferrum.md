@@ -35,9 +35,13 @@ ES — **铁颚新白蚁** (*Neotermes gnathoferrum*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *gnathoferrum*：拉丁文/希腊文词根「gnath」（颚）
 
 EN — epithet *gnathoferrum*: From the descriptive term 'gnath' (jaw)
+
+ES — epithet *gnathoferrum*: Del término descriptivo «gnath» (mandíbula)
 
 <!-- src:S0018 -->
 

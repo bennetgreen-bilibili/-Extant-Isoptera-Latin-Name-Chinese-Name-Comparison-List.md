@@ -38,9 +38,13 @@ ES — **多魁无甲白蚁** (*Anenteotermes polyscolus*) es una especie del g�
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Anenteotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *polyscolus*：希腊文 polys（多）+ skolios（弯曲），多弯
 
 EN — epithet *polyscolus*: Greek polys (many) + skolios (curved), many-curved
+
+ES — epithet *polyscolus*: Del griego polys (muchos) + skolios (curvo), muy curvado
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **浪头象白蚁** (*Nasutitermes unduliceps*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *unduliceps*：拉丁文/希腊文 unduli（波状）+ ceps（头），指波状头
 
 EN — epithet *unduliceps*: From unduli (波状) + ceps (头)
+
+ES — epithet *unduliceps*: De unduli (ondulado) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

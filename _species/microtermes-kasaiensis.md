@@ -38,9 +38,13 @@ ES — **开赛小白蚁** (*Microtermes kasaiensis*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *kasaiensis*：以地名 开赛（刚果） 命名
 
 EN — epithet *kasaiensis*: Named after the locality Kasa
+
+ES — epithet *kasaiensis*: Por la localidad de Kasa
 
 <!-- src:S0018 -->
 

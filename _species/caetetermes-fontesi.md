@@ -38,9 +38,13 @@ ES — **丰特斯林白蚁** (*Caetetermes fontesi*) es una especie del género
 
 EN — *Caetetermes*: From the Tupi place name Caeté + -termes.
 
+ES — *Caetetermes*: Del topónimo tupí Caeté + -termes.
+
 种加词 *fontesi*：以 L.R. Fontes（巴西白蚁学家）命名
 
 EN — epithet *fontesi*: Named after L.R. Fontes
+
+ES — epithet *fontesi*: En honor de L. R. Fontes
 
 <!-- src:S0018 -->
 

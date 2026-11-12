@@ -35,9 +35,13 @@ ES — **奇丽原鼻白蚁** (*Prorhinotermes spectabilis*) es una especie del 
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *spectabilis*：拉丁文 spectabilis（壮观的、显著的）
 
 EN — epithet *spectabilis*: Latin spectabilis (spectacular)
+
+ES — epithet *spectabilis*: Del latín spectabilis (espectacular)
 
 <!-- src:S0018 -->
 

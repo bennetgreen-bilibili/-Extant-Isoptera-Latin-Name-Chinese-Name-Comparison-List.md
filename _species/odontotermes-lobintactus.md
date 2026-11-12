@@ -38,9 +38,13 @@ ES — **叶蛩土白蚁** (*Odontotermes lobintactus*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *lobintactus*：拉丁文 lobus（叶）+ intactus（未触及），叶未触
 
 EN — epithet *lobintactus*: Latin lobus (lobe) + intactus (untouched)
+
+ES — epithet *lobintactus*: Del latín lobus (lóbulo) + intactus (intacto)
 
 <!-- src:S0018 -->
 

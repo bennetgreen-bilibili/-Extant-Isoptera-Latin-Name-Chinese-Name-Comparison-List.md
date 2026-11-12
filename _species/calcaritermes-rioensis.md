@@ -35,9 +35,13 @@ ES — **里约距白蚁** (*Calcaritermes rioensis*) es una especie del género
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *rioensis*：以地名 格兰德河（美洲） 命名
 
 EN — epithet *rioensis*: Named after the locality Rio
+
+ES — epithet *rioensis*: Por la localidad de Río
 
 <!-- src:S0018 -->
 

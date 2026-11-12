@@ -35,9 +35,13 @@ ES — **槟榔树白蚁** (*Glyptotermes pinangae*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *pinangae*：以马来西亚槟城（Pinang / Penang）命名
 
 EN — epithet *pinangae*: Named after Penang (Pinang), Malaysia
+
+ES — epithet *pinangae*: Por Penang (Pinang), Malasia
 
 <!-- src:S0018 -->
 

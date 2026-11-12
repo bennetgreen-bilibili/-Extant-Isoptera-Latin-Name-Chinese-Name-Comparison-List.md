@@ -35,9 +35,13 @@ ES — **福建新白蚁** (*Neotermes fujianensis*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *fujianensis*：以地名 福建 命名
 
 EN — epithet *fujianensis*: Named after the locality Fujian
+
+ES — epithet *fujianensis*: Por la localidad de Fujian
 
 <!-- src:S0018 -->
 

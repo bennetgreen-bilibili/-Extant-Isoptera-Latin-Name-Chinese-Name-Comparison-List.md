@@ -38,9 +38,13 @@ ES — **短节怒白蚁** (*Lacessititermes breviarticulatus*) es una especie d
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
+ES — *Lacessititermes*: Del latín lacessitus (provocado, atacado) + termes.
+
 种加词 *breviarticulatus*：拉丁文/希腊文 breviarticul（短）+ atus（具），指短具
 
 EN — epithet *breviarticulatus*: From breviarticul (短) + atus (具)
+
+ES — epithet *breviarticulatus*: De breviarticul (corto) + atus (que posee)
 
 <!-- src:S0018 -->
 

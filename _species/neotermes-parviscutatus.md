@@ -35,9 +35,13 @@ ES — **小盾新白蚁** (*Neotermes parviscutatus*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *parviscutatus*：拉丁文/希腊文 parviscut（小）+ atus（具），指小具
 
 EN — epithet *parviscutatus*: From parviscut (小) + atus (具)
+
+ES — epithet *parviscutatus*: De parviscut (pequeño) + atus (que posee)
 
 <!-- src:S0018 -->
 

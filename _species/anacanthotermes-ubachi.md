@@ -35,9 +35,13 @@ ES — **乌巴齐无刺白蚁** (*Anacanthotermes ubachi*) es una especie del g
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
+ES — *Anacanthotermes*: Del griego an- (sin) + akantha (espina) + latín termes, «termita sin espinas».
+
 种加词 *ubachi*：以人名 Ubach 命名（具体身份待考）
 
 EN — epithet *ubachi*: Named after Ubach
+
+ES — epithet *ubachi*: En honor de Ubach
 
 <!-- src:S0018 -->
 

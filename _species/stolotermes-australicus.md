@@ -35,9 +35,13 @@ ES — **澳大利亚胄白蚁** (*Stolotermes australicus*) es una especie del 
 
 EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
 
+ES — *Stolotermes*: Del latín stolo (retoño, estolón) + termes.
+
 种加词 *australicus*：以地名 澳大利亚 命名
 
 EN — epithet *australicus*: Named after the locality Austral
+
+ES — epithet *australicus*: Por la localidad de Austral
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **哈根真砂白蚁** (*Eucryptotermes hagenii*) es una especie, y la es
 
 EN — *Eucryptotermes*: From Greek eu- (well) + kryptos (hidden) + Latin termes.
 
+ES — *Eucryptotermes*: Del griego eu- (bien) + kryptos (oculto) + latín termes.
+
 种加词 *hagenii*：以人名 hagen 命名（德国昆虫学家 H. A. Hagen）
 
 EN — epithet *hagenii*: Named after 德国昆虫学家 H. A. Hagen
+
+ES — epithet *hagenii*: En honor del entomólogo alemán H. A. Hagen
 
 <!-- src:S0018 -->
 

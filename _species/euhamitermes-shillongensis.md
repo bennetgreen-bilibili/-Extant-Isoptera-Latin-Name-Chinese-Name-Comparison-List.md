@@ -38,9 +38,13 @@ ES — **西隆亮白蚁** (*Euhamitermes shillongensis*) es una especie del gé
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *shillongensis*：以地名 西隆（印度） 命名
 
 EN — epithet *shillongensis*: Named after the locality Shillong
+
+ES — epithet *shillongensis*: Por la localidad de Shillong
 
 <!-- src:S0018 -->
 

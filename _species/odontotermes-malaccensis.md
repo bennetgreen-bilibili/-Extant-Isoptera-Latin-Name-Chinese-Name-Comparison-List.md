@@ -38,9 +38,13 @@ ES — **马六甲土白蚁** (*Odontotermes malaccensis*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *malaccensis*：以地名 马六甲（马来西亚） 命名
 
 EN — epithet *malaccensis*: Named after the locality Malacc
+
+ES — epithet *malaccensis*: Por la localidad de Malacc
 
 <!-- src:S0018 -->
 

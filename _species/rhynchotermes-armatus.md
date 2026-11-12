@@ -38,9 +38,13 @@ ES — **武装喙白蚁** (*Rhynchotermes armatus*) es una especie del género 
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
+ES — *Rhynchotermes*: Del griego rhynchos (pico, hocico) + latín termes.
+
 种加词 *armatus*：拉丁文/希腊文 arm（武装）+ atus（具），指武装具
 
 EN — epithet *armatus*: From arm (武装) + atus (具)
+
+ES — epithet *armatus*: De arm (armado) + atus (que posee)
 
 <!-- src:S0018 -->
 

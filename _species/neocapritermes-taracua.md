@@ -38,9 +38,13 @@ ES — **塔拉夸新扭白蚁** (*Neocapritermes taracua*) es una especie del g
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *taracua*：种加词 taracua 为图皮语土名 taracuá（亦作 tracuá、tacuá），南美当地对木蚁（Camponotus 属）的俗称。
 
 EN — epithet *taracua*: From the Tupi vernacular name taracuá (also tracuá, tacuá), the local name for carpenter ants (genus Camponotus).
+
+ES — epithet *taracua*: Del nombre vernáculo tupí taracuá (también tracuá, tacuá), nombre local de las hormigas carpinteras (género Camponotus).
 
 <!-- src:S0018 -->
 

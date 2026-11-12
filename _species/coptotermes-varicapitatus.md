@@ -35,9 +35,13 @@ ES — **异头乳白蚁** (*Coptotermes varicapitatus*) es una especie del gén
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *varicapitatus*：拉丁文 varius（多样）+ capitatus（有头），异头
 
 EN — epithet *varicapitatus*: Latin varius (varied) + capitatus (headed), varied-headed
+
+ES — epithet *varicapitatus*: Del latín varius (variado) + capitatus (de cabeza), de cabeza variada
 
 <!-- src:S0018 -->
 

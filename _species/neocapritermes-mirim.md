@@ -38,9 +38,13 @@ ES — **小型新扭白蚁** (*Neocapritermes mirim*) es una especie del géner
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
+ES — *Neocapritermes*: Del griego neos (nuevo) + latín caper (cabra) + termes.
+
 种加词 *mirim*：图皮语 mirim（小）
 
 EN — epithet *mirim*: Tupi mirim (small)
+
+ES — epithet *mirim*: Del tupí mirim (pequeño)
 
 <!-- src:S0018 -->
 

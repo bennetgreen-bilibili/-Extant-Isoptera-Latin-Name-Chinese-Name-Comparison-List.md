@@ -38,9 +38,13 @@ ES — **黑点帕塔瓦白蚁** (*Patawatermes nigripunctatus*) es una especie 
 
 EN — *Patawatermes*: From the place name Patawa; -termes from Latin termes.
 
+ES — *Patawatermes*: Del topónimo Patawa; -termes, del latín termes.
+
 种加词 *nigripunctatus*：拉丁文/希腊文 nigripunct（黑）+ atus（具），指黑具
 
 EN — epithet *nigripunctatus*: From nigripunct (黑) + atus (具)
+
+ES — epithet *nigripunctatus*: De nigripunct (negro) + atus (que posee)
 
 <!-- src:S0018 -->
 

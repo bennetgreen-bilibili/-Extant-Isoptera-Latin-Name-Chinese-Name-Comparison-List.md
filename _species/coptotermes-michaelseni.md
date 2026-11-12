@@ -35,9 +35,13 @@ ES — **米夏埃尔森乳白蚁** (*Coptotermes michaelseni*) es una especie d
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *michaelseni*：以人名 michaelsen 命名（W. Michaelsen（德国动物学家））
 
 EN — epithet *michaelseni*: Named after W. Michaelsen（德国动物学家）
+
+ES — epithet *michaelseni*: En honor de W. Michaelsen (zoólogo alemán)
 
 <!-- src:S0018 -->
 

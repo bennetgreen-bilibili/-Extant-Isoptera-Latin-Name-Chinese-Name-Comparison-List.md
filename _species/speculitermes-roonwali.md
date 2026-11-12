@@ -38,9 +38,13 @@ ES — **鲁恩沃稀白蚁** (*Speculitermes roonwali*) es una especie del gén
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *roonwali*：以人名 Roonwal 命名（印度白蚁学家 M. L. Roonwal）
 
 EN — epithet *roonwali*: Named after the termite taxonomist M. L. Roonwal
+
+ES — epithet *roonwali*: En honor del taxónomo de termitas M. L. Roonwal
 
 <!-- src:S0018 -->
 

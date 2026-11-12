@@ -39,9 +39,13 @@ ES — **相异亚种** (*Ancistrotermes crucifer diversana*) es una subespecie 
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *diversana*：拉丁文 diversus（相异的、多样的）
 
 EN — epithet *diversana*: Latin diversus (diverse, different)
+
+ES — epithet *diversana*: Del latín diversus (diverso, diferente)
 
 <!-- src:S0018 -->
 

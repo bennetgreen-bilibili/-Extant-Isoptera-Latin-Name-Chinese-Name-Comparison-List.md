@@ -35,9 +35,13 @@ ES — **平阳堆砂白蚁** (*Cryptotermes pingyangensis*) es una especie del 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *pingyangensis*：以地名 平阳（浙江） 命名
 
 EN — epithet *pingyangensis*: Named after the locality Pingyang
+
+ES — epithet *pingyangensis*: Por la localidad de Pingyang
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **具角象白蚁** (*Nasutitermes corniger*) es una especie, y la especi
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *corniger*：拉丁文/希腊文 corni（角）+ ger（具），指角具
 
 EN — epithet *corniger*: From corni (角) + ger (具)
+
+ES — epithet *corniger*: De corni (cuerno) + ger (portador)
 
 <!-- src:S0018 -->
 

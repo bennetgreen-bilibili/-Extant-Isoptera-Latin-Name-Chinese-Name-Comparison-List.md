@@ -38,9 +38,13 @@ ES — **苏丹三脉白蚁** (*Trinervitermes sudanicus*) es una especie del g�
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *sudanicus*：以地名 苏丹 命名
 
 EN — epithet *sudanicus*: Named after the locality Sudan
+
+ES — epithet *sudanicus*: Por la localidad de Sudán
 
 <!-- src:S0018 -->
 

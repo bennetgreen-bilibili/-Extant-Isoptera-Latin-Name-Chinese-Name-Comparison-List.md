@@ -35,9 +35,13 @@ ES — **长链异白蚁** (*Heterotermes longicatena*) es una especie del géne
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *longicatena*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longicatena*: From the descriptive term 'long' (long)
+
+ES — epithet *longicatena*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

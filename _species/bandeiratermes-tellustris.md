@@ -38,9 +38,13 @@ ES — **大地班代拉白蚁** (*Bandeiratermes tellustris*) es una especie de
 
 EN — *Bandeiratermes*: Named after a person (Bandeira); -termes from Latin termes.
 
+ES — *Bandeiratermes*: En honor de una persona (Bandeira); -termes, del latín termes.
+
 种加词 *tellustris*：拉丁文 tellus（大地），大地的
 
 EN — epithet *tellustris*: Latin tellus (earth), of the earth
+
+ES — epithet *tellustris*: Latín tellus (tierra), de la tierra
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **格拉塞土白蚁** (*Odontotermes grassei*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *grassei*：以人名 Grassé 命名（法国动物学家 P.-P. Grassé）
 
 EN — epithet *grassei*: Named after the zoologist P.-P. Grassé
+
+ES — epithet *grassei*: En honor del zoólogo P.-P. Grassé
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **长喙长鼻白蚁** (*Schedorhinotermes longirostris*) es una especie 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *longirostris*：拉丁文/希腊文 longi（长）+ rostris（喙），指长喙
 
 EN — epithet *longirostris*: From longi (长) + rostris (喙)
+
+ES — epithet *longirostris*: De longi (largo) + rostris (pico)
 
 <!-- src:S0018 -->
 

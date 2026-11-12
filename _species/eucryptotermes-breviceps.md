@@ -35,9 +35,13 @@ ES — **短头真砂白蚁** (*Eucryptotermes breviceps*) es una especie del g�
 
 EN — *Eucryptotermes*: From Greek eu- (well) + kryptos (hidden) + Latin termes.
 
+ES — *Eucryptotermes*: Del griego eu- (bien) + kryptos (oculto) + latín termes.
+
 种加词 *breviceps*：拉丁文/希腊文 brevi（短）+ ceps（头），指短头
 
 EN — epithet *breviceps*: From brevi (短) + ceps (头)
+
+ES — epithet *breviceps*: De brevi (corto) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

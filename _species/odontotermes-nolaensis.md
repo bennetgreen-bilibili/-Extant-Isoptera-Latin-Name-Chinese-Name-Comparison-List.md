@@ -38,9 +38,13 @@ ES — **诺拉土白蚁** (*Odontotermes nolaensis*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *nolaensis*：以中非共和国诺拉（Nola）命名
 
 EN — epithet *nolaensis*: Named after Nola, Central African Republic
+
+ES — epithet *nolaensis*: Por Nola, República Centroafricana
 
 <!-- src:S0018 -->
 

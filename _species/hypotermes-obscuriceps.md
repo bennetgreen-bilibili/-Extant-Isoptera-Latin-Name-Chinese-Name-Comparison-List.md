@@ -40,9 +40,13 @@ ES — **暗头地白蚁** (*Hypotermes obscuriceps*) es una especie, y la espec
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *obscuriceps*：拉丁文/希腊文 obscuri（暗）+ ceps（头），指暗头
 
 EN — epithet *obscuriceps*: From obscuri (暗) + ceps (头)
+
+ES — epithet *obscuriceps*: De obscuri (oscuro) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

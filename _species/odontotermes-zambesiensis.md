@@ -38,9 +38,13 @@ ES — **赞比西土白蚁** (*Odontotermes zambesiensis*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *zambesiensis*：以地名 赞比西（南部非洲） 命名
 
 EN — epithet *zambesiensis*: Named after the locality Zambes
+
+ES — epithet *zambesiensis*: Por la localidad de Zambes
 
 <!-- src:S0018 -->
 

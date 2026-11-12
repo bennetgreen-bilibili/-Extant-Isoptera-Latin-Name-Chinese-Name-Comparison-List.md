@@ -40,9 +40,13 @@ ES — **桉树象白蚁** (*Nasutitermes eucalypti*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *eucalypti*：以桉属（Eucalyptus）命名（寄主植物）
 
 EN — epithet *eucalypti*: After the plant genus Eucalyptus
+
+ES — epithet *eucalypti*: Por el género vegetal Eucalyptus
 
 <!-- src:S0018 -->
 

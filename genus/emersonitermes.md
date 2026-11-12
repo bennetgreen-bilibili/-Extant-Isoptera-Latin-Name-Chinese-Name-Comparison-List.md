@@ -57,6 +57,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名以人名 Emerson 命名（美国白蚁学家 A. E. Emerson），词尾 -termes 为拉丁文 termes（白蚁）。</p>
 <p class="etymology-en fact-en" lang="en">Named after the termite taxonomist A. E. Emerson; -termes from Latin termes.</p>
+<p class="etymology-es fact-es" lang="es">En honor del taxónomo de termitas A. E. Emerson; -termes, del latín termes.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

@@ -38,9 +38,13 @@ ES — **阿尔哥亚湾锯白蚁** (*Microcerotermes algoasinensis*) es una esp
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *algoasinensis*：以地名 Algoa Bay（阿尔哥亚湾，南非）命名
 
 EN — epithet *algoasinensis*: Named after Algoa Bay (South Africa)
+
+ES — epithet *algoasinensis*: Por la bahía de Algoa (Sudáfrica)
 
 <!-- src:S0018 -->
 

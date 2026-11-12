@@ -35,9 +35,13 @@ ES — **细颚杆白蚁** (*Stylotermes angustignathus*) es una especie del gé
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *angustignathus*：拉丁文/希腊文 angusti（窄）+ gnathus（颚），指窄颚
 
 EN — epithet *angustignathus*: From angusti (窄) + gnathus (颚)
+
+ES — epithet *angustignathus*: De angusti (estrecho) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

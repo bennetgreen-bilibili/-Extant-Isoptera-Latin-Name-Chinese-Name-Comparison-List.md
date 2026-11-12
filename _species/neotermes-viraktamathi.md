@@ -35,9 +35,13 @@ ES — **维拉格塔马蒂新白蚁** (*Neotermes viraktamathi*) es una especie
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *viraktamathi*：以人名 Viraktamath（C. A. Viraktamath，印度昆虫学家） 命名
 
 EN — epithet *viraktamathi*: Named after C. A. Viraktamath (Indian entomologist)
+
+ES — epithet *viraktamathi*: En honor de C. A. Viraktamath (entomólogo indio)
 
 <!-- src:S0018 -->
 

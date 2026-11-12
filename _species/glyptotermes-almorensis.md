@@ -35,9 +35,13 @@ ES — **阿尔莫拉树白蚁** (*Glyptotermes almorensis*) es una especie del 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *almorensis*：以地名 Almora（阿尔莫拉）命名
 
 EN — epithet *almorensis*: Named after the locality Almora
+
+ES — epithet *almorensis*: Por la localidad de Almora
 
 <!-- src:S0018 -->
 

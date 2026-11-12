@@ -40,9 +40,13 @@ ES — **黄球白蚁** (*Globitermes sulphureus*) es una especie del género *G
 
 EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
 
+ES — *Globitermes*: Del latín globus (bola, esfera) + termes.
+
 种加词 *sulphureus*：拉丁文 sulphureus（硫黄色的）
 
 EN — epithet *sulphureus*: Latin sulphureus (sulphur-yellow)
+
+ES — epithet *sulphureus*: Latín sulphureus (amarillo azufre)
 
 <!-- src:S0018 -->
 

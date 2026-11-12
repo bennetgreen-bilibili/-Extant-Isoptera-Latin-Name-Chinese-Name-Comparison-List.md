@@ -35,9 +35,13 @@ ES — **昆士兰堆砂白蚁** (*Cryptotermes queenslandis*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *queenslandis*：地名：昆士兰（澳大利亚）
 
 EN — epithet *queenslandis*: After Queensland (Australia)
+
+ES — epithet *queenslandis*: Por Queensland (Australia)
 
 <!-- src:S0018 -->
 

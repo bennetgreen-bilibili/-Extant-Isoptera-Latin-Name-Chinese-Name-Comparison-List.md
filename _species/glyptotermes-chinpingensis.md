@@ -35,9 +35,13 @@ ES — **金平树白蚁** (*Glyptotermes chinpingensis*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *chinpingensis*：以地名 Chinping（金平，云南）命名
 
 EN — epithet *chinpingensis*: Named after Chinping (Jinping, Yunnan)
+
+ES — epithet *chinpingensis*: Por Chinping (Jinping, Yunnan)
 
 <!-- src:S0018 -->
 

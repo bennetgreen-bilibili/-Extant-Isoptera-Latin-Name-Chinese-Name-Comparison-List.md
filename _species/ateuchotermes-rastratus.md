@@ -38,9 +38,13 @@ ES — **耙痕无锐白蚁** (*Ateuchotermes rastratus*) es una especie del gé
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *rastratus*：拉丁文 rastratus（耙状的）
 
 EN — epithet *rastratus*: Latin rastratus (raked)
+
+ES — epithet *rastratus*: Del latín rastratus (rastrillado)
 
 <!-- src:S0018 -->
 

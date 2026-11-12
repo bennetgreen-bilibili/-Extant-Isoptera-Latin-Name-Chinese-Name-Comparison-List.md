@@ -38,9 +38,13 @@ ES — **蜾蠃无利器白蚁** (*Astalotermes eumenus*) es una especie del gé
 
 EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astalotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *eumenus*：希腊文 eu-（良）+ menos（精神），良性的
 
 EN — epithet *eumenus*: Greek eu- (well) + menos (spirit)
+
+ES — epithet *eumenus*: Del griego eu- (bien) + menos (ánimo)
 
 <!-- src:S0018 -->
 

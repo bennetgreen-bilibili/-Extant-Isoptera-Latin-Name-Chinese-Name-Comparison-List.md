@@ -38,9 +38,13 @@ ES — **雅致土白蚁** (*Odontotermes lautus*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *lautus*：拉丁文 lautus（精美的、优雅的）
 
 EN — epithet *lautus*: Latin lautus (elegant)
+
+ES — epithet *lautus*: Del latín lautus (elegante)
 
 <!-- src:S0018 -->
 

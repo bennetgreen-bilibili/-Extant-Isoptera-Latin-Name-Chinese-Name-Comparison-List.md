@@ -35,9 +35,13 @@ ES — **斯奈德楹白蚁** (*Incisitermes snyderi*) es una especie del géner
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
+ES — *Incisitermes*: Del latín incisus (cortado, muescado) + termes.
+
 种加词 *snyderi*：以人名 Snyder 命名（美国白蚁学家 T. E. Snyder）
 
 EN — epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
+
+ES — epithet *snyderi*: En honor del taxónomo de termitas T. E. Snyder
 
 <!-- src:S0018 -->
 

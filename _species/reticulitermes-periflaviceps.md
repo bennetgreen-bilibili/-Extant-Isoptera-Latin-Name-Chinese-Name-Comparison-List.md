@@ -35,9 +35,13 @@ ES — **近黄胸散白蚁** (*Reticulitermes periflaviceps*) es una especie de
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *periflaviceps*：希腊文 peri-（周围）+ 拉丁文 flavus（黄）+ -ceps（头），周黄头
 
 EN — epithet *periflaviceps*: Greek peri- (around) + Latin flavus (yellow) + -ceps (head)
+
+ES — epithet *periflaviceps*: Del griego peri- (alrededor) + latín flavus (amarillo) + -ceps (cabeza)
 
 <!-- src:S0018 -->
 

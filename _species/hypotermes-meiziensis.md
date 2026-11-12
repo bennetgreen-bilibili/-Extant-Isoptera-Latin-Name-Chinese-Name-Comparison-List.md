@@ -38,9 +38,13 @@ ES — **梅子地白蚁** (*Hypotermes meiziensis*) es una especie del género 
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *meiziensis*：以云南梅子（Meizi，宁洱县）命名
 
 EN — epithet *meiziensis*: Named after Meizi, Ninger, Yunnan, China
+
+ES — epithet *meiziensis*: Por Meizi, Ninger, Yunnan, China
 
 <!-- src:S0018 -->
 

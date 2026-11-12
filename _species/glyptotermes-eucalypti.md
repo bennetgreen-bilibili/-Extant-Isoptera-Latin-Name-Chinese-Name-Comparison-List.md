@@ -37,9 +37,13 @@ ES — **桉树树白蚁** (*Glyptotermes eucalypti*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *eucalypti*：以桉属（Eucalyptus）命名（寄主植物）
 
 EN — epithet *eucalypti*: After the plant genus Eucalyptus
+
+ES — epithet *eucalypti*: Por el género vegetal Eucalyptus
 
 <!-- src:S0018 -->
 

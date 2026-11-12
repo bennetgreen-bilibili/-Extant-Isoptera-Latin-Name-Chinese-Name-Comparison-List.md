@@ -35,9 +35,13 @@ ES — **缙云杆白蚁** (*Stylotermes jinyunicus*) es una especie del género
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *jinyunicus*：以地名 缙云（重庆） 命名
 
 EN — epithet *jinyunicus*: Named after the locality Jinyun
+
+ES — epithet *jinyunicus*: Por la localidad de Jinyun
 
 <!-- src:S0018 -->
 

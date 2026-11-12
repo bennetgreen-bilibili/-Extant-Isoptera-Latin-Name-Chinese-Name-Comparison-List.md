@@ -37,9 +37,13 @@ ES — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) es una especie, y la
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *inopinatus*：拉丁文 inopinatus（意外的）
 
 EN — epithet *inopinatus*: Latin inopinatus (unexpected)
+
+ES — epithet *inopinatus*: Del latín inopinatus (inesperado)
 
 <!-- src:S0018 -->
 

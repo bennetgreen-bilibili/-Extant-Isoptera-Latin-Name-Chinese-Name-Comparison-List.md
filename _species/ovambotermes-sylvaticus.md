@@ -38,9 +38,13 @@ ES — **林地奥万博兰白蚁** (*Ovambotermes sylvaticus*) es la única esp
 
 EN — *Ovambotermes*: From the name Ovambo; -termes from Latin termes.
 
+ES — *Ovambotermes*: Del nombre Ovambo; -termes, del latín termes.
+
 种加词 *sylvaticus*：拉丁文 silvaticus（森林的，sylva=森林）
 
 EN — epithet *sylvaticus*: Latin silvaticus (of the forest, sylva = forest)
+
+ES — epithet *sylvaticus*: Latín silvaticus (del bosque, sylva = bosque)
 
 <!-- src:S0018 -->
 

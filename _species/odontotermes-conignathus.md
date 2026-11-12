@@ -38,9 +38,13 @@ ES — **锥颚土白蚁** (*Odontotermes conignathus*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *conignathus*：希腊文 kōnos（锥）+ gnathos（颚），锥颚
 
 EN — epithet *conignathus*: Greek kōnos (cone) + gnathos (jaw), cone-jawed
+
+ES — epithet *conignathus*: Del griego kōnos (cono) + gnathos (mandíbula), de mandíbulas cónicas
 
 <!-- src:S0018 -->
 

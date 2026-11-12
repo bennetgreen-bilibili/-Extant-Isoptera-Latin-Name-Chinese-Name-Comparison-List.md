@@ -35,9 +35,13 @@ ES — **公犊牛白蚁** (*Tauritermes vitulus*) es una especie del género *T
 
 EN — *Tauritermes*: From Latin taurus (bull) + termes.
 
+ES — *Tauritermes*: Del latín taurus (toro) + termes.
+
 种加词 *vitulus*：拉丁文 vitulus（小牛、牛犊）
 
 EN — epithet *vitulus*: Latin vitulus (calf)
+
+ES — epithet *vitulus*: Del latín vitulus (ternero)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **辛格斯特土白蚁** (*Odontotermes singsiti*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *singsiti*：以人名 Singsit（印度曼尼普尔姓氏）命名
 
 EN — epithet *singsiti*: Named after a person "Singsit" (Manipuri surname)
+
+ES — epithet *singsiti*: En honor de una persona «Singsit» (apellido manipurí)
 
 <!-- src:S0018 -->
 

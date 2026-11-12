@@ -38,9 +38,13 @@ ES — **砂拉越瓢白蚁** (*Bulbitermes sarawakensis*) es una especie del g�
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *sarawakensis*：以地名 沙捞越（马来西亚） 命名
 
 EN — epithet *sarawakensis*: Named after the locality Sarawak
+
+ES — epithet *sarawakensis*: Por la localidad de Sarawak
 
 <!-- src:S0018 -->
 

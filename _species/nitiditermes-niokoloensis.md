@@ -38,9 +38,13 @@ ES — **尼奥科洛净白蚁** (*Nitiditermes niokoloensis*) es una especie de
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *niokoloensis*：以塞内加尔尼奥科洛-科巴（Niokolo-Koba）命名
 
 EN — epithet *niokoloensis*: Named after Niokolo-Koba, Senegal
+
+ES — epithet *niokoloensis*: Por Niokolo-Koba, Senegal
 
 <!-- src:S0018 -->
 

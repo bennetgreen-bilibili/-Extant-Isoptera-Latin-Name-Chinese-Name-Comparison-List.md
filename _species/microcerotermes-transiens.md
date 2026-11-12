@@ -38,9 +38,13 @@ ES — **经过锯白蚁** (*Microcerotermes transiens*) es una especie del gén
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *transiens*：拉丁文/希腊文词根「trans」（横越）
 
 EN — epithet *transiens*: From the descriptive term 'trans' (trans-)
+
+ES — epithet *transiens*: Del término descriptivo «trans» (trans-)
 
 <!-- src:S0018 -->
 

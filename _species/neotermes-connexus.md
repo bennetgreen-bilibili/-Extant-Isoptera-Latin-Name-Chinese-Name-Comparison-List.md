@@ -37,9 +37,13 @@ ES — **连接新白蚁** (*Neotermes connexus*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *connexus*：拉丁文 connexus（连接的）
 
 EN — epithet *connexus*: Latin connexus (connected)
+
+ES — epithet *connexus*: Del latín connexus (conectado)
 
 <!-- src:S0018 -->
 

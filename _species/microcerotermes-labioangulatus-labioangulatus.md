@@ -39,9 +39,13 @@ ES — **指名亚种** (*Microcerotermes labioangulatus labioangulatus*) es una
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *labioangulatus*：拉丁文/希腊文 labioangul（唇）+ atus（具），指唇具
 
 EN — epithet *labioangulatus*: From labioangul (唇) + atus (具)
+
+ES — epithet *labioangulatus*: De labioangul (labio) + atus (provisto de)
 
 <!-- src:S0018 -->
 

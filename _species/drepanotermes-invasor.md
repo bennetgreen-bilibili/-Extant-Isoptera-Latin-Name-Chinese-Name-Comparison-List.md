@@ -38,9 +38,13 @@ ES — **入侵镰白蚁** (*Drepanotermes invasor*) es una especie del género 
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
+ES — *Drepanotermes*: Del griego drepanon (hoz) + latín termes.
+
 种加词 *invasor*：拉丁文 invasor（入侵者）
 
 EN — epithet *invasor*: Latin invasor (invader)
+
+ES — epithet *invasor*: Del latín invasor (invasor)
 
 <!-- src:S0018 -->
 

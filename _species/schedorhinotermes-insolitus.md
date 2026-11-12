@@ -35,9 +35,13 @@ ES — **异盟长鼻白蚁** (*Schedorhinotermes insolitus*) es una especie del
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *insolitus*：拉丁文 insolitus（异常的、不寻常的）
 
 EN — epithet *insolitus*: Latin insolitus (unusual)
+
+ES — epithet *insolitus*: Del latín insolitus (inusual)
 
 <!-- src:S0018 -->
 

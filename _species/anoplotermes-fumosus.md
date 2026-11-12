@@ -38,9 +38,13 @@ ES — **烟色解甲白蚁** (*Anoplotermes fumosus*) es una especie del géner
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *fumosus*：拉丁文 fumosus（烟色的、多烟的）
 
 EN — epithet *fumosus*: Latin fumosus (smoky)
+
+ES — epithet *fumosus*: Del latín fumosus (humeante)
 
 <!-- src:S0018 -->
 

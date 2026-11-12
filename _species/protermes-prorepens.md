@@ -38,9 +38,13 @@ ES — **前匍前白蚁** (*Protermes prorepens*) es una especie, y la especie 
 
 EN — *Protermes*: From Greek pro- (before) + Latin termes.
 
+ES — *Protermes*: Del griego pro- (antes) + latín termes.
+
 种加词 *prorepens*：拉丁文 prorepens（匍匐的）
 
 EN — epithet *prorepens*: Latin prorepens (creeping)
+
+ES — epithet *prorepens*: Del latín prorepens (que se arrastra)
 
 <!-- src:S0018 -->
 

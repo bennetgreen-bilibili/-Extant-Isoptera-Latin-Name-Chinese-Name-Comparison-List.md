@@ -35,9 +35,13 @@ ES — **阿布里新白蚁** (*Neotermes aburiensis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *aburiensis*：以地名 阿布里（加纳） 命名
 
 EN — epithet *aburiensis*: Named after the locality Abur
+
+ES — epithet *aburiensis*: Por la localidad de Abur
 
 <!-- src:S0018 -->
 

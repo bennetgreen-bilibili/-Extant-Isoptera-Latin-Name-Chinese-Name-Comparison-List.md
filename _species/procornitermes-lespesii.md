@@ -40,9 +40,13 @@ ES — **莱佩斯前角白蚁** (*Procornitermes lespesii*) es una especie del 
 
 EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
 
+ES — *Procornitermes*: Del griego pro- (antes) + latín cornu (cuerno) + termes.
+
 种加词 *lespesii*：以人名 Lespès（莱斯佩）命名（法国昆虫学家 Charles Lespès）
 
 EN — epithet *lespesii*: Named after Lespès (French entomologist Charles Lespès)
+
+ES — epithet *lespesii*: En honor de Lespès (entomólogo francés Charles Lespès)
 
 <!-- src:S0018 -->
 

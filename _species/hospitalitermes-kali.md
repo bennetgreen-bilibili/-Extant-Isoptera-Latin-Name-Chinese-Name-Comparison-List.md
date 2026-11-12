@@ -38,9 +38,13 @@ ES — **卡尔须白蚁** (*Hospitalitermes kali*) es una especie del género *
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *kali*：以神祇/人名 Kali（迦梨）命名
 
 EN — epithet *kali*: Named after Kali
+
+ES — epithet *kali*: En honor de Kali
 
 <!-- src:S0018 -->
 

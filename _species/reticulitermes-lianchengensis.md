@@ -35,9 +35,13 @@ ES — **连城散白蚁** (*Reticulitermes lianchengensis*) es una especie del 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *lianchengensis*：以地名 连城（福建） 命名
 
 EN — epithet *lianchengensis*: Named after the locality Liancheng
+
+ES — epithet *lianchengensis*: Por la localidad de Liancheng
 
 <!-- src:S0018 -->
 

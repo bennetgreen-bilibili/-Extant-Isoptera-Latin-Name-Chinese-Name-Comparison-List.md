@@ -38,9 +38,13 @@ ES — **埃默森唇白蚁** (*Labritermes emersoni*) es una especie del géner
 
 EN — *Labritermes*: From Latin labrum (upper lip) + termes.
 
+ES — *Labritermes*: Del latín labrum (labio superior) + termes.
+
 种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
 
 EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+ES — epithet *emersoni*: En honor del taxónomo de termitas A. E. Emerson
 
 <!-- src:S0018 -->
 

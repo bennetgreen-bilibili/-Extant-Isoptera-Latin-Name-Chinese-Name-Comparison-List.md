@@ -38,9 +38,13 @@ ES — **锡金钝颚白蚁** (*Ahmaditermes sikkimensis*) es una especie del g�
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *sikkimensis*：以地名 锡金 命名
 
 EN — epithet *sikkimensis*: Named after the locality Sikkim
+
+ES — epithet *sikkimensis*: Por la localidad de Sikkim
 
 <!-- src:S0018 -->
 

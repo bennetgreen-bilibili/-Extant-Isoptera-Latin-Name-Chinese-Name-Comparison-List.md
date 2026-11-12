@@ -38,9 +38,13 @@ ES — **大鼻瓢白蚁** (*Bulbitermes nasutus*) es una especie del género *B
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *nasutus*：拉丁文 nasutus（大鼻的、具鼻突的）
 
 EN — epithet *nasutus*: Latin nasutus (large-nosed)
+
+ES — epithet *nasutus*: Del latín nasutus (de nariz grande)
 
 <!-- src:S0018 -->
 

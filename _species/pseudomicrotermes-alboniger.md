@@ -38,9 +38,13 @@ ES — **白黑伪小白蚁** (*Pseudomicrotermes alboniger*) es la única espec
 
 EN — *Pseudomicrotermes*: From Greek pseudēs (false) + mikros (small) + Latin termes.
 
+ES — *Pseudomicrotermes*: Del griego pseudēs (falso) + mikros (pequeño) + latín termes.
+
 种加词 *alboniger*：拉丁文/希腊文 alboni（白）+ ger（具），指白具
 
 EN — epithet *alboniger*: From alboni (白) + ger (具)
+
+ES — epithet *alboniger*: De alboni (blanco) + ger (que lleva)
 
 <!-- src:S0018 -->
 

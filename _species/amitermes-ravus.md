@@ -38,9 +38,13 @@ ES — **茶色弓白蚁** (*Amitermes ravus*) es una especie del género *Amite
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *ravus*：拉丁文 ravus（灰黄褐色的）
 
 EN — epithet *ravus*: Latin ravus (greyish-yellow)
+
+ES — epithet *ravus*: Del latín ravus (grisáceo-amarillo)
 
 <!-- src:S0018 -->
 

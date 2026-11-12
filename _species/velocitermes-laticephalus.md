@@ -38,9 +38,13 @@ ES — **宽头快白蚁** (*Velocitermes laticephalus*) es una especie del gén
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *laticephalus*：拉丁文/希腊文词根「lat」（宽）
 
 EN — epithet *laticephalus*: From the descriptive term 'lat' (broad)
+
+ES — epithet *laticephalus*: Del término descriptivo «lat» (ancho)
 
 <!-- src:S0018 -->
 

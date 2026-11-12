@@ -38,9 +38,13 @@ ES — **优越聚白蚁** (*Syntermes praecellens*) es una especie del género 
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *praecellens*：拉丁文/希腊文词根「praecell」（卓越）
 
 EN — epithet *praecellens*: From the descriptive term 'praecell' (excellent)
+
+ES — epithet *praecellens*: Del término descriptivo «praecell» (excelente)
 
 <!-- src:S0018 -->
 

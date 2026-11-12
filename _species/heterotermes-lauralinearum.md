@@ -35,9 +35,13 @@ ES — **劳拉利纳异白蚁** (*Heterotermes lauralinearum*) es una especie d
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *lauralinearum*：词源未详；种加词由 laura（可能为人名 Laura，或拉丁语 laurus「月桂」）与 linearum（拉丁语 linearis「线状的」属格复数）组成，或指具线纹的特征。原始描述（Carrijo 2020, Syst. Entomol.）词源段未取到。
 
 EN — epithet *lauralinearum*: Etymology uncertain; laura (perhaps personal name Laura, or Latin laurus 'laurel') + linearum (Latin linearis 'line-like', genitive plural), perhaps referring to a lineate feature. Etymology not given in the original (Carrijo 2020).
+
+ES — epithet *lauralinearum*: Etimología incierta; laura (quizá el nombre propio Laura, o el latín laurus «laurel») + linearum (del latín linearis «en forma de línea», genitivo plural), quizá en referencia a un rasgo lineado. La descripción original (Carrijo 2020) no da la etimología.
 
 <!-- src:S0018 -->
 

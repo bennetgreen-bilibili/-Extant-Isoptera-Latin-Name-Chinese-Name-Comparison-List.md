@@ -35,9 +35,13 @@ ES — **松浦树白蚁** (*Glyptotermes matsuurai*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *matsuurai*：以人名 Matsuura（松浦，日本昆虫学家）命名
 
 EN — epithet *matsuurai*: Named after Matsuura (Japanese entomologist)
+
+ES — epithet *matsuurai*: En honor de Matsuura (entomólogo japonés)
 
 <!-- src:S0018 -->
 

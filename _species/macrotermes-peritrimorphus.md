@@ -38,9 +38,13 @@ ES — **近三型大白蚁** (*Macrotermes peritrimorphus*) es una especie del 
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *peritrimorphus*：希腊文 peri-（周围）+ tri-（三）+ morphē（形），周三形
 
 EN — epithet *peritrimorphus*: Greek peri- (around) + tri- (three) + morphē (form)
+
+ES — epithet *peritrimorphus*: Del griego peri- (alrededor) + tri- (tres) + morphē (forma)
 
 <!-- src:S0018 -->
 

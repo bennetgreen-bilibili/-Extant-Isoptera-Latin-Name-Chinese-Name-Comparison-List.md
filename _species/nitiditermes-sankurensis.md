@@ -40,9 +40,13 @@ ES — **桑库鲁净白蚁** (*Nitiditermes sankurensis*) es una especie del g�
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *sankurensis*：以地名 Sankuru（刚果）命名
 
 EN — epithet *sankurensis*: Named after Sankuru, Congo
+
+ES — epithet *sankurensis*: Por Sankuru, Congo
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **宽阔象白蚁** (*Nasutitermes latus*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *latus*：拉丁文 latus（宽）
 
 EN — epithet *latus*: Latin latus (broad)
+
+ES — epithet *latus*: Del latín latus (ancho)
 
 <!-- src:S0018 -->
 

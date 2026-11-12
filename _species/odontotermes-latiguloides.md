@@ -38,9 +38,13 @@ ES — **拟宽喉土白蚁** (*Odontotermes latiguloides*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *latiguloides*：拉丁文/希腊文 latigul（宽）+ oides（似），指宽似
 
 EN — epithet *latiguloides*: From latigul (宽) + oides (似)
+
+ES — epithet *latiguloides*: De latigul (ancho) + oides (semejante a)
 
 <!-- src:S0018 -->
 

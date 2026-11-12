@@ -35,9 +35,13 @@ ES — **小眼新白蚁** (*Neotermes microculatus*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *microculatus*：拉丁文 micro-（小）+ oculatus（具眼），具小眼
 
 EN — epithet *microculatus*: Latin micro- (small) + oculatus (eyed): small-eyed
+
+ES — epithet *microculatus*: Del latín micro- (pequeño) + oculatus (con ojos): de ojos pequeños
 
 <!-- src:S0018 -->
 

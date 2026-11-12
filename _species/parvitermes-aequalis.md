@@ -38,9 +38,13 @@ ES — **类似微白蚁** (*Parvitermes aequalis*) es una especie del género *
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
+ES — *Parvitermes*: Del latín parvus (pequeño) + termes.
+
 种加词 *aequalis*：拉丁文/希腊文 aequ（相等）+ alis（相关），指相等相关
 
 EN — epithet *aequalis*: From aequ (相等) + alis (相关)
+
+ES — epithet *aequalis*: De aequ (igual) + alis (relativo a)
 
 <!-- src:S0018 -->
 

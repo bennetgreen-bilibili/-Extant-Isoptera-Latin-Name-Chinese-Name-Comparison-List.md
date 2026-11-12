@@ -38,9 +38,13 @@ ES — **瓦窑地白蚁** (*Hypotermes wayaoensis*) es una especie del género 
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *wayaoensis*：以产地地名「瓦窑」命名（云南，具体行政区划待考）。
 
 EN — epithet *wayaoensis*: Named after the type locality Wayao, Yunnan, China.
+
+ES — epithet *wayaoensis*: Por la localidad tipo Wayao, Yunnan, China.
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **泰国树白蚁** (*Glyptotermes thailandis*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *thailandis*：地名：泰国
 
 EN — epithet *thailandis*: After Thailand
+
+ES — epithet *thailandis*: Por Tailandia
 
 <!-- src:S0018 -->
 

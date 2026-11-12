@@ -38,9 +38,13 @@ ES — **明亮白蚁** (*Termes splendens*) es una especie del género *Termes*
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *splendens*：拉丁文/希腊文词根「splend」（光彩）
 
 EN — epithet *splendens*: From the descriptive term 'splend' (splendid)
+
+ES — epithet *splendens*: Del término descriptivo «splend» (espléndido)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **球额等颚白蚁** (*Isognathotermes bulbifrons*) es una especie del 
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *bulbifrons*：拉丁文 bulbus（球茎）+ frons（额），球额
 
 EN — epithet *bulbifrons*: Latin bulbus (bulb) + frons (front), bulb-fronted
+
+ES — epithet *bulbifrons*: Del latín bulbus (bulbo) + frons (frente), de frente bulbosa
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **索科特拉弓白蚁** (*Amitermes socotrensis*) es una especie del g�
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *socotrensis*：以地名 索科特拉（也门） 命名
 
 EN — epithet *socotrensis*: Named after the locality Socotr
+
+ES — epithet *socotrensis*: Por la localidad de Socotra
 
 <!-- src:S0018 -->
 

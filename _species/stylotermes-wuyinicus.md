@@ -35,9 +35,13 @@ ES — **武夷杆白蚁** (*Stylotermes wuyinicus*) es una especie del género 
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
+ES — *Stylotermes*: Del griego stylos (pilar, estilo) + latín termes.
+
 种加词 *wuyinicus*：以地名 Wuyi 武夷（福建） 命名
 
 EN — epithet *wuyinicus*: Named after the locality Wuyi (Fujian, China)
+
+ES — epithet *wuyinicus*: Por la localidad de Wuyi (Fujian, China)
 
 <!-- src:S0018 -->
 

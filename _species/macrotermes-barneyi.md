@@ -38,9 +38,13 @@ ES — **黄翅大白蚁** (*Macrotermes barneyi*) es una especie del género *M
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *barneyi*：以人名 Barney 命名
 
 EN — epithet *barneyi*: Named after Barney
+
+ES — epithet *barneyi*: En honor de Barney
 
 <!-- src:S0018 -->
 

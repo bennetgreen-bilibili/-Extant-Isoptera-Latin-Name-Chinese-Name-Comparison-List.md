@@ -38,9 +38,13 @@ ES — **坦登象白蚁** (*Nasutitermes tandoni*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *tandoni*：以人名 Tandon（印度姓氏）命名
 
 EN — epithet *tandoni*: Named after a person "Tandon" (Indian surname)
+
+ES — epithet *tandoni*: En honor de una persona «Tandon» (apellido indio)
 
 <!-- src:S0018 -->
 

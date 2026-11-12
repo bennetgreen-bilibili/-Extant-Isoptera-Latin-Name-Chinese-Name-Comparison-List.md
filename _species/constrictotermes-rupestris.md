@@ -38,9 +38,13 @@ ES — **红色缩白蚁** (*Constrictotermes rupestris*) es una especie del gé
 
 EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
 
+ES — *Constrictotermes*: Del latín constrictus (constreñido) + termes.
+
 种加词 *rupestris*：拉丁文/希腊文词根「rupes」（岩）
 
 EN — epithet *rupestris*: From the descriptive term 'rupes' (rock)
+
+ES — epithet *rupestris*: Del término descriptivo «rupes» (roca)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **细颚弓白蚁** (*Amitermes leptognathus*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *leptognathus*：拉丁文/希腊文 lepto（细）+ gnathus（颚），指细颚
 
 EN — epithet *leptognathus*: From lepto (细) + gnathus (颚)
+
+ES — epithet *leptognathus*: De lepto (fino) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

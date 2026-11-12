@@ -38,9 +38,13 @@ ES — **川华扭白蚁** (*Sinocapritermes vicinus*) es una especie del géner
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *vicinus*：拉丁文 vicinus（邻近的）
 
 EN — epithet *vicinus*: Latin vicinus (neighbouring)
+
+ES — epithet *vicinus*: Del latín vicinus (vecino)
 
 <!-- src:S0018 -->
 

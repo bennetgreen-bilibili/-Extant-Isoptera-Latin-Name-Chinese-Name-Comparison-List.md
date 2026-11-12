@@ -38,9 +38,13 @@ ES — **博蒙特弓白蚁** (*Amitermes beaumonti*) es una especie del género
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *beaumonti*：以人名 Beaumont 命名
 
 EN — epithet *beaumonti*: Named after Beaumont
+
+ES — epithet *beaumonti*: En honor de Beaumont
 
 <!-- src:S0018 -->
 

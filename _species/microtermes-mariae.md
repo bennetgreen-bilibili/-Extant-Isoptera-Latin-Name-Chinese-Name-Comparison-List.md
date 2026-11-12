@@ -38,9 +38,13 @@ ES — **玛丽亚小白蚁** (*Microtermes mariae*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *mariae*：以人名 Maria 命名
 
 EN — epithet *mariae*: Named after a person (Maria)
+
+ES — epithet *mariae*: En honor de una persona (María)
 
 <!-- src:S0018 -->
 

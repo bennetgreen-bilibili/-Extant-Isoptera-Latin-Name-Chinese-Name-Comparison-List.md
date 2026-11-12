@@ -38,9 +38,13 @@ ES — **布永爪白蚁** (*Unguitermes bouilloni*) es una especie del género 
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *bouilloni*：以人名 Bouillon（André Bouillon）命名
 
 EN — epithet *bouilloni*: Named after André Bouillon
+
+ES — epithet *bouilloni*: En honor de André Bouillon
 
 <!-- src:S0018 -->
 

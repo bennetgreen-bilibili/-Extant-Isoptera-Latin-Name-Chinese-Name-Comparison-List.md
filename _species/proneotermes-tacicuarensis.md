@@ -35,9 +35,13 @@ ES — **塔西夸罗前新白蚁** (*Proneotermes tacicuarensis*) es una especi
 
 EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
 
+ES — *Proneotermes*: Del griego pro- (antes) + neos (nuevo) + latín termes.
+
 种加词 *tacicuarensis*：以地名 Tacicuaro（塔西夸罗，墨西哥米却肯州）命名
 
 EN — epithet *tacicuarensis*: Named after the locality Tacicuaro (Michoacán, Mexico)
+
+ES — epithet *tacicuarensis*: Por la localidad de Tacicuaro (Michoacán, México)
 
 <!-- src:S0018 -->
 

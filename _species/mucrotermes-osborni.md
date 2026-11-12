@@ -38,9 +38,13 @@ ES — **奥斯本锐尖白蚁** (*Mucrotermes osborni*) es una especie, y la es
 
 EN — *Mucrotermes*: From Latin mucro (sharp point) + termes.
 
+ES — *Mucrotermes*: Del latín mucro (punta aguda) + termes.
+
 种加词 *osborni*：以人名 Osborn 命名（美国昆虫学家 H. Osborn）
 
 EN — epithet *osborni*: Named after the entomologist H. Osborn
+
+ES — epithet *osborni*: En honor del entomólogo H. Osborn
 
 <!-- src:S0018 -->
 

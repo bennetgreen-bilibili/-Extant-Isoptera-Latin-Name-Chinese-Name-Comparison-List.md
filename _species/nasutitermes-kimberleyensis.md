@@ -38,9 +38,13 @@ ES — **金伯利象白蚁** (*Nasutitermes kimberleyensis*) es una especie del
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *kimberleyensis*：以地名 金伯利（澳大利亚） 命名
 
 EN — epithet *kimberleyensis*: Named after the locality Kimberley
+
+ES — epithet *kimberleyensis*: Por la localidad de Kimberley
 
 <!-- src:S0018 -->
 

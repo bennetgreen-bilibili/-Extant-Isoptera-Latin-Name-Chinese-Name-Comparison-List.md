@@ -38,9 +38,13 @@ ES — **阿劳若腹爆白蚁** (*Ruptitermes araujoi*) es una especie del gén
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
+ES — *Ruptitermes*: Del latín ruptus (roto, reventado) + termes.
+
 种加词 *araujoi*：以人名 araujo 命名（巴西白蚁学家 R. L. Araujo）
 
 EN — epithet *araujoi*: Named after 巴西白蚁学家 R. L. Araujo
+
+ES — epithet *araujoi*: En honor del termitólogo brasileño R. L. Araujo
 
 <!-- src:S0018 -->
 

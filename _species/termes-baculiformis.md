@@ -38,9 +38,13 @@ ES — **似巴舍尔白蚁** (*Termes baculiformis*) es una especie del género
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *baculiformis*：拉丁文 baculum（杖、杆）+ -formis（形），杖形
 
 EN — epithet *baculiformis*: Latin baculum (rod) + -formis (shaped), rod-shaped
+
+ES — epithet *baculiformis*: Del latín baculum (vara) + -formis (con forma de), con forma de vara
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **白背木白蚁** (*Kalotermes pallidinotum*) es una especie del géner
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *pallidinotum*：拉丁文/希腊文 pallidi（苍白）+ notum（背），指苍白背
 
 EN — epithet *pallidinotum*: From pallidi (苍白) + notum (背)
+
+ES — epithet *pallidinotum*: De pallidi (pálido) + notum (dorso)
 
 <!-- src:S0018 -->
 

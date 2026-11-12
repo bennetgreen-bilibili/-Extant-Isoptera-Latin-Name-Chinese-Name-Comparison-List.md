@@ -38,9 +38,13 @@ ES — **也门小白蚁** (*Microtermes yemenensis*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *yemenensis*：以地名 也门 命名
 
 EN — epithet *yemenensis*: Named after the locality Yemen
+
+ES — epithet *yemenensis*: Por la localidad de Yemen
 
 <!-- src:S0018 -->
 

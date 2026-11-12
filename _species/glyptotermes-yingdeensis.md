@@ -35,9 +35,13 @@ ES — **英德树白蚁** (*Glyptotermes yingdeensis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *yingdeensis*：以地名 英德（广东） 命名
 
 EN — epithet *yingdeensis*: Named after the locality Yingde
+
+ES — epithet *yingdeensis*: Por la localidad de Yingde
 
 <!-- src:S0018 -->
 

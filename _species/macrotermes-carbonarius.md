@@ -38,9 +38,13 @@ ES — **炭色大白蚁** (*Macrotermes carbonarius*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *carbonarius*：拉丁文 carbonarius（炭色的、与炭有关的）
 
 EN — epithet *carbonarius*: Latin carbonarius (charcoal, carbon-coloured)
+
+ES — epithet *carbonarius*: Del latín carbonarius (de carbón, de color carbón)
 
 <!-- src:S0018 -->
 

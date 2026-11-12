@@ -38,9 +38,13 @@ ES — **哈伯德象白蚁** (*Nasutitermes hubbardi*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *hubbardi*：以人名 Henry G. Hubbard（美国昆虫学家）命名
 
 EN — epithet *hubbardi*: Named after Henry G. Hubbard
+
+ES — epithet *hubbardi*: En honor de Henry G. Hubbard
 
 <!-- src:S0018 -->
 

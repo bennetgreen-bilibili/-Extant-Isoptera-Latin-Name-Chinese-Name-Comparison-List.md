@@ -38,9 +38,13 @@ ES — **西格象白蚁** (*Nasutitermes seghersi*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *seghersi*：以人名 Seghers 命名（具体指代待考）
 
 EN — epithet *seghersi*: Named after a person "Seghers" (identity unconfirmed)
+
+ES — epithet *seghersi*: En honor de una persona «Seghers» (identidad no confirmada)
 
 <!-- src:S0018 -->
 

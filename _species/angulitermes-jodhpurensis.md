@@ -38,9 +38,13 @@ ES — **焦特布尔角白蚁** (*Angulitermes jodhpurensis*) es una especie de
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *jodhpurensis*：以地名 焦特布尔（印度） 命名
 
 EN — epithet *jodhpurensis*: Named after the locality Jodhpur
+
+ES — epithet *jodhpurensis*: Por la localidad de Jodhpur
 
 <!-- src:S0018 -->
 

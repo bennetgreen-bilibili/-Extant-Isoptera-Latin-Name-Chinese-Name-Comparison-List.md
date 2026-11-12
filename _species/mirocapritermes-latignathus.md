@@ -38,9 +38,13 @@ ES — **宽颚瘤白蚁** (*Mirocapritermes latignathus*) es una especie del g�
 
 EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
 
+ES — *Mirocapritermes*: Del latín mirus (maravilloso) + caper (cabra) + termes.
+
 种加词 *latignathus*：拉丁文 latus（宽）+ 希腊文 gnathos（颚），宽颚
 
 EN — epithet *latignathus*: Latin latus (broad) + Greek gnathos (jaw), broad-jawed
+
+ES — epithet *latignathus*: Del latín latus (ancho) + del griego gnathos (mandíbula), de mandíbulas anchas
 
 <!-- src:S0018 -->
 

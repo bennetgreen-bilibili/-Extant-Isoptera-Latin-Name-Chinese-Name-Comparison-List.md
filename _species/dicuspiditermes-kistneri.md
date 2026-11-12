@@ -38,9 +38,13 @@ ES — **基斯特纳突扭白蚁** (*Dicuspiditermes kistneri*) es una especie 
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
+ES — *Dicuspiditermes*: Del latín di- (dos) + cuspis (punta) + termes.
+
 种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
 
 EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+ES — epithet *kistneri*: En honor del entomólogo D. H. Kistner
 
 <!-- src:S0018 -->
 

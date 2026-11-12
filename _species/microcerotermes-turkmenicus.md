@@ -38,9 +38,13 @@ ES — **土库曼锯白蚁** (*Microcerotermes turkmenicus*) es una especie del
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *turkmenicus*：以地名 Turkmenistan（土库曼斯坦）命名
 
 EN — epithet *turkmenicus*: Named after Turkmenistan
+
+ES — epithet *turkmenicus*: Por Turkmenistán
 
 <!-- src:S0018 -->
 

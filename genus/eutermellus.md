@@ -57,6 +57,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名由希腊文 eu-（良好、真）与 termes（白蚁）+ 拉丁文指小后缀 -ellus 组合。</p>
 <p class="etymology-en fact-en" lang="en">From Greek eu- (well) + termes + Latin diminutive -ellus.</p>
+<p class="etymology-es fact-es" lang="es">Del griego eu- (bien) + termes + diminutivo latino -ellus.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

@@ -38,9 +38,13 @@ ES — **湄索德大白蚁** (*Macrotermes maesodensis*) es una especie del gé
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *maesodensis*：以泰国湄索（Mae Sot / Maesod）命名
 
 EN — epithet *maesodensis*: Named after Mae Sot, Thailand
+
+ES — epithet *maesodensis*: Por Mae Sot, Tailandia
 
 <!-- src:S0018 -->
 

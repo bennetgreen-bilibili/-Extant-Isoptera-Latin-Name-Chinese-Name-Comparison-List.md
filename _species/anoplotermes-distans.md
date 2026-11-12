@@ -38,9 +38,13 @@ ES — **遥远解甲白蚁** (*Anoplotermes distans*) es una especie del géner
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *distans*：拉丁文 distans（远离的）
 
 EN — epithet *distans*: Latin distans (distant)
+
+ES — epithet *distans*: Del latín distans (distante)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **凹额缩白蚁** (*Constrictotermes cavifrons*) es una especie del gé
 
 EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
 
+ES — *Constrictotermes*: Del latín constrictus (constreñido) + termes.
+
 种加词 *cavifrons*：拉丁文 cavus（凹）+ frons（额），凹额
 
 EN — epithet *cavifrons*: Latin cavus (hollow) + frons (front), hollow-fronted
+
+ES — epithet *cavifrons*: Del latín cavus (hueco) + frons (frente), de frente hueca
 
 <!-- src:S0018 -->
 

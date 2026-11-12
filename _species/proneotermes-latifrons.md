@@ -35,9 +35,13 @@ ES — **宽额前新白蚁** (*Proneotermes latifrons*) es una especie del gén
 
 EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
 
+ES — *Proneotermes*: Del griego pro- (antes) + neos (nuevo) + latín termes.
+
 种加词 *latifrons*：拉丁文/希腊文 lati（宽）+ frons（额），指宽额
 
 EN — epithet *latifrons*: From lati (宽) + frons (额)
+
+ES — epithet *latifrons*: De lati (ancho) + frons (frente)
 
 <!-- src:S0018 -->
 

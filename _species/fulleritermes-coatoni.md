@@ -38,9 +38,13 @@ ES — **科顿富勒白蚁** (*Fulleritermes coatoni*) es una especie del géne
 
 EN — *Fulleritermes*: Named after the entomologist C. Fuller; -termes from Latin termes.
 
+ES — *Fulleritermes*: En honor del entomólogo C. Fuller; -termes, del latín termes.
+
 种加词 *coatoni*：以 W.G.H. Coaton（南非白蚁学家）命名
 
 EN — epithet *coatoni*: Named after W.G.H. Coaton
+
+ES — epithet *coatoni*: En honor de W.G.H. Coaton
 
 <!-- src:S0018 -->
 

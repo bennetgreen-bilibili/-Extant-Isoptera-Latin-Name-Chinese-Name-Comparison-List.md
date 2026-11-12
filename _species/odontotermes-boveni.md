@@ -38,9 +38,13 @@ ES — **博韦土白蚁** (*Odontotermes boveni*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *boveni*：以人名 van Boven 命名
 
 EN — epithet *boveni*: Named after van Boven
+
+ES — epithet *boveni*: En honor de van Boven
 
 <!-- src:S0018 -->
 

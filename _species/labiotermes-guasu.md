@@ -38,9 +38,13 @@ ES — **大厚唇白蚁** (*Labiotermes guasu*) es una especie del género *Lab
 
 EN — *Labiotermes*: From Latin labium (lip) + termes.
 
+ES — *Labiotermes*: Del latín labium (labio) + termes.
+
 种加词 *guasu*：图皮语 -guasu（大）
 
 EN — epithet *guasu*: Tupi -guasu (large)
+
+ES — epithet *guasu*: Del tupí -guasu (grande)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **科尔波弱尔象白蚁** (*Nasutitermes corporaali*) es una especie d
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *corporaali*：以人名 Corporaal（J. B. Corporaal）命名
 
 EN — epithet *corporaali*: Named after J. B. Corporaal
+
+ES — epithet *corporaali*: En honor de J. B. Corporaal
 
 <!-- src:S0018 -->
 

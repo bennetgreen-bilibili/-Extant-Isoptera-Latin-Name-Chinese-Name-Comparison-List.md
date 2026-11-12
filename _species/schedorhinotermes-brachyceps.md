@@ -35,9 +35,13 @@ ES — **短头长鼻白蚁** (*Schedorhinotermes brachyceps*) es una especie de
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *brachyceps*：拉丁文/希腊文 brachy（短）+ ceps（头），指短头
 
 EN — epithet *brachyceps*: From brachy (短) + ceps (头)
+
+ES — epithet *brachyceps*: De brachy (corto) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **金黄皱白蚁** (*Rugitermes flavicinctus*) es una especie del géner
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *flavicinctus*：拉丁文/希腊文词根「flav」（黄）
 
 EN — epithet *flavicinctus*: From the descriptive term 'flav' (yellow)
+
+ES — epithet *flavicinctus*: Del término descriptivo «flav» (amarillo)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **孟定地白蚁** (*Hypotermes mengdingensis*) es una especie del géne
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *mengdingensis*：以地名 孟定（云南） 命名
 
 EN — epithet *mengdingensis*: Named after the locality Mengding
+
+ES — epithet *mengdingensis*: Por la localidad de Mengding
 
 <!-- src:S0018 -->
 

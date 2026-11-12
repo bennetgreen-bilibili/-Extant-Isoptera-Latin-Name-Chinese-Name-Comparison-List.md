@@ -38,9 +38,13 @@ ES — **大型锯白蚁** (*Microcerotermes major*) es una especie del género 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *major*：拉丁文 major（较大）
 
 EN — epithet *major*: Latin major (larger)
+
+ES — epithet *major*: Del latín major (mayor)
 
 <!-- src:S0018 -->
 

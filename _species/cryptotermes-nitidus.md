@@ -35,9 +35,13 @@ ES — **亮头堆砂白蚁** (*Cryptotermes nitidus*) es una especie del géner
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *nitidus*：拉丁文 nitidus（光泽）
 
 EN — epithet *nitidus*: Latin nitidus (shining)
+
+ES — epithet *nitidus*: Del latín nitidus (brillante)
 
 <!-- src:S0018 -->
 

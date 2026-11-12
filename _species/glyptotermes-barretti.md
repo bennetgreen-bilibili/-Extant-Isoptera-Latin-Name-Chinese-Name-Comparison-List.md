@@ -35,9 +35,13 @@ ES — **巴雷特树白蚁** (*Glyptotermes barretti*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *barretti*：以人名 Barrett 命名
 
 EN — epithet *barretti*: Named after Barrett
+
+ES — epithet *barretti*: En honor de Barrett
 
 <!-- src:S0018 -->
 

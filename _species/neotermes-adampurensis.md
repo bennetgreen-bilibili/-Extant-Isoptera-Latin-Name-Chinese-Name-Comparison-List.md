@@ -35,9 +35,13 @@ ES — **阿达姆普尔新白蚁** (*Neotermes adampurensis*) es una especie de
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *adampurensis*：以地名 阿达姆普尔（印度） 命名
 
 EN — epithet *adampurensis*: Named after the locality Adampur
+
+ES — epithet *adampurensis*: Por la localidad de Adampur
 
 <!-- src:S0018 -->
 

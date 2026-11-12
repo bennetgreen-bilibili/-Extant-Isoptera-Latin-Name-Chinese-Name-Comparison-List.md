@@ -38,9 +38,13 @@ ES — **塔尔瓦尔稀白蚁** (*Speculitermes dharwarensis*) es una especie d
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *dharwarensis*：以地名 达尔瓦德（印度） 命名
 
 EN — epithet *dharwarensis*: Named after the locality Dharwar
+
+ES — epithet *dharwarensis*: Por la localidad de Dharwar
 
 <!-- src:S0018 -->
 

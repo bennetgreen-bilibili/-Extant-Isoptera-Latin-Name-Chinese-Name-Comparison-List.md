@@ -38,9 +38,13 @@ ES — **瓦森巴拉节白蚁** (*Noditermes wasambaricus*) es una especie del 
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *wasambaricus*：以地名 Wasambara 乌桑巴拉（坦桑尼亚）命名
 
 EN — epithet *wasambaricus*: Named after the locality Wasambara (Usambara, Tanzania)
+
+ES — epithet *wasambaricus*: Por la localidad de Wasambara (Usambara, Tanzania)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **球头始钩白蚁** (*Protohamitermes globiceps*) es la única especie
 
 EN — *Protohamitermes*: From Greek prōtos (first) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Protohamitermes*: Del griego prōtos (primero) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *globiceps*：拉丁文/希腊文 globi（球）+ ceps（头），指球头
 
 EN — epithet *globiceps*: From globi (球) + ceps (头)
+
+ES — epithet *globiceps*: De globi (globo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

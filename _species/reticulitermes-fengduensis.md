@@ -35,9 +35,13 @@ ES — **丰都散白蚁** (*Reticulitermes fengduensis*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *fengduensis*：以地名 丰都（重庆） 命名
 
 EN — epithet *fengduensis*: Named after the locality Fengdu
+
+ES — epithet *fengduensis*: Por la localidad de Fengdu
 
 <!-- src:S0018 -->
 

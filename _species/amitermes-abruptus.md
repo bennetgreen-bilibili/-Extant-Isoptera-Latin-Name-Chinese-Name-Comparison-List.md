@@ -38,9 +38,13 @@ ES — **陡额弓白蚁** (*Amitermes abruptus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *abruptus*：拉丁文 abruptus（突然的、陡断的）
 
 EN — epithet *abruptus*: Latin abruptus (abrupt)
+
+ES — epithet *abruptus*: Del latín abruptus (abrupto)
 
 <!-- src:S0018 -->
 

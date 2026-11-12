@@ -38,9 +38,13 @@ ES — **努瓦罗腐殖白蚁** (*Humutermes noiroti*) es una especie del géne
 
 EN — *Humutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Humutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *noiroti*：以人名 noirot 命名（法国白蚁生物学家 C. Noirot）
 
 EN — epithet *noiroti*: Named after 法国白蚁生物学家 C. Noirot
+
+ES — epithet *noiroti*: En honor de C. Noirot (biólogo francés de termitas)
 
 <!-- src:S0018 -->
 

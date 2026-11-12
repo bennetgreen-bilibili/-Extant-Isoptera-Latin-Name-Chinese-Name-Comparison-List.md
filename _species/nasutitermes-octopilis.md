@@ -38,9 +38,13 @@ ES — **八毛象白蚁** (*Nasutitermes octopilis*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *octopilis*：拉丁文 octo（八）+ pilus（毛），八毛
 
 EN — epithet *octopilis*: Latin octo (eight) + pilus (hair), eight-haired
+
+ES — epithet *octopilis*: Del latín octo (ocho) + pilus (pelo), de ocho pelos
 
 <!-- src:S0018 -->
 

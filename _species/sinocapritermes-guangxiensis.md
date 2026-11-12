@@ -38,9 +38,13 @@ ES — **桂华扭白蚁** (*Sinocapritermes guangxiensis*) es una especie del g
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *guangxiensis*：以地名 广西 命名
 
 EN — epithet *guangxiensis*: Named after the locality Guangx
+
+ES — epithet *guangxiensis*: Por la localidad de Guangx
 
 <!-- src:S0018 -->
 

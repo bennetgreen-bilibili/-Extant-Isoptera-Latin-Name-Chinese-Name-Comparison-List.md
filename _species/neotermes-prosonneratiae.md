@@ -35,9 +35,13 @@ ES — **前海桑新白蚁** (*Neotermes prosonneratiae*) es una especie del g�
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *prosonneratiae*：以海桑属（Sonneratia）命名（pro-前缀）
 
 EN — epithet *prosonneratiae*: After the plant genus Sonneratia
+
+ES — epithet *prosonneratiae*: Por el género vegetal Sonneratia
 
 <!-- src:S0018 -->
 

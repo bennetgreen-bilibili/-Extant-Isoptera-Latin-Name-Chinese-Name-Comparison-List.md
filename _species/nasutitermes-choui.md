@@ -38,9 +38,13 @@ ES — **周氏象白蚁** (*Nasutitermes choui*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *choui*：以人名 Chou 命名（中国昆虫学家周尧）
 
 EN — epithet *choui*: Named after the Chinese entomologist Chou Io
+
+ES — epithet *choui*: En honor del entomólogo chino Chou Io
 
 <!-- src:S0018 -->
 

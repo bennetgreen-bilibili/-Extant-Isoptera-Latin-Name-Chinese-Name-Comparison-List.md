@@ -35,9 +35,13 @@ ES — **长带乳白蚁** (*Coptotermes longistriatus*) es una especie del gén
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *longistriatus*：拉丁文 longi-（长）+ striatus（具条纹），具长条纹
 
 EN — epithet *longistriatus*: Latin longi- (long) + striatus (striated): long-striated
+
+ES — epithet *longistriatus*: Del latín longi- (largo) + striatus (estriado): de estrías largas
 
 <!-- src:S0018 -->
 

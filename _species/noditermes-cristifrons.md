@@ -38,9 +38,13 @@ ES — **毛额节白蚁** (*Noditermes cristifrons*) es una especie del género
 
 EN — *Noditermes*: From Latin nodus (knot, node) + termes.
 
+ES — *Noditermes*: Del latín nodus (nudo, nódulo) + termes.
+
 种加词 *cristifrons*：拉丁文/希腊文 cristi（冠）+ frons（额），指冠额
 
 EN — epithet *cristifrons*: From cristi (冠) + frons (额)
+
+ES — epithet *cristifrons*: De cristi (cresta) + frons (frente)
 
 <!-- src:S0018 -->
 

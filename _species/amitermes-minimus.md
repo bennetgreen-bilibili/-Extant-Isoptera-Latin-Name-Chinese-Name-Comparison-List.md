@@ -38,9 +38,13 @@ ES — **最小弓白蚁** (*Amitermes minimus*) es una especie del género *Ami
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *minimus*：拉丁文 minimus（最小）
 
 EN — epithet *minimus*: Latin minimus (smallest)
+
+ES — epithet *minimus*: Del latín minimus (el menor)
 
 <!-- src:S0018 -->
 

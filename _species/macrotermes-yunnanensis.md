@@ -38,9 +38,13 @@ ES — **云南大白蚁** (*Macrotermes yunnanensis*) es una especie del géner
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *yunnanensis*：地名：云南（中国）
 
 EN — epithet *yunnanensis*: After Yunnan (China)
+
+ES — epithet *yunnanensis*: Por Yunnan (China)
 
 <!-- src:S0018 -->
 

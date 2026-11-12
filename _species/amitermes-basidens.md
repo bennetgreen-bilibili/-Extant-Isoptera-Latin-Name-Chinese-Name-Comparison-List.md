@@ -38,9 +38,13 @@ ES — **基齿弓白蚁** (*Amitermes basidens*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *basidens*：拉丁文/希腊文词根「bas」（基）
 
 EN — epithet *basidens*: From the descriptive term 'bas' (base)
+
+ES — epithet *basidens*: Del término descriptivo «bas» (base)
 
 <!-- src:S0018 -->
 

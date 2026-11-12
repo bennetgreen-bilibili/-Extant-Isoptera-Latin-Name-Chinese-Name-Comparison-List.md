@@ -37,9 +37,13 @@ ES — **黑树白蚁** (*Glyptotermes fuscus*) es una especie del género *Glyp
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *fuscus*：拉丁文 fuscus（暗褐）
 
 EN — epithet *fuscus*: Latin fuscus (dark, dusky)
+
+ES — epithet *fuscus*: Del latín fuscus (oscuro, moreno)
 
 <!-- src:S0018 -->
 

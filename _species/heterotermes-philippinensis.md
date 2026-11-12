@@ -35,9 +35,13 @@ ES — **菲律宾异白蚁** (*Heterotermes philippinensis*) es una especie del
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
+ES — *Heterotermes*: Del griego heteros (diferente) + latín termes.
+
 种加词 *philippinensis*：以地名 菲律宾 命名
 
 EN — epithet *philippinensis*: Named after the locality Philippin
+
+ES — epithet *philippinensis*: Por la localidad de Filipinas
 
 <!-- src:S0018 -->
 

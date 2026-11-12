@@ -38,9 +38,13 @@ ES — **姆巴尔马约善白蚁** (*Amicotermes mbalmayoensis*) es una especie
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amicotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *mbalmayoensis*：以喀麦隆姆巴尔马约（Mbalmayo）命名
 
 EN — epithet *mbalmayoensis*: Named after Mbalmayo, Cameroon
+
+ES — epithet *mbalmayoensis*: Por Mbalmayo, Camerún
 
 <!-- src:S0018 -->
 

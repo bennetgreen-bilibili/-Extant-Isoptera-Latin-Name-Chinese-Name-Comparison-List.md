@@ -40,9 +40,13 @@ ES — **真弓颚西尔韦斯特里白蚁** (*Silvestritermes euamignathus*) es
 
 EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
 
+ES — *Silvestritermes*: En honor del entomólogo F. Silvestri; -termes, del latín termes.
+
 种加词 *euamignathus*：希腊文 eu-（真、良）+ 拉丁文 amicus（亲近）？+ gnathos（颚），真颚
 
 EN — epithet *euamignathus*: Greek eu- (well) + gnathos (jaw)
+
+ES — epithet *euamignathus*: Del griego eu- (bien) + gnathos (mandíbula)
 
 <!-- src:S0018 -->
 

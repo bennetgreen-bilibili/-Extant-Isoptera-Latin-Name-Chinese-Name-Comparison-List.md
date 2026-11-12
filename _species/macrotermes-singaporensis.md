@@ -38,9 +38,13 @@ ES — **新加坡大白蚁** (*Macrotermes singaporensis*) es una especie del g
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
+ES — *Macrotermes*: Del griego makros (grande) + latín termes, «termita grande».
+
 种加词 *singaporensis*：以地名 Singapore（新加坡）命名
 
 EN — epithet *singaporensis*: Named after Singapore
+
+ES — epithet *singaporensis*: Por Singapur
 
 <!-- src:S0018 -->
 

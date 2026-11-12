@@ -38,9 +38,13 @@ ES — **顺从直白蚁** (*Orthotermes mansuetus*) es una especie del género 
 
 EN — *Orthotermes*: From Greek orthos (straight) + Latin termes.
 
+ES — *Orthotermes*: Del griego orthos (recto) + latín termes.
+
 种加词 *mansuetus*：拉丁文 mansuetus（温顺的、驯服的）
 
 EN — epithet *mansuetus*: Latin mansuetus (tame, gentle)
+
+ES — epithet *mansuetus*: Del latín mansuetus (manso, dócil)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **惊奇蛇白蚁** (*Ophiotermes mirandus*) es una especie del género *
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
+ES — *Ophiotermes*: Del griego ophis (serpiente) + latín termes.
+
 种加词 *mirandus*：拉丁文 mirandus（令人惊叹的）
 
 EN — epithet *mirandus*: Latin mirandus (wonderful)
+
+ES — epithet *mirandus*: Del latín mirandus (admirable)
 
 <!-- src:S0018 -->
 

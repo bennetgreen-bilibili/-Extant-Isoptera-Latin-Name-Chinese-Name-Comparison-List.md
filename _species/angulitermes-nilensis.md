@@ -38,9 +38,13 @@ ES — **尼罗角白蚁** (*Angulitermes nilensis*) es una especie del género 
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
+ES — *Angulitermes*: Del latín angulus (ángulo, esquina) + termes.
+
 种加词 *nilensis*：以地名 尼兰布尔（印度） 命名
 
 EN — epithet *nilensis*: Named after the locality Nil
+
+ES — epithet *nilensis*: Por la localidad del Nilo
 
 <!-- src:S0018 -->
 

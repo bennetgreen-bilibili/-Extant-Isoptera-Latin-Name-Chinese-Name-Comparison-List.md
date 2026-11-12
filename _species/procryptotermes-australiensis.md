@@ -35,9 +35,13 @@ ES — **澳大利亚前砂白蚁** (*Procryptotermes australiensis*) es una esp
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *australiensis*：以地名 Australia（澳大利亚）命名
 
 EN — epithet *australiensis*: Named after Australia
+
+ES — epithet *australiensis*: Por Australia
 
 <!-- src:S0018 -->
 

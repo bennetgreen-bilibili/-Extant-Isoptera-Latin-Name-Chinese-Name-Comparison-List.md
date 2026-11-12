@@ -38,9 +38,13 @@ ES — **小贫土白蚁** (*Odontotermes pauperans*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *pauperans*：拉丁文 pauperans（致贫的）
 
 EN — epithet *pauperans*: Latin pauperans (impoverishing)
+
+ES — epithet *pauperans*: Del latín pauperans (que empobrece)
 
 <!-- src:S0018 -->
 

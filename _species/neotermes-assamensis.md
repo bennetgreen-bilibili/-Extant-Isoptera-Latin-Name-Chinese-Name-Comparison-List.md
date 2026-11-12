@@ -35,9 +35,13 @@ ES — **阿萨姆新白蚁** (*Neotermes assamensis*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *assamensis*：以地名 阿萨姆（印度） 命名
 
 EN — epithet *assamensis*: Named after the locality Assam
+
+ES — epithet *assamensis*: Por la localidad de Assam
 
 <!-- src:S0018 -->
 

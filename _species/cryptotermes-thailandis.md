@@ -35,9 +35,13 @@ ES — **泰国堆砂白蚁** (*Cryptotermes thailandis*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *thailandis*：地名：泰国
 
 EN — epithet *thailandis*: After Thailand
+
+ES — epithet *thailandis*: Por Tailandia
 
 <!-- src:S0018 -->
 

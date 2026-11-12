@@ -38,9 +38,13 @@ ES — **乌尔巴尼亮白蚁** (*Euhamitermes urbanii*) es una especie del gé
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
+ES — *Euhamitermes*: Del griego eu- (bien) + (hami, quizá el latín hamus «anzuelo») + termes.
+
 种加词 *urbanii*：以人名 Urban（具体身份待考） 命名
 
 EN — epithet *urbanii*: Named after Urban
+
+ES — epithet *urbanii*: En honor de Urban
 
 <!-- src:S0018 -->
 

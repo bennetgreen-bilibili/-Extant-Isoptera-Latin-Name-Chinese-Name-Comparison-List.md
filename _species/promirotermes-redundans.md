@@ -38,9 +38,13 @@ ES — **常见前奇白蚁** (*Promirotermes redundans*) es una especie del gé
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *redundans*：拉丁文 redundans（多余的、溢出的）
 
 EN — epithet *redundans*: Latin redundans (redundant)
+
+ES — epithet *redundans*: Del latín redundans (redundante)
 
 <!-- src:S0018 -->
 

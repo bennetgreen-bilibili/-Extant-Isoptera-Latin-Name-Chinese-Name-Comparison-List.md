@@ -35,9 +35,13 @@ ES — **大别山散白蚁** (*Reticulitermes dabieshanensis*) es una especie d
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *dabieshanensis*：以地名大别山（Dabieshan）命名
 
 EN — epithet *dabieshanensis*: Named after the locality Dabieshan
+
+ES — epithet *dabieshanensis*: Por la localidad de Dabieshan
 
 <!-- src:S0018 -->
 

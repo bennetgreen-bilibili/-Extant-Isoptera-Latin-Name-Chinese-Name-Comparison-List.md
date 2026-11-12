@@ -35,9 +35,13 @@ ES — **博顿乳白蚁** (*Coptotermes boetonensis*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *boetonensis*：以地名 布通（印度尼西亚） 命名
 
 EN — epithet *boetonensis*: Named after the locality Boeton
+
+ES — epithet *boetonensis*: Por la localidad de Boeton
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **栖丛近扭白蚁** (*Pericapritermes dumicola*) es una especie del g�
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *dumicola*：拉丁文 dumus（灌丛）+ -cola（栖居者），栖于灌丛
 
 EN — epithet *dumicola*: Latin dumus (thicket) + -cola (dweller): thicket-dwelling
+
+ES — epithet *dumicola*: Del latín dumus (matorral) + -cola (habitante): que habita en matorrales
 
 <!-- src:S0018 -->
 

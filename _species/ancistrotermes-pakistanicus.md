@@ -40,9 +40,13 @@ ES — **巴基斯坦钩白蚁** (*Ancistrotermes pakistanicus*) es una especie 
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
+ES — *Ancistrotermes*: Del griego ankistron (gancho) + latín termes.
+
 种加词 *pakistanicus*：地名：巴基斯坦
 
 EN — epithet *pakistanicus*: After Pakistan
+
+ES — epithet *pakistanicus*: Por Pakistán
 
 <!-- src:S0018 -->
 

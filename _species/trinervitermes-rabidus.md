@@ -38,9 +38,13 @@ ES — **狂猛三脉白蚁** (*Trinervitermes rabidus*) es una especie del gén
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *rabidus*：拉丁文 rabidus（狂暴的）
 
 EN — epithet *rabidus*: Latin rabidus (rabid)
+
+ES — epithet *rabidus*: Del latín rabidus (rabioso)
 
 <!-- src:S0018 -->
 

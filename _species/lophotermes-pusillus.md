@@ -38,9 +38,13 @@ ES — **极小小脊突白蚁** (*Lophotermes pusillus*) es una especie del gé
 
 EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
 
+ES — *Lophotermes*: Del griego lophos (cresta, cima) + latín termes.
+
 种加词 *pusillus*：拉丁文/希腊文词根「pusill」（很小）
 
 EN — epithet *pusillus*: From the descriptive term 'pusill' (tiny)
+
+ES — epithet *pusillus*: Del término descriptivo «pusill» (diminuto)
 
 <!-- src:S0018 -->
 

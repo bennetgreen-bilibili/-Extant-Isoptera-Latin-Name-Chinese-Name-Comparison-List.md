@@ -35,9 +35,13 @@ ES — **巴布亚新白蚁** (*Neotermes papua*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *papua*：地名：巴布亚（新几内亚）
 
 EN — epithet *papua*: After Papua (New Guinea)
+
+ES — epithet *papua*: Por Papúa (Nueva Guinea)
 
 <!-- src:S0018 -->
 

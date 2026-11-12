@@ -38,9 +38,13 @@ ES — **无巢直颚白蚁** (*Orthognathotermes okeyma*) es una especie del g�
 
 EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
 
+ES — *Orthognathotermes*: Del griego orthos (recto) + gnathos (mandíbula) + latín termes.
+
 种加词 *okeyma*：以地名 Okeyma 命名
 
 EN — epithet *okeyma*: Named after the locality Okeyma
+
+ES — epithet *okeyma*: Por la localidad de Okeyma
 
 <!-- src:S0018 -->
 

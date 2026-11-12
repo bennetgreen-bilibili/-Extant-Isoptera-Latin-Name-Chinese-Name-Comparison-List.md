@@ -38,9 +38,13 @@ ES — **安汶锯白蚁** (*Microcerotermes amboinensis*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *amboinensis*：以地名 安汶（印度尼西亚） 命名
 
 EN — epithet *amboinensis*: Named after the locality Amboin
+
+ES — epithet *amboinensis*: Por la localidad de Amboin
 
 <!-- src:S0018 -->
 

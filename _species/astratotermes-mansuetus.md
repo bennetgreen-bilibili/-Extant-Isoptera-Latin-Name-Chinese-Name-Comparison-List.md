@@ -38,9 +38,13 @@ ES — **驯服无刃白蚁** (*Astratotermes mansuetus*) es una especie del gé
 
 EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Astratotermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *mansuetus*：拉丁文 mansuetus（温顺的、驯服的）
 
 EN — epithet *mansuetus*: Latin mansuetus (tame, gentle)
+
+ES — epithet *mansuetus*: Del latín mansuetus (manso, dócil)
 
 <!-- src:S0018 -->
 

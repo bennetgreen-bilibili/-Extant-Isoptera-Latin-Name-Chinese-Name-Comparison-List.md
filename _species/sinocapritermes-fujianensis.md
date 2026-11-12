@@ -38,9 +38,13 @@ ES — **闽华扭白蚁** (*Sinocapritermes fujianensis*) es una especie del g�
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
+ES — *Sinocapritermes*: Del latín Sinae (China) + caper (cabra) + termes.
+
 种加词 *fujianensis*：以地名 福建 命名
 
 EN — epithet *fujianensis*: Named after the locality Fujian
+
+ES — epithet *fujianensis*: Por la localidad de Fujian
 
 <!-- src:S0018 -->
 

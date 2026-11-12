@@ -38,9 +38,13 @@ ES — **奇妙高跷白蚁** (*Grallatotermes admirabilus*) es una especie del 
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
+ES — *Grallatotermes*: Del latín grallator (zancudo) + termes.
+
 种加词 *admirabilus*：拉丁文 admirabilis（令人惊叹的）
 
 EN — epithet *admirabilus*: Latin admirabilis (admirable)
+
+ES — epithet *admirabilus*: Del latín admirabilis (admirable)
 
 <!-- src:S0018 -->
 

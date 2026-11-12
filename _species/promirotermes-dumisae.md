@@ -38,9 +38,13 @@ ES — **杜米萨前奇白蚁** (*Promirotermes dumisae*) es una especie del g�
 
 EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
 
+ES — *Promirotermes*: Del griego pro- (antes) + latín mirus (maravilloso) + termes.
+
 种加词 *dumisae*：以人名 Dumisa（非洲人名）命名
 
 EN — epithet *dumisae*: Named after Dumisa
+
+ES — epithet *dumisae*: En honor de Dumisa
 
 <!-- src:S0018 -->
 

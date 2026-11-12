@@ -38,9 +38,13 @@ ES — **五指山土白蚁** (*Odontotermes wuzhishanensis*) es una especie del
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *wuzhishanensis*：以地名 五指山（海南） 命名
 
 EN — epithet *wuzhishanensis*: Named after the locality Wuzhishan
+
+ES — epithet *wuzhishanensis*: Por la localidad de Wuzhishan
 
 <!-- src:S0018 -->
 

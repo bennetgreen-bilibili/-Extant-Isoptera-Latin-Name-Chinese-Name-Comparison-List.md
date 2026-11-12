@@ -39,9 +39,13 @@ ES — **丈量亚种** (*Pericapritermes appellans metata*) es una subespecie d
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *metata*：拉丁文 metatus（丈量的、量测的）
 
 EN — epithet *metata*: Latin metatus (measured out)
+
+ES — epithet *metata*: Del latín metatus (medido, demarcado)
 
 <!-- src:S0018 -->
 

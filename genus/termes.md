@@ -56,6 +56,7 @@ breadcrumb:
 <h2>词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span></h2>
 <p>属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。</p>
 <p class="etymology-en fact-en" lang="en">From Latin termes (woodworm, termite), the type genus.</p>
+<p class="etymology-es fact-es" lang="es">Del latín termes (carcoma, termita), el género tipo.</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 <p class="fact-en" lang="en">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>

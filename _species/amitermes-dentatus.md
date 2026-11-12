@@ -40,9 +40,13 @@ ES — **具齿弓白蚁** (*Amitermes dentatus*) es una especie del género *Am
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *dentatus*：拉丁文 dentatus（有齿的）
 
 EN — epithet *dentatus*: Latin dentatus (toothed)
+
+ES — epithet *dentatus*: Del latín dentatus (dentado)
 
 <!-- src:S0018 -->
 

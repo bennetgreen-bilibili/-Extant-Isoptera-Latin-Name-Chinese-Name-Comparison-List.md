@@ -39,9 +39,13 @@ ES — **捕获亚种** (*Microtermes congoensis comprehensa*) es una subespecie
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *comprehensa*：拉丁文 comprehensus（捕获的、包含的）
 
 EN — epithet *comprehensa*: Latin comprehensus (grasped, included)
+
+ES — epithet *comprehensa*: Del latín comprehensus (abarcado, incluido)
 
 <!-- src:S0018 -->
 

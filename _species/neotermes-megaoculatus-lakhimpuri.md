@@ -36,9 +36,13 @@ ES — **勒金布尔亚种** (*Neotermes megaoculatus lakhimpuri*) es una subes
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *lakhimpuri*：以地名 Lakhimpur（勒金布尔，印度阿萨姆）命名
 
 EN — epithet *lakhimpuri*: Named after Lakhimpur (Assam, India)
+
+ES — epithet *lakhimpuri*: Por Lakhimpur (Assam, India)
 
 <!-- src:S0018 -->
 

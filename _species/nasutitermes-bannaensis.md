@@ -38,9 +38,13 @@ ES — **版纳象白蚁** (*Nasutitermes bannaensis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *bannaensis*：以地名 版纳（云南） 命名
 
 EN — epithet *bannaensis*: Named after the locality Banna
+
+ES — epithet *bannaensis*: Por la localidad de Banna
 
 <!-- src:S0018 -->
 

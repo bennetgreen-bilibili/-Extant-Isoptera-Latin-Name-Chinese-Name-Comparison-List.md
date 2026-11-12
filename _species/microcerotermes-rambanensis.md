@@ -38,9 +38,13 @@ ES — **拉姆班锯白蚁** (*Microcerotermes rambanensis*) es una especie del
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *rambanensis*：以地名 Ramban（拉姆班，印度查谟-克什米尔）命名
 
 EN — epithet *rambanensis*: Named after the locality Ramban (Jammu and Kashmir, India)
+
+ES — epithet *rambanensis*: Por la localidad de Ramban (Jammu y Cachemira, India)
 
 <!-- src:S0018 -->
 

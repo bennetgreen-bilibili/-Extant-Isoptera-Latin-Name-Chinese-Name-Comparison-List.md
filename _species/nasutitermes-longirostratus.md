@@ -38,9 +38,13 @@ ES — **喙长象白蚁** (*Nasutitermes longirostratus*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longirostratus*：拉丁文/希腊文 longirostr（长）+ atus（具），指长具
 
 EN — epithet *longirostratus*: From longirostr (长) + atus (具)
+
+ES — epithet *longirostratus*: De longirostr (largo) + atus (provisto de)
 
 <!-- src:S0018 -->
 

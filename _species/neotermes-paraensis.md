@@ -35,9 +35,13 @@ ES — **帕拉新白蚁** (*Neotermes paraensis*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *paraensis*：以地名 巴拉圭 命名
 
 EN — epithet *paraensis*: Named after the locality Para
+
+ES — epithet *paraensis*: Por la localidad de Pará
 
 <!-- src:S0018 -->
 

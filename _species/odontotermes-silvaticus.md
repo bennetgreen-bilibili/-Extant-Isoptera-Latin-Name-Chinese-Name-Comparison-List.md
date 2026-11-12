@@ -38,9 +38,13 @@ ES — **森林土白蚁** (*Odontotermes silvaticus*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *silvaticus*：拉丁文 silvaticus（森林的，silva=森林）
 
 EN — epithet *silvaticus*: Latin silvaticus (of the forest, silva = forest)
+
+ES — epithet *silvaticus*: Del latín silvaticus (del bosque, silva = bosque)
 
 <!-- src:S0018 -->
 

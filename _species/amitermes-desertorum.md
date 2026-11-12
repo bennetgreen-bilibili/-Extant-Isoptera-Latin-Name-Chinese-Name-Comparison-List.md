@@ -40,9 +40,13 @@ ES — **遗弃弓白蚁** (*Amitermes desertorum*) es una especie del género *
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *desertorum*：拉丁文 desertum（荒漠）复数属格，荒漠的
 
 EN — epithet *desertorum*: From Latin desertum (desert), of deserts
+
+ES — epithet *desertorum*: Del latín desertum (desierto), de los desiertos
 
 <!-- src:S0018 -->
 

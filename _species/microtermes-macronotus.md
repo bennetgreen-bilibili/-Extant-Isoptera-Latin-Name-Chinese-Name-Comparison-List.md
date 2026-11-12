@@ -38,9 +38,13 @@ ES — **大背小白蚁** (*Microtermes macronotus*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
+ES — *Microtermes*: Del griego mikros (pequeño) + latín termes, «termita pequeña».
+
 种加词 *macronotus*：拉丁文/希腊文 macro（大）+ notus（背），指大背
 
 EN — epithet *macronotus*: From macro (大) + notus (背)
+
+ES — epithet *macronotus*: De macro (grande) + notus (dorso)
 
 <!-- src:S0018 -->
 

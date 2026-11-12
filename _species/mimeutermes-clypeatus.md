@@ -38,9 +38,13 @@ ES — **大唇仿白蚁** (*Mimeutermes clypeatus*) es una especie del género 
 
 EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Mimeutermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *clypeatus*：拉丁文 clypeatus（具盾的）
 
 EN — epithet *clypeatus*: Latin clypeatus (shielded)
+
+ES — epithet *clypeatus*: Del latín clypeatus (con escudo)
 
 <!-- src:S0018 -->
 

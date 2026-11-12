@@ -35,9 +35,13 @@ ES — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) es una especie, y la es
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *cavifrons*：拉丁文 cavus（凹）+ frons（额），凹额
 
 EN — epithet *cavifrons*: Latin cavus (hollow) + frons (front), hollow-fronted
+
+ES — epithet *cavifrons*: Del latín cavus (hueco) + frons (frente), de frente hueca
 
 <!-- src:S0018 -->
 

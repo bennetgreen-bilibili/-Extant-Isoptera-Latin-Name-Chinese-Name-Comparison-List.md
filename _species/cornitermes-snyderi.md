@@ -38,9 +38,13 @@ ES — **斯奈德角象白蚁** (*Cornitermes snyderi*) es una especie del gén
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *snyderi*：以人名 Snyder 命名（美国白蚁学家 T. E. Snyder）
 
 EN — epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
+
+ES — epithet *snyderi*: En honor del taxónomo de termitas T. E. Snyder
 
 <!-- src:S0018 -->
 

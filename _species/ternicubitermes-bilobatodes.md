@@ -38,9 +38,13 @@ ES — **双叶三方白蚁** (*Ternicubitermes bilobatodes*) es una especie, y 
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *bilobatodes*：拉丁文 bi-（二）+ lobatus（有叶）+ 希腊文 -odes（似），双叶状
 
 EN — epithet *bilobatodes*: Latin bi- (two) + lobatus (lobed) + Greek -odes (like), two-lobed
+
+ES — epithet *bilobatodes*: Del latín bi- (dos) + lobatus (lobulado) + griego -odes (semejante), de dos lóbulos
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **端明散白蚁** (*Reticulitermes translucens*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *translucens*：拉丁文/希腊文词根「transluc」（半透明）
 
 EN — epithet *translucens*: From the descriptive term 'transluc' (translucent)
+
+ES — epithet *translucens*: Del término descriptivo «transluc» (translúcido)
 
 <!-- src:S0018 -->
 

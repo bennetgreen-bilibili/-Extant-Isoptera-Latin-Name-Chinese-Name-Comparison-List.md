@@ -38,9 +38,13 @@ ES — **贝奎特土白蚁** (*Odontotermes bequaerti*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *bequaerti*：以人名 bequaert 命名（J. Bequaert（比利时昆虫学家））
 
 EN — epithet *bequaerti*: Named after J. Bequaert（比利时昆虫学家）
+
+ES — epithet *bequaerti*: En honor de J. Bequaert (entomólogo belga)
 
 <!-- src:S0018 -->
 

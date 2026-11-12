@@ -38,9 +38,13 @@ ES — **似白脸白脸白蚁** (*Leucopitermes leucopiformis*) es una especie 
 
 EN — *Leucopitermes*: From Greek leukos (white) + Latin termes; further derivation uncertain.
 
+ES — *Leucopitermes*: Del griego leukos (blanco) + latín termes; la derivación ulterior es incierta.
+
 种加词 *leucopiformis*：拉丁文/希腊文 leucopi（白）+ formis（形），指白形
 
 EN — epithet *leucopiformis*: From leucopi (白) + formis (形)
+
+ES — epithet *leucopiformis*: De leucopi (blanco) + formis (forma)
 
 <!-- src:S0018 -->
 

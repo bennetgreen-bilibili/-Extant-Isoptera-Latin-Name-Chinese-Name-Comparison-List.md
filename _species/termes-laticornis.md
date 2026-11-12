@@ -38,9 +38,13 @@ ES — **宽角白蚁** (*Termes laticornis*) es una especie del género *Termes
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
+ES — *Termes*: Del latín termes (carcoma, termita), el género tipo.
+
 种加词 *laticornis*：拉丁文/希腊文 lati（宽）+ cornis（角），指宽角
 
 EN — epithet *laticornis*: From lati (宽) + cornis (角)
+
+ES — epithet *laticornis*: De lati (ancho) + cornis (cuerno)
 
 <!-- src:S0018 -->
 

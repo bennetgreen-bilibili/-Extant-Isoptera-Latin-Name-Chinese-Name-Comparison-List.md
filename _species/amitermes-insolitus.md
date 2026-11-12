@@ -38,9 +38,13 @@ ES — **异常弓白蚁** (*Amitermes insolitus*) es una especie del género *A
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *insolitus*：拉丁文 insolitus（异常的、不寻常的）
 
 EN — epithet *insolitus*: Latin insolitus (unusual)
+
+ES — epithet *insolitus*: Del latín insolitus (inusual)
 
 <!-- src:S0018 -->
 

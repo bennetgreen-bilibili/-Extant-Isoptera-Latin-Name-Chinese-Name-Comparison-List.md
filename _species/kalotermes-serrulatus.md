@@ -35,9 +35,13 @@ ES — **细锯齿木白蚁** (*Kalotermes serrulatus*) es una especie del géne
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
+ES — *Kalotermes*: Del griego kalos (bello) + latín termes.
+
 种加词 *serrulatus*：拉丁文/希腊文 serrul（锯齿）+ atus（具），指锯齿具
 
 EN — epithet *serrulatus*: From serrul (锯齿) + atus (具)
+
+ES — epithet *serrulatus*: De serrul (sierra pequeña) + atus (que posee)
 
 <!-- src:S0018 -->
 

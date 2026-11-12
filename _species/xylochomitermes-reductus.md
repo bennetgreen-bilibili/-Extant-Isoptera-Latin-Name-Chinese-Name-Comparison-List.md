@@ -38,9 +38,13 @@ ES — **缩小木堆白蚁** (*Xylochomitermes reductus*) es una especie del g�
 
 EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
 
+ES — *Xylochomitermes*: Del griego xylon (madera) + chōma (túmulo) + latín termes.
+
 种加词 *reductus*：拉丁文 reductus（缩减的、后缩的）
 
 EN — epithet *reductus*: Latin reductus (reduced)
+
+ES — epithet *reductus*: Del latín reductus (reducido)
 
 <!-- src:S0018 -->
 

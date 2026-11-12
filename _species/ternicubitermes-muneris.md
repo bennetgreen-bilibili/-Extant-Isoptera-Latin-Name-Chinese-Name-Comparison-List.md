@@ -40,9 +40,13 @@ ES — **职司三方白蚁** (*Ternicubitermes muneris*) es una especie del gé
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
+ES — *Ternicubitermes*: Del latín terni (de tres en tres) + cubitus (codo) + termes.
+
 种加词 *muneris*：拉丁文 munus（职责、礼物）的属格
 
 EN — epithet *muneris*: Latin muneris (of a duty/gift)
+
+ES — epithet *muneris*: Del latín muneris (de un deber/regalo)
 
 <!-- src:S0018 -->
 

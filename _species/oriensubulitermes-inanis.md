@@ -40,9 +40,13 @@ ES — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) es una especie, y la 
 
 EN — *Oriensubulitermes*: From Latin Oriens (the East) + subula (awl) + termes.
 
+ES — *Oriensubulitermes*: Del latín Oriens (el Oriente) + subula (lezna) + termes.
+
 种加词 *inanis*：拉丁文 inanis（空虚的）
 
 EN — epithet *inanis*: Latin inanis (empty)
+
+ES — epithet *inanis*: Del latín inanis (vacío)
 
 <!-- src:S0018 -->
 

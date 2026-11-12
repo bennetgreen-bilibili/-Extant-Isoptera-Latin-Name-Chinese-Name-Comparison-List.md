@@ -38,9 +38,13 @@ ES — **周氏钝颚白蚁** (*Ahmaditermes choui*) es una especie del género 
 
 EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
 
+ES — *Ahmaditermes*: En honor del taxónomo de termitas Muzaffer Ahmad; -termes, del latín termes.
+
 种加词 *choui*：以人名 Chou 命名（中国昆虫学家周尧）
 
 EN — epithet *choui*: Named after the Chinese entomologist Chou Io
+
+ES — epithet *choui*: En honor del entomólogo chino Chou Io
 
 <!-- src:S0018 -->
 

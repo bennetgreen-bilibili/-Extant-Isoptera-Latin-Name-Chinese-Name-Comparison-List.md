@@ -38,9 +38,13 @@ ES — **卡皮沙巴圆筒白蚁** (*Cylindrotermes capixaba*) es una especie d
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
+ES — *Cylindrotermes*: Del griego kylindros (cilindro) + latín termes.
+
 种加词 *capixaba*：卡皮沙巴（巴西圣埃斯皮里图州居民）
 
 EN — epithet *capixaba*: After capixaba (native of Espírito Santo, Brazil)
+
+ES — epithet *capixaba*: Por capixaba (natural de Espírito Santo, Brasil)
 
 <!-- src:S0018 -->
 

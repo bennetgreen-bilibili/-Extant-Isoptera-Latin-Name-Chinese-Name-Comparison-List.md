@@ -35,9 +35,13 @@ ES — **西部皱白蚁** (*Rugitermes occidentalis*) es una especie del géner
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
+ES — *Rugitermes*: Del latín ruga (arruga) + termes.
+
 种加词 *occidentalis*：拉丁文 occidentalis（西方的）
 
 EN — epithet *occidentalis*: Latin occidentalis (western)
+
+ES — epithet *occidentalis*: Del latín occidentalis (occidental)
 
 <!-- src:S0018 -->
 

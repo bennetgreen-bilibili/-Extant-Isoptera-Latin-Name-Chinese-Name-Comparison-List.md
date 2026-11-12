@@ -38,9 +38,13 @@ ES — **大爪白蚁** (*Unguitermes magnus*) es una especie del género *Ungui
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *magnus*：拉丁文 magnus（大）
 
 EN — epithet *magnus*: Latin magnus (large)
+
+ES — epithet *magnus*: Del latín magnus (grande)
 
 <!-- src:S0018 -->
 

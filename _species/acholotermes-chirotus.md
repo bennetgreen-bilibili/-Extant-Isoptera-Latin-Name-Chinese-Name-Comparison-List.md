@@ -38,9 +38,13 @@ ES — **短小顺白蚁** (*Acholotermes chirotus*) es una especie del género 
 
 EN — *Acholotermes*: From Greek a- (without) + cholē (bile) + Latin termes.
 
+ES — *Acholotermes*: Del griego a- (sin) + cholē (bilis) + latín termes.
+
 种加词 *chirotus*：希腊文 cheir（手）+-otos（具），具手的
 
 EN — epithet *chirotus*: Greek cheir (hand) + -otos (having)
+
+ES — epithet *chirotus*: Del griego cheir (mano) + -otos (que tiene)
 
 <!-- src:S0018 -->
 

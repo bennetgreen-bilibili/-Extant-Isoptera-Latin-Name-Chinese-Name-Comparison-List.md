@@ -38,9 +38,13 @@ ES — **铜头锯白蚁** (*Microcerotermes cupreiceps*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *cupreiceps*：拉丁文/希腊文 cuprei（铜）+ ceps（头），指铜头
 
 EN — epithet *cupreiceps*: From cuprei (铜) + ceps (头)
+
+ES — epithet *cupreiceps*: De cuprei (cobre) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

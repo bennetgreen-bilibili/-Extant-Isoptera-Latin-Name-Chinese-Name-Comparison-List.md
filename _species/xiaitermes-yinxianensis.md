@@ -39,9 +39,13 @@ ES — **鄞县夏氏白蚁** (*Xiaitermes yinxianensis*) es la única especie v
 
 EN — *Xiaitermes*: Named after a person (Xia); -termes from Latin termes.
 
+ES — *Xiaitermes*: En honor de una persona (Xia); -termes, del latín termes.
+
 种加词 *yinxianensis*：以地名 Yinxian 鄞县（浙江） 命名
 
 EN — epithet *yinxianensis*: Named after the locality Yinxian (Zhejiang, China)
+
+ES — epithet *yinxianensis*: Por la localidad de Yinxian (Zhejiang, China)
 
 <!-- src:S0018 -->
 

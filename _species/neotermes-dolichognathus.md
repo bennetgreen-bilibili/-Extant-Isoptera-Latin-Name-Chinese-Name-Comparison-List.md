@@ -35,9 +35,13 @@ ES — **长颚新白蚁** (*Neotermes dolichognathus*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *dolichognathus*：拉丁文/希腊文 dolicho（长）+ gnathus（颚），指长颚
 
 EN — epithet *dolichognathus*: From dolicho (长) + gnathus (颚)
+
+ES — epithet *dolichognathus*: De dolicho (largo) + gnathus (mandíbula)
 
 <!-- src:S0018 -->
 

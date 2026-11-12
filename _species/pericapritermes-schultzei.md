@@ -38,9 +38,13 @@ ES — **舒尔茨近扭白蚁** (*Pericapritermes schultzei*) es una especie de
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *schultzei*：以 L. Schultze（德国动物学家）命名
 
 EN — epithet *schultzei*: Named after L. Schultze
+
+ES — epithet *schultzei*: En honor de L. Schultze
 
 <!-- src:S0018 -->
 

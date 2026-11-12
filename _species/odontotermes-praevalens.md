@@ -38,9 +38,13 @@ ES — **首要土白蚁** (*Odontotermes praevalens*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *praevalens*：拉丁文 praevalens（优越的、占优的）
 
 EN — epithet *praevalens*: Latin praevalens (prevailing)
+
+ES — epithet *praevalens*: Del latín praevalens (predominante)
 
 <!-- src:S0018 -->
 

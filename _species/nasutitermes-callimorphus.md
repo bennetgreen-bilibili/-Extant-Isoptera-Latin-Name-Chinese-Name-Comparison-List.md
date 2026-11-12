@@ -38,9 +38,13 @@ ES — **硬皮象白蚁** (*Nasutitermes callimorphus*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *callimorphus*：希腊文 kalos（美）+ morphē（形），美形
 
 EN — epithet *callimorphus*: Greek kalos (beautiful) + morphē (form), beautifully formed
+
+ES — epithet *callimorphus*: Del griego kalos (bello) + morphē (forma), de forma bella
 
 <!-- src:S0018 -->
 

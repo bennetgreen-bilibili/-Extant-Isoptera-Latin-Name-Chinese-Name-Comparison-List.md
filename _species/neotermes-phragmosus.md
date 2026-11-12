@@ -35,9 +35,13 @@ ES — **护穴新白蚁** (*Neotermes phragmosus*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *phragmosus*：希腊文 phragma（隔膜）+ 拉丁文 -osus，具隔
 
 EN — epithet *phragmosus*: Greek phragma (partition) + -osus, partitioned
+
+ES — epithet *phragmosus*: Del griego phragma (partición) + -osus, con particiones
 
 <!-- src:S0018 -->
 

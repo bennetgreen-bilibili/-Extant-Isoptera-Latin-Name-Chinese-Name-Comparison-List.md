@@ -38,9 +38,13 @@ ES — **龙王山象白蚁** (*Nasutitermes longwangshanensis*) es una especie 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *longwangshanensis*：以地名 龙王山（浙江） 命名
 
 EN — epithet *longwangshanensis*: Named after the locality Longwangshan
+
+ES — epithet *longwangshanensis*: Por la localidad de Longwangshan
 
 <!-- src:S0018 -->
 

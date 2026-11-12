@@ -35,9 +35,13 @@ ES — **帕穆亚乳白蚁** (*Coptotermes pamuae*) es una especie del género 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
+ES — *Coptotermes*: Del griego koptein (cortar) + latín termes.
+
 种加词 *pamuae*：以所罗门群岛帕穆阿（Pamua）命名
 
 EN — epithet *pamuae*: Named after Pamua, Solomon Islands
+
+ES — epithet *pamuae*: Por Pamua, islas Salomón
 
 <!-- src:S0018 -->
 

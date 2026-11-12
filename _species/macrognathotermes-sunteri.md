@@ -38,9 +38,13 @@ ES — **森特长颚白蚁** (*Macrognathotermes sunteri*) es una especie del g
 
 EN — *Macrognathotermes*: From Greek makros (large) + gnathos (jaw) + Latin termes.
 
+ES — *Macrognathotermes*: Del griego makros (grande) + gnathos (mandíbula) + latín termes.
+
 种加词 *sunteri*：以人名 Sunter 命名（具体指代待考）
 
 EN — epithet *sunteri*: Named after a person "Sunter" (identity unconfirmed)
+
+ES — epithet *sunteri*: En honor de una persona «Sunter» (identidad no confirmada)
 
 <!-- src:S0018 -->
 

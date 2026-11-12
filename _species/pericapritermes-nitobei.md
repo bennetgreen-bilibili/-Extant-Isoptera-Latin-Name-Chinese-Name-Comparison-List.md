@@ -40,9 +40,13 @@ ES — **新渡户近扭白蚁** (*Pericapritermes nitobei*) es una especie del 
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
+ES — *Pericapritermes*: Del griego peri- (alrededor) + latín caper (cabra) + termes.
+
 种加词 *nitobei*：以人名 Nitobe（新渡户）命名（日本农学家、教育家新渡户稻造 Inazō Nitobe）
 
 EN — epithet *nitobei*: Named after Nitobe (Japanese agronomist and educator Inazō Nitobe)
+
+ES — epithet *nitobei*: En honor de Nitobe (agrónomo y educador japonés Inazō Nitobe)
 
 <!-- src:S0018 -->
 

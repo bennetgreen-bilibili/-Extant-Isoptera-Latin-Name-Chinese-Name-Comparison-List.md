@@ -35,9 +35,13 @@ ES — **古巴新白蚁** (*Neotermes cubanus*) es una especie del género *Neo
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *cubanus*：以地名 古巴 命名
 
 EN — epithet *cubanus*: Named after the locality Cub
+
+ES — epithet *cubanus*: Por la localidad de Cub
 
 <!-- src:S0018 -->
 

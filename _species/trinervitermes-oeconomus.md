@@ -40,9 +40,13 @@ ES — **根三脉白蚁** (*Trinervitermes oeconomus*) es una especie del géne
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *oeconomus*：希腊文 oikonomos（节俭的、持家的）
 
 EN — epithet *oeconomus*: Greek oikonomos (economical)
+
+ES — epithet *oeconomus*: Del griego oikonomos (económico)
 
 <!-- src:S0018 -->
 

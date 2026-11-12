@@ -38,9 +38,13 @@ ES — **浦江土白蚁** (*Odontotermes pujiangensis*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *pujiangensis*：以地名 浦江（中国浙江）命名
 
 EN — epithet *pujiangensis*: Named after Pujiang, Zhejiang, China
+
+ES — epithet *pujiangensis*: Por Pujiang, Zhejiang, China
 
 <!-- src:S0018 -->
 

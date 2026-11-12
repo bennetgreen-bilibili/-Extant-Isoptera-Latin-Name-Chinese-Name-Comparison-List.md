@@ -40,9 +40,13 @@ ES — **常见三脉白蚁** (*Trinervitermes gratiosus*) es una especie del g�
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
+ES — *Trinervitermes*: Del latín tri- (tres) + nervus (nervio) + termes.
+
 种加词 *gratiosus*：拉丁文 gratiosus（优雅的、讨喜的）
 
 EN — epithet *gratiosus*: Latin gratiosus (gracious)
+
+ES — epithet *gratiosus*: Del latín gratiosus (agraciado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **长鼻象白蚁** (*Nasutitermes dolichorhinos*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *dolichorhinos*：希腊文 dolichos（长）+ rhis（鼻），长鼻
 
 EN — epithet *dolichorhinos*: Greek dolichos (long) + rhis (nose), long-nosed
+
+ES — epithet *dolichorhinos*: Del griego dolichos (largo) + rhis (nariz), de nariz larga
 
 <!-- src:S0018 -->
 

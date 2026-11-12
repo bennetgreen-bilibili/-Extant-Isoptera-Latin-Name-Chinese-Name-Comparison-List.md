@@ -35,9 +35,13 @@ ES — **埃莉诺长鼻白蚁** (*Schedorhinotermes eleanorae*) es una especie 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *eleanorae*：以人名 Eleanor 命名
 
 EN — epithet *eleanorae*: Named after Eleanor
+
+ES — epithet *eleanorae*: En honor de Eleanor
 
 <!-- src:S0018 -->
 

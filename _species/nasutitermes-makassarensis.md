@@ -38,9 +38,13 @@ ES — **望加锡象白蚁** (*Nasutitermes makassarensis*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
+ES — *Nasutitermes*: Del latín nasutus (de nariz grande) + termes, por el soldado nasuto.
+
 种加词 *makassarensis*：以地名 望加锡（印度尼西亚） 命名
 
 EN — epithet *makassarensis*: Named after the locality Makassar
+
+ES — epithet *makassarensis*: Por la localidad de Makasar
 
 <!-- src:S0018 -->
 

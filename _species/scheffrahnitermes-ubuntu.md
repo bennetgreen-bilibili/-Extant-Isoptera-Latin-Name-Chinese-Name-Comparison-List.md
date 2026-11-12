@@ -38,9 +38,13 @@ ES — **乌班图谢弗拉恩白蚁** (*Scheffrahnitermes ubuntu*) es la única
 
 EN — *Scheffrahnitermes*: Named after the termite taxonomist R. H. Scheffrahn; -termes from Latin termes.
 
+ES — *Scheffrahnitermes*: En honor del taxónomo de termitas R. H. Scheffrahn; -termes, del latín termes.
+
 种加词 *ubuntu*：非洲哲学概念 ubuntu（人道、共享）
 
 EN — epithet *ubuntu*: From ubuntu, an African philosophy
+
+ES — epithet *ubuntu*: De ubuntu, una filosofía africana
 
 <!-- src:S0018 -->
 

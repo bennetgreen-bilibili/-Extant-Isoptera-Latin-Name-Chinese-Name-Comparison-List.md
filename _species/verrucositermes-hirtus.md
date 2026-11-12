@@ -38,9 +38,13 @@ ES — **多毛疣白蚁** (*Verrucositermes hirtus*) es una especie del género
 
 EN — *Verrucositermes*: From Latin verrucosus (warty) + termes.
 
+ES — *Verrucositermes*: Del latín verrucosus (verrugoso) + termes.
+
 种加词 *hirtus*：拉丁文 hirtus（多毛的）
 
 EN — epithet *hirtus*: Latin hirtus (hairy)
+
+ES — epithet *hirtus*: Del latín hirtus (hirsuto)
 
 <!-- src:S0018 -->
 

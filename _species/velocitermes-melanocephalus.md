@@ -38,9 +38,13 @@ ES — **黑头快白蚁** (*Velocitermes melanocephalus*) es una especie del g�
 
 EN — *Velocitermes*: From Latin velox (swift) + termes.
 
+ES — *Velocitermes*: Del latín velox (veloz) + termes.
+
 种加词 *melanocephalus*：希腊文 melas（黑）+ kephalē（头），黑头
 
 EN — epithet *melanocephalus*: Greek melas (black) + kephalē (head), black-headed
+
+ES — epithet *melanocephalus*: Del griego melas (negro) + kephalē (cabeza), de cabeza negra
 
 <!-- src:S0018 -->
 

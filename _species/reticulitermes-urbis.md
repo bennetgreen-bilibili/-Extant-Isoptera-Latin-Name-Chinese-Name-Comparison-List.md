@@ -35,9 +35,13 @@ ES — **城市散白蚁** (*Reticulitermes urbis*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *urbis*：拉丁文 urbs（城市）的属格
 
 EN — epithet *urbis*: Latin urbis (of the city)
+
+ES — epithet *urbis*: Del latín urbis (de la ciudad)
 
 <!-- src:S0018 -->
 

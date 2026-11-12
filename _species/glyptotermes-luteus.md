@@ -35,9 +35,13 @@ ES — **蜡黄树白蚁** (*Glyptotermes luteus*) es una especie del género *G
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *luteus*：拉丁文 luteus（深黄）
 
 EN — epithet *luteus*: Latin luteus (yellow)
+
+ES — epithet *luteus*: Del latín luteus (amarillo)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **新芽弓白蚁** (*Amitermes neogermanus*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *neogermanus*：希腊文 neos（新）＋拉丁文 germanus（真实的）
 
 EN — epithet *neogermanus*: Greek neos (new) + Latin germanus (genuine)
+
+ES — epithet *neogermanus*: Del griego neos (nuevo) + latín germanus (genuino)
 
 <!-- src:S0018 -->
 

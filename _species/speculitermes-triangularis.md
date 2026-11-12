@@ -38,9 +38,13 @@ ES — **三角稀白蚁** (*Speculitermes triangularis*) es una especie del gé
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
+ES — *Speculitermes*: Del latín speculum (espejo) + termes.
+
 种加词 *triangularis*：拉丁文 triangularis（三角的）
 
 EN — epithet *triangularis*: Latin triangularis (triangular)
+
+ES — epithet *triangularis*: Del latín triangularis (triangular)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **倒钩聚白蚁** (*Syntermes barbatus*) es una especie del género *Sy
 
 EN — *Syntermes*: From Greek syn- (together) + Latin termes.
 
+ES — *Syntermes*: Del griego syn- (junto) + latín termes.
+
 种加词 *barbatus*：拉丁文/希腊文 barb（髯）+ atus（具），指髯具
 
 EN — epithet *barbatus*: From barb (髯) + atus (具)
+
+ES — epithet *barbatus*: De barb (barba) + atus (que posee)
 
 <!-- src:S0018 -->
 

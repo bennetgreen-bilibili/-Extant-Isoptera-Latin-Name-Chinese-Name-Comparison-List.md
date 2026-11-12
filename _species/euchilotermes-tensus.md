@@ -38,9 +38,13 @@ ES — **拉长真唇白蚁** (*Euchilotermes tensus*) es una especie, y la espe
 
 EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
 
+ES — *Euchilotermes*: Del griego eu- (bien) + cheilos (labio, margen) + latín termes.
+
 种加词 *tensus*：拉丁文 tensus（紧绷的、伸展的）
 
 EN — epithet *tensus*: Latin tensus (stretched)
+
+ES — epithet *tensus*: Latín tensus (tenso)
 
 <!-- src:S0018 -->
 

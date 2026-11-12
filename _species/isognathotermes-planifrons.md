@@ -39,9 +39,13 @@ ES — **平额等颚白蚁** (*Isognathotermes planifrons*) es una especie del 
 
 EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
 
+ES — *Isognathotermes*: Del griego isos (igual) + gnathos (mandíbula) + latín termes.
+
 种加词 *planifrons*：拉丁文 planus（平）+ frons（额），指额平
 
 EN — epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
+
+ES — epithet *planifrons*: Del latín planus (plano) + frons (frente), de frente plana
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,13 @@ ES — **变狭树白蚁** (*Glyptotermes angustus*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *angustus*：拉丁文 angustus（窄）
 
 EN — epithet *angustus*: Latin angustus (narrow)
+
+ES — epithet *angustus*: Del latín angustus (estrecho)
 
 <!-- src:S0018 -->
 

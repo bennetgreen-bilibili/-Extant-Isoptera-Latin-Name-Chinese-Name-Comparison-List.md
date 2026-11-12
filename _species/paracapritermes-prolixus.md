@@ -38,9 +38,13 @@ ES — **细长旁扭白蚁** (*Paracapritermes prolixus*) es una especie del g�
 
 EN — *Paracapritermes*: From Greek para- (beside) + Latin caper (goat) + termes.
 
+ES — *Paracapritermes*: Del griego para- (al lado de) + latín caper (cabra) + termes.
+
 种加词 *prolixus*：拉丁文 prolixus（伸长的、冗长的）
 
 EN — epithet *prolixus*: Latin prolixus (elongated)
+
+ES — epithet *prolixus*: Del latín prolixus (alargado)
 
 <!-- src:S0018 -->
 

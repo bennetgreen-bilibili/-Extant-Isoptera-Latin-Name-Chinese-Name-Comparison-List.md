@@ -38,9 +38,13 @@ ES — **西尔韦斯特里角象白蚁** (*Cornitermes silvestrii*) es una espe
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
+ES — *Cornitermes*: Del latín cornu (cuerno) + termes.
+
 种加词 *silvestrii*：以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）
 
 EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
+
+ES — epithet *silvestrii*: En honor del entomólogo F. Silvestri
 
 <!-- src:S0018 -->
 

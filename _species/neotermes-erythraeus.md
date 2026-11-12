@@ -35,9 +35,13 @@ ES — **微红新白蚁** (*Neotermes erythraeus*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *erythraeus*：拉丁文/希腊文 erythra（红）+ eus（相关），指红相关
 
 EN — epithet *erythraeus*: From erythra (红) + eus (相关)
+
+ES — epithet *erythraeus*: De erythra (rojo) + eus (relativo a)
 
 <!-- src:S0018 -->
 

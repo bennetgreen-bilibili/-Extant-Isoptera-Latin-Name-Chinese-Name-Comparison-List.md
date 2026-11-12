@@ -38,9 +38,13 @@ ES — **祖鲁方白蚁** (*Cubitermes zuluensis*) es una especie del género *
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
+ES — *Cubitermes*: Del latín cubitus (codo) + termes.
+
 种加词 *zuluensis*：以地名 祖鲁-纳塔尔（南非） 命名
 
 EN — epithet *zuluensis*: Named after the locality Zulu
+
+ES — epithet *zuluensis*: Por la localidad de Zulu
 
 <!-- src:S0018 -->
 

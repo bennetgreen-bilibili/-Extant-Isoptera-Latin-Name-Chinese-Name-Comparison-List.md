@@ -38,9 +38,13 @@ ES — **阴凉须白蚁** (*Hospitalitermes nemorosus*) es una especie del gén
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *nemorosus*：拉丁文 nemorosus（多林的）
 
 EN — epithet *nemorosus*: Latin nemorosus (wooded)
+
+ES — epithet *nemorosus*: Del latín nemorosus (boscoso)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **微小锯白蚁** (*Microcerotermes exiguus*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *exiguus*：拉丁文/希腊文词根「exigu」（微小）
 
 EN — epithet *exiguus*: From the descriptive term 'exigu' (tiny)
+
+ES — epithet *exiguus*: Del término descriptivo «exigu» (diminuto)
 
 <!-- src:S0018 -->
 

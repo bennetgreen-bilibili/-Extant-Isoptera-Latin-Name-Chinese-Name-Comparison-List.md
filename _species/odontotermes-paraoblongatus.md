@@ -38,9 +38,13 @@ ES — **似矩形土白蚁** (*Odontotermes paraoblongatus*) es una especie del
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *paraoblongatus*：拉丁文/希腊文 paraoblong（旁）+ atus（具），指旁具
 
 EN — epithet *paraoblongatus*: From paraoblong (旁) + atus (具)
+
+ES — epithet *paraoblongatus*: De paraoblong (al lado) + atus (que posee)
 
 <!-- src:S0018 -->
 

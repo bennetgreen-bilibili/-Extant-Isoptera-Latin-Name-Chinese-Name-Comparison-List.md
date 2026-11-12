@@ -38,9 +38,13 @@ ES — **灰头弓白蚁** (*Amitermes pallidiceps*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *pallidiceps*：拉丁文/希腊文 pallidi（苍白）+ ceps（头），指苍白头
 
 EN — epithet *pallidiceps*: From pallidi (苍白) + ceps (头)
+
+ES — epithet *pallidiceps*: De pallidi (pálido) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

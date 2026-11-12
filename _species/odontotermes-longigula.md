@@ -38,9 +38,13 @@ ES — **长喉土白蚁** (*Odontotermes longigula*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *longigula*：拉丁文/希腊文词根「long」（长）
 
 EN — epithet *longigula*: From the descriptive term 'long' (long)
+
+ES — epithet *longigula*: Del término descriptivo «long» (largo)
 
 <!-- src:S0018 -->
 

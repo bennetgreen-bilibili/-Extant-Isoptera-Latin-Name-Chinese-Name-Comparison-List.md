@@ -40,9 +40,13 @@ ES — **拟伤残净白蚁** (*Nitiditermes truncatoides*) es una especie del g
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *truncatoides*：拉丁文/希腊文 truncat（截断）+ oides（似），指截断似
 
 EN — epithet *truncatoides*: From truncat (截断) + oides (似)
+
+ES — epithet *truncatoides*: De truncat (truncado) + oides (semejante)
 
 <!-- src:S0018 -->
 

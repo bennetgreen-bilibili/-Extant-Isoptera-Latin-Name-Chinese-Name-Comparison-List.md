@@ -38,9 +38,13 @@ ES — **眼显净白蚁** (*Nitiditermes oculatus*) es una especie del género 
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *oculatus*：拉丁文/希腊文 ocul（眼）+ atus（具），指眼具
 
 EN — epithet *oculatus*: From ocul (眼) + atus (具)
+
+ES — epithet *oculatus*: De ocul (ojo) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **沼泽齿尖白蚁** (*Dentispicotermes pantanalis*) es una especie del
 
 EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
 
+ES — *Dentispicotermes*: Del latín dens (diente) + spica (espiga) + termes.
+
 种加词 *pantanalis*：地名：潘塔纳尔湿地（巴西）
 
 EN — epithet *pantanalis*: After the Pantanal wetland (Brazil)
+
+ES — epithet *pantanalis*: Por el Pantanal (Brasil)
 
 <!-- src:S0018 -->
 

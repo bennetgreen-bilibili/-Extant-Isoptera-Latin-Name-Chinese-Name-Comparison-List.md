@@ -35,9 +35,13 @@ ES — **柠黄散白蚁** (*Reticulitermes citrinus*) es una especie del géner
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
+ES — *Reticulitermes*: Del latín reticulum (red diminuta) + termes.
+
 种加词 *citrinus*：拉丁文 citrinus（柠檬黄的）
 
 EN — epithet *citrinus*: Latin citrinus (citrine, lemon-yellow)
+
+ES — epithet *citrinus*: Del latín citrinus (citrino, amarillo limón)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **似昆士兰堆砂白蚁** (*Cryptotermes simulatus*) es una especie de
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
+ES — *Cryptotermes*: Del griego kryptos (oculto) + latín termes, por sus hábitos de vivir oculto en la madera.
+
 种加词 *simulatus*：拉丁文 simulatus（模拟的）
 
 EN — epithet *simulatus*: Latin simulatus (imitated)
+
+ES — epithet *simulatus*: Del latín simulatus (imitado)
 
 <!-- src:S0018 -->
 

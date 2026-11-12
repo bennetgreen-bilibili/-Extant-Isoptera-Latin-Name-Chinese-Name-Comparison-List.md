@@ -35,9 +35,13 @@ ES — **厦门树白蚁** (*Glyptotermes xiamenensis*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *xiamenensis*：以地名 厦门（福建） 命名
 
 EN — epithet *xiamenensis*: Named after the locality Xiamen
+
+ES — epithet *xiamenensis*: Por la localidad de Xiamen
 
 <!-- src:S0018 -->
 

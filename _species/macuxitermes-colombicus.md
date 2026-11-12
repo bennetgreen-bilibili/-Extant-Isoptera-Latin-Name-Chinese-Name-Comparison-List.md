@@ -38,9 +38,13 @@ ES — **哥伦比亚马库希白蚁** (*Macuxitermes colombicus*) es una especi
 
 EN — *Macuxitermes*: From Macuxi (an Amazonian indigenous people) + termes.
 
+ES — *Macuxitermes*: De los macuxí (un pueblo indígena amazónico) + termes.
+
 种加词 *colombicus*：以地名 哥伦比亚 命名
 
 EN — epithet *colombicus*: Named after the locality Colomb
+
+ES — epithet *colombicus*: Por la localidad de Colomb
 
 <!-- src:S0018 -->
 

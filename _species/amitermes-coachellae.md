@@ -38,9 +38,13 @@ ES — **科切拉弓白蚁** (*Amitermes coachellae*) es una especie del géner
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
+ES — *Amitermes*: Etimología incierta; -termes, del latín termes.
+
 种加词 *coachellae*：以地名 Coachella（科切拉谷）命名
 
 EN — epithet *coachellae*: Named after the locality Coachella
+
+ES — epithet *coachellae*: Por la localidad de Coachella
 
 <!-- src:S0018 -->
 

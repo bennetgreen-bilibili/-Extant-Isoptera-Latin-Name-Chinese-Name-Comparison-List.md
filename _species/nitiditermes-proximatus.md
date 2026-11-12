@@ -38,9 +38,13 @@ ES — **近净白蚁** (*Nitiditermes proximatus*) es una especie del género *
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
+ES — *Nitiditermes*: Del latín nitidus (brillante) + termes.
+
 种加词 *proximatus*：拉丁文/希腊文 proxim（前）+ atus（具），指前具
 
 EN — epithet *proximatus*: From proxim (前) + atus (具)
+
+ES — epithet *proximatus*: De proxim (cercano) + atus (que posee)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **梳肠无锐白蚁** (*Ateuchotermes ctenopher*) es una especie del gé
 
 EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
 
+ES — *Ateuchotermes*: Del griego a- (sin) + teuchos (implemento, arma) + latín termes.
+
 种加词 *ctenopher*：希腊文 kteis（栉）+ -phoros（具），具栉
 
 EN — epithet *ctenopher*: Greek kteis (comb) + -phoros (bearing), comb-bearing
+
+ES — epithet *ctenopher*: Del griego kteis (peine) + -phoros (portador), que lleva el peine
 
 <!-- src:S0018 -->
 

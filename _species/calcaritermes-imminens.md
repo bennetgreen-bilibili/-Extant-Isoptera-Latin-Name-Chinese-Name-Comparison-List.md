@@ -35,9 +35,13 @@ ES — **悬垂距白蚁** (*Calcaritermes imminens*) es una especie, y la espec
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
+ES — *Calcaritermes*: Del latín calcar (espuela) + termes.
+
 种加词 *imminens*：拉丁文 imminens（迫近的）
 
 EN — epithet *imminens*: Latin imminens (imminent)
+
+ES — epithet *imminens*: Del latín imminens (inminente)
 
 <!-- src:S0018 -->
 

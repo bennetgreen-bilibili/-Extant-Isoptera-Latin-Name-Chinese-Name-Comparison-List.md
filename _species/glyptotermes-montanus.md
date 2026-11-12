@@ -35,9 +35,13 @@ ES — **高山树白蚁** (*Glyptotermes montanus*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *montanus*：拉丁文 montanus（山地的）
 
 EN — epithet *montanus*: Latin montanus (mountain-dwelling)
+
+ES — epithet *montanus*: Del latín montanus (que habita en montañas)
 
 <!-- src:S0018 -->
 

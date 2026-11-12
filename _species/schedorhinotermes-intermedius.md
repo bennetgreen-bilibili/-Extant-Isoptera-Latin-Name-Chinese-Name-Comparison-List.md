@@ -35,9 +35,13 @@ ES — **中间长鼻白蚁** (*Schedorhinotermes intermedius*) es una especie, 
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
+ES — *Schedorhinotermes*: Del griego schedon (cerca) + rhis (nariz) + latín termes.
+
 种加词 *intermedius*：拉丁文 intermedius（中间的）
 
 EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+ES — epithet *intermedius*: Del latín intermedius (intermedio)
 
 <!-- src:S0018 -->
 

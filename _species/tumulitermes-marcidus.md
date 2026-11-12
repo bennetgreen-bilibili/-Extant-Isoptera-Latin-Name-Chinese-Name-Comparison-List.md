@@ -38,9 +38,13 @@ ES — **凋零冢白蚁** (*Tumulitermes marcidus*) es una especie del género 
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
+ES — *Tumulitermes*: Del latín tumulus (túmulo) + termes.
+
 种加词 *marcidus*：拉丁文 marcidus（枯萎的、萎靡的）
 
 EN — epithet *marcidus*: Latin marcidus (withered)
+
+ES — epithet *marcidus*: Del latín marcidus (marchito)
 
 <!-- src:S0018 -->
 

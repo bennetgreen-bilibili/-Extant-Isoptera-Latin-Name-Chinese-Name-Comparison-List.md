@@ -38,9 +38,13 @@ ES — **微锯白蚁** (*Microcerotermes periminutus*) es una especie del géne
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
+ES — *Microcerotermes*: Del griego mikros (pequeño) + keras (cuerno) + latín termes.
+
 种加词 *periminutus*：拉丁文 per-（非常）+ minutus（微小），极微小
 
 EN — epithet *periminutus*: Latin per- (very) + minutus (tiny), very tiny
+
+ES — epithet *periminutus*: Del latín per- (muy) + minutus (diminuto), muy diminuto
 
 <!-- src:S0018 -->
 

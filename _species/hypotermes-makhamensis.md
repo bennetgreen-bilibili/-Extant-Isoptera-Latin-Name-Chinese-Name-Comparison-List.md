@@ -38,9 +38,13 @@ ES — **玛堪地白蚁** (*Hypotermes makhamensis*) es una especie del género
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
+ES — *Hypotermes*: Del griego hypo- (bajo, ligeramente) + latín termes.
+
 种加词 *makhamensis*：以地名 Makham（马坎）命名
 
 EN — epithet *makhamensis*: Named after the locality Makham
+
+ES — epithet *makhamensis*: Por la localidad de Makham
 
 <!-- src:S0018 -->
 

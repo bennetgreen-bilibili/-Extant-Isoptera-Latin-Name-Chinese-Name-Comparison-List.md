@@ -38,9 +38,13 @@ ES — **班克斯解甲白蚁** (*Anoplotermes banksi*) es una especie del gén
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
+ES — *Anoplotermes*: Del griego an- (sin) + hoplon (arma) + latín termes, «termita sin armas».
+
 种加词 *banksi*：以人名 banks 命名（美国昆虫学家 N. Banks）
 
 EN — epithet *banksi*: Named after 美国昆虫学家 N. Banks
+
+ES — epithet *banksi*: En honor del entomólogo estadounidense N. Banks
 
 <!-- src:S0018 -->
 

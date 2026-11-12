@@ -38,9 +38,13 @@ ES — **保洛斯锡兰白蚁** (*Ceylonitermes paulosus*) es una especie del g
 
 EN — *Ceylonitermes*: From Ceylon (Sri Lanka) + termes.
 
+ES — *Ceylonitermes*: De Ceilán (Sri Lanka) + termes.
+
 种加词 *paulosus*：希腊文 paulos（微小）？+ 拉丁文 -osus
 
 EN — epithet *paulosus*: Greek paulos (little)
+
+ES — epithet *paulosus*: Del griego paulos (pequeño)
 
 <!-- src:S0018 -->
 

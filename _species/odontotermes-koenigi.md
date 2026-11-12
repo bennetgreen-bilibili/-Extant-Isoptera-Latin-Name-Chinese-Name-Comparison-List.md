@@ -38,9 +38,13 @@ ES — **柯尼希土白蚁** (*Odontotermes koenigi*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
+ES — *Odontotermes*: Del griego odous (diente) + latín termes.
+
 种加词 *koenigi*：以人名 Johann Gerhard König（德国植物学家/医师，印度）命名
 
 EN — epithet *koenigi*: Named after Johann Gerhard König
+
+ES — epithet *koenigi*: En honor de Johann Gerhard König
 
 <!-- src:S0018 -->
 

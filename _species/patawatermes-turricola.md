@@ -40,9 +40,13 @@ ES — **土栖帕塔瓦白蚁** (*Patawatermes turricola*) es una especie, y la
 
 EN — *Patawatermes*: From the place name Patawa; -termes from Latin termes.
 
+ES — *Patawatermes*: Del topónimo Patawa; -termes, del latín termes.
+
 种加词 *turricola*：拉丁文 turris（塔）+ -cola（栖居者），栖于塔中
 
 EN — epithet *turricola*: Latin turris (tower) + -cola (dweller): tower-dwelling
+
+ES — epithet *turricola*: Del latín turris (torre) + -cola (habitante): que habita en torres
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,13 @@ ES — **扭曲唇扭白蚁** (*Labiocapritermes distortus*) es una especie, y l
 
 EN — *Labiocapritermes*: From Latin labium (lip) + caper (goat) + termes.
 
+ES — *Labiocapritermes*: Del latín labium (labio) + caper (cabra) + termes.
+
 种加词 *distortus*：拉丁文 distortus（扭曲的）
 
 EN — epithet *distortus*: Latin distortus (distorted)
+
+ES — epithet *distortus*: Del latín distortus (distorsionado)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,13 @@ ES — **蓝头须白蚁** (*Hospitalitermes lividiceps*) es una especie del gé
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
+ES — *Hospitalitermes*: Del latín hospes (huésped, anfitrión) + termes.
+
 种加词 *lividiceps*：拉丁文/希腊文 lividi（铅灰）+ ceps（头），指铅灰头
 
 EN — epithet *lividiceps*: From lividi (铅灰) + ceps (头)
+
+ES — epithet *lividiceps*: De lividi (plomizo) + ceps (cabeza)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,13 @@ ES — **陇南树白蚁** (*Glyptotermes longnanensis*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
+ES — *Glyptotermes*: Del griego glyptos (tallado, esculpido) + latín termes.
+
 种加词 *longnanensis*：以地名 龙南（江西） 命名
 
 EN — epithet *longnanensis*: Named after the locality Longnan
+
+ES — epithet *longnanensis*: Por la localidad de Longnan
 
 <!-- src:S0018 -->
 

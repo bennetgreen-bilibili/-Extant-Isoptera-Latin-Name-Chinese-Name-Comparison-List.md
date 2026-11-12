@@ -35,9 +35,13 @@ ES — **斯派泽前砂白蚁** (*Procryptotermes speiseri*) es una especie del
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
+ES — *Procryptotermes*: Del griego pro- (antes) + kryptos (oculto) + latín termes.
+
 种加词 *speiseri*：以人名 Speiser 命名（可能为 Paul Speiser，德国昆虫学家）
 
 EN — epithet *speiseri*: Named after a person "Speiser" (possibly Paul Speiser, German entomologist)
+
+ES — epithet *speiseri*: En honor de una persona «Speiser» (posiblemente Paul Speiser, entomólogo alemán)
 
 <!-- src:S0018 -->
 

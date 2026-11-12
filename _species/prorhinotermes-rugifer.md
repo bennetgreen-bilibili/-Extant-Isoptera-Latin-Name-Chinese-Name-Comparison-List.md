@@ -35,9 +35,13 @@ ES — **具皱原鼻白蚁** (*Prorhinotermes rugifer*) es una especie del gén
 
 EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
 
+ES — *Prorhinotermes*: Del griego pro- (antes) + rhis (nariz) + latín termes.
+
 种加词 *rugifer*：拉丁文/希腊文 rugi（皱）+ fer（具），指皱具
 
 EN — epithet *rugifer*: From rugi (皱) + fer (具)
+
+ES — epithet *rugifer*: De rugi (arruga) + fer (que posee)
 
 <!-- src:S0018 -->
 

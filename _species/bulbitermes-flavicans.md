@@ -38,9 +38,13 @@ ES — **黄色瓢白蚁** (*Bulbitermes flavicans*) es una especie del género 
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
+ES — *Bulbitermes*: Del latín bulbus (bulbo) + termes.
+
 种加词 *flavicans*：拉丁文/希腊文词根「flav」（黄）
 
 EN — epithet *flavicans*: From the descriptive term 'flav' (yellow)
+
+ES — epithet *flavicans*: Del término descriptivo «flav» (amarillo)
 
 <!-- src:S0018 -->
 

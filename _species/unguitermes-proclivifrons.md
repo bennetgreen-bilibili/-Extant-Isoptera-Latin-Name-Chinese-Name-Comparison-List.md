@@ -38,9 +38,13 @@ ES — **前斜额爪白蚁** (*Unguitermes proclivifrons*) es una especie del g
 
 EN — *Unguitermes*: From Latin unguis (claw) + termes.
 
+ES — *Unguitermes*: Del latín unguis (garra) + termes.
+
 种加词 *proclivifrons*：拉丁文/希腊文 proclivi（前）+ frons（额），指前额
 
 EN — epithet *proclivifrons*: From proclivi (前) + frons (额)
+
+ES — epithet *proclivifrons*: De proclivi (inclinado hacia delante) + frons (frente)
 
 <!-- src:S0018 -->
 

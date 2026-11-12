@@ -38,9 +38,13 @@ ES — **广西华象白蚁** (*Sinonasutitermes guangxiensis*) es una especie d
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
+ES — *Sinonasutitermes*: Del latín Sinae (China) + nasutus (nasuto) + termes.
+
 种加词 *guangxiensis*：以地名 广西 命名
 
 EN — epithet *guangxiensis*: Named after the locality Guangx
+
+ES — epithet *guangxiensis*: Por la localidad de Guangx
 
 <!-- src:S0018 -->
 

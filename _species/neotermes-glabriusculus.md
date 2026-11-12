@@ -35,9 +35,13 @@ ES — **光滑新白蚁** (*Neotermes glabriusculus*) es una especie del géner
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *glabriusculus*：拉丁文/希腊文 glabriusc（光滑）+ ulus（小（指小）），指光滑小（指小）
 
 EN — epithet *glabriusculus*: From glabriusc (光滑) + ulus (小（指小）)
+
+ES — epithet *glabriusculus*: De glabriusc (liso) + ulus (pequeño, diminutivo)
 
 <!-- src:S0018 -->
 

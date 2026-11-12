@@ -35,9 +35,13 @@ ES — **小新白蚁** (*Neotermes humilis*) es una especie del género *Neoter
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
+ES — *Neotermes*: Del griego neos (nuevo) + latín termes.
+
 种加词 *humilis*：拉丁文 humilis（低矮的、谦卑的）
 
 EN — epithet *humilis*: Latin humilis (low, humble)
+
+ES — epithet *humilis*: Del latín humilis (bajo, humilde)
 
 <!-- src:S0018 -->
 
