@@ -67,27 +67,43 @@
     tocAside.style.maxHeight = 'calc(100vh - ' + (top + 16) + 'px)';
   }
 
+  /* 目录数据源：页面正文里的 <nav id="toc">（由 _tools/build_list_index.py 生成，
+     含全部支系/科/亚科/属）。移到侧栏后把源块从正文删除；没有源块时退回按标题生成。 */
   function setupToc() {
     if (!document.body.classList.contains('is-list-page')) return;
     var content = document.querySelector('.content');
     if (!content) return;
-    var headings = content.querySelectorAll('h2, h3, h4, h5, h6');
-    if (headings.length < 3) return;
     var lang = pageLang();
+    var source = document.getElementById('toc');
+    var title = TOC_TITLES[lang];
+    var tree = null;
+    if (source) {
+      var titleNode = source.querySelector('.toc-title');
+      if (titleNode && titleNode.textContent.replace(/\s+/g, ' ').trim()) {
+        title = titleNode.textContent.replace(/\s+/g, ' ').trim();
+      }
+      var list = source.querySelector('ul');
+      if (list && list.children.length) tree = list.cloneNode(true);
+    }
+    if (!tree) {
+      var headings = content.querySelectorAll('h2, h3, h4, h5, h6');
+      if (headings.length < 3) return;
+      tree = buildTocTree(headings);
+    }
     var aside = document.createElement('aside');
     aside.className = 'toc-side';
-    aside.setAttribute('aria-label', TOC_TITLES[lang]);
+    aside.setAttribute('aria-label', title);
     aside.setAttribute('data-pagefind-ignore', '');
     var h = document.createElement('div');
     h.className = 'toc-heading';
-    h.textContent = TOC_TITLES[lang];
+    h.textContent = title;
     aside.appendChild(h);
-    var tree = buildTocTree(headings);
     aside.appendChild(tree);
     enhanceToc(tree, lang);
     var wrap = content.parentNode;
     wrap.classList.add('has-toc');
     wrap.insertBefore(aside, content);
+    if (source && source.parentNode) source.parentNode.removeChild(source);
     tocAside = aside;
     syncTocTop();
     var pending = false;
@@ -100,6 +116,7 @@
     window.addEventListener('resize', onShift);
   }
 
+  /* 默认只把六个支系摊开：科、亚科收起（点开才显示下一级），首屏即可看全 13 个科 */
   function enhanceToc(tree, lang) {
     var items = tree.querySelectorAll('li');
     for (var i = 0; i < items.length; i++) {
@@ -111,15 +128,18 @@
         else if (c.tagName === 'A' && !childA) childA = c;
       }
       if (!childA) continue;
+      var kind = li.getAttribute('data-kind');
+      var collapsed = !!childUl && (kind === 'family' || kind === 'subfamily');
+      if (collapsed) li.classList.add('collapsed');
       var row = document.createElement('div');
       row.className = 'toc-row';
       if (childUl) {
         var btn = document.createElement('button');
         btn.type = 'button';
         btn.className = 'toc-toggle';
-        btn.setAttribute('aria-expanded', 'true');
+        btn.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
         btn.setAttribute('aria-label', TOC_TOGGLE_LABELS[lang] || TOC_TOGGLE_LABELS.zh);
-        btn.textContent = '▾';
+        btn.textContent = collapsed ? '▸' : '▾';
         btn.addEventListener('click', (function (li, btn) {
           return function (ev) {
             ev.preventDefault();

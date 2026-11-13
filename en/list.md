@@ -63,6 +63,486 @@ Above family level sit several unranked clades, nested one within another: Euiso
 
 <p class="list-note">This page is an index only: the taxonomic framework, the family browser and the references live here, while each family, subfamily and genus page carries its own morphology, biology and distribution text plus the species entries (scientific name, Chinese name, author and year, type locality, distribution).</p>
 
+<nav class="taxon-toc" id="toc" aria-label="Contents" data-pagefind-ignore>
+<h2 class="toc-title">Contents</h2>
+<ul class="toc-tree">
+<li data-kind="clade"><a href="#isoptera"><i>Extant Isoptera</i> 现存等翅下目</a>
+<ul>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mastotermes/"><i>Mastotermes</i> 澳白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="clade"><a href="#euisoptera"><i>Euisoptera</i> 真等翅类</a>
+<ul>
+<li data-kind="clade"><a href="#teletisoptera"><i>Teletisoptera</i> 远等翅类</a>
+<ul>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/archotermopsis/"><i>Archotermopsis</i> 古白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/zootermopsis/"><i>Zootermopsis</i> 动白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/anacanthotermes/"><i>Anacanthotermes</i> 无刺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hodotermes/"><i>Hodotermes</i> 草白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/microhodotermes/"><i>Microhodotermes</i> 小草白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hodotermopsis/"><i>Hodotermopsis</i> 原白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/porotermes/"><i>Porotermes</i> 洞白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/stolotermes/"><i>Stolotermes</i> 胄白蚁属</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-kind="clade"><a href="#icoisoptera"><i>Icoisoptera</i> 近等翅类</a>
+<ul>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/allotermes/"><i>Allotermes</i> 奇白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/bicornitermes/"><i>Bicornitermes</i> 双角白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/bifiditermes/"><i>Bifiditermes</i> 双裂白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/calcaritermes/"><i>Calcaritermes</i> 距白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ceratokalotermes/"><i>Ceratokalotermes</i> 角木白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/comatermes/"><i>Comatermes</i> 毛白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cryptotermes/"><i>Cryptotermes</i> 堆砂白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/epicalotermes/"><i>Epicalotermes</i> 上木白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/eucryptotermes/"><i>Eucryptotermes</i> 真砂白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/glyptotermes/"><i>Glyptotermes</i> 树白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/incisitermes/"><i>Incisitermes</i> 楹白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/kalotermes/"><i>Kalotermes</i> 木白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/longicaputermes/"><i>Longicaputermes</i> 头长白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/marginitermes/"><i>Marginitermes</i> 边白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/neotermes/"><i>Neotermes</i> 新白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/paraneotermes/"><i>Paraneotermes</i> 近新白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/postelectrotermes/"><i>Postelectrotermes</i> 后琥珀白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/procryptotermes/"><i>Procryptotermes</i> 前砂白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/proneotermes/"><i>Proneotermes</i> 前新白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pterotermes/"><i>Pterotermes</i> 翅白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/roisinitermes/"><i>Roisinitermes</i> 罗伊辛白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rugitermes/"><i>Rugitermes</i> 皱白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tauritermes/"><i>Tauritermes</i> 牛白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="clade"><a href="#neoisoptera"><i>Neoisoptera</i> 新等翅类</a>
+<ul>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/prorhinotermes/"><i>Prorhinotermes</i> 原鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/psammotermes/"><i>Psammotermes</i> 沙白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/acorhinotermes/"><i>Acorhinotermes</i> 尖鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/dolichorhinotermes/"><i>Dolichorhinotermes</i> 狭鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/parrhinotermes/"><i>Parrhinotermes</i> 棒鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rhinotermes/"><i>Rhinotermes</i> 鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/schedorhinotermes/"><i>Schedorhinotermes</i> 长鼻白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/glossotermes/"><i>Glossotermes</i> 舌白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/serritermes/"><i>Serritermes</i> 齿白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/stylotermitidae/"><i>STYLOTERMITIDAE</i> 杆白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/stylotermes/"><i>Stylotermes</i> 杆白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/termitogeton/"><i>Termitogeton</i> 寡脉白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="clade"><a href="#geoisoptera"><i>Geoisoptera</i> 土栖等翅类</a>
+<ul>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/coptotermes/"><i>Coptotermes</i> 乳白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/heterotermes/"><i>Heterotermes</i> 异白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/reticulitermes/"><i>Reticulitermes</i> 散白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="family"><a href="{{ site.base_url }}/en/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a>
+<ul>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ahamitermes/"><i>Ahamitermes</i> 无钩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/amitermes/"><i>Amitermes</i> 弓白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/dentispicotermes/"><i>Dentispicotermes</i> 齿尖白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/drepanotermes/"><i>Drepanotermes</i> 镰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/eremotermes/"><i>Eremotermes</i> 漠白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/globitermes/"><i>Globitermes</i> 球白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/gnathamitermes/"><i>Gnathamitermes</i> 颚钩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hoplotermes/"><i>Hoplotermes</i> 武白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/incolitermes/"><i>Incolitermes</i> 子民白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/invasitermes/"><i>Invasitermes</i> 闯白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/orthognathotermes/"><i>Orthognathotermes</i> 直颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/prohamitermes/"><i>Prohamitermes</i> 前钩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pseudhamitermes/"><i>Pseudhamitermes</i> 伪钩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/synhamitermes/"><i>Synhamitermes</i> 同钩白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/apicotermitinae/"><i>Apicotermitinae</i> 尖白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/acholotermes/"><i>Acholotermes</i> 顺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/acidnotermes/"><i>Acidnotermes</i> 虚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/acutidentitermes/"><i>Acutidentitermes</i> 尖齿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/adaiphrotermes/"><i>Adaiphrotermes</i> 和白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/aderitotermes/"><i>Aderitotermes</i> 谐白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/adynatotermes/"><i>Adynatotermes</i> 弱白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/aganotermes/"><i>Aganotermes</i> 雅白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/allognathotermes/"><i>Allognathotermes</i> 异颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/alyscotermes/"><i>Alyscotermes</i> 逃白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/amalotermes/"><i>Amalotermes</i> 软白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/amicotermes/"><i>Amicotermes</i> 善白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/amplucrutermes/"><i>Amplucrutermes</i> 大腿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/anaorotermes/"><i>Anaorotermes</i> 无戟白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/anenteotermes/"><i>Anenteotermes</i> 无甲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/anoplotermes/"><i>Anoplotermes</i> 解甲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/apagotermes/"><i>Apagotermes</i> 疲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/aparatermes/"><i>Aparatermes</i> 弯肠白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/apicotermes/"><i>Apicotermes</i> 尖白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/apolemotermes/"><i>Apolemotermes</i> 和平白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/asagarotermes/"><i>Asagarotermes</i> 无剑白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/astalotermes/"><i>Astalotermes</i> 无利器白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/astratotermes/"><i>Astratotermes</i> 无刃白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ateuchotermes/"><i>Ateuchotermes</i> 无锐白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/caputitermes/"><i>Caputitermes</i> 首白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/chasitermes/"><i>Chasitermes</i> 蔡斯白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/compositermes/"><i>Compositermes</i> 肠刺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/coxotermes/"><i>Coxotermes</i> 基白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/disjunctitermes/"><i>Disjunctitermes</i> 间断白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/dissimulitermes/"><i>Dissimulitermes</i> 隐藏白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/duplidentitermes/"><i>Duplidentitermes</i> 双齿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ebogotermes/"><i>Ebogotermes</i> 埃博戈白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/eburnitermes/"><i>Eburnitermes</i> 象牙白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/echinotermes/"><i>Echinotermes</i> 多刺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ekueitermes/"><i>Ekueitermes</i> 肠棘白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/euhamitermes/"><i>Euhamitermes</i> 亮白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/eurytermes/"><i>Eurytermes</i> 宽白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/firmitermes/"><i>Firmitermes</i> 坚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/gastrotermes/"><i>Gastrotermes</i> 胃白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/grigiotermes/"><i>Grigiotermes</i> 灰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/heimitermes/"><i>Heimitermes</i> 埃姆白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hirsutitermes/"><i>Hirsutitermes</i> 毛糙白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hoplognathotermes/"><i>Hoplognathotermes</i> 锐颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/humutermes/"><i>Humutermes</i> 腐殖白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hydrecotermes/"><i>Hydrecotermes</i> 海德瑞克白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/indotermes/"><i>Indotermes</i> 印白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/jugositermes/"><i>Jugositermes</i> 岗白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/koutabatermes/"><i>Koutabatermes</i> 库塔巴白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/krecekitermes/"><i>Krecekitermes</i> 克雷切克白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/labidotermes/"><i>Labidotermes</i> 钳白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/longustitermes/"><i>Longustitermes</i> 长工白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/machadotermes/"><i>Machadotermes</i> 剑白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mangolditermes/"><i>Mangolditermes</i> 曼戈尔德白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ourissotermes/"><i>Ourissotermes</i> 海胆白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/patawatermes/"><i>Patawatermes</i> 帕塔瓦白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/phoxotermes/"><i>Phoxotermes</i> 锐白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rostrotermes/"><i>Rostrotermes</i> 突吻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rubeotermes/"><i>Rubeotermes</i> 变红白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ruptitermes/"><i>Ruptitermes</i> 腹爆白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rustitermes/"><i>Rustitermes</i> 拉斯特白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/scheffrahnitermes/"><i>Scheffrahnitermes</i> 谢弗拉恩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/skatitermes/"><i>Skatitermes</i> 洁白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/speculitermes/"><i>Speculitermes</i> 稀白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/spiralitermes/"><i>Spiralitermes</i> 螺旋白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tetimatermes/"><i>Tetimatermes</i> 足白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tonsuritermes/"><i>Tonsuritermes</i> 奇囟白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/trichotermes/"><i>Trichotermes</i> 发白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/triclavitermes/"><i>Triclavitermes</i> 三棒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tucupitermes/"><i>Tucupitermes</i> 黄汁白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/crepititermitinae/"><i>Crepititermitinae</i> 响白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/crepititermes/"><i>Crepititermes</i> 响白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/apilitermes/"><i>Apilitermes</i> 无毛白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/basidentitermes/"><i>Basidentitermes</i> 基齿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/batillitermes/"><i>Batillitermes</i> 铲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/crenetermes/"><i>Crenetermes</i> 刻痕白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cubitermes/"><i>Cubitermes</i> 方白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/euchilotermes/"><i>Euchilotermes</i> 真唇白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/fastigitermes/"><i>Fastigitermes</i> 峰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/furculitermes/"><i>Furculitermes</i> 叉白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/isognathotermes/"><i>Isognathotermes</i> 等颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/lepidotermes/"><i>Lepidotermes</i> 鳞白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/megagnathotermes/"><i>Megagnathotermes</i> 大颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mucrotermes/"><i>Mucrotermes</i> 锐尖白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/nitiditermes/"><i>Nitiditermes</i> 净白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/noditermes/"><i>Noditermes</i> 节白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/okavangotermes/"><i>Okavangotermes</i> 奥卡万戈白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ophiotermes/"><i>Ophiotermes</i> 蛇白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/orthotermes/"><i>Orthotermes</i> 直白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ovambotermes/"><i>Ovambotermes</i> 奥万博兰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pilotermes/"><i>Pilotermes</i> 棘白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/polyspathotermes/"><i>Polyspathotermes</i> 多铲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/proboscitermes/"><i>Proboscitermes</i> 象鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/procubitermes/"><i>Procubitermes</i> 原方白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/profastigitermes/"><i>Profastigitermes</i> 前峰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ternicubitermes/"><i>Ternicubitermes</i> 三方白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/thoracotermes/"><i>Thoracotermes</i> 胸白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/trapellitermes/"><i>Trapellitermes</i> 菱角白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/unguitermes/"><i>Unguitermes</i> 爪白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/unicornitermes/"><i>Unicornitermes</i> 独角白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/cylindrotermitinae/"><i>Cylindrotermitinae</i> 圆筒白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cephalotermes/"><i>Cephalotermes</i> 头白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cylindrotermes/"><i>Cylindrotermes</i> 圆筒白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/engelitermitinae/"><i>Engelitermitinae</i> 恩格尔白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/engelitermes/"><i>Engelitermes</i> 恩格尔白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/foraminitermitinae/"><i>Foraminitermitinae</i> 孔白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/foraminitermes/"><i>Foraminitermes</i> 孔白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/labritermes/"><i>Labritermes</i> 唇白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pseudomicrotermes/"><i>Pseudomicrotermes</i> 伪小白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/forficulitermitinae/"><i>Forficulitermitinae</i> 剪白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/forficulitermes/"><i>Forficulitermes</i> 剪白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/macrotermitinae/"><i>Macrotermitinae</i> 大白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/acanthotermes/"><i>Acanthotermes</i> 刺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/allodontermes/"><i>Allodontermes</i> 奇齿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ancistrotermes/"><i>Ancistrotermes</i> 钩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/euscaiotermes/"><i>Euscaiotermes</i> 左转白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hypotermes/"><i>Hypotermes</i> 地白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/macrotermes/"><i>Macrotermes</i> 大白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/megaprotermes/"><i>Megaprotermes</i> 大前白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/microtermes/"><i>Microtermes</i> 小白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/odontotermes/"><i>Odontotermes</i> 土白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/protermes/"><i>Protermes</i> 前白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pseudacanthotermes/"><i>Pseudacanthotermes</i> 伪刺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/synacanthotermes/"><i>Synacanthotermes</i> 聚刺白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/microcerotermitinae/"><i>Microcerotermitinae</i> 锯白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/microcerotermes/"><i>Microcerotermes</i> 锯白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/onkotermes/"><i>Onkotermes</i> 倒钩白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/mirocapritermitinae/"><i>Mirocapritermitinae</i> 瘤白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/dicuspiditermes/"><i>Dicuspiditermes</i> 突扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/homallotermes/"><i>Homallotermes</i> 平白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/indocapritermes/"><i>Indocapritermes</i> 印扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/kemneritermes/"><i>Kemneritermes</i> 凯姆勒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/krishnacapritermes/"><i>Krishnacapritermes</i> 克里希纳扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/labiocapritermes/"><i>Labiocapritermes</i> 唇扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mirocapritermes/"><i>Mirocapritermes</i> 瘤白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/oriencapritermes/"><i>Oriencapritermes</i> 东扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pericapritermes/"><i>Pericapritermes</i> 近扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/procapritermes/"><i>Procapritermes</i> 前扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/pseudocapritermes/"><i>Pseudocapritermes</i> 伪扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rinacapritermes/"><i>Rinacapritermes</i> 丽娜扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/sinocapritermes/"><i>Sinocapritermes</i> 华扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/syncapritermes/"><i>Syncapritermes</i> 聚扭白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/aciculitermes/"><i>Aciculitermes</i> 针白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/afrosubulitermes/"><i>Afrosubulitermes</i> 非锥白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/agnathotermes/"><i>Agnathotermes</i> 无颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ahmaditermes/"><i>Ahmaditermes</i> 钝颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ampoulitermes/"><i>Ampoulitermes</i> 安瓿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/angularitermes/"><i>Angularitermes</i> 棱角白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/anhangatermes/"><i>Anhangatermes</i> 魔白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/antillitermes/"><i>Antillitermes</i> 安的列斯白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/araujotermes/"><i>Araujotermes</i> 阿劳若白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/arcotermes/"><i>Arcotermes</i> 弧白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/atlantitermes/"><i>Atlantitermes</i> 阿特拉斯白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/australitermes/"><i>Australitermes</i> 澳大利亚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/baucaliotermes/"><i>Baucaliotermes</i> 细颈白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/bulbitermes/"><i>Bulbitermes</i> 瓢白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/caetetermes/"><i>Caetetermes</i> 林白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/caribitermes/"><i>Caribitermes</i> 加勒比白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ceylonitermellus/"><i>Ceylonitermellus</i> 小锡兰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ceylonitermes/"><i>Ceylonitermes</i> 锡兰白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/coarctotermes/"><i>Coarctotermes</i> 缩狭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/coatitermes/"><i>Coatitermes</i> 凸鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/coendutermes/"><i>Coendutermes</i> 箭猪白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/constrictotermes/"><i>Constrictotermes</i> 缩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/convexitermes/"><i>Convexitermes</i> 凸白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cortaritermes/"><i>Cortaritermes</i> 利颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cucurbitermes/"><i>Cucurbitermes</i> 葫白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cyranotermes/"><i>Cyranotermes</i> 巨鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/diversitermes/"><i>Diversitermes</i> 歧白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/diwaitermes/"><i>Diwaitermes</i> 木象白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/eleanoritermes/"><i>Eleanoritermes</i> 埃莉诺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/emersonitermes/"><i>Emersonitermes</i> 埃默森白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/enetotermes/"><i>Enetotermes</i> 针筒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ereymatermes/"><i>Ereymatermes</i> 无名白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/eutermellus/"><i>Eutermellus</i> 小真白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/fulleritermes/"><i>Fulleritermes</i> 富勒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/grallatotermes/"><i>Grallatotermes</i> 高跷白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hirtitermes/"><i>Hirtitermes</i> 多毛白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hospitalitermes/"><i>Hospitalitermes</i> 须白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hyleotermes/"><i>Hyleotermes</i> 森林白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/kaudernitermes/"><i>Kaudernitermes</i> 考登白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/lacessititermes/"><i>Lacessititermes</i> 怒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/leptomyxotermes/"><i>Leptomyxotermes</i> 薄喙白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/leucopitermes/"><i>Leucopitermes</i> 白脸白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/longipeditermes/"><i>Longipeditermes</i> 长足白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/macrosubulitermes/"><i>Macrosubulitermes</i> 大锥白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/malagasitermes/"><i>Malagasitermes</i> 马尔加什白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/malaysiotermes/"><i>Malaysiotermes</i> 马来白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mimeutermes/"><i>Mimeutermes</i> 仿白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/muelleritermes/"><i>Muelleritermes</i> 米勒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mycterotermes/"><i>Mycterotermes</i> 鸟嘴白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/nasopilotermes/"><i>Nasopilotermes</i> 棘象白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/nasutitermes/"><i>Nasutitermes</i> 象白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ngauratermes/"><i>Ngauratermes</i> 凋落白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/niuginitermes/"><i>Niuginitermes</i> 新几内亚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/obtusitermes/"><i>Obtusitermes</i> 钝白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/occasitermes/"><i>Occasitermes</i> 西部白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/occultitermes/"><i>Occultitermes</i> 隐白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/oriensubulitermes/"><i>Oriensubulitermes</i> 东锥白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/paraconvexitermes/"><i>Paraconvexitermes</i> 近凸白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/parvitermes/"><i>Parvitermes</i> 微白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/periaciculitermes/"><i>Periaciculitermes</i> 近针白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/postsubulitermes/"><i>Postsubulitermes</i> 后锥白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rhadinotermes/"><i>Rhadinotermes</i> 锥形白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/roonwalitermes/"><i>Roonwalitermes</i> 鲁恩沃白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rotunditermes/"><i>Rotunditermes</i> 圆白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rounditermes/"><i>Rounditermes</i> 胖白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/sabahitermes/"><i>Sabahitermes</i> 沙巴白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/sandsitermes/"><i>Sandsitermes</i> 桑兹白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/sinonasutitermes/"><i>Sinonasutitermes</i> 华象白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/sinqasapatermes/"><i>Sinqasapatermes</i> 鼻大白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/spatulitermes/"><i>Spatulitermes</i> 匙白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/subulioiditermes/"><i>Subulioiditermes</i> 似锥白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/subulitermes/"><i>Subulitermes</i> 锥白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tarditermes/"><i>Tarditermes</i> 慢白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tenuirostritermes/"><i>Tenuirostritermes</i> 薄嘴白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tiunatermes/"><i>Tiunatermes</i> 暗鼻白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/triangularitermes/"><i>Triangularitermes</i> 三角白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/trinervitermes/"><i>Trinervitermes</i> 三脉白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tumulitermes/"><i>Tumulitermes</i> 冢白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/velocitermes/"><i>Velocitermes</i> 快白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/verrucositermes/"><i>Verrucositermes</i> 疣白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/xiaitermes/"><i>Xiaitermes</i> 夏氏白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/neocapritermitinae/"><i>Neocapritermitinae</i> 新扭白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/neocapritermes/"><i>Neocapritermes</i> 新扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/planicapritermes/"><i>Planicapritermes</i> 平扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/schievitermes/"><i>Schievitermes</i> 不对称白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/promirotermitinae/"><i>Promirotermitinae</i> 前奇白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/angulitermes/"><i>Angulitermes</i> 角白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/promirotermes/"><i>Promirotermes</i> 前奇白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/protohamitermitinae/"><i>Protohamitermitinae</i> 始钩白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/orientotermes/"><i>Orientotermes</i> 东方白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/protohamitermes/"><i>Protohamitermes</i> 始钩白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/sphaerotermitinae/"><i>Sphaerotermitinae</i> 圆球白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/sphaerotermes/"><i>Sphaerotermes</i> 圆球白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/syntermitinae/"><i>Syntermitinae</i> 聚白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/acangaobitermes/"><i>Acangaobitermes</i> 漏斗白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/armitermes/"><i>Armitermes</i> 戟白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/bandeiratermes/"><i>Bandeiratermes</i> 班代拉白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/biratermes/"><i>Biratermes</i> 拜拉白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cahuallitermes/"><i>Cahuallitermes</i> 弃白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cornitermes/"><i>Cornitermes</i> 角象白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/curvitermes/"><i>Curvitermes</i> 曲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cyrilliotermes/"><i>Cyrilliotermes</i> 壶头白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/embiratermes/"><i>Embiratermes</i> 生白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/genuotermes/"><i>Genuotermes</i> 膝白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ibitermes/"><i>Ibitermes</i> 地球白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/labiotermes/"><i>Labiotermes</i> 厚唇白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/macuxitermes/"><i>Macuxitermes</i> 马库希白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/mapinguaritermes/"><i>Mapinguaritermes</i> 红懒白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/noirotitermes/"><i>Noirotitermes</i> 努瓦罗白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/paracurvitermes/"><i>Paracurvitermes</i> 近曲白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/procornitermes/"><i>Procornitermes</i> 前角白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/rhynchotermes/"><i>Rhynchotermes</i> 喙白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/silvestritermes/"><i>Silvestritermes</i> 西尔韦斯特里白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/syntermes/"><i>Syntermes</i> 聚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/uncitermes/"><i>Uncitermes</i> 弯钩白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/vaninitermes/"><i>Vaninitermes</i> 瓦宁白蚁属</a></li>
+</ul>
+</li>
+<li data-kind="subfamily"><a href="{{ site.base_url }}/en/subfamily/termitinae/"><i>Termitinae</i> 白蚁亚科</a>
+<ul>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/apsenterotermes/"><i>Apsenterotermes</i> 后肠白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/capritermes/"><i>Capritermes</i> 扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cavitermes/"><i>Cavitermes</i> 腔白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cornicapritermes/"><i>Cornicapritermes</i> 角扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/cristatitermes/"><i>Cristatitermes</i> 脊突白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/dihoplotermes/"><i>Dihoplotermes</i> 双戟白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/divinotermes/"><i>Divinotermes</i> 迪维努白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ekphysotermes/"><i>Ekphysotermes</i> 瘤突白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/ephelotermes/"><i>Ephelotermes</i> 棒颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hapsidotermes/"><i>Hapsidotermes</i> 络白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/hesperotermes/"><i>Hesperotermes</i> 西澳白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/inquilinitermes/"><i>Inquilinitermes</i> 客白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/lophotermes/"><i>Lophotermes</i> 小脊突白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/macrognathotermes/"><i>Macrognathotermes</i> 长颚白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/palmitermes/"><i>Palmitermes</i> 棕榈白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/paracapritermes/"><i>Paracapritermes</i> 旁扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/protocapritermes/"><i>Protocapritermes</i> 始扭白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/quasitermes/"><i>Quasitermes</i> 相似白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/saxatilitermes/"><i>Saxatilitermes</i> 石白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/spinitermes/"><i>Spinitermes</i> 针刺白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/termes/"><i>Termes</i> 白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/tuberculitermes/"><i>Tuberculitermes</i> 小瘤白蚁属</a></li>
+<li data-kind="genus"><a href="{{ site.base_url }}/en/genus/xylochomitermes/"><i>Xylochomitermes</i> 木堆白蚁属</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+
 <h2 id="isoptera" class="clade-h clade-lvl-1">Extant Isoptera</h2>
 
 <p class="clade-count clade-lvl-1">13 family · 18 subfamily · 326 genus · 3021 species · 68 subspecies in total (including subordinate clades)</p>

@@ -111,18 +111,25 @@
 {%- comment -%} 数据页（三语 /data/）：输出独立的 Dataset 结构化数据，与首页的 @id 保持一致 {%- endcomment -%}
 {% if path_no_lang == '/data/' %}{% include dataset-jsonld.html %}{% endif %}
 {%- comment -%} 全文搜索页（pagefind: true）：Pagefind 的样式与脚本由 CI 在 _site/pagefind/ 生成 {%- endcomment -%}
+{%- comment -%}
+  静态资源缓存戳：_data/build.json 由 _tools/stamp_assets.py 按文件内容生成（CI 在 Jekyll 构建之前跑，
+  本地由 _tools/regen_all.sh 收尾），只随 assets/*.css|js 的实际字节变化；不再用部署时间，
+  否则每次部署 16 个 CSS/JS 的 URL 全变，浏览器与 CDN 缓存全部失效。缺失时回退到数据集版本号。
+{%- endcomment -%}
+{%- assign AV = site.data.build.assets -%}
+{%- assign AV_FALLBACK = site.dataset.version | default: '0' -%}
 {% if page.pagefind %}<link rel="stylesheet" href="{{ site.base_url }}/pagefind/pagefind-ui.css">
-{% endif %}<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
+{% endif %}<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ AV['custom.css'] | default: AV_FALLBACK }}">
 {%- comment -%} 图片图集（PhotoSwipe，MIT）：物种页、/photos/ 图片页，以及挂了图片小节的科/亚科/属页（front matter 的 has_photos） {%- endcomment -%}
 {% if page.collection == 'species' or page.species_page or page.photo_kind or page.has_photos %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.css">
-<link rel="stylesheet" href="{{ site.base_url }}/assets/gallery.css?v={{ site.time | date: '%s' }}">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/gallery.css?v={{ AV['gallery.css'] | default: AV_FALLBACK }}">
 {% endif %}{%- comment -%} 名录页（分布图 + 文献增强）、物种页（种级分布图）与带 has_map 的科/亚科/属中转页的专用样式：Leaflet 本地托管，不从 CDN 加载 {%- endcomment -%}
 {% if is_list_page or page.collection == 'species' or page.species_page or page.has_map %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/leaflet/leaflet.css">
-<link rel="stylesheet" href="{{ site.base_url }}/assets/map.css?v={{ site.time | date: '%s' }}">
-{% endif %}{% if is_list_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ site.time | date: '%s' }}">
-{% endif %}{% if is_papers_page or page.collection == 'species' or page.species_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/papers.css?v={{ site.time | date: '%s' }}">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/map.css?v={{ AV['map.css'] | default: AV_FALLBACK }}">
+{% endif %}{% if is_list_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ AV['references.css'] | default: AV_FALLBACK }}">
+{% endif %}{% if is_papers_page or page.collection == 'species' or page.species_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/papers.css?v={{ AV['papers.css'] | default: AV_FALLBACK }}">
 {% endif %}
-{% if page.phylogeny %}<link rel="stylesheet" href="{{ site.base_url }}/assets/phylogeny.css?v={{ site.time | date: '%s' }}">
+{% if page.phylogeny %}<link rel="stylesheet" href="{{ site.base_url }}/assets/phylogeny.css?v={{ AV['phylogeny.css'] | default: AV_FALLBACK }}">
 {% endif %}</head>
 <body{% if is_list_page %} class="is-list-page"{% endif %}>
 
@@ -253,28 +260,28 @@
     <p class="search-overlay-foot"><a id="search-overlay-all" href="{{ site.base_url }}{{ LANGP }}/search/">{{ T.search_overlay_all }} →</a></p>
   </div>
 </div>
-<script src="{{ site.base_url }}/assets/search-widget.js?v={{ site.time | date: '%s' }}" defer data-bundle="{{ site.base_url }}/pagefind/" data-base="{{ site.base_url }}" data-search-page="{{ site.base_url }}{{ LANGP }}/search/" data-text-empty="{{ T.search_overlay_empty }}" data-text-loading="{{ T.search_overlay_loading }}" data-text-all="{{ T.search_overlay_all }}" data-text-close="{{ T.search_overlay_close }}" data-text-shortcut="{{ T.search_shortcut }}"></script>
+<script src="{{ site.base_url }}/assets/search-widget.js?v={{ AV['search-widget.js'] | default: AV_FALLBACK }}" defer data-bundle="{{ site.base_url }}/pagefind/" data-base="{{ site.base_url }}" data-search-page="{{ site.base_url }}{{ LANGP }}/search/" data-text-empty="{{ T.search_overlay_empty }}" data-text-loading="{{ T.search_overlay_loading }}" data-text-all="{{ T.search_overlay_all }}" data-text-close="{{ T.search_overlay_close }}" data-text-shortcut="{{ T.search_shortcut }}"></script>
 {% if page.pagefind %}
 <script src="{{ site.base_url }}/pagefind/pagefind-ui.js" defer></script>
-<script src="{{ site.base_url }}/assets/search-page.js?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ site.base_url }}/assets/search-page.js?v={{ AV['search-page.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}
 {%- comment -%} 科 / 亚科 / 属中转页的局部检索框：只在本页登记的分类单元里过滤 /search-index.json {%- endcomment -%}
-{% if page.taxon_search %}<script src="{{ site.base_url }}/assets/taxon-search.js?v={{ site.time | date: '%s' }}" defer></script>
+{% if page.taxon_search %}<script src="{{ site.base_url }}/assets/taxon-search.js?v={{ AV['taxon-search.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}
 {%- comment -%} 图片图集：PhotoSwipe 5 UMD + gallery.js（懒初始化，只在有图片时接管）；页面判定同上 {%- endcomment -%}
 {% if page.collection == 'species' or page.species_page or page.photo_kind or page.has_photos %}<script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.umd.min.js" defer></script>
 <script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe-lightbox.umd.min.js" defer></script>
-<script src="{{ site.base_url }}/assets/gallery.js?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ site.base_url }}/assets/gallery.js?v={{ AV['gallery.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}{%- comment -%} 「全部图片」页（四级共用）的本页检索：只筛当前页照片，按拉丁学名 / 中文名 / 摄影师 {%- endcomment -%}
-{% if page.photo_kind %}<script src="{{ site.base_url }}/assets/photo-search.js?v={{ site.time | date: '%s' }}" defer></script>
+{% if page.photo_kind %}<script src="{{ site.base_url }}/assets/photo-search.js?v={{ AV['photo-search.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}{%- comment -%} 名录页 / 物种页 / 中转页（has_map）的分布图脚本与名录页的文献增强脚本 {%- endcomment -%}
 {% if is_list_page or page.collection == 'species' or page.species_page or page.has_map %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
-<script src="{{ site.base_url }}/assets/map.js?v={{ site.time | date: '%s' }}" defer></script>
-{% endif %}{% if is_list_page %}<script src="{{ site.base_url }}/assets/references.js?v={{ site.time | date: '%s' }}" defer></script>
-{% endif %}{% if is_papers_page %}<script src="{{ site.base_url }}/assets/papers.js?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ site.base_url }}/assets/map.js?v={{ AV['map.js'] | default: AV_FALLBACK }}" defer></script>
+{% endif %}{% if is_list_page %}<script src="{{ site.base_url }}/assets/references.js?v={{ AV['references.js'] | default: AV_FALLBACK }}" defer></script>
+{% endif %}{% if is_papers_page %}<script src="{{ site.base_url }}/assets/papers.js?v={{ AV['papers.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}
-<script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
-<script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>
+<script src="{{ site.base_url }}/assets/search.js?v={{ AV['search.js'] | default: AV_FALLBACK }}"></script>
+<script src="{{ site.base_url }}/assets/site.js?v={{ AV['site.js'] | default: AV_FALLBACK }}"></script>
 {%- comment -%}
   访问统计（GoatCounter，开源无 Cookie）：_data/analytics.yml 的 count_url / script_src；
   对应官方片段 <script data-goatcounter="…" async src="//gc.zgo.at/count.js">。

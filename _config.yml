@@ -88,6 +88,23 @@ defaults:
     values:
       sitemap: false
 
+# ---------------------------------------------------------------------------
+# 发布面（_site）卫生：Jekyll 只跳过 _ 与 . 开头的文件，其余一律复制进 _site。
+# 这里排除的是「不该被公开下载」的本地产物，与上面 defaults 里的 sitemap:false
+# 不是一回事——sitemap:false 只是不进 sitemap.xml，文件照样发布；exclude 才真不发。
+# 刻意不排除 dataset/（站内仍有链接，见上面第 68 行注释）。
+# 注意：一旦写了 exclude，Jekyll 的内置默认排除表会被整份替换；本站根目录没有
+# Gemfile / node_modules / vendor 这几样，所以只需要列出我们自己要挡的东西。
+# ---------------------------------------------------------------------------
+exclude:
+  - "debug.log"
+  - "prev_build_log.zip"
+  - "d7a427cc5b8b4f029b3d6d7ec012d197.txt"
+  - "s41467-024-51028-y.pdf"   # 出版社 PDF：全文在 _unpublished/文库/，仓库里不留原件
+  - "undefined"
+  - "nul"
+  - "未发布内容"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

@@ -142,6 +142,11 @@ jobs:
       - name: Lint Liquid templates before build
         run: python _tools/check_liquid.py
 
+      # 静态资源缓存戳：按 assets/*.css|js 的内容写 _data/build.json，模板里的 ?v= 读它。
+      # 必须在 Jekyll 之前跑——迟到一步，本次构建的 CSS/JS URL 就还是上一版指纹。
+      - name: Stamp static asset versions from file content
+        run: python _tools/stamp_assets.py
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
@@ -153,6 +158,12 @@ jobs:
       #（thread 'main' panicked at pagefind/src/output/mod.rs: Os error 13 PermissionDenied）。
       - name: Fix _site ownership (Jekyll runs in Docker as root)
         run: sudo chown -R "$(id -u):$(id -g)" _site
+
+      # 发布面守卫：Jekyll 会把仓库根目录的一切（除 _ / . 开头）复制进 _site，
+      # 历史上就漏过 build 日志、4.3MB 出版社 PDF 和未发表书稿。_config.yml 的 exclude
+      # 挡住已知的那几样，这里再断言一次，避免下一次误放进来的东西悄悄上线。
+      - name: Guard published surface (no draft/manuscript/log files)
+        run: python _tools/check_publish_surface.py _site
 
       # 全站全文检索：Pagefind 在 Jekyll 产物上生成静态索引 /pagefind/
       # extended 版才带中文 / 日文分词支持，务必装 [extended] 额外包。

@@ -351,6 +351,83 @@ def clade_index(language: str, taxonomy, families_by_id):
                                      families_by_id, cache) for root in roots)
 
 
+# 目录侧栏（旧版 /list/ 左侧那个「全类群」树形目录）：放在页面正文里，由 assets/site.js
+# 取出来放进 .toc-side 固定栏。条目顺序与世界名录一致：支系 → 科 → 亚科 → 属。
+TOC_TITLES = {"zh": "目录", "en": "Contents", "es": "Contenido"}
+
+
+def toc_label(language: str, entry) -> str:
+    """侧栏条目文案：中文页「中文名 拉丁名」，英西页「拉丁名 中文名」（与按科浏览一致）。"""
+    if language == "zh":
+        return "%s <i>%s</i>" % (html.escape(entry["zh"]), html.escape(entry["latin"]))
+    return "<i>%s</i> %s" % (html.escape(entry["latin"]), html.escape(entry["zh"]))
+
+
+def toc_tree(language: str, taxonomy) -> str:
+    """生成 <nav id="toc">：6 支系按层级嵌套，科下再挂亚科与属，全部指向各自页面。"""
+    prefix = LANG_PREFIX[language]
+    clade_by_id, children, roots = clade_order(taxonomy)
+    families_by_id = {entry["id"]: entry for entry in taxonomy["families"]}
+    genera_by_id = {entry["id"]: entry for entry in taxonomy["genera"]}
+    subs_by_family = {}
+    for subfamily in taxonomy["subfamilies"]:
+        subs_by_family.setdefault(subfamily["family"], []).append(subfamily)
+
+    def genus_item(genus_id):
+        member = genera_by_id.get(genus_id)
+        if not member:
+            return None
+        return ('<li data-kind="genus"><a href="{{ site.base_url }}%s/genus/%s/">%s</a></li>'
+                % (prefix, genus_id, toc_label(language, member)))
+
+    def family_item(family):
+        lines = ['<li data-kind="family"><a href="{{ site.base_url }}%s/family/%s/">%s</a>'
+                 % (prefix, family["id"], toc_label(language, family))]
+        inner = []
+        for subfamily in subs_by_family.get(family["id"], []):
+            sub_items = [genus_item(genus_id) for genus_id in subfamily["genera"]]
+            sub_items = [item for item in sub_items if item]
+            if not sub_items:
+                inner.append('<li data-kind="subfamily"><a href="{{ site.base_url }}%s/subfamily/%s/">%s</a></li>'
+                             % (prefix, subfamily["id"], toc_label(language, subfamily)))
+                continue
+            inner.append('<li data-kind="subfamily"><a href="{{ site.base_url }}%s/subfamily/%s/">%s</a>'
+                         % (prefix, subfamily["id"], toc_label(language, subfamily)))
+            inner.append("<ul>")
+            inner.extend(sub_items)
+            inner.append("</ul>")
+            inner.append("</li>")
+        for genus_id in family["genera"]:
+            item = genus_item(genus_id)
+            if item:
+                inner.append(item)
+        if inner:
+            lines.append("<ul>")
+            lines.extend(inner)
+            lines.append("</ul>")
+        lines.append("</li>")
+        return "\n".join(lines)
+
+    def clade_item(clade_id):
+        clade = clade_by_id[clade_id]
+        lines = ['<li data-kind="clade"><a href="#%s">%s</a>' % (clade_id, toc_label(language, clade))]
+        inner = [family_item(families_by_id[family_id]) for family_id in clade["families"]
+                 if family_id in families_by_id]
+        inner.extend(clade_item(child_id) for child_id in children[clade_id])
+        if inner:
+            lines.append("<ul>")
+            lines.extend(inner)
+            lines.append("</ul>")
+        lines.append("</li>")
+        return "\n".join(lines)
+
+    title = TOC_TITLES[language]
+    return ("<nav class=\"taxon-toc\" id=\"toc\" aria-label=\"%s\" data-pagefind-ignore>\n"
+            "<h2 class=\"toc-title\">%s</h2>\n"
+            "<ul class=\"toc-tree\">\n%s\n</ul>\n</nav>"
+            % (title, title, "\n".join(clade_item(root) for root in roots)))
+
+
 def sections_page(language: str, taxonomy, prose):
     """把某一语言的科/亚科正文集中成一页（en / es）。"""
     entry = prose.get(language) or {"families": {}, "subfamilies": {}}
@@ -418,6 +495,10 @@ def index_page(language: str, taxonomy, blocks):
         parts.append(loc(block["by_family"]))
         parts.append("")
     parts.append(NOTE[language])
+    parts.append("")
+    # 左侧浮窗目录的数据源（旧版 /list/ 的「目录」块）：assets/site.js 会把它移进 .toc-side。
+    # 链接已按语言带上前缀，不要再过 loc()。
+    parts.append(toc_tree(language, taxonomy))
     parts.append("")
     parts.append(clade_index(language, taxonomy, families_by_id))
     parts.append("")

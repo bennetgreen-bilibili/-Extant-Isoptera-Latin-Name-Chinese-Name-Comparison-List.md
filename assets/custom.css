@@ -97,7 +97,10 @@ a{color:var(--accent)}
 .toc-spacer{flex:0 0 26px}
 .toc-side a{flex:1 1 auto;min-width:0;display:block;padding:3px 8px;color:var(--ink);text-decoration:none;border-radius:6px;border-left:2px solid transparent;transition:color .12s,background .12s}
 .toc-side a:hover{color:var(--accent);background:var(--accent-softer)}
-.toc-side ul ul{padding-left:12px;border-left:1px solid var(--line-soft);margin-left:7px}
+.toc-side ul ul{padding-left:11px;border-left:1px solid var(--line-soft);margin-left:5px}
+/* 全类群目录最深六层（支系→子支系→科→亚科→属）：四层以后收窄缩进并缩小字号，320px 栏宽才放得下 */
+.toc-side ul ul ul ul{font-size:12.5px}
+.toc-side ul ul ul ul ul{padding-left:9px;margin-left:3px}
 .is-list-page .content h2,.is-list-page .content h3,.is-list-page .content h4,.is-list-page .content h5,.is-list-page .content h6,.is-list-page .content .fauna-keys h2{scroll-margin-top:calc(var(--nav-h) + 18px)}
 /* 视口足够宽时侧栏不再贴左缘，改为贴着正文列，四周留圆角边框 */
 @media (min-width:1801px){.toc-side{border:1px solid var(--line);border-radius:var(--radius)}}

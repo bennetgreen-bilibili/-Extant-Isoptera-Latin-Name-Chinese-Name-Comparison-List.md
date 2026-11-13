@@ -1,0 +1,23 @@
+{
+  "_comment": "由 _tools/stamp_assets.py 生成，请勿手改；内容指纹随 assets/*.css|js 变化。",
+  "assets": {
+    "custom.css": "ce43233392",
+    "gallery.css": "27341e1370",
+    "gallery.js": "fbcc0c5339",
+    "map.css": "4cbde8795e",
+    "map.js": "73ae5ab3de",
+    "name-issues.js": "5666efd422",
+    "papers.css": "9a4acb7ed9",
+    "papers.js": "ebd616adce",
+    "photo-search.js": "90db668652",
+    "phylogeny.css": "d1fc29713d",
+    "phylogeny.js": "7bf23fd735",
+    "references.css": "d7bfa8b95d",
+    "references.js": "23a85d0504",
+    "search-page.js": "3a4f105af7",
+    "search-widget.js": "27805b4e9a",
+    "search.js": "ebf188df29",
+    "site.js": "5973d1c15b",
+    "taxon-search.js": "3055744e63"
+  }
+}

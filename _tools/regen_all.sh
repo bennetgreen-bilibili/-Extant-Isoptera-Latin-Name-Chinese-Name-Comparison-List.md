@@ -3,7 +3,7 @@
 #
 # 顺序与 .github/workflows/pages.yml（部署）、.github/workflows/validate.yml（PR 闸门）
 # 保持一致：数据文件 → 索引页 → 分类数据 → 页脚正文 → 图片页 → 层级页 → sitemap
-# → 检索索引 → 归档数据集 → 版本记录 → 命名差异看板。
+# → 检索索引 → 归档数据集 → 版本记录 → 命名差异看板 → 静态资源指纹。
 #
 # 两个调用方：
 #   1. 本地提交前收尾：改了 _species / _data / dataset/CHANGELOG.md 等源文件后跑一次，
@@ -27,6 +27,11 @@ python .github/workflows/build_search_index.py --write --no-enrich
 python .github/workflows/build_dataset.py --write
 python _tools/build_changelog.py --write
 python .github/workflows/build_name_issues.py --write
+
+# 静态资源缓存戳：按 assets/*.css|js 的内容取指纹写进 _data/build.json。
+# 模板里 CSS/JS 的 ?v= 读它，内容不变则 URL 不变（浏览器缓存得以命中）；
+# 必须排在最后、且在任何会被模板读取的产物之后，保证与最终提交的 assets 一致。
+python _tools/stamp_assets.py
 
 # 三语分页（zh / en / es）自检：漏页、混语残留、站内链接缺语言前缀
 python _tools/check_lang_pages.py --ci
