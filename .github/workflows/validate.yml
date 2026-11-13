@@ -43,6 +43,12 @@ jobs:
       - name: Validate source archive
         run: python _tools/sources.py check --ci
 
+      # 发布面（静态判定，不用先构建）：被 git 跟踪、且会被 Jekyll 复制进 _site 的文件里，
+      # 不该出现 pdf / docx / 构建日志 / undefined 之类。2026-11 漏过 8 个未发表书稿 docx
+      # 和一份 4.3MB 出版社 PDF，都是在仓库根目录被静默复制进站点的。
+      - name: Guard published surface
+        run: python _tools/check_publish_surface.py --tracked
+
       # Liquid 模板语法闸门：Liquid 4 在解析阶段就会因一个标签语法错让整站构建失败，
       # 而 comment 块内部的「示例标签」同样会被解析（曾因此红过部署）。
       # 这一步把同类错误提前到秒级，并直接给出 file:line，不必等 Jekyll 的 Ruby 堆栈。

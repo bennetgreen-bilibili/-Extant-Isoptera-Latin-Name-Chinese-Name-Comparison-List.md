@@ -43,11 +43,15 @@ def asset_files() -> list[Path]:
 
 
 def fingerprint(path: Path) -> str:
-    h = hashlib.sha256()
-    with path.open("rb") as fh:
-        for chunk in iter(lambda: fh.read(1 << 16), b""):
-            h.update(chunk)
-    return h.hexdigest()[:HASH_LEN]
+    """按文件内容取指纹，行尾统一成 LF 后再哈希。
+
+    为什么归一化：本仓库的 .gitattributes 不固定行尾，Windows 检出会把部分文件写成
+    CRLF（assets/phylogeny.css、phylogeny.js 就是），Linux 上的 CI 则是 LF。若直接
+    哈希工作区字节，同一份提交在本地与 CI 会得出不同指纹，_data/build.json 就会在
+    validate.yml 的「生成产物过期」检查里反复红。归一化后两端一致。
+    """
+    data = path.read_bytes().replace(b"\r\n", b"\n")
+    return hashlib.sha256(data).hexdigest()[:HASH_LEN]
 
 
 def build_payload() -> dict:
