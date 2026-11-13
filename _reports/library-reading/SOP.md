@@ -51,14 +51,14 @@ python _tools/library_scan.py --help
 }
 ```
 
-### 2.1 新论文优先（每轮第一件事）
+### 2.1 只读已存档内容（本任务不抓论文）
 
-阅读队列的优先级只有一条：**先抓新论文、先读没读过的单元**。
+本任务的输入只有**已经入库的东西**：`.sources/index.json` 里的记录（含**仅摘要**记录）和 `_unpublished/文库/` 里已有的全文 chunk。**检索、下载、入库新论文是抓取工作流的职责**，不在本任务里做——抓取工作流见 `.github/workflows/papers_refresh.yml`（每日增量刷新）与 `.github/workflows/fulltext_archive.yml`（每周归档 OA 全文），配置与用法见 `_tools/文献检索器说明.md`。
 
-1. **抓**：每轮开始前用检索工具（OpenAlex / Crossref / 出版社 OA 页面）查最近 30 天发表的白蚁分类学、系统学、生物学论文；与 `.sources/index.json` 比对，确认是新的、且能拿到合法 OA 全文（或至少摘要）的，用 `sources.py library-add` 入库（PDF 走 `--file`，只有摘要就 `add` + `notes` 记「仅摘要」）。抓不到新的就如实说，不要为了凑数重复抓旧文。
-2. **读**：`library_scan.py` 按「读得少的优先」选单元，新入库论文自然排在最前。
-3. **重抓**：`_reports/library-reading/refetch.json` 里的条目**不插队**（不占本轮 20 个单元的名额、不排到新论文前面），但**每轮必须有**：`library_scan.py scan` 会把还没被正常选中的待重抓条目**追加在本轮单元末尾**（`units.json` 里带 `"extra": true` 与 `"refetch": true`，命令输出与 `summary.json` 的 `refetch_extra` 会列出）。追加进来的单元本轮要真的去重抓：找可读版本（出版社 PDF／仓储版／OCR）→ `library-add` → 读新全文并写草稿；抓不到就在 `notes.md` 写明原因，本轮按「据摘要」或整条 `rejected`，不得假装读过。
-4. 每轮 `notes.md` 记一行「本轮新入库：Sxxxx（标题，来源）」；没有新入库就写「本轮无新入库（检索无新增 OA）」。
+1. **不检索、不入库**：不要用 OpenAlex／Crossref／出版社页面找新论文，不要跑 `sources.py library-add`、不要改 `.sources` 的记录集合。本轮要用的来源，必须已经能在 `.sources` 里查到。
+2. **选单元**：`library_scan.py` 按「读得少的优先」从现有库里选；抓取工作流送来的新记录自然排在最前。库读满一遍后按 focus 轮换复读，不要为了「本轮有内容」临时去抓。
+3. **读**：选到什么读什么；某条记录只有摘要、没有全文时，按 §4.2 的「据摘要」写法处理，不要把摘要当全文。
+4. **记**：`notes.md` 写一行「本轮未做新论文抓取（由抓取工作流负责）」；本轮读到抓取工作流新送来的记录时，另记「本轮新读：Sxxxx（标题，来源）」。
 
 ## 3. Phase A：扫描 20 个单元（15 chunk + 5 摘要）
 
@@ -387,7 +387,7 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 - [ ] 没有把表格／名录硬改成散文。
 - [ ] 每段至少包含一个可核验的具体事实（分类位置、年代、产地、数量、形态或行为特征）；不写只有「多个空间尺度」「整体视角」「重要节点」这类框架性判断的段落。摘要只有框架性表述时，不据此单独立页。
 - [ ] 一条事实涉及多个属／种时，每个在站内有页面的单元都写了对应表述（§4.4.1）；跑 `python _tools/audit_taxon_spread.py`，剩下的每一条都在 `notes.md` 里说明为什么不需要补写。原文只有名录级信息、没有该种自身事实的，不写，并在 `notes.md` 记「原文仅名录级，未写」。
-- [ ] `refetch.json` 里 `pending` 的条目本轮都处理了：要么重抓成功并读了新全文，要么在 `notes.md` 写明抓不到的原因；`summary.json` 的 `refetch_extra` 不为空时不能视而不见。
+- [ ] `refetch.json` 里的条目本轮**只登记、不重抓**（重新下载属抓取工作流）：`summary.json` 的 `refetch_extra` 出现时，在 `notes.md` 写明该单元按「据摘要」处理或跳过，不声称读过全文。
 - [ ] 没有重复页面已有内容。
 - [ ] 参考文献与正文来源一一对应，没有列了不用的。
 - [ ] 中文通顺，学名斜体，标点统一。
@@ -400,17 +400,17 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 ## 9. 故障处理
 
 - **扫描器选中的单元文件不存在**：检查 `manifest.json` 的 `out` 与 `_unpublished/文库/<book>/`；缺文件就在 `summary.json` 的 warnings 里记录，换下一个单元，不要伪造内容。
-- **PDF／OCR 抽取失败或乱码**：不要硬读、不要凭标题编内容。在 `_reports/library-reading/refetch.json` 加一条：
+- **PDF／OCR 抽取失败或乱码**：定时任务**不重抓**，只登记，交给抓取工作流。不要硬读、不要凭标题编内容。在 `_reports/library-reading/refetch.json` 加一条：
 
   ```json
   {"id": "S0205", "title": "…", "reason": "文本层编码损坏，抽取为乱码", "requested": "YYYY-MM-DD", "requested_by": "…", "attempts": 0, "status": "pending"}
   ```
 
-  `library_scan.py scan` 会把这些 id 标出来（`summary.json` 的 `refetch_pending` 与命令输出），并**把本轮没被正常选中的条目追加在单元末尾**（不插队、不占 20 个名额，`units.json` 里 `"extra": true`；`summary.json` 的 `refetch_extra` 列出）。抓新论文仍是第一优先，但**重抓每轮都要做**：追加进来的单元本轮必须真去重抓（下载可读版本 → `library-add` → 读新全文），抓不到就在 `notes.md` 写原因。本轮仍要读它的可读部分（标题、摘要），正文按「据摘要」或整条记 `rejected`，**不 mark 全文已读**。重新下载可读版本 `library-add` 成功后，把该条 `status` 改为 `done`（不要删条目），并在 `notes.md` 记下新的全文块路径。
+  `library_scan.py scan` 会把这些 id 标出来（`summary.json` 的 `refetch_pending` 与命令输出），并**把本轮没被正常选中的条目追加在单元末尾**（`units.json` 里 `"extra": true`；`summary.json` 的 `refetch_extra` 列出）。追加进来的单元本轮读它的可读部分（标题、摘要），正文按「据摘要」或整条记 `rejected`，**不 mark 全文已读**，并在 `notes.md` 写明「待抓取工作流重抓」。**不要在定时任务里下载可读版本或跑 `library-add`。**
 
-#### 9.1 乱码 PDF 用本机 Tesseract 做 OCR（不要直接放弃）
+#### 9.1 乱码 PDF 的 OCR 修复（属抓取工作流，定时任务不执行）
 
-本机**已装 Tesseract**（`C:\Program Files\Tesseract-OCR\tesseract.exe`，没加进 PATH，必须写全路径；语言包只有 `eng` + `osd`）。PDF 文本层是自定义字形编码、`pdf_extract_text` 抽出整篇乱码时（典型：欧洲昆虫学杂志、部分老期刊），按下面流程 OCR，不要因为「文本层坏了」就把整篇标 rejected：
+本机**已装 Tesseract**（`C:\Program Files\Tesseract-OCR\tesseract.exe`，没加进 PATH，必须写全路径；语言包只有 `eng` + `osd`）。下面这段是给抓取工作流／人工修档案时用的流程；定时任务遇到乱码只按 §9 登记 `refetch.json`，不自己 OCR、不入库。
 
 ```powershell
 # 1. 先用 PyMuPDF 渲染 300 dpi，再逐页调用 tesseract（_tmp/ocr_<sid>.py 可复用）
@@ -423,7 +423,7 @@ python _tools/sources.py library-add --file _tmp/x.pdf --text _tmp/x_ocr.txt --n
 - `library-add` 按 DOI 合并回原记录，`file_path` 会指向新的 OCR 文本目录；旧的乱码目录要删掉，并从 `_unpublished/文库/manifest.json` 里去掉对应条目，否则同一作品在文库里有两份。
 - OCR 文本是**二次转写**：希腊字母、上下标、表格数字、种加词容易错（如 `auctorum`、`×`、`µm`、`sp. n.`）。写页面时只取版面清楚、语义自洽的句子，量度和新分类单元名必须回到页面图像核对；拿不准就标「待核」，不要凭 OCR 猜测。
 - OCR 成功后把 `refetch.json` 的该条改 `status: "done"`，加 `"resolved": "YYYY-MM-DD"` 与一句 `"resolution"`（OCR 页数、字符数、新 `file_path`），条目保留不删。
-- **来源记录找不到**：先 `sources.py list` 按 `library.book` 找；确实没有就补一条 `library-add` 或 `add`，不要空着 `src`。
+- **来源记录找不到**：先 `sources.py list` 按 `library.book` 找。确实没有时，删掉该引用，或标「待存档」并在 `notes.md` 记下交给抓取工作流补档；**不要在定时任务里 `library-add` 或 `add` 新记录**。
 - **`sources.py check` 报 E010**：说明正文引用了未存档 id；补存档或删掉该引用。
 - **旧名对应不到当前页面**：查 `species_authority`／`synonym_pairs`；仍不确定就在草稿里标「待核」，不要硬写。
 - **生成脚本覆盖了手工内容**：属／科／亚科页只能通过 `_data/taxon_literature.json` + include 注入；物种页只能放在 AUTO 区块之外。若发现被覆盖，检查 include 是否在生成模板里。
