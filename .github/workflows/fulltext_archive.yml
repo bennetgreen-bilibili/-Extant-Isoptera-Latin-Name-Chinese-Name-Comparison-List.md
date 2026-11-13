@@ -9,6 +9,9 @@ name: Archive OA fulltext
 # 以文库 manifest 作为「已归档」的唯一真源，因此不会重复下载已归档论文；仅对先前失败的候选
 # 每周重新查一次 OA（带礼貌邮箱，无害）。归档只改 .library-vault/ 与 .sources/，不影响站点渲染，
 # 所以这里不触发 Pages 构建。
+# 另：--refetch 会先处理 _reports/library-reading/refetch.json 里 status=pending 的来源
+# （阅读任务只登记、不抓取；重抓归本工作流）。拿到全文后该条写回 done/resolution，
+# 仍未拿到则保留 pending 并记 last_result，下周继续。
 
 on:
   workflow_dispatch:
@@ -30,6 +33,11 @@ on:
         required: false
         type: boolean
         default: false
+      refetch:
+        description: "先重抓 refetch.json 里 status=pending 的来源（定时运行默认开）"
+        required: false
+        type: boolean
+        default: true
   schedule:
     # 每周一 04:23 UTC（北京时间 12:23）；错开 papers_refresh 的 03:47 与照片爬取 03:17
     - cron: "23 4 * * 1"
@@ -96,11 +104,15 @@ jobs:
           LIMIT: ${{ github.event.inputs.limit || '0' }}
           TIME_BUDGET: ${{ github.event.inputs['time-budget'] || '300' }}
           FORCE: ${{ github.event.inputs.force || 'false' }}
+          REFETCH: ${{ github.event.inputs.refetch || 'true' }}
         run: |
           set -u
           args=(--write --discover "$DISCOVER" --limit "$LIMIT" --time-budget "$TIME_BUDGET")
           if [ "$FORCE" = "true" ]; then
             args+=(--force)
+          fi
+          if [ "$REFETCH" = "true" ]; then
+            args+=(--refetch)
           fi
           python _tools/fetch_fulltext.py "${args[@]}"
 
@@ -120,6 +132,8 @@ jobs:
           git add -- _data/fulltext_hosts.json 2>/dev/null || true
           git add -- _data/fulltext_manual.json 2>/dev/null || true
           git add -- _tools/manual_fulltext.md 2>/dev/null || true
+          # 重抓队列：--refetch 拿到全文后会把条目写回 done/resolution，要一起提交
+          git add -- _reports/library-reading/refetch.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "no archive changes to commit"
             exit 0

@@ -14,6 +14,12 @@ python _tools/sources.py library-add 入库（_unpublished/文库 + .sources/）
   python _tools/fetch_fulltext.py --discover 20                  # 从 papers.json 生成候选队列（不下载）
   python _tools/fetch_fulltext.py --dry-run --discover 20 --limit 2   # 只解析 OA 链接，不下载/不入库
   python _tools/fetch_fulltext.py --write --discover 20 --limit 10 --time-budget 600
+  python _tools/fetch_fulltext.py --check            # 看 refetch.json 还有几条待重抓
+  python _tools/fetch_fulltext.py --write --refetch   # 先重抓 refetch.json 的 pending 条目（忽略已归档/冷却）
+
+refetch.json（`_reports/library-reading/refetch.json`）由「每日文库研读」任务登记（乱码、抽取失败、
+证据不足），本脚本负责真去重抓：拿到全文写回 `status: done` + `resolution`，没拿到保留 `pending`
+并记 `last_result`，由全库归档工作流每周一自动跑。
 
 环境变量：
   UNPAYWALL_EMAIL   必填（Unpaywall 礼貌邮箱；缺省则跳过 Unpaywall）
@@ -55,6 +61,7 @@ MANIFEST_REL = "_unpublished/文库/manifest.json"
 INDEX_REL = ".sources/index.json"
 PAPERS_REL = "_data/papers.json"
 SOURCES_PY = "_tools/sources.py"
+REFETCH_REL = "_reports/library-reading/refetch.json"   # 阅读任务登记的「待重抓」队列（本脚本负责真抓）
 
 OCR_MIN_CHARS = 500
 OCR_MAX_PAGES = 60
@@ -217,6 +224,111 @@ def _retryable_dois(root: Path) -> set:
                 for k in _doi_keys(rec):
                     retry.add(k)
     return retry - full
+
+
+def _load_refetch(root: Path) -> dict:
+    data = _load_json(root / REFETCH_REL)
+    if not isinstance(data, dict) or not isinstance(data.get("items"), list):
+        return {"version": 1, "items": []}
+    return data
+
+
+def _pending_refetch(root: Path) -> list:
+    """refetch.json 里 status=pending 的条目：阅读任务只登记，由本脚本真去重抓。"""
+    out = []
+    for it in _load_refetch(root).get("items") or []:
+        if not isinstance(it, dict):
+            continue
+        if str(it.get("status") or "").strip() != "pending":
+            continue
+        if not (it.get("doi") or "").strip():
+            continue
+        out.append(it)
+    return out
+
+
+def _index_record(root: Path, sid) -> dict:
+    data = _load_json(root / INDEX_REL) or {}
+    for rec in data.get("sources") or []:
+        if str(rec.get("id")) == str(sid):
+            return rec
+    return {}
+
+
+def _refetch_meta(root: Path, item: dict, papers_by_doi: dict) -> dict:
+    """把 refetch 条目补成可抓取的元数据：refetch.json → .sources 记录 → papers.json。"""
+    rec = _index_record(root, item.get("id"))
+    doi = (item.get("doi") or rec.get("doi") or "").strip()
+    p = papers_by_doi.get(_norm_doi(doi)) or {}
+    return {
+        "doi": doi,
+        "title": (item.get("title") or rec.get("title") or p.get("title") or doi).strip(),
+        "year": _to_int(p.get("year")) or _to_int(rec.get("year")),
+        "authors": p.get("authors") or rec.get("authors") or [],
+        "venue": p.get("venue") or "",
+        "language": p.get("language") or rec.get("lang") or "",
+        "abstract": p.get("abstract") or "",
+        "abstract_source": p.get("abstract_source") or "",
+        "oa_url": p.get("oa_url") or "",
+        "type": p.get("type") or "",
+    }
+
+
+def _refetch_queue(root: Path):
+    """返回 (可处理队列项, {规范化 DOI: (refetch 条目, 元数据)})。"""
+    items = _pending_refetch(root)
+    if not items:
+        return [], {}
+    papers = {_norm_doi(p.get("doi") or ""): p for p in _load_papers(root)}
+    work, metas = [], {}
+    for it in items:
+        meta = _refetch_meta(root, it, papers)
+        key = _norm_doi(meta.get("doi") or "")
+        if not key:
+            print("[fulltext] refetch " + str(it.get("id")) + " 缺 DOI，跳过", file=sys.stderr)
+            continue
+        work.append(dict(meta, refetch=True, refetch_id=it.get("id")))
+        metas[key] = (it, meta)
+    return work, metas
+
+
+def _refetch_finish(root: Path, refetch_metas: dict, detail: dict, cache: dict,
+                    attempted=None) -> None:
+    """收尾写回 refetch.json：拿到全文 → done；否则保留 pending 并记本轮结果。
+
+    attempted 给出时只写回本轮真正处理过的条目（被 --limit／时间预算挡下的不动）。
+    """
+    data = _load_refetch(root)
+    items = data.get("items") or []
+    today = time.strftime("%Y-%m-%d")
+    changed = 0
+    for key, (item, _meta) in refetch_metas.items():
+        if attempted is not None and key not in attempted:
+            continue
+        sid = item.get("id")
+        for rec in items:
+            if not isinstance(rec, dict) or rec.get("id") != sid:
+                continue
+            rec["attempts"] = int(rec.get("attempts") or 0) + 1
+            rec["last_attempt"] = today
+            if key in detail:
+                d = detail[key]
+                rec["status"] = "done"
+                rec["resolved"] = today
+                rec["resolution"] = ("抓取工作流自动重抓：" + str(d.get("source") or "")
+                                     + " " + str(d.get("kind") or "").upper()
+                                     + ("，扫描件经 OCR" if d.get("ocr") else "")
+                                     + "；library-add 已合并回 " + str(sid) + "。")
+                rec.pop("last_result", None)
+            else:
+                st = str((cache.get(key) or {}).get("status") or "未处理")
+                rec["status"] = "pending"
+                rec["last_result"] = ("本轮仍未取得全文（" + st + "）")[:400]
+            changed += 1
+    if changed:
+        _save_json(root / REFETCH_REL, data)
+        done = sum(1 for k in detail if k in refetch_metas)
+        print("[fulltext] refetch.json 已更新 " + str(changed) + " 条（本轮取得全文 " + str(done) + "）")
 
 
 def _load_papers(root: Path) -> list:
@@ -814,6 +926,41 @@ def _probe_pdf_text(pdf_path, max_pages=10):
     return total
 
 
+def _probe_pdf_sample(pdf_path, max_pages=3):
+    """取前几页的文字层样本，用于判断「有文字层但整篇是乱码」（自定义字形编码的 PDF）。"""
+    try:
+        import fitz
+    except ImportError:
+        return ""
+    try:
+        doc = fitz.open(str(pdf_path))
+    except Exception:
+        return ""
+    parts = []
+    try:
+        for page in doc:
+            parts.append(page.get_text("text") or "")
+            if page.number + 1 >= max_pages:
+                break
+    finally:
+        doc.close()
+    return "\n".join(parts)
+
+
+def _text_looks_garbled(text: str) -> bool:
+    """文字层是否存在、但基本不可读：私用区字符、替换符、控制符占比过高即判乱码。
+
+    只抓「自定义字形编码」这类硬伤（如 S0205 的 eje.cz PDF）；正常的非英语文本不会被误判。
+    """
+    sample = [ch for ch in (text or "") if not ch.isspace()]
+    if len(sample) < 200:
+        return False
+    pua = sum(1 for ch in sample if "\ue000" <= ch <= "\uf8ff")
+    bad = sum(1 for ch in sample
+              if ch == "\ufffd" or (ord(ch) < 32 and ch not in "\t\n\r"))
+    return (pua / len(sample)) > 0.02 or (bad / len(sample)) > 0.01
+
+
 def _ocr_pdf(pdf_path, tess_cmd, tessdata, lang, out_txt, max_pages):
     try:
         import fitz
@@ -1083,6 +1230,9 @@ def run_check(root: Path, args) -> int:
         unarchived.append(p)
     unarchived.sort(key=lambda x: (-(x.get("cited_by") or 0), -(x.get("year") or 0)))
     print("[fulltext] 已归档 DOI（文库 + 账本）：" + str(len(archived)))
+    pending = _pending_refetch(root)
+    print("[fulltext] refetch.json 待重抓：" + str(len(pending)) + " 条"
+          + ("（--write 时加 --refetch 会先处理它们）" if pending else ""))
     print("[fulltext] papers.json 带 OA 标记的条目：" + str(len(oa_entries))
           + "；去重后未归档：" + str(len(unarchived)))
     qp = root / args.queue
@@ -1134,9 +1284,21 @@ def run_write(root: Path, args) -> int:
     if args.discover:
         _merge_queue(root, root / args.queue, _discover_candidates(root, args.discover))
     queue = _load_json(root / args.queue)
-    if not isinstance(queue, list) or not queue:
+    if not isinstance(queue, list):
+        queue = []
+    refetch_work, refetch_metas = ([], {})
+    if getattr(args, "refetch", False):
+        refetch_work, refetch_metas = _refetch_queue(root)
+        if refetch_work:
+            print("[fulltext] refetch 待重抓 " + str(len(refetch_work))
+                  + " 条（忽略已归档标记与失败冷却）")
+    if not queue and not refetch_work:
         print("[fulltext] 队列为空：先 --discover N 生成候选", file=sys.stderr)
         return 2
+    # refetch 条目排在最前，且不与普通队列重复（同一 DOI 以 refetch 为准）
+    work = refetch_work + [it for it in queue
+                           if isinstance(it, dict) and it.get("doi")
+                           and _norm_doi(it["doi"]) not in refetch_metas]
     archived = _archived_dois(root)
     retryable = _retryable_dois(root)
     cache = _load_json(root / args.cache)
@@ -1151,16 +1313,19 @@ def run_write(root: Path, args) -> int:
     processed = archived_ok = abstract_ok = skipped = recent = no_oa = errors = scanned = 0
     blocked_n = transient_n = linkless_n = 0
     manual_seen = []      # 本轮判定「拿不到 = 需要人工」的条目，收尾时并入待人工获取清单
-    for it in queue:
+    fulltext_detail = {}  # 本轮真正拿到全文的 DOI → {source, kind, ocr}（refetch 收尾用）
+    attempted_refetch = set()   # 本轮真正处理过的 refetch DOI（被 limit/预算挡下的不记账）
+    for it in work:
         if not isinstance(it, dict) or not it.get("doi"):
             continue
         doi = it["doi"]
         key = _norm_doi(doi)
-        if key in archived:
+        rq = bool(it.get("refetch"))
+        if key in archived and not rq:
             skipped += 1
             continue
         prev = cache.get(key)
-        if not args.force and isinstance(prev, dict) and prev.get("status") not in ("ok", "resolved"):
+        if not rq and not args.force and isinstance(prev, dict) and prev.get("status") not in ("ok", "resolved"):
             now = time.time()
             age = now - (prev.get("attempted_at") or 0)
             if (prev.get("next_try") or 0) > now:
@@ -1175,6 +1340,8 @@ def run_write(root: Path, args) -> int:
             print("[fulltext] 时间预算用尽，停止")
             break
         processed += 1
+        if rq:
+            attempted_refetch.add(key)
         print("[fulltext] [" + str(processed) + "] doi:" + doi)
         meta = resolve(doi, it, mailto, api_key, budget, hosts)
         if not meta or not (meta.get("candidates") or []):
@@ -1295,14 +1462,17 @@ def run_write(root: Path, args) -> int:
         ocr_note = None
         if meta.get("kind") == "pdf":
             probed = _probe_pdf_text(tmpfile)
-            if 0 <= probed < OCR_MIN_CHARS:
+            garbled = (rq and probed >= OCR_MIN_CHARS
+                       and _text_looks_garbled(_probe_pdf_sample(tmpfile)))
+            if 0 <= probed < OCR_MIN_CHARS or garbled:
+                why = "文字层乱码" if garbled else ("扫描件（文字层 " + str(probed) + " 字）")
                 tess = _find_tesseract(args.tesseract_cmd)
                 if not tess:
                     scanned += 1
                     cache[key] = {"status": "scanned-needs-ocr", "attempted_at": time.time(),
                                   "url": meta.get("url"),
-                                  "error": "扫描件（文字层 " + str(probed) + " 字），无 tesseract"}
-                    print("[fulltext]   扫描件（文字层 " + str(probed) + " 字），无 tesseract，跳过")
+                                  "error": why + "，无 tesseract"}
+                    print("[fulltext]   " + why + "，无 tesseract，跳过")
                     try:
                         tmpfile.unlink()
                     except OSError:
@@ -1331,6 +1501,8 @@ def run_write(root: Path, args) -> int:
             archived_ok += 1
             archived.add(key)
             fulltext_ok.add(key)
+            fulltext_detail[key] = {"source": meta.get("source"), "kind": meta.get("kind"),
+                                    "ocr": bool(text_path)}
             cache[key] = {"status": "ok", "source": meta.get("source"), "kind": meta.get("kind"),
                           "url": meta.get("url"), "attempted_at": time.time()}
             print("[fulltext]   已归档（" + str(meta.get("source")) + " " + str(meta.get("kind")).upper() + "）")
@@ -1344,6 +1516,8 @@ def run_write(root: Path, args) -> int:
                           "error": ((err or out) or "library-add 失败").strip()[:300]}
             print("[fulltext]   library-add 失败：" + ((err or out) or "").strip()[:200])
         time.sleep(POLITE_DELAY)
+    if refetch_metas and not args.dry_run:
+        _refetch_finish(root, refetch_metas, fulltext_detail, cache, attempted_refetch)
     _save_hosts(root, hosts)
     _save_json(root / args.cache, cache)
     # 待人工获取清单：每轮 --write 都重建（不只是本轮失败的，历史列表会累积到全部解决为止）
@@ -1396,6 +1570,9 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--write", action="store_true", help="执行爬取 + 归档")
     ap.add_argument("--manual-only", action="store_true",
                     help="只重建待人工获取清单（不联网；人工 library-add 后用它刷新）")
+    ap.add_argument("--refetch", action="store_true",
+                    help="先重抓 _reports/library-reading/refetch.json 里 status=pending 的来源"
+                         "（忽略已归档标记与失败冷却，拿到全文后写回 done/resolution）")
     return ap
 
 

@@ -408,6 +408,12 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 
   `library_scan.py scan` 会把这些 id 标出来（`summary.json` 的 `refetch_pending` 与命令输出），并**把本轮没被正常选中的条目追加在单元末尾**（`units.json` 里 `"extra": true`；`summary.json` 的 `refetch_extra` 列出）。追加进来的单元本轮读它的可读部分（标题、摘要），正文按「据摘要」或整条记 `rejected`，**不 mark 全文已读**，并在 `notes.md` 写明「待抓取工作流重抓」。**不要在定时任务里下载可读版本或跑 `library-add`。**
 
+  **登记之后由抓取工作流接手**：`.github/workflows/fulltext_archive.yml` 每周一 04:23 UTC 跑
+  `python _tools/fetch_fulltext.py --write --refetch`，会忽略「已归档」标记与失败冷却，按 DOI 重新
+  解析 OA 链接并下载；PDF 文字层乱码（私用区／替换符占比过高）时自动转 OCR。拿到全文就把该条写回
+  `status: "done"` + `resolved` + `resolution`（并 `library-add` 合并回原 `Sxxxx`），仍拿不到则保留
+  `pending` 并记 `last_result`，下周继续。阅读任务**只登记、不追踪、不回填**这些字段（m00776）。
+
 #### 9.1 乱码 PDF 的 OCR 修复（属抓取工作流，定时任务不执行）
 
 本机**已装 Tesseract**（`C:\Program Files\Tesseract-OCR\tesseract.exe`，没加进 PATH，必须写全路径；语言包只有 `eng` + `osd`）。下面这段是给抓取工作流／人工修档案时用的流程；定时任务遇到乱码只按 §9 登记 `refetch.json`，不自己 OCR、不入库。

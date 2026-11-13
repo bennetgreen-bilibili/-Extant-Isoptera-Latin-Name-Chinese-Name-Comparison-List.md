@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "note": "待重抓取队列：本地全文抽取失败／乱码／证据不足的来源。scan 不插队，但会把未选中的条目追加到本轮单元末尾（extra），每轮必须真去重抓。",
+  "note": "待重抓取队列：本地全文抽取失败／乱码／证据不足的来源。阅读任务只登记（scan 不插队，但会把未选中的条目追加到本轮单元末尾 extra）；重抓由 .github/workflows/fulltext_archive.yml 每周一跑 fetch_fulltext.py --refetch 执行，成功写 done/resolution，失败保留 pending 并记 last_result。",
   "items": [
     {
       "id": "S0205",
