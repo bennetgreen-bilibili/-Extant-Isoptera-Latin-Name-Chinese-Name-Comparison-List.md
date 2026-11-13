@@ -69,5 +69,5 @@ synonym_localities: "Democratic Republic of the Congo: Haut Uélé: Moto"
 - [*Isognathotermes ugandensis burundii* 布隆迪亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-burundii/) —— Josens & Deligne, 2025，模式产地：Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]
 - [*Isognathotermes ugandensis kenyae* 肯尼亚亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-kenyae/) —— Josens & Deligne, 2025，模式产地：Kenya: Mukuyuni \[ 0.0269N 36.0051E \]
 - [*Isognathotermes ugandensis malawii* 马拉维亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-malawii/) —— Josens & Deligne, 2025，模式产地：Malawi: Dowa-Lilongwe road \[ 13.65S 33.85E \]
-- [*Isognathotermes ugandensis ugandensis* 指名亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-ugandensis/) —— Josens & Deligne, 2025，模式产地：Uganda: near Entebbe
+- [*Isognathotermes ugandensis ugandensis* 指名亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-ugandensis/) —— Fuller, 1923，模式产地：Uganda: near Entebbe
 <!-- AUTO:END -->

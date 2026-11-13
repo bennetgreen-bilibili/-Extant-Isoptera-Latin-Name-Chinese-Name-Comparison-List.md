@@ -3,7 +3,7 @@ layout: species
 lang: zh-CN
 single_lang: true
 permalink: /species/isognathotermes-ugandensis-ugandensis/
-title: "Isognathotermes ugandensis ugandensis Josens & Deligne, 2025 指名亚种"
+title: "Isognathotermes ugandensis ugandensis Fuller, 1923 指名亚种"
 latin: "Isognathotermes ugandensis ugandensis"
 zh: "指名亚种"
 type: false
@@ -22,14 +22,14 @@ clade_latin: "Geoisoptera"
 parent_latin: "Isognathotermes ugandensis"
 parent_zh: "乌干达等颚白蚁"
 parent_slug: "isognathotermes-ugandensis"
-author_year: "Josens & Deligne, 2025"
+author_year: "Fuller, 1923"
 type_locality: "Uganda: near Entebbe"
 ---
 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Isognathotermes ugandensis ugandensis*）是乌干达等颚白蚁（*Isognathotermes ugandensis*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）。本亚种由 Josens & Deligne 于 2025 年描述，模式产地为 Uganda: near Entebbe。本页暂无单列的分布记录，母种 *Isognathotermes ugandensis* 的分布见下文「分布」一节。
+**指名亚种**（*Isognathotermes ugandensis ugandensis*）是乌干达等颚白蚁（*Isognathotermes ugandensis*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）。本亚种由 Fuller 于 1923 年描述，模式产地为 Uganda: near Entebbe。本页暂无单列的分布记录，母种 *Isognathotermes ugandensis* 的分布见下文「分布」一节。
 
 ## 词源
 

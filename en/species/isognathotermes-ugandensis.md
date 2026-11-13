@@ -71,5 +71,5 @@ This species includes 4 subspecies:
 - [*Isognathotermes ugandensis burundii*]({{ site.base_url }}/en/species/isognathotermes-ugandensis-burundii/) — Josens & Deligne, 2025, type locality: Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]
 - [*Isognathotermes ugandensis kenyae*]({{ site.base_url }}/en/species/isognathotermes-ugandensis-kenyae/) — Josens & Deligne, 2025, type locality: Kenya: Mukuyuni \[ 0.0269N 36.0051E \]
 - [*Isognathotermes ugandensis malawii*]({{ site.base_url }}/en/species/isognathotermes-ugandensis-malawii/) — Josens & Deligne, 2025, type locality: Malawi: Dowa-Lilongwe road \[ 13.65S 33.85E \]
-- [*Isognathotermes ugandensis ugandensis*]({{ site.base_url }}/en/species/isognathotermes-ugandensis-ugandensis/) — Josens & Deligne, 2025, type locality: Uganda: near Entebbe
+- [*Isognathotermes ugandensis ugandensis*]({{ site.base_url }}/en/species/isognathotermes-ugandensis-ugandensis/) — Fuller, 1923, type locality: Uganda: near Entebbe
 <!-- AUTO:END -->

@@ -88,6 +88,7 @@ CORE_COLUMNS = [
     "subfamily",
     "genus",
     "higherClassification",
+    "nomenclaturalCode",
     "vernacularName",
     "taxonRemarks",
 ]
@@ -111,6 +112,9 @@ TERM_URI = {
     "subfamily": DWC + "subfamily",
     "genus": DWC + "genus",
     "higherClassification": DWC + "higherClassification",
+    # 不写这一列时 GBIF 会报 "nomenclatural code inferred"——动物命名规约是 ICZN，
+    # 全体条目一致，直接在 base_row 里给默认值。
+    "nomenclaturalCode": DWC + "nomenclaturalCode",
     # core 里也留一列中文名，方便只读核心表的工具；带语言码的同名数据在扩展里
     "vernacularName": DWC + "vernacularName",
     "taxonRemarks": DWC + "taxonRemarks",
@@ -226,6 +230,7 @@ def higher_classification(clades: dict[str, dict], clade_id: str) -> str:
 
 def base_row(**fields) -> dict:
     row = {name: "" for name in CORE_COLUMNS}
+    row["nomenclaturalCode"] = "ICZN"
     row.update(fields)
     return row
 
@@ -388,7 +393,11 @@ def split_name_authorship(head: str) -> tuple[str, str]:
     「Hodotermes ( Anacanthotermes ) koenigi Holmgren & Holmgren, 1917」会被切坏。
     改用词法：属名 → 可选 (亚属) → 若干小写开头的加词 → 其余是命名人。
     """
-    tokens = head.split()
+    # 括号必须是独立 token：数据里既有「Hodotermes ( Anacanthotermes ) koenigi」，
+    # 也有紧贴着写的「Eutermes (Eutermes) latinasus」。只按空格切的话后者会被当成
+    # 一个 token，切分停在第 1 个词，学名变成「Eutermes」、其余全塞进命名人——
+    # GBIF 于是报 partially parsable name / inconsistent name / duplicate name。
+    tokens = head.replace("(", " ( ").replace(")", " ) ").split()
     if not tokens:
         return head, ""
     index = 1  # 属名
@@ -434,11 +443,15 @@ def build_synonym_rows(meta: dict, by_id: dict[str, dict]) -> list[dict]:
             if not name:
                 raise SystemExit(f"[错误] 异名解析为空：{raw_synonym}")
 
+            # 去重按「学名 + 命名人」而不是原始串：同一个次异名有时同时挂在两个接受名
+            # 下（各自带不同页码），保留第一条即可，否则 GBIF 报 duplicate name。
+            name_key = f"{name.lower()}|{authorship.lower()}"
+            if name_key in seen:
+                continue
+            seen.add(name_key)
+
             ident = f"{slugify(name)}-{sha1_short(f'{accepted_id}|{raw_synonym}')}"
             synonym_id = f"{site_url(meta)}/taxon/synonym/{ident}/"
-            if synonym_id in seen:
-                continue
-            seen.add(synonym_id)
 
             remarks = []
             if page:
@@ -572,13 +585,20 @@ def eml_xml(meta: dict) -> str:
         '<!-- 用 GBIF Metadata Profile（EML 2.1.1 派生）。发布方与联系人来自 '
         "dataset/metadata.json 的 eml 区块；邮箱 / ORCID 留空时不出现在这里，"
         "GBIF Data Validator 会提示补全。 -->",
+        # 根元素带 eml 前缀，但**不能**再声明默认命名空间：eml.xsd 里
+        #   <xs:element name="eml"> ... <xs:element ref="dataset"/> ...
+        # 这个 ref 指向的是「无命名空间」的 dataset（GBIF profile 文件本身没有
+        # targetNamespace），所以 dataset 及其子元素必须裸写。加一个默认 xmlns 会把
+        # dataset 变成合格命名空间，validator 报 "Element '{eml…}dataset': This element
+        # is not expected. Expected is ( dataset )"。scope 是 profile 里固定必填的属性。
         '<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"'
         ' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"'
         f' xmlns:dc="{DCTERMS}"'
         f" packageId={quoteattr('doi:' + doi if doi else 'extant-isoptera-checklist')}"
+        ' scope="system"'
         ' system="https://doi.org"'
         ' xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1'
-        ' http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml-gbif-profile.xsd"'
+        ' http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"'
         ' xml:lang="en">',
         "  <dataset>",
     ]
@@ -588,7 +608,7 @@ def eml_xml(meta: dict) -> str:
     lines.append(f'    <title xml:lang="en">{escape(meta["title"]["en"])}</title>')
     lines.append(f'    <title xml:lang="zh">{escape(meta["title"]["zh"])}</title>')
 
-    lines.append('    <creator id="creator-1">')
+    lines.append("    <creator>")
     lines.append("      <individualName>")
     if given:
         lines.append(f"        <givenName>{escape(given)}</givenName>")
@@ -601,7 +621,7 @@ def eml_xml(meta: dict) -> str:
     lines.append("    </creator>")
 
     organization = config["publishing_organization"] or "Extant Isoptera Checklist"
-    lines.append('    <metadataProvider id="org-1">')
+    lines.append("    <metadataProvider>")
     lines.append(f"      <organizationName>{escape(organization)}</organizationName>")
     lines.append(f"      <onlineUrl>{escape(site + '/')}</onlineUrl>")
     lines.append("    </metadataProvider>")
@@ -611,35 +631,35 @@ def eml_xml(meta: dict) -> str:
     lines.append("    </associatedParty>")
 
     lines.append(f"    <pubDate>{escape(meta['dates']['issued'])}</pubDate>")
-    lines.append("    <language>en</language>")
+    resource_language = (meta.get("language") or "en").replace("_", "-").split("-")[0].lower()
+    lines.append(f"    <language>{escape(resource_language)}</language>")
     lines.append("    <abstract>")
     lines.append(f"      <para>{escape(abstract)}</para>")
     lines.append("    </abstract>")
 
+    # GBIF profile 的 keywordSet 里 keywordThesaurus 是必填的（EML 本身不强制），但
+    # 这一组关键词不来自任何受控词表——写 none 表示「无词表」，不去编一个不存在的
+    # 词表名。中英文关键词放进同一组，因为 EML 的 keywordSet 没有语言属性。
     lines.append("    <keywordSet>")
-    for keyword in meta["keywords"]["en"]:
+    for keyword in list(meta["keywords"]["en"]) + list(meta["keywords"]["zh"]):
         lines.append(f"      <keyword>{escape(keyword)}</keyword>")
-    lines.append("    </keywordSet>")
-    # 中文关键词单独成组。EML 的 keywordSet 没有语言属性，keywordThesaurus 又必须指向
-    # 一个真实存在的受控词表——这里没有可指的词表，宁可留空，也不编一个不存在的名称。
-    lines.append("    <!-- 中文关键词 / Chinese keywords -->")
-    lines.append("    <keywordSet>")
-    for keyword in meta["keywords"]["zh"]:
-        lines.append(f"      <keyword>{escape(keyword)}</keyword>")
+    lines.append("      <keywordThesaurus>none</keywordThesaurus>")
     lines.append("    </keywordSet>")
 
+    # 只有一个 para（profile 里 intellectualRights/para 的 maxOccurs 是 1），且
+    # ulink 必须带一个 citetitle 子元素（profile 把它设成必填）——所以链接的文字放
+    # citetitle，不能直接写成 ulink 的文本内容。
+    license_url = license_info.get("url", "")
+    license_name = license_info.get("name", "") or license_info.get("identifier", "")
+    license_text = f"{license_info.get('name', '')} ({license_info.get('identifier', '')})"
     lines.append("    <intellectualRights>")
     lines.append(
         "      <para>"
-        + escape(f"{license_info.get('name', '')} ({license_info.get('identifier', '')})")
+        + escape(license_text + " ")
+        + f"<ulink url={quoteattr(license_url)}>"
+        + f"<citetitle>{escape(license_name)}</citetitle></ulink>"
         + "</para>"
     )
-    lines.append("      <para>")
-    lines.append(
-        f"        <ulink url={quoteattr(license_info.get('url', ''))}>"
-        f"{escape(license_info.get('url', ''))}</ulink>"
-    )
-    lines.append("      </para>")
     lines.append("    </intellectualRights>")
 
     lines.append("    <distribution>")
@@ -648,7 +668,7 @@ def eml_xml(meta: dict) -> str:
     lines.append("      </online>")
     lines.append("    </distribution>")
 
-    lines.append('    <contact id="contact-1">')
+    lines.append("    <contact>")
     lines.append("      <individualName>")
     if contact_given:
         lines.append(f"        <givenName>{escape(contact_given)}</givenName>")

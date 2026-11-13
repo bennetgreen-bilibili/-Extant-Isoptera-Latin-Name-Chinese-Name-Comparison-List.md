@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Isognathotermes ugandensis ugandensis Josens & Deligne, 2025 指名亚种"
+title: "Isognathotermes ugandensis ugandensis Fuller, 1923 指名亚种"
 lang: es
 permalink: /es/species/isognathotermes-ugandensis-ugandensis/
 species_page: true
@@ -24,14 +24,14 @@ clade_latin: "Geoisoptera"
 parent_latin: "Isognathotermes ugandensis"
 parent_zh: "乌干达等颚白蚁"
 parent_slug: "isognathotermes-ugandensis"
-author_year: "Josens & Deligne, 2025"
+author_year: "Fuller, 1923"
 type_locality: "Uganda: near Entebbe"
 ---
 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Isognathotermes ugandensis ugandensis*** es una subespecie de *Isognathotermes ugandensis*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Isognathotermes*. La subespecie fue descrita por Josens & Deligne en 2025; la localidad tipo es Uganda: near Entebbe. No se incluye un registro de distribución separado en esta página; véase la especie parental *Isognathotermes ugandensis* más abajo.
+***Isognathotermes ugandensis ugandensis*** es una subespecie de *Isognathotermes ugandensis*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Isognathotermes*. La subespecie fue descrita por Fuller en 1923; la localidad tipo es Uganda: near Entebbe. No se incluye un registro de distribución separado en esta página; véase la especie parental *Isognathotermes ugandensis* más abajo.
 
 ## Etimología
 

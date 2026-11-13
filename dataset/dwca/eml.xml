@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 用 GBIF Metadata Profile（EML 2.1.1 派生）。发布方与联系人来自 dataset/metadata.json 的 eml 区块；邮箱 / ORCID 留空时不出现在这里，GBIF Data Validator 会提示补全。 -->
-<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/terms/" packageId="doi:10.5281/zenodo.23646836" system="https://doi.org" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml-gbif-profile.xsd" xml:lang="en">
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/terms/" packageId="doi:10.5281/zenodo.23646836" scope="system" system="https://doi.org" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" xml:lang="en">
   <dataset>
     <alternateIdentifier>https://doi.org/10.5281/zenodo.23646836</alternateIdentifier>
     <title xml:lang="en">Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.30)</title>
     <title xml:lang="zh">现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）</title>
-    <creator id="creator-1">
+    <creator>
       <individualName>
         <givenName>Bennet</givenName>
         <surName>Green</surName>
       </individualName>
       <userId directory="https://orcid.org">0009-0009-8563-8559</userId>
     </creator>
-    <metadataProvider id="org-1">
+    <metadataProvider>
       <organizationName>Extant Isoptera Checklist</organizationName>
       <onlineUrl>https://termite-extant-isoptera.org/</onlineUrl>
     </metadataProvider>
@@ -21,7 +21,7 @@
       <role>publisher</role>
     </associatedParty>
     <pubDate>2026-10-30</pubDate>
-    <language>en</language>
+    <language>zh</language>
     <abstract>
       <para>A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 326 genera, 3021 species and 68 subspecies (3089 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</para>
     </abstract>
@@ -36,9 +36,6 @@
       <keyword>scientific names</keyword>
       <keyword>synonyms</keyword>
       <keyword>biodiversity informatics</keyword>
-    </keywordSet>
-    <!-- 中文关键词 / Chinese keywords -->
-    <keywordSet>
       <keyword>白蚁</keyword>
       <keyword>等翅目</keyword>
       <keyword>等翅下目</keyword>
@@ -49,19 +46,17 @@
       <keyword>生物多样性</keyword>
       <keyword>次异名</keyword>
       <keyword>模式种</keyword>
+      <keywordThesaurus>none</keywordThesaurus>
     </keywordSet>
     <intellectualRights>
-      <para>Creative Commons Attribution 4.0 International (CC-BY-4.0)</para>
-      <para>
-        <ulink url="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ulink>
-      </para>
+      <para>Creative Commons Attribution 4.0 International (CC-BY-4.0) <ulink url="https://creativecommons.org/licenses/by/4.0/"><citetitle>Creative Commons Attribution 4.0 International</citetitle></ulink></para>
     </intellectualRights>
     <distribution>
       <online>
         <url function="information">https://termite-extant-isoptera.org/</url>
       </online>
     </distribution>
-    <contact id="contact-1">
+    <contact>
       <individualName>
         <givenName>Bennet</givenName>
         <surName>Green</surName>

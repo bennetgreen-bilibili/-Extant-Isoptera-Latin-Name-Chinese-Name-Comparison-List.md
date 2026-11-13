@@ -49,7 +49,7 @@
   <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://termite-extant-isoptera.org/</relatedIdentifier>
   <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementedBy">https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md</relatedIdentifier>
  </relatedIdentifiers>
- <sizes>3089 taxon records; 3069516 bytes in data files</sizes>
+ <sizes>3089 taxon records; 3069496 bytes in data files</sizes>
  <formats>
   <format>text/csv</format>
   <format>application/json</format>

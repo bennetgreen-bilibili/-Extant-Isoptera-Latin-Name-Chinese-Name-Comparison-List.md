@@ -56,8 +56,8 @@
 
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
-| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1374329 | `955e934b8450316b…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530524 | `c5662fffc808a539…` |
+| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1374319 | `0d4688268fd0356b…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530514 | `2fefeebcd7bbbe0d…` |
 | `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 148261 | `b8f4c57b9de98ff2…` |
 | `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `76fce47f5eedeaa0…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
@@ -129,12 +129,12 @@
 | 文件 File | 作用 Role |
 |---|---|
 | `dwca/meta.xml` | metafile：core 的 `rowType` 为 `dwc:Taxon`（含 `<id index="0"/>`），另有一个 `VernacularName` 扩展（含 `<coreid index="0"/>`） |
-| `dwca/taxon.csv` | core 表，4150 行 = 接受名 3446（13 科 + 18 亚科 + 326 属 + 3021 种 + 68 亚种）+ 异名 704 |
+| `dwca/taxon.csv` | core 表，4134 行 = 接受名 3446（13 科 + 18 亚科 + 326 属 + 3021 种 + 68 亚种）+ 异名 688 |
 | `dwca/vernacularname.csv` | 中文正名扩展，3446 行，`language` 用 ISO 639-1 的 `zh` |
 | `dwca/eml.xml` | EML 2.1.1 / GBIF Metadata Profile 资源元数据（标题、摘要、许可、关键词、联系人） |
 | `dwca/CHECKSUMS.sha256` | 上述四个文件的 SHA-256 |
 
-core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scientificName`、`scientificNameAuthorship`、`taxonRank`、`taxonomicStatus`、`acceptedNameUsageID`、`parentNameUsageID`、`kingdom`、`phylum`、`class`、`order`、`family`、`subfamily`、`genus`、`higherClassification`、`vernacularName`、`taxonRemarks`。
+core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scientificName`、`scientificNameAuthorship`、`taxonRank`、`taxonomicStatus`、`acceptedNameUsageID`、`parentNameUsageID`、`kingdom`、`phylum`、`class`、`order`、`family`、`subfamily`、`genus`、`higherClassification`、`nomenclaturalCode`、`vernacularName`、`taxonRemarks`。
 
 **标识符与阶元约定（发布后不要改）**
 
@@ -142,6 +142,8 @@ core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scien
 - 阶元只用 `family / subfamily / genus / species / subspecies`。支系（clade）不是林奈阶元，不单独出行，写进 `higherClassification`（如 `Animalia | Arthropoda | Insecta | Blattodea | Isoptera | Neoisoptera`）。
 - 亚科与亚种保留原阶元、不压平：GBIF 的 `taxonRank` 推荐值只有 kingdom / phylum / class / order / family / genus / species 七级，Validator 可能对这两级给出提示——这是刻意的取舍，宁可提示也不丢分类信息。
 - 异名行的 `scientificName` 去掉原文献页码（页码进 `taxonRemarks`），命名人进 `scientificNameAuthorship`，并用 `acceptedNameUsageID` 指回接受名；页面上没有的名称不编造 URL。
+- 异名里带亚属的写法统一成 `Eutermes (Eutermes) latinasus`（括号内不加空格）：原始文献有「Hodotermes ( Anacanthotermes ) koenigi」这种带空格的写法，紧贴或带空格都要切成同一形态，否则 GBIF 只会把它当成未解析全名。同一「学名 + 命名人」只保留一行（同一条异名有时同时挂在两个接受名下）。
+- `nomenclaturalCode` 全部写 `ICZN`：不写这一列时 GBIF 报 “nomenclatural code inferred”。
 - `taxonRemarks` 承接 Taxon 核心表里没有专用术语的两项：模式产地（`type locality: …`）与异名原文献页码（`original page reference: …`）。
 - `meta.xml` 的 `<archive metadata="eml.xml">` 用**归档内相对路径**（IPT 的写法）：validator 打开 zip 后原地就能找到 EML；写成站点绝对 URL 时它要先联网去取，站点那一版还没部署就整包判「Failed to verify archive format」，不说是哪一步。
 
