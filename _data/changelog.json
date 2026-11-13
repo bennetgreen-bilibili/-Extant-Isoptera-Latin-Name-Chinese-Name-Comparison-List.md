@@ -116,8 +116,8 @@
     },
     {
      "depth": 1,
-     "text": "待补三处元数据：`dataset/metadata.json` 的 `eml.publishingOrganization`（现为资源名义）、`eml.contact.email`、`eml.contact.orcid`——留空时不写进 `eml.xml`，GBIF Data Validator 会提示补全。",
-     "html": "待补三处元数据：<code>dataset/metadata.json</code> 的 <code>eml.publishingOrganization</code>（现为资源名义）、<code>eml.contact.email</code>、<code>eml.contact.orcid</code>——留空时不写进 <code>eml.xml</code>，GBIF Data Validator 会提示补全。"
+     "text": "元数据：`publishingOrganization` 写资源名义（独立项目，不编造机构）；`contact` 填项目专用邮箱 `Termite-Extant-Isoptera@protonmail.com` 与 ORCID `0009-0009-8563-8559`，已写入 `eml.xml` 的 `<contact>`；同一 ORCID 同步进 `<creator>`、DataCite `nameIdentifier` 与 `CITATION.cff`。",
+     "html": "元数据：<code>publishingOrganization</code> 写资源名义（独立项目，不编造机构）；<code>contact</code> 填项目专用邮箱 <code>Termite-Extant-Isoptera@protonmail.com</code> 与 ORCID <code>0009-0009-8563-8559</code>，已写入 <code>eml.xml</code> 的 <code>&lt;contact&gt;</code>；同一 ORCID 同步进 <code>&lt;creator&gt;</code>、DataCite <code>nameIdentifier</code> 与 <code>CITATION.cff</code>。"
     },
     {
      "depth": 0,

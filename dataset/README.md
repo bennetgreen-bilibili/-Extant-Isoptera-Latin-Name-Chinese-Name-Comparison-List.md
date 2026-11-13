@@ -150,7 +150,10 @@ core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scien
 2. 规范验证：把 zip 传到 <https://www.gbif.org/tools/data-validator>，它会检查 `meta.xml` 是否合规、术语是否在 GBIF registry、`eml.xml` 是否符合 GBIF profile、ID 引用是否完整。
 3. 发布：作为附加文件挂到对应 Zenodo 版本上（沿用该版本 DOI）；若要拿 GBIF 的 `10.15468` DOI，则需要一个已获 GBIF 节点背书的发布机构（publishing organization），走 IPT 或邮件 helpdesk@gbif.org 注册。
 
-**待补的三处元数据**（`dataset/metadata.json` 的 `eml` 区块）：`publishingOrganization` 现在写的是站点的资源名义，`contact.email` 与 `contact.orcid` 仍为空——留空时不会写进 `eml.xml`（不编造），但 Validator 会提示补全。
+**关于发布方与联系人**
+
+- `publishingOrganization` 写的是本项目的资源名义（`Extant Isoptera Checklist`）：这是个独立项目，没有 GBIF 节点背书的机构，就不编一个机构名。若以后有机构挂靠，把它改成机构名即可。
+- `contact` 填的是项目专用邮箱 `Termite-Extant-Isoptera@protonmail.com` 与 ORCID `0009-0009-8563-8559`，两者会写进 `eml.xml` 的 `<contact>`；同一个 ORCID 也出现在 `<creator>` 和 DataCite 记录的 `nameIdentifier`。改了这几处之后重跑 `python _tools/build_dwca.py --write`（只改数据表之外的东西也要重跑，`--check` 会报不一致）。
 
 ## 已知限制与免责声明 Limitations and disclaimer
 

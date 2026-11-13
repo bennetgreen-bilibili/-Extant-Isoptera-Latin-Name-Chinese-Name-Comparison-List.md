@@ -25,7 +25,7 @@
   - 生成脚本 `_tools/build_dwca.py`（仅标准库、确定性、`--check`/`--write`），只读 `dataset/data/isoptera-taxonomy.json` 与 `isoptera-synonyms.csv`，因此排在 `build_dataset.py` 之后；已接入 `_tools/regen_all.sh`，`pages.yml` 在 Jekyll 之前断言归档包为最新。
   - 标识符：科 `/family/{id}/`、亚科 `/subfamily/{id}/`、属 `/genus/{id}/`、种与亚种用页面 URL、异名 `/taxon/synonym/{slug}-{hash6}/`；**slug 自此是外部数据库引用的键，发布后不再更名**（非改不可时留 301）。
   - 阶元保留 `family / subfamily / genus / species / subspecies` 五级不压平；支系不进阶元，写进 `higherClassification`；异名去掉原文献页码（页码进 `taxonRemarks`），`acceptedNameUsageID` 指回接受名。
-  - 待补三处元数据：`dataset/metadata.json` 的 `eml.publishingOrganization`（现为资源名义）、`eml.contact.email`、`eml.contact.orcid`——留空时不写进 `eml.xml`，GBIF Data Validator 会提示补全。
+  - 元数据：`publishingOrganization` 写资源名义（独立项目，不编造机构）；`contact` 填项目专用邮箱 `Termite-Extant-Isoptera@protonmail.com` 与 ORCID `0009-0009-8563-8559`，已写入 `eml.xml` 的 `<contact>`；同一 ORCID 同步进 `<creator>`、DataCite `nameIdentifier` 与 `CITATION.cff`。
 - 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF、CoL、BSF 一致视为异名）
   - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL、BSF 一致；GBIF 仍标接受名）

@@ -10,6 +10,7 @@
         <givenName>Bennet</givenName>
         <surName>Green</surName>
       </individualName>
+      <userId directory="https://orcid.org">0009-0009-8563-8559</userId>
     </creator>
     <metadataProvider id="org-1">
       <organizationName>Extant Isoptera Checklist</organizationName>
@@ -65,6 +66,8 @@
         <givenName>Bennet</givenName>
         <surName>Green</surName>
       </individualName>
+      <electronicMailAddress>Termite-Extant-Isoptera@protonmail.com</electronicMailAddress>
+      <userId directory="https://orcid.org">0009-0009-8563-8559</userId>
     </contact>
   </dataset>
 </eml:eml>
