@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 437,
+    "count": 442,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-13T19:46:25+08:00",
+    "updated": "2026-11-13T20:04:19+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -21255,9 +21255,11 @@
           "note": "支撑：字段列号从 0 起，写 meta.xml 时列序必须与 CSV 一致"
         }
       ],
-      "used_in": [],
+      "used_in": [
+        "_tools/build_dwca.py"
+      ],
       "notes": "2026-10-13 版规范（本页面 Date version issued）。默认值：fieldsTerminatedBy=`,`、linesTerminatedBy=`\\n`、fieldsEnclosedBy=`\"`、encoding=UTF-8、ignoreHeaderLines=0；示例里 tab 写作 `\\t`。本轮用于回答「DwC-A + EML 要怎么做」，尚未写进仓库文件（实现 build_dwca.py 时补 used_in）。",
-      "accessed": "2026-11-13T19:46:25+08:00",
+      "accessed": "2026-11-13T20:03:04+08:00",
       "canonical_key": "url:https://dwc.tdwg.org/text",
       "id": "S0436"
     },
@@ -21292,9 +21294,11 @@
           "note": "支撑：异名要进同一张表并带 acceptedNameUsageID，才能让 GBIF 把旧名套到接受名上"
         }
       ],
-      "used_in": [],
+      "used_in": [
+        "_tools/build_dwca.py"
+      ],
       "notes": "checklist 表（Table 1）：taxonID = Required；scientificName、taxonRank、kingdom、parentNameUsageID、acceptedNameUsageID = Strongly recommended（GBIF 管理项目下 scientificName/taxonRank 升为 Required）；vernacularName = Share if available。另：scientificName 不许工作名 / 俗名 / 带 cf. 之类的限定词；vernacularName 与 higherClassification 要附 ISO 639-1 语言码。",
-      "accessed": "2026-11-13T19:46:25+08:00",
+      "accessed": "2026-11-13T20:03:04+08:00",
       "canonical_key": "url:https://techdocs.gbif.org/en/data-publishing/data-quality-recommendations",
       "id": "S0437"
     },
@@ -21319,11 +21323,238 @@
           "note": "支撑：资源级元数据没有 Excel 模板，只能手写 EML 或走 IPT 编辑器 —— 本站既然要脚本生成，就得自己产 eml.xml"
         }
       ],
-      "used_in": [],
+      "used_in": [
+        "_tools/build_dwca.py"
+      ],
       "notes": "必需字段（页内 Required metadata fields 列表）：title、description、publishing organization、type、license、contact(s)、creator(s)、metadata provider(s)；推荐 sampling methodology 与 citation。逐条引用时注意该列表是 bullet list，不能合并成一行当引文。",
-      "accessed": "2026-11-13T19:46:25+08:00",
+      "accessed": "2026-11-13T20:03:04+08:00",
       "canonical_key": "url:https://ipt.gbif.org/manual/en/ipt/latest/resource-metadata",
       "id": "S0438"
+    },
+    {
+      "title": "The price of adulthood: ontogenetic patterns of mandibular wear in a drywood termite",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3389/fevo.2026.1955114",
+      "file_path": "_unpublished/文库/The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term",
+      "chars": 81250,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-13T20:03:58+08:00",
+      "notes": "全文存于 _unpublished/文库/The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term（11 页，81250 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-13T20:03:58",
+        "chunks": [
+          {
+            "chunk": "0001-0011",
+            "txt": "_unpublished/文库/The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term/0001-0011.txt",
+            "chars": 81250,
+            "paragraphs": 770,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fevo-1955114.pdf",
+            "sha256": "efe37a61c6210931ea76f8f1d783dd1e9645846663c217e30808ee9e0e8a4009",
+            "bytes": 81901
+          }
+        ]
+      },
+      "authors": [
+        "Arauco-Reyes C.",
+        "Flores-Prado L.",
+        "Gorena T.",
+        "Arab A.",
+        "Aguilera-Olivares D."
+      ],
+      "year": 2026,
+      "publisher": "Frontiers in Ecology and Evolution",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "doi": "10.3389/fevo.2026.1955114",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0439"
+    },
+    {
+      "title": "Pedogeomorphology of a Mound-building termite savanna in Roraima, Brazilian Amazonia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.20502/rbg.v27i3.2823",
+      "file_path": "_unpublished/文库/Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz",
+      "chars": 95113,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-13T20:04:02+08:00",
+      "notes": "全文存于 _unpublished/文库/Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz（27 页，95113 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-13T20:04:02",
+        "chunks": [
+          {
+            "chunk": "0001-0027",
+            "txt": "_unpublished/文库/Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz/0001-0027.txt",
+            "chars": 95113,
+            "paragraphs": 1299,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\rbg-2823.pdf",
+            "sha256": "8c1a7a8f50853600a7c8126f60a6157fbc5b80db0de4dfd490d6155b177ee17c",
+            "bytes": 95787
+          }
+        ]
+      },
+      "authors": [
+        "Oliveira M. N. de",
+        "Do Vale Junior J. F.",
+        "Candido H. G.",
+        "Acioli A. N. S.",
+        "Matos M. G.",
+        "Schaefer C. E. G. R."
+      ],
+      "year": 2026,
+      "publisher": "Revista Brasileira de Geomorfologia",
+      "lang": "en",
+      "license": "CC BY-NC 4.0",
+      "doi": "10.20502/rbg.v27i3.2823",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0440"
+    },
+    {
+      "title": "Viscoelastic liquid lassos extend the defensive reach of termite soldiers",
+      "source_type": "paper",
+      "reliability": "unverified",
+      "canonical_key": "doi:10.64898/2026.10.27.762288",
+      "file_path": "_unpublished/文库/Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers",
+      "chars": 90413,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-13T20:04:09+08:00",
+      "notes": "全文存于 _unpublished/文库/Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers（13 页，90413 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；bioRxiv 预印本，posted 2026-10-29，未经同行评审；正文引用时应标「预印本」。",
+      "library": {
+        "book": "Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-13T20:04:09",
+        "chunks": [
+          {
+            "chunk": "0001-0013",
+            "txt": "_unpublished/文库/Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers/0001-0013.txt",
+            "chars": 90413,
+            "paragraphs": 853,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\biorxiv-lasso.pdf",
+            "sha256": "55018de8b2a3d51d46815a4eee710ba714ce7983d828ac17d76ef75bba2830c4",
+            "bytes": 91008
+          }
+        ]
+      },
+      "authors": [
+        "Challita E. J.",
+        "Ames D. C.",
+        "Harrison J. S.",
+        "McDonald C.",
+        "Rohilla P.",
+        "Sehgal P.",
+        "Nickle D. A.",
+        "Mueller J.",
+        "Bhamla S."
+      ],
+      "year": 2026,
+      "publisher": "bioRxiv (preprint)",
+      "lang": "en",
+      "doi": "10.64898/2026.10.27.762288",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0441"
+    },
+    {
+      "title": "Area-wide evaluation of bait density and cost-effectiveness in the elimination of the Formosan subterranean termite",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1093/jee/toag316",
+      "file_path": "_unpublished/文库/Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o",
+      "chars": 1658,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-13T20:04:16+08:00",
+      "notes": "全文存于 _unpublished/文库/Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o（1658 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；access: closed（Unpaywall OA=False），仅有摘要；正文引用须标「据摘要」。",
+      "library": {
+        "book": "Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-13T20:04:16",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o/full.txt",
+            "chars": 1658,
+            "paragraphs": 3,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\10.1093_jee_toag316-abstract.txt",
+            "sha256": "8aa7c0943614eca52e20925c4e329442ee3b9f891487961e7d4e0a79546ebf9f",
+            "bytes": 1688
+          }
+        ]
+      },
+      "authors": [
+        "Lin W.-J.",
+        "Chen N.",
+        "Chen G.-Y.",
+        "Lai Y.-Y.",
+        "Huang C.-H.",
+        "Li H.-F."
+      ],
+      "year": 2026,
+      "publisher": "Journal of Economic Entomology",
+      "lang": "en",
+      "doi": "10.1093/jee/toag316",
+      "fulltext_status": "abstract-no-oa",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0442"
+    },
+    {
+      "title": "Thermal buffering by termite mounds maintains safety margins while worker traits track climate",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1007/s00040-026-01142-5",
+      "file_path": "_unpublished/文库/Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits",
+      "chars": 1914,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-13T20:04:19+08:00",
+      "notes": "全文存于 _unpublished/文库/Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits（1914 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；出版社 PDF 被 JavaScript 客户端挑战拦截（Client Challenge），仅有摘要；预印本见 doi:10.21203/rs.3.rs-9544425（提交版，未作正文依据）。正文引用须标「据摘要」。",
+      "library": {
+        "book": "Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-13T20:04:19",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits/full.txt",
+            "chars": 1914,
+            "paragraphs": 9,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\10.1007_s00040-026-01142-5-abstract.txt",
+            "sha256": "144d0488886fbc23c893431f7899dbf80847c4d0f724831ca8e169009434428c",
+            "bytes": 1919
+          }
+        ]
+      },
+      "authors": [
+        "Santos M. D.",
+        "da Costa Barreto I.",
+        "Damasio A.",
+        "Faria A. F.",
+        "Cavieres G.",
+        "Aguilera-Olivares D.",
+        "Haifig I.",
+        "Carrijo T. F.",
+        "Arab A."
+      ],
+      "year": 2026,
+      "publisher": "Insectes Sociaux",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "doi": "10.1007/s00040-026-01142-5",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0443"
     }
   ]
 }
