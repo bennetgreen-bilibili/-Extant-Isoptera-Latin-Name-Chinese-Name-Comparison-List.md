@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 434,
+    "count": 437,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-13T19:38:25+08:00",
+    "updated": "2026-11-13T19:46:25+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -21209,6 +21209,121 @@
       "accessed": "2026-11-13T19:38:25+08:00",
       "canonical_key": "url:https://developers.google.com/search/docs/appearance/structured-data/dataset",
       "id": "S0435"
+    },
+    {
+      "title": "Darwin Core text guide",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://dwc.tdwg.org/text/",
+      "authors": [
+        "Darwin Core Maintenance Group"
+      ],
+      "year": 2026,
+      "publisher": "Biodiversity Information Standards (TDWG)",
+      "lang": "en",
+      "license": "CC-BY-4.0",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "The metafile MUST be named `meta.xml`.",
+          "locator": "§2 Metafile content",
+          "note": "支撑：DwC-A 的 meta.xml 文件名是硬性要求，不能叫别的"
+        },
+        {
+          "quote": "The `<archive>` element SHOULD have a `metadata` attribute.",
+          "locator": "§2.1 The `<archive>` element",
+          "note": "支撑：meta.xml 里应挂 metadata 属性指向 eml.xml"
+        },
+        {
+          "quote": "The format of the metadata is not prescribed, but a standardized format such as Ecological Metadata Language (EML), Federal Geographic Data Committee (FGDC), or a format from the ISO 19115 family is RECOMMENDED.",
+          "locator": "§2.1.1 Attributes（metadata 行）",
+          "note": "支撑：EML 是 GBIF/TDWG 推荐（非强制）的 archive 级元数据格式"
+        },
+        {
+          "quote": "The row type is REQUIRED and MUST be a Uniform Resource Identifier (URI) for the term identifying the class of data represented by each row.",
+          "locator": "§2.2.1 Attributes（rowType 行）",
+          "note": "支撑：checklist core 的 rowType 写 http://rs.tdwg.org/dwc/terms/Taxon"
+        },
+        {
+          "quote": "If extensions are being used, the `<core>` MUST contain an `<id>` element, which indicates the identifier for a record.",
+          "locator": "§2.2.2 Elements（`<id>` 行）",
+          "note": "支撑：加 VernacularName 扩展时 core 必须声明 `<id index=\"0\"/>`，扩展必须声明 `<coreid index=\"N\"/>`"
+        },
+        {
+          "quote": "`index` | Specifies the position of the column in the row. The first column has an index of 0, the second column has an index of 1, etc.",
+          "locator": "§2.4.1 Attributes（index 行）",
+          "note": "支撑：字段列号从 0 起，写 meta.xml 时列序必须与 CSV 一致"
+        }
+      ],
+      "used_in": [],
+      "notes": "2026-10-13 版规范（本页面 Date version issued）。默认值：fieldsTerminatedBy=`,`、linesTerminatedBy=`\\n`、fieldsEnclosedBy=`\"`、encoding=UTF-8、ignoreHeaderLines=0；示例里 tab 写作 `\\t`。本轮用于回答「DwC-A + EML 要怎么做」，尚未写进仓库文件（实现 build_dwca.py 时补 used_in）。",
+      "accessed": "2026-11-13T19:46:25+08:00",
+      "canonical_key": "url:https://dwc.tdwg.org/text",
+      "id": "S0436"
+    },
+    {
+      "title": "Data quality recommendations",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://techdocs.gbif.org/en/data-publishing/data-quality-recommendations",
+      "publisher": "GBIF Secretariat",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "The terms constitute the minimum formal requirements for publishing an occurrence dataset. GBIF will not accept a dataset without these terms and will not index the records.",
+          "locator": "§Status › Required",
+          "note": "支撑：缺 Required 项 GBIF 直接不受理、不建索引 —— 决定 checklist 的 taxonID 不可为空"
+        },
+        {
+          "quote": "For practical purposes, the ranks used have to be (major) Linnean ranks: kingdom, phylum, class, order, family, genus, and species. Both Latin and English terms are accepted.",
+          "locator": "§Terms › taxonRank",
+          "note": "支撑：subfamily / subspecies 不在 GBIF 推荐的 7 个主要阶元内，发布树形结构时要显式决定怎么处理（这是本站 18 亚科 + 68 亚种的现实冲突点）"
+        },
+        {
+          "quote": "The taxonID of the next available higher-ranked (parent) entry within the checklist dataset, if higher taxon names are supplied as separate entries in the list.",
+          "locator": "§Terms › parentNameUsageID",
+          "note": "支撑：要发布层级树，上层阶元必须作为独立条目出现，parentNameUsageID 指向的是同表内条目的 taxonID"
+        },
+        {
+          "quote": "Within the record of a synonym, the taxonID of the accepted taxon name entry within the checklist dataset, if both synonyms and accepted names are supplied.",
+          "locator": "§Terms › acceptedNameUsageID",
+          "note": "支撑：异名要进同一张表并带 acceptedNameUsageID，才能让 GBIF 把旧名套到接受名上"
+        }
+      ],
+      "used_in": [],
+      "notes": "checklist 表（Table 1）：taxonID = Required；scientificName、taxonRank、kingdom、parentNameUsageID、acceptedNameUsageID = Strongly recommended（GBIF 管理项目下 scientificName/taxonRank 升为 Required）；vernacularName = Share if available。另：scientificName 不许工作名 / 俗名 / 带 cf. 之类的限定词；vernacularName 与 higherClassification 要附 ISO 639-1 语言码。",
+      "accessed": "2026-11-13T19:46:25+08:00",
+      "canonical_key": "url:https://techdocs.gbif.org/en/data-publishing/data-quality-recommendations",
+      "id": "S0437"
+    },
+    {
+      "title": "Resource Metadata",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://ipt.gbif.org/manual/en/ipt/latest/resource-metadata",
+      "publisher": "GBIF Secretariat (IPT User Manual)",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Ultimately your metadata needs to be transformed into an XML metadata document. The XML must conform to the GBIF Metadata Profile, which is based on the Ecological Metadata Language (EML).",
+          "locator": "§How to write resource metadata",
+          "note": "支撑：eml.xml 要按 GBIF Metadata Profile（EML 派生）写，不是随便一份 EML"
+        },
+        {
+          "quote": "No Excel template exists for resource metadata. Simply use the IPT's built-in metadata editor to populate the metadata.",
+          "locator": "§Template",
+          "note": "支撑：资源级元数据没有 Excel 模板，只能手写 EML 或走 IPT 编辑器 —— 本站既然要脚本生成，就得自己产 eml.xml"
+        }
+      ],
+      "used_in": [],
+      "notes": "必需字段（页内 Required metadata fields 列表）：title、description、publishing organization、type、license、contact(s)、creator(s)、metadata provider(s)；推荐 sampling methodology 与 citation。逐条引用时注意该列表是 bullet list，不能合并成一行当引文。",
+      "accessed": "2026-11-13T19:46:25+08:00",
+      "canonical_key": "url:https://ipt.gbif.org/manual/en/ipt/latest/resource-metadata",
+      "id": "S0438"
     }
   ]
 }
