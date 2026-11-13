@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="https://termite-extant-isoptera.org/dataset/dwca/eml.xml">
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
   <!-- core：Taxon。taxonID 在 index 0，与 <id index="0"/> 对应；异名行用 acceptedNameUsageID 指回接受名。 -->
   <core encoding="UTF-8" fieldsEnclosedBy="&quot;" fieldsTerminatedBy="," linesTerminatedBy="\n" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
     <files>

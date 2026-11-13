@@ -488,10 +488,13 @@ def extension_field_lines() -> list[str]:
 
 
 def meta_xml(meta: dict) -> str:
-    eml_url = f"{site_url(meta)}/dataset/dwca/eml.xml"
+    # `metadata` 写归档内的相对路径（IPT 的做法）：validator 打开 zip 后原地找
+    # eml.xml 就能继续；写成站点绝对 URL 时它要先联网去取，站点那一版还没部署
+    # 或取不到，整个归档就被判成「Failed to verify archive format」，不说是哪一步。
+    metadata_ref = "eml.xml"
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
-        f'<archive xmlns="{DWC_TEXT_NS}" metadata="{eml_url}">',
+        f'<archive xmlns="{DWC_TEXT_NS}" metadata="{metadata_ref}">',
         '  <!-- core：Taxon。taxonID 在 index 0，与 <id index="0"/> 对应；'
         "异名行用 acceptedNameUsageID 指回接受名。 -->",
         '  <core encoding="UTF-8" fieldsEnclosedBy="&quot;" fieldsTerminatedBy=","'
@@ -749,6 +752,29 @@ def build_all(meta: dict, strict: bool) -> tuple[dict[str, bytes], dict[str, int
             ET.fromstring(payload)
         except ET.ParseError as error:
             raise SystemExit(f"[错误] 生成的 {name} 不是合法 XML：{error}") from error
+
+    # 归档自洽：meta.xml 的 <location> 必须真是归档成员，CSV 每行列数必须等于
+    # meta.xml 声明的字段数——这两处任何一处不对，GBIF Data Validator 只会回一句
+    # 「Failed to verify archive format」，不说是哪个文件、哪一行。
+    archive_members = {"taxon.csv", "vernacularname.csv", "meta.xml", "eml.xml"}
+    root = ET.fromstring(meta_bytes)
+    for block in root:
+        kind = block.tag.rsplit("}", 1)[-1]
+        if kind not in ("core", "extension"):
+            continue
+        locations = [loc.text for loc in block.iter(f"{{{DWC_TEXT_NS}}}location")]
+        for location in locations:
+            if location not in archive_members:
+                raise SystemExit(f"[错误] meta.xml 的 <{kind}> 指向 {location}，归档里没有这个文件")
+        payload = taxon_csv if kind == "core" else ext_csv
+        width = len(CORE_COLUMNS) if kind == "core" else len(EXT_COLUMNS)
+        text = payload.decode("utf-8")
+        for number, row in enumerate(csv.reader(io.StringIO(text)), start=1):
+            if len(row) != width:
+                raise SystemExit(
+                    f"[错误] {locations[0]} 第 {number} 行有 {len(row)} 列，"
+                    f"meta.xml 声明 {width} 列"
+                )
 
     checksums = "".join(
         f"{hashlib.sha256(payload).hexdigest()}  {name}\n"

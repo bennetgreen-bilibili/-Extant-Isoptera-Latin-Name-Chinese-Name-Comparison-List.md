@@ -143,6 +143,7 @@ core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scien
 - 亚科与亚种保留原阶元、不压平：GBIF 的 `taxonRank` 推荐值只有 kingdom / phylum / class / order / family / genus / species 七级，Validator 可能对这两级给出提示——这是刻意的取舍，宁可提示也不丢分类信息。
 - 异名行的 `scientificName` 去掉原文献页码（页码进 `taxonRemarks`），命名人进 `scientificNameAuthorship`，并用 `acceptedNameUsageID` 指回接受名；页面上没有的名称不编造 URL。
 - `taxonRemarks` 承接 Taxon 核心表里没有专用术语的两项：模式产地（`type locality: …`）与异名原文献页码（`original page reference: …`）。
+- `meta.xml` 的 `<archive metadata="eml.xml">` 用**归档内相对路径**（IPT 的写法）：validator 打开 zip 后原地就能找到 EML；写成站点绝对 URL 时它要先联网去取，站点那一版还没部署就整包判「Failed to verify archive format」，不说是哪一步。
 
 **验证与发布**
 
