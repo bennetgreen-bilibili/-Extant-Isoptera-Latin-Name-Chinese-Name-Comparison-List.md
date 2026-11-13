@@ -15,6 +15,7 @@
     <published>2026-10-30T00:00:00Z</published>
     <content type="text">**新增文献补录（2026-10-31，同一版本，尚未归档发布）**：按近年原始文献补录 18 个新种、4 个新亚种、3 个新属，并修订 4 处分类变动——
 **次异名长表增加对齐回指列（2026-11-05，同一版本，尚未归档发布）**：`dataset/data/isoptera-synonyms.csv` 新增 `localitySource`（`synonym` 逐条对应本异名 / `checklist` 未逐条对齐、整串见主表 `synonymLocalities` 列 / `none` 原数据无模式产地）与 `localityCounts`（`names=N;localities=M`）两列，把「未逐条对齐」与「原数据缺产地」区分开；`dataset/datapackage.json` 字段说明、`dataset/README.md` 构建提示与归档包 `downloads/isoptera-checklist-v2026.10.30.zip` 同步重建。
+**新增 Darwin Core Archive（2026-11-13，同一版本，尚未归档发布）**：`dataset/dwca/` 提供 GBIF 工具可直接读取的 DwC-A（`taxon.csv` 4150 行 = 接受名 3446 + 异名 704、`vernacularname.csv` 3446 行中文正名、`meta.xml` Taxon core + VernacularName 扩展、`eml.xml` EML 2.1.1 / GBIF profile、`CHECKSUMS.sha256`），打包为 `downloads/isoptera-checklist-v2026.10.30-dwca.zip`（230 KB）。
 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
 命名差异看板改为「逐对判定关系与方向」：19 条名称差异 → 15 对；关系上 异名 4 对 / 组合差异（同种异属）11 对；方向上 外部库名为接收名 3 对 / 本站名为接收名 6 对 / 待定 6 对；可补录 3 对、已补录 3 对（正式合并 3 对后的最终数字见本条末）。物种页「其他数据库」区块与 `search-index.json` 同步。
 修复：命名差异页的异名/接受名外链曾把 `_config.yml` 的行尾注释拼进 URL（链接失效、破坏 HTML），已修复，并在 `_tools/check_site.py` 增加坏 URL 与归并一致性校验。

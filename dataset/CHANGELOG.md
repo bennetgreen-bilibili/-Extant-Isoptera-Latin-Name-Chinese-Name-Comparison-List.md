@@ -21,7 +21,11 @@
   - 统计页：属级明细表改为固定排序（种数降序、同种数按拉丁名升序），英文版「Overview」与亚科表表头改用英文标签；三语统计页计数与名录同步；
   - 名称微调：*Isognathotermes phalloides* 中文正名由「似阳茎等颚白蚁」定为「阳茎等颚白蚁」。
 - **次异名长表增加对齐回指列（2026-11-05，同一版本，尚未归档发布）**：`dataset/data/isoptera-synonyms.csv` 新增 `localitySource`（`synonym` 逐条对应本异名 / `checklist` 未逐条对齐、整串见主表 `synonymLocalities` 列 / `none` 原数据无模式产地）与 `localityCounts`（`names=N;localities=M`）两列，把「未逐条对齐」与「原数据缺产地」区分开；`dataset/datapackage.json` 字段说明、`dataset/README.md` 构建提示与归档包 `downloads/isoptera-checklist-v2026.10.30.zip` 同步重建。
-
+- **新增 Darwin Core Archive（2026-11-13，同一版本，尚未归档发布）**：`dataset/dwca/` 提供 GBIF 工具可直接读取的 DwC-A（`taxon.csv` 4150 行 = 接受名 3446 + 异名 704、`vernacularname.csv` 3446 行中文正名、`meta.xml` Taxon core + VernacularName 扩展、`eml.xml` EML 2.1.1 / GBIF profile、`CHECKSUMS.sha256`），打包为 `downloads/isoptera-checklist-v2026.10.30-dwca.zip`（230 KB）。
+  - 生成脚本 `_tools/build_dwca.py`（仅标准库、确定性、`--check`/`--write`），只读 `dataset/data/isoptera-taxonomy.json` 与 `isoptera-synonyms.csv`，因此排在 `build_dataset.py` 之后；已接入 `_tools/regen_all.sh`，`pages.yml` 在 Jekyll 之前断言归档包为最新。
+  - 标识符：科 `/family/{id}/`、亚科 `/subfamily/{id}/`、属 `/genus/{id}/`、种与亚种用页面 URL、异名 `/taxon/synonym/{slug}-{hash6}/`；**slug 自此是外部数据库引用的键，发布后不再更名**（非改不可时留 301）。
+  - 阶元保留 `family / subfamily / genus / species / subspecies` 五级不压平；支系不进阶元，写进 `higherClassification`；异名去掉原文献页码（页码进 `taxonRemarks`），`acceptedNameUsageID` 指回接受名。
+  - 待补三处元数据：`dataset/metadata.json` 的 `eml.publishingOrganization`（现为资源名义）、`eml.contact.email`、`eml.contact.orcid`——留空时不写进 `eml.xml`，GBIF Data Validator 会提示补全。
 - 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF、CoL、BSF 一致视为异名）
   - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL、BSF 一致；GBIF 仍标接受名）

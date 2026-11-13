@@ -83,6 +83,15 @@
  ],
  "siteUrl": "https://termite-extant-isoptera.org/",
  "repository": "https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md",
+ "eml": {
+  "$comment": "Darwin Core Archive 的 eml.xml（EML 2.1.1 / GBIF Metadata Profile）用。publishingOrganization 是资源发布方，不是 DOI 注册方 Zenodo；contact 的邮箱与 ORCID 留空时不会写进 XML，GBIF Data Validator 会提示补全——这是刻意的不编造。",
+  "publishingOrganization": "Extant Isoptera Checklist",
+  "contact": {
+   "name": "Bennet Green",
+   "email": "",
+   "orcid": ""
+  }
+ },
  "expectedCounts": {
   "clades": 6,
   "families": 13,

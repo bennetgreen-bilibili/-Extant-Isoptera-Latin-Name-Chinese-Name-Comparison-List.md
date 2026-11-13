@@ -47,7 +47,7 @@
 
 ## 数据集内容 Contents
 
-本目录所有文件均由仓库来源自动生成（生成脚本 `.github/workflows/build_dataset.py`，仅用 Python 标准库），字段字典见 `datapackage.json`。
+本目录所有文件均由仓库来源自动生成（主表、分类树、异名表等由 `.github/workflows/build_dataset.py` 生成，`dwca/` 子目录由 `_tools/build_dwca.py` 生成，均只用 Python 标准库），字段字典见 `datapackage.json`。
 
 <!-- AUTO:BEGIN -->
 > 构建提示 Build notes：43 个分类单元的次异名与模式产地条数不等，无法逐条对齐（见 isoptera-synonyms.csv 的 localityAlignment / localitySource / localityCounts 列；这些行的 synonymTypeLocality 留空表示「未逐条对齐」，完整产地串仍在 isoptera-checklist.csv 的 synonymLocalities 列）
@@ -122,6 +122,36 @@
     # 某属全部种（含亚种）
     df[df["genus"] == "Coptotermes"][["scientificName", "vernacularName", "distributionZh"]]
 
+## Darwin Core Archive（DwC-A）
+
+`dwca/` 是同一套数据按 **Darwin Core Archive** 组织的版本，供 GBIF Data Validator、IPT、`python-dwca-reader`、R 包 `finch` 等工具直接读取；打包好的归档包在 `downloads/isoptera-checklist-v2026.10.30-dwca.zip`，四个文件都在 zip 根目录。
+
+| 文件 File | 作用 Role |
+|---|---|
+| `dwca/meta.xml` | metafile：core 的 `rowType` 为 `dwc:Taxon`（含 `<id index="0"/>`），另有一个 `VernacularName` 扩展（含 `<coreid index="0"/>`） |
+| `dwca/taxon.csv` | core 表，4150 行 = 接受名 3446（13 科 + 18 亚科 + 326 属 + 3021 种 + 68 亚种）+ 异名 704 |
+| `dwca/vernacularname.csv` | 中文正名扩展，3446 行，`language` 用 ISO 639-1 的 `zh` |
+| `dwca/eml.xml` | EML 2.1.1 / GBIF Metadata Profile 资源元数据（标题、摘要、许可、关键词、联系人） |
+| `dwca/CHECKSUMS.sha256` | 上述四个文件的 SHA-256 |
+
+core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scientificName`、`scientificNameAuthorship`、`taxonRank`、`taxonomicStatus`、`acceptedNameUsageID`、`parentNameUsageID`、`kingdom`、`phylum`、`class`、`order`、`family`、`subfamily`、`genus`、`higherClassification`、`vernacularName`、`taxonRemarks`。
+
+**标识符与阶元约定（发布后不要改）**
+
+- `taxonID` 一律是站点 URL：科 `/family/{id}/`、亚科 `/subfamily/{id}/`、属 `/genus/{id}/`、种与亚种用各自页面地址、异名 `/taxon/synonym/{slug}-{hash6}/`。它们会成为外部数据库引用的外键，**slug 一旦发布就不应再改**（非改不可时要留 301）。
+- 阶元只用 `family / subfamily / genus / species / subspecies`。支系（clade）不是林奈阶元，不单独出行，写进 `higherClassification`（如 `Animalia | Arthropoda | Insecta | Blattodea | Isoptera | Neoisoptera`）。
+- 亚科与亚种保留原阶元、不压平：GBIF 的 `taxonRank` 推荐值只有 kingdom / phylum / class / order / family / genus / species 七级，Validator 可能对这两级给出提示——这是刻意的取舍，宁可提示也不丢分类信息。
+- 异名行的 `scientificName` 去掉原文献页码（页码进 `taxonRemarks`），命名人进 `scientificNameAuthorship`，并用 `acceptedNameUsageID` 指回接受名；页面上没有的名称不编造 URL。
+- `taxonRemarks` 承接 Taxon 核心表里没有专用术语的两项：模式产地（`type locality: …`）与异名原文献页码（`original page reference: …`）。
+
+**验证与发布**
+
+1. 本机自检：`python _tools/build_dwca.py --check`（列数、`taxonID` 唯一性、`parentNameUsageID` / `acceptedNameUsageID` / 扩展 `coreid` 的引用完整性、`taxonRank` 取值、计数与 `metadata.json` 的 `expectedCounts` 是否一致）。
+2. 规范验证：把 zip 传到 <https://www.gbif.org/tools/data-validator>，它会检查 `meta.xml` 是否合规、术语是否在 GBIF registry、`eml.xml` 是否符合 GBIF profile、ID 引用是否完整。
+3. 发布：作为附加文件挂到对应 Zenodo 版本上（沿用该版本 DOI）；若要拿 GBIF 的 `10.15468` DOI，则需要一个已获 GBIF 节点背书的发布机构（publishing organization），走 IPT 或邮件 helpdesk@gbif.org 注册。
+
+**待补的三处元数据**（`dataset/metadata.json` 的 `eml` 区块）：`publishingOrganization` 现在写的是站点的资源名义，`contact.email` 与 `contact.orcid` 仍为空——留空时不会写进 `eml.xml`（不编造），但 Validator 会提示补全。
+
 ## 已知限制与免责声明 Limitations and disclaimer
 
 1. **不构成命名行为**：本数据集是名录汇编，不发表任何新分类单元、不提出任何命名修订（no nomenclatural act）。分类学变动请引用原始文献。
@@ -142,11 +172,17 @@
     python .github/workflows/build_dataset.py --write    # 重新生成全部文件
     python .github/workflows/build_dataset.py --check    # 校验仓库内文件是否最新
 
+DwC-A 依赖上一步产出的 `data/isoptera-taxonomy.json` 与 `data/isoptera-synonyms.csv`，所以排在它之后：
+
+    python _tools/build_dwca.py             # 统计与自检
+    python _tools/build_dwca.py --write     # 重新生成 dwca/ 与 downloads/*-dwca.zip
+    python _tools/build_dwca.py --check     # 校验是否最新（CI 用这个）
+
 ## English summary
 
-This package is the citable, archived version of the "Extant Isoptera checklist: Latin scientific names with Chinese standard names" project. It covers all extant termite lineages — 13 families, 18 subfamilies, 323 genera, 3004 species and 64 subspecies (3068 taxon records) — and provides, for every record, the scientific name with authorship, the Chinese standard name, rank, full classification (clade, family, subfamily, genus; Latin and Chinese), type-species flag, type locality, distribution in Chinese and English, and synonyms with their type localities. A separate long table lists all synonyms, and 77 cited references are included with DOIs where available.
+This package is the citable, archived version of the "Extant Isoptera checklist: Latin scientific names with Chinese standard names" project. It covers all extant termite lineages — 13 families, 18 subfamilies, 326 genera, 3021 species and 68 subspecies (3089 taxon records) — and provides, for every record, the scientific name with authorship, the Chinese standard name, rank, full classification (clade, family, subfamily, genus; Latin and Chinese), type-species flag, type locality, distribution in Chinese and English, and synonyms with their type localities. A separate long table lists all synonyms, and 77 cited references are included with DOIs where available.
 
-Files: one row per taxon (`isoptera-checklist.csv`), a full taxonomy tree (`isoptera-taxonomy.json`), a synonym table, family/subfamily counts, and the reference list. Formats are documented in `datapackage.json`; the DataCite 4.6 record is in `datacite-metadata.xml`. Everything is regenerated deterministically from the project repository, so the deposit can be rebuilt and audited.
+Files: one row per taxon (`isoptera-checklist.csv`), a full taxonomy tree (`isoptera-taxonomy.json`), a synonym table, family/subfamily counts, and the reference list. Formats are documented in `datapackage.json`; the DataCite 4.6 record is in `datacite-metadata.xml`. The same content is also provided as a Darwin Core Archive (`dwca/` and `downloads/*-dwca.zip`) with a Taxon core, a VernacularName extension for the Chinese names, and EML metadata, so it can be read by GBIF tools without conversion. Everything is regenerated deterministically from the project repository, so the deposit can be rebuilt and audited.
 
 The dataset is a **compilation only and makes no nomenclatural act**. Chinese names are an editorial layer: they may differ from translations used by other authors and should be checked against the primary literature before formal use. No coordinates are included; distribution statements are textual and not individually verified.
 

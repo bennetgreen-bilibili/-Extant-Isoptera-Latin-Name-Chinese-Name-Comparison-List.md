@@ -3,7 +3,7 @@
 #
 # 顺序与 .github/workflows/pages.yml（部署）、.github/workflows/validate.yml（PR 闸门）
 # 保持一致：数据文件 → 索引页 → 分类数据 → 页脚正文 → 图片页 → 层级页 → sitemap
-# → 检索索引 → 归档数据集 → 版本记录 → 命名差异看板 → 静态资源指纹。
+# → 检索索引 → 归档数据集 → Darwin Core Archive → 版本记录 → 命名差异看板 → 静态资源指纹。
 #
 # 两个调用方：
 #   1. 本地提交前收尾：改了 _species / _data / dataset/CHANGELOG.md 等源文件后跑一次，
@@ -25,6 +25,8 @@ python .github/workflows/build_taxonomy_pages.py
 python .github/workflows/build_sitemap_txt.py
 python .github/workflows/build_search_index.py --write --no-enrich
 python .github/workflows/build_dataset.py --write
+# DwC-A 依赖上一步产出的 isoptera-taxonomy.json 与 isoptera-synonyms.csv，必须排在它之后
+python _tools/build_dwca.py --write
 python _tools/build_changelog.py --write
 python .github/workflows/build_name_issues.py --write
 

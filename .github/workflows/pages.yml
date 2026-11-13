@@ -147,6 +147,12 @@ jobs:
       - name: Stamp static asset versions from file content
         run: python _tools/stamp_assets.py
 
+      # DwC-A 是提交进仓库的派生产物（dataset/dwca/ 与 downloads/*-dwca.zip）。
+      # 部署前断言它与 taxonomy/synonyms 源一致，避免把过期归档包发上线；
+      # 完整的重建由 validate.yml 的 regen_all 兜底。
+      - name: Check Darwin Core Archive is current
+        run: python _tools/build_dwca.py --check
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
