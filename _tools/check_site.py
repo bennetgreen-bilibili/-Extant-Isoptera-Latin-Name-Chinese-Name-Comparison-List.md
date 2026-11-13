@@ -33,6 +33,9 @@
       字节一致、属覆盖与摘要字段自洽
   17. 摘要翻译术语表（_data/translation_glossary.yml）：结构、字段、重复项与 post 守卫，
       且三语 /papers/ 页面都接入了 _includes/papers-glossary.html
+  18. JSON-LD 的 Dataset 实体只在数据集落地页（三语首页 + _includes/dataset-jsonld.html）定义；
+      分类页 / 物种页只许用 {"@id": ...} 引用。带 @type 的占位节点会被 Google 当成独立
+      Dataset 条目，报「未填写字段 name / description / license / creator」（2026-11 的现象）。
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地。
 
@@ -106,6 +109,11 @@ JSONFEED_VERSION = "https://jsonfeed.org/version/1.1"
 REQUIRED_FIELDS = ("latin", "zh", "rank", "family_zh", "family_latin", "family_id", "genus_id")
 HEADING_RE = re.compile(r'<h([2-6]) id="([^"]+)"')
 SPECIES_LINK_RE = re.compile(r"\{\{ site\.base_url \}\}/species/([^/\s\"]+)/")
+# 名录页正文里的目录侧栏（build_list_index.py 的 toc_tree 生成，assets/site.js 把它移进
+# .toc-side 固定栏）。它刻意把支系 → 科 → 亚科 → 属整棵树放进页面当导航，属链接属于
+# 「导航」而不是「索引页正文的条目列表」，判链接前整块剥掉；剥的是生成出来的 HTML 块，
+# 不含嵌套 <nav>，所以非贪婪匹配到这里就该结束。
+TOC_NAV_RE = re.compile(r'<nav class="taxon-toc" id="toc".*?</nav>', re.S)
 ANCHOR_RE = re.compile(r"\]\(#([^)\s]+)\)")
 HREF_ANCHOR_RE = re.compile(r'href="#([^"\s]+)"')
 FM_RE = re.compile(r"^(?P<key>[a-z_]+):\s*(?P<value>.*?)\s*$")
@@ -325,7 +333,9 @@ def check_lists(taxonomy: dict, fields_by_slug: dict) -> dict:
         text = read(path)
         ids = {m[1] for m in HEADING_RE.findall(text)}
         ids_by_lang[lang] = ids
-        links = SPECIES_LINK_RE.findall(text)
+        # 目录侧栏整块剥掉后再判「正文链接」（见 TOC_NAV_RE 的说明）：它的属入口是导航。
+        body = TOC_NAV_RE.sub("", text)
+        links = SPECIES_LINK_RE.findall(body)
         if links:
             err(rel, "名录索引页仍含 %d 个物种链接（例如 %s）；种条目应放在所属属页"
                 % (len(links), links[0]))
@@ -344,7 +354,7 @@ def check_lists(taxonomy: dict, fields_by_slug: dict) -> dict:
         absent = sorted(family_ids - fam_links)
         if absent:
             err(rel, "按科浏览缺 %d 个科页入口：%s" % (len(absent), "、".join(absent[:5])))
-        stray_genus = sorted(genus_ids & set(re.findall(r"/genus/([a-z0-9-]+)/", text)))
+        stray_genus = sorted(genus_ids & set(re.findall(r"/genus/([a-z0-9-]+)/", body)))
         if stray_genus:
             err(rel, "索引页不该直链属页（例如 /genus/%s/）：属条目在属页" % stray_genus[0])
 
@@ -1075,6 +1085,36 @@ def check_feeds_and_changelog(base_url: str) -> None:
             err(name, "permalink 应为 %s，实际为 %r" % (permalink, fields.get("permalink")))
 
 
+def check_jsonld_dataset_scope() -> None:
+    """Dataset 结构化数据只能出现在数据集落地页，其余页面只许按 @id 引用。
+
+    Google 把 JSON-LD 里任何带 ``@type: Dataset`` 的节点都当成一个 Dataset 条目；
+    只写 ``@id`` 的占位节点同样会被算成条目，于是 Search Console 的「数据集」报告里
+    每个物种页 / 分类页都报「未填写字段 name / description / license / creator」。
+    完整定义只保留在三语首页与 _includes/dataset-jsonld.html，别处一律用 {"@id": ...}。
+    """
+    allowed = {
+        "index.md",
+        "en/index.md",
+        "es/index.md",
+        "_includes/dataset-jsonld.html",
+    }
+    targets: list[Path] = [p for p in ROOT.glob("*.md")]
+    for sub in ("_includes", "_layouts", "family", "subfamily", "genus", "en", "es"):
+        base = ROOT / sub
+        if base.is_dir():
+            targets += [p for p in base.rglob("*") if p.suffix in (".md", ".html")]
+
+    for path in targets:
+        rel = path.relative_to(ROOT).as_posix()
+        if rel in allowed:
+            continue
+        if '"@type": "Dataset"' in read(path):
+            err(rel, 'JSON-LD 里直接定义了 @type: Dataset；Dataset 实体只允许在首页与 '
+                     '_includes/dataset-jsonld.html 定义，其余页面请改成 {"@id": ...} 引用'
+                     '（否则 Google 会报缺 name / description / license / creator）')
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="站点与数据一致性校验")
     parser.add_argument("--ci", action="store_true", help="输出 GitHub Actions 注解")
@@ -1101,6 +1141,7 @@ def main() -> int:
     check_name_issues(fields_by_slug)
     check_search_overlay()
     check_species_siblings_not_indexed()
+    check_jsonld_dataset_scope()
 
     if args.ci:
         for where, msg in errors:
