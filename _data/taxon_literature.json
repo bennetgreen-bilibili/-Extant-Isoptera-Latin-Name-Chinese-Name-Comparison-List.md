@@ -303,7 +303,7 @@
     ]
   },
   "/genus/kalotermes/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "属名的早期历史",
@@ -319,12 +319,32 @@
         ],
         "heading_en": "Early history of the genus name",
         "heading_es": "Historia temprana del nombre genérico"
+      },
+      {
+        "heading": "新西兰的粪粒化石",
+        "heading_en": "Coprolite fossils from New Zealand",
+        "heading_es": "Coprolitos fósiles de Nueva Zelanda",
+        "paragraphs": [
+          {
+            "src": [
+              "S0213"
+            ],
+            "text": "据摘要，Kaulfuß 等（2010）在讨论新西兰化石记录时指出，在胄白蚁科的早中新世前翅化石发表之前，新西兰唯一的等翅类化石证据是硅化粪粒，可归入木白蚁属（<i>Kalotermes</i>）的一个种，种名 brauni（本站名录未收录该化石种）；粪粒不能提供翅脉等分类特征，因此其鉴定精度低于实体化石。",
+            "text_en": "According to the abstract of Kaulfuß et al. (2010), before the Early Miocene stolotermitid forewing was described the only fossil termite evidence from New Zealand was silicified faecal pellets assignable to a species of <i>Kalotermes</i> (not covered by this list); pellets preserve no wing venation or other diagnostic characters, so their identification is less precise than that of body fossils.",
+            "text_es": "Según el resumen de Kaulfuß et al. (2010), antes de que se describiera el ala anterior de un estolotermítido del Mioceno temprano, la única evidencia fósil de termitas en Nueva Zelanda eran pellets fecales silicificados atribuibles a una especie de <i>Kalotermes</i> (no incluida en esta lista); los pellets no conservan venación alar ni otros caracteres diagnósticos, por lo que su identificación es menos precisa que la de los fósiles corporales."
+          }
+        ]
       }
     ],
     "references": [
       {
         "id": "S0001",
         "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0213",
+        "citation": "Kaulfuß, U.; Harris, A. C.; Lee, D. E. 2010. A New Fossil Termite (Isoptera, Stolotermitidae, Stolotermes) from the Early Miocene of Otago, New Zealand. Acta Geologica Sinica - English Edition.",
+        "doi": "10.1111/j.1755-6724.2010.00275.x"
       }
     ]
   },
@@ -1451,7 +1471,7 @@
     ]
   },
   "/species/silvestritermes-minutus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "无性蚁后更替与群体生活史",
@@ -1467,6 +1487,21 @@
         ],
         "heading_en": "Asexual queen succession and colony life history",
         "heading_es": "Sucesión de reinas asexuales y ciclo de vida de la colonia"
+      },
+      {
+        "heading": "蚁后特有的挥发性大环内酯",
+        "heading_en": "A queen-specific volatile macrolide",
+        "heading_es": "Un macrólido volátil específico de la reina",
+        "paragraphs": [
+          {
+            "src": [
+              "S0223"
+            ],
+            "text": "据摘要，Machara 等（2018）报道，在最小西尔韦斯特里白蚁（<i>Silvestritermes minutus</i>）的蚁后体表、顶空、卵巢与体腔中检出一种此前未知的挥发物，其结构被确定为 14 元大环内酯 (5Z,9S)-tetradec-5-en-9-olide，即 10-pentyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one；作者以 (S)-glycidyl tosylate 为起点，完成了该化合物两个对映体的对映发散合成。",
+            "text_en": "According to the abstract of Machara et al. (2018), a previously unknown volatile was detected on the queen's body surface, in the headspace, in the ovaries and in the body cavity of <i>Silvestritermes minutus</i>; its structure was determined as the 14-membered macrolide (5Z,9S)-tetradec-5-en-9-olide (10-pentyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one), and both enantiomers were prepared by enantiodivergent synthesis starting from (S)-glycidyl tosylate.",
+            "text_es": "Según el resumen de Machara et al. (2018), se detectó un volátil previamente desconocido en la superficie corporal de la reina, en el espacio de cabeza, en los ovarios y en la cavidad corporal de <i>Silvestritermes minutus</i>; su estructura se determinó como el macrólido de 14 miembros (5Z,9S)-tetradec-5-en-9-olide (10-pentil-3,4,5,8,9,10-hexahidro-2H-oxecin-2-ona), y ambos enantiómeros se prepararon mediante síntesis enantiocomplementaria a partir de (S)-glicidil tosilato."
+          }
+        ]
       }
     ],
     "references": [
@@ -1474,6 +1509,11 @@
         "id": "S0182",
         "citation": "Fougeyrollas, R. et al. 2017. Asexual queen succession mediates an accelerated colony life cycle in the termite Silvestritermes minutus. Molecular Ecology.",
         "doi": "10.1111/mec.14095"
+      },
+      {
+        "id": "S0223",
+        "citation": "Machara, A.; Křivánek, J.; Dolejšová, K.; Havlíčková, J.; Bednářová, L.; Hanus, R.; Majer, P.; Kyjaková, P. 2018. Identification and Enantiodivergent Synthesis of (5Z,9S)-Tetradec-5-en-9-olide, a Queen-Specific Volatile of the Termite Silvestritermes minutus. Journal of Natural Products 81(10).",
+        "doi": "10.1021/acs.jnatprod.8b00632"
       }
     ]
   },
@@ -2451,7 +2491,7 @@
     ]
   },
   "/genus/nasutitermes/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "北澳稀树草原的群落组成",
@@ -2475,6 +2515,29 @@
             "text_es": "El muestreo registró cuatro hábitos de nidificación —montículos epigeos, nidos subterráneos, nidos dentro de la madera y nidos arbóreos—, con las termitas encontradas con mayor frecuencia en los montículos epigeos y en la madera muerta caída, siendo más comunes los consumidores de madera y los de la interfaz madera/suelo; los consumidores de suelo y de madera viva fueron más escasos y faltaron las especies recolectoras de gramíneas, y la autora atribuye en parte esta menor diversidad al nitrógeno y fósforo del suelo y a la riqueza y fragmentación de la vegetación del suelo."
           }
         ]
+      },
+      {
+        "heading": "爪哇的分布记录",
+        "heading_en": "Records from Java",
+        "heading_es": "Registros de Java",
+        "paragraphs": [
+          {
+            "src": [
+              "S0225"
+            ],
+            "text": "根据 Pribadi 等（2011）在中爪哇 Mount Slamet 东坡 5 类土地利用中的调查，爪哇象白蚁（<i>Nasutitermes javanicus</i>）在保护林、游憩林、用材林、农林复合与居民点 5 类生境中均有记录（共 21 头），而马登象白蚁（<i>Nasutitermes matangensis</i>）仅见于保护林（2 头）。",
+            "text_en": "In a survey of five land-use types on the eastern slopes of Mount Slamet, Central Java, Pribadi et al. (2011) recorded <i>Nasutitermes javanicus</i> in all five habitats (21 individuals in total) and <i>Nasutitermes matangensis</i> only in protected forest (2 individuals).",
+            "text_es": "En un muestreo de cinco tipos de uso del suelo en la ladera oriental del monte Slamet, Java Central, Pribadi et al. (2011) registraron <i>Nasutitermes javanicus</i> en los cinco hábitats (21 individuos en total) y <i>Nasutitermes matangensis</i> solo en bosque protegido (2 individuos)."
+          },
+          {
+            "src": [
+              "S0227"
+            ],
+            "text": "据摘要，Ratiknyo 等（2018）在 Mount Slamet 海拔 700–1300 m、四个坡面的样带调查，把马登象白蚁（<i>Nasutitermes matangensis</i>）与瓢白蚁属（<i>Bulbitermes</i>）的几种一同归入取食腐殖质的类群；该调查共记录 11 种、9 属、5 亚科、2 科，西坡多样性最高。",
+            "text_en": "According to the abstract of Ratiknyo et al. (2018), an altitudinal survey on four slopes of Mount Slamet between 700 and 1300 m grouped <i>Nasutitermes matangensis</i> with several <i>Bulbitermes</i> species as humus feeders; the survey recorded 11 species, 9 genera, 5 subfamilies and 2 families, with the highest diversity on the western slope.",
+            "text_es": "Según el resumen de Ratiknyo et al. (2018), un muestreo altitudinal en cuatro laderas del monte Slamet entre 700 y 1300 m agrupó a <i>Nasutitermes matangensis</i> con varias especies de <i>Bulbitermes</i> como consumidoras de humus; el muestreo registró 11 especies, 9 géneros, 5 subfamilias y 2 familias, con la mayor diversidad en la ladera occidental."
+          }
+        ]
       }
     ],
     "references": [
@@ -2482,11 +2545,21 @@
         "id": "S0210",
         "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
         "doi": "10.1111/j.1440-6055.2008.00662.x"
+      },
+      {
+        "id": "S0225",
+        "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235–240.",
+        "doi": "10.13057/biodiv/d120409"
+      },
+      {
+        "id": "S0227",
+        "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5).",
+        "doi": "10.13057/biodiv/d190508"
       }
     ]
   },
   "/species/amitermes-excellens/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "兵蚁上颚的分组位置",
@@ -2502,6 +2575,21 @@
             "text_es": "Según el resumen, Scheffrahn (2022), siguiendo la clave de 1989, divide a los soldados de <i>Amitermes</i> en dos grupos por la dentición mandibular: <i>Amitermes excellens</i> pertenece al grupo cuyos dientes marginales se proyectan verticalmente y poseen una cara anterior, junto con <i>Amitermes wheeleri</i>, <i>Amitermes amifer</i> y <i>Amitermes foreli</i>."
           }
         ]
+      },
+      {
+        "heading": "罗赖马稀树草原的丘建造者",
+        "heading_en": "Mound builder of the Roraima savanna",
+        "heading_es": "Constructor de montículos de la sabana de Roraima",
+        "paragraphs": [
+          {
+            "src": [
+              "S0440"
+            ],
+            "text": "根据 Oliveira 等（2026）在罗赖马州东北部 Surumu 洼地稀树草原—卡廷加过渡带的研究，跨 Plinthosols 与 Acrisols 两类土壤的样带共记录 16 种/形态种、8 属、2 科，白蚁科占多数；优秀弓白蚁（<i>Amitermes excellens</i>）在数量上并非优势种，却是当地大型锥形与教堂形土丘的主要建造者；土丘与邻近土壤在物理与化学性质上差异明显，细颗粒被选择性搬入，盐基、氮与有机质富集；丘的密度在排水不良的 Plinthosols 上更高，而更大、更老的丘出现在排水较好的 Acrisols 上，作者据地形序列估算生物扰动速率为 47.5–85.3 mm/千年。",
+            "text_en": "According to Oliveira et al.'s (2026) study in the Surumu Depression of north-eastern Roraima, in a savanna–caatinga ecotone, transects across Plinthosols and Acrisols recorded 16 species or morphospecies in 8 genera and 2 families, with Termitidae dominating; <i>Amitermes excellens</i> was not numerically dominant but was the main builder of the large conical and cathedral-shaped mounds that structure the landscape; the mounds differ markedly from adjacent soils in physical and chemical properties, with selective incorporation of fine particles and enrichment in bases, nitrogen and organic matter; mound density was higher on poorly drained Plinthosols, whereas larger and older mounds occurred on better-drained Acrisols, and the authors estimated bioturbation rates of 47.5–85.3 mm per thousand years along the toposequence.",
+            "text_es": "Según el estudio de Oliveira et al. (2026) en la depresión de Surumu, en el noreste de Roraima, en un ecotono sabana–caatinga, los transectos en Plinthosols y Acrisols registraron 16 especies o morfoespecies de 8 géneros y 2 familias, con predominio de Termitidae; <i>Amitermes excellens</i> no fue numéricamente dominante, pero fue el principal constructor de los grandes montículos cónicos y en forma de catedral que estructuran el paisaje; los montículos difieren notablemente de los suelos adyacentes en sus propiedades físicas y químicas, con incorporación selectiva de partículas finas y enriquecimiento en bases, nitrógeno y materia orgánica; la densidad de montículos fue mayor en Plinthosols mal drenados, mientras que los montículos más grandes y antiguos se presentaron en Acrisols mejor drenados, y los autores estimaron tasas de bioturbación de 47.5–85.3 mm por mil años a lo largo de la toposecuencia."
+          }
+        ]
       }
     ],
     "references": [
@@ -2509,6 +2597,11 @@
         "id": "S0434",
         "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
         "doi": "10.11646/zootaxa.5128.4.7"
+      },
+      {
+        "id": "S0440",
+        "citation": "Oliveira, M. N. de; do Vale Junior, J. F.; Candido, H. G.; Acioli, A. N. S.; Matos, M. G.; Schaefer, C. E. G. R. 2026. Pedogeomorphology of a Mound-building termite savanna in Roraima, Brazilian Amazonia. Revista Brasileira de Geomorfologia 27(3).",
+        "doi": "10.20502/rbg.v27i3.2823"
       }
     ]
   },
@@ -3999,6 +4092,731 @@
         "id": "S0186",
         "citation": "William A. Sands 1961 FORAGING BEHAVIOUR AND FEEDING HABITS IN FIVE SPECIES OF TRINERVITERMES IN WEST AFRICA. Entomologia Experimentalis et Applicata.",
         "doi": "10.1111/j.1570-7458.1961.tb02143.x"
+      }
+    ]
+  },
+  "/family/serritermitidae/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "肠道鞭毛虫与跨科转移",
+        "heading_en": "Gut flagellates and cross-family transfer",
+        "heading_es": "Flagelados intestinales y transferencia entre familias",
+        "paragraphs": [
+          {
+            "src": [
+              "S0217"
+            ],
+            "text": "据摘要，Radek 等（2017）对齿白蚁科（Serritermitidae）两种白蚁肠道鞭毛虫的研究指出，眼显舌白蚁（<i>Glossotermes oculatus</i>）与锯齿白蚁（<i>Serritermes serrifer</i>）具有相似的副基体形态型：大型的类 <i>Pseudotrichonympha</i>、中型具螺旋鞭毛带的类 <i>Leptospironympha</i> 与小型类 <i>Hexamastix</i>，且均未检出 oxymonadid；SSU rRNA 序列显示两个大型 trichonymphid 构成 Teranymphidae 的深分支姊妹群，只有 <i>Hexamastix</i> 类与鼻白蚁科（Rhinotermitidae）的 trichomonadid 近缘。",
+            "text_en": "According to the abstract of Radek et al.'s (2017) study of the gut flagellates of the two Serritermitidae species, <i>Glossotermes oculatus</i> and <i>Serritermes serrifer</i> share similar parabasal morphotypes — a large <i>Pseudotrichonympha</i>-like form, a medium-sized <i>Leptospironympha</i>-like form with a spiral flagellar band, and a small <i>Hexamastix</i>-like form — and no oxymonadids were detected in either; SSU rRNA sequences place the two large trichonymphids as a deep-branching sister group of Teranymphidae, and only the <i>Hexamastix</i>-like form is closely related to trichomonadids of Rhinotermitidae.",
+            "text_es": "Según el resumen del estudio de Radek et al. (2017) sobre los flagelados intestinales de las dos especies de Serritermitidae, <i>Glossotermes oculatus</i> y <i>Serritermes serrifer</i> comparten morfotipos parabasales similares —una forma grande del tipo <i>Pseudotrichonympha</i>, una forma mediana del tipo <i>Leptospironympha</i> con una banda flagelar espiral y una forma pequeña del tipo <i>Hexamastix</i>— y no se detectaron oximonádidos en ninguna de las dos; las secuencias de SSU rRNA sitúan a los dos triconinfos grandes como un grupo hermano de ramificación profunda de Teranymphidae, y solo la forma del tipo <i>Hexamastix</i> está estrechamente emparentada con los tricomonádidos de Rhinotermitidae."
+          },
+          {
+            "src": [
+              "S0217"
+            ],
+            "text": "据摘要，作者据此认为，齿白蚁科拥有两条深分支的 trichonymphid 谱系，却缺少祖先鼻白蚁类的全部特征类群；下等白蚁的肠道鞭毛虫组合除了随垂直遗传逐步丢失外，还受到偶发的跨科水平转移（transfaunation）塑造，并为此建立了新属 <i>Heliconympha</i>（模式种 <i>Heliconympha glossotermitis</i>）。",
+            "text_en": "According to the abstract, the authors concluded that Serritermitidae harbour two deep-branching trichonymphid lineages but lack all the characteristic groups of ancestral rhinotermitids; the gut flagellate assemblages of lower termites are shaped not only by progressive loss through vertical inheritance but also by occasional cross-family horizontal transfer (transfaunation), and they erected the new genus <i>Heliconympha</i> (type species <i>Heliconympha glossotermitis</i>) for the new flagellate.",
+            "text_es": "Según el resumen, los autores concluyeron que Serritermitidae alberga dos linajes de triconinfos de ramificación profunda pero carece de todos los grupos característicos de los rinotermítidos ancestrales; las comunidades de flagelados intestinales de las termitas inferiores no solo se modelan por la pérdida progresiva mediante herencia vertical, sino también por transferencias horizontales ocasionales entre familias (transfaunación), y erigieron el nuevo género <i>Heliconympha</i> (especie tipo <i>Heliconympha glossotermitis</i>) para el nuevo flagelado."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0217",
+        "citation": "Radek, R.; Meuser, K.; Strassert, J. F. H.; Arslan, O.; Teßmer, A.; Šobotník, J.; Sillam-Dussès, D.; Nink, R. A.; Brune, A. 2017. Exclusive Gut Flagellates of Serritermitidae Suggest a Major Transfaunation Event in Lower Termites: Description of Heliconympha glossotermitis gen. nov. spec. nov. Journal of Eukaryotic Microbiology 64(6).",
+        "doi": "10.1111/jeu.12441"
+      }
+    ]
+  },
+  "/family/stolotermitidae/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "首个可靠的化石记录",
+        "heading_en": "The first reliable fossil record",
+        "heading_es": "El primer registro fósil fiable",
+        "paragraphs": [
+          {
+            "src": [
+              "S0213"
+            ],
+            "text": "据摘要，Kaulfuß 等（2010）研究的那件采自奥塔戈早中新世湖相沉积的胄白蚁属（<i>Stolotermes</i>）前翅化石，是胄白蚁科（Stolotermitidae）首个可靠的化石记录，把该科的化石历史推至早中新世；这也是新西兰首个直接的化石等翅类证据，此前新西兰唯一的化石等翅类材料是可归入木白蚁属（<i>Kalotermes</i>）的硅化粪粒。作者据此认为，胄白蚁科至少自早中新世起就存在于澳大拉西亚区。",
+            "text_en": "According to the abstract of Kaulfuß et al. (2010), the forewing fossil of <i>Stolotermes</i> from Early Miocene lacustrine deposits at Otago is the first reliable fossil record of Stolotermitidae, extending the fossil history of the family back to the Early Miocene; it is also the first direct fossil evidence of Isoptera from New Zealand, the only earlier fossil termite material there being silicified faecal pellets attributable to <i>Kalotermes</i>. The authors conclude that Stolotermitidae has been present in the Australasian region at least since the Early Miocene.",
+            "text_es": "Según el resumen de Kaulfuß et al. (2010), el fósil de ala anterior de <i>Stolotermes</i> procedente de depósitos lacustres del Mioceno temprano en Otago es el primer registro fósil fiable de Stolotermitidae, lo que extiende la historia fósil de la familia hasta el Mioceno temprano; es también la primera evidencia fósil directa de Isoptera en Nueva Zelanda, ya que el único material fósil anterior eran pellets fecales silicificados atribuibles a <i>Kalotermes</i>. Los autores concluyen que Stolotermitidae está presente en la región australasiática al menos desde el Mioceno temprano."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0213",
+        "citation": "Kaulfuß, U.; Harris, A. C.; Lee, D. E. 2010. A New Fossil Termite (Isoptera, Stolotermitidae, Stolotermes) from the Early Miocene of Otago, New Zealand. Acta Geologica Sinica - English Edition.",
+        "doi": "10.1111/j.1755-6724.2010.00275.x"
+      }
+    ]
+  },
+  "/genus/cornitermes/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分布、食性与巢内共栖",
+        "heading_en": "Distribution, diet and nest commensals",
+        "heading_es": "Distribución, dieta y comensales del nido",
+        "paragraphs": [
+          {
+            "src": [
+              "S0219"
+            ],
+            "text": "根据 Miramontes 与 DeSouza（2008）在论文引言中综述的文献，角象白蚁属（<i>Cornitermes</i>）分布于森林、稀树草原（cerrado）、牧场乃至城市花园，取食活的与枯死的草本植物；该属多个种（包括成堆角象白蚁 <i>Cornitermes cumulans</i>）构筑大型地栖巢，巢内常共栖其他属的白蚁以及蚂蚁、甲虫、鸟类和蛇类。",
+            "text_en": "According to the literature reviewed in the introduction of Miramontes and DeSouza (2008), <i>Cornitermes</i> occurs in forests, cerrado, pastures and even urban gardens and feeds on living and dead grasses; several species of the genus (including <i>Cornitermes cumulans</i>) build large epigeal nests that frequently harbour commensals — termites of other genera as well as ants, beetles, birds and snakes.",
+            "text_es": "Según la bibliografía revisada en la introducción de Miramontes y DeSouza (2008), <i>Cornitermes</i> se distribuye en bosques, cerrado, pastizales e incluso jardines urbanos y se alimenta de gramíneas vivas y muertas; varias especies del género (incluida <i>Cornitermes cumulans</i>) construyen nidos epigeos grandes que con frecuencia albergan comensales: termitas de otros géneros, así como hormigas, escarabajos, aves y serpientes."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0219",
+        "citation": "Miramontes, O.; DeSouza, O. 2008. Individual Basis for Collective Behaviour in the Termite, Cornitermes cumulans. Journal of Insect Science 8: 22.",
+        "doi": "10.1673/031.008.2201"
+      }
+    ]
+  },
+  "/genus/macrotermes/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "两种同域大白蚁的幼蚁品级",
+        "heading_en": "Larval instars of two sympatric Macrotermes species",
+        "heading_es": "Instares larvales de dos especies simpátricas de Macrotermes",
+        "paragraphs": [
+          {
+            "src": [
+              "S0214"
+            ],
+            "text": "据摘要，Neoh 与 Lee（2009）对马来西亚同域分布的暗黄大白蚁（<i>Macrotermes gilvus</i>）与炭色大白蚁（<i>Macrotermes carbonarius</i>）的研究，两种大白蚁的幼蚁可分为 5 个界限分明的品级组，小工蚁与大工蚁各具 3 个幼蚁龄；一龄幼蚁雌雄同型，自二龄起出现雌性小于雄性的体型性二型；小兵蚁与大兵蚁均为雌性不育品级；若虫自一龄起经 5 次蜕皮发育为有翅成虫。",
+            "text_en": "According to the abstract of Neoh and Lee (2009), who studied the sympatric <i>Macrotermes gilvus</i> and <i>Macrotermes carbonarius</i> in Malaysia, the larvae of both species fall into five clearly delimited caste groups, with minor and major workers each passing through three larval instars; first-instar larvae are sexually monomorphic, and from the second instar onwards females are smaller than males; minor and major soldiers are both female sterile castes; nymphs develop into alates through five moults starting from the first instar.",
+            "text_es": "Según el resumen de Neoh y Lee (2009), que estudiaron las especies simpátricas <i>Macrotermes gilvus</i> y <i>Macrotermes carbonarius</i> en Malasia, las larvas de ambas especies se agrupan en cinco clases de castas bien delimitadas, y las obreras menores y mayores atraviesan cada una tres estadios larvarios; las larvas de primer estadio son monomórficas entre sexos y a partir del segundo estadio las hembras son menores que los machos; las soldados menores y mayores son castas estériles femeninas; las ninfas se desarrollan hasta alados a través de cinco mudas desde el primer estadio."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0214",
+        "citation": "Neoh, K.-B.; Lee, C.-Y. 2009. Developmental Stages and Castes of Two Sympatric Subterranean Termites Macrotermes gilvus and Macrotermes carbonarius (Blattodea: Termitidae). Annals of the Entomological Society of America 102(6).",
+        "doi": "10.1603/008.102.0617"
+      }
+    ]
+  },
+  "/genus/pericapritermes/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "爪哇高地的土壤食性类群",
+        "heading_en": "Soil-feeding populations in the Javanese highlands",
+        "heading_es": "Poblaciones consumidoras de suelo en las tierras altas de Java",
+        "paragraphs": [
+          {
+            "src": [
+              "S0225"
+            ],
+            "text": "根据 Pribadi 等（2011）在中爪哇 Mount Slamet 东坡 5 类土地利用中的调查，三宝近扭白蚁（<i>Pericapritermes semarangi</i>）是该调查 7 种白蚁中最丰富的一种，共 31 头，且食土白蚁在居民点缺失、主要见于保护林与用材林。",
+            "text_en": "In the survey by Pribadi et al. (2011) across five land-use types on the eastern slopes of Mount Slamet, Central Java, <i>Pericapritermes semarangi</i> was the most abundant of the seven termite species recorded, with 31 individuals, and soil-feeding termites were absent from settlements and occurred mainly in protected and production forest.",
+            "text_es": "En el muestreo de Pribadi et al. (2011) en cinco tipos de uso del suelo en la ladera oriental del monte Slamet, Java Central, <i>Pericapritermes semarangi</i> fue la más abundante de las siete especies de termitas registradas, con 31 individuos, y las termitas consumidoras de suelo estuvieron ausentes en los asentamientos y aparecieron principalmente en bosque protegido y de producción."
+          },
+          {
+            "src": [
+              "S0227"
+            ],
+            "text": "据摘要，Ratiknyo 等（2018）在 Mount Slamet 海拔 700–1300 m、四个坡面的样带调查，把长头近扭白蚁（<i>Pericapritermes dolichocephalus</i>）与近扭白蚁属（<i>Pericapritermes</i>）的另一种一同归入取食土壤的类群，与取食木材、取食腐殖质的类群分开统计；该调查共获 7349 头、11 种、9 属、5 亚科、2 科，西坡多样性最高，典范对应分析显示郁闭度与光照强度是与群落结构最相关的环境因子。",
+            "text_en": "According to the abstract of Ratiknyo et al. (2018), an altitudinal survey on four slopes of Mount Slamet between 700 and 1300 m assigned <i>Pericapritermes dolichocephalus</i> and a second <i>Pericapritermes</i> species to the soil-feeding group, counted separately from wood feeders and humus feeders; 7349 individuals of 11 species, 9 genera, 5 subfamilies and 2 families were recorded, diversity was highest on the western slope, and canonical correspondence analysis identified canopy cover and light intensity as the environmental factors most correlated with community structure.",
+            "text_es": "Según el resumen de Ratiknyo et al. (2018), un muestreo altitudinal en cuatro laderas del monte Slamet entre 700 y 1300 m asignó a <i>Pericapritermes dolichocephalus</i> y a otra especie de <i>Pericapritermes</i> al grupo geófago, contabilizado por separado de los xilófagos y humívoros; se registraron 7349 individuos de 11 especies, 9 géneros, 5 subfamilias y 2 familias, la diversidad fue mayor en la ladera occidental y el análisis de correspondencia canónica identificó la cobertura del dosel y la intensidad lumínica como los factores ambientales más correlacionados con la estructura de la comunidad."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0225",
+        "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235–240.",
+        "doi": "10.13057/biodiv/d120409"
+      },
+      {
+        "id": "S0227",
+        "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5).",
+        "doi": "10.13057/biodiv/d190508"
+      }
+    ]
+  },
+  "/genus/stolotermes/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "早中新世新西兰的化石种",
+        "heading_en": "A fossil species from the Early Miocene of New Zealand",
+        "heading_es": "Una especie fósil del Mioceno temprano de Nueva Zelanda",
+        "paragraphs": [
+          {
+            "src": [
+              "S0213"
+            ],
+            "text": "据摘要，Kaulfuß 等（2010）对新西兰南岛奥塔戈（Otago）早中新世湖相沉积中一件前翅化石的研究表明，胄白蚁属（<i>Stolotermes</i>）在早中新世已出现在新西兰：该标本具备胄白蚁属（<i>Stolotermes</i>）的属征，但尺寸与翅脉均与现生种不同，被描述为该属的一个新种，种名 kupe（本站名录未收录该化石种）。",
+            "text_en": "According to the abstract of Kaulfuß et al. (2010), a forewing fossil from Early Miocene lacustrine deposits of Otago, South Island, New Zealand, shows that the genus <i>Stolotermes</i> was already present in New Zealand in the Early Miocene: the specimen has the diagnostic characters of <i>Stolotermes</i> but differs from living species in both size and venation, and was described as a new species of the genus with the epithet kupe (this fossil species is not included in the site's checklist).",
+            "text_es": "Según el resumen de Kaulfuß et al. (2010), un ala anterior fósil procedente de depósitos lacustres del Mioceno temprano de Otago, en la Isla Sur de Nueva Zelanda, muestra que el género <i>Stolotermes</i> ya estaba presente en Nueva Zelanda en el Mioceno temprano: el ejemplar presenta los caracteres diagnósticos de <i>Stolotermes</i>, pero difiere de las especies actuales tanto en tamaño como en venación, y fue descrito como una especie nueva del género con el epíteto kupe (esta especie fósil no figura en el listado del sitio)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0213",
+        "citation": "Kaulfuß, U.; Harris, A. C.; Lee, D. E. 2010. A New Fossil Termite (Isoptera, Stolotermitidae, Stolotermes) from the Early Miocene of Otago, New Zealand. Acta Geologica Sinica - English Edition.",
+        "doi": "10.1111/j.1755-6724.2010.00275.x"
+      }
+    ]
+  },
+  "/species/ancistrotermes-cavithorax/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "兵蚁的萜类防御分泌物",
+        "heading_en": "Terpenoid defensive secretions of soldiers",
+        "heading_es": "Secreciones defensivas terpenoides de los soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0216"
+            ],
+            "text": "据摘要，Baker 等（1978）报道，凹胸钩白蚁（<i>Ancistrotermes cavithorax</i>）兵蚁的防御分泌物为萜类化合物：小兵蚁只产生 ancistrodial（化合物 1），大兵蚁则产生 ancistrofuran（化合物 6），并伴随化合物 4 与 5；两个兵蚁品级的化学成分不同，提示其防御功能存在分工。",
+            "text_en": "According to the abstract of Baker et al. (1978), the defensive secretion of <i>Ancistrotermes cavithorax</i> soldiers consists of diterpenes: minor soldiers produce only ancistrodial (compound 1), whereas major soldiers produce ancistrofuran (compound 6) together with compounds 4 and 5; the chemical difference between the two soldier castes suggests a division of defensive function.",
+            "text_es": "Según el resumen de Baker et al. (1978), la secreción defensiva de los soldados de <i>Ancistrotermes cavithorax</i> está formada por diterpenos: los soldados menores producen solo ancistrodial (compuesto 1), mientras que los soldados mayores producen ancistrofurano (compuesto 6) junto con los compuestos 4 y 5; la diferencia química entre ambas castas de soldados sugiere una división de la función defensiva."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0216",
+        "citation": "Baker, R.; Briner, P. H.; Evans, D. A. 1978. Chemical defence in the termite Ancistrotermes cavithorax: ancistrodial and ancistrofuran. Journal of the Chemical Society, Chemical Communications 1978: 410–411.",
+        "doi": "10.1039/c39780000410"
+      }
+    ]
+  },
+  "/species/coptotermes-formosanus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "区域诱饵防治的密度与成本",
+        "heading_en": "Bait density and cost in area-wide control",
+        "heading_es": "Densidad de cebos y costo en el control de área",
+        "paragraphs": [
+          {
+            "src": [
+              "S0442"
+            ],
+            "text": "据摘要，Lin 等（2026）在台湾中部科学园区（466 ha）与新竹科学园区（777 ha）开展为期 2 年的诱饵防治计划，以 5 m 间距的木桩矩阵逐月监测台湾乳白蚁（<i>Coptotermes formosanus</i>）的群体活动，每个群体设 1 个地下诱饵站；共消灭 11 个群体，平均消灭时间 1.82±1.25 个月，每群体取食诱饵 164.3±68.6 g（约 1 支诱饵管）；模拟 6–16 m 的诱饵站间距后，中部园区在间距 ≤8 m、新竹园区在 ≤12 m 时可使群体被消灭，最低年成本分别约 1359 万与 1483 万新台币。",
+            "text_en": "According to the abstract, Lin et al. (2026) ran a two-year baiting programme in the Central Taiwan Science Park (466 ha) and the Hsinchu Science Park (777 ha), monitored colony activity of <i>Coptotermes formosanus</i> monthly with a 5-m-spaced wood-stake matrix, and baited each colony with a single in-ground station; 11 colonies were eliminated, with a mean elimination time of 1.82 ± 1.25 months and bait consumption of 164.3 ± 68.6 g (about one bait tube) per colony; simulating bait-station spacings of 6–16 m showed that colonies could be eliminated at spacings of ≤8 m in the Central Taiwan park and ≤12 m in Hsinchu, with minimum annual costs of about 13.59 and 14.83 million NTD, respectively.",
+            "text_es": "Según el resumen, Lin et al. (2026) llevaron a cabo un programa de cebos de dos años en el Parque Científico de Taiwán Central (466 ha) y el Parque Científico de Hsinchu (777 ha), monitorearon mensualmente la actividad de las colonias de <i>Coptotermes formosanus</i> con una matriz de estacas de madera espaciadas 5 m y cebaron cada colonia con una sola estación subterránea; se eliminaron 11 colonias, con un tiempo medio de eliminación de 1.82 ± 1.25 meses y un consumo de cebo de 164.3 ± 68.6 g (aproximadamente un tubo de cebo) por colonia; la simulación de espaciamientos de estaciones de 6 a 16 m mostró que las colonias podían eliminarse con espaciamientos de ≤8 m en el parque de Taiwán Central y de ≤12 m en Hsinchu, con costos anuales mínimos de unos 13.59 y 14.83 millones de NTD, respectivamente."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0442",
+        "citation": "Lin, W.-J.; Chen, N.; Chen, G.-Y.; Lai, Y.-Y.; Huang, C.-H.; Li, H.-F. 2026. Area-wide evaluation of bait density and cost-effectiveness in the elimination of the Formosan subterranean termite. Journal of Economic Entomology.",
+        "doi": "10.1093/jee/toag316"
+      }
+    ]
+  },
+  "/species/cornitermes-cumulans/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "巢的生长阶段与微形态",
+        "heading_en": "Nest growth stages and micromorphology",
+        "heading_es": "Etapas de crecimiento del nido y micromorfología",
+        "paragraphs": [
+          {
+            "src": [
+              "S0218"
+            ],
+            "text": "根据 Cosarinsky（2011）对阿根廷福尔摩萨省 El Bagual 生态保护区湿润东查科三个成堆角象白蚁（<i>Cornitermes cumulans</i>）巢的微形态研究，巢可分三个阶段：小巢主体在地下、呈倒梨形，连丘共高 33 cm（丘高 10 cm、直径 20 cm），外壁浅色、厚 3 cm，地下壁深褐、厚 0.5–1 cm 并具 3 mm 穿孔；中巢丘高 63 cm、基径 60 cm，巢室位于丘基并向下延伸至地下 30 cm；大巢丘高 128 cm、基径 110 cm，壁厚 3–5 cm，巢室为大型卵形。",
+            "text_en": "According to Cosarinsky's (2011) micromorphological study of three nests of <i>Cornitermes cumulans</i> in the humid eastern Chaco of Reserva Ecológica El Bagual, Formosa, Argentina, the nests fall into three stages: in the small nest the main body is subterranean and pear-shaped, 33 cm high including the mound (mound 10 cm high, 20 cm wide), the outer wall is pale and 3 cm thick, and the subterranean wall is dark brown, 0.5–1 cm thick and pierced by 3 mm perforations; the medium nest has a mound 63 cm high and 60 cm in basal diameter, with the hive at the mound base extending 30 cm below ground; the large nest has a mound 128 cm high and 110 cm in basal diameter, walls 3–5 cm thick, and a large ovoid hive.",
+            "text_es": "Según el estudio micromorfológico de Cosarinsky (2011) sobre tres nidos de <i>Cornitermes cumulans</i> en el Chaco oriental húmedo de la Reserva Ecológica El Bagual, Formosa, Argentina, los nidos presentan tres etapas: en el nido pequeño el cuerpo principal es subterráneo y piriforme, de 33 cm de alto incluido el montículo (montículo de 10 cm de alto y 20 cm de ancho), la pared externa es pálida y de 3 cm de espesor, y la pared subterránea es parda oscura, de 0.5–1 cm de grosor y perforada por orificios de 3 mm; el nido mediano tiene un montículo de 63 cm de alto y 60 cm de diámetro basal, con la cámara (hive) en la base del montículo que se extiende 30 cm bajo el suelo; el nido grande tiene un montículo de 128 cm de alto y 110 cm de diámetro basal, paredes de 3–5 cm de grosor y una cámara ovoide grande."
+          },
+          {
+            "src": [
+              "S0218"
+            ],
+            "text": "三个阶段的巢壁微结构不同：小巢地下壁由长 1–1.5 mm 的透镜状粪粒堆叠而成（透镜状微结构），中巢外壁为粒间微团聚体与弥散透镜状结构交替，大巢外壁则是砂粒被细有机质与黏土胶结的孔洞状微结构；地下壁孔隙度由小、中巢的 10–20% 降至大巢的 2%，而周围土壤约为 50%。",
+            "text_en": "The micromorphology of the nest walls differs among the three stages: the subterranean wall of the small nest is built of stacked lenticular pellets 1–1.5 mm long (lenticular microstructure), the outer wall of the medium nest alternates intergrain microaggregate and diffuse lenticular structure, and the outer wall of the large nest shows a vughy microstructure in which sand grains are cemented by fine organic matter and clay; the porosity of the subterranean wall falls from 10–20% in the small and medium nests to 2% in the large nest, whereas the surrounding soil is about 50% porous.",
+            "text_es": "La micromorfología de las paredes del nido difiere entre las tres etapas: la pared subterránea del nido pequeño está formada por gránulos lenticulares apilados de 1–1.5 mm de largo (microestructura lenticular), la pared externa del nido mediano alterna microagregados intergranulares y estructura lenticular difusa, y la pared externa del nido grande muestra una microestructura vacuolar en la que los granos de arena están cementados por materia orgánica fina y arcilla; la porosidad de la pared subterránea desciende del 10–20% en los nidos pequeño y mediano al 2% en el nido grande, mientras que el suelo circundante presenta una porosidad de alrededor del 50%."
+          },
+          {
+            "src": [
+              "S0218"
+            ],
+            "text": "作者把成堆角象白蚁（<i>Cornitermes cumulans</i>）与勇猛大白蚁（<i>Macrotermes bellicosus</i>）归为「重组式」生长，即随群体增长不断改造旧结构，而方白蚁属（<i>Cubitermes</i>）的一种属「叠加式」生长；巢壁的黏土双折射织物说明筑巢时加入了经唾液调湿的黏土，有机衬里的层状结构提示粪源，大巢中的有机条带是旧衬里被土填充的遗迹。",
+            "text_en": "The author classified <i>Cornitermes cumulans</i> and <i>Macrotermes bellicosus</i> as growing by reorganization, continually remodelling old structures as the colony grows, whereas a species of <i>Cubitermes</i> grows by addition; birefringent clay fabrics in the nest walls indicate that clay moistened with saliva was added during construction, the layered structure of the organic linings points to a faecal origin, and the organic strands in the large nest are remnants of old linings infilled with soil.",
+            "text_es": "El autor clasificó a <i>Cornitermes cumulans</i> y <i>Macrotermes bellicosus</i> como especies que crecen por reorganización, remodelando continuamente las estructuras antiguas a medida que la colonia crece, mientras que una especie de <i>Cubitermes</i> crece por adición; los tejidos arcillosos birrefringentes de las paredes del nido indican que durante la construcción se añadió arcilla humedecida con saliva, la estructura laminar de los revestimientos orgánicos apunta a un origen fecal y las bandas orgánicas del nido grande son restos de revestimientos antiguos rellenos de suelo."
+          }
+        ]
+      },
+      {
+        "heading": "集体活动的规模依赖",
+        "heading_en": "Scale dependence of collective activity",
+        "heading_es": "Dependencia de escala de la actividad colectiva",
+        "paragraphs": [
+          {
+            "src": [
+              "S0219"
+            ],
+            "text": "根据 Miramontes 与 DeSouza（2008）的实验室实验，成堆角象白蚁（<i>Cornitermes cumulans</i>）成工蚁在 1 至 30 头的 8 个群体规模下，自发活动的个体数随群体增大而非线性下降，而由个体间接触诱发的活动随群体增大而非线性上升；活动时间序列的 Kolmogorov–Shannon 熵随密度非线性升高，并呈自相似结构，与移动细胞自动机模型的定性预测一致；实验未检出有序—无序相变，说明该种不如某些象白蚁属（<i>Nasutitermes</i>）种类那样容易被激发。",
+            "text_en": "In laboratory experiments by Miramontes and DeSouza (2008), colonies of adult workers of <i>Cornitermes cumulans</i> were kept at eight group sizes from 1 to 30 individuals; the number of spontaneously active individuals decreased nonlinearly with group size, whereas activity induced by body-to-body contact increased nonlinearly with group size; the Kolmogorov–Shannon entropy of the activity time series rose nonlinearly with density and showed a self-similar structure consistent with the qualitative predictions of a mobile cellular automaton model, and no order–disorder transition was detected, indicating that this species is less readily excited than some <i>Nasutitermes</i> species.",
+            "text_es": "En los experimentos de laboratorio de Miramontes y DeSouza (2008), se mantuvieron colonias de obreras adultas de <i>Cornitermes cumulans</i> en ocho tamaños de grupo, de 1 a 30 individuos; el número de individuos activos de forma espontánea disminuyó de manera no lineal con el tamaño del grupo, mientras que la actividad inducida por el contacto cuerpo a cuerpo aumentó de forma no lineal con el tamaño del grupo; la entropía de Kolmogorov–Shannon de las series temporales de actividad aumentó de forma no lineal con la densidad y mostró una estructura autosimilar compatible con las predicciones cualitativas de un modelo de autómata celular móvil, y no se detectó ninguna transición orden–desorden, lo que indica que esta especie se excita con menos facilidad que algunas especies de <i>Nasutitermes</i>."
+          }
+        ]
+      },
+      {
+        "heading": "丘的缓冲作用",
+        "heading_en": "Thermal buffering by the mound",
+        "heading_es": "Amortiguación térmica del montículo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0443"
+            ],
+            "text": "据摘要，Santos 等（2026）沿气候梯度结合临界热上限（CT<sub>max</sub>）测定、丘内微气候观测与有效体温模型，发现 Campinas 样点丘内温度波动明显低于外界，模拟的有效体温在整个梯度上均显示正的热安全边际；但 CT<sub>max</sub> 仍随区域气候变化，随年降水量增加而升高、随平均日温差增大而降低；工蚁形态也随气候强烈变化，β-葡聚糖酶活性与肠道细菌丰富度则受不同气候因子驱动；在未来 SSP2–4.5 与 SSP5–8.5 情景下热安全边际显著缩小，低纬度损失更大。",
+            "text_en": "According to the abstract, Santos et al. (2026) combined measurements of critical thermal maximum (CT<sub>max</sub>), field observations of mound microclimate, and mechanistic estimates of operative body temperature along a climatic gradient, and found that at the Campinas site temperatures inside the mound varied markedly less than ambient conditions and that modelled operative temperatures indicated positive thermal safety margins across the gradient; nevertheless, CT<sub>max</sub> remained associated with regional climate, increasing with annual precipitation and decreasing with mean diurnal temperature range; worker morphology also varied strongly with climate, while β-glucanase activity and gut bacterial richness were driven by different climatic factors; under future SSP2–4.5 and SSP5–8.5 scenarios thermal safety margins shrink substantially, with greater losses at lower latitudes.",
+            "text_es": "Según el resumen, Santos et al. (2026) combinaron mediciones de la temperatura crítica máxima (CT<sub>max</sub>), observaciones de campo del microclima del montículo y estimaciones mecanicistas de la temperatura corporal operativa a lo largo de un gradiente climático, y hallaron que en el sitio de Campinas la temperatura dentro del montículo variaba mucho menos que las condiciones ambientales y que las temperaturas operativas modeladas indicaban márgenes de seguridad térmica positivos en todo el gradiente; no obstante, la CT<sub>max</sub> siguió asociada al clima regional, aumentando con la precipitación anual y disminuyendo con el rango térmico diario medio; la morfología de las obreras también varió fuertemente con el clima, mientras que la actividad de β-glucanasa y la riqueza de bacterias intestinales estuvieron impulsadas por factores climáticos distintos; en los escenarios futuros SSP2–4.5 y SSP5–8.5 los márgenes de seguridad térmica se reducen de forma sustancial, con mayores pérdidas en latitudes bajas."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0218",
+        "citation": "Cosarinsky, M. I. 2011. The Nest Growth of the Neotropical Mound-Building Termite, Cornitermes cumulans: A Micromorphological Analysis. Journal of Insect Science 11: 122.",
+        "doi": "10.1673/031.011.12201"
+      },
+      {
+        "id": "S0219",
+        "citation": "Miramontes, O.; DeSouza, O. 2008. Individual Basis for Collective Behaviour in the Termite, Cornitermes cumulans. Journal of Insect Science 8: 22.",
+        "doi": "10.1673/031.008.2201"
+      },
+      {
+        "id": "S0443",
+        "citation": "Santos, M. D.; da Costa Barreto, I.; Damasio, A.; Faria, A. F.; Cavieres, G.; Aguilera-Olivares, D.; Haifig, I.; Carrijo, T. F.; Arab, A. 2026. Thermal buffering by termite mounds maintains safety margins while worker traits track climate. Insectes Sociaux.",
+        "doi": "10.1007/s00040-026-01142-5"
+      }
+    ]
+  },
+  "/species/glossotermes-oculatus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "肠道鞭毛虫组合",
+        "heading_en": "Gut flagellate assemblage",
+        "heading_es": "Comunidad de flagelados intestinales",
+        "paragraphs": [
+          {
+            "src": [
+              "S0217"
+            ],
+            "text": "据摘要，Radek 等（2017）发现，眼显舌白蚁（<i>Glossotermes oculatus</i>）的肠道内至少有 3 类鞭毛虫形态型：大型的类 <i>Pseudotrichonympha</i>、中型具螺旋鞭毛带的类 <i>Leptospironympha</i> 与小型类 <i>Hexamastix</i>，未检出 oxymonadid；这一组合与同科锯齿白蚁（<i>Serritermes serrifer</i>）高度相似，而与其近缘的鼻白蚁科（Rhinotermitidae）相比则缺少后者全部的特征类群。",
+            "text_en": "According to the abstract of Radek et al. (2017), the gut of <i>Glossotermes oculatus</i> harbours at least three flagellate morphotypes: a large <i>Pseudotrichonympha</i>-like form, a medium-sized <i>Leptospironympha</i>-like form with a spirally coiled flagellar band, and a small <i>Hexamastix</i>-like form, with no oxymonadids detected; the assemblage closely resembles that of <i>Serritermes serrifer</i> in the same family, and lacks all the characteristic groups of the closely related Rhinotermitidae.",
+            "text_es": "Según el resumen de Radek et al. (2017), el intestino de <i>Glossotermes oculatus</i> alberga al menos tres morfotipos de flagelados: una forma grande similar a <i>Pseudotrichonympha</i>, una forma mediana similar a <i>Leptospironympha</i> con una banda flagelar en espiral y una forma pequeña similar a <i>Hexamastix</i>, sin oxymonádidos; la asociación se parece mucho a la de <i>Serritermes serrifer</i> de la misma familia y carece de todos los grupos característicos de los Rhinotermitidae cercanos."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0217",
+        "citation": "Radek, R.; Meuser, K.; Strassert, J. F. H.; Arslan, O.; Teßmer, A.; Šobotník, J.; Sillam-Dussès, D.; Nink, R. A.; Brune, A. 2017. Exclusive Gut Flagellates of Serritermitidae Suggest a Major Transfaunation Event in Lower Termites: Description of Heliconympha glossotermitis gen. nov. spec. nov. Journal of Eukaryotic Microbiology 64(6).",
+        "doi": "10.1111/jeu.12441"
+      }
+    ]
+  },
+  "/species/macrotermes-carbonarius/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "四龄幼蚁的鉴别特征",
+        "heading_en": "Diagnostic characters of the fourth-instar larva",
+        "heading_es": "Caracteres diagnósticos de la larva de cuarto instar",
+        "paragraphs": [
+          {
+            "src": [
+              "S0214"
+            ],
+            "text": "据摘要，Neoh 与 Lee（2009）指出，炭色大白蚁（<i>Macrotermes carbonarius</i>）的四龄幼蚁外形虽与小工蚁相似，但色素较浅、腹部膨胀，并已具备前兵蚁式的上颚与中、后胸背板，可据此与工蚁幼蚁区分。",
+            "text_en": "According to the abstract of Neoh and Lee (2009), the fourth-instar larva of <i>Macrotermes carbonarius</i>, although similar in appearance to a minor worker, is paler, has a distended abdomen and already bears the mandibles and meso- and metanotal structures of a presoldier, which separates it from worker larvae.",
+            "text_es": "Según el resumen de Neoh y Lee (2009), la larva de cuarto instar de <i>Macrotermes carbonarius</i>, aunque similar en apariencia a una obrera menor, es más pálida, tiene el abdomen distendido y ya presenta las mandíbulas y las estructuras meso- y metanotales de un presoldado, lo que la distingue de las larvas de obrera."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0214",
+        "citation": "Neoh, K.-B.; Lee, C.-Y. 2009. Developmental Stages and Castes of Two Sympatric Subterranean Termites Macrotermes gilvus and Macrotermes carbonarius (Blattodea: Termitidae). Annals of the Entomological Society of America 102(6).",
+        "doi": "10.1603/008.102.0617"
+      }
+    ]
+  },
+  "/species/macrotermes-gilvus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "爪哇的土地利用记录",
+        "heading_en": "Land-use records from Java",
+        "heading_es": "Registros de uso del suelo en Java",
+        "paragraphs": [
+          {
+            "src": [
+              "S0225"
+            ],
+            "text": "根据 Pribadi 等（2011）在中爪哇 Mount Slamet 东坡 5 类土地利用中的调查，暗黄大白蚁（<i>Macrotermes gilvus</i>）仅见于居民点（海拔约 1001 m），共记录 5 头，是该调查所记 7 种白蚁之一；培菌白蚁在其他 4 类生境中未见记录。",
+            "text_en": "According to the survey by Pribadi et al. (2011) across five land-use types on the eastern slopes of Mount Slamet, Central Java, <i>Macrotermes gilvus</i> was recorded only in settlements (about 1001 m a.s.l.), with 5 individuals, and was one of the seven termite species found in the study; fungus-growing termites were not recorded in the other four land-use types.",
+            "text_es": "Según el muestreo de Pribadi et al. (2011) en cinco tipos de uso del suelo en la ladera oriental del monte Slamet, Java Central, <i>Macrotermes gilvus</i> se registró únicamente en asentamientos (unos 1001 m s.n.m.), con 5 individuos, y fue una de las siete especies de termitas halladas en el estudio; las termitas cultivadoras de hongos no se registraron en los otros cuatro tipos de uso del suelo."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0225",
+        "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235–240.",
+        "doi": "10.13057/biodiv/d120409"
+      }
+    ]
+  },
+  "/species/macrotermes-michaelseni/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "丘的通风方式",
+        "heading_en": "Ventilation of the mound",
+        "heading_es": "Ventilación del montículo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0143"
+            ],
+            "text": "据摘要，Turner（2001）用示踪法研究米夏埃尔森大白蚁（<i>Macrotermes michaelseni</i>）丘与巢的气流格局和速率，发现尽管丘是完全封闭的结构，风仍是巢通风的重要能量来源；巢内空气依靠风速与风向随时间变化所驱动的潮汐式流动进行交换，而足以靠自然对流驱动整体流动的密度梯度很少出现；代谢产生的浮力可能与风能相互作用，以维持丘内大气的稳定。",
+            "text_en": "According to the abstract, Turner (2001) used tracer methods to study airflow patterns and rates in the mound and nest of <i>Macrotermes michaelseni</i> and found that, although the mound is a fully closed structure, wind is a significant energy source for nest ventilation; air in the nest is exchanged by tidal flows driven by temporal variation in wind speed and direction, whereas density gradients steep enough to drive bulk flow by natural convection occur only rarely; buoyancy generated by metabolism may interact with wind energy to maintain homeostasis of the mound atmosphere.",
+            "text_es": "Según el resumen, Turner (2001) estudió con métodos de trazadores los patrones y las tasas de flujo de aire en el montículo y el nido de <i>Macrotermes michaelseni</i> y halló que, aunque el montículo es una estructura completamente cerrada, el viento constituye una fuente de energía importante para la ventilación del nido; el aire del nido se intercambia mediante flujos de marea impulsados por la variación temporal de la velocidad y la dirección del viento, mientras que los gradientes de densidad suficientes para impulsar un flujo masivo por convección natural son raros; la flotabilidad generada por el metabolismo podría interactuar con la energía del viento para mantener la homeostasis de la atmósfera del montículo."
+          }
+        ]
+      },
+      {
+        "heading": "半干旱区的觅食格局",
+        "heading_en": "Foraging patterns in semi-arid savanna",
+        "heading_es": "Patrones de forrajeo en sabana semiárida",
+        "paragraphs": [
+          {
+            "src": [
+              "S0226"
+            ],
+            "text": "据摘要，Schuurman（2006）在博茨瓦纳奥卡万戈三角洲北部半干旱稀树草原用纤维素诱饵所做的湿季与干季监测显示，米夏埃尔森大白蚁（<i>Macrotermes michaelseni</i>）在多数样地持续觅食，并在早干季（5–6 月）出现觅食高峰，作者认为这与有翅成虫生产所需的水分和能量有关；干季中该种与土白蚁属（<i>Odontotermes</i>）一种在诱饵上的出现频率呈负相关。",
+            "text_en": "According to the abstract of Schuurman (2006), who monitored cellulose baits in the wet and dry seasons in the semi-arid savanna of northern Okavango Delta, Botswana, <i>Macrotermes michaelseni</i> foraged continuously at most sites and showed a peak in the early dry season (May–June), which the author linked to the water and energy demands of alate production; during the dry season its frequency at baits was negatively correlated with that of a species of <i>Odontotermes</i>.",
+            "text_es": "Según el resumen de Schuurman (2006), que monitoreó cebos de celulosa en las estaciones húmeda y seca en la sabana semiárida del norte del delta del Okavango, Botsuana, <i>Macrotermes michaelseni</i> forrajeó de forma continua en la mayoría de los sitios y mostró un pico en la estación seca temprana (mayo–junio), que el autor relacionó con las demandas de agua y energía de la producción de alados; durante la estación seca, su frecuencia en los cebos se correlacionó negativamente con la de una especie de <i>Odontotermes</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0143",
+        "citation": "Turner, J. S. 2001. On the Mound of Macrotermes michaelseni as an Organ of Respiratory Gas Exchange. Physiological and Biochemical Zoology 74(6).",
+        "doi": "10.1086/323990"
+      },
+      {
+        "id": "S0226",
+        "citation": "Schuurman, G. 2006. Foraging and distribution patterns in a termite assemblage dominated by fungus-growing species in semi-arid northern Botswana. Journal of Tropical Ecology 22(3).",
+        "doi": "10.1017/s0266467405003044"
+      }
+    ]
+  },
+  "/species/nasutitermes-javanicus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "土地利用梯度中的数量",
+        "heading_en": "Abundance along a land-use gradient",
+        "heading_es": "Abundancia a lo largo de un gradiente de uso del suelo",
+        "paragraphs": [
+          {
+            "text": "据摘要，Pribadi 等（2011）在中爪哇 Mount Slamet 东坡 1001–1152 m 的 5 类土地利用中共采到 7 种白蚁，爪哇象白蚁（<i>Nasutitermes javanicus</i>）21 头，数量居第三；它是仅有的两种在保护林、游憩林、用材林、农林复合与居民点全部 5 类生境中都被采到的白蚁之一（另一种为长鼻白蚁属 <i>Schedorhinotermes</i> 的一种）。",
+            "text_en": "According to the abstract of Pribadi et al. (2011), seven termite species were collected across five land-use types at 1001-1152 m on the eastern slopes of Mount Slamet, Central Java, and <i>Nasutitermes javanicus</i> was represented by 21 individuals, the third highest count; it was one of only two species recorded in all five habitats (protected forest, recreation forest, production forest, agroforestry and settlement), the other being an undetermined <i>Schedorhinotermes</i> species.",
+            "text_es": "Según el resumen de Pribadi et al. (2011), se recolectaron siete especies de termitas en cinco tipos de uso del suelo entre 1001 y 1152 m en la ladera oriental del monte Slamet, Java Central, y <i>Nasutitermes javanicus</i> estuvo representada por 21 individuos, el tercer conteo más alto; fue una de las dos únicas especies registradas en los cinco hábitats (bosque protegido, bosque recreativo, bosque de producción, agrosilvicultura y asentamiento), junto con una especie no determinada de <i>Schedorhinotermes</i>.",
+            "src": [
+              "S0225"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0225",
+        "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235-240.",
+        "doi": "10.13057/biodiv/d120409"
+      }
+    ]
+  },
+  "/species/nasutitermes-matangensis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "生境与食性",
+        "heading_en": "Habitat and feeding",
+        "heading_es": "Hábitat y alimentación",
+        "paragraphs": [
+          {
+            "text": "据摘要，Pribadi 等（2011）在 Mount Slamet 东坡 5 类土地利用中只于保护林采到马登象白蚁（<i>Nasutitermes matangensis</i>）2 头，为 7 种中数量最少；Ratiknyo 等（2018）在同一山地的海拔梯度调查中，把该种与瓢白蚁属（<i>Bulbitermes</i>）的几种一同归入取食腐殖质的类群，与取食木材和取食土壤的类群分开统计。",
+            "text_en": "According to the abstracts of Pribadi et al. (2011) and Ratiknyo et al. (2018), <i>Nasutitermes matangensis</i> was represented by only 2 individuals, the lowest count among the seven species, and was found solely in protected forest among the five land-use types sampled on the eastern slopes of Mount Slamet; in the altitudinal survey on the same mountain the species was grouped with several <i>Bulbitermes</i> species as humus feeders, separately from wood-feeding and soil-feeding groups.",
+            "text_es": "Según los resúmenes de Pribadi et al. (2011) y Ratiknyo et al. (2018), <i>Nasutitermes matangensis</i> estuvo representada por solo 2 individuos, el conteo más bajo de las siete especies, y se encontró únicamente en bosque protegido entre los cinco tipos de uso del suelo muestreados en la ladera oriental del monte Slamet; en el estudio altitudinal del mismo monte la especie se agrupó con <i>Nasutitermes matangensiformis</i> y varias especies de <i>Bulbitermes</i> como consumidoras de humus, separadas de los grupos xilófagos y geófagos.",
+            "src": [
+              "S0225",
+              "S0227"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0225",
+        "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235-240.",
+        "doi": "10.13057/biodiv/d120409"
+      },
+      {
+        "id": "S0227",
+        "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5): 1783-1788.",
+        "doi": "10.13057/biodiv/d190508"
+      }
+    ]
+  },
+  "/species/neotermes-chilensis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "颚磨损的品级差异",
+        "heading_en": "Caste differences in mandibular wear",
+        "heading_es": "Diferencias de desgaste mandibular entre castas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0439"
+            ],
+            "text": "根据 Arauco-Reyes 等（2026）对智利特有种智利新白蚁（<i>Neotermes chilensis</i>）147 件标本的研究，该种为单块式筑巢木白蚁，群体劳动由栖居并取食完好木材的全能性幼体承担；以颚磨损指数（MWI）与扫描电镜测量、并以 512.4 µm 的标准化体长校正异速生长后，各品级间磨损差异显著而两性间无差异：若虫磨损最重，有翅成虫最轻，初生繁殖蚁与拟工蚁居中。",
+            "text_en": "According to the study by Arauco-Reyes et al. (2026) on 147 specimens of the Chilean endemic <i>Neotermes chilensis</i>, this is a one-piece nesting drywood termite whose colony labour is performed by totipotent immatures that inhabit and consume structurally sound wood; using a Mandibular Wear Index (MWI) and scanning electron microscopy, and correcting for allometry at a standardized body size of 512.4 µm, wear differed significantly among castes but not between the sexes: nymphs showed the most severe wear, alates the least, and primary reproductives and pseudergates were intermediate.",
+            "text_es": "Según el estudio de Arauco-Reyes et al. (2026) sobre 147 ejemplares de la especie endémica de Chile <i>Neotermes chilensis</i>, se trata de una termita de madera seca de nidificación en una sola pieza, cuyo trabajo colonial lo realizan inmaduros totipotentes que habitan y consumen madera estructuralmente sana; mediante un índice de desgaste mandibular (MWI) y microscopía electrónica de barrido, y corrigiendo la alometría a un tamaño corporal estandarizado de 512.4 µm, el desgaste difirió significativamente entre castas pero no entre sexos: las ninfas presentaron el desgaste más severo, los alados el menor, y los reproductores primarios y los pseudoergates valores intermedios."
+          },
+          {
+            "src": [
+              "S0439"
+            ],
+            "text": "作者据此提出「成年的代价」假说：幼体取食造成的严重颚磨损被解释为一种为自身发育为有翅成虫服务的自私发育成本；而有翅成虫因不能再蜕皮更新表皮，必须把上颚保持在可用于挖掘婚飞室和建立新群体的状态。",
+            "text_en": "The authors therefore proposed the 'price of adulthood' hypothesis: the severe mandibular wear caused by feeding immatures is interpreted as a selfish developmental cost that serves their own ontogeny into alates, whereas alates, which can no longer moult to renew their cuticle, must keep their mandibles in a condition suitable for excavating a nuptial chamber and founding a new colony.",
+            "text_es": "Los autores propusieron por ello la hipótesis del «precio de la adultez»: el severo desgaste mandibular causado por la alimentación de los inmaduros se interpreta como un costo evolutivo egoísta que sirve a su propia ontogenia hacia alados, mientras que los alados, que ya no pueden mudar para renovar la cutícula, deben mantener sus mandíbulas en condiciones adecuadas para excavar una cámara nupcial y fundar una nueva colonia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0439",
+        "citation": "Arauco-Reyes, C.; Flores-Prado, L.; Gorena, T.; Arab, A.; Aguilera-Olivares, D. 2026. The price of adulthood: ontogenetic patterns of mandibular wear in a drywood termite. Frontiers in Ecology and Evolution 14: 1955114.",
+        "doi": "10.3389/fevo.2026.1955114"
+      }
+    ]
+  },
+  "/species/pericapritermes-dolichocephalus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "海拔梯度中的取食类群",
+        "heading_en": "Feeding group along an altitudinal gradient",
+        "heading_es": "Grupo trófico a lo largo de un gradiente altitudinal",
+        "paragraphs": [
+          {
+            "text": "据摘要，Ratiknyo 等（2018）在中爪哇 Mount Slamet 700–1300 m 四个坡面的调查共记录 7349 头、11 种白蚁，把长头近扭白蚁（<i>Pericapritermes dolichocephalus</i>）与近扭白蚁属（<i>Pericapritermes</i>）的另一种一同归入取食土壤的类群，与取食木材、取食腐殖质的类群分开统计；典范对应分析显示郁闭度与光照强度是与群落结构最相关的环境因子。",
+            "text_en": "According to the abstract of Ratiknyo et al. (2018), a survey of four slopes at 700-1300 m on Mount Slamet, Central Java, recorded 7349 individuals and 11 species, and grouped <i>Pericapritermes dolichocephalus</i> with a second <i>Pericapritermes</i> species as soil feeders, separately from wood-feeding and humus-feeding groups; canonical correspondence analysis identified canopy cover and light intensity as the environmental factors most correlated with community structure.",
+            "text_es": "Según el resumen de Ratiknyo et al. (2018), un muestreo de cuatro laderas entre 700 y 1300 m en el monte Slamet, Java Central, registró 7349 individuos y 11 especies, y agrupó a <i>Pericapritermes dolichocephalus</i> con otra especie de <i>Pericapritermes</i> como geófagas, separadas de los grupos xilófagos y humívoros; el análisis de correspondencia canónica identificó la cobertura del dosel y la intensidad lumínica como los factores ambientales más correlacionados con la estructura de la comunidad.",
+            "src": [
+              "S0227"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0227",
+        "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5): 1783-1788.",
+        "doi": "10.13057/biodiv/d190508"
+      }
+    ]
+  },
+  "/species/pericapritermes-semarangi/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "土地利用梯度中的数量",
+        "heading_en": "Abundance along a land-use gradient",
+        "heading_es": "Abundancia a lo largo de un gradiente de uso del suelo",
+        "paragraphs": [
+          {
+            "text": "据摘要，Pribadi 等（2011）在中爪哇 Mount Slamet 东坡记录三宝近扭白蚁（<i>Pericapritermes semarangi</i>）31 头，占 7 种 88 头总采集量的三分之一以上，为各样地合计最多的种类；同一调查中食土白蚁在居民点缺失、主要见于保护林与用材林，作者据此把食土类群作为森林生境的指示类群。",
+            "text_en": "According to the abstract of Pribadi et al. (2011), <i>Pericapritermes semarangi</i> was represented by 31 individuals on the eastern slopes of Mount Slamet, Central Java, more than a third of the 88 individuals collected across seven species and the highest total of any species; in the same survey soil-feeding termites were absent from settlements and occurred mainly in protected and production forest, on which basis the authors treated soil feeders as indicators of forest habitat.",
+            "text_es": "Según el resumen de Pribadi et al. (2011), <i>Pericapritermes semarangi</i> estuvo representada por 31 individuos en la ladera oriental del monte Slamet, Java Central, más de un tercio de los 88 individuos recolectados de siete especies y el total más alto de cualquier especie; en el mismo muestreo las termitas geófagas estuvieron ausentes de los asentamientos y aparecieron principalmente en bosque protegido y de producción, por lo que los autores las consideraron indicadoras de hábitat forestal.",
+            "src": [
+              "S0225"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0225",
+        "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235-240.",
+        "doi": "10.13057/biodiv/d120409"
+      }
+    ]
+  },
+  "/species/schedorhinotermes-lamanianus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "三类外分泌腺",
+        "heading_en": "Three exocrine gland systems",
+        "heading_es": "Tres sistemas de glándulas exocrinas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0215"
+            ],
+            "text": "据摘要，Kaib（1990）对拉曼长鼻白蚁（<i>Schedorhinotermes lamanianus</i>）化学信号的综述指出，该种具腹板腺、唇腺与额腺三类外分泌腺；其分泌物中的挥发性成分以情境依赖的方式调节工蚁与兵蚁的品级特异行为，这些信号同时具有种内与种间功能，并可相互影响。",
+            "text_en": "According to the abstract of Kaib's (1990) review of chemical signals in <i>Schedorhinotermes lamanianus</i>, the species possesses three exocrine gland systems — the sternal gland, the labial gland and the frontal gland; volatile components of their secretions modulate caste-specific behaviour of workers and soldiers in a context-dependent manner, and these signals serve both intraspecific and interspecific functions and can interact with one another.",
+            "text_es": "Según el resumen de la revisión de Kaib (1990) sobre las señales químicas de <i>Schedorhinotermes lamanianus</i>, la especie posee tres sistemas de glándulas exocrinas —la glándula esternal, la glándula labial y la glándula frontal—; los componentes volátiles de sus secreciones modulan el comportamiento específico de casta de obreras y soldados de manera dependiente del contexto, y estas señales cumplen funciones tanto intraespecíficas como interespecíficas y pueden interactuar entre sí."
+          }
+        ]
+      },
+      {
+        "heading": "两种信息素的相互作用",
+        "heading_en": "Interaction between two pheromones",
+        "heading_es": "Interacción entre dos feromonas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0221"
+            ],
+            "text": "据摘要，Reinhard 与 Kaib（1995）发现，工蚁沿觅食道行进时以腹板腺分泌物定向并招募同伴；取食者把唇腺分泌的非挥发性物质留在食物上，刺激更多工蚁在同一处取食而形成聚集；腹板腺的挥发性信号以剂量依赖方式抑制唇腺的持久信号，既能阻止新聚集形成，也能解散已有聚集。这是首次证明两种信息素之间存在这种相互作用，行为实验还显示腹板腺挥发物由嗅觉神经元感知，而唇腺非挥发物由触角味觉神经元感知。",
+            "text_en": "According to the abstract of Reinhard and Kaib (1995), workers orientate and recruit nestmates along foraging trails by means of sternal gland secretions; feeders deposit non-volatile labial gland material on the food, which stimulates further workers to feed at the same spot and form aggregations; the volatile sternal gland signal suppresses the persistent labial gland signal in a dose-dependent way, both preventing new aggregations and dispersing existing ones. This was the first demonstration of such an interaction between two pheromones, and behavioural experiments indicated that the sternal volatiles are perceived by olfactory neurons while the labial non-volatiles are perceived by antennal contact chemoreceptors.",
+            "text_es": "Según el resumen de Reinhard y Kaib (1995), las obreras se orientan y reclutan a sus compañeras a lo largo de los senderos de forrajeo mediante secreciones de la glándula esternal; los individuos que se alimentan depositan material no volátil de la glándula labial sobre el alimento, lo que estimula a más obreras a alimentarse en el mismo punto y formar agregaciones; la señal volátil de la glándula esternal suprime la señal persistente de la glándula labial de forma dependiente de la dosis, tanto impidiendo nuevas agregaciones como dispersando las existentes. Fue la primera demostración de esta interacción entre dos feromonas, y los experimentos conductuales indicaron que los volátiles esternales son percibidos por neuronas olfativas y los no volátiles labiales por quimiorreceptores de contacto antenales."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0215",
+        "citation": "Kaib, M. 1990. Intra- and Interspecific Chemical Signals in the Termite Schedorhinotermes — Production sites, chemistry, and behaviour. In: Sensory Systems and Communication in Arthropods. Birkhäuser Basel.",
+        "doi": "10.1007/978-3-0348-6410-7_5"
+      },
+      {
+        "id": "S0221",
+        "citation": "Reinhard, J.; Kaib, M. 1995. Interaction of pheromones during food exploitation by the termite Schedorhinotermes lamanianus. Physiological Entomology 20(3).",
+        "doi": "10.1111/j.1365-3032.1995.tb00011.x"
+      }
+    ]
+  },
+  "/species/serritermes-serrifer/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "肠道鞭毛虫组合",
+        "heading_en": "Gut flagellate assemblage",
+        "heading_es": "Comunidad de flagelados intestinales",
+        "paragraphs": [
+          {
+            "src": [
+              "S0217"
+            ],
+            "text": "据摘要，Radek 等（2017）发现，锯齿白蚁（<i>Serritermes serrifer</i>）的肠道内至少有 3 类鞭毛虫形态型：大型的类 <i>Pseudotrichonympha</i>、中型具螺旋鞭毛带的类 <i>Leptospironympha</i> 与小型类 <i>Hexamastix</i>，未检出 oxymonadid；这一组合与同科另一属的眼显舌白蚁（<i>Glossotermes oculatus</i>）高度相似，而其中 <i>Hexamastix</i> 类与鼻白蚁科（Rhinotermitidae）的 trichomonadid 近缘，两个大型 trichonymphid 则构成 Teranymphidae 的深分支姊妹群。",
+            "text_en": "According to the abstract of Radek et al. (2017), the gut of <i>Serritermes serrifer</i> harbours at least three flagellate morphotypes: a large <i>Pseudotrichonympha</i>-like form, a medium-sized <i>Leptospironympha</i>-like form with a spirally coiled flagellar band, and a small <i>Hexamastix</i>-like form, with no oxymonadids detected; this assemblage closely resembles that of <i>Glossotermes oculatus</i> in the same family, the <i>Hexamastix</i>-like flagellates being related to rhinotermitid trichomonadids while the two large trichonymphids form a deep-branching sister group of Teranymphidae.",
+            "text_es": "Según el resumen de Radek et al. (2017), el intestino de <i>Serritermes serrifer</i> alberga al menos tres morfotipos de flagelados: una forma grande similar a <i>Pseudotrichonympha</i>, una forma mediana similar a <i>Leptospironympha</i> con una banda flagelar en espiral y una forma pequeña similar a <i>Hexamastix</i>, sin oxymonádidos; esta asociación se parece mucho a la de <i>Glossotermes oculatus</i> de la misma familia, y los flagelados similares a <i>Hexamastix</i> están emparentados con los tricomonádidos de Rhinotermitidae, mientras que los dos triconinfos grandes forman un grupo hermano de ramificación profunda de Teranymphidae."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0217",
+        "citation": "Radek, R.; Meuser, K.; Strassert, J. F. H.; Arslan, O.; Teßmer, A.; Šobotník, J.; Sillam-Dussès, D.; Nink, R. A.; Brune, A. 2017. Exclusive Gut Flagellates of Serritermitidae Suggest a Major Transfaunation Event in Lower Termites: Description of Heliconympha glossotermitis gen. nov. spec. nov. Journal of Eukaryotic Microbiology 64(6).",
+        "doi": "10.1111/jeu.12441"
+      }
+    ]
+  },
+  "/species/trinervitermes-trinervoides/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "觅食与巢域",
+        "heading_en": "Foraging and territory",
+        "heading_es": "Forrajeo y territorio",
+        "paragraphs": [
+          {
+            "src": [
+              "S0220"
+            ],
+            "text": "据摘要，Adam 等（2008）在南非对似三脉三脉白蚁（<i>Trinervitermes trinervoides</i>）的观察显示，该种在夏季夜间觅食，野外觅食时环境温度为 10–14 °C，实验室中在 13–25 °C 均可觅食；从单个出口出行的采食队伍覆盖约 0.78 m² 的面积，单个群体利用的觅食范围约 214 m²，相邻群体的觅食区相互重叠；每个群体占据一个丘。",
+            "text_en": "According to the abstract of observations by Adam et al. (2008) in South Africa, <i>Trinervitermes trinervoides</i> forages at night in summer, at ambient temperatures of 10–14 °C in the field, and foraged at 13–25 °C in the laboratory; a foraging column leaving a single exit covered about 0.78 m², a single colony exploited a foraging area of about 214 m², the foraging areas of neighbouring colonies overlapped, and each colony occupied a single mound.",
+            "text_es": "Según el resumen de las observaciones de Adam et al. (2008) en Sudáfrica, <i>Trinervitermes trinervoides</i> forrajea de noche en verano, a temperaturas ambientales de 10–14 °C en el campo, y forrajeó entre 13 y 25 °C en el laboratorio; una columna de forrajeo que salía por una sola entrada cubría unos 0.78 m², una sola colonia explotaba un área de forrajeo de unos 214 m², las áreas de forrajeo de colonias vecinas se superponían y cada colonia ocupaba un solo montículo."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0220",
+        "citation": "Adam, R. A.; Mitchell, J. D.; van der Westhuizen, M. C. 2008. Aspects of foraging in the harvester termite, Trinervitermes trinervoides (Sjöstedt) (Termitidae: Nasutitermitinae). African Entomology 16(2): 153–161.",
+        "doi": "10.4001/1021-3589-16.2.153"
+      }
+    ]
+  },
+  "/subfamily/sphaerotermitinae/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "亚科的建立与科群名称整理",
+        "heading_en": "Establishment of the subfamily and revision of family-group names",
+        "heading_es": "Establecimiento de la subfamilia y revisión de los nombres de grupo de familia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0146"
+            ],
+            "text": "据摘要，Engel 与 Krishna（2004）确认等翅目共有 39 个可用的科群名称，并首次为每个名称给出正确的作者、年代、模式属与组合词干；文中把圆球白蚁亚科（Sphaerotermitinae）作为新亚科提出，用于圆球白蚁属（<i>Sphaerotermes</i>），同时新提出聚白蚁亚科（Syntermitinae）以容纳具上颚的象白蚁类群，并诊断了此前长期被误解的孔白蚁亚科（Foraminitermitinae），指出该亚科由 Holmgren 在近一个世纪前建立，而非当时新提出的亚科。",
+            "text_en": "According to the abstract, Engel and Krishna (2004) recognized 39 available family-group names in Isoptera and for the first time provided the correct author, date, type genus and combining stem for each; they proposed Sphaerotermitinae as a new subfamily for the genus <i>Sphaerotermes</i>, simultaneously proposed Syntermitinae for the mandibulate nasute termites, and diagnosed the long-misunderstood Foraminitermitinae, showing that it had been established by Holmgren nearly a century earlier rather than being a new subfamily.",
+            "text_es": "Según el resumen, Engel y Krishna (2004) reconocieron 39 nombres de grupo de familia disponibles en Isoptera y, por primera vez, proporcionaron el autor, la fecha, el género tipo y la raíz de combinación correctos para cada uno; propusieron Sphaerotermitinae como subfamilia nueva para el género <i>Sphaerotermes</i>, propusieron simultáneamente Syntermitinae para las termitas nasutas mandibuladas y diagnosticaron la largamente malinterpretada Foraminitermitinae, mostrando que había sido establecida por Holmgren casi un siglo antes y no era una subfamilia nueva."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0146",
+        "citation": "Engel, M. S.; Krishna, K. 2004. Family-Group Names for Termites (Isoptera). American Museum Novitates 3432: 1–9.",
+        "doi": "10.1206/0003-0082(2004)432 2.0.co;2"
       }
     ]
   }

@@ -3,7 +3,7 @@
     "version": 1,
     "count": 442,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-13T20:04:19+08:00",
+    "updated": "2026-11-13T21:05:38+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -60,7 +60,7 @@
       "publisher": "科学出版社",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-11T01:38:23+08:00",
+      "accessed": "2026-11-13T21:04:38+08:00",
       "evidence": [
         {
           "quote": "缺少真工蚁的低等白蚁在发育到成虫的过程中，前胸腺经历了相当规律的生长过程",
@@ -8297,11 +8297,12 @@
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 584 字）。",
-      "accessed": "2026-11-09T15:09:10+00:00",
-      "used_in": [],
+      "accessed": "2026-11-13T21:04:38+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1086/323990",
-      "id": "S0143",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0143"
     },
     {
       "title": "Genetic Evidence for the Synonymy of Two Reticulitermes Species: Reticulitermes flavipes and Reticulitermes santonensis",
@@ -8419,11 +8420,12 @@
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 800 字）。",
-      "accessed": "2026-11-09T15:11:05+00:00",
-      "used_in": [],
+      "accessed": "2026-11-13T21:04:38+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1206/0003-0082(2004)432 2.0.co;2",
-      "id": "S0146",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0146"
     },
     {
       "title": "II. On the structure and biology of archotermopsis, together with descriptions of new species of intestinal protozoa, and general observations on the isoptera",
@@ -10083,7 +10085,7 @@
       "file_path": "_unpublished/文库/10.1111-mec.14095",
       "chars": 1719,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:03:18+08:00",
+      "accessed": "2026-11-13T21:04:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-mec.14095（1719 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1718 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-mec.14095",
@@ -10131,8 +10133,7 @@
           "note": "支撑：不育品级与 93% 雌性扩散个体为有性生殖；第 3 年后一次性释放有翅成虫；AQS 用于提高群体生长与有翅成虫产量"
         }
       ],
-      "id": "S0182",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0182"
     },
     {
       "title": "Taxonomy, Distribution, and Notes on the Termites (Isoptera: Kalotermitidae, Rhinotermitidae, Termitidae) of Puerto Rico and the U.S. Virgin Islands",
@@ -11842,7 +11843,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1440-6055.2008.00662.x",
       "chars": 2120,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:05:19+08:00",
+      "accessed": "2026-11-13T21:04:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1440-6055.2008.00662.x（2120 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（2119 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1440-6055.2008.00662.x",
@@ -11903,8 +11904,7 @@
           "note": "支撑草稿：作者把差异部分归因于土壤氮磷含量与地表植被的丰富度和斑块性。"
         }
       ],
-      "id": "S0210",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0210"
     },
     {
       "title": "La Sociotomie: Migration Et Fragmentation De La Termitière Chez Les Anoplotermes Et Les Trinervitermes",
@@ -12048,7 +12048,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1755-6724.2010.00275.x",
       "chars": 759,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:05:49+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1755-6724.2010.00275.x（759 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（758 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1755-6724.2010.00275.x",
@@ -12076,10 +12076,17 @@
       "publisher": "Acta Geologica Sinica - English Edition",
       "lang": "en",
       "doi": "10.1111/j.1755-6724.2010.00275.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0213",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The forewing of a termite from Early Miocene lake sediments in Otago, southern New Zealand is figured and described. It exhibits the generic characters of the damp‐wood termite Stolotermes Hägen, but differs from forewings of the known species in size and venation pattern and is described as Stolotermes kupe sp. nov.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/genus/stolotermes/、/family/stolotermitidae/、/genus/kalotermes/ 的早中新世化石记述"
+        }
+      ],
+      "id": "S0213"
     },
     {
       "title": "Developmental Stages and Castes of Two Sympatric Subterranean Termites Macrotermes gilvus and Macrotermes carbonarius (Blattodea: Termitidae)",
@@ -12089,7 +12096,7 @@
       "file_path": "_unpublished/文库/10.1603-008.102.0617",
       "chars": 1155,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:05:50+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1603-008.102.0617（1155 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1154 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1603-008.102.0617",
@@ -12116,10 +12123,17 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1603/008.102.0617",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0214",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Biometric descriptors revealed five well-defined groups of larval castes. After sex determination, three larval instars were detected in the development of minor and major worker castes.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/genus/macrotermes/ 两种同域大白蚁的幼虫品级"
+        }
+      ],
+      "id": "S0214"
     },
     {
       "title": "Intra- and Interspecific Chemical Signals in the Termite Schedorhinotermes — Production sites, chemistry, and behaviour",
@@ -12129,7 +12143,7 @@
       "file_path": "_unpublished/文库/10.1007-978-3-0348-6410-7_5",
       "chars": 403,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:05:52+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1007-978-3-0348-6410-7_5（403 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（402 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1007-978-3-0348-6410-7_5",
@@ -12155,10 +12169,17 @@
       "publisher": "Birkhäuser Basel eBooks",
       "lang": "en",
       "doi": "10.1007/978-3-0348-6410-7_5",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0215",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Chemical signals evaporating from secretions of different exocrine glands modulate the caste-specific polyethism in termite societies in a context-dependent manner. The sternal gland, the labial glands, and the frontal gland from Schedorhinotermes lamanianus are described.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/schedorhinotermes-lamanianus/ 的三类外分泌腺"
+        }
+      ],
+      "id": "S0215"
     },
     {
       "title": "Chemical defence in the termite Ancistrotermes cavithorax: ancistrodial and ancistrofuran",
@@ -12168,7 +12189,7 @@
       "file_path": "_unpublished/文库/10.1039-c39780000410",
       "chars": 230,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:05:52+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1039-c39780000410（230 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（229 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1039-c39780000410",
@@ -12196,10 +12217,17 @@
       "publisher": "Journal of the Chemical Society Chemical Communications",
       "lang": "en",
       "doi": "10.1039/c39780000410",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0216",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Soldiers of the termite Ancistrotermes cavithorax produce terpenoid defence secretions, but whereas the minor soldiers produce ancistrodial (1) exclusively, the major soldiers secrete ancistrofuran (6), together with (4) and (5).",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/ancistrotermes-cavithorax/ 的兵蚁萜类分泌物"
+        }
+      ],
+      "id": "S0216"
     },
     {
       "title": "Exclusive Gut Flagellates of Serritermitidae Suggest a Major Transfaunation Event in Lower Termites: Description of Heliconympha glossotermitis gen. nov. spec. nov.",
@@ -12209,7 +12237,7 @@
       "file_path": "_unpublished/文库/10.1111-jeu.12441",
       "chars": 1584,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:05:57+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-jeu.12441（1584 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1583 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-jeu.12441",
@@ -12243,10 +12271,17 @@
       "publisher": "Journal of Eukaryotic Microbiology",
       "lang": "en",
       "doi": "10.1111/jeu.12441",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0217",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "we found that Glossotermes oculatus and Serritermes serrifer each harbor similar parabasalid morphotypes: large Pseudotrichonympha-like cells, medium-sized Leptospironympha-like cells with spiraled bands of flagella, and small Hexamastix-like cells; oxymonadid flagellates were absent.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/family/serritermitidae/、/species/serritermes-serrifer/、/species/glossotermes-oculatus/ 的肠道鞭毛虫组合"
+        }
+      ],
+      "id": "S0217"
     },
     {
       "title": "The Nest Growth of the Neotropical Mound-Building Termite,Cornitermes cumulans: A Micromorphological Analysis",
@@ -12256,7 +12291,7 @@
       "file_path": "_unpublished/文库/10.1673-031.011.12201",
       "chars": 36477,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:06:00+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1673-031.011.12201（36477 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1673-031.011.12201",
@@ -12284,8 +12319,16 @@
       "license": "cc-by",
       "doi": "10.1673/031.011.12201",
       "url": "https://academic.oup.com/jinsectscience/article-pdf/11/1/122/18185727/jis11-0122.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Young colonies inhabit small subterranean nests that develop into large, conspicuous, epigean mounds, inhabited by very populous colonies. Those macromorphological transformations are accompanied by micromorphological changes occurring gradually in the nest walls.",
+          "locator": "p. 1 / full.txt ¶Abstract",
+          "note": "支撑：/species/cornitermes-cumulans/ 的巢生长阶段与微形态"
+        }
+      ],
       "id": "S0218"
     },
     {
@@ -12296,7 +12339,7 @@
       "file_path": "_unpublished/文库/10.1673-031.008.2201",
       "chars": 29864,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:06:02+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1673-031.008.2201（29864 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1673-031.008.2201",
@@ -12325,8 +12368,16 @@
       "license": "cc-by",
       "doi": "10.1673/031.008.2201",
       "url": "https://doi.org/10.1673/031.008.2201",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Here we show evidence of complex dynamics in groups of the termite, Cornitermes cumulans (Kollar) (Isoptera: Termitidae), of different sizes and qualitatively compare the behaviour observed with that exhibited by agent-based computer models.",
+          "locator": "p. 1 / full.txt ¶Abstract",
+          "note": "支撑：/species/cornitermes-cumulans/ 的集体活动规模依赖、/genus/cornitermes/ 的分布与共栖"
+        }
+      ],
       "id": "S0219"
     },
     {
@@ -12337,7 +12388,7 @@
       "file_path": "_unpublished/文库/10.4001-1021-3589-16.2.153",
       "chars": 578,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:06:03+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.4001-1021-3589-16.2.153（578 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（577 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.4001-1021-3589-16.2.153",
@@ -12365,10 +12416,17 @@
       "publisher": "African Entomology",
       "lang": "en",
       "doi": "10.4001/1021-3589-16.2.153",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0220",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The termite usually foraged during summer nights when ambient temperatures were 10–14 °C. Foraging occurred at temperatures between 13–25 °C under laboratory conditions. A foraging party emerging from a single hole harvested over an area of approximately 0.78 m2. A colony exploited a total area of approximately 214 m2 and foraging areas of adjacent colonies overlapped.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/trinervitermes-trinervoides/ 的觅食与巢域"
+        }
+      ],
+      "id": "S0220"
     },
     {
       "title": "Interaction of pheromones during food exploitation by the termite Schedorhinotermes lamanianus",
@@ -12378,7 +12436,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1365-3032.1995.tb00011.x",
       "chars": 1368,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:06:04+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1365-3032.1995.tb00011.x（1368 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1367 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1365-3032.1995.tb00011.x",
@@ -12405,10 +12463,17 @@
       "publisher": "Physiological Entomology",
       "lang": "en",
       "doi": "10.1111/j.1365-3032.1995.tb00011.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0221",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "During food exploitation workers of the African termite Schedorhinotermes lamanianus (Isoptera: Rhinotermitidae) employ, on foraging trails, the secretion from the sternal gland both for orientation and recruitment to a food source.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/schedorhinotermes-lamanianus/ 的两种信息素相互作用"
+        }
+      ],
+      "id": "S0221"
     },
     {
       "title": "Food preference of the echidna, Tachyglossus aculeatus (Monotremata: Tachyglossidae), in the wheatbelt of Western Australia.",
@@ -12457,7 +12522,7 @@
       "file_path": "_unpublished/文库/10.1021-acs.jnatprod.8b00632",
       "chars": 1457,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:08:12+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1021-acs.jnatprod.8b00632（1457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1456 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1021-acs.jnatprod.8b00632",
@@ -12490,10 +12555,17 @@
       "publisher": "Journal of Natural Products",
       "lang": "en",
       "doi": "10.1021/acs.jnatprod.8b00632",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0223",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "MS and GC-FTIR data analyses led us to propose the structure of the compound to be a macrolide 10-pentyl-3,4,5,8,9,10-hexahydro-2 H-oxecin-2-one.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/silvestritermes-minutus/ 的蚁后特有挥发物"
+        }
+      ],
+      "id": "S0223"
     },
     {
       "title": "The complete mitogenomes of six higher termite species reconstructed from metagenomic datasets ( Cornitermes sp., Cubitermes ugandensis, Microcerotermes parvus, Nasutitermes corniger, Neocapritermes taracua, and Termes hospes )",
@@ -12543,7 +12615,7 @@
       "file_path": "_unpublished/文库/10.13057-biodiv-d120409",
       "chars": 36241,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:08:16+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.13057-biodiv-d120409（6 页，36241 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.13057-biodiv-d120409",
@@ -12572,8 +12644,16 @@
       "lang": "en",
       "doi": "10.13057/biodiv/d120409",
       "url": "https://smujo.id/biodiv/article/download/221/234",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "It was found two termite families i.e. Rhinotermitidae and Termitidae with seven species, i.e. Schedorhinotermes javanicus, Procapritermes sp, Pericapritermes semarangi, Macrotermes gilvus, Microtermes insperatus, Nasutitermes javanicus, and N. matangensis.",
+          "locator": "p. 235 / 0001-0006.txt ¶Abstract",
+          "note": "支撑：/genus/nasutitermes/、/genus/pericapritermes/、/species/macrotermes-gilvus/ 与 4 个种页的土地利用记录"
+        }
+      ],
       "id": "S0225"
     },
     {
@@ -12584,7 +12664,7 @@
       "file_path": "_unpublished/文库/10.1017-s0266467405003044",
       "chars": 1322,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:08:18+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.1017-s0266467405003044（1322 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1321 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1017-s0266467405003044",
@@ -12610,10 +12690,17 @@
       "publisher": "Journal of Tropical Ecology",
       "lang": "en",
       "doi": "10.1017/s0266467405003044",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0226",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Seven wood-feeding species were found. Fungus-growing termites dominated the assemblage in all plots, and four species (Macrotermes michaelseni, Odontotermes sp. A, Allodontermes sp. and Microtermes sp.) were found in most.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/macrotermes-michaelseni/ 的半干旱区觅食格局"
+        }
+      ],
+      "id": "S0226"
     },
     {
       "title": "Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia",
@@ -12623,7 +12710,7 @@
       "file_path": "_unpublished/文库/10.13057-biodiv-d190508",
       "chars": 2192,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:08:27+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/10.13057-biodiv-d190508（2192 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（2191 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.13057-biodiv-d190508",
@@ -12651,10 +12738,17 @@
       "publisher": "Biodiversitas Journal of Biological Diversity",
       "lang": "en",
       "doi": "10.13057/biodiv/d190508",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0227",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A total of 7349 individuals belonging to 11 species in nine genera, five subfamilies, and two families were recorded.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/genus/nasutitermes/、/genus/pericapritermes/、/species/nasutitermes-matangensis/、/species/pericapritermes-dolichocephalus/ 的海拔梯度调查"
+        }
+      ],
+      "id": "S0227"
     },
     {
       "title": "Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae)",
@@ -21115,7 +21209,7 @@
       "file_path": "_unpublished/文库/Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte",
       "chars": 20801,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-12T23:37:17+08:00",
+      "accessed": "2026-11-13T21:04:38+08:00",
       "notes": "全文存于 _unpublished/文库/Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte（8 页，20801 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte",
@@ -21339,7 +21433,7 @@
       "file_path": "_unpublished/文库/The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term",
       "chars": 81250,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-13T20:03:58+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term（11 页，81250 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-price-of-adulthood-ontogenetic-patterns-of-mandibular-wear-in-a-drywood-term",
@@ -21370,8 +21464,16 @@
       "lang": "en",
       "license": "CC BY 4.0",
       "doi": "10.3389/fevo.2026.1955114",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "To investigate this, we quantiﬁed structural wear using a Mandibular Wear Index (MWI) and high-resolution scanning electron microscopy (SEM) across different developmental stages and sexes of N. chilensis (N = 147).",
+          "locator": "p. 1 / 0001-0011.txt ¶Abstract Methods",
+          "note": "支撑：/species/neotermes-chilensis/ 的颚磨损品级差异"
+        }
+      ],
       "id": "S0439"
     },
     {
@@ -21382,7 +21484,7 @@
       "file_path": "_unpublished/文库/Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz",
       "chars": 95113,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-13T20:04:02+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz（27 页，95113 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Pedogeomorphology-of-a-Mound-building-termite-savanna-in-Roraima,-Brazilian-Amaz",
@@ -21414,8 +21516,16 @@
       "lang": "en",
       "license": "CC BY-NC 4.0",
       "doi": "10.20502/rbg.v27i3.2823",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Although Amitermes excellens was not numerically dominant in the assemblage, it was the main builder of the large conical and cathedral- shaped mounds that structure the local landscape.",
+          "locator": "p. 1 / 0001-0027.txt ¶Abstract",
+          "note": "支撑：/species/amitermes-excellens/ 的罗赖马丘建造者"
+        }
+      ],
       "id": "S0440"
     },
     {
@@ -21472,7 +21582,7 @@
       "file_path": "_unpublished/文库/Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o",
       "chars": 1658,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-13T20:04:16+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o（1658 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；access: closed（Unpaywall OA=False），仅有摘要；正文引用须标「据摘要」。",
       "library": {
         "book": "Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o",
@@ -21503,9 +21613,16 @@
       "publisher": "Journal of Economic Entomology",
       "lang": "en",
       "doi": "10.1093/jee/toag316",
-      "fulltext_status": "abstract-no-oa",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "To evaluate optimal bait density, we conducted a 2-year baiting program in Central Taiwan Science Park (466 ha) and Hsinchu Science Park (777 ha), Taiwan.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/coptotermes-formosanus/ 的区域诱饵防治"
+        }
+      ],
       "id": "S0442"
     },
     {
@@ -21516,7 +21633,7 @@
       "file_path": "_unpublished/文库/Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits",
       "chars": 1914,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-13T20:04:19+08:00",
+      "accessed": "2026-11-13T21:05:38+08:00",
       "notes": "全文存于 _unpublished/文库/Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits（1914 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；出版社 PDF 被 JavaScript 客户端挑战拦截（Client Challenge），仅有摘要；预印本见 doi:10.21203/rs.3.rs-9544425（提交版，未作正文依据）。正文引用须标「据摘要」。",
       "library": {
         "book": "Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits",
@@ -21551,9 +21668,16 @@
       "lang": "en",
       "license": "CC BY 4.0",
       "doi": "10.1007/s00040-026-01142-5",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "At the Campinas site, mound interiors showed markedly lower thermal variation than ambient conditions, while modelled operative temperatures indicated positive thermal safety margins across the broader climatic gradient.",
+          "locator": "摘要全文 / full.txt ¶1",
+          "note": "支撑：/species/cornitermes-cumulans/ 丘的缓冲作用"
+        }
+      ],
       "id": "S0443"
     }
   ]
