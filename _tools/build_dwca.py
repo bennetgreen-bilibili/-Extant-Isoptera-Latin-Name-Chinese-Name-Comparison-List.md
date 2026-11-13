@@ -519,6 +519,20 @@ def meta_xml(meta: dict) -> str:
     return "\n".join(lines)
 
 
+def orcid_id(value: str) -> str:
+    """ORCID 只写裸 ID：`https://orcid.org/0000-…` 或带尾斜杠的都归一成 `0000-…`。
+
+    eml.xml 里这个值会写进 `<userId directory="https://orcid.org">`，整条 URL 塞进去
+    会变成 https://orcid.org/https://orcid.org/…，validator 判不出来但读者点不开。
+    """
+    text = (value or "").strip()
+    for prefix in ("https://orcid.org/", "http://orcid.org/", "orcid.org/"):
+        if text.lower().startswith(prefix):
+            text = text[len(prefix):]
+            break
+    return text.strip().rstrip("/")
+
+
 def eml_config(meta: dict) -> dict:
     config = meta.get("eml") or {}
     contact = config.get("contact") or {}
@@ -527,9 +541,9 @@ def eml_config(meta: dict) -> dict:
         "publishing_organization": (config.get("publishingOrganization") or "").strip(),
         "contact_name": contact.get("name") or creator.get("nameEn", ""),
         "contact_email": (contact.get("email") or "").strip(),
-        "contact_orcid": (contact.get("orcid") or "").strip(),
+        "contact_orcid": orcid_id(contact.get("orcid") or ""),
         "creator_name_en": creator.get("nameEn", ""),
-        "creator_orcid": (creator.get("orcid") or "").strip(),
+        "creator_orcid": orcid_id(creator.get("orcid") or ""),
     }
 
 
@@ -793,6 +807,20 @@ def main(argv: list[str]) -> int:
     )
     for name in ("taxon.csv", "vernacularname.csv", "meta.xml", "eml.xml", f"downloads/{zip_name_of(meta)}"):
         print(f"  {name}  {len(files[name]):,} B")
+
+    # 元数据缺项不报错（缺就是不编造），但每次跑都提一句该补哪几个键，
+    # 免得只有 GBIF Data Validator 才告诉用户 eml.xml 缺联系人。
+    config = eml_config(meta)
+    missing = []
+    if not config["contact_email"]:
+        missing.append("eml.contact.email")
+    if not config["contact_orcid"]:
+        missing.append("eml.contact.orcid")
+    if not (meta.get("creators") or [{}])[0].get("orcid"):
+        missing.append("creators[0].orcid")
+    if missing:
+        print("[待补] dataset/metadata.json：" + "、".join(missing)
+              + "（留空不进 eml.xml，GBIF Data Validator 会提示补全）")
 
     if args.write:
         DWCA_DIR.mkdir(parents=True, exist_ok=True)
