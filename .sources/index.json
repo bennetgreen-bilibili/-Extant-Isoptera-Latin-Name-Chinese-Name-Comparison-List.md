@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 433,
+    "count": 434,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-13T00:22:47+08:00",
+    "updated": "2026-11-13T19:38:25+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -21178,6 +21178,37 @@
         }
       ],
       "id": "S0434"
+    },
+    {
+      "title": "数据集（Dataset、DataCatalog、DataDownload）结构化数据 | Google 搜索中心",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/dataset",
+      "lang": "zh-CN",
+      "year": 2026,
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "这两种属性都可采用网址或 Dataset 实例的形式。如果将 Dataset 用作值，则必须包含独立的 Dataset 所需的所有属性。",
+          "locator": "§结构化数据类型定义 → Dataset 属性表 → 「hasPart 或 isPartOf」行",
+          "note": "支撑：isPartOf 的值若是 Dataset 实例，就必须自带 name / description / license / creator；本站原先在 1071 个分类页与 3089 个物种页写 {\"@type\": \"Dataset\", \"@id\": \"...#dataset\"} 这种只有 @id 的带类型实例，正是 Search Console 报「未填写字段 name / description / license / creator」的原因。改法：只留 {\"@id\": ...} 或直接用网址。"
+        },
+        {
+          "quote": "如需了解 Dataset 的完整定义，请访问 schema.org/Dataset。",
+          "locator": "§结构化数据类型定义 → Dataset 段首",
+          "note": "支撑：字段清单以 schema.org/Dataset 为准（name、description 为必要属性；creator、license、distribution 为建议）。"
+        }
+      ],
+      "used_in": [
+        ".github/workflows/build_taxonomy_pages.py",
+        "_includes/species-jsonld.html",
+        "_tools/check_site.py",
+        "_tools/外部权威库与一致性核对.md"
+      ],
+      "notes": "2026-11-13 抓取，页面为 zh-cn 版本；同日 Search Console 中站点 3089 个物种页 / 1071 个分类页报 Dataset 四字段缺失。",
+      "accessed": "2026-11-13T19:38:25+08:00",
+      "canonical_key": "url:https://developers.google.com/search/docs/appearance/structured-data/dataset",
+      "id": "S0435"
     }
   ]
 }

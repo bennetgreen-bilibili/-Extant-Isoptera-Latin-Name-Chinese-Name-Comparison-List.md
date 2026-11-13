@@ -72,7 +72,6 @@ breadcrumb:
  "taxonRank": "Family",
  "url": "{{ site.base_url }}/es/family/archotermopsidae/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

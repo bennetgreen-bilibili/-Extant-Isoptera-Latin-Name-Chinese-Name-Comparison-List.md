@@ -68,7 +68,6 @@ breadcrumb:
  "taxonRank": "Subfamily",
  "url": "{{ site.base_url }}/en/subfamily/crepititermitinae/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

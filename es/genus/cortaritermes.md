@@ -77,7 +77,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/es/genus/cortaritermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

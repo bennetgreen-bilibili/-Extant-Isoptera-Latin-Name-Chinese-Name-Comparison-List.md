@@ -67,7 +67,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/genus/genuotermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

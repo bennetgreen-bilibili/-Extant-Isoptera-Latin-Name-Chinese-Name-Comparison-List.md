@@ -61,7 +61,6 @@ breadcrumb:
  "taxonRank": "Subfamily",
  "url": "{{ site.base_url }}/en/subfamily/sphaerotermitinae/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

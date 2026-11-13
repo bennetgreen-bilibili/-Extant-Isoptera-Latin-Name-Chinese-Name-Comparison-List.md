@@ -67,7 +67,6 @@ breadcrumb:
  "taxonRank": "Subfamily",
  "url": "{{ site.base_url }}/es/subfamily/foraminitermitinae/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

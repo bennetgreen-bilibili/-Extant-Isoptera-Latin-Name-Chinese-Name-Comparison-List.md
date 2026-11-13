@@ -67,7 +67,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/genus/proboscitermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

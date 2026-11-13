@@ -73,7 +73,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/en/genus/eremotermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

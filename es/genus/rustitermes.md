@@ -77,7 +77,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/es/genus/rustitermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

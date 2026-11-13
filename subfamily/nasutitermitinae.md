@@ -72,7 +72,6 @@ breadcrumb:
  "taxonRank": "Subfamily",
  "url": "{{ site.base_url }}/subfamily/nasutitermitinae/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

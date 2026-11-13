@@ -73,7 +73,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/es/genus/heimitermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

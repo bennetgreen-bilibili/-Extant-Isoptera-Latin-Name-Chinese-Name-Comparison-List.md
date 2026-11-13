@@ -73,7 +73,6 @@ breadcrumb:
  "taxonRank": "Family",
  "url": "{{ site.base_url }}/es/family/heterotermitidae/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

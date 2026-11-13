@@ -76,7 +76,6 @@ breadcrumb:
  "taxonRank": "Genus",
  "url": "{{ site.base_url }}/en/genus/cryptotermes/",
  "isPartOf": {
-  "@type": "Dataset",
   "@id": "{{ site.base_url }}/#dataset"
  },
  "version": "{{ site.dataset.version }}",

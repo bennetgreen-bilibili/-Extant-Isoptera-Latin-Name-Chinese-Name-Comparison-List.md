@@ -1,7 +1,13 @@
 {%- comment -%}
   物种页结构化数据：schema.org Taxon + BreadcrumbList（JSON-LD）。
-  与首页的 Dataset JSON-LD（@id 指向 site.base_url + "/#dataset"）共同构成实体图：
-    Taxon --isPartOf--> Dataset；Taxon --sameAs--> GBIF / Catalogue of Life / Wikidata / Blattodea Species File。
+  数据集实体（Dataset）只在首页与 /data/ 页定义一次（@id = site.base_url + "/#dataset"）；
+  本页的 Taxon 只用 @id 引用它，**不要再写 @type: Dataset**。
+  原因（2026-11）：Google 把带 @type 却只有 @id 的节点当成一个独立的 Dataset 条目，
+  于是 3,089 个物种页全部报「未填写字段 name / description / license / creator」。
+  Google 文档原文：「如果将 Dataset 用作值，则必须包含独立的 Dataset 所需的所有属性」
+  （S0435，developers.google.com/search/docs/appearance/structured-data/dataset）——
+  所以 isPartOf 只给不带 @type 的 @id 引用，引用仍在，但不再被计为 Dataset 项。
+  Taxon --sameAs--> GBIF / Catalogue of Life / Wikidata / Blattodea Species File。
   数据来自 front matter + _data/authority_links.json + _data/bsf_links.json；缺失时自动降级。
 {%- endcomment -%}
 {%- assign LP = '' -%}
@@ -34,7 +40,7 @@
    "version": "{{ site.dataset.version }}",
    "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
    {%- endif %}
-   "isPartOf": {"@type": "Dataset", "@id": "{{ site.base_url }}/#dataset"},
+   "isPartOf": {"@id": "{{ site.base_url }}/#dataset"},
    "parentTaxon": {% if page.rank == 'subspecies' %}{"@type": "Taxon", "name": {{ page.parent_latin | jsonify }}, "alternateName": [{{ page.parent_zh | jsonify }}], "url": "{{ site.base_url }}{{ LP }}/species/{{ page.parent_slug }}/"}{% else %}{"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/"}{% endif %}
    {%- assign first = true -%}
    {%- if AUTH.gbif.key or AUTH.col.id or AUTH.wd or BSF.valid_otu or BSF.otu -%}

@@ -932,7 +932,10 @@ def main():
             "alternateName": [zh],
             "taxonRank": RANK_LABEL[rank],
             "url": taxon_link(lang, taxon_id, rank),
-            "isPartOf": {"@type": "Dataset", "@id": DATASET_ID},
+            # 只用 @id 引用首页 / 数据页定义的那个 Dataset 实体，**不要带 @type**：
+            # 带 @type 而只有 @id 时，Google 会把每个科/亚科/属页都算成一个 Dataset 条目，
+            # 报「未填写字段 name / description / license / creator」（2026-11 的 Search Console 现象）。
+            "isPartOf": {"@id": DATASET_ID},
             "version": DATASET_VERSION,
             "dateModified": DATASET_DATE,
         }
