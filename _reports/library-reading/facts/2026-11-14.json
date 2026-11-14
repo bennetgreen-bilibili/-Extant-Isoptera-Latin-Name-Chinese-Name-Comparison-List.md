@@ -1,0 +1,211 @@
+[
+ {
+  "page": null,
+  "claim": "据摘要，Dawes-Gromadzki（2005）调查达尔文附近季雨林的白蚁区系，记录 5 种、5 属、3 科；白蚁科（Termitidae）占记录的 70%；最常在树干上的 carton 通道中遇到，其次为倒木与诱饵；记录到 4 种筑巢习性（树栖、地栖丘、地下、木内）；树栖筑巢的稍重象白蚁（Nasutitermes graveolus）占 61% 的遭遇；仅食木类一个营养群。",
+  "quote": "…five species from five genera and three families…",
+  "src": "S0229",
+  "work": "The termite (Isoptera) fauna of a monsoonal rainforest near Darwin, northern Australia",
+  "unit": "S0229",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "本轮未写页面：摘要给的是群落层面组成与取样结果，站点内只能对应属页/种页；按 §8「摘要只有框架性表述时不单立页」处理。下一轮若取到全文，可拆到 /genus/ephelotermes/、/species/nasutitermes-graveolus/、/species/mastotermes-darwiniensis/。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，同一调查中泰勒棒颚白蚁（Ephelotermes taylori）为澳大利亚季雨林的首个记录；达尔文澳白蚁（Mastotermes darwiniensis）在诱饵上 2.5 个月内活动较高。",
+  "quote": "",
+  "src": "S0229",
+  "work": "The termite (Isoptera) fauna of a monsoonal rainforest near Darwin, northern Australia",
+  "unit": "S0229",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "两条都是种级事实，但各只有一句，写进种页会与既有条目重复；与上一条一并留待全文。"
+ },
+ {
+  "page": null,
+  "claim": "Ohkuma 等（2003）从土壤食性白蚁肠道分离到嗜碱木聚糖分解菌株 SM-XY60，定为类芽孢杆菌属（Paenibacillus）新种：严格好氧、产内生孢子的杆菌，在 pH 6.5–10.5 生长、最适 pH 9，能在含 K2CO3 的碱性培养基上生长而不在含 Na2CO3 的培养基上生长；其木聚糖酶在高 pH 下有活性与稳定性，提示对肠道碱性环境的适应。",
+  "quote": "",
+  "src": "S0230",
+  "work": "An Alkaliphilic and Xylanolytic Paenibacillus Species Isolated from the Gut of a Soil-Feeding Termite.",
+  "unit": "S0230",
+  "locator": "全文（第 1–3 节）",
+  "status": "deferred",
+  "note": "来源寄主为台湾华扭白蚁（Sinocapritermes mushae），但页面 /genus/sinocapritermes/ 或 /species/sinocapritermes-mushae/ 本轮不在预算内；「土壤食性白蚁肠道普遍强碱性」是属级以上的规律，留待专题条目。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Gathorne-Hardy（2001）修订东南亚象白蚁亚科（Nasutitermitinae）：描述苏门答腊 Leuser 生态系统的新属新种 Snootitermes leuserensis、北苏拉威西的多毛白蚁属（Hirtitermes）新种 Hirtitermes brabazoni，并描述印度锡兰白蚁（Ceylonitermes indicola）的大型兵蚁；给出马来半岛、爪哇、苏门答腊与婆罗洲的修订属检索表。",
+  "quote": "",
+  "src": "S0232",
+  "work": "A review of the South-East Asian Nasutitermitinae (Isoptera: Termidae), with descriptions of one new genus and a new species and including a key to the genera",
+  "unit": "S0232",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "Snootitermes 站内无页面与中文正名，不能写；Hirtitermes brabazoni 与 Ceylonitermes indicola 的种级事实（新种、大型兵蚁）各自只有一句，下一轮再写。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，同一修订把东南亚 Subulitermes-group 改归 Nasutitermes-group；Aciculioiditermes denticulatus 与 Aciculioiditermes sarawakensis 视为 Aciculioiditermes holmgreni 的次异名；Aciculioiditermes 与 Proaciculitermes 视为马来白蚁属（Malaysiotermes）的次异名，故 Aciculioiditermes holmgreni、Proaciculitermes orientalis、P. sabahensis、P. malayanus、P. lowi 均转入马来白蚁属；Tho（1982、1992）未发表的「Genus A」视为锡兰白蚁属（Ceylonitermes）的新种；Oriensubulitermes borneensis 改归似锥白蚁属（Subulioiditermes），即 Subulioiditermes borneensis；Nasutitermes matangensiformis 为马登象白蚁（Nasutitermes matangensis）的次异名；Havilanditermes 为象白蚁属（Nasutitermes）的次异名。",
+  "quote": "",
+  "src": "S0232",
+  "work": "A review of the South-East Asian Nasutitermitinae (Isoptera: Termidae), with descriptions of one new genus and a new species and including a key to the genera",
+  "unit": "S0232",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "13 条异名/转属关系，涉及 /genus/malaysiotermes/、/genus/ceylonitermes/、/species/malaysiotermes-holmgreni/、/species/subulioiditermes-borneensis/、/species/nasutitermes-matangensis/；下一轮优先按 §4.4.1 分页写（种页各写自己的转属事实，不复制整段）。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，短角树白蚁（Glyptotermes brevicornis）首次在新西兰被报道，并确认山龙眼木白蚁（Kalotermes banksiae）在新西兰存在；文中简述新西兰其他白蚁种的历史与现状。",
+  "quote": "",
+  "src": "S0235",
+  "work": "Kalotermes banksiae,Glyptotermes brevicornis, and other termites (Isoptera) in New Zealand",
+  "unit": "S0235",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "246 字符的摘要，只有名录级信息（§8、m01204），不足以支撑 /species/glyptotermes-brevicornis/ 的分布或形态结论；只记于此，不写页面。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Scheffrahn 等（2001）报道美国佐治亚州 5 个新记录：台湾乳白蚁（Coptotermes formosanus）、新北距白蚁（Calcaritermes nearcticus）、麻头堆砂白蚁（Cryptotermes brevis）、小楹白蚁（Incisitermes minor）与邻近木白蚁（Kalotermes approximatus），使该州白蚁增至 9 种；其中 3 种为非本地害虫；新北距白蚁的佐治亚记录是佛罗里达以外的首次并代表新的北界；邻近木白蚁的采集填补其南北分布之间的空缺；同时确认北美散白蚁（Reticulitermes flavipes）、R. hageni、弗吉尼亚散白蚁（R. virginicus）与 Incisitermes snyderi 的旧记录，R. malletei 降为 nomen nudum。",
+  "quote": "",
+  "src": "S0238",
+  "work": "New Termite (Isoptera: Kalotermitidae, Rhinotermitidae) Records from Georgia",
+  "unit": "S0238",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "可为 /species/calcaritermes-nearcticus/ 与 /species/kalotermes-approximatus/ 各写「分布边界推进」一条，但每页仅此一条事实且与北美区系条目会重复；留待与北美区系合并处理。"
+ },
+ {
+  "page": "/species/heterotermes-occiduus/",
+  "claim": "据摘要，Abensperg-Traun（1993）在西澳小麦带 wandoo（Eucalyptus capillosa）林地设 50×50 m 样地，逐月记录 12 个月：完好人工诱饵上共 11 种、天然 wandoo 倒木枯枝上共 18 种，样地总丰富度 21 种；Karri 木桩吸引最多（9 种），Jarrah 锯屑不吸引任何种；wandoo 上破坏象白蚁（Nasutitermes exitiosus）、短刀乳白蚁（Coptotermes acinaciformis）与西部西部白蚁（Occasitermes occasus）合计占记录样本的 59%；仅西部异白蚁、短刀乳白蚁与新芽弓白蚁（Amitermes neogermanus）取食人工诱饵；Pine、Oregon 木桩与纸卷最有效，Jarrah 与 Batu 最差；作者结论为需复合取样策略。",
+  "quote": "",
+  "src": "S0240",
+  "work": "A comparison of two methods for sampling assemblages of subterranean, wood-eating termites (Isoptera)",
+  "unit": "S0240",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "recorded",
+  "note": "种页只写了西部异白蚁那条；其余是样地层面的取样结果，不挂到单个种页（否则属把群落统计写成种级事实）。"
+ },
+ {
+  "page": "/species/coptotermes-curvignathus/",
+  "claim": "Jasmi & Ahmad（2011）在槟城 Teluk Bahang 森林公园（5°26′47″N 100°13′06″E）约 2 ha 的南洋杉（Araucaria cunninghamii）人工林检查 289 株，记录 7 种 6 属：曲颚乳白蚁、中暗长鼻白蚁（Schedorhinotermes medioobscurus）、马六甲长鼻白蚁（S. malaccensis）、砂拉越土白蚁（Odontotermes sarawakensis）、相等棒鼻白蚁（Parrhinotermes aequalis）、马六甲大白蚁（Macrotermes malaccensis）与寄宿须白蚁（Hospitalitermes hospitalis）。树木状况：健康 210、衰退 34、枯死 15、伐桩 30；被侵染 62 株（21.5%），其中曲颚乳白蚁 46 株（74%）、中暗长鼻白蚁 13 株、砂拉越土白蚁 3 株；5 株「衰退」树伐倒后全部确认被曲颚乳白蚁侵染。",
+  "quote": "Four apparently healthy trees were recorded as being in the early stages of infestation by C. curvignathus indicated by the modest amount of mud tubes and soil covers on the tree trunk.",
+  "src": "S0237",
+  "work": "Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang",
+  "unit": "S0237",
+  "locator": "全文，Results 与 Table 2",
+  "status": "recorded",
+  "note": "7 种名录与分树种计数留在 facts：砂拉越土白蚁页存在但只有 3 个伐桩一条事实，写进会与主段重复；其余 3 种（马六甲长鼻白蚁、相等棒鼻白蚁、马六甲大白蚁）只是名录级新增记录。"
+ },
+ {
+  "page": "/species/coptotermes-curvignathus/",
+  "claim": "同一研究：寄宿须白蚁在地面排成长纵队露天觅食、取食地衣，不危害树木；除该种外所有种都在地下监测站（UMS）中出现；该园此前记录 16 种 11 属，本研究新增 3 种（马六甲长鼻白蚁、相等棒鼻白蚁、马六甲大白蚁）；马来西亚控制白蚁的年花费约 1000–1200 万美元（2003 年，引文数据）。",
+  "quote": "This finding is in accordance with the study by Cheng et al. [4] on oil palm plantation suggesting Schedorhinotermes only infests dead tree and plant residues.",
+  "src": "S0237",
+  "work": "Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang",
+  "unit": "S0237",
+  "locator": "全文，Discussion",
+  "status": "recorded",
+  "note": "须白蚁的觅食行为应写 /species/hospitalitermes-hospitalis/，该页本轮不在预算内；成本数字是引文转述，不写页面。"
+ },
+ {
+  "page": "/species/globitermes-brachycerastes/",
+  "claim": "Liu 等（2018）：约 2500 头工蚁全肠 fosmid 文库，12 000 个克隆中 22 个 β-木糖苷酶阳性（约 1:545），11 个不同 RFLP 型混合 454 测序得 41 个 contig，克隆表达 8 个酶 Xyl1–Xyl8（GH1、GH3、GH43），GenBank KY618667–KY618674；其中 4 个兼具 β-葡萄糖苷酶或 α-阿拉伯糖苷酶活性；16S 显示螺旋体类（Spirochaetaceae）最丰富；文中记球白蚁属（Globitermes）共 3 种、主布东南亚热带雨林。",
+  "quote": "",
+  "src": "S0231",
+  "work": "Screening of multimeric β-xylosidases from the gut microbiome of a higher termite, Globitermes brachycerastes",
+  "unit": "S0231",
+  "locator": "全文，Results 与 Discussion",
+  "status": "recorded",
+  "note": "命中率、RFLP 型数、contig 数与「属共 3 种」未写进段落（段落已有 12000/22/8 三个数字，再加过密）；可作 /genus/globitermes/ 属页素材。"
+ },
+ {
+  "page": "/species/neotermes-koshunensis/",
+  "claim": "Kobayashi & Miyaguni（2016）：群体建立者存活率雌-雄配对 43%（n=300）、雌-雌配对 35%（n=180），p=0.102（不显著）；品级发育为线性：拟工蚁（pseudergates）→ 2 个若虫期 → 有翅成虫；低等白蚁已有孤雌生殖记录的 4 个种分属动白蚁属（Zootermopsis）、木白蚁属（Kalotermes）、双裂白蚁属（Bifiditermes），散白蚁属（Reticulitermes）3 个种有孤雌蚁后接替（AQS）。",
+  "quote": "",
+  "src": "S0236",
+  "work": "Facultative parthenogenesis in the Ryukyu drywood termite Neotermes koshunensis",
+  "unit": "S0236",
+  "locator": "全文，Results 与 Discussion",
+  "status": "recorded",
+  "note": "存活率与品级发育序列是种级事实，但页面已有一段孤雌生殖机制，再写会重复；AQS 对比可写 /genus/reticulitermes/，本轮未开。"
+ },
+ {
+  "page": "/species/nasutitermes-ephratae/",
+  "claim": "据摘要，Becker（1961）：供试种群采自墨西哥，为该种在墨西哥的首次记录；文中有翅成虫从脱翅到巢成形的性二型与行为描述；脱翅后 3–4 天即产卵，如此短的时间差此前只见于象白蚁属（Nasutitermes）与 Tenuirostritermes 属。",
+  "quote": "",
+  "src": "S0242",
+  "work": "Beobachtungen und Versuche über den Beginn der Kolonie‐Entwicklung von Nasutitermes ephratae Holmgren (Isoptera)",
+  "unit": "S0242",
+  "locator": "德文摘要",
+  "status": "recorded",
+  "note": "「墨西哥首次记录」与性二型描述未写进段落（段落聚焦产卵与发育时序）；Tenuirostritermes 站内无页面，不能写中文正名。"
+ },
+ {
+  "page": "/genus/invasitermes/",
+  "claim": "据摘要，Miller（1984）：该属属弓白蚁属（Amitermes）属群；文中对 2 个种给出量度与生物学注记；兵蚁品级在该属似乎缺失。",
+  "quote": "",
+  "src": "S0241",
+  "work": "INVASITERMES, A NEW GENUS OF SOLDIERLESS TERMITES FROM NORTHERN AUSTRALIA (ISOPTERA: TERMITIDAE)",
+  "unit": "S0241",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "recorded",
+  "note": "属级结论已写入属页；量度数值摘要未给，不补。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Coventry 等（1988）在昆士兰东北部 Charters Towers 附近的半干旱热带疏林，量化凶残弓白蚁（Amitermes vitiosus）、全黑镰白蚁（Drepanotermes perniger）与挖掘冢白蚁（Tumulitermes pastinator）三种筑丘白蚁转移植物养分的能力：丘体含 21 Mg/ha 土壤，只占 Al 层土壤总量的 1%，却含该系统植物养分的 5–7%。",
+  "quote": "The mounds contain 21 Mg ha-l of soil, representing only 1% of the total mass of soil in the Al soil horizon but 5-7% of the plant nutrients in this system.",
+  "src": "S0150",
+  "work": "Nutrient cycling by mound building termites in low fertility soils of semi-arid tropical Australia",
+  "unit": "S0150",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "本轮未写：三种共有的丘体数据，须先确认每个种各自的数值才能分页（§4.4.1）；摘要只给联合结论，下一轮读全文后写 3 个种页。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Genise 与 Bown（1994）描述埃及北部上始新统至下中新统的 3 个新遗迹属、5 个新遗迹种，属地下白蚁的巢遗迹（含通道系统）；多数遗迹种与现生地下白蚁的巢有不同程度的相似性，其中与圆球白蚁（Sphaerotermes sphaerothorax，白蚁科大白蚁亚科）的巢相近。",
+  "quote": "All but two ichnospecies … show varying degrees of affinity to nests of the extant subterranean … termite species Sphaerotermes sphaerothorax (Termitidae, Macro-termitinae).",
+  "src": "S0151",
+  "work": "New trace fossils of termites (Insecta: Isoptera) from the late Eocene‐early Miocene of Egypt, and the reconstruction of ancient isopteran social behavior",
+  "unit": "S0151",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "rejected",
+  "note": "研究对象是遗迹化石（ichnotaxa），不对应站内现生分类单元页面；按 SOP §8 不写页面。与圆球白蚁的相似性只是一句比较，不足以写种页（m01204）。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Bignell 等（1980）检查土壤食性白蚁阿布里原方白蚁（Procubitermes aburiensis）消化道中的细菌：肠道各主要区段的总微生物现存量自前肠（嗉囊）至直肠净增 3–4 倍；丝状、疑似放线菌的微生物在各区段占比显著，且相对非丝状类更高于刚摄入的土壤；透射与扫描电镜见其在中肠、混合段与结肠与宿主形成新的联合。",
+  "quote": "…showed a net three- to fourfold increase between the foregut (crop) and rectum. Filamentous organisms, putatively actinomycetes, contributed significantly to the flora in most regions of the gut…",
+  "src": "S0152",
+  "work": "Distribution and Abundance of Bacteria in the Gut of a Soil-feeding Termite Procubitermes aburiensis (Termitidae, Termitinae)",
+  "unit": "S0152",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "deferred",
+  "note": "这是种级事实，可写 /species/procubitermes-aburiensis/，但该页本轮不在页面预算内；下一轮优先补。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Margulis 等（1978）在几种螺原体（Pillotina sp.、Diplocalyx sp.、Hollandina sp.，共生在干木白蚁与地下白蚁后肠）中见直径约 220 Å 的纵向排列微管，并见于一种来自西部翅白蚁（Pterotermes occidentis）的滑行细菌；以抗微管蛋白荧光抗体与凝胶共迁移判定其由微管蛋白构成，据此支持纤毛与鞭毛由共生螺原体起源的假说。",
+  "quote": "They are also present in a gliding bacterium from Pterotermes occidentis.",
+  "src": "S0154",
+  "work": "Microtubules in Prokaryotes",
+  "unit": "S0154",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "rejected",
+  "note": "白蚁只作为细菌来源被顺带提及，主体是原核生物细胞生物学；按 SOP §8 跳过。"
+ },
+ {
+  "page": null,
+  "claim": "据摘要，Uehara（1982）记录坦桑尼亚 Mahale 山 K 群野生黑猩猩在短期内用包括工具使用在内的多种技术取食伪刺白蚁（Pseudacanthotermes spiniger），并随猎物活动物候调整技术；黑猩猩终年取食该种丘塔上的少量土壤，推测借此感知白蚁繁殖周期的物候变化；粪便分析显示摄入量有年际波动。",
+  "quote": "During a short period, wild chimpanzees of group K in the Mahale Mountains employ a set of several techniques, including tool use, to feed on one species of termite (Pseudacanthotermes spiniger).",
+  "src": "S0148",
+  "work": "Seasonal Changes in the Techniques Employed by Wild Chimpanzees in the Mahale Mountains, Tanzania, to Feed on Termites (Pseudacanthotermes spiniger)",
+  "unit": "S0148",
+  "locator": "摘要（abstract-no-oa）",
+  "status": "rejected",
+  "note": "研究对象是黑猩猩，白蚁仅为食物与物候线索；按 SOP §8「只提到白蚁的非白蚁研究要跳过」处理。"
+ }
+]

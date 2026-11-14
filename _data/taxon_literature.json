@@ -30,30 +30,26 @@
         ]
       }
     },
-    "updated": "2026-11-12",
+    "updated": "2026-11-14",
     "last_batch": {
-      "date": "2026-11-12",
-      "round": "r2",
-      "pages": 90,
-      "batch_pages": 31,
+      "date": "2026-11-14",
+      "round": "r1",
+      "pages": 161,
+      "batch_pages": 15,
       "units": 20,
       "chunks": 15,
       "abstracts": 5,
       "sources": [
-        "S0137",
-        "S0199",
-        "S0200",
-        "S0201",
-        "S0203",
-        "S0204",
-        "S0206",
-        "S0207",
-        "S0208",
-        "S0209",
-        "S0210",
-        "S0211",
-        "S0212",
-        "S0434"
+        "S0228",
+        "S0231",
+        "S0233",
+        "S0234",
+        "S0236",
+        "S0237",
+        "S0239",
+        "S0240",
+        "S0241",
+        "S0242"
       ]
     },
     "languages": [
@@ -4767,7 +4763,7 @@
     ]
   },
   "/species/trinervitermes-trinervoides/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "sections": [
       {
         "heading": "觅食与巢域",
@@ -4783,6 +4779,21 @@
             "text_es": "Según el resumen de las observaciones de Adam et al. (2008) en Sudáfrica, <i>Trinervitermes trinervoides</i> forrajea de noche en verano, a temperaturas ambientales de 10–14 °C en el campo, y forrajeó entre 13 y 25 °C en el laboratorio; una columna de forrajeo que salía por una sola entrada cubría unos 0.78 m², una sola colonia explotaba un área de forrajeo de unos 214 m², las áreas de forrajeo de colonias vecinas se superponían y cada colonia ocupaba un solo montículo."
           }
         ]
+      },
+      {
+        "heading": "兵蚁防御分泌物与土狼的耐受",
+        "heading_en": "Soldier defence secretion and aardwolf tolerance",
+        "heading_es": "Secreción defensiva de los soldados y tolerancia del proteles",
+        "paragraphs": [
+          {
+            "src": [
+              "S0233"
+            ],
+            "text": "据摘要，Richardson 与 Levitan（1994）研究显示，似三脉三脉白蚁（<i>Trinervitermes trinervoides</i>）占南非土狼（<i>Proteles cristatus</i>）食物的 90% 以上，而其兵蚁具高效的化学防御分泌物，使多数食蚁兽无法专食该种；把兵蚁匀浆按不同浓度掺入日粮后，蝠耳狐（<i>Otocyon megalotis</i>）拒食，非洲灵猫（<i>Civettictis civetta</i>）可耐受 1.0% 的浓度，土狼可耐受 7.5% 以上，这一结果支持土狼经灵猫类祖先预适应而获得耐受性的假说。",
+            "text_en": "According to the abstract, Richardson and Levitan (1994) report that <i>Trinervitermes trinervoides</i> makes up more than 90% of the diet of the South African aardwolf (<i>Proteles cristatus</i>), although its soldiers produce an effective chemical defence secretion that keeps most myrmecophages from specializing on the species; when soldier homogenate was mixed into the diet at different concentrations, bat-eared foxes (<i>Otocyon megalotis</i>) refused it, African civets (<i>Civettictis civetta</i>) tolerated 1.0%, and aardwolves tolerated more than 7.5%, which supports the hypothesis that ancestral aardwolves became pre-adapted to the noxious chemicals through viverrid ancestors.",
+            "text_es": "Según el resumen, Richardson y Levitan (1994) indican que <i>Trinervitermes trinervoides</i> constituye más del 90% de la dieta del proteles sudafricano (<i>Proteles cristatus</i>), aunque sus soldados producen una secreción defensiva química eficaz que impide a la mayoría de los mirmecófagos especializarse en la especie; al mezclar homogeneizado de soldados en la dieta a distintas concentraciones, los otociones (<i>Otocyon megalotis</i>) lo rechazaron, las civetas africanas (<i>Civettictis civetta</i>) toleraron el 1,0% y los proteles toleraron más del 7,5%, lo que apoya la hipótesis de que los proteles ancestrales se preadaptaron a esas sustancias tóxicas a través de ancestros vivérridos."
+          }
+        ]
       }
     ],
     "references": [
@@ -4790,6 +4801,11 @@
         "id": "S0220",
         "citation": "Adam, R. A.; Mitchell, J. D.; van der Westhuizen, M. C. 2008. Aspects of foraging in the harvester termite, Trinervitermes trinervoides (Sjöstedt) (Termitidae: Nasutitermitinae). African Entomology 16(2): 153–161.",
         "doi": "10.4001/1021-3589-16.2.153"
+      },
+      {
+        "id": "S0233",
+        "citation": "Richardson, P. R. K.; Levitan, C. D. 1994. Tolerance of Aardwolves to Defense Secretions of Trinervitermes trinervoides. Journal of Mammalogy.",
+        "doi": "10.2307/1382238"
       }
     ]
   },
@@ -4817,6 +4833,416 @@
         "id": "S0146",
         "citation": "Engel, M. S.; Krishna, K. 2004. Family-Group Names for Termites (Isoptera). American Museum Novitates 3432: 1–9.",
         "doi": "10.1206/0003-0082(2004)432 2.0.co;2"
+      }
+    ]
+  },
+  "/genus/orthognathotermes/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "新热带区的属修订",
+        "heading_en": "A Neotropical genus revised",
+        "heading_es": "Revisión de un género neotropical",
+        "paragraphs": [
+          {
+            "src": [
+              "S0228"
+            ],
+            "text": "据摘要，Rocha 与 Cancello（2009）对直颚白蚁属（<i>Orthognathotermes</i>）的修订研究显示，该属分布于新热带区，修订前含 9 个种，修订后增至 15 个种：作者重描述了原有的 9 个种并新描述 6 个种，给出兵蚁检索表与全部种的分布图，并首次描述了惠勒直颚白蚁（<i>Orthognathotermes wheeleri</i>）和希伯直颚白蚁（<i>Orthognathotermes heberi</i>）的有翅成虫。该文把该属置于白蚁科（Termitidae）白蚁亚科（Termitinae），2024 年白蚁亚科拆分后本站将其置于弓白蚁亚科（Amitermitinae）。",
+            "text_en": "According to the abstract, the revision of the Neotropical genus <i>Orthognathotermes</i> by Rocha and Cancello (2009) shows that the genus occurs in the Neotropical region and grew from 9 species to 15: the authors redescribed the nine previously named species and described six new species, provided a key to the soldiers and distribution maps for all species, and described for the first time the alates of <i>Orthognathotermes wheeleri</i> and <i>Orthognathotermes heberi</i>. The paper placed the genus in Termitidae: Termitinae; after the 2024 split of Termitinae this site places it in Amitermitinae.",
+            "text_es": "Según el resumen, la revisión del género neotropical <i>Orthognathotermes</i> realizada por Rocha y Cancello (2009) muestra que el género se distribuye en la región neotropical y pasó de 9 especies a 15: los autores redescribieron las nueve especies ya nombradas y describieron seis especies nuevas, aportaron una clave para los soldados y mapas de distribución de todas las especies, y describieron por primera vez las aladas de <i>Orthognathotermes wheeleri</i> y <i>Orthognathotermes heberi</i>. El trabajo situó el género en Termitidae: Termitinae; tras la división de Termitinae en 2024, este sitio lo sitúa en Amitermitinae."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0228",
+        "citation": "Rocha, M. M.; Cancello, E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). Zootaxa.",
+        "doi": "10.11646/zootaxa.2280.1.1"
+      }
+    ]
+  },
+  "/species/orthognathotermes-wheeleri/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "有翅成虫的首次描述",
+        "heading_en": "First description of the alates",
+        "heading_es": "Primera descripción de las aladas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0228"
+            ],
+            "text": "据摘要，Rocha 与 Cancello（2009）在修订直颚白蚁属（<i>Orthognathotermes</i>）的研究中，首次描述了惠勒直颚白蚁（<i>Orthognathotermes wheeleri</i>）的有翅成虫；该种是修订前已命名的 9 个种之一，本次修订对其作了重描述，并将其纳入兵蚁检索表与分布图。",
+            "text_en": "According to the abstract, while revising the genus <i>Orthognathotermes</i>, Rocha and Cancello (2009) described the alates of <i>Orthognathotermes wheeleri</i> for the first time; the species is one of the nine named before the revision, which was redescribed and included in the key to soldiers and in the distribution maps.",
+            "text_es": "Según el resumen, al revisar el género <i>Orthognathotermes</i>, Rocha y Cancello (2009) describieron por primera vez las aladas de <i>Orthognathotermes wheeleri</i>; la especie es una de las nueve ya nombradas antes de la revisión, que fue redescrita e incluida en la clave de soldados y en los mapas de distribución."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0228",
+        "citation": "Rocha, M. M.; Cancello, E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). Zootaxa.",
+        "doi": "10.11646/zootaxa.2280.1.1"
+      }
+    ]
+  },
+  "/species/orthognathotermes-heberi/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "有翅成虫的首次描述",
+        "heading_en": "First description of the alates",
+        "heading_es": "Primera descripción de las aladas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0228"
+            ],
+            "text": "据摘要，Rocha 与 Cancello（2009）在修订直颚白蚁属（<i>Orthognathotermes</i>）的研究中，首次描述了希伯直颚白蚁（<i>Orthognathotermes heberi</i>）的有翅成虫；该种也是修订前已命名的 9 个种之一，本次修订对其作了重描述，并将其纳入兵蚁检索表与分布图。",
+            "text_en": "According to the abstract, while revising the genus <i>Orthognathotermes</i>, Rocha and Cancello (2009) described the alates of <i>Orthognathotermes heberi</i> for the first time; this species is also one of the nine named before the revision, which was redescribed and included in the key to soldiers and in the distribution maps.",
+            "text_es": "Según el resumen, al revisar el género <i>Orthognathotermes</i>, Rocha y Cancello (2009) describieron por primera vez las aladas de <i>Orthognathotermes heberi</i>; esta especie también es una de las nueve ya nombradas antes de la revisión, que fue redescrita e incluida en la clave de soldados y en los mapas de distribución."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0228",
+        "citation": "Rocha, M. M.; Cancello, E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). Zootaxa.",
+        "doi": "10.11646/zootaxa.2280.1.1"
+      }
+    ]
+  },
+  "/genus/invasitermes/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "无兵蚁品级的新属",
+        "heading_en": "A new genus without a soldier caste",
+        "heading_es": "Un género nuevo sin casta de soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0241"
+            ],
+            "text": "据摘要，Miller（1984）研究显示，白蚁属（<i>Termes</i>）的旧组合 <i>Termes insitivus</i> 与此前归入白蚁属（<i>Termes</i>）旧组合 <i>Termes quadratus</i> 的有翅成虫均不属于白蚁属（<i>Termes</i>）：二者被移入弓白蚁属（<i>Amitermes</i>）属群中的一个新属，即闯白蚁属（<i>Invasitermes</i>）；该属的兵蚁品级似乎缺失，文中给出该属 2 个种的量度与生物学注记。",
+            "text_en": "According to the abstract, Miller (1984) showed that the old combination <i>Termes insitivus</i> and the alates previously assigned to the old combination <i>Termes quadratus</i>, both then placed in <i>Termes</i>, do not belong to <i>Termes</i>: they were moved to a new genus of the <i>Amitermes</i> group, <i>Invasitermes</i>. The soldier caste appears to be absent in the genus, and the paper gives measurements and biological notes for its two species.",
+            "text_es": "Según el resumen, Miller (1984) demostró que la combinación antigua <i>Termes insitivus</i> y las aladas atribuidas antes a la combinación antigua <i>Termes quadratus</i>, ambas situadas entonces en <i>Termes</i>, no pertenecen a <i>Termes</i>: se trasladaron a un género nuevo del grupo de <i>Amitermes</i>, <i>Invasitermes</i>. La casta de soldados parece faltar en el género, y el trabajo aporta medidas y notas biológicas de sus dos especies."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0241",
+        "citation": "Miller, L. R. 1984. Invasitermes, a new genus of soldierless termites from northern Australia (Isoptera: Termitidae). Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.1984.tb01902.x"
+      }
+    ]
+  },
+  "/species/invasitermes-insitivus/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "由白蚁属移入",
+        "heading_en": "Moved from the genus Termes",
+        "heading_es": "Traslado desde el género Termes",
+        "paragraphs": [
+          {
+            "src": [
+              "S0241"
+            ],
+            "text": "据摘要，Miller（1984）研究显示，候补闯白蚁（<i>Invasitermes insitivus</i>）原被置于白蚁属（<i>Termes</i>），作为白蚁属（<i>Termes</i>）的旧组合 <i>Termes insitivus</i> 描述；因其不属于白蚁属（<i>Termes</i>），1984 年随闯白蚁属（<i>Invasitermes</i>）的建立而移入该属，文中给出该种的量度与生物学注记。",
+            "text_en": "According to the abstract, Miller (1984) showed that <i>Invasitermes insitivus</i> had been placed in <i>Termes</i>, described there as the old combination <i>Termes insitivus</i>; because it does not belong to <i>Termes</i>, it was moved to <i>Invasitermes</i> when that genus was established in 1984, and the paper gives measurements and biological notes for the species.",
+            "text_es": "Según el resumen, Miller (1984) demostró que <i>Invasitermes insitivus</i> había sido situada en <i>Termes</i>, descrita allí como la combinación antigua <i>Termes insitivus</i>; como no pertenece a <i>Termes</i>, se trasladó a <i>Invasitermes</i> al establecerse ese género en 1984, y el trabajo aporta medidas y notas biológicas de la especie."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0241",
+        "citation": "Miller, L. R. 1984. Invasitermes, a new genus of soldierless termites from northern Australia (Isoptera: Termitidae). Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.1984.tb01902.x"
+      }
+    ]
+  },
+  "/species/invasitermes-inermis/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "随新属建立的新种",
+        "heading_en": "A new species described with the genus",
+        "heading_es": "Una especie nueva descrita con el género",
+        "paragraphs": [
+          {
+            "src": [
+              "S0241"
+            ],
+            "text": "据摘要，Miller（1984）研究显示，非武闯白蚁（<i>Invasitermes inermis</i>）是随闯白蚁属（<i>Invasitermes</i>）一同建立的新种，与候补闯白蚁（<i>Invasitermes insitivus</i>）同为该属仅有的 2 个种；该属兵蚁品级似乎缺失，文中对新种给出量度与生物学注记。",
+            "text_en": "According to the abstract, Miller (1984) showed that <i>Invasitermes inermis</i> is a new species described together with the genus <i>Invasitermes</i> and, with <i>Invasitermes insitivus</i>, one of the only two species of the genus; the soldier caste appears to be absent, and the paper gives measurements and biological notes for the new species.",
+            "text_es": "Según el resumen, Miller (1984) demostró que <i>Invasitermes inermis</i> es una especie nueva descrita junto con el género <i>Invasitermes</i> y, junto con <i>Invasitermes insitivus</i>, una de las dos únicas especies del género; la casta de soldados parece faltar y el trabajo aporta medidas y notas biológicas de la especie nueva."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0241",
+        "citation": "Miller, L. R. 1984. Invasitermes, a new genus of soldierless termites from northern Australia (Isoptera: Termitidae). Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.1984.tb01902.x"
+      }
+    ]
+  },
+  "/species/neotermes-koshunensis/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "兼性孤雌生殖",
+        "heading_en": "Facultative parthenogenesis",
+        "heading_es": "Partenogénesis facultativa",
+        "paragraphs": [
+          {
+            "src": [
+              "S0236"
+            ],
+            "text": "根据 Kobayashi 与 Miyaguni（2016）研究，恒春新白蚁（<i>Neotermes koshunensis</i>）具兼性孤雌生殖能力：与雄虫隔离的雌虫所产卵可以孵化，但孵化率约为有雄虫配对时的一半——雌-雌配对 0.52 ± 0.07（120 粒卵、27 个群体），雌-雄配对 0.88 ± 0.05（396 粒卵、57 个群体）；两类配对的首次产卵均在第 10 天，首次孵化则雌-雄配对各在第 60 天、雌-雌配对各在第 70 天。试验用 6 个群体于 2014 年 4 月下旬采自冲绳西原（Nishihara）与中城（Nakagusuku），筑巢于活树枯枝，在 27 °C 下饲养观察 90 天。",
+            "text_en": "According to Kobayashi and Miyaguni (2016), <i>Neotermes koshunensis</i> is capable of facultative parthenogenesis: eggs laid by females kept without males do hatch, but at about half the hatching rate of male-female pairs — 0.52 ± 0.07 (120 eggs, 27 colonies) for female-female pairs versus 0.88 ± 0.05 (396 eggs, 57 colonies) for male-female pairs; both pair types began laying on day 10, while first hatching occurred on day 60 in male-female pairs and day 70 in female-female pairs. Six colonies collected in late April 2014 at Nishihara and Nakagusuku, Okinawa, nesting in dead branches of living trees, were reared at 27 °C for 90 days.",
+            "text_es": "Según Kobayashi y Miyaguni (2016), <i>Neotermes koshunensis</i> es capaz de partenogénesis facultativa: los huevos puestos por hembras mantenidas sin machos eclosionan, pero con una tasa de eclosión cercana a la mitad de la de las parejas macho-hembra — 0,52 ± 0,07 (120 huevos, 27 colonias) en parejas hembra-hembra frente a 0,88 ± 0,05 (396 huevos, 57 colonias) en parejas macho-hembra; ambos tipos de pareja empezaron a poner el día 10, mientras que la primera eclosión ocurrió el día 60 en las parejas macho-hembra y el día 70 en las parejas hembra-hembra. Se criaron a 27 °C durante 90 días seis colonias recolectadas a finales de abril de 2014 en Nishihara y Nakagusuku, Okinawa, que anidan en ramas muertas de árboles vivos."
+          },
+          {
+            "src": [
+              "S0236"
+            ],
+            "text": "根据同一研究，孤雌子代只继承母本等位基因，5 个微卫星位点的纯合比例达 0.96–1.00，符合末端融合（terminal fusion）的预期，而与无融合生殖、中心融合等机制不符；作者认为该种仍处于有性生殖与孤雌生殖之间的过渡状态——野外多数群体只有 1 头蚁后或为孤后群体，尚未演化出孤雌蚁后接替（AQS）系统，是已知首个具孤雌生殖能力却无 AQS 的白蚁。",
+            "text_en": "According to the same study, parthenogenetic offspring inherit only maternal alleles, with homozygosity of 0.96-1.00 at five microsatellite loci, matching terminal fusion and excluding gamete duplication and central fusion; the authors conclude that the species is in transition between sexual and parthenogenetic reproduction — most field colonies have a single queen or are queenless, and no asexual queen succession (AQS) system has evolved, making it the first termite known to be capable of parthenogenesis without AQS.",
+            "text_es": "Según el mismo estudio, la descendencia partenogenética hereda solo alelos maternos, con una homocigosidad de 0,96-1,00 en cinco loci de microsatélites, lo que concuerda con la fusión terminal y descarta la duplicación de gametos y la fusión central; los autores concluyen que la especie se encuentra en transición entre la reproducción sexual y la partenogenética — la mayoría de las colonias de campo tienen una sola reina o carecen de reina, y no ha evolucionado un sistema de sucesión asexual de reinas (AQS), por lo que es la primera termita conocida capaz de partenogénesis sin AQS."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0236",
+        "citation": "Kobayashi, K.; Miyaguni, Y. 2016. Facultative parthenogenesis in the Ryukyu drywood termite Neotermes koshunensis. Scientific Reports 6: 30712.",
+        "doi": "10.1038/srep30712"
+      }
+    ]
+  },
+  "/species/globitermes-brachycerastes/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "肠道微生物的 β-木糖苷酶",
+        "heading_en": "β-Xylosidases from the gut microbiome",
+        "heading_es": "β-Xilosidasas del microbioma intestinal",
+        "paragraphs": [
+          {
+            "src": [
+              "S0231"
+            ],
+            "text": "根据 Liu 等（2018）研究，短角球白蚁（<i>Globitermes brachycerastes</i>）的肠道微生物组含多个 β-木糖苷酶基因：作者以 2008 年 3 月采于云南西双版纳地下巢的约 2 500 头工蚁全肠构建 fosmid 文库，从 12 000 个克隆中筛出 22 个具 β-木糖苷酶活性的阳性克隆，测序并克隆表达了 8 个酶（Xyl1–Xyl8），分属糖苷水解酶第 1、3、43 家族，序列已存入 GenBank（KY618667–KY618674）。",
+            "text_en": "According to Liu et al. (2018), the gut microbiome of <i>Globitermes brachycerastes</i> contains multiple β-xylosidase genes: from a fosmid library built with the whole guts of about 2 500 workers collected in March 2008 from an underground nest in Xishuangbanna, Yunnan, the authors screened 12 000 clones and found 22 positive for β-xylosidase activity, sequenced them and expressed eight enzymes (Xyl1-Xyl8) belonging to glycoside hydrolase families 1, 3 and 43, deposited in GenBank (KY618667-KY618674).",
+            "text_es": "Según Liu et al. (2018), el microbioma intestinal de <i>Globitermes brachycerastes</i> contiene varios genes de β-xilosidasa: a partir de una biblioteca de fosmidos construida con los intestinos completos de unas 2 500 obreras recolectadas en marzo de 2008 en un nido subterráneo de Xishuangbanna, Yunnan, los autores cribaron 12 000 clones y hallaron 22 positivos para actividad β-xilosidasa, los secuenciaron y expresaron ocho enzimas (Xyl1-Xyl8) pertenecientes a las familias 1, 3 y 43 de glucósido hidrolasas, depositadas en GenBank (KY618667-KY618674)."
+          },
+          {
+            "src": [
+              "S0231"
+            ],
+            "text": "根据同一研究，这 8 个酶中有 4 个同时具 β-葡萄糖苷酶或 α-阿拉伯糖苷酶活性，属双功能半纤维素酶；该种属白蚁科（Termitidae）弓白蚁亚科（Amitermitinae），文中记该属主要分布于东南亚热带雨林，其肠道细菌以螺旋体类（Spirochaetaceae）最丰富。",
+            "text_en": "According to the same study, four of the eight enzymes also show β-glucosidase or α-arabinosidase activity and are therefore bifunctional hemicellulases; the species belongs to Termitidae: Amitermitinae, the paper notes that the genus occurs mainly in Southeast Asian rainforests, and that spirochaetes (Spirochaetaceae) are the most abundant bacteria in its gut.",
+            "text_es": "Según el mismo estudio, cuatro de las ocho enzimas muestran además actividad β-glucosidasa o α-arabinosidasa, por lo que son hemicelulasas bifuncionales; la especie pertenece a Termitidae: Amitermitinae, el trabajo señala que el género se distribuye principalmente en las selvas tropicales del sudeste asiático y que las espiroquetas (Spirochaetaceae) son las bacterias más abundantes en su intestino."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0231",
+        "citation": "Liu, C.; Zou, G.; Yan, X.; Zhou, X. J. 2018. Screening of multimeric β-xylosidases from the gut microbiome of a higher termite, Globitermes brachycerastes. International Journal of Biological Sciences.",
+        "doi": "10.7150/ijbs.22763"
+      }
+    ]
+  },
+  "/species/coptotermes-curvignathus/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "南洋杉人工林中的危害",
+        "heading_en": "Damage in an Araucaria plantation",
+        "heading_es": "Daños en una plantación de Araucaria",
+        "paragraphs": [
+          {
+            "src": [
+              "S0237"
+            ],
+            "text": "根据 Jasmi 与 Ahmad（2011）研究，曲颚乳白蚁（<i>Coptotermes curvignathus</i>）是马来西亚槟城 Teluk Bahang 森林公园南洋杉（<i>Araucaria cunninghamii</i>）人工林中最主要的害虫种：289 株受检树木中有 62 株（21.5%）被白蚁侵染，其中 46 株由该种侵染，占全部侵染树木的 74%；该种在健康、衰退、枯死与伐桩四类树木上均有记录（分别为 4、12、11、19 株），且 4 株外观健康的树上已见泥被泥线等初期侵染迹象；作者并引述文献指出，该种可危害各龄级树木并最终致其死亡。",
+            "text_en": "According to Jasmi and Ahmad (2011), <i>Coptotermes curvignathus</i> is the main pest species in the <i>Araucaria cunninghamii</i> plantation of Teluk Bahang Forest Park, Penang, Malaysia: of 289 trees inspected, 62 (21.5%) were infested by termites and 46 of these by this species, that is 74% of all infested trees; it was recorded on healthy, declining, dead and stumped trees (4, 12, 11 and 19 respectively), and initial infestation signs such as mud sheets and mud tubes were already visible on four apparently healthy trees; the authors also cite earlier literature that the species can damage and eventually kill trees of any age.",
+            "text_es": "Según Jasmi y Ahmad (2011), <i>Coptotermes curvignathus</i> es la principal especie plaga en la plantación de <i>Araucaria cunninghamii</i> del parque forestal de Teluk Bahang, Penang, Malasia: de 289 árboles inspeccionados, 62 (21,5%) estaban infestados por termitas y 46 de ellos por esta especie, es decir el 74% de todos los árboles infestados; se registró en árboles sanos, en declive, muertos y en tocones (4, 12, 11 y 19 respectivamente), y en cuatro árboles aparentemente sanos ya se veían signos iniciales de infestación, como láminas y tubos de barro; los autores citan además bibliografía previa según la cual la especie puede dañar y acabar matando árboles de cualquier edad."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0237",
+        "citation": "Jasmi, A. H.; Ahmad, A. H. 2011. Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang. Insects 2(4).",
+        "doi": "10.3390/insects2040469"
+      }
+    ]
+  },
+  "/species/schedorhinotermes-medioobscurus/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "只侵染枯木与伐桩",
+        "heading_en": "Infesting only dead wood and stumps",
+        "heading_es": "Infesta solo madera muerta y tocones",
+        "paragraphs": [
+          {
+            "src": [
+              "S0237"
+            ],
+            "text": "根据 Jasmi 与 Ahmad（2011）研究，中暗长鼻白蚁（<i>Schedorhinotermes medioobscurus</i>）在槟城 Teluk Bahang 森林公园的南洋杉（<i>Araucaria cunninghamii</i>）人工林中主要侵染枯死木与伐桩：13 株被该种侵染的树木中，枯树 4 株、伐桩 8 株、衰退树 1 株，没有健康树被侵染；作者认为该种可能不侵染活树，这与油棕园中该属只侵染枯死植株及植物残体的观察一致。",
+            "text_en": "According to Jasmi and Ahmad (2011), in the <i>Araucaria cunninghamii</i> plantation of Teluk Bahang Forest Park, Penang, <i>Schedorhinotermes medioobscurus</i> mainly infests dead wood and stumps: of the 13 trees infested by this species, 4 were dead trees, 8 were stumps and 1 was declining, with no healthy tree attacked; the authors suggest that the species may not attack living trees, consistent with observations in oil palm plantations where the genus infests only dead palms and plant debris.",
+            "text_es": "Según Jasmi y Ahmad (2011), en la plantación de <i>Araucaria cunninghamii</i> del parque forestal de Teluk Bahang, Penang, <i>Schedorhinotermes medioobscurus</i> infesta sobre todo madera muerta y tocones: de los 13 árboles infestados por esta especie, 4 eran árboles muertos, 8 tocones y 1 estaba en declive, sin que se atacara ningún árbol sano; los autores sugieren que la especie quizá no ataca árboles vivos, en consonancia con lo observado en plantaciones de palma aceitera, donde el género infesta solo palmas muertas y restos vegetales."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0237",
+        "citation": "Jasmi, A. H.; Ahmad, A. H. 2011. Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang. Insects 2(4).",
+        "doi": "10.3390/insects2040469"
+      }
+    ]
+  },
+  "/species/heterotermes-occiduus/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "两种取样方法下的多度差异",
+        "heading_en": "Abundance differs between two sampling methods",
+        "heading_es": "La abundancia difiere entre dos métodos de muestreo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0240"
+            ],
+            "text": "据摘要，Abensperg-Traun（1993）对两种取样方法的比较研究显示，西部异白蚁（<i>Heterotermes occiduus</i>）在西澳小麦带 wandoo（<i>Eucalyptus capillosa</i>）林地的出现率高度依赖取样介质：在完好的人工诱饵（Jarrah、Karri、Pine、Batu、Oregon 木桩与纸卷）上，该种平均占诱饵记录样本的 80%，而在天然 wandoo 倒木与枯枝上仅占 5%；该种是仅有的 3 个取食人工诱饵的种之一，说明单用自然枯木或单用诱饵都会误判其多度。",
+            "text_en": "According to the abstract, the comparison of two sampling methods by Abensperg-Traun (1993) shows that the occurrence of <i>Heterotermes occiduus</i> in wandoo (<i>Eucalyptus capillosa</i>) woodland of the Western Australian wheat belt depends strongly on the sampling medium: on sound artificial baits (Jarrah, Karri, Pine, Batu and Oregon stakes and paper rolls) the species made up 80% of the samples recorded on baits on average, but only 5% on natural wandoo logs and branches; it was one of only three species that fed on the artificial baits, showing that sampling only natural dead wood or only baits would misjudge its abundance.",
+            "text_es": "Según el resumen, la comparación de dos métodos de muestreo de Abensperg-Traun (1993) muestra que la presencia de <i>Heterotermes occiduus</i> en el bosque de wandoo (<i>Eucalyptus capillosa</i>) del cinturón triguero de Australia Occidental depende mucho del sustrato de muestreo: en cebos artificiales sanos (estacas de Jarrah, Karri, Pine, Batu y Oregon, y rollos de papel) la especie representó en promedio el 80% de las muestras registradas en cebos, pero solo el 5% en troncos y ramas naturales de wandoo; fue una de las únicas tres especies que se alimentaron de los cebos artificiales, lo que muestra que muestrear solo madera muerta natural o solo cebos llevaría a estimar mal su abundancia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0240",
+        "citation": "Abensperg-Traun, M. 1993. A comparison of two methods for sampling assemblages of subterranean, wood-eating termites (Isoptera). Australian Journal of Ecology.",
+        "doi": "10.1111/j.1442-9993.1993.tb00459.x"
+      }
+    ]
+  },
+  "/species/nasutitermes-ephratae/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "建巢初期的产卵与品级发育",
+        "heading_en": "Oviposition and caste development in early colony founding",
+        "heading_es": "Puesta y desarrollo de castas en la fundación de la colonia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0242"
+            ],
+            "text": "据摘要，Becker（1961）在柏林-达勒姆实验室对墨西哥种群的研究显示，埃夫拉塔象白蚁（<i>Nasutitermes ephratae</i>）的有翅成虫脱翅后 3–4 天即开始产卵，初期每日产 1–3 粒，累计至 25–30 粒后出现产卵停顿，与首批幼虫孵化及抚育同时；产卵起始时间在 24–32 °C 范围内与温度无关。",
+            "text_en": "According to the abstract, a laboratory study by Becker (1961) on a Mexican population in Berlin-Dahlem shows that the alates of <i>Nasutitermes ephratae</i> begin to lay eggs 3-4 days after dealation; a female lays 1-3 eggs per day at first, and after 25-30 eggs on average laying pauses, coinciding with the hatching of the first larvae and the start of brood care. The onset of oviposition was independent of temperature between 24 and 32 °C.",
+            "text_es": "Según el resumen, un estudio de laboratorio de Becker (1961) sobre una población mexicana en Berlín-Dahlem muestra que las aladas de <i>Nasutitermes ephratae</i> empiezan a poner huevos 3-4 días después de perder las alas; al principio la hembra pone 1-3 huevos al día y, tras unos 25-30 huevos de media, la puesta se interrumpe, coincidiendo con la eclosión de las primeras larvas y el inicio del cuidado de la cría. El inicio de la oviposición fue independiente de la temperatura entre 24 y 32 °C."
+          },
+          {
+            "src": [
+              "S0242"
+            ],
+            "text": "据摘要，同一研究还显示，胚胎发育在 30–32 °C 需 22–23 天，28 °C 约 25–26 天，26 °C 约 30–31 天，24 °C 约 42 天；首批前兵蚁在 29 °C 约 14 天、24 °C 约 21 天出现，前兵蚁蜕为兵蚁需 7–8 天，受温度影响较小；首批深头工蚁在首批前兵蚁出现后 2 天（32 °C）至 13 天（24 °C）完成体色变深，工蚁品级比兵蚁早数日完成。",
+            "text_en": "According to the abstract, the same study shows that embryonic development takes 22-23 days at 30-32 °C, about 25-26 days at 28 °C, about 30-31 days at 26 °C and about 42 days at 24 °C; the first presoldiers appear after about 14 days at 29 °C and about 21 days at 24 °C, and moult into soldiers in 7-8 days with little temperature effect; the first dark-headed workers finish darkening 2 days (32 °C) to 13 days (24 °C) after the first presoldiers appear, so the worker caste completes development a few days ahead of the soldier caste.",
+            "text_es": "Según el resumen, el mismo estudio muestra que el desarrollo embrionario dura 22-23 días a 30-32 °C, unos 25-26 días a 28 °C, unos 30-31 días a 26 °C y unos 42 días a 24 °C; los primeros presoldados aparecen a los 14 días aproximadamente a 29 °C y a los 21 días a 24 °C, y mudan a soldados en 7-8 días con escasa influencia de la temperatura; las primeras obreras de cabeza oscura completan el oscurecimiento entre 2 días (32 °C) y 13 días (24 °C) después de la aparición de los primeros presoldados, de modo que la casta de obreras completa su desarrollo unos días antes que la de soldados."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0242",
+        "citation": "Becker, G. 1961. Beobachtungen und Versuche über den Beginn der Kolonie-Entwicklung von Nasutitermes ephratae Holmgren (Isoptera). Zeitschrift für Angewandte Entomologie.",
+        "doi": "10.1111/j.1439-0418.1961.tb02856.x"
+      }
+    ]
+  },
+  "/species/gnathamitermes-tubiformans/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "地上廊道的建造代价",
+        "heading_en": "The cost of building above-ground galleries",
+        "heading_es": "El coste de construir galerías aéreas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0234"
+            ],
+            "text": "据摘要，MacKay 等（1985）研究显示，管形颚钩白蚁（<i>Gnathamitermes tubiformans</i>）在北美奇瓦瓦沙漠北部雨后围绕直立的枯死植被修筑泥质廊道，并只刮食直立枯枝表面含氮量最高的组织；作者检验了「修筑廊道的耗能大于从木材所得」的假说，估计从木材获得的能量比修筑廊道的投入高 6 个数量级，该假说因此不成立。",
+            "text_en": "According to the abstract, MacKay et al. (1985) report that <i>Gnathamitermes tubiformans</i>, a common species in the northern Chihuahuan Desert, builds mud galleries around standing dead vegetation after rain and grazes only the nitrogen-richest tissues on the surface of standing dead branches; testing the hypothesis that building the galleries costs more energy than the termites obtain from the wood, they estimated that the energy gained from the wood exceeds the cost of gallery construction by six orders of magnitude, so the hypothesis is rejected.",
+            "text_es": "Según el resumen, MacKay et al. (1985) indican que <i>Gnathamitermes tubiformans</i>, especie común en el norte del desierto de Chihuahua, construye galerías de barro alrededor de la vegetación muerta erecta tras las lluvias y raspa solo los tejidos más ricos en nitrógeno de la superficie de las ramas muertas erectas; al someter a prueba la hipótesis de que construir las galerías cuesta más energía que la que las termitas obtienen de la madera, estimaron que la energía obtenida de la madera supera en seis órdenes de magnitud el coste de la construcción, por lo que la hipótesis se rechaza."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0234",
+        "citation": "Mackay, W. P.; Blizzard, J. H.; Miller, J. J.; Whitford, W. G. 1985. Analysis of Above-ground Gallery Construction by the Subterranean Termite Gnathamitermes tubiformans (Isoptera: Termitidae). Environmental Entomology.",
+        "doi": "10.1093/ee/14.4.470"
+      }
+    ]
+  },
+  "/species/stolotermes-inopinus/": {
+    "updated": "2026-11-14",
+    "sections": [
+      {
+        "heading": "异常发达的雄性外生殖器",
+        "heading_en": "Unusually well-developed male genitalia",
+        "heading_es": "Genitales masculinos inusualmente desarrollados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0239"
+            ],
+            "text": "据摘要，Klass 等（2000）研究显示，未料胄白蚁（<i>Stolotermes inopinus</i>）雄虫具大型阳茎叶（phallic lobe），与多数等翅类仅有小生殖突或全无外生殖器形成对比；其阳茎叶具一对腹面骨片，生殖孔位于阳茎叶腹端，整个生殖区完全左右对称，作者认为这可能是等翅目的祖征状态。",
+            "text_en": "According to the abstract, Klass et al. (2000) show that males of <i>Stolotermes inopinus</i> have a large phallic lobe, in contrast to most Isoptera, which have only small genital papillae or no external genitalia; the lobe bears a pair of ventral sclerites, the gonopore lies at its ventral end, and the whole genital region is fully symmetrical, which the authors consider a possible groundplan condition for Isoptera.",
+            "text_es": "Según el resumen, Klass et al. (2000) muestran que los machos de <i>Stolotermes inopinus</i> poseen un lóbulo fálico grande, en contraste con la mayoría de los isópteros, que solo tienen pequeñas papilas genitales o carecen de genitales externos; el lóbulo lleva un par de escleritos ventrales, el gonoporo se sitúa en su extremo ventral y toda la región genital es completamente simétrica, lo que los autores consideran una posible condición del plan corporal de los isópteros."
+          },
+          {
+            "src": [
+              "S0239"
+            ],
+            "text": "据摘要，作者依据阳茎叶与下生殖板、肛侧板以及肌肉、神经的关系，认为它与其他网翅类的阳茎基同源；这种简单而对称的结构与蜚蠊目、螳螂目雄虫不对称且高度复杂的外生殖器形成强烈对比，而后腹神经系统的排列与美洲大蠊（<i>Periplaneta americana</i>）相似；该文把胄白蚁属（<i>Stolotermes</i>）作为亚科级单元处理，本站现将其置于胄白蚁科（Stolotermitidae），文中的形态证据提示其与木白蚁科（Kalotermitidae）、鼻白蚁科（Rhinotermitidae，当时为广义）及白蚁科（Termitidae）更近，而与当时同置一科的古白蚁类较远。",
+            "text_en": "According to the abstract, the relations of the phallic lobe to the subgenital plate, the paraprocts and the muscles and nerves indicate that it is homologous with the phallus of other Dictyoptera; this simple, symmetrical structure contrasts strongly with the asymmetric and highly complex male genitalia of Blattodea and Mantodea, while the arrangement of the postabdominal nervous system resembles that of <i>Periplaneta americana</i>. The paper treats <i>Stolotermes</i> as a subfamily-level unit, whereas this site places it in Stolotermitidae, and its morphological evidence suggests a closer relationship with Kalotermitidae, Rhinotermitidae (in the broad sense then used) and Termitidae, and a more distant relationship to the termopsid termites then placed in the same family.",
+            "text_es": "Según el resumen, las relaciones del lóbulo fálico con la placa subgenital, los paraproctos y los músculos y nervios indican que es homólogo del falo de otros dictiópteros; esta estructura simple y simétrica contrasta fuertemente con los genitales masculinos asimétricos y muy complejos de Blattodea y Mantodea, mientras que la disposición del sistema nervioso postabdominal se parece a la de <i>Periplaneta americana</i>. El trabajo trata <i>Stolotermes</i> como una unidad de nivel subfamilia, mientras que este sitio lo sitúa en Stolotermitidae, y su evidencia morfológica sugiere una relación más cercana con Kalotermitidae, Rhinotermitidae (en el sentido amplio usado entonces) y Termitidae, y una relación más lejana con las termitas termópsidas entonces situadas en la misma familia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0239",
+        "citation": "Klass, K.-D.; Thorne, B. L.; Lenz, M. 2000. The male postabdomen of Stolotermes inopinus: a termite with unusually well-developed external genitalia (Dictyoptera: Isoptera: Stolotermitinae). Acta Zoologica.",
+        "doi": "10.1046/j.1463-6395.2000.00045.x"
       }
     ]
   }
