@@ -201,7 +201,7 @@ permalink: /en/
   <li><a href="https://termite-extant-isoptera.org/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
   <li><a href="https://termite-extant-isoptera.org/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
   <li><a href="https://termite-extant-isoptera.org/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
-    <!-- Basics entry unpublished since 2026-11-05 (under review): sources in _pending_pages/basics/; paste the entry back from that README to restore. -->
+  <li><a href="{{ site.base_url }}/en/basics/"><strong>Basics</strong></a> — index: morphology (head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a quick guide to the features used in descriptions and the remaining keys) and biology (caste development, nesting, feeding, life history, defence and ecosystem roles).</li>
   <li><a href="{{ site.base_url }}/en/list/name-issues/"><strong>Name discrepancies</strong></a> — rows needing human review after cross-checking against GBIF / Catalogue of Life / Blattodea Species File, filterable by type, source and keyword.</li>
   <li><a href="{{ site.base_url }}/en/changelog/"><strong>Changelog</strong></a> — what changed in each version (publication date); subscribe via <a href="{{ site.base_url }}/changelog.atom">Atom</a>.</li>
 </ul>

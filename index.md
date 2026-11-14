@@ -206,7 +206,7 @@ permalink: /
   <li><a href="https://termite-extant-isoptera.org/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
   <li><a href="https://termite-extant-isoptera.org/blog/"><strong>博客</strong></a> — 文章与更新说明（Word 文档自动转网页，随 _posts 文件夹自动更新）。</li>
   <li><a href="https://termite-extant-isoptera.org/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
-    <!-- 基础知识入口 2026-11-05 起暂缓发布（审稿中）：源码在 _pending_pages/basics/，恢复时按该目录 README 粘回本条。 -->
+  <li><a href="{{ site.base_url }}/basics/"><strong>基础知识</strong></a> — 索引：形态篇（头壳、囟、上颚、翅、跗节、腹板、尾须与内部器官的术语与识别要点，附检索表常用特征速查，供阅读少数保留的检索表）与生物学篇（品级发育、筑巢、食性、生活史、防御与生态功能），术语口径与名录及各科属页的形态描述一致。</li>
   <li><a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异</strong></a> — 本站名与 GBIF / Catalogue of Life / Blattodea Species File 的对照中需要人工核对的条目，可按类型、来源、关键词筛选。</li>
   <li><a href="{{ site.base_url }}/changelog/"><strong>版本记录</strong></a> — 每个版本（发布日期）的变更清单，可订阅 <a href="{{ site.base_url }}/changelog.atom">Atom</a>。</li>
 </ul>

@@ -5,6 +5,9 @@ https://termite-extant-isoptera.org/stats/
 https://termite-extant-isoptera.org/data/
 https://termite-extant-isoptera.org/download/
 https://termite-extant-isoptera.org/blog/
+https://termite-extant-isoptera.org/basics/
+https://termite-extant-isoptera.org/basics/biology/
+https://termite-extant-isoptera.org/basics/morphology/
 https://termite-extant-isoptera.org/changelog/
 https://termite-extant-isoptera.org/family/archotermopsidae/
 https://termite-extant-isoptera.org/family/archotermopsidae/photos/
@@ -672,6 +675,9 @@ https://termite-extant-isoptera.org/subfamily/syntermitinae/photos/
 https://termite-extant-isoptera.org/subfamily/termitinae/
 https://termite-extant-isoptera.org/subfamily/termitinae/photos/
 https://termite-extant-isoptera.org/en/
+https://termite-extant-isoptera.org/en/basics/
+https://termite-extant-isoptera.org/en/basics/biology/
+https://termite-extant-isoptera.org/en/basics/morphology/
 https://termite-extant-isoptera.org/en/blog/
 https://termite-extant-isoptera.org/en/changelog/
 https://termite-extant-isoptera.org/en/data/
@@ -4435,6 +4441,9 @@ https://termite-extant-isoptera.org/en/subfamily/syntermitinae/photos/
 https://termite-extant-isoptera.org/en/subfamily/termitinae/
 https://termite-extant-isoptera.org/en/subfamily/termitinae/photos/
 https://termite-extant-isoptera.org/es/
+https://termite-extant-isoptera.org/es/basics/
+https://termite-extant-isoptera.org/es/basics/biology/
+https://termite-extant-isoptera.org/es/basics/morphology/
 https://termite-extant-isoptera.org/es/blog/
 https://termite-extant-isoptera.org/es/changelog/
 https://termite-extant-isoptera.org/es/data/

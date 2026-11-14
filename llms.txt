@@ -10,6 +10,7 @@
 ## 关键页面（中文）
 - [首页（简介 + 页面导航）](https://termite-extant-isoptera.org/)
 - [名录索引（分类框架说明 + 按科浏览 + 支系—科两层入口；逐条名录在科／亚科／属页面，科页与属页标题下方内嵌 GBIF 1° 网格分布图，页末附 77 条参考文献的 DOI / GB/T 7714 / APA 7 / Vancouver / BibTeX / RIS / CSL-JSON 增强视图）](https://termite-extant-isoptera.org/list/)
+- [基础知识（形态篇）：品级、头部、胸部与翅足、腹部、兵蚁、内部器官的中文名、拉丁/英文名与识别要点，附检索表常用特征速查与异名对照](https://termite-extant-isoptera.org/basics/morphology/)
 - [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音）](https://termite-extant-isoptera.org/search/)
 - [文献检索（按拉丁名 / 中文名 / 关键词查 OpenAlex + Crossref，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español（中英互译时学名与术语按本站名录/术语表校正），导出 GB/T 7714 / BibTeX / RIS）](https://termite-extant-isoptera.org/papers/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://termite-extant-isoptera.org/stats/)
@@ -23,6 +24,7 @@
 ## Key pages (English)
 - [Home (about + navigation)](https://termite-extant-isoptera.org/en/)
 - [List index (taxonomic framework + browse by family + clade–family entries; the per-genus checklist lives on the family / subfamily / genus pages, whose headings carry inline GBIF 1°-grid distribution maps, and the end of the page carries the enhanced 77-reference view with DOIs, GB/T 7714, APA 7, Vancouver, BibTeX, RIS and CSL-JSON)](https://termite-extant-isoptera.org/en/list/)
+- [Termite basics (morphology): castes, head, thorax with wings and legs, abdomen, soldiers and internal organs, with Chinese, Latin/English names and identification points, plus a quick guide to features used in keys and a synonym table](https://termite-extant-isoptera.org/en/basics/morphology/)
 - [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported)](https://termite-extant-isoptera.org/en/search/)
 - [Literature search (OpenAlex + Crossref by Latin/Chinese name or keyword; synonyms merged; abstracts (machine-translatable into Chinese / English / Spanish; scientific names and terms aligned to this site's checklist/glossary when translating between Chinese and English); GB/T 7714 / BibTeX / RIS export)](https://termite-extant-isoptera.org/en/papers/)
 - [Statistics (species counts by family/subfamily/genus)](https://termite-extant-isoptera.org/en/stats/)
@@ -36,6 +38,7 @@
 ## Páginas principales (Español)
 - [Inicio (presentación + navegación)](https://termite-extant-isoptera.org/es/)
 - [Índice de la lista (marco taxonómico + navegación por familia + entradas clado–familia; el listado por género está en las páginas de familia / subfamilia / género, cuyos títulos llevan su mapa de distribución de GBIF en rejilla de 1°, y al final se incluye la vista enriquecida de las 77 referencias con DOI, GB/T 7714, APA 7, Vancouver, BibTeX, RIS y CSL-JSON)](https://termite-extant-isoptera.org/es/list/)
+- [Fundamentos de los termites (morfología): castas, cabeza, tórax con alas y patas, abdomen, soldados y órganos internos, con nombres chinos y latinos y puntos de identificación, más una guía rápida de los rasgos usados en las claves y una tabla de sinónimos](https://termite-extant-isoptera.org/es/basics/morphology/)
 - [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog)](https://termite-extant-isoptera.org/es/search/)
 - [Búsqueda bibliográfica (OpenAlex + Crossref por nombre latino/chino o palabra clave; sinónimos; resúmenes (traducibles automáticamente al chino / inglés / español; al traducir entre chino e inglés, los nombres y términos se alinean con la lista/glosario del sitio); exportación GB/T 7714 / BibTeX / RIS)](https://termite-extant-isoptera.org/es/papers/)
 - [Estadísticas (número de especies por rango: familia/subfamilia/género)](https://termite-extant-isoptera.org/es/stats/)

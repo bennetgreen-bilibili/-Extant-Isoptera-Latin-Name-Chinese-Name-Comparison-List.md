@@ -217,7 +217,7 @@
   <div class="container nav-inner">
     <a href="{{ site.base_url }}{{ LANGP }}/" class="nav-link{% if path_no_lang == '/' %} active{% endif %}">{{ T.nav_home }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{{ T.nav_list }}</a>
-    <!-- 基础知识导航（nav_basics）2026-11-05 起暂缓发布（审稿中）：三语页面源码在 _pending_pages/basics/，恢复时按该目录 README 粘回 <a> 行。 -->
+    <a href="{{ site.base_url }}{{ LANGP }}/basics/" class="nav-link{% if page.url contains '/basics' %} active{% endif %}">{{ T.nav_basics }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/search/" class="nav-link{% if page.url contains '/search' %} active{% endif %}">{{ T.nav_search }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/papers/" class="nav-link{% if page.url contains '/papers' %} active{% endif %}">{{ T.nav_papers }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{{ T.nav_stats }}</a>
