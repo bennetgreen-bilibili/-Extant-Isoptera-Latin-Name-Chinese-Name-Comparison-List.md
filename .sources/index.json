@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 443,
+    "count": 445,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-14T21:47:39+08:00",
+    "updated": "2026-11-14T21:54:08+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -21907,6 +21907,79 @@
       "accessed": "2026-11-14T21:47:39+08:00",
       "canonical_key": "url:https://www.indexnow.org/documentation",
       "id": "S0444"
+    },
+    {
+      "title": "网站迁移与 GSC 地址变更：跳转及验证清单",
+      "source_type": "web",
+      "reliability": "secondary",
+      "url": "https://aiseosite.com/zh/guides/site-move/",
+      "lang": "zh",
+      "year": 2026,
+      "publisher": "AISEO Site",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "在旧网站的资源里，打开“设置”→“地址更改”，选择新资源并提交。Search Console 会先抽查一部分页面的跳转是否正确，通过后才接受。",
+          "locator": "§换域名时，用“地址更改”工具",
+          "note": "支撑：工具入口路径与提交前的跳转预检行为"
+        },
+        {
+          "quote": "这个工具只能用于域名级别的资源，不能用于目录。",
+          "locator": "§换域名时，用“地址更改”工具",
+          "note": "支撑：带目录路径的属性不能作旧来源——本项目旧站是 github.io 下的项目子目录"
+        },
+        {
+          "quote": "新旧两个网站都要在 Search Console 里验证，并且用同一个 Google 账号、以所有者身份管理；",
+          "locator": "§换域名时，用“地址更改”工具",
+          "note": "支撑：两站同账号 + 所有者权限是前置条件"
+        },
+        {
+          "quote": "Google 的建议是尽可能长，一般至少一年，让各种信号完成转移，其他网站上指向旧网址的链接也继续有效。",
+          "locator": "§跳转要保留多久",
+          "note": "支撑：旧仓库与其 Custom domain 不能删，301 要长期保留"
+        }
+      ],
+      "used_in": [
+        "_reports/域名迁移验收-2026-11-14.md"
+      ],
+      "notes": "二手教程（非 Google 官方）。同一页的迁移类型表把「blog.example.com → example.com/blog/」「http→https」「www 去 www」「同域改路径结构」都列为不必用地址更改工具，与本项目适用的判断一致。Google 官方 9370220 与 developers.google.com 在本网络超时不可达，未能核对原文。",
+      "accessed": "2026-11-14T21:54:08+08:00",
+      "canonical_key": "url:https://aiseosite.com/zh/guides/site-move",
+      "id": "S0445"
+    },
+    {
+      "title": "网站换了域名，GSC地址变更怎样提交？",
+      "source_type": "web",
+      "reliability": "secondary",
+      "url": "https://yaiseo.com/gsc-change-address-new-domain/",
+      "lang": "zh",
+      "year": 2026,
+      "publisher": "跨境YOUNG",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "工具所说“域名层级”，指旧来源没有目录路径。example.com网域资源和根网址前缀资源都可用；example.com/products/这样的目录资源不能作旧来源。",
+          "locator": "§准备同一账号和每个旧主机的去向",
+          "note": "支撑：旧来源必须是域名或根前缀；本项目 github.io/<repo>/ 是目录资源，故工具不可用"
+        },
+        {
+          "quote": "这个账号在两边都要是“所有者”；旧www和其他子域也要分别处理。",
+          "locator": "§开篇摘要",
+          "note": "支撑：权限要求为所有者（Full user 不够）"
+        },
+        {
+          "quote": "旧跳转不要随180天通知一起停掉。Google完整迁移指南建议跳转一般至少保留一年",
+          "locator": "§用同一个产品页观察，并保留旧入口",
+          "note": "支撑：180 天通知窗口与跳转保留期是两件事"
+        }
+      ],
+      "used_in": [
+        "_reports/域名迁移验收-2026-11-14.md"
+      ],
+      "notes": "二手教程。另记：文中提到「整个旧域迁到另一域的目录则可以，例如 example.com 搬到 example.net/archive/」，与「旧来源带目录不行」是两条不同规则，别混。",
+      "accessed": "2026-11-14T21:54:08+08:00",
+      "canonical_key": "url:https://yaiseo.com/gsc-change-address-new-domain",
+      "id": "S0446"
     }
   ]
 }
