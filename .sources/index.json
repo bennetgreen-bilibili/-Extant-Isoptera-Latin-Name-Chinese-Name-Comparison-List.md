@@ -3,7 +3,7 @@
     "version": 1,
     "count": 445,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-14T21:54:08+08:00",
+    "updated": "2026-11-15T02:58:28+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -60,7 +60,7 @@
       "publisher": "科学出版社",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-13T23:35:00+08:00",
+      "accessed": "2026-11-15T02:58:28+08:00",
       "evidence": [
         {
           "quote": "缺少真工蚁的低等白蚁在发育到成虫的过程中，前胸腺经历了相当规律的生长过程",
@@ -206,6 +206,16 @@
           "quote": "倒退性蜕皮是白蚁特有的蜕皮方式，它使白蚁倒退回上一龄期。",
           "locator": "201-400.txt 第 1481 行",
           "note": "支撑：倒退性蜕皮的定义（v5《白蚁基础知识》第一章发育路径段）"
+        },
+        {
+          "quote": "分离出弗氏柠檬酸杆菌Citrobacterfreundii的固氮菌株",
+          "locator": "p. 201-400.txt L517",
+          "note": "支撑：French 等（1976）从达尔文澳白蚁、乳色乳白蚁与破坏象白蚁肠道分离出固氮菌株，用于 mastotermes-darwiniensis / coptotermes-lacteus / nasutitermes-exitiosus 三页"
+        },
+        {
+          "quote": "台湾乳白蚁蚁巢的含水量为30%〜37%,平均含水量为33.3%",
+          "locator": "p. 401-589.txt L519",
+          "note": "支撑：coptotermes-formosanus 蚁巢含水量"
         }
       ],
       "used_in": [
@@ -286,7 +296,7 @@
       "publisher": "中译合集",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-15T02:58:28+08:00",
       "evidence": [
         {
           "quote": "广义的拟工蚁或假工蚁，定义为个体作为一种 功能分类完成工作，而其余的发展灵活。其区分于真工蚁的后期特征是产生了早期的 和不可逆转的发展分支，失去了继续分化为有翅蚁的可能。",
@@ -327,9 +337,30 @@
           "quote": "成熟雄 虫通常在第九腹板的末端具有一对针突(styli)(不分节)，但依据种类不同有所变化。",
           "locator": "001-100.txt 第323行",
           "note": "支撑：针突(styli)=stylus 旧译；据此统一为「刺突」。"
+        },
+        {
+          "quote": "如麻头堆砂白蚁Cryptotermes brevis, Light(1931)认为它起源于中国，但Emerson(1936)认为加勒比海地区为其自然范围。Gay(1969)同意Emerson的观点",
+          "locator": "p. 401-497.txt L908",
+          "note": "支撑：cryptotermes-brevis 原产地之争"
+        },
+        {
+          "quote": "暴露于绿僵菌的独居湿木白蚁个体感病的速率(2〜6d)要显著快于处于类似环境条件下群居的白蚁(10头或25头)。同时，相对于独居的白蚁个体，群居白蚁的致死率下降了90%",
+          "locator": "p. 101-200.txt L722",
+          "note": "支撑：zootermopsis-angusticollis 群体免疫（Rosengaus 等 1998b）"
+        },
+        {
+          "quote": "已经有4个基因通过RNA干扰技术被成功沉默，分别是Hex, 和 Hex-2 (Zhou et al. 2006a, 2006c, 2007b, 2008), Cell-1",
+          "locator": "p. 201-300.txt L53",
+          "note": "支撑：reticulitermes-flavipes RNAi 沉默"
+        },
+        {
+          "quote": "血淋巴蛋白也与保幼激素的作用及白蚁的品级分化有着不可分割的关系",
+          "locator": "p. 201-300.txt L39",
+          "note": "支撑：reticulitermes-flavipes 储存蛋白连接营养与保幼激素信号"
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "_data/translation_glossary.yml",
         "未发布内容/白蚁基础知识-中文稿-修订-v5.docx"
       ],
@@ -461,7 +492,7 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-15T02:58:28+08:00",
       "evidence": [
         {
           "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
@@ -567,11 +598,37 @@
           "quote": "雄虫具单节腹刺，雌虫缺腹刺，尾须2节。",
           "locator": "301-400.txt 第993行",
           "note": "支撑：腹刺=stylus 旧译；据此统一为「刺突」。"
+        },
+        {
+          "quote": "1969年在浙江宁海县力洋区委所在地发现了不知名的木白蚁危害，疑是原房主1937年从香港带回的衣箱中传进的",
+          "locator": "p. 101-200.txt L278",
+          "note": "支撑：incisitermes-minor 中国记录与传入途径"
+        },
+        {
+          "quote": "已扩大达1500m²以上",
+          "locator": "p. 101-200.txt L278",
+          "note": "支撑：incisitermes-minor 1974 年受害面积"
+        },
+        {
+          "quote": "一般是在气温达到20℃,相对湿度达到80%以上，气压在746—753mmHg",
+          "locator": "p. 001-100.txt L420",
+          "note": "支撑：odontotermes-formosanus 分飞条件"
+        },
+        {
+          "quote": "台湾乳白蚁一个成熟群体，一年可产生20000多个有翅成虫(李桂祥等1995)",
+          "locator": "p. 001-100.txt L417",
+          "note": "支撑：coptotermes-formosanus 成熟群体年产有翅成虫数"
+        },
+        {
+          "quote": "一年可产生2000到9000个有翅成虫",
+          "locator": "p. 001-100.txt L417",
+          "note": "支撑：odontotermes-formosanus 成熟群体年产有翅成虫数"
         }
       ],
       "used_in": [
         "_data/fauna_genera.json",
         "_data/morphology_genera.json",
+        "_data/taxon_literature.json",
         "_data/translation_glossary.yml",
         "_tools/fauna/morphology/descriptions/06-holmgren.json",
         "未发布内容/白蚁基础知识-中文稿-修订-v5.docx"
@@ -740,7 +797,7 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-15T02:58:28+08:00",
       "evidence": [
         {
           "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
@@ -831,12 +888,28 @@
           "quote": "Synacanthotermes angolensis Weidner, 1956b: 68–72 (imago, soldier), figs. 10B, C, 11.\n\n         Type data: Holotype: RGMC No. 3657 imago. Paratypes: ZMH soldiers, workers, AMNH\n             soldiers, workers, NCIP soldier.\n\n         Type locality: Angola: Dundo [07°24′S, 20°47′E].\n\n         — Weidner, 1961: 18 • Synacanthotermes angolensis; synonymized with trilobatus.",
           "locator": "1201-1400.txt 第 6815–6822 行",
           "note": "支撑：Synacanthotermes angolensis 原始描述记 (imago, soldier)、正模为 imago，1961 被 Weidner 并入 trilobatus——Synacanthotermes 有翅成虫现已记载。据此更正 morphology 侧「有翅成虫至今未知」"
+        },
+        {
+          "quote": "Termes brevis Walker, 1853: 524 (imago).",
+          "locator": "p. 0201-0400.txt L9473",
+          "note": "支撑：cryptotermes-brevis 基名"
+        },
+        {
+          "quote": "Type locality: Jamaica.",
+          "locator": "p. 0201-0400.txt L9477",
+          "note": "支撑：cryptotermes-brevis 模式产地牙买加"
+        },
+        {
+          "quote": "Termes australis Walker, 1853: 525–526 (imago) [name supressed by ICZN Opinion 1310]",
+          "locator": "p. 1601-1800.txt L6711",
+          "note": "支撑：nasutitermes-exitiosus 种名经 ICZN 第 1310 号意见保留（其余基名与模式产地见 locator 记录）"
         }
       ],
       "used_in": [
         "_data/fauna_genera.json",
         "_data/genus_sources.json",
         "_data/morphology_genera.json",
+        "_data/taxon_literature.json",
         "_includes/genus-morphology.html",
         "_reports/genus-morphology-worklist.csv",
         "_reports/genus-morphology-worklist.md",
@@ -8047,7 +8120,7 @@
       "file_path": "_unpublished/文库/The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis",
       "chars": 69841,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-09T21:27:41+08:00",
+      "accessed": "2026-11-15T02:58:28+08:00",
       "notes": "全文存于 _unpublished/文库/The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis（69841 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis",
@@ -8078,8 +8151,16 @@
       "license": "cc-by",
       "doi": "10.1038/srep37110",
       "url": "https://www.nature.com/articles/srep37110.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We found exceptionally high levels of DNA methylation in termites (Figs 1 and S1). Over 12% of genomic CpGs and 58% of exonic CpGs were methylated when considering data pooled across all samples (Table S4). The average methylation fraction (percentage of methylation) across all exonic CpGs was 44.1%",
+          "locator": "p. full.txt L14",
+          "note": "支撑：zootermopsis-nevadensis 甲基化比例（12% / 58% / 44.1%）"
+        }
+      ],
       "id": "S0134"
     },
     {
@@ -18885,7 +18966,7 @@
       "file_path": "_unpublished/文库/Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino",
       "chars": 97932,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-11T22:45:03+08:00",
+      "accessed": "2026-11-15T02:58:28+08:00",
       "notes": "全文存于 _unpublished/文库/Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino（10 页，97932 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino",
@@ -18914,8 +18995,26 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1603/008.102.0413",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The intraspeciÞc variation of C. formosanus was 0.7Ð0.8% for three genes among seven Taiwanese populations, whereas all Taiwanese C. gestroi populations had identical sequences.",
+          "locator": "p. 0001-0010.txt L18–19",
+          "note": "支撑：coptotermes-formosanus 0.7%–0.8% 种内变异 / coptotermes-gestroi 序列完全一致"
+        },
+        {
+          "quote": "The results support that Taiwan may be a center of origin for C. formosanus, but a recent introduction site for C. gestroi.",
+          "locator": "p. 0001-0010.txt L20–21",
+          "note": "支撑：coptotermes-gestroi 台湾为近期传入地"
+        },
+        {
+          "quote": "Taiwan is the type locality of C. formosanus (Shiraki",
+          "locator": "p. 0001-0010.txt L41（双栏错位，原文 1909 在此行行末断开）",
+          "note": "支撑：coptotermes-formosanus 模式产地台湾（Shiraki, 1909）"
+        }
+      ],
       "id": "S0372"
     },
     {

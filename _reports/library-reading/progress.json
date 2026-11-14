@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-14T21:23:22+08:00",
+ "updated": "2026-11-15T02:58:40+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -10,12 +10,17 @@
  },
  "units": {
   "白蚁学::001-200": {
-   "reads": 1,
-   "last_read": "2026-11-11T01:39:12+08:00",
+   "reads": 2,
+   "last_read": "2026-11-15T02:58:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
      "focus": "taxonomy",
+     "source_id": "S0001"
+    },
+    {
+     "date": "2026-11-15",
+     "focus": "morphology",
      "source_id": "S0001"
     }
    ]
@@ -32,12 +37,17 @@
    ]
   },
   "中国动物志-昆虫纲-第十七卷-等翅目::001-100": {
-   "reads": 1,
-   "last_read": "2026-11-11T01:39:12+08:00",
+   "reads": 2,
+   "last_read": "2026-11-15T02:58:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
      "focus": "taxonomy",
+     "source_id": "S0003"
+    },
+    {
+     "date": "2026-11-15",
+     "focus": "morphology",
      "source_id": "S0003"
     }
    ]
@@ -420,8 +430,8 @@
    ]
   },
   "abstract:S0137": {
-   "reads": 2,
-   "last_read": "2026-11-13T00:08:06+08:00",
+   "reads": 3,
+   "last_read": "2026-11-15T02:58:40+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -431,6 +441,11 @@
     {
      "date": "2026-11-12-r2",
      "focus": "morphology",
+     "source_id": "S0137"
+    },
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
      "source_id": "S0137"
     }
    ]
@@ -665,8 +680,8 @@
    ]
   },
   "abstract:S0144": {
-   "reads": 2,
-   "last_read": "2026-11-14T20:00:56+08:00",
+   "reads": 3,
+   "last_read": "2026-11-15T02:58:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -676,6 +691,11 @@
     {
      "date": "2026-11-13",
      "focus": "morphology",
+     "source_id": "S0144"
+    },
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
      "source_id": "S0144"
     }
    ]
@@ -974,11 +994,16 @@
    ]
   },
   "abstract:S0155": {
-   "reads": 1,
-   "last_read": "2026-11-12T20:15:41+08:00",
+   "reads": 2,
+   "last_read": "2026-11-15T02:58:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0155"
+    },
+    {
+     "date": "2026-11-15",
      "focus": "taxonomy",
      "source_id": "S0155"
     }
@@ -1150,11 +1175,16 @@
    ]
   },
   "abstract:S0196": {
-   "reads": 1,
-   "last_read": "2026-11-12T20:40:14+08:00",
+   "reads": 2,
+   "last_read": "2026-11-15T02:58:40+08:00",
    "history": [
     {
      "date": "2026-11-12",
+     "focus": "taxonomy",
+     "source_id": "S0196"
+    },
+    {
+     "date": "2026-11-15",
      "focus": "taxonomy",
      "source_id": "S0196"
     }
@@ -1652,6 +1682,160 @@
      "date": "2026-11-14",
      "focus": "taxonomy",
      "source_id": "S0242"
+    }
+   ]
+  },
+  "Treatise-on-the-Isoptera::0201-0400": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0004"
+    }
+   ]
+  },
+  "Treatise-on-the-Isoptera::0401-0600": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0004"
+    }
+   ]
+  },
+  "Treatise-on-the-Isoptera::0801-1000": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0004"
+    }
+   ]
+  },
+  "Treatise-on-the-Isoptera::1001-1200": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0004"
+    }
+   ]
+  },
+  "Treatise-on-the-Isoptera::1601-1800": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0004"
+    }
+   ]
+  },
+  "白蚁学::201-400": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0001"
+    }
+   ]
+  },
+  "白蚁学::401-589": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0001"
+    }
+   ]
+  },
+  "白蚁生物学现代研究合集::101-200": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0002"
+    }
+   ]
+  },
+  "白蚁生物学现代研究合集::201-300": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0002"
+    }
+   ]
+  },
+  "白蚁生物学现代研究合集::401-497": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0002"
+    }
+   ]
+  },
+  "中国动物志-昆虫纲-第十七卷-等翅目::101-200": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0003"
+    }
+   ]
+  },
+  "Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino::0001-0010": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0372"
+    }
+   ]
+  },
+  "The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis::full": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0134"
+    }
+   ]
+  },
+  "abstract:S0166": {
+   "reads": 1,
+   "last_read": "2026-11-15T02:58:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-15",
+     "focus": "taxonomy",
+     "source_id": "S0166"
     }
    ]
   }

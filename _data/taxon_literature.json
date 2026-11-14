@@ -30,26 +30,23 @@
         ]
       }
     },
-    "updated": "2026-11-14",
+    "updated": "2026-11-15",
     "last_batch": {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "round": "r1",
-      "pages": 161,
-      "batch_pages": 15,
+      "pages": 167,
+      "batch_pages": 12,
       "units": 20,
       "chunks": 15,
       "abstracts": 5,
       "sources": [
-        "S0228",
-        "S0231",
-        "S0233",
-        "S0234",
-        "S0236",
-        "S0237",
-        "S0239",
-        "S0240",
-        "S0241",
-        "S0242"
+        "S0001",
+        "S0002",
+        "S0003",
+        "S0004",
+        "S0134",
+        "S0196",
+        "S0372"
       ]
     },
     "languages": [
@@ -1098,7 +1095,7 @@
     ]
   },
   "/species/reticulitermes-flavipes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-15",
     "sections": [
       {
         "heading": "2005 年基于 16S rRNA 的异名处理",
@@ -1114,6 +1111,37 @@
         ],
         "heading_en": "2005 synonymy based on 16S rRNA",
         "heading_es": "Sinonimia de 2005 basada en el ARN ribosomal 16S"
+      },
+      {
+        "heading": "基名、模式产地与品级分化的分子基础",
+        "heading_en": "Basionym, type locality and the molecular basis of caste differentiation",
+        "heading_es": "Basónimo, localidad tipo y base molecular de la diferenciación de castas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0004"
+            ],
+            "text": "《白蚁论》记录北美散白蚁（<i>Reticulitermes flavipes</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes flavipes</i> Kollar, 1837，合模标本（MCZ No. 10110）为有翅成虫，模式产地记为奥地利维也纳美泉宫（Schönbrunn）。",
+            "text_en": "The Treatise records the basionym of <i>Reticulitermes flavipes</i> as the old combination <i>Termes flavipes</i> Kollar, 1837, with syntype alates (MCZ No. 10110) and Schönbrunn, Vienna, Austria, as the type locality.",
+            "text_es": "El Treatise registra el basónimo de <i>Reticulitermes flavipes</i> como la combinación antigua <i>Termes flavipes</i> Kollar, 1837, con sintipos alados (MCZ n.º 10110) y Schönbrunn, Viena, Austria, como localidad tipo."
+          },
+          {
+            "src": [
+              "S0002"
+            ],
+            "text": "根据 Scharf 等（2005a）研究，保幼激素处理会改变北美散白蚁（<i>Reticulitermes flavipes</i>）中 hexamerin1、hexamerin2 与 vitellogenin2 等基因的表达，目前已有 4 个基因通过 RNA 干扰被成功沉默，包括 Hex-1、Hex-2 与 Cell-1（Zhou 等 2006a、2006c、2007b、2008）。",
+            "text_en": "According to Scharf et al. (2005a), juvenile hormone treatment alters the expression of genes such as hexamerin1, hexamerin2 and vitellogenin2 in <i>Reticulitermes flavipes</i>, and four genes have so far been silenced by RNA interference, including Hex-1, Hex-2 and Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008).",
+            "text_es": "Según Scharf et al. (2005a), el tratamiento con hormona juvenil altera la expresión de genes como hexamerin1, hexamerin2 y vitellogenin2 en <i>Reticulitermes flavipes</i>, y hasta la fecha se han silenciado cuatro genes mediante interferencia de ARN, entre ellos Hex-1, Hex-2 y Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008)."
+          },
+          {
+            "src": [
+              "S0002"
+            ],
+            "text": "据《白蚁生物学现代研究合集》记载，北美散白蚁（<i>Reticulitermes flavipes</i>）的储存蛋白充当连接营养信号与保幼激素信号的角色，从而把食物条件与品级分化联系起来。",
+            "text_en": "The storage proteins of <i>Reticulitermes flavipes</i> have been shown to link nutritional signals with juvenile hormone signals, connecting food conditions to caste differentiation.",
+            "text_es": "Se ha demostrado que las proteínas de almacenamiento de <i>Reticulitermes flavipes</i> enlazan las señales nutricionales con las de la hormona juvenil, vinculando las condiciones alimentarias con la diferenciación de castas."
+          }
+        ]
       }
     ],
     "references": [
@@ -1121,6 +1149,14 @@
         "id": "S0144",
         "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
         "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
+      },
+      {
+        "id": "S0002",
+        "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
+      },
+      {
+        "id": "S0004",
+        "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
       }
     ]
   },
@@ -1179,7 +1215,7 @@
     ]
   },
   "/species/odontotermes-formosanus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-15",
     "sections": [
       {
         "heading": "台湾巢内的炭角菌多样性",
@@ -1195,6 +1231,45 @@
         ],
         "heading_en": "Xylaria diversity in nests in Taiwan",
         "heading_es": "Diversidad de Xylaria en nidos de Taiwán"
+      },
+      {
+        "heading": "品级比例、分飞、巢温与基名",
+        "heading_en": "Caste ratios, swarming, nest temperature and the basionym",
+        "heading_es": "Proporción de castas, enjambrazón, temperatura del nido y basónimo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0003"
+            ],
+            "text": "根据蔡邦华等（1964）研究，在湖北荆州解剖的黑翅土白蚁（<i>Odontotermes formosanus</i>）巢群中，大巢群 432 822 头个体里兵蚁占 18.0%，中巢群 131 162 头中占 0.3%，小巢群 699 头中占 0.8%；陈馎尧（1981）在安徽的调查记录工蚁占 87.27%–94.44%、兵蚁占 5.56%–12.73%。",
+            "text_en": "According to Cai et al. (1964), among colonies of <i>Odontotermes formosanus</i> dissected in Jingzhou, Hubei, soldiers made up 18.0% of 432 822 individuals in large colonies, 0.3% of 131 162 in medium colonies and 0.8% of 699 in small colonies; Chen (1981) recorded 87.27%–94.44% workers and 5.56%–12.73% soldiers in Anhui.",
+            "text_es": "Según Cai et al. (1964), en las colonias de <i>Odontotermes formosanus</i> diseccionadas en Jingzhou, Hubei, los soldados constituían el 18,0% de 432 822 individuos en colonias grandes, el 0,3% de 131 162 en medianas y el 0,8% de 699 en pequeñas; Chen (1981) registró 87,27%–94,44% de obreras y 5,56%–12,73% de soldados en Anhui."
+          },
+          {
+            "src": [
+              "S0003"
+            ],
+            "text": "据《中国动物志·昆虫纲·第十七卷·等翅目》记载，一个成熟的黑翅土白蚁（<i>Odontotermes formosanus</i>）群体一年可产生 2 000–9 000 头有翅成虫；其分飞发生在气温达 20 ℃、相对湿度 80% 以上、气压 746–753 mmHg 的落雨傍晚，广东多在 4–6 月、湖北多在 4 月中旬至 5 月中旬。",
+            "text_en": "A mature colony of <i>Odontotermes formosanus</i> produces 2 000–9 000 alates a year; swarming takes place on rainy evenings when temperature reaches 20 °C, relative humidity exceeds 80% and pressure is 746–753 mmHg, mostly in April–June in Guangdong and from mid-April to mid-May in Hubei.",
+            "text_es": "Una colonia madura de <i>Odontotermes formosanus</i> produce 2 000–9 000 aladas al año; la enjambrazón ocurre en tardes lluviosas con temperatura de 20 °C, humedad relativa superior al 80% y presión de 746–753 mmHg, sobre todo entre abril y junio en Guangdong y de mediados de abril a mediados de mayo en Hubei."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "据《白蚁学》（程冬保、杨兆芬，2014）记载，黑翅土白蚁（<i>Odontotermes formosanus</i>）主巢通常维持 24–26 ℃，冬季周围土温降至 9–16 ℃时巢温不低于 20 ℃，夏季土温超过 40 ℃时巢温一般不超过 28 ℃，主巢位于地表下 1–2 m。",
+            "text_en": "According to Cheng and Yang (2014), the main nest of <i>Odontotermes formosanus</i> is usually kept at 24–26 °C; when surrounding soil falls to 9–16 °C in winter the nest stays above 20 °C, and when soil exceeds 40 °C in summer the nest generally stays below 28 °C, the main nest lying 1–2 m below the surface.",
+            "text_es": "Según Cheng y Yang (2014), el nido principal de <i>Odontotermes formosanus</i> se mantiene por lo general a 24–26 °C; cuando el suelo circundante baja a 9–16 °C en invierno el nido no baja de 20 °C, y cuando el suelo supera los 40 °C en verano el nido no suele pasar de 28 °C, situándose el nido principal a 1–2 m de profundidad."
+          },
+          {
+            "src": [
+              "S0004"
+            ],
+            "text": "《白蚁论》记录黑翅土白蚁（<i>Odontotermes formosanus</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes formosana</i> Shiraki, 1909，合模标本为有翅成虫、存放地不明，模式产地为台湾。",
+            "text_en": "The Treatise records the basionym of <i>Odontotermes formosanus</i> as the old combination <i>Termes formosana</i> Shiraki, 1909, based on syntype alates of unknown whereabouts from Taiwan.",
+            "text_es": "El Treatise registra el basónimo de <i>Odontotermes formosanus</i> como la combinación antigua <i>Termes formosana</i> Shiraki, 1909, basada en sintipos alados de paradero desconocido procedentes de Taiwán."
+          }
+        ]
       }
     ],
     "references": [
@@ -1202,6 +1277,18 @@
         "id": "S0166",
         "citation": "Ju, Y.-M.; Hsieh, H.-M. 2007. Xylaria species associated with nests of Odontotermes formosanus in Taiwan. Mycologia 99(6).",
         "doi": "10.3852/mycologia.99.6.936"
+      },
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0003",
+        "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+      },
+      {
+        "id": "S0004",
+        "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
       }
     ]
   },
@@ -1359,7 +1446,7 @@
     ]
   },
   "/species/coptotermes-gestroi/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-15",
     "sections": [
       {
         "heading": "乳白蚁属旧名 Coptotermes vastator 的异名化",
@@ -1375,6 +1462,37 @@
         ],
         "heading_en": "Synonymisation of the old Coptotermes name Coptotermes vastator",
         "heading_es": "Sinonimización de Coptotermes vastator"
+      },
+      {
+        "heading": "台湾种群的来源、群体融合与湿度耐受",
+        "heading_en": "Origin of the Taiwanese populations, colony fusion and humidity tolerance",
+        "heading_es": "Origen de las poblaciones taiwanesas, fusión de colonias y tolerancia a la humedad",
+        "paragraphs": [
+          {
+            "src": [
+              "S0372"
+            ],
+            "text": "根据 Li 等（2009）研究，台湾格斯特乳白蚁（<i>Coptotermes gestroi</i>）种群的线粒体 COII、12S rRNA 与 16S rRNA 序列完全一致，且与菲律宾和夏威夷种群最接近，而非泰国、马来西亚、新加坡与印度尼西亚种群；作者据此认为台湾是该种的近期传入地。",
+            "text_en": "According to Li et al. (2009), all Taiwanese populations of <i>Coptotermes gestroi</i> shared identical mitochondrial COII, 12S rRNA and 16S rRNA sequences and were closest to populations from the Philippines and Hawaii rather than those from Thailand, Malaysia, Singapore and Indonesia; the authors therefore regarded Taiwan as a recent introduction site for the species.",
+            "text_es": "Según Li et al. (2009), todas las poblaciones taiwanesas de <i>Coptotermes gestroi</i> compartían secuencias mitocondriales COII, 12S rRNA y 16S rRNA idénticas y eran más próximas a las de Filipinas y Hawái que a las de Tailandia, Malasia, Singapur e Indonesia; los autores consideraron por ello que Taiwán es un sitio de introducción reciente de la especie."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 Guaraldo 与 Costa-Leonardo（2009）研究，将 10 个各含 1 头蚁王和 1 头蚁后的幼年格斯特乳白蚁（<i>Coptotermes gestroi</i>）群体两两融合为 5 组，15 天后每组只保留 1 头蚁王（另 1 头死亡），10 头蚁后有 9 头存活，融合过程未发生激烈打斗。",
+            "text_en": "According to Guaraldo and Costa-Leonardo (2009), ten young colonies of <i>Coptotermes gestroi</i>, each with one king and one queen, were paired into five fusion groups; after 15 days each group retained a single king (the other having died) and 9 of the 10 queens survived, with no intense fighting during fusion.",
+            "text_es": "Según Guaraldo y Costa-Leonardo (2009), se emparejaron diez colonias jóvenes de <i>Coptotermes gestroi</i>, cada una con un rey y una reina, en cinco grupos de fusión; tras 15 días cada grupo conservaba un solo rey (el otro había muerto) y sobrevivieron 9 de las 10 reinas, sin combates intensos durante la fusión."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 Kulis 等（2008）研究，格斯特乳白蚁（<i>Coptotermes gestroi</i>）在相对湿度低于 90% 时取食活动下降，相对湿度 84% 时存活受到影响。",
+            "text_en": "According to Kulis et al. (2008), feeding activity of <i>Coptotermes gestroi</i> declines below 90% relative humidity and that survival is affected at 84% relative humidity.",
+            "text_es": "Según Kulis et al. (2008), la actividad de alimentación de <i>Coptotermes gestroi</i> disminuye por debajo del 90% de humedad relativa y que la supervivencia se ve afectada al 84% de humedad relativa."
+          }
+        ]
       }
     ],
     "references": [
@@ -1382,6 +1500,15 @@
         "id": "S0180",
         "citation": "Yeap, B.-K. et al. 2007. Genetic relationship between Coptotermes gestroi and Coptotermes vastator (Isoptera: Rhinotermitidae). Journal of Economic Entomology 100(2).",
         "doi": "10.1093/jee/100.2.467"
+      },
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0372",
+        "citation": "Li H.-F.; Ye W.; Su N.-Y.; Kanzaki N. 2009. Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan. Annals of the Entomological Society of America 102(4): 684–693.",
+        "doi": "10.1603/008.102.0413"
       }
     ]
   },
@@ -1440,7 +1567,7 @@
     ]
   },
   "/species/mastotermes-darwiniensis/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-15",
     "sections": [
       {
         "heading": "多鞭毛精子的超微结构",
@@ -1456,6 +1583,21 @@
         ],
         "heading_en": "Ultrastructure of the multiflagellate spermatozoon",
         "heading_es": "Ultraestructura del espermatozoide multiflagelado"
+      },
+      {
+        "heading": "肠道固氮菌",
+        "heading_en": "Gut nitrogen-fixing bacteria",
+        "heading_es": "Bacterias fijadoras de nitrógeno del intestino",
+        "paragraphs": [
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 French 等（1976）研究，从达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）的肠道中分离出弗氏柠檬酸杆菌（<i>Citrobacter freundii</i>）的固氮菌株。",
+            "text_en": "According to French et al. (1976), nitrogen-fixing strains of <i>Citrobacter freundii</i> were isolated from the gut of <i>Mastotermes darwiniensis</i>.",
+            "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Mastotermes darwiniensis</i>."
+          }
+        ]
       }
     ],
     "references": [
@@ -1463,6 +1605,10 @@
         "id": "S0175",
         "citation": "Baccetti, B.; Dallai, R. 1978. The spermatozoon of arthropoda. XXX. The multiflagellate spermatozoon in the termite Mastotermes darwiniensis. Journal of Cell Biology 76(3).",
         "doi": "10.1083/jcb.76.3.569"
+      },
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
       }
     ]
   },
@@ -3404,7 +3550,7 @@
     ]
   },
   "/species/cryptotermes-brevis/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-15",
     "sections": [
       {
         "heading": "分类沿革",
@@ -3420,6 +3566,37 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "基名、原产地争议与趋光性",
+        "heading_en": "Basionym, disputed origin and phototaxis",
+        "heading_es": "Basónimo, origen discutido y fototaxis",
+        "paragraphs": [
+          {
+            "src": [
+              "S0004"
+            ],
+            "text": "《白蚁论》记录麻头堆砂白蚁（<i>Cryptotermes brevis</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes brevis</i> Walker, 1853，选模为英国自然历史博物馆（BMNH）的有翅成虫，模式产地为牙买加。",
+            "text_en": "The Treatise records the basionym of <i>Cryptotermes brevis</i> as the old combination <i>Termes brevis</i> Walker, 1853, with a lectotype alate in the Natural History Museum, London (BMNH), and Jamaica as the type locality.",
+            "text_es": "El Treatise registra el basónimo de <i>Cryptotermes brevis</i> como la combinación antigua <i>Termes brevis</i> Walker, 1853, con un lectotipo alado en el Museo de Historia Natural de Londres (BMNH) y Jamaica como localidad tipo."
+          },
+          {
+            "src": [
+              "S0002"
+            ],
+            "text": "据《白蚁生物学现代研究合集》记载，关于麻头堆砂白蚁（<i>Cryptotermes brevis</i>）的原产地，Light（1931）认为它起源于中国，Emerson（1936）则认为加勒比海地区是其自然分布范围，Gay（1969）同意后者的看法。",
+            "text_en": "According to the Chinese edition of <i>Biology of Termites: A Modern Synthesis</i>, on the origin of <i>Cryptotermes brevis</i>, Light (1931) argued for China, whereas Emerson (1936) placed its natural range in the Caribbean, a view followed by Gay (1969).",
+            "text_es": "Según la edición china de <i>Biology of Termites: A Modern Synthesis</i>, sobre el origen de <i>Cryptotermes brevis</i>, Light (1931) defendió China, mientras que Emerson (1936) situó su área natural en el Caribe, opinión seguida por Gay (1969)."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 Ferreira 与 Scheffrahn（2011）研究，麻头堆砂白蚁（<i>Cryptotermes brevis</i>）有翅成虫趋向高光强处飞，脱翅成虫则偏好黑暗的栖息地筑巢。",
+            "text_en": "According to Ferreira and Scheffrahn (2011), alates of <i>Cryptotermes brevis</i> fly towards high light intensities, whereas dealates prefer dark sites for nesting.",
+            "text_es": "Según Ferreira y Scheffrahn (2011), las aladas de <i>Cryptotermes brevis</i> vuelan hacia intensidades luminosas altas, mientras que las dealadas prefieren sitios oscuros para nidificar."
+          }
+        ]
       }
     ],
     "references": [
@@ -3427,6 +3604,18 @@
         "id": "S0187",
         "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
         "doi": "10.1071/ajzs088"
+      },
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0002",
+        "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
+      },
+      {
+        "id": "S0004",
+        "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
       }
     ]
   },
@@ -4302,7 +4491,7 @@
     ]
   },
   "/species/coptotermes-formosanus/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-15",
     "sections": [
       {
         "heading": "区域诱饵防治的密度与成本",
@@ -4318,6 +4507,46 @@
             "text_es": "Según el resumen, Lin et al. (2026) llevaron a cabo un programa de cebos de dos años en el Parque Científico de Taiwán Central (466 ha) y el Parque Científico de Hsinchu (777 ha), monitorearon mensualmente la actividad de las colonias de <i>Coptotermes formosanus</i> con una matriz de estacas de madera espaciadas 5 m y cebaron cada colonia con una sola estación subterránea; se eliminaron 11 colonias, con un tiempo medio de eliminación de 1.82 ± 1.25 meses y un consumo de cebo de 164.3 ± 68.6 g (aproximadamente un tubo de cebo) por colonia; la simulación de espaciamientos de estaciones de 6 a 16 m mostró que las colonias podían eliminarse con espaciamientos de ≤8 m en el parque de Taiwán Central y de ≤12 m en Hsinchu, con costos anuales mínimos de unos 13.59 y 14.83 millones de NTD, respectivamente."
           }
         ]
+      },
+      {
+        "heading": "肠道原生生物、复眼与台湾种群",
+        "heading_en": "Gut protists, compound eyes and the Taiwanese populations",
+        "heading_es": "Protozoos intestinales, ojos compuestos y las poblaciones de Taiwán",
+        "paragraphs": [
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据谢磊等（2011）研究，上海台湾乳白蚁（<i>Coptotermes formosanus</i>）工蚁每头肠道平均含伪披发虫（<i>Pseudotrichonympha grassii</i>）780±179 头、全鞭毛虫 1630±391 头和旋披发虫 2950±1003 头；三种原生生物在肠道内分布不同，体积最大、数量最少的伪披发虫（<i>Pseudotrichonympha grassii</i>）位于后肠盲囊，体积最小的旋披发虫位于结肠和直肠。",
+            "text_en": "According to Xie et al. (2011), each worker of the Formosan subterranean termite <i>Coptotermes formosanus</i> from Shanghai harboured on average 780±179 <i>Pseudotrichonympha grassii</i>, 1630±391 holotrichs and 2950±1003 spirotrichs in its gut; the three protists occupy different regions, with the largest and least numerous <i>Pseudotrichonympha grassii</i> in the hindgut paunch and the smallest spirotrichs in the colon and rectum.",
+            "text_es": "Según Xie et al. (2011), cada obrera de la termita subterránea de Formosa <i>Coptotermes formosanus</i> de Shanghái albergaba por término medio 780±179 <i>Pseudotrichonympha grassii</i>, 1630±391 holotricos y 2950±1003 espirotricos en el intestino; los tres protozoos ocupan regiones distintas, con el mayor y menos numeroso <i>Pseudotrichonympha grassii</i> en el ciego posterior y los espirotricos más pequeños en el colon y el recto."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据张琳等（2005）研究，台湾乳白蚁（<i>Coptotermes formosanus</i>）有翅成虫每个复眼小眼数为 300–400 个，雌性复眼直径 429±21 μm、雄性 360±35 μm；张琳等（2001）的分飞期灯光试验显示，蓝光（367–583 nm）与绿光（525–648 nm）诱集到的个体显著多于红光（600–733 nm），三种路灯中以复金属灯（金属卤化物灯）诱集最多、水银灯次之，加装防紫外线滤膜后二者诱集量均显著下降。",
+            "text_en": "According to Zhang et al. (2005), alates of <i>Coptotermes formosanus</i> have 300–400 ommatidia per compound eye, with eye diameters of 429±21 μm in females and 360±35 μm in males; the flight-season light-trapping tests of Zhang et al. (2001) showed that blue light (367–583 nm) and green light (525–648 nm) attracted significantly more individuals than red light (600–733 nm), and that among three street lamps metal-halide lamps attracted the most and mercury lamps the second most, both dropping significantly when a UV-blocking filter was fitted.",
+            "text_es": "Según Zhang et al. (2005), las aladas de <i>Coptotermes formosanus</i> tienen 300–400 omatidios por ojo compuesto, con diámetros oculares de 429±21 μm en hembras y 360±35 μm en machos; los ensayos de trampas luminosas de Zhang et al. (2001) mostraron que la luz azul (367–583 nm) y la verde (525–648 nm) atrajeron significativamente más individuos que la roja (600–733 nm), y que entre tres lámparas de alumbrado público las de haluro metálico atrajeron más y las de mercurio en segundo lugar, reduciéndose ambas de forma significativa al añadir un filtro bloqueador de ultravioleta."
+          },
+          {
+            "src": [
+              "S0001",
+              "S0003"
+            ],
+            "text": "据《白蚁学》（程冬保、杨兆芬，2014）记载，台湾乳白蚁（<i>Coptotermes formosanus</i>）蚁巢含水量为 30%–37%，平均 33.3%；据《中国动物志·昆虫纲·第十七卷·等翅目》记载，一个成熟群体一年可产生 20 000 头以上有翅成虫。",
+            "text_en": "According to Cheng and Yang (2014), nests of <i>Coptotermes formosanus</i> hold 30%–37% water, averaging 33.3%; according to the Fauna Sinica volume on Isoptera, a mature colony can produce more than 20 000 alates in a year.",
+            "text_es": "Según Cheng y Yang (2014), los nidos de <i>Coptotermes formosanus</i> contienen entre 30% y 37% de agua, con una media de 33,3%; según el volumen de Fauna Sinica sobre Isoptera, una colonia madura puede producir más de 20 000 aladas al año."
+          },
+          {
+            "src": [
+              "S0372"
+            ],
+            "text": "根据 Li 等（2009）研究，台湾是台湾乳白蚁（<i>Coptotermes formosanus</i>）的模式产地，台湾种群与日本及部分中国种群的线粒体 COII、12S rRNA 与 16S rRNA 序列最接近，7 个台湾种群在三个基因上的种内变异为 0.7%–0.8%。",
+            "text_en": "According to Li et al. (2009), Taiwan is the type locality of <i>Coptotermes formosanus</i>; the Taiwanese populations are closest to Japanese and some Chinese populations in mitochondrial COII, 12S rRNA and 16S rRNA sequences, and intraspecific variation among seven Taiwanese populations was 0.7%–0.8% across the three genes.",
+            "text_es": "Según Li et al. (2009), Taiwán es la localidad tipo de <i>Coptotermes formosanus</i>; las poblaciones taiwanesas son las más próximas a las de Japón y a algunas de China en las secuencias mitocondriales COII, 12S rRNA y 16S rRNA, y la variación intraespecífica entre siete poblaciones taiwanesas fue del 0,7%–0,8% en los tres genes."
+          }
+        ]
       }
     ],
     "references": [
@@ -4325,6 +4554,19 @@
         "id": "S0442",
         "citation": "Lin, W.-J.; Chen, N.; Chen, G.-Y.; Lai, Y.-Y.; Huang, C.-H.; Li, H.-F. 2026. Area-wide evaluation of bait density and cost-effectiveness in the elimination of the Formosan subterranean termite. Journal of Economic Entomology.",
         "doi": "10.1093/jee/toag316"
+      },
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0003",
+        "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+      },
+      {
+        "id": "S0372",
+        "citation": "Li H.-F.; Ye W.; Su N.-Y.; Kanzaki N. 2009. Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan. Annals of the Entomological Society of America 102(4): 684–693.",
+        "doi": "10.1603/008.102.0413"
       }
     ]
   },
@@ -5243,6 +5485,216 @@
         "id": "S0239",
         "citation": "Klass, K.-D.; Thorne, B. L.; Lenz, M. 2000. The male postabdomen of Stolotermes inopinus: a termite with unusually well-developed external genitalia (Dictyoptera: Isoptera: Stolotermitinae). Acta Zoologica.",
         "doi": "10.1046/j.1463-6395.2000.00045.x"
+      }
+    ]
+  },
+  "/species/incisitermes-minor/": {
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "北美西部的扩散与中国的最早记录",
+        "heading_en": "Spread in western North America and the first Chinese record",
+        "heading_es": "Expansión en el oeste de Norteamérica y el primer registro chino",
+        "paragraphs": [
+          {
+            "src": [
+              "S0003"
+            ],
+            "text": "据《中国动物志·昆虫纲·第十七卷·等翅目》记载，小楹白蚁（<i>Incisitermes minor</i>）在美国通称西部干木白蚁（western drywood termite），是加州南部西海岸的常见种，逐步扩散至墨西哥北部与亚利桑那州；20 世纪 50 年代后随家具、木箱与葡萄箱由西向东迅速传播。",
+            "text_en": "According to the Fauna Sinica volume on Isoptera, in the United States <i>Incisitermes minor</i> is known as the western drywood termite and is common along the southern California coast, spreading gradually to northern Mexico and Arizona; after the 1950s it spread rapidly from west to east in furniture, wooden crates and grape boxes.",
+            "text_es": "Según el volumen de Fauna Sinica sobre Isoptera, en Estados Unidos <i>Incisitermes minor</i> se conoce como la termita de la madera seca occidental y es común en la costa del sur de California, extendiéndose gradualmente al norte de México y Arizona; después de los años cincuenta se propagó rápidamente de oeste a este en muebles, cajas de madera y cajas de uva."
+          },
+          {
+            "src": [
+              "S0003"
+            ],
+            "text": "据《中国动物志·昆虫纲·第十七卷·等翅目》记载，中国 1969 年在浙江宁海县力洋区发现小楹白蚁（<i>Incisitermes minor</i>）危害，疑为房主 1937 年从香港带回的衣箱传入；1974 年调查时受害房屋已超过 1 500 m²。",
+            "text_en": "According to the Fauna Sinica volume on Isoptera, damage by <i>Incisitermes minor</i> was found in China in 1969 at Liyang, Ninghai County, Zhejiang, suspected to have arrived in a trunk brought back from Hong Kong by the owner in 1937; by 1974 the infested buildings exceeded 1 500 m².",
+            "text_es": "Según el volumen de Fauna Sinica sobre Isoptera, se detectaron daños de <i>Incisitermes minor</i> en China en 1969 en Liyang, condado de Ninghai, Zhejiang, presuntamente llegada en un baúl traído de Hong Kong por el propietario en 1937; en 1974 las viviendas afectadas superaban los 1 500 m²."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 Cabrera 与 Rust（1996）研究，小楹白蚁（<i>Incisitermes minor</i>）若蚁在日光灯或白炽灯照射下躲到培养皿有遮盖的部分，而在红色暗房灯下无明显选择性。",
+            "text_en": "According to Cabrera and Rust (1996), nymphs of <i>Incisitermes minor</i> retreat under the covered part of a dish when lit by fluorescent or incandescent light, but show no clear preference under a red darkroom lamp.",
+            "text_es": "Según Cabrera y Rust (1996), las ninfas de <i>Incisitermes minor</i> se refugian bajo la parte cubierta de una placa cuando se ilumina con luz fluorescente o incandescente, pero no muestran preferencia clara con una lámpara roja de cuarto oscuro."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0003",
+        "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+      }
+    ]
+  },
+  "/species/zootermopsis-nevadensis/": {
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "品级特异的 DNA 甲基化与科级归属",
+        "heading_en": "Caste-specific DNA methylation and family placement",
+        "heading_es": "Metilación del ADN específica de casta y adscripción familiar",
+        "paragraphs": [
+          {
+            "src": [
+              "S0134"
+            ],
+            "text": "根据 Glastad 等（2016）研究，用重亚硫酸盐测序分析内华达动白蚁（<i>Zootermopsis nevadensis</i>）雌雄与各品级的 DNA 甲基化，合并样本中超过 12% 的基因组 CpG 与 58% 的外显子 CpG 被甲基化，外显子 CpG 的平均甲基化比例为 44.1%，77.6% 的基因在外显子与内含子区域具显著甲基化。",
+            "text_en": "According to Glastad et al. (2016), bisulfite sequencing of DNA methylation across sexes and castes of <i>Zootermopsis nevadensis</i> showed that in pooled samples more than 12% of genomic CpGs and 58% of exonic CpGs were methylated, the mean methylation fraction across exonic CpGs was 44.1%, and 77.6% of genes carried significant methylation in exons and introns.",
+            "text_es": "Según Glastad et al. (2016), la secuenciación con bisulfito de la metilación del ADN en ambos sexos y en las distintas castas de <i>Zootermopsis nevadensis</i> mostró que en las muestras agrupadas más del 12% de los CpG genómicos y el 58% de los CpG exónicos estaban metilados, la fracción media de metilación de los CpG exónicos fue del 44,1% y el 77,6% de los genes presentaba metilación significativa en exones e intrones."
+          },
+          {
+            "src": [
+              "S0134"
+            ],
+            "text": "该研究还发现内华达动白蚁（<i>Zootermopsis nevadensis</i>）的甲基化在品级间差异强烈，甲基化基因倾向于均匀且高水平表达，差异甲基化基因更常发生可变剪接并富集发育相关功能。",
+            "text_en": "The study also found strong caste differences in methylation in <i>Zootermopsis nevadensis</i>, with methylated genes tending to be uniformly and highly expressed and differentially methylated genes more often alternatively spliced and enriched for development-related functions.",
+            "text_es": "El estudio también halló fuertes diferencias de metilación entre castas en <i>Zootermopsis nevadensis</i>, con genes metilados que tienden a expresarse de forma uniforme y elevada y genes con metilación diferencial más frecuentemente sometidos a empalme alternativo y enriquecidos en funciones del desarrollo."
+          },
+          {
+            "src": [
+              "S0196"
+            ],
+            "text": "据摘要，Wang 等（2022）基于 27 个样本的核 rRNA 基因与线粒体基因组确认 Teletisoptera 为单系，胄白蚁科（Stolotermitidae）约在 1 亿年前与草白蚁科（Hodotermitidae）加古白蚁科（Archotermopsidae）分化；古白蚁科为并系，作者将其限定为古白蚁属（<i>Archotermopsis</i>）与动白蚁属（<i>Zootermopsis</i>）。",
+            "text_en": "According to the abstract, Wang et al. (2022) used nuclear rRNA genes and mitochondrial genomes of 27 samples to confirm the monophyly of Teletisoptera, with Stolotermitidae diverging from Hodotermitidae plus Archotermopsidae about 100 Ma; Archotermopsidae proved paraphyletic and was restricted to <i>Archotermopsis</i> and <i>Zootermopsis</i>.",
+            "text_es": "Según el resumen, Wang et al. (2022) emplearon genes nucleares de ARNr y genomas mitocondriales de 27 muestras para confirmar la monofilia de Teletisoptera, con Stolotermitidae separándose de Hodotermitidae más Archotermopsidae hace unos 100 Ma; Archotermopsidae resultó parafilética y quedó restringida a <i>Archotermopsis</i> y <i>Zootermopsis</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0134",
+        "citation": "Glastad K. M.; Gokhale K.; Liebig J.; Goodisman M. A. D. 2016. The caste- and sex-specific DNA methylome of the termite Zootermopsis nevadensis. Scientific Reports 6: 37110.",
+        "doi": "10.1038/srep37110"
+      },
+      {
+        "id": "S0196",
+        "citation": "Wang M.; Hellemans S.; Šobotník J.; et al. 2022. Phylogeny, biogeography and classification of Teletisoptera (Blattaria: Isoptera). Systematic Entomology.",
+        "doi": "10.1111/syen.12548"
+      }
+    ]
+  },
+  "/species/zootermopsis-angusticollis/": {
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "群体大小与社会性免疫",
+        "heading_en": "Group size and social immunity",
+        "heading_es": "Tamaño del grupo e inmunidad social",
+        "paragraphs": [
+          {
+            "src": [
+              "S0002"
+            ],
+            "text": "根据 Rosengaus 等（1998b）研究，狭颈动白蚁（<i>Zootermopsis angusticollis</i>）末龄若虫（若蚁）暴露于绿僵菌（<i>Metarhizium anisopliae</i>）分生孢子后，独居个体在 2–6 天内发病，显著快于 10 头或 25 头群居个体；与独居相比，群居个体的死亡率下降约 90%。",
+            "text_en": "According to Rosengaus et al. (1998b), when last-instar nymphs of <i>Zootermopsis angusticollis</i> were exposed to conidia of <i>Metarhizium anisopliae</i>, solitary individuals became infected within 2–6 days, significantly faster than those kept in groups of 10 or 25, and mortality in groups was about 90% lower than in solitary individuals.",
+            "text_es": "Según Rosengaus et al. (1998b), al exponer ninfas de último estadio de <i>Zootermopsis angusticollis</i> a conidios de <i>Metarhizium anisopliae</i>, los individuos solitarios se infectaron en 2–6 días, significativamente antes que los mantenidos en grupos de 10 o 25, y la mortalidad en grupo fue unas 90% menor que en individuos solitarios."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0002",
+        "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
+      }
+    ]
+  },
+  "/species/nasutitermes-exitiosus/": {
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "种名保留与肠道固氮菌",
+        "heading_en": "Name conservation and gut nitrogen fixers",
+        "heading_es": "Conservación del nombre y fijadores de nitrógeno intestinales",
+        "paragraphs": [
+          {
+            "src": [
+              "S0004"
+            ],
+            "text": "《白蚁论》记录破坏象白蚁（<i>Nasutitermes exitiosus</i>）由 Hill 于 1925 年以 <i>Eutermes</i> 属的旧组合 <i>Eutermes exitiosus</i> 描述，其种名经国际动物命名法委员会 1985 年第 1310 号意见裁定保留，优先于当时并用的种名 <i>australis</i>；选模为澳大利亚博物馆（NMV）编号 T-10878 的兵蚁，模式产地为澳大利亚西澳大利亚州 Ludlow。",
+            "text_en": "The Treatise records that <i>Nasutitermes exitiosus</i> was described by Hill in 1925 as the old combination <i>Eutermes exitiosus</i>; the specific name was conserved by ICZN Opinion 1310 (1985) over the then-current name <i>australis</i>, with a lectotype soldier NMV No. T-10878 and Ludlow, Western Australia, as the type locality.",
+            "text_es": "El Treatise registra que <i>Nasutitermes exitiosus</i> fue descrita por Hill en 1925 como la combinación antigua <i>Eutermes exitiosus</i>; el nombre específico fue conservado por la Opinión 1310 de la ICZN (1985) frente al nombre entonces en uso <i>australis</i>, con un lectotipo soldado NMV n.º T-10878 y Ludlow, Australia Occidental, como localidad tipo."
+          },
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 French 等（1976）研究，从达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）、乳色乳白蚁（<i>Coptotermes lacteus</i>）与破坏象白蚁（<i>Nasutitermes exitiosus</i>）的肠道中分离出弗氏柠檬酸杆菌（<i>Citrobacter freundii</i>）的固氮菌株。",
+            "text_en": "According to French et al. (1976), nitrogen-fixing strains of <i>Citrobacter freundii</i> were isolated from the guts of <i>Mastotermes darwiniensis</i>, <i>Coptotermes lacteus</i> and <i>Nasutitermes exitiosus</i>.",
+            "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Mastotermes darwiniensis</i>, <i>Coptotermes lacteus</i> y <i>Nasutitermes exitiosus</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0004",
+        "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+      }
+    ]
+  },
+  "/species/kalotermes-flavicollis/": {
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "基名与模式产地",
+        "heading_en": "Basionym and type locality",
+        "heading_es": "Basónimo y localidad tipo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0004"
+            ],
+            "text": "《白蚁论》记录黄颈木白蚁（<i>Kalotermes flavicollis</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes flavicolle</i> Fabricius, 1793，选模为哥本哈根大学动物博物馆（ZMUC）的有翅成虫，模式产地记为「Barbaria」，一般认为在今阿尔及利亚一带。",
+            "text_en": "The Treatise records the basionym of <i>Kalotermes flavicollis</i> as the old combination <i>Termes flavicolle</i> Fabricius, 1793, with a lectotype alate in the Zoological Museum of the University of Copenhagen (ZMUC) and \"Barbaria\", generally taken to be in present-day Algeria, as the type locality.",
+            "text_es": "El Treatise registra el basónimo de <i>Kalotermes flavicollis</i> como la combinación antigua <i>Termes flavicolle</i> Fabricius, 1793, con un lectotipo alado en el Museo Zoológico de la Universidad de Copenhague (ZMUC) y «Barbaria», generalmente situada en la Argelia actual, como localidad tipo."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0004",
+        "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+      }
+    ]
+  },
+  "/species/coptotermes-lacteus/": {
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "肠道固氮菌",
+        "heading_en": "Gut nitrogen-fixing bacteria",
+        "heading_es": "Bacterias fijadoras de nitrógeno del intestino",
+        "paragraphs": [
+          {
+            "src": [
+              "S0001"
+            ],
+            "text": "根据 French 等（1976）研究，从乳色乳白蚁（<i>Coptotermes lacteus</i>）的肠道中分离出弗氏柠檬酸杆菌（<i>Citrobacter freundii</i>）的固氮菌株。",
+            "text_en": "According to French et al. (1976), nitrogen-fixing strains of <i>Citrobacter freundii</i> were isolated from the gut of <i>Coptotermes lacteus</i>.",
+            "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Coptotermes lacteus</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
       }
     ]
   }
