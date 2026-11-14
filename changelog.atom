@@ -13,7 +13,8 @@
     <link rel="alternate" type="text/html" href="https://termite-extant-isoptera.org/changelog/#v2026-10-30"/>
     <updated>2026-10-30T00:00:00Z</updated>
     <published>2026-10-30T00:00:00Z</published>
-    <content type="text">**新增文献补录（2026-10-31，同一版本，尚未归档发布）**：按近年原始文献补录 18 个新种、4 个新亚种、3 个新属，并修订 4 处分类变动——
+    <content type="text">**基础知识改版（2026-11-15，同一版本，尚未归档发布）**：`/basics/` 索引页删去开头那段介绍（「这一栏是名录的“怎么读”部分……先认结构，再懂习性……」），页面只保留形态篇一个入口；三语生物学篇（`/basics/biology/`、`/en/basics/biology/`、`/es/basics/biology/`）从站点移除，源码移到 `_pending_pages/basics/`（不参与构建，恢复步骤见该目录 `README.md`）；索引页标题改为「白蚁基础知识 — 形态篇」「Termite Basics — Morphology」「Fundamentos de los termites — Morfología」，`description`、`keywords` 与「两篇」措辞同步改写；形态篇页首与页脚、三语首页「基础知识 / Basics / Fundamentos」卡片里指向生物学篇的句子一并删去；`sitemap.txt` 与检索索引重生成后不再含三个 biology URL。
+**新增文献补录（2026-10-31，同一版本，尚未归档发布）**：按近年原始文献补录 18 个新种、4 个新亚种、3 个新属，并修订 4 处分类变动——
 **次异名长表增加对齐回指列（2026-11-05，同一版本，尚未归档发布）**：`dataset/data/isoptera-synonyms.csv` 新增 `localitySource`（`synonym` 逐条对应本异名 / `checklist` 未逐条对齐、整串见主表 `synonymLocalities` 列 / `none` 原数据无模式产地）与 `localityCounts`（`names=N;localities=M`）两列，把「未逐条对齐」与「原数据缺产地」区分开；`dataset/datapackage.json` 字段说明、`dataset/README.md` 构建提示与归档包 `downloads/isoptera-checklist-v2026.10.30.zip` 同步重建。
 **新增 Darwin Core Archive（2026-11-13，同一版本，尚未归档发布）**：`dataset/dwca/` 提供 GBIF 工具可直接读取的 DwC-A（`taxon.csv` 4150 行 = 接受名 3446 + 异名 704、`vernacularname.csv` 3446 行中文正名、`meta.xml` Taxon core + VernacularName 扩展、`eml.xml` EML 2.1.1 / GBIF profile、`CHECKSUMS.sha256`），打包为 `downloads/isoptera-checklist-v2026.10.30-dwca.zip`（230 KB）。
 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：

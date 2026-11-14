@@ -12,7 +12,7 @@ permalink: /basics/morphology/
 
 # 白蚁基础知识：形态篇
 
-<p class="muted">← 返回<a href="{{ site.base_url }}/basics/">基础知识索引</a>。生物学部分（品级发育、筑巢、食性）见<a href="{{ site.base_url }}/basics/biology/">生物学篇</a>。</p>
+<p class="muted">← 返回<a href="{{ site.base_url }}/basics/">基础知识索引</a>。</p>
 
 <p class="lead">这一页把白蚁身上“看得见、数得清”的部位逐条列出来：中文正名、拉丁/英文名、在什么品级上出现、看什么特征。条目取自站内存档的《中国动物志·昆虫纲·第十七卷·等翅目》（黄复生等，2000）、《白蚁学》（程冬保、杨兆芬，2014）、《白蚁生物学：现代研究合集》与 Krishna 等（2013）《Treatise on the Isoptera》，中文名沿用本站术语表（<code>_data/translation_glossary.yml</code>）的口径，以便与名录、科属页的形态描述互相对照。</p>
 
@@ -328,4 +328,4 @@ permalink: /basics/morphology/
 - Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. *Bulletin of the American Museum of Natural History* 377.
 - 《白蚁生物学：现代研究合集》（*Biology of Termites: A Modern Synthesis* 中译本）。
 
-<p class="muted">本页只讲形态；品级如何产生、巢如何建、吃什么如何消化，见<a href="{{ site.base_url }}/basics/biology/">生物学篇</a>。如发现术语或错别字，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>
+<p class="muted">如发现术语或错别字，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>
