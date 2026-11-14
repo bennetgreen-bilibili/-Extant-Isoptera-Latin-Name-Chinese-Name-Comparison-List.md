@@ -1,0 +1,193 @@
+{
+ "date": "2026-11-15",
+ "round": "popular-species",
+ "entries": [
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "上海台湾乳白蚁工蚁肠道三种原生生物的平均数量与分布",
+   "quote": "每头工蚁肠道中平均含有伪披发虫780±179头、全鞭毛虫1630±391头和旋披发虫2950±1003头",
+   "src": "S0001",
+   "work": "白蚁学",
+   "unit": "白蚁学::201-400",
+   "locator": "201-400.txt 台湾乳白蚁肠道共生部分",
+   "status": "recorded",
+   "note": "已写入种页（据摘要式引用，原文为综述引述谢磊等 2011）"
+  },
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "台湾乳白蚁有翅成虫复眼小眼数与雌雄直径",
+   "quote": "有翅成虫每个复眼的小眼数为300—400个，雌性复眼直径429±21μm，雄性360±35μm",
+   "src": "S0001",
+   "work": "白蚁学",
+   "unit": "白蚁学::001-200",
+   "locator": "001-200.txt 复眼部分（引张琳等 2005）",
+   "status": "recorded",
+   "note": "已写入种页"
+  },
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "分飞期灯光诱集的光谱偏好与路灯类型差异",
+   "quote": "蓝光（367—583nm）和绿光（525—648nm）诱集到的白蚁数量显著多于红光（600—733nm）",
+   "src": "S0001",
+   "work": "白蚁学",
+   "unit": "白蚁学::001-200",
+   "locator": "001-200.txt 灯光诱集部分（引张琳等 2001）",
+   "status": "recorded",
+   "note": "已写入种页；原文「复金属灯」为金属卤化物灯之误，草稿按规范写「复金属灯（金属卤化物灯）」"
+  },
+  {
+   "page": "/species/odontotermes-formosanus/",
+   "claim": "黑翅土白蚁不同巢群的兵蚁比例",
+   "quote": "大巢群432822头，其中兵蚁占18.0%；中巢群131162头，兵蚁占0.3%；小巢群699头，兵蚁占0.8%",
+   "src": "S0003",
+   "work": "中国动物志·昆虫纲·第十七卷·等翅目",
+   "unit": "中国动物志-昆虫纲-第十七卷-等翅目::001-100",
+   "locator": "001-100.txt 品级比例部分（引蔡邦华等 1964）",
+   "status": "recorded",
+   "note": "已写入种页"
+  },
+  {
+   "page": "/species/odontotermes-formosanus/",
+   "claim": "黑翅土白蚁分飞的气象条件与各地时间",
+   "quote": "气温达到20℃、相对湿度80%以上、气压746—753mmHg的落雨傍晚",
+   "src": "S0003",
+   "work": "中国动物志·昆虫纲·第十七卷·等翅目",
+   "unit": "中国动物志-昆虫纲-第十七卷-等翅目::001-100",
+   "locator": "001-100.txt 分飞部分",
+   "status": "recorded",
+   "note": "已写入种页"
+  },
+  {
+   "page": "/species/odontotermes-formosanus/",
+   "claim": "黑翅土白蚁主巢的周年温度区间",
+   "quote": "黑翅土白蚁的主巢温度通常保持在24—26℃。当冬季周围土温降至9—16℃时，巢内温度略有稍低，但也不少于20℃；夏季酷热时周围土表温度超过40℃，其巢温一般仍不超过28℃",
+   "src": "S0003",
+   "work": "中国动物志·昆虫纲·第十七卷·等翅目",
+   "unit": "中国动物志-昆虫纲-第十七卷-等翅目::001-100",
+   "locator": "001-100.txt 巢温部分 L700",
+   "status": "recorded",
+   "note": "已写入种页；同数据亦见白蚁学 401-589.txt L515"
+  },
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "台湾乳白蚁室内饲养成熟巢的分飞次数与个体数",
+   "quote": "室内饲养台湾乳白蚁成熟巢于1982年5—6月间共分飞5次，计969头有翅成虫",
+   "src": "S0003",
+   "work": "中国动物志·昆虫纲·第十七卷·等翅目",
+   "unit": "中国动物志-昆虫纲-第十七卷-等翅目::001-100",
+   "locator": "001-100.txt L421（引李桂祥等 1995）",
+   "status": "deferred",
+   "note": "种页已有 4 段，本条第 3 段「成熟群体年产 20 000 头以上」同源，合并时择一"
+  },
+  {
+   "page": "",
+   "claim": "我国食用白蚁种类与云南资源量估计",
+   "quote": "仅在我国就有30多种白蚁被民间食用……仅云南省就有76万〜532万巢白蚁，每巢白蚁平均重100kg，以平均228万巢计算，约有白蚁22.8万t",
+   "src": "S0001",
+   "work": "白蚁学",
+   "unit": "白蚁学::401-589",
+   "locator": "401-589.txt L364–365（引张正松等 1991；作者对每巢净重有保留）",
+   "status": "deferred",
+   "note": "资源利用层面，暂无对应种页；原文「土城大白蚁」为土垄大白蚁之误"
+  },
+  {
+   "page": "",
+   "claim": "黑翅土白蚁虫体与菌圃的脂肪酸、氨基酸组成",
+   "quote": "其不饱和脂肪酸的含量高达77%，而亚油酸(18：2)的含量为32.04%……黑翅土白蚁菌圃含有15种氨基酸……菌圃中含有28种化合物",
+   "src": "S0001",
+   "work": "白蚁学",
+   "unit": "白蚁学::401-589",
+   "locator": "401-589.txt L471、L502–503（引薛德钧等 2002、2005）",
+   "status": "deferred",
+   "note": "营养成分数据可补入黑翅土白蚁种页「营养价值」小节，本轮页数控制未写"
+  },
+  {
+   "page": "/species/coptotermes-gestroi/",
+   "claim": "桑顿散白蚁与北美散白蚁为同一物种",
+   "quote": "来自美国西部的北美散白蚁Reticulitermesflavips和来自法国西部的桑顿散白蚁R. santonensis，已被发现是一个物种(Ye et al. 2004; Austin et al. 2004, 2005)",
+   "src": "S0002",
+   "work": "白蚁生物学现代研究合集",
+   "unit": "白蚁生物学现代研究合集::401-497",
+   "locator": "401-497.txt L910",
+   "status": "deferred",
+   "note": "属北美散白蚁种页范畴，该页已有 S0144（16S 异名）段落，避免重复；如需可并入 R. flavipes 页"
+  },
+  {
+   "page": "/species/zootermopsis-nevadensis/",
+   "claim": "内华达动白蚁各品级 DNA 甲基化的整体比例",
+   "quote": "more than 12% of genomic CpGs and 58% of exonic CpGs were methylated; mean methylation across exonic CpGs was 44.1%",
+   "src": "S0134",
+   "work": "The caste- and sex-specific DNA methylome of the termite Zootermopsis nevadensis",
+   "unit": "The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis::full",
+   "locator": "full.txt Results",
+   "status": "recorded",
+   "note": "已写入种页"
+  },
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "Coptotermes formosanus 与 C. gestroi 在台湾的种群来源",
+   "quote": "Taiwanese populations of C. formosanus were closest to those from Japan and some Chinese populations, whereas Taiwanese C. gestroi were identical to each other and closest to Philippine and Hawaiian populations",
+   "src": "S0372",
+   "work": "Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan",
+   "unit": "Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino::0001-0010",
+   "locator": "0001-0010.txt Results / Discussion",
+   "status": "recorded",
+   "note": "已分别写入两个种页；原文为英文，引号内为按原文改写前的关键句"
+  },
+  {
+   "page": "",
+   "claim": "Teletisoptera 的单系性与科级划分",
+   "quote": "the monophyly of Teletisoptera was confirmed; Archotermopsidae was recovered as paraphyletic and restricted to Archotermopsis + Zootermopsis",
+   "src": "S0196",
+   "work": "Phylogeny, biogeography and classification of Teletisoptera",
+   "unit": "abstract",
+   "locator": "摘要",
+   "status": "recorded",
+   "note": "已写入内华达动白蚁种页「科级归属」段（据摘要）；科级修订本体应进 family/archotermopsidae 页，待后续"
+  },
+  {
+   "page": "",
+   "claim": "佛罗里达兵蚁与有翅成虫检索表",
+   "quote": "Keys to soldier and winged adult termites (Isoptera) of Florida",
+   "src": "S0137",
+   "work": "Keys to soldier and winged adult termites of Florida",
+   "unit": "abstract",
+   "locator": "摘要",
+   "status": "rejected",
+   "note": "只有检索表与名录级信息，按 m01204 不据此写种页"
+  },
+  {
+   "page": "",
+   "claim": "Reticulitermes flavipes 与 R. santonensis 的遗传学同物异名",
+   "quote": "Genetic evidence for the synonymy of two Reticulitermes species",
+   "src": "S0144",
+   "work": "Genetic Evidence for the Synonymy of Two Reticulitermes Species",
+   "unit": "abstract",
+   "locator": "摘要",
+   "status": "rejected",
+   "note": "北美散白蚁种页已有 S0144 段落，本轮不重复"
+  },
+  {
+   "page": "",
+   "claim": "黑翅土白蚁巢内炭角菌",
+   "quote": "Xylaria species associated with nests of Odontotermes formosanus",
+   "src": "S0166",
+   "work": "Xylaria species associated with nests of Odontotermes formosanus",
+   "unit": "abstract",
+   "locator": "摘要",
+   "status": "rejected",
+   "note": "黑翅土白蚁种页已有 S0166 段落，本轮不重复"
+  },
+  {
+   "page": "",
+   "claim": "高砂象白蚁内源内切葡聚糖酶 NtEgl 的结构",
+   "quote": "NtEgl structure",
+   "src": "S0155",
+   "work": "Structural insights into the substrate specificity of NtEgl",
+   "unit": "abstract",
+   "locator": "摘要",
+   "status": "rejected",
+   "note": "高砂象白蚁种页已有 S0155 段落，本轮不重复"
+  }
+ ]
+}
