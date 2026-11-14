@@ -73,8 +73,8 @@ permalink: /basics/morphology/
 口器为咀嚼式：上唇盖在口前，唇基分柔软的前唇基与骨化的后唇基（鼻白蚁科、白蚁科的后唇基常有纵沟）；一对上颚强壮，内缘有端齿、缘齿和基部的臼齿板；一对下颚由轴节、茎节、外颚叶、内颚叶与 5 节下颚须组成；下唇由后颏、前颏、两对唇舌与 3 节下唇须组成。口腔由上唇、上下颚与下唇围成，底部是舌。
 
 <figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-zh.png" alt="头部腹面与口器：后头孔、后颏、前颏、下颚须（5 节）、下唇须（3 节）的位置" width="2000" height="1500" loading="lazy" decoding="async">
-  <figcaption>头部腹面观：上方为头后（后头孔），下方为头前（口器）；后头孔、后颏、前颏、下颚须（5 节）与下唇须（3 节）的位置如图。上颚在此视角被下唇遮盖。（底图 Holmgren, 1909, Fig. 1b，公有领域）</figcaption>
+  <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-zh.png" alt="头部腹面与口器：后头孔、后颏、前颏、下唇须（外侧）、下颚须（内侧）的位置" width="2000" height="1500" loading="lazy" decoding="async">
+  <figcaption>头部腹面观：上方为头后（后头孔），下方为头前（口器）；后头孔、后颏、前颏、下唇须（外侧）与下颚须（内侧）的位置如图。上颚在此视角被下唇遮盖。（底图 Holmgren, 1909, Fig. 1b，公有领域）</figcaption>
 </figure>
 
 | 名称 | 拉丁 / 英文 | 说明 |

@@ -84,7 +84,7 @@ El aparato bucal es masticador: el labro cubre la boca; el clípeo se divide en 
 
 <figure class="taxa-illustration">
   <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-es.png" alt="Cabeza en vista ventral: foramen occipital, postmento, premento, palpo maxilar" loading="lazy" decoding="async">
-  <figcaption>Cabeza en vista ventral: foramen occipital, postmento, premento, palpo maxilar (5 segmentos) y palpo labial (3 segmentos). Las mandíbulas quedan ocultas por el labio en esta vista. (según Holmgren, 1909, Fig. 1b; dominio público)</figcaption>
+  <figcaption>Cabeza en vista ventral: foramen occipital, postmento, premento, palpo labial (externo) y palpo maxilar (interno). Las mandíbulas quedan ocultas por el labio en esta vista. (según Holmgren, 1909, Fig. 1b; dominio público)</figcaption>
 </figure>
 
 | Nombre | Latín / inglés | Notas |

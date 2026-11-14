@@ -74,7 +74,7 @@ Mouthparts are of the chewing type: the labrum covers the mouth; the clypeus is 
 
 <figure class="taxa-illustration">
   <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-en.png" alt="Head in ventral view: occipital foramen, postmentum, prementum, maxillary palp" loading="lazy" decoding="async">
-  <figcaption>Head in ventral view: occipital foramen, postmentum, prementum, maxillary palp (5 segments) and labial palp (3 segments). The mandibles are hidden by the labium in this view. (after Holmgren, 1909, Fig. 1b; public domain)</figcaption>
+  <figcaption>Head in ventral view: occipital foramen, postmentum, prementum, labial palp (outer) and maxillary palp (inner). The mandibles are hidden by the labium in this view. (after Holmgren, 1909, Fig. 1b; public domain)</figcaption>
 </figure>
 
 | Name | Latin / English | Notes |
