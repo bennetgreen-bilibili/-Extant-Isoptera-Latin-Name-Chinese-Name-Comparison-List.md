@@ -1036,7 +1036,7 @@ def _ingest_abstract(root: Path, item: dict, tmp_dir: Path, fulltext_status: str
     """无 OA 全文 / 下载失败时，把完整摘要作为「摘要全文」存进文库（不截断），.sources/ 记元数据。
 
     摘要全文进 _unpublished/文库/<slug>/full.txt（gitignored），账本 .sources/ 只留元数据 +
-    短摘录，符合 AGENTS.md §1.6 红线（单处 ≤400 字、累计 ≤2000 字）。
+    摘录，符合 AGENTS.md §1.6 红线（不设累计上限；单处上限 1200 字只防误粘整章）。
     fulltext_status 标记「仅摘要、全文待重试」，让以后还能重试找全文。
     """
     abstract = " ".join((item.get("abstract") or "").split())

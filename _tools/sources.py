@@ -61,7 +61,7 @@ META_FILES = {"AGENTS.md", "CLAUDE.md", "CONTRIBUTING.md"}
 SOURCE_TYPES = {"web", "paper", "book", "report", "dataset", "database", "file", "other"}
 RELIABILITY = {"primary", "peer_reviewed", "official", "reference", "secondary", "unverified"}
 REQUIRED = ("id", "title", "source_type", "reliability", "accessed", "canonical_key")
-MAX_QUOTE = 400
+MAX_QUOTE = 1200
 # 标记只认 Markdown 正文（docx 等二进制交付物走 used_in + 文末来源表）
 TEXT_SUFFIXES = {".md", ".markdown"}
 SKIP_DIRS = {".git", "node_modules", "assets", "downloads", "photos", "_site", ".sources",

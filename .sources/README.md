@@ -65,7 +65,7 @@ Jekyll 默认忽略以 `.` 开头的目录，所以本目录不会进站点产�
 | `url` `doi` `file_path` | string | 至少一个；`file_path` 相对仓库根 |
 | `body_sha256` | string | 实际读到的字节（本地文件）或文本（网页）的 sha256，用于判定同一 URL 的内容是否已变 |
 | `accessed` | string | ISO 8601，带时区 |
-| `evidence` | array | `{quote, locator, note}`；quote 逐字、不超过 400 字 |
+| `evidence` | array | `{quote, locator, note}`；quote 逐字，一句到一段（上限 1200 字，无累计配额） |
 | `used_in` | array | 仓库内相对路径 |
 | `notes` | string | 排除理由 / 矛盾 / 「仅摘要」等 |
 | `library` | object | 由 `import-library` / `library-add` 生成：`{book, kind, title, manifest, generated, extraction, source_file, source_sha256, source_bytes, pages, chunks:[{chunk, txt（书）/ source（论文）, sha256, chars, paragraphs, table_rows, source_file}]}` |
@@ -92,7 +92,7 @@ Jekyll 默认忽略以 `.` 开头的目录，所以本目录不会进站点产�
 | E002 / E003 | id 重复 / 格式不对 | 错误 |
 | E004 / E005 | 缺必填字段 / 枚举值非法 | 错误 |
 | E006 | canonical_key 重复（正常应由 add 合并掉） | 错误 |
-| E007 | 摘录超过 400 字 | 错误 |
+| E007 | 摘录超过 1200 字 | 错误 |
 | E008 | used_in 写成绝对路径或越出仓库 | 错误 |
 | E009 | 缺 records/Sxxxx.md | 错误 |
 | E010 | 正文 `<!-- src:Sxxxx -->` 指向未存档的 id | 错误 |
