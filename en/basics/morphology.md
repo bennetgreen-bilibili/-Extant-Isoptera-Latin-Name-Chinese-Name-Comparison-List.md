@@ -21,7 +21,7 @@ Termites are front-headed (prognathous) insects with chewing mouthparts, divided
 This page covers external morphology and the main internal organs only; names and distributions of taxa are in the [checklist]({{ site.base_url }}/en/list/), and identification runs through the morphological descriptions on the family, genus and species pages; where a species text has not yet been checked, the page gives the original description citation and links to its genus page. The site has withdrawn the <i>Fauna Sinica</i> family and genus keys; only the order and Termitidae subfamily key on the checklist and the world genus key on the Kalotermitidae page remain.
 
 <ul class="basics-toc">
-  <li><a href="#castes">1. Castes and the two body plans</a></li>
+  <li><a href="#castes">1. Castes</a></li>
   <li><a href="#head">2. Head</a></li>
   <li><a href="#thorax">3. Thorax, wings and legs</a></li>
   <li><a href="#abdomen">4. Abdomen</a></li>
@@ -31,28 +31,51 @@ This page covers external morphology and the main internal organs only; names an
   <li><a href="#naming">8. Names, synonyms and sources</a></li>
 </ul>
 
-## 1. Castes and the two body plans {#castes}
+## 1. Castes {#castes}
 
-Two body plans are traditionally recognised: the **imago** plan (reproductives and workers, close to the alate in body shape, mouthparts and antennal segmentation) and the **soldier** plan (head capsule and mandibles specialised, antennal segments fewer, eyes reduced). Within these, the castes are:
+Two large groups are recognised by function first: the **reproductive** and the **non-reproductive** castes. Within them the castes are separated by developmental origin — the same name may arise along different routes in different groups (supplementary reproductives especially), so read the table with both *form* and *developmental origin* in mind.
 
-| Type | Name | Morphological notes |
+| Group | Caste | Form and development |
 | --- | --- | --- |
-| Imago · reproductive | alate (winged reproductive) | Two long wing pairs, well-developed compound eyes and a pair of ocelli; body yellow-brown to dark brown; wings break off at the humeral suture after the dispersal flight, leaving a dealate |
-| Imago · reproductive | brachypterous, apterous | Short-winged or wingless supplementary reproductives, common when the primary queen is lost |
-| Imago · non-reproductive | worker | The most numerous caste; eyes reduced or absent, wingless; major and minor workers are sometimes separable |
-| Soldier | soldier | Mandibles greatly enlarged (mandibulate) or head drawn out into a nasus with reduced mandibles (nasute); eyes usually reduced |
-| Immature | larva, nymph | Nymphs already show wing pads and pass through several instars; body pale, cuticle thin |
-| Reproductive | queen, king | The queen's abdomen becomes physogastric as the ovaries develop and the intersegmental membranes are exposed; the king changes little |
+| Non-reproductive | white immature | White, unsclerotised, without soldier features; fed by nestmates. Those without external wing buds are white larvae, those with them white nymphs |
+| Non-reproductive | larva (dependent larva) | No external wing buds, cannot feed itself; darker and older than the white larva, with no sharp boundary — calling the white larva a larva is also correct and widely accepted |
+| Non-reproductive | pseudergate (false worker) | Feeds itself; wing buds shortened or gradually lost; develops from the larva or by regressive moult from the nymph; in groups without true workers (Kalotermitidae etc.) it is the main workforce |
+| Non-reproductive | worker | Develops along the wingless route; wingless (wing buds occur as rare abnormalities), eyes strongly reduced; some species have size and sex castes among workers |
+| Non-reproductive | presoldier | Soldier-like head but unpigmented and weakly sclerotised, cannot defend; an instar on the way to the soldier from other castes |
+| Non-reproductive | soldier | Head heavily sclerotised; mandibles enlarged (mandibulate) or the head drawn out into a nasus with reduced mandibles (nasute); cannot moult or reproduce, cannot feed itself; some species have size and sex castes among soldiers |
+| Non-reproductive | nymph | Immature with external wing buds that grow with age; normally develops into the alate |
+| Reproductive | alate | Two complete wing pairs, dark, compound eyes and ocelli well developed; wings break off at the wing scale after the dispersal flight |
+| Reproductive | dealate | Wings shed, scales retained; pairing after the flight makes it a primary reproductive |
+| Reproductive | primary reproductive (king, queen) | From a dealate pair founding a nest; pigmented, eyes well developed, wing scales present; in many species the queen becomes physogastric with exposed intersegmental membranes |
+| Reproductive | adultoid | Resembles the primary reproductive; developed from an alate that did not fly and shed its wings inside the nest, mostly in Termitidae |
+| Reproductive | neotenic: brachypterous, squamate, apterous | Wing buds present and growing, classed as long-, short- and micro-brachypterous; those that have shed the wings and keep only scales are squamate; wingless forms are apterous; they do not fly and replace the primary king and queen in the nest |
+| Reproductive | neotenic: larvoid, pseudergatoid, nymphoid, ergatoid, reproductive soldier | In groups without true workers, larvoid (from larvae) and pseudergatoid (from pseudergates); in groups with true workers, nymphoid (from nymphs, wing buds retained) and ergatoid (from workers, no wing buds); the reproductive soldier is known only in Archotermopsidae |
+
+Castes are not a fixed ladder but branches split by developmental route. Termites have three kinds of moult — progressive, stationary and regressive — and the last returns the individual to an earlier instar. In one-piece nesters (Kalotermitidae etc.) a pseudergate can moult progressively into a nymph, presoldier or neotenic, or hold its form by a stationary moult, while a nymph can regress to a pseudergate. The larva of *Mastotermes darwiniensis* may reach the alate through a nymph or become a worker or presoldier directly. In the remaining, multiple-piece nesters the larva takes one of two routes: the nymphal line leads to alates, nymphoid and adultoid reproductives, the wingless line to workers, presoldiers and soldiers, and a worker can still become an ergatoid.
+
+Castes also diversify within themselves. *Hospitalitermes medioflavus* has three worker forms and one soldier form: minor workers are all male, medium and major workers all female; minor workers pass through a presoldier to become soldiers and medium workers can grow into major workers; major workers only carry food, minor workers gather lichens, soldiers scout and defend. *Macrotermes* soldiers are major and minor; *M. annandalei* and *M. barneyi* keep major and minor workers in the same nest. Supplementary reproductives differ between groups and even within a genus: most Termitidae produce them, *Macrotermes bellicosus* has adultoids while *M. subhyalinus* has none, *Odontotermes obesus* produces them while *O. assmuthi* does not; whether *O. formosanus* can produce them has long been debated, and most authors think not.
+
+Neotenic reproductives carry two parallel nomenclatures: one by wing development (brachypterous, squamate, apterous), one by source caste (larvoid, pseudergatoid, nymphoid, ergatoid, reproductive soldier). The two are not exclusive — nymphoids usually keep wing buds, ergatoids have none, squamates have lost the buds and keep only scales — and papers often give only one set, so check which is meant.
 
 ## 2. Head {#head}
 
 The head capsule is round, oval, square or pear-shaped and prognathous. Its most conspicuous feature is the **epicranial suture**: a transverse (ecdysial) line and a median longitudinal line meeting in a T or Y. Many species show it only faintly. The area in front of the transverse line is the **frons**; behind it lies the **vertex**, and behind that the **occiput**. In Rhinotermitidae and Termitidae the junction of the two lines is often depressed or raised and opens as the **fontanelle**, the opening of the frontal gland and one of the hallmarks of Neoisoptera.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/head-en.png" alt="Regions of the head capsule: epicranial" loading="lazy" decoding="async">
+  <figcaption>Regions of the head capsule: epicranial (frontal + coronal) sutures, frons, vertex, fontanelle, compound eye, ocellus, clypeus and labrum; the ocellus is the small ring beside the compound eye. The occiput is the posterior wall of the head and is not visible in dorsal view. (after Holmgren, 1909, Fig. 1a; public domain)</figcaption>
+</figure>
 
 The compound eyes sit on the sides of the head. They are large in alates — about 200 ommatidia per eye in <i>Mastotermes</i>, 300–400 in <i>Coptotermes formosanus</i> and about 360 in <i>Odontotermes formosanus</i> — and reduced to a pigment patch or lost entirely in workers and soldiers. The single pair of ocelli lies above or anterodorsally to the compound eyes, whitish and translucent; they occur only in reproductives, and are missing even there in a few groups.
 
 Antennae are moniliform or oval with 9–30+ segments; beyond the scape and pedicel, the third segment is often split, producing an “incomplete division” that must be allowed for when counting.
 
 Mouthparts are of the chewing type: the labrum covers the mouth; the clypeus is divided into a soft anteclypeus and a sclerotised postclypeus (often with a median groove in Rhinotermitidae and Termitidae); the paired mandibles carry an apical tooth, marginal teeth and a basal molar plate; each maxilla has a cardo, stipes, galea, lacinia and a 5-segmented palp; the labium has a postmentum, prementum, glossa, paraglossa and 3-segmented palps. The mouth cavity is enclosed by the labrum, mandibles, maxillae and labium, with the hypopharynx forming its floor.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-en.png" alt="Head in ventral view: occipital foramen, postmentum, prementum, maxillary palp" loading="lazy" decoding="async">
+  <figcaption>Head in ventral view: occipital foramen, postmentum, prementum, maxillary palp (5 segments) and labial palp (3 segments). The mandibles are hidden by the labium in this view. (after Holmgren, 1909, Fig. 1b; public domain)</figcaption>
+</figure>
 
 | Name | Latin / English | Notes |
 | --- | --- | --- |
@@ -176,9 +199,19 @@ Reproductives often show brownish patches on the abdomen bearing short, erect ye
 | Posterior sternal gland | posterior sternal gland | Hind-abdominal gland active during dispersal and pairing |
 | Anus | anus | Opening of the hindgut, between epiproct and paraprocts |
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/abdomen-en.png" alt="Abdominal apex in sagittal section: female on the left" loading="lazy" decoding="async">
+  <figcaption>Abdominal apex in sagittal section: female on the left (rectum, ovaries, accessory glands, spermatheca, oviduct, genital opening) and male on the right (rectum, seminal vesicle, penis; VII–IX = abdominal segments). (after Holmgren, 1909, Fig. 73, 74; public domain)</figcaption>
+</figure>
+
 ## 5. Soldier-specific structures {#soldier}
 
 Soldiers are the “soldier plan”: head capsule and mandibles highly specialised, antennal segments often fewer, compound eyes reduced to traces. Two main types are recognised. **Mandibulate soldiers** have enormous mandibles and a head capsule that does not project forward; the inner teeth of the left and right mandibles often differ, and in some genera (e.g. <i>Capritermes</i>) the mandibles are twisted into a strongly asymmetric “snapping” bite. **Nasute soldiers** have reduced mandibles and a head drawn out into a long nasus, with the fontanelle opening at its tip and ejecting a sticky secretion (e.g. <i>Nasutitermes</i>). A few genera are intermediate, such as <i>Armitermes</i>, sometimes called nasutoid.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/castes-head-en.png" alt="Heads of a worker and a soldier: the worker head is nearly round with short mandibles, the soldier head is elongated with much enlarged mandibles. Head shape, the length/width ratio and the mandibular teeth are the most used characters in genus and species keys." loading="lazy" decoding="async">
+  <figcaption>Heads of a worker and a soldier: the worker head is nearly round with short mandibles, the soldier head is elongated with much enlarged mandibles. Head shape, the length/width ratio and the mandibular teeth are the most used characters in genus and species keys. (Hamitermes hamifer; after Holmgren, 1909, Fig. 19, 20; public domain)</figcaption>
+</figure>
 
 Soldier heads are square, oblong, round, oval, pear-shaped or conical. In <i>Cryptotermes</i> the head is short, thick and raised in front, plugging the gallery opening — phragmosis. The epicranial suture is often Y-shaped or reduced to the median line. The frons may be flat or raised, and in nasute soldiers it becomes the nasus. The fontanelle varies: absent in many lower termites; a large circular pore on the front of the head in <i>Coptotermes</i>, which secretes a milky acidic fluid (hence the Chinese name “milk-exuding termite”); at the nasus tip in <i>Nasutitermes</i>. Labral shape is a standard character: tongue-shaped in lower groups, bifid or asymmetric in Termitidae, and extremely long and grooved in <i>Schedorhinotermes</i>, where it can cover the mandible tips and the groove leads to the fontanelle.
 
@@ -202,6 +235,16 @@ The ratio of pronotal width to head width is also used: the pronotum is wider th
 The gut has three regions. The foregut comprises the mouth, pharynx, esophagus, crop and **proventriculus** (gizzard): its chitinous lining bears longitudinal ridges, each with transverse rows of palmate processes carrying 8–10 spines pointing backwards to prevent regurgitation; behind it lies the stomodeal valve. The midgut runs from the stomodeal valve to the Malpighian tubules, lined by columnar and regenerative cells with a brush border, and is enclosed by the **peritrophic membrane**, a protein mesh that protects the epithelium and acts as an ultrafilter. The hindgut runs from the Malpighian tubules to the anus; its anterior part dilates into the gourd-shaped **paunch**, thin-walled and housing symbiotic flagellates and bacteria, followed by the colon and rectum with six parallel **rectal pads**.
 
 In Termitidae the hindgut is further modified: Malpighian tubules are fewer, the proventriculus simplified, midgut caeca lost, and a **mixed segment** of mid- and hindgut epithelium appears between midgut and P1, with the Malpighian tubules clustered nearby as a **Malpighian knot**; a sclerotised **enteric valve** forms between P1 and P3. Hindgut compartments follow Holmgren (1909): the enteric valve is P2, P1 (ileum) precedes it, and P3 (paunch), P4 (colon) and P5 (rectum) follow. In lower termites P3 is the largest compartment and is packed with flagellates; Termitidae lack hindgut flagellates and rely on bacteria; Macrotermitinae and some relatives also cultivate fungus combs.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="Alimentary canal of termites: left the imago of *Rhinotermes marginalis*, right the worker of *Rhinotermes taurus*." loading="lazy" decoding="async">
+  <figcaption>Alimentary canal of termites: left the imago of *Rhinotermes marginalis*, right the worker of *Rhinotermes taurus*. (after Holmgren, 1909, Fig. 48–49; public domain)</figcaption>
+</figure>
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/wing-en.png" alt="Base of the forewing and venation: wing scale, articulating sclerites" loading="lazy" decoding="async">
+  <figcaption>Base of the forewing and venation: wing scale, articulating sclerites (Gelenkplatten) and the longitudinal veins, with the German plate labels translated at the right. The wing scale marks the wing base, where the wing breaks off after the dispersal flight. (after Holmgren, 1909, Fig. 43; public domain)</figcaption>
+</figure>
 
 Other internal organs include the brain (proto-, deuto- and tritocerebrum) with the subesophageal ganglion, three thoracic and six abdominal ganglia forming the ventral nerve cord; paired ovaries of many ovarioles (from 7–10 per side in Kalotermitidae to several thousand in <i>Macrotermes</i>), oviducts, spermatheca and vagina; paired testes, vasa deferentia, ejaculatory duct, seminal vesicles and accessory glands; and the frontal, salivary (labial), mandibular, sternal and tergal glands.
 

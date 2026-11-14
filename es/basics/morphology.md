@@ -10,6 +10,11 @@ keywords: [termites, Isoptera, morfología, anatomía, glosario, fontanela, mand
 permalink: /es/basics/morphology/
 ---
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/wing-es.png" alt="Base del ala anterior y nerviación: escama alar, escleritos articulares" loading="lazy" decoding="async">
+  <figcaption>Base del ala anterior y nerviación: escama alar, escleritos articulares (Gelenkplatten) y venas longitudinales, con los rótulos alemanes traducidos a la derecha. La escama alar marca la base del ala, por donde se rompe tras el vuelo. (según Holmgren, 1909, Fig. 43; dominio público)</figcaption>
+</figure>
+
 # Fundamentos de los termites: morfología
 
 <p class="muted">← Volver al <a href="{{ site.base_url }}/es/basics/">índice de fundamentos</a>.</p>
@@ -21,7 +26,7 @@ Los termites son insectos prognatos con aparato bucal masticador, divididos en c
 Esta página trata solo la morfología externa y los principales órganos internos; los nombres y la distribución de los taxones están en el [listado]({{ site.base_url }}/es/list/), y la identificación se hace con las descripciones morfológicas de las páginas de familia, género y especie; cuando el texto de una especie aún no se ha revisado, la página da la cita de la descripción original y enlaza a su página de género. El sitio ha retirado las claves de familia y género de <i>Fauna Sinica</i>; solo quedan la clave de orden y de subfamilias de Termitidae en el listado y la clave mundial de géneros en la página de Kalotermitidae.
 
 <ul class="basics-toc">
-  <li><a href="#castes">1. Castas y los dos planes corporales</a></li>
+  <li><a href="#castes">1. Castas</a></li>
   <li><a href="#head">2. Cabeza</a></li>
   <li><a href="#thorax">3. Tórax, alas y patas</a></li>
   <li><a href="#abdomen">4. Abdomen</a></li>
@@ -31,28 +36,56 @@ Esta página trata solo la morfología externa y los principales órganos intern
   <li><a href="#naming">8. Nombres, sinónimos y fuentes</a></li>
 </ul>
 
-## 1. Castas y los dos planes corporales {#castes}
+## 1. Castas {#castes}
 
-Se reconocen dos planes corporales: el **imago** (reproductores y obreras, semejantes al alado en forma, aparato bucal y segmentación antenal) y el **soldado** (cápsula cefálica y mandíbulas especializadas, menos segmentos antenales, ojos reducidos). Las castas son:
+Por función se reconocen primero dos grandes grupos: las castas **reproductoras** y las **no reproductoras**. Dentro de ellos las castas se separan por su origen del desarrollo: un mismo nombre puede surgir por rutas distintas en grupos distintos (sobre todo en los reproductores de reemplazo), así que conviene leer la tabla uniendo *forma* y *origen*.
 
-| Tipo | Nombre | Notas morfológicas |
+| Grupo | Casta | Forma y desarrollo |
 | --- | --- | --- |
-| Imago · reproductor | alado (reproductor alado) | Dos pares de alas largas, ojos compuestos desarrollados y un par de ocelos; cuerpo pardo amarillento a pardo oscuro; tras el vuelo nupcial las alas se rompen en la sutura humeral y queda un dealado |
-| Imago · reproductor | braquíptero, áptero | Reproductores suplementarios de alas cortas o sin alas, frecuentes al perderse la reina primaria |
-| Imago · no reproductor | obrera | La casta más numerosa; ojos reducidos o ausentes, sin alas; a veces se distinguen obreras mayores y menores |
-| Soldado | soldado | Mandíbulas muy agrandadas (mandibulado) o cabeza prolongada en un naso con mandíbulas reducidas (nasuto); ojos por lo general reducidos |
-| Inmaduro | larva, ninfa | Las ninfas ya muestran primordios alares y pasan por varios estadios; cuerpo pálido y cutícula fina |
-| Reproductor | reina, rey | El abdomen de la reina se vuelve fisogástrico al desarrollarse los ovarios y quedan expuestas las membranas intersegmentarias; el rey cambia poco |
+| No reproductora | inmaduro blanco | Blanco, sin esclerotizar, sin rasgos de soldado; alimentado por sus compañeros. Sin esbozos alares externos es larva blanca; con ellos, ninfa blanca |
+| No reproductora | larva (larva dependiente) | Sin esbozos alares externos, no se alimenta por sí misma; más oscura y de mayor edad que la larva blanca, sin límite estricto: llamar larva a la larva blanca también es correcto y está ampliamente aceptado |
+| No reproductora | pseudergado (falsa obrera) | Se alimenta por sí mismo; esbozos alares acortados o perdidos; procede de la larva o de una muda regresiva de la ninfa; en grupos sin obreras verdaderas (Kalotermitidae, etc.) es la mano de obra principal |
+| No reproductora | obrera | Se desarrolla por la vía sin alas; sin alas (los esbozos alares son anomalías raras), ojos muy reducidos; algunas especies tienen castas de obreras por tamaño y por sexo |
+| No reproductora | presoldado | Cabeza de soldado pero sin pigmento y poco esclerotizada, no defiende; un estadio en el camino hacia el soldado |
+| No reproductora | soldado | Cabeza muy esclerotizada; mandíbulas alargadas (mandibulado) o cabeza prolongada en un nasus con mandíbulas reducidas (nasuto); no muda ni se reproduce, no se alimenta por sí mismo; algunas especies tienen soldados de varios tamaños y sexos |
+| No reproductora | ninfa | Inmaduro con esbozos alares externos que crecen con la edad; normalmente da el alado |
+| Reproductora | alado | Dos pares de alas completas, color oscuro, ojos compuestos y ocelos bien desarrollados; las alas se desprenden en la escama alar tras el vuelo nupcial |
+| Reproductora | dealado | Alas desprendidas, escamas conservadas; tras el vuelo y el emparejamiento se convierte en reproductor primario |
+| Reproductora | reproductor primario (rey, reina) | Procede de una pareja de dealados que funda el nido; pigmentado, ojos bien desarrollados, escamas alares presentes; en muchas especies la reina se vuelve fisogástrica con membranas intersegmentarias expuestas |
+| Reproductora | aduloide | Muy parecido al reproductor primario; procede de un alado que no voló y se desprendió de las alas dentro del nido, sobre todo en Termitidae |
+| Reproductora | neoténico: braquíptero, escamado, áptero | Esbozos alares que crecen, clasificados en braquípteros largos, cortos y micro; los que han perdido el ala y solo conservan escamas son escamados; los sin esbozos son ápteros; no vuelan y sustituyen a los reyes primarios en el nido |
+| Reproductora | neoténico: larvoide, pseudergatoide, ninfoide, ergatoide, soldado reproductor | En grupos sin obreras verdaderas, larvoide (de larvas) y pseudergatoide (de pseudergados); en grupos con obreras, ninfoide (de ninfas, con esbozos) y ergatoide (de obreras, sin esbozos); el soldado reproductor solo se conoce en Archotermopsidae |
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/castes-head-es.png" alt="Cabezas de una obrera y de un soldado: la obrera tiene la cabeza casi redonda y mandíbulas cortas; el soldado, la cabeza alargada y mandíbulas muy desarrolladas. La forma de la cabeza, la relación largo/ancho y la dentición mandibular son los caracteres más usados." loading="lazy" decoding="async">
+  <figcaption>Cabezas de una obrera y de un soldado: la obrera tiene la cabeza casi redonda y mandíbulas cortas; el soldado, la cabeza alargada y mandíbulas muy desarrolladas. La forma de la cabeza, la relación largo/ancho y la dentición mandibular son los caracteres más usados. (Hamitermes hamifer; según Holmgren, 1909, Fig. 19, 20; dominio público)</figcaption>
+</figure>
+
+Las castas no son una escala fija sino ramas separadas por la ruta del desarrollo. Hay tres tipos de muda — progresiva, estacionaria y regresiva —, y la última devuelve al individuo a un estadio anterior. En los nidos de una sola pieza (Kalotermitidae, etc.) un pseudergado puede mudar de forma progresiva a ninfa, presoldado o neoténico, o mantenerse con una muda estacionaria, y una ninfa puede regresar a pseudergado. La larva de *Mastotermes darwiniensis* puede llegar al alado por una ninfa o convertirse directamente en obrera o presoldado. En los demás nidos, de varias piezas, la larva toma una de dos rutas: la línea ninfal lleva a alados y a reproductores ninfoides y aduloides, la línea sin alas a obreras, presoldados y soldados, y una obrera aún puede convertirse en ergatoide.
+
+Las castas también se diversifican por dentro. *Hospitalitermes medioflavus* tiene tres formas de obrera y una de soldado: las obreras menores son todas machos, las medias y mayores todas hembras; las menores pasan por un presoldado para ser soldados y las medias pueden crecer a mayores; las mayores solo transportan, las menores recolectan líquenes, los soldados exploran y defienden. Los soldados de *Macrotermes* son mayores y menores; *M. annandalei* y *M. barneyi* mantienen obreras mayores y menores en el mismo nido. Los reproductores de reemplazo varían entre grupos e incluso dentro de un género: la mayoría de los Termitidae los producen, *Macrotermes bellicosus* tiene aduloides y *M. subhyalinus* ninguno, *Odontotermes obesus* los produce y *O. assmuthi* no; durante mucho tiempo se discutió si *O. formosanus* puede producirlos, y la mayoría de los autores cree que no.
+
+Los reproductores neoténicos tienen dos nomenclaturas paralelas: una por el desarrollo del ala (braquíptero, escamado, áptero) y otra por la casta de origen (larvoide, pseudergatoide, ninfoide, ergatoide, soldado reproductor). No son excluyentes — los ninfoides suelen conservar esbozos, los ergatoides no tienen, los escamados han perdido el esbozo y solo guardan escamas — y a menudo los trabajos dan solo una de las dos, así que conviene precisar cuál se usa.
 
 ## 2. Cabeza {#head}
 
 La cápsula cefálica es redonda, ovalada, cuadrada o piriforme y prognata. Su rasgo más visible es la **sutura epicraneal**: una línea transversal (de ecdisis) y una línea media longitudinal que se unen en T o en Y; en muchas especies apenas se marca. Delante de la línea transversal está la **frente**; detrás, el **vértice**, y más atrás el **occipucio**. En Rhinotermitidae y Termitidae la confluencia de ambas líneas suele deprimirse o elevarse y se abre como **fontanela**, la salida de la glándula frontal y una de las marcas de Neoisoptera.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/head-es.png" alt="Regiones de la cápsula cefálica: suturas epicraneales" loading="lazy" decoding="async">
+  <figcaption>Regiones de la cápsula cefálica: suturas epicraneales (frontal y coronal), frente, vértice, fontanela, ojo compuesto, ocelo, clípeo y labro; el ocelo es el pequeño anillo junto al ojo compuesto. El occipucio es la pared posterior de la cabeza y no se ve en vista dorsal. (según Holmgren, 1909, Fig. 1a; dominio público)</figcaption>
+</figure>
 
 Los ojos compuestos ocupan los lados de la cabeza. Son grandes en los alados —unos 200 omatidios por ojo en <i>Mastotermes</i>, 300–400 en <i>Coptotermes formosanus</i> y unos 360 en <i>Odontotermes formosanus</i>— y quedan reducidos a una mancha de pigmento o desaparecen en obreras y soldados. El par de ocelos se sitúa por encima o anterodorsalmente a los ojos compuestos, es blanquecino y translúcido y solo existe en reproductores; en unos pocos grupos falta incluso ahí.
 
 Las antenas son moniliformes u ovaladas, con 9–30+ segmentos; tras el escapo y el pedicelo, el tercer segmento suele estar dividido, lo que produce una «división incompleta» que hay que tener en cuenta al contar.
 
 El aparato bucal es masticador: el labro cubre la boca; el clípeo se divide en un anteclípeo blando y un postclípeo esclerotizado (a menudo con surco medio en Rhinotermitidae y Termitidae); las mandíbulas llevan diente apical, dientes marginales y una placa molar basal; cada maxila tiene cardo, estipe, gálea, lacinia y un palpo de 5 segmentos; el labio tiene postmentón, prementón, glosas, paraglosas y palpos de 3 segmentos. La cavidad bucal queda cerrada por el labro, las mandíbulas, las maxilas y el labio, con la hipofaringe como suelo.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-es.png" alt="Cabeza en vista ventral: foramen occipital, postmento, premento, palpo maxilar" loading="lazy" decoding="async">
+  <figcaption>Cabeza en vista ventral: foramen occipital, postmento, premento, palpo maxilar (5 segmentos) y palpo labial (3 segmentos). Las mandíbulas quedan ocultas por el labio en esta vista. (según Holmgren, 1909, Fig. 1b; dominio público)</figcaption>
+</figure>
 
 | Nombre | Latín / inglés | Notas |
 | --- | --- | --- |
@@ -156,6 +189,11 @@ El abdomen tiene 10 segmentos, de cilíndrico a elipsoidal, con terguitos y este
 
 Los reproductores suelen mostrar manchas pardas en el abdomen con **setas secretoras** cortas, erectas y amarillas; su secreción atrae a las obreras y puede intervenir en la formación de castas. La glándula esternal se sitúa en la base del esternito 5 en obreras de Kalotermitidae, Rhinotermitidae y Termitidae, en los esternitos 3–5 en Mastotermitidae y en el esternito 4 en Hodotermitidae y Archotermopsidae.
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/abdomen-es.png" alt="Ápice del abdomen en corte sagital, hembra y macho" loading="lazy" decoding="async">
+  <figcaption>Ápice del abdomen en corte sagital: hembra a la izquierda (recto, ovarios, glándulas accesorias, espermateca, oviducto, abertura genital) y macho a la derecha (recto, vesícula seminal, pene; VII–IX = segmentos abdominales). (según Holmgren, 1909, Fig. 73, 74; dominio público)</figcaption>
+</figure>
+
 | Nombre | Latín / inglés | Notas |
 | --- | --- | --- |
 | Abdomen | abdomen | 10 segmentos; terguitos y esternitos unidos por membrana |
@@ -202,6 +240,11 @@ También se usa la proporción entre el ancho del pronoto y el de la cabeza: el 
 El tubo digestivo tiene tres regiones. El estomodeo comprende boca, faringe, esófago, buche y **proventrículo** (molleja): su revestimiento quitinoso lleva crestas longitudinales con hileras de procesos palmeados de 8–10 espinas orientadas hacia atrás que impiden la regurgitación; detrás está la válvula estomodeal. El mesenterón va de la válvula estomodeal a los tubos de Malpighi, revestido por células columnares y regenerativas con borde en cepillo, y envuelto por la **membrana peritrófica**, una malla proteica que protege el epitelio y actúa como ultrafiltro. El proctodeo va de los tubos de Malpighi al ano; su parte anterior se dilata en el **saco posterior** (paunch) con forma de calabaza, de pared fina, que alberga flagelados y bacterias simbiontes, seguido del colon y el recto con seis **almohadillas rectales** paralelas.
 
 En Termitidae el intestino posterior se modifica más: hay menos tubos de Malpighi, el proventrículo se simplifica, se pierden los ciegos del mesenterón y aparece un **segmento mixto** de epitelio del intestino medio y del posterior entre el mesenterón y P1, con los tubos de Malpighi agrupados cerca en un **nudo de Malpighi**; entre P1 y P3 se forma una **válvula entérica** esclerotizada. Los compartimentos siguen a Holmgren (1909): la válvula entérica es P2, antes está P1 (íleon) y después P3 (saco posterior), P4 (colon) y P5 (recto). En termites inferiores P3 es el compartimento mayor y está lleno de flagelados; Termitidae carece de flagelados y depende de bacterias; Macrotermitinae y algunos afines cultivan además jardines de hongos.
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="Canal alimentario de termitas: a la izquierda el imago de *Rhinotermes marginalis*, a la derecha la obrera de *Rhinotermes taurus*." loading="lazy" decoding="async">
+  <figcaption>Canal alimentario de termitas: a la izquierda el imago de *Rhinotermes marginalis*, a la derecha la obrera de *Rhinotermes taurus*. (según Holmgren, 1909, Fig. 48–49; dominio público)</figcaption>
+</figure>
 
 Otros órganos internos son el cerebro (proto-, deuto- y tritocerebro) con el ganglio subesofágico, tres ganglios torácicos y seis abdominales que forman la cadena nerviosa ventral; ovarios pares con muchos ovariolos (de 7–10 por lado en Kalotermitidae a varios miles en <i>Macrotermes</i>), oviductos, espermateca y vagina; testículos pares, conductos deferentes, conducto eyaculador, vesículas seminales y glándulas accesorias; y las glándulas frontal, salival (labial), mandibular, esternal y tergal.
 

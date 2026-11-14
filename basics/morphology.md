@@ -21,7 +21,7 @@ permalink: /basics/morphology/
 本页只讲外部形态与主要内部器官，不涉及行为、生态与分类学史；各分类阶元的名称与分布见[名录]({{ site.base_url }}/list/)，具体到科、属、种的鉴别见各科、属、种页面的形态描述；物种页在原始文献尚未整理时先给出原始描述出处并链接属页。本站已撤下据《中国动物志》编制的科属检索表，只在[名录]({{ site.base_url }}/list/)保留目级与白蚁科亚科检索表、在[木白蚁科]({{ site.base_url }}/family/kalotermitidae/)保留世界分属检索表。
 
 <ul class="basics-toc">
-  <li><a href="#castes">一、品级与两套形态模板</a></li>
+  <li><a href="#castes">一、品级</a></li>
   <li><a href="#head">二、头部</a></li>
   <li><a href="#thorax">三、胸部与翅、足</a></li>
   <li><a href="#abdomen">四、腹部</a></li>
@@ -31,18 +31,31 @@ permalink: /basics/morphology/
   <li><a href="#naming">八、命名、异名与文献</a></li>
 </ul>
 
-## 一、品级与两套形态模板 {#castes}
+## 一、品级 {#castes}
 
-传统上把白蚁个体分成两套形态模板：**原始型**（繁殖蚁与工蚁，体形、口器、触角节数接近有翅成虫）与**蜕变型**（兵蚁，头壳与上颚特化，触角节数减少、复眼退化）。在此之上再按生殖与劳动分工分品级：
+白蚁是多形态昆虫：同一群体内的个体在形态构造与职能上分化，形态相似、职能相同的个体属于同一品级（caste）。文献通常按功能先把品级分为**繁殖型**（reproductive）与**非繁殖型**（non-reproductive）两大类，再依发育来源细分；同一个名称在不同类群里可能出自不同的发育路线（补充繁殖蚁尤其如此），所以读这张表时要把“形态”与“发育来源”连起来看。各品级及其中英名如下：
 
-| 类型 | 名称 | 形态要点 |
+| 类群 | 品级 | 形态与发育要点 |
 | --- | --- | --- |
-| 原始型·繁殖类型 | 有翅成虫 alate（繁殖蚁） | 具两对长翅、发达复眼与一对单眼；体色多为黄褐至黑褐；分飞后翅自肩缝脱落，成为脱翅繁殖蚁 dealate |
-| 原始型·繁殖类型 | 短翅型 brachypterous、无翅型 apterous | 翅芽状或完全无翅的补充繁殖蚁，多见于失去原始蚁后的群体 |
-| 原始型·非繁殖类型 | 工蚁 worker | 数量最多，复眼退化或缺，无翅；大工蚁与小工蚁有时形态可分 |
-| 蜕变型 | 兵蚁 soldier | 上颚极度发达（上颚兵）或头壳前伸成象鼻、上颚退化（象鼻兵）；复眼多退化 |
-| 幼体 | 幼蚁 larva、若蚁 nymph | 若蚁已具翅芽，可分为若干龄期；体色浅，体壁薄 |
-| 繁殖个体 | 蚁后 queen、蚁王 king | 蚁后腹部随卵巢发育极度膨大（物理性膨腹），节间膜外露；蚁王体形变化小 |
+| 非繁殖型 non-reproductive | 白色未成熟蚁 white immature | 体白色、未骨化、无兵蚁形态，需巢伴喂养；无外生翅芽者称白幼蚁 white larva，具外生翅芽者称白若蚁 white nymph |
+| 非繁殖型 non-reproductive | 幼蚁 larva（依赖性幼蚁） | 无外生翅芽、不能独立进食；色素较白幼蚁深、龄期较大，二者无严格界限，直接将白幼蚁 white larva 称为幼蚁 larva 也是正确且被普遍接受的 |
+| 非繁殖型 non-reproductive | 拟工蚁 pseudergate（假工蚁） | 可独立取食，翅芽缩短或逐渐消失；由幼蚁发育，或由若蚁倒退性蜕皮而来；见于木白蚁科等无真正工蚁的类群 |
+| 非繁殖型 non-reproductive | 工蚁 worker | 由幼蚁经无翅路线发育；无翅（偶见有翅芽的异常个体）、复眼极度退化；有的种类工蚁有不同大小、不同性别的品级分化 |
+| 非繁殖型 non-reproductive | 前兵蚁 presoldier（先兵、白兵） | 已具兵蚁头形，但无色素、未高度骨化，无保卫能力；是其他品级向兵蚁分化途中的一个龄期 |
+| 非繁殖型 non-reproductive | 兵蚁 soldier | 头壳高度骨化，上颚加长（上颚兵）或囟门前伸成象鼻（象鼻兵）；不能蜕皮、永久不育、不能独立进食；有的种类兵蚁有不同大小、不同性别的品级分化 |
+| 非繁殖型 non-reproductive | 若蚁 nymph（具翅若蚁） | 具外生翅芽的未成熟个体，翅芽随龄期增长；一般经有翅路线发育成有翅成虫 |
+| 繁殖型 reproductive | 有翅成虫 alate | 两对完整长翅、体色深、复眼与单眼发达；分飞后翅自翅鳞处脱落 |
+| 繁殖型 reproductive | 脱翅成虫 dealate | 四翅已脱落，留有翅鳞；分飞落地配对后即成原始繁殖蚁 |
+| 繁殖型 reproductive | 原始繁殖蚁 primary reproductive（蚁王 king、蚁后 queen） | 由脱翅成虫配对建巢；体表有色素、复眼发达、具翅鳞；许多物种成熟群蚁后腹部极度膨大，节间膜外露 |
+| 繁殖型 reproductive | 成蚁型补充繁殖蚁 adultoid | 形态与原始繁殖蚁极似；巢内有翅成虫不分飞、就地脱翅而来，多见于白蚁科 |
+| 繁殖型 reproductive | 幼态型补充繁殖蚁：翅芽型 brachypterous（长翅芽型、短翅芽型、微翅芽型）、无翅型 apterous（按照翅的发育程度区分） | 具外生翅芽，随龄期增长，按长短分长翅芽型、短翅芽型与微翅芽型，这种区分方法一般在散白蚁属中使用较多 |
+| 繁殖型 reproductive | 幼态型补充繁殖蚁：幼蚁型 larvoid、拟工蚁型 pseudergatoid、若蚁型 nymphoid、职蚁型 ergatoid、兵蚁型 reproductive soldier（按照来源品级或形态区分） | 无真正工蚁的类群（木白蚁科、古白蚁科、齿白蚁科等）由幼蚁发育的称幼蚁型 larvoid，由拟工蚁发育的称拟工蚁型 pseudergatoid；有真正工蚁的类群由若蚁发育、留翅芽的称若蚁型 nymphoid，由工蚁发育、无翅芽的称职蚁型 ergatoid；兵蚁型 reproductive soldier 形似兵蚁而有生殖功能，仅古白蚁科有 |
+
+品级不是固定的等级序列，而是由发育路径分出的支路。白蚁的蜕皮分**渐进性蜕皮**（progressive moult）、**静止性蜕皮**（stationary moult）与**倒退性蜕皮**（regressive moult）三种，后者使个体倒退回上一龄期。单块型群体（木白蚁科等）中，拟工蚁可以渐进性蜕皮变为若蚁、前兵蚁或幼态型补充繁殖蚁，也可经静止性蜕皮保持原形；若蚁则能通过倒退性蜕皮变回拟工蚁。达尔文澳白蚁（*Mastotermes darwiniensis*）的幼蚁既可经若蚁阶段变成有翅成虫，也可直接变成工蚁与前兵蚁。其余多块型白蚁的幼蚁分两路：若蚁线路通向有翅成虫、若蚁型与成蚁型补充繁殖蚁，无翅线路通向工蚁、前兵蚁与兵蚁，工蚁还可蜕变为职蚁型补充繁殖蚁。
+
+同一品级内部还会再分化。中黄须白蚁（*Hospitalitermes medioflavus*）有三型工蚁、一型兵蚁：小工蚁全为雄性，中工蚁与大工蚁全为雌性，小工蚁经前兵蚁阶段发育成兵蚁，中工蚁可继续发育为大工蚁；大工蚁只承担运输，小工蚁取食地衣，兵蚁负责侦察与防卫。大白蚁属 *Macrotermes* 的兵蚁分大、小两型；土垄大白蚁（*Macrotermes annandalei*）、黄翅大白蚁（*Macrotermes barneyi*）同巢兼有大、小工蚁。补充繁殖蚁的有无因类群而异，同一属内也不一致：白蚁科多数种类能产生，大白蚁属中勇猛大白蚁（*Macrotermes bellicosus*）有成蚁型补充繁殖蚁、近明大白蚁（*Macrotermes subhyalinus*）则完全没有；土白蚁属中胖身土白蚁（*Odontotermes obesus*）能产生，阿斯穆斯土白蚁（*Odontotermes assmuthi*）则不能。黑翅土白蚁（*Odontotermes formosanus*）能否产生补充型长期有争论，多数学者认为没有。
+
+幼态型补充繁殖蚁有两套并行的叫法：一套按翅的发育程度分（翅芽型、翅鳞型、无翅型），一套按来源品级分（幼蚁型、拟工蚁型、若蚁型、职蚁型、兵蚁型）。两套分法并不互斥——若蚁型多保留翅芽，职蚁型多无翅芽，翅鳞型则已失去翅芽而只留翅鳞——文献里常只写其中一套，读时先看清指的是哪一套。
 
 ## 二、头部 {#head}
 
@@ -52,7 +65,17 @@ permalink: /basics/morphology/
 
 触角念珠状或椭圆形，9–30 节以上；柄节、梗节之后的鞭节常因第 3 节分裂而出现一个“不完整分裂节”，数节数时要留意。
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/head-zh.png" alt="有翅成虫头壳的分区：横缝、纵缝、额、头顶、囟、复眼、单眼、唇基、上唇的位置" width="2300" height="1480" loading="lazy" decoding="async">
+  <figcaption>头壳分区：横缝、纵缝、额、头顶、囟、复眼、单眼、唇基与上唇的位置；单眼是紧贴复眼的小圈。后头位于头壳后壁（面向颈部），背面观不可见，故图中未标注。（底图 Holmgren, 1909, Fig. 1a，公有领域）</figcaption>
+</figure>
+
 口器为咀嚼式：上唇盖在口前，唇基分柔软的前唇基与骨化的后唇基（鼻白蚁科、白蚁科的后唇基常有纵沟）；一对上颚强壮，内缘有端齿、缘齿和基部的臼齿板；一对下颚由轴节、茎节、外颚叶、内颚叶与 5 节下颚须组成；下唇由后颏、前颏、两对唇舌与 3 节下唇须组成。口腔由上唇、上下颚与下唇围成，底部是舌。
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/mouthparts-zh.png" alt="头部腹面与口器：后头孔、后颏、前颏、下颚须（5 节）、下唇须（3 节）的位置" width="2000" height="1500" loading="lazy" decoding="async">
+  <figcaption>头部腹面观：上方为头后（后头孔），下方为头前（口器）；后头孔、后颏、前颏、下颚须（5 节）与下唇须（3 节）的位置如图。上颚在此视角被下唇遮盖。（底图 Holmgren, 1909, Fig. 1b，公有领域）</figcaption>
+</figure>
 
 | 名称 | 拉丁 / 英文 | 说明 |
 | --- | --- | --- |
@@ -107,6 +130,11 @@ permalink: /basics/morphology/
 
 翅两对，膜质狭长，静止时平叠在腹背，一般前翅略长于后翅——“等翅目”之名即由此而来（实际并不完全等长）。翅面被毛情况因科而异：澳白蚁科、木白蚁科、草白蚁科的翅膜无毛（或仅微毛），乳白蚁属翅面多毛。澳白蚁科与草白蚁科的翅面有网纹与细小横脉；仅澳白蚁科后翅具大臀域。分飞后，翅沿肩缝（基缝）折断脱落，残留的三角形翅基即**翅鳞**：木白蚁科、鼻白蚁科的前翅鳞显著大于后翅鳞，白蚁科前后约等大。
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/wing-zh.png" alt="前翅基部与翅脉：翅鳞、关节片与各条纵脉的位置" width="2350" height="990" loading="lazy" decoding="async">
+  <figcaption>前翅基部与翅脉：翅鳞、关节片与各条纵脉的位置，右侧为原图德文脉名的中文对照。翅鳞所在处即翅基，分飞时翅沿此断裂。（底图 Holmgren, 1909, Fig. 43，公有领域）</figcaption>
+</figure>
+
 足三对，基节与转节短小，腿节、胫节长；胫节侧缘有一列硬刺，末端 2–3 枚端距，端距数按前、中、后足写作 3:3:3、3:2:2、2:2:2 等式。跗节多数 4 节；澳白蚁科 5 节，古白蚁科（古白蚁属、动白蚁属）第 2 跗分节退化，腹面看 5 节、背面看 4 节；杆白蚁属与印白蚁属 3 节。末端一对弯曲的爪，木白蚁科有些种具爪间突。
 
 | 名称 | 拉丁 / 英文 | 说明 |
@@ -156,6 +184,11 @@ permalink: /basics/morphology/
 
 繁殖蚁腹部常有褐色斑点，并生有短而直立的黄毛，称**分泌毛**：分泌物可引诱工蚁舐吮，可能参与品级形成。腹板腺的位置因类群而异：木白蚁科、鼻白蚁科、白蚁科在工蚁第 5 腹节腹板基部，澳白蚁科在第 3、4、5 腹节各有一个，草白蚁科与古白蚁科在第 4 腹节腹板基部。
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/abdomen-zh.png" alt="腹端纵切：左为雌性（直肠、卵巢、附属腺、贮精囊、输卵管与生殖孔），右为雄性（直肠、贮精囊与阳茎）" width="1781" height="940" loading="lazy" decoding="async">
+  <figcaption>腹端纵切：左为雌性（直肠、卵巢、附属腺、贮精囊、输卵管与生殖孔），右为雄性（直肠、贮精囊与阳茎，VII–IX 为腹节）。原图手写德文标注保留，中文对照见图。（底图 Holmgren, 1909, Fig. 73、74，公有领域）</figcaption>
+</figure>
+
 | 名称 | 拉丁 / 英文 | 说明 |
 | --- | --- | --- |
 | 腹部 | abdomen | 10 节；背板与腹板间为膜质，可伸缩 |
@@ -178,7 +211,17 @@ permalink: /basics/morphology/
 
 ## 五、兵蚁专有形态 {#soldier}
 
-兵蚁是“蜕变型”：头壳与上颚极度特化，触角节数常减少，复眼退化到只剩痕迹。按上颚的发育可分两类——**上颚兵**（mandibulate soldier）上颚极发达、头壳不向前伸突，左右上颚内缘的齿突常不同，有的扭曲成极不对称的“歪嘴”（如扭白蚁属 *Capritermes*）；**象鼻兵**（nasute soldier）上颚退化，头壳极度前伸成长象鼻，囟开口在象鼻先端，可喷射黏性分泌物（如象白蚁属 *Nasutitermes*）。个别属介于两者之间，如上颚退化但头壳只略前伸的 *Armitermes*，有时称“类象兵”（nasutoid）。
+兵蚁的头壳与上颚极度特化，触角节数常减少，复眼退化到只剩痕迹。按上颚的发育可分两类——**上颚兵**（mandibulate soldier）上颚极发达、头壳不向前伸突，左右上颚内缘的齿突常不同，有的扭曲成极不对称的“歪嘴”（如扭白蚁属 *Capritermes*）；**象鼻兵**（nasute soldier）上颚退化，头壳极度前伸成长象鼻，囟开口在象鼻先端，可喷射黏性分泌物（如象白蚁属 *Nasutitermes*）。个别属介于两者之间，上颚退化但头壳只略前伸的戟白蚁属 *Armitermes*，有时称“类象兵”（nasutoid）。
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/castes-head-zh.png" alt="工蚁与兵蚁的头壳对比：工蚁头壳近圆、上颚短小；兵蚁头壳延长、上颚显著加长" width="1385" height="1000" loading="lazy" decoding="async">
+  <figcaption>工蚁与兵蚁的头壳对比：工蚁头壳近圆、上颚短小；兵蚁头壳延长、上颚显著加长。头壳的形状与长宽比、上颚长短与齿式，是分属、分种最常用的特征。（Hamitermes hamifer；底图 Holmgren, 1909, Fig. 19、20，公有领域）</figcaption>
+</figure>
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/mandibles.png" alt="几种白蚁的上颚形态（Porotermes、Leucotermes、Calotermes、Termopsis、Serritermes、Hodotermes 等）" width="1943" height="630" loading="lazy" decoding="async">
+  <figcaption>几种白蚁的上颚形态：左为工蚁与成虫（a 含齿序 1–8 标注），右为不同属的对比。上颚的齿数与齿位是鉴定属、种的关键。（底图 Holmgren, 1909, Fig. 33–34，公有领域）</figcaption>
+</figure>
 
 兵蚁头形近方形、长方形、圆形、卵形、梨形或锥形；堆砂白蚁属 *Cryptotermes* 的头短厚、前方高起，能堵住坑道孔洞，称“堵口”（phragmosis）。头盖缝常为 Y 形或仅剩纵缝。额部扁平或高起，象鼻兵则前伸成象鼻。囟的位置多变：低等类群常缺；乳白蚁属 *Coptotermes* 的囟很发达，是头前方的大圆孔，分泌乳白色黏稠酸性浆液，属名即由此而来；象白蚁属的囟位于象鼻末端。上唇形状是常用特征：低等类群多为舌状，白蚁科可见二裂状、不对称状，鼻白蚁科（如长鼻白蚁属 *Schedorhinotermes*）上唇极长，可遮住上颚尖端，并有纵沟通向囟孔。
 
@@ -202,6 +245,11 @@ permalink: /basics/morphology/
 消化道分前肠、中肠、后肠。前肠包括口腔、咽喉、食道、嗉囊与**前胃**（砂囊）：几丁质内壁有纵脊，脊上横排掌状突起，每突起又有 8–10 枚小刺，刺尖向后，防止食物倒流；前胃之后是贲门瓣（口道瓣）。中肠自贲门瓣至马氏管着生处，内壁为柱状上皮与再生细胞，微绒毛形成刷状缘，外面包着**围食膜**——一层含蛋白质的网架，起保护与超滤作用。后肠自马氏管着生处至肛门，前段膨大成葫芦形的**后肠囊**（paunch），壁薄，是共生鞭毛虫、细菌与食糜混合发酵的场所；其后为结肠与直肠，直肠内有 6 条平行的**直肠垫**。
 
 在白蚁科（Termitidae）中，后肠进一步分化：马氏管减少，前胃简化，中肠盲囊消失，中肠与后肠之间出现一段由两种上皮共同构成的**混合节段**（mixed segment），马氏管在附近成簇形成**马氏管结**；P1 与 P3 之间产生硬化的**肠瓣**。后肠区段按 Holmgren（1909）的编号：肠瓣为 P2，其前为 P1（回肠），其后依次为 P3（后肠囊）、P4（结肠）、P5（直肠）。低等白蚁的 P3 最发达，里面充满鞭毛虫；白蚁科没有后肠鞭毛虫，改以细菌消化；大白蚁亚科等类群还培育真菌菌圃。
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="白蚁的消化道：左为成虫（Rhinotermes marginalis），右为工蚁（Rhinotermes taurus）" width="1292" height="1156" loading="lazy" decoding="async">
+  <figcaption>白蚁的消化道：左为成虫（Rhinotermes marginalis），右为工蚁（Rhinotermes taurus）。前肠细长，中肠盘曲成环并着生马氏管，后肠囊膨大，末端为直肠。（底图 Holmgren, 1909, Fig. 48–49，公有领域）</figcaption>
+</figure>
 
 内部器官中还有：脑（前脑、中脑、后脑）与咽下神经节、3 个胸神经节、6 个腹神经节组成的腹神经链；一对卵巢（由许多卵巢管组成，数量从木白蚁科的每侧 7–10 条到大白蚁属的数千条）、输卵管、受精囊与阴道；一对精巢、输精管、射精管、贮精囊与附属腺；以及额腺、唾腺（下唇腺）、上颚腺、腹板腺、背板腺等外分泌腺。
 
