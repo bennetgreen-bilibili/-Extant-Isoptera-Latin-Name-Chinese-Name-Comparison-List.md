@@ -309,10 +309,46 @@ jobs:
               if not ok:
                   failed.append(url)
 
+          # 域名迁移护栏（2026-11-12 换域名的核心承诺）：旧 github.io 项目子路径必须
+          # 301 到新域名的同一路径。GitHub Pages 在 Settings → Pages 里填了 Custom domain
+          # 之后才会这样回 301；哪天这条变红，就是 GitHub 侧行为变了或自定义域名被清掉了。
+          OLD_BASE = (
+              "https://bennetgreen-bilibili.github.io"
+              "/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md"
+          )
+          REDIRECT_PATHS = ["/", "/list/", "/species/mastotermes-darwiniensis/", "/en/list/"]
+
+
+          class _NoRedirect(urllib.request.HTTPRedirectHandler):
+              """不让 urllib 自己跟 301，否则看不到 Location。"""
+
+              def redirect_request(self, *args, **kwargs):
+                  return None
+
+
+          plain = urllib.request.build_opener(_NoRedirect)
+          for path in REDIRECT_PATHS:
+              src = OLD_BASE + path
+              want = BASE + path
+              code = None
+              where = ""
+              try:
+                  plain.open(urllib.request.Request(src, headers=UA), timeout=60)
+              except urllib.error.HTTPError as exc:
+                  code = exc.code
+                  where = (exc.headers.get("Location") or "").strip()
+              except Exception as exc:  # noqa: BLE001 - 网络抖动当作失败，但别炸掉整个 job
+                  where = "%s: %s" % (type(exc).__name__, exc)
+              ok = code in (301, 308) and where.rstrip("/") == want.rstrip("/")
+              print(("OK   " if ok else "FAIL ") + ("%s " % code if code else "") + src + "  ->  " + where)
+              if not ok:
+                  failed.append(src)
+
           if failed:
               print("::error::%d 个线上 URL 未通过校验：%s" % (len(failed), " ".join(failed)))
               sys.exit(1)
-          print("线上校验通过：%d 个 URL（状态码 200 + 关键内容）" % len(CHECKS))
+          print("线上校验通过：%d 个 URL（状态码 200 + 关键内容）+ %d 条旧域名 301"
+                % (len(CHECKS), len(REDIRECT_PATHS)))
           PY
 
   indexnow:

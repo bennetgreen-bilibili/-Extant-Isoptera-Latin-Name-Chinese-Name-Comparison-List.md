@@ -30,6 +30,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 CONFIG = ROOT / "_config.yml"
 ENDPOINT = "https://api.indexnow.org/indexnow"
+# IndexNow 的 key：8–128 个字符，只允许 a-z A-Z 0-9 和 "-"（文档原话，见 .sources 的 S0444）。
+# 2026-11-14 修：原来只按文件名匹配就直接判「多个 key 文件」并 sys.exit，
+# 根目录有了 llms.txt / robots.txt / sitemap.txt 之后（这些名字也满足 8 字符以上），
+# CI 里的 IndexNow 提交其实一次都没成功过。现在先按文件名筛候选，再要求
+# 内容与文件名主干逐字相等，只有真正合格的 key 文件才参与「多个」判定。
 KEY_FILE_RE = re.compile(r"^([A-Za-z0-9-]{8,128})\.txt$")
 USER_AGENT = "bennetgreen-indexnow/1.0 (+https://github.com/bennetgreen-bilibili)"
 
@@ -57,18 +62,35 @@ def read_config_base():
 
 
 def read_key():
-    """Find the <key>.txt file at the repo root; its content must equal its stem."""
-    candidates = [p for p in ROOT.glob("*.txt") if KEY_FILE_RE.match(p.name)]
-    if not candidates:
-        sys.exit("no <key>.txt file found at the repo root (IndexNow key file)")
-    if len(candidates) > 1:
-        sys.exit("multiple <key>.txt files found: %s" % ", ".join(p.name for p in candidates))
-    path = candidates[0]
-    key = KEY_FILE_RE.match(path.name).group(1)
-    content = path.read_text(encoding="utf-8").strip()
-    if content != key:
-        sys.exit("%s must contain exactly %r (it contains %r)" % (path.name, key, content))
-    return path, key
+    """Find the one <key>.txt file at the repo root whose content is its own stem.
+
+    Name matching alone is not enough: llms.txt / robots.txt / sitemap.txt also
+    look like "<something>.txt", so a file only counts as the key file when its
+    content is byte-equal to its stem (which the protocol requires anyway).
+    """
+    keys = []
+    for path in sorted(ROOT.glob("*.txt")):
+        m = KEY_FILE_RE.match(path.name)
+        if not m:
+            continue
+        try:
+            content = path.read_text(encoding="utf-8").strip()
+        except OSError:
+            continue
+        if content == m.group(1):
+            keys.append((path, m.group(1)))
+    if not keys:
+        sys.exit(
+            "no IndexNow key file at the repo root: create <key>.txt (8-128 chars, "
+            "a-z A-Z 0-9 and '-' only) whose content is exactly <key>, e.g. "
+            "e2e5803b0bdbaf2841439d61209ca404.txt"
+        )
+    if len(keys) > 1:
+        sys.exit(
+            "multiple IndexNow key files found: %s (keep exactly one)"
+            % ", ".join(p.name for p, _ in keys)
+        )
+    return keys[0]
 
 
 def load_urls(sitemap):
