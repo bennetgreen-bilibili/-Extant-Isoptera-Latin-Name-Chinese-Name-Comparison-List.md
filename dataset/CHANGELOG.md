@@ -4,7 +4,7 @@
 
 ## 2026.10.30 — 异名补录与命名差异判定修订
 
-- **基础知识改版（2026-11-15，同一版本，尚未归档发布）**：`/basics/` 索引页删去开头那段介绍（「这一栏是名录的“怎么读”部分……先认结构，再懂习性……」），页面只保留形态篇一个入口；三语生物学篇（`/basics/biology/`、`/en/basics/biology/`、`/es/basics/biology/`）从站点移除，源码移到 `_pending_pages/basics/`（不参与构建，恢复步骤见该目录 `README.md`）；索引页标题改为「白蚁基础知识 — 形态篇」「Termite Basics — Morphology」「Fundamentos de los termites — Morfología」，`description`、`keywords` 与「两篇」措辞同步改写；页面上「怎么用 / How to use this page / Cómo usarla」与「术语与口径 / Terms and classification / Términos y clasificación」两节一并删去，三语索引页只余形态篇入口与留言板一句；形态篇页首与页脚、三语首页「基础知识 / Basics / Fundamentos」卡片里指向生物学篇的句子一并删去；`sitemap.txt` 与检索索引重生成后不再含三个 biology URL。
+- **基础知识改版（2026-11-15，同一版本，尚未归档发布）**：`/basics/` 索引页删去开头那段介绍（「这一栏是名录的“怎么读”部分……先认结构，再懂习性……」），页面只保留形态篇一个入口；三语生物学篇（`/basics/biology/`、`/en/basics/biology/`、`/es/basics/biology/`）从站点移除，源码移到 `_pending_pages/basics/`（不参与构建，恢复步骤见该目录 `README.md`）；索引页标题改为「白蚁基础知识 — 形态篇」「Termite Basics — Morphology」「Fundamentos de los termites — Morfología」，`description`、`keywords` 与「两篇」措辞同步改写；页面上「怎么用 / How to use this page / Cómo usarla」与「术语与口径 / Terms and classification / Términos y clasificación」两节一并删去，三语索引页只余形态篇入口与留言板一句；形态篇页首与页脚、三语首页「基础知识 / Basics / Fundamentos」卡片里指向生物学篇的句子一并删去；形态篇三语删去「七、用这些术语读检索表 / 7. Using these terms with descriptions and keys / 7. Cómo usar estos términos…」整节（读表前的三项核查与十条常用特征），原「八、命名、异名与文献」顺延为第七节，页内目录同步调整，`description`、`keywords`、索引页与首页卡片里「检索表常用特征速查」的措辞一并改写；`sitemap.txt` 与检索索引重生成后不再含三个 biology URL。
 
 - **新增文献补录（2026-10-31，同一版本，尚未归档发布）**：按近年原始文献补录 18 个新种、4 个新亚种、3 个新属，并修订 4 处分类变动——
   - 新属：*Ekueitermes*（肠棘白蚁属）、*Spiralitermes*（螺旋白蚁属）、*Scheffrahnitermes*（谢弗拉恩白蚁属），均隶尖白蚁亚科（Apicotermitinae）；

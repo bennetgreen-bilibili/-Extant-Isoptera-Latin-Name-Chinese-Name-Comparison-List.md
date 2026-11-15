@@ -201,7 +201,7 @@ permalink: /es/
   <li><a href="https://termite-extant-isoptera.org/es/download/"><strong>Descargas</strong></a> — archivos de la carpeta downloads/, listados automáticamente.</li>
   <li><a href="https://termite-extant-isoptera.org/es/blog/"><strong>Blog</strong></a> — artículos y notas de actualización.</li>
   <li><a href="https://termite-extant-isoptera.org/es/guestbook/"><strong>Libro de visitas</strong></a> — deja un mensaje (con tu cuenta de GitHub).</li>
-  <li><a href="{{ site.base_url }}/es/basics/"><strong>Fundamentos</strong></a> — índice: morfología (cápsula cefálica, fontanela, mandíbulas, alas, tarzos, placas abdominales y órganos internos, con nombres latinos y una guía rápida para los rasgos usados en las descripciones y en las claves conservadas).</li>
+  <li><a href="{{ site.base_url }}/es/basics/"><strong>Fundamentos</strong></a> — índice: morfología (cápsula cefálica, fontanela, mandíbulas, alas, tarzos, placas abdominales y órganos internos, con nombres latinos y una nota sobre nombres alternativos).</li>
   <li><a href="{{ site.base_url }}/es/list/name-issues/"><strong>Discrepancias de nombres</strong></a> — filas que requieren revisión tras el cotejo con GBIF / Catalogue of Life / Blattodea Species File, filtrables por tipo, fuente y palabra clave.</li>
   <li><a href="{{ site.base_url }}/es/changelog/"><strong>Historial de versiones</strong></a> — cambios de cada versión (fecha de publicación); suscripción por <a href="{{ site.base_url }}/changelog.atom">Atom</a>.</li>
 </ul>

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Fundamentos de los termites — Morfología
-description: Morfología de los termites término a término: cabeza, fontanela, mandíbulas, alas, tarzos y órganos internos, con nombres latinos y guía para leer las claves.
+description: Morfología de los termites término a término: cabeza, fontanela, mandíbulas, alas, tarzos y órganos internos, con nombres latinos y una nota sobre nombres alternativos.
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
 version: 2026.10.30
-keywords: [termites, Isoptera, morfología, anatomía, glosario, fontanela, mandíbula, tarso, claves de identificación]
+keywords: [termites, Isoptera, morfología, anatomía, glosario, fontanela, mandíbula, tarso]
 permalink: /es/basics/morphology/
 ---
 
@@ -32,8 +32,7 @@ Esta página trata solo la morfología externa y los principales órganos intern
   <li><a href="#abdomen">4. Abdomen</a></li>
   <li><a href="#soldier">5. Estructuras propias del soldado</a></li>
   <li><a href="#internal">6. Órganos internos</a></li>
-  <li><a href="#keys">7. Cómo usar estos términos con descripciones y claves</a></li>
-  <li><a href="#naming">8. Nombres, sinónimos y fuentes</a></li>
+  <li><a href="#naming">7. Nombres, sinónimos y fuentes</a></li>
 </ul>
 
 ## 1. Castas {#castes}
@@ -288,24 +287,7 @@ Otros órganos internos son el cerebro (proto-, deuto- y tritocerebro) con el ga
 | Ganglio subesofágico | subesophageal ganglion | Inerva mandíbulas, maxilas, labio e hipofaringe |
 | Cadena nerviosa ventral | ventral nerve cord | Tres ganglios torácicos y seis abdominales; el último fusiona los ganglios 7–11 |
 
-## 7. Cómo usar estos términos con descripciones y claves {#keys}
-
-Las páginas de familia y género ofrecen descripciones morfológicas en lugar de claves; las de especie ofrecen una cuando ya se ha compilado y, si no, la cita de la descripción original con un enlace a la página del género. Solo el listado (orden y subfamilias de Termitidae) y la página de Kalotermitidae (géneros del mundo) conservan claves. Antes de usar una, compruebe tres cosas: **qué casta** tiene, **si el ejemplar está completo** (alas, antenas, tarzos y palpos se rompen con facilidad) y **si las medidas siguen el mismo criterio**. Los rasgos siguientes abren con frecuencia una dicotomía; van de lo más fácil a lo más difícil.
-
-1. **Contar los tarsómeros** — 4 en la mayoría de familias; 5 en Mastotermitidae; 5 ventrales y 4 dorsales en Archotermopsidae; 3 en <i>Stylotermes</i> e <i>Indotermes</i>.
-2. **Ver la fórmula de espolones tibiales** — 3:3:3, 3:2:2, 2:2:2…, contada en las tres patas.
-3. **Buscar la fontanela** — presente en Neoisoptera (Rhinotermitidae, Termitidae y afines), normalmente ausente en termites inferiores; en el extremo del naso en nasutos.
-4. **Mirar los ocelos** — un par, solo en reproductores; no confundir una mancha de pigmento del ojo reducido con un ocelo.
-5. **Medir las mandíbulas** — el índice mandibular izquierdo y el número de dientes son estándar a nivel de género y especie; los soldados suelen ser asimétricos.
-6. **Contar los segmentos de los cercos** — normalmente 2; 5–8 en Mastotermitidae y algunos taxones primitivos.
-7. **Comparar las escamas alares** — la anterior mucho mayor que la posterior (Kalotermitidae, Rhinotermitidae) o casi iguales (Termitidae).
-8. **Revisar la venación** — si R y Rs están fusionadas, si hay vena anal, dónde nace y se ramifica M; el lóbulo anal posterior es grande solo en Mastotermitidae.
-9. **Cabeza y pronoto del soldado** — la forma de la cabeza (cuadrada, piriforme, cónica) y la proporción pronoto/ancho cefálico son la entrada a las claves de familia y género.
-10. **Disecar el intestino** (nivel de subfamilia) — presencia y posición del segmento mixto, inserción de los tubos de Malpighi y nudo, divertículo de P3, estructura de la válvula entérica.
-
-Para identificaciones más finas, entre en el [listado]({{ site.base_url }}/es/list/) y abra la página de familia o género; cada descripción y cada clave conservada cita su fuente, y cualquier término puede buscarse aquí por su nombre chino o latino.
-
-## 8. Nombres, sinónimos y fuentes {#naming}
+## 7. Nombres, sinónimos y fuentes {#naming}
 
 Una misma estructura recibe nombres distintos según la literatura; al leer una clave, guíese por el término latino/español. Correspondencias frecuentes:
 

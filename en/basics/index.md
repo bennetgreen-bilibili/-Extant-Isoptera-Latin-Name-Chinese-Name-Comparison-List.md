@@ -15,7 +15,7 @@ permalink: /en/basics/
 ## The page
 
 <ul>
-  <li><a href="{{ site.base_url }}/en/basics/morphology/"><strong>Morphology</strong></a> — seven groups: castes and the two body plans, head, thorax with wings and legs, abdomen, soldier-specific structures, internal organs, and a quick guide to the features most often used in descriptions and the remaining keys, with a note on competing names for the same structure.</li>
+  <li><a href="{{ site.base_url }}/en/basics/morphology/"><strong>Morphology</strong></a> — seven groups: castes and the two body plans, head, thorax with wings and legs, abdomen, soldier-specific structures, internal organs, and a closing note on names, synonyms and sources.</li>
 </ul>
 
 <p class="muted">Spanish version to follow. Corrections and terminological suggestions are welcome on the <a href="{{ site.base_url }}/en/guestbook/">guestbook</a>.</p>

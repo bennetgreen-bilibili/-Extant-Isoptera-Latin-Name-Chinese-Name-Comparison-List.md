@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Termite Basics — Morphology
-description: Termite morphology term by term: head, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names and key-reading tips.
+description: Termite morphology term by term: head, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a note on competing names for the same structure.
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
 version: 2026.10.30
-keywords: [termites, Isoptera, morphology, anatomy, glossary, fontanelle, mandible, tarsus, identification keys]
+keywords: [termites, Isoptera, morphology, anatomy, glossary, fontanelle, mandible, tarsus]
 permalink: /en/basics/morphology/
 ---
 
@@ -27,8 +27,7 @@ This page covers external morphology and the main internal organs only; names an
   <li><a href="#abdomen">4. Abdomen</a></li>
   <li><a href="#soldier">5. Soldier-specific structures</a></li>
   <li><a href="#internal">6. Internal organs</a></li>
-  <li><a href="#keys">7. Using these terms with descriptions and keys</a></li>
-  <li><a href="#naming">8. Names, synonyms and sources</a></li>
+  <li><a href="#naming">7. Names, synonyms and sources</a></li>
 </ul>
 
 ## 1. Castes {#castes}
@@ -288,24 +287,7 @@ Other internal organs include the brain (proto-, deuto- and tritocerebrum) with 
 | Subesophageal ganglion | subesophageal ganglion | Supplies the mandibles, maxillae, labium and hypopharynx |
 | Ventral nerve cord | ventral nerve cord | Three thoracic and six abdominal ganglia; the last is fused from ganglia 7–11 |
 
-## 7. Using these terms with descriptions and keys {#keys}
-
-Family and genus pages now carry morphological descriptions instead of keys; species pages carry one where it has been compiled, and otherwise the original description citation with a link to the genus page. Only the checklist (order and Termitidae subfamily) and the Kalotermitidae page (world genera) retain keys. Before using one, check three things: **which caste** you have, **whether the specimen is complete** (wings, antennae, tarsi and palps break off easily), and **whether measurements follow the same standard**. The features below most often open a couplet; they are ordered from easiest to hardest.
-
-1. **Count the tarsomeres** — 4 in most families; 5 in Mastotermitidae; 5 ventrally and 4 dorsally in Archotermopsidae; 3 in <i>Stylotermes</i> and <i>Indotermes</i>.
-2. **Check the tibial spur formula** — 3:3:3, 3:2:2, 2:2:2 …, counted on all three legs.
-3. **Look for the fontanelle** — present in Neoisoptera (Rhinotermitidae, Termitidae and allies), usually absent in lower termites; at the nasus tip in nasutes.
-4. **Check the ocelli** — one pair, in reproductives only; do not mistake a pigment patch of a reduced compound eye for an ocellus.
-5. **Measure the mandibles** — left mandibular index and tooth counts are standard at genus and species level; soldiers are often asymmetric.
-6. **Count cercal segments** — usually 2; 5–8 in Mastotermitidae and some primitive taxa.
-7. **Compare wing scales** — forewing scale much larger than hindwing scale (Kalotermitidae, Rhinotermitidae) or about equal (Termitidae).
-8. **Check venation** — whether R and Rs are fused, whether an anal vein is present, where M arises and branches; the hindwing anal lobe is large only in Mastotermitidae.
-9. **Soldier head and pronotum** — head shape (square, pear-shaped, conical) and pronotal width relative to head width are the entry points for family and genus keys.
-10. **Dissect the gut** (subfamily level) — presence and position of the mixed segment, Malpighian tubule insertion and knot, P3 diverticulum, enteric valve structure.
-
-For finer identification, enter the [checklist]({{ site.base_url }}/en/list/) and open the family or genus page; every description and every retained key cites its source, and any term can be looked up here by Chinese or Latin name.
-
-## 8. Names, synonyms and sources {#naming}
+## 7. Names, synonyms and sources {#naming}
 
 The same structure often carries different names in different literatures; when reading a key, trust the Latin/English term. Common correspondences:
 

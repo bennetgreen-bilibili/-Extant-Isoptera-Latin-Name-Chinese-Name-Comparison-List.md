@@ -15,7 +15,7 @@ permalink: /es/basics/
 ## La página
 
 <ul>
-  <li><a href="{{ site.base_url }}/es/basics/morphology/"><strong>Morfología</strong></a> — siete grupos: castas y los dos planes corporales, cabeza, tórax con alas y patas, abdomen, estructuras propias de los soldados, órganos internos, y una guía rápida de los caracteres más usados en las claves, con una nota sobre nombres alternativos.</li>
+  <li><a href="{{ site.base_url }}/es/basics/morphology/"><strong>Morfología</strong></a> — siete grupos: castas y los dos planes corporales, cabeza, tórax con alas y patas, abdomen, estructuras propias de los soldados, órganos internos, y una nota final sobre nombres, sinónimos y fuentes.</li>
 </ul>
 
 <p class="muted">Las correcciones son bienvenidas en el <a href="{{ site.base_url }}/es/guestbook/">libro de visitas</a>.</p>
