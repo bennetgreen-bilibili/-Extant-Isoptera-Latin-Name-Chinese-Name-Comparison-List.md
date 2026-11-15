@@ -244,6 +244,62 @@
     }
   }
 
+  /* ===== 显示模式（昼 / 夜）=====
+     初始值由 _layouts/default.html 的 head 内联脚本写进 <html data-theme>（样式表之前，避免闪烁），
+     这里只负责按钮交互、按钮文案与 meta theme-color；用户没手动选过时继续跟随系统偏好。 */
+  var THEME_KEY = 'theme';
+  var THEME_COLORS = { light: '#1f4d38', dark: '#111915' };
+  var themeBtn = null;
+
+  function themeNow() {
+    var t = document.documentElement.getAttribute('data-theme');
+    if (t === 'light' || t === 'dark') return t;
+    return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+  }
+
+  function savedTheme() {
+    try {
+      var v = localStorage.getItem(THEME_KEY);
+      return (v === 'light' || v === 'dark') ? v : null;
+    } catch (e) { return null; }
+  }
+
+  function syncThemeButton() {
+    if (!themeBtn) return;
+    var label = themeBtn.getAttribute(themeNow() === 'dark' ? 'data-to-light' : 'data-to-dark') || themeBtn.getAttribute('aria-label');
+    themeBtn.setAttribute('aria-label', label);
+    themeBtn.setAttribute('title', label);
+    var meta = document.getElementById('theme-color-meta');
+    if (meta) meta.setAttribute('content', THEME_COLORS[themeNow()]);
+  }
+
+  function applyTheme(t) {
+    document.documentElement.setAttribute('data-theme', t);
+    syncThemeButton();
+  }
+
+  function setupTheme() {
+    themeBtn = document.getElementById('theme-toggle');
+    if (!themeBtn) return;
+    syncThemeButton();
+    themeBtn.addEventListener('click', function () {
+      var next = themeNow() === 'dark' ? 'light' : 'dark';
+      try { localStorage.setItem(THEME_KEY, next); } catch (e) {}
+      applyTheme(next);
+    });
+    /* 没手动选过时跟随系统；选过就不再被系统带跑 */
+    var mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+    if (mq) {
+      var onSystem = function (ev) { if (!savedTheme()) applyTheme(ev.matches ? 'dark' : 'light'); };
+      if (mq.addEventListener) mq.addEventListener('change', onSystem);
+      else if (mq.addListener) mq.addListener(onSystem);
+    }
+    /* 同一浏览器的多个标签页保持同步 */
+    window.addEventListener('storage', function (ev) {
+      if (ev.key === THEME_KEY && (ev.newValue === 'light' || ev.newValue === 'dark')) applyTheme(ev.newValue);
+    });
+  }
+
   /* 打印时自动展开「引用本种」区块，避免 <details> 折叠内容打印不出来 */
   function openCiteDetailsForPrint() {
     var details = document.querySelectorAll('details.species-cite');
@@ -252,7 +308,7 @@
 
   function ready(fn) { if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
   ready(function () {
-    setupToc(); italicizeTaxa(); setupBackTop(); setupCitations();
+    setupToc(); italicizeTaxa(); setupBackTop(); setupCitations(); setupTheme();
     window.addEventListener('beforeprint', openCiteDetailsForPrint);
   });
 })();

@@ -4,7 +4,8 @@
    ============================================================ */
 
 :root{--phylo-branch:#3c4f46;--phylo-family:#8a6137;--phylo-accent:#2f6b4f}
-@media (prefers-color-scheme:dark){:root{--phylo-branch:#a9c6b6;--phylo-family:#d8a877;--phylo-accent:#62b78a}}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--phylo-branch:#a9c6b6;--phylo-family:#d8a877;--phylo-accent:#62b78a}}
+:root[data-theme="dark"]{--phylo-branch:#a9c6b6;--phylo-family:#d8a877;--phylo-accent:#62b78a}
 
 .phylo-title{margin-top:.2em}
 .phylo-lead{max-width:74ch;color:var(--ink)}

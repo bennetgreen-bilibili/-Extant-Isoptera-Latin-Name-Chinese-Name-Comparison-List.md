@@ -8,6 +8,9 @@ zh-CN:
   brand: 现存等翅下目名录
   brand_sub: Extant Isoptera
   nav_label: 主导航
+  theme_toggle: 切换日间/夜间模式
+  theme_to_light: 切换到日间模式
+  theme_to_dark: 切换到夜间模式
   nav_home: 首页
   nav_list: 名录索引
   nav_basics: 基础知识
@@ -155,6 +158,9 @@ en:
   brand: Extant Isoptera
   brand_sub: Latin–Chinese name comparison list
   nav_label: Main navigation
+  theme_toggle: "Switch between light and dark mode"
+  theme_to_light: "Switch to light mode"
+  theme_to_dark: "Switch to dark mode"
   nav_home: Home
   nav_list: List index
   nav_basics: Basics
@@ -302,6 +308,9 @@ es:
   brand: Isópteros actuales
   brand_sub: Lista comparativa latín–chino
   nav_label: Navegación principal
+  theme_toggle: "Cambiar entre modo claro y oscuro"
+  theme_to_light: "Cambiar al modo claro"
+  theme_to_dark: "Cambiar al modo oscuro"
   nav_home: Inicio
   nav_list: Índice de la lista
   nav_basics: Fundamentos
