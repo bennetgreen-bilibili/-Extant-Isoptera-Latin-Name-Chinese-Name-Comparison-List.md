@@ -3,7 +3,6 @@ layout: default
 title: 白蚁基础知识 — 形态篇
 description: 白蚁基础知识入口：形态篇（头壳、囟、上颚、翅、跗节与内部器官）的术语与识别要点，术语口径与名录一致。
 lang: zh-CN
-lang_only: true
 author: 班奈特格林
 date: 2026-11-05
 version: 2026.10.30

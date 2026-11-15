@@ -4,6 +4,8 @@
 
 ## 2026.10.30 — 异名补录与命名差异判定修订
 
+- **基础知识三语支持修复（2026-11-16，同一版本，尚未归档发布）**：`/basics/` 索引页 front matter 删去误留的 `lang_only: true`（该字段只留给「无对照译文的单语页」），页头恢复中文 / English / Español 三语切换与 `hreflang` 互指，与同目录的形态篇一致；`/en/basics/` 删去已过时的「Spanish version to follow.」（`/es/basics/` 早已存在）；三语形态篇插图统一以中文版为准——英文版把 `wing-en.png` 从「六、内部器官」移回「三、胸部与翅、足」的翅段、`abdomen-en.png` 移到腹板腺表之前，并补上「五、兵蚁专有形态」原有的 `mandibles.png`；西班牙文版把 `wing-es.png` 从页面大标题上方移回「三、胸部与翅、足」的翅段、把 `castes-head-es.png` 从「一、品级」移回「五、兵蚁专有形态」，同样补上 `mandibles.png`；三语形态篇图序自此一致（头部 → 口器 → 翅 → 腹部 → 兵蚁头部 → 上颚 → 内部器官）；英文与西语版「内部器官」图里写成 `*Rhinotermes marginalis*` 的学名随所在 HTML 块不参与 Markdown 解析，页面上会原样露出星号，已改为 `<i>` 正体斜体（图注与 `alt` 一并处理）；`llms.txt` 三语条目删去「检索表常用特征速查」等随上一版删节而失效的措辞，「Key pages (English)」段里混入的三条中文条目换成英文的物种页 / 命名差异 / 版本记录，西语段补齐同三条，三语各 12 条一一对应。
+
 - **基础知识改版（2026-11-15，同一版本，尚未归档发布）**：`/basics/` 索引页删去开头那段介绍（「这一栏是名录的“怎么读”部分……先认结构，再懂习性……」），页面只保留形态篇一个入口；三语生物学篇（`/basics/biology/`、`/en/basics/biology/`、`/es/basics/biology/`）从站点移除，源码移到 `_pending_pages/basics/`（不参与构建，恢复步骤见该目录 `README.md`）；索引页标题改为「白蚁基础知识 — 形态篇」「Termite Basics — Morphology」「Fundamentos de los termites — Morfología」，`description`、`keywords` 与「两篇」措辞同步改写；页面上「怎么用 / How to use this page / Cómo usarla」与「术语与口径 / Terms and classification / Términos y clasificación」两节一并删去，三语索引页只余形态篇入口与留言板一句；形态篇页首与页脚、三语首页「基础知识 / Basics / Fundamentos」卡片里指向生物学篇的句子一并删去；形态篇三语删去「七、用这些术语读检索表 / 7. Using these terms with descriptions and keys / 7. Cómo usar estos términos…」整节（读表前的三项核查与十条常用特征），原「八、命名、异名与文献」顺延为第七节，页内目录同步调整，`description`、`keywords`、索引页与首页卡片里「检索表常用特征速查」的措辞一并改写；`sitemap.txt` 与检索索引重生成后不再含三个 biology URL。
 
 - **新增文献补录（2026-10-31，同一版本，尚未归档发布）**：按近年原始文献补录 18 个新种、4 个新亚种、3 个新属，并修订 4 处分类变动——

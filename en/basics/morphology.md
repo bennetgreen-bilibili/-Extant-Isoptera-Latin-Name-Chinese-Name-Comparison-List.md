@@ -129,6 +129,11 @@ The thorax has three segments: pro-, meso- and metathorax. The pronotum is free 
 
 There are two pairs of membranous, elongate wings, folded flat over the abdomen at rest, the forewing usually a little longer than the hindwing — hence “Isoptera”, although they are not truly equal. Wing vestiture differs by family: wings are bare (or with microtrichia only) in Mastotermitidae, Kalotermitidae and Hodotermitidae, hairy in <i>Coptotermes</i>. Mastotermitidae and Hodotermitidae have a reticulate membrane with fine cross-veins; only Mastotermitidae have a large anal lobe on the hindwing. After the dispersal flight the wings break off along the humeral (basal) suture, leaving triangular **wing scales**: the forewing scale is distinctly larger than the hindwing scale in Kalotermitidae and Rhinotermitidae, but about equal in Termitidae.
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/wing-en.png" alt="Base of the forewing and venation: wing scale, articulating sclerites and the longitudinal veins" loading="lazy" decoding="async">
+  <figcaption>Base of the forewing and venation: wing scale, articulating sclerites (Gelenkplatten) and the longitudinal veins, with the German plate labels translated at the right. The wing scale marks the wing base, where the wing breaks off after the dispersal flight. (after Holmgren, 1909, Fig. 43; public domain)</figcaption>
+</figure>
+
 The three pairs of legs have short coxae and trochanters and long femora and tibiae; the tibia bears a row of stout spines laterally and 2–3 apical spurs, summarised as the tibial spur formula (3:3:3, 3:2:2, 2:2:2 …). The tarsus is usually 4-segmented; 5 in Mastotermitidae, 5 ventrally but 4 dorsally in Archotermopsidae (tarsomere 2 reduced and visible only ventrally), and 3 in <i>Stylotermes</i> and <i>Indotermes</i>. The pretarsus ends in a pair of curved claws; some Kalotermitidae have an arolium.
 
 | Name | Latin / English | Notes |
@@ -178,6 +183,11 @@ The abdomen has 10 segments, cylindrical to olive-shaped, with tergites and ster
 
 Reproductives often show brownish patches on the abdomen bearing short, erect yellow **secretory setae**; their secretion attracts workers to lick it and may play a role in caste formation. The sternal gland lies at the base of sternite 5 in workers of Kalotermitidae, Rhinotermitidae and Termitidae, on sternites 3–5 in Mastotermitidae, and on sternite 4 in Hodotermitidae and Archotermopsidae.
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/abdomen-en.png" alt="Abdominal apex in sagittal section: female on the left" loading="lazy" decoding="async">
+  <figcaption>Abdominal apex in sagittal section: female on the left (rectum, ovaries, accessory glands, spermatheca, oviduct, genital opening) and male on the right (rectum, seminal vesicle, penis; VII–IX = abdominal segments). (after Holmgren, 1909, Fig. 73, 74; public domain)</figcaption>
+</figure>
+
 | Name | Latin / English | Notes |
 | --- | --- | --- |
 | Abdomen | abdomen | 10 segments; tergites and sternites joined by membrane |
@@ -198,11 +208,6 @@ Reproductives often show brownish patches on the abdomen bearing short, erect ye
 | Posterior sternal gland | posterior sternal gland | Hind-abdominal gland active during dispersal and pairing |
 | Anus | anus | Opening of the hindgut, between epiproct and paraprocts |
 
-<figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/abdomen-en.png" alt="Abdominal apex in sagittal section: female on the left" loading="lazy" decoding="async">
-  <figcaption>Abdominal apex in sagittal section: female on the left (rectum, ovaries, accessory glands, spermatheca, oviduct, genital opening) and male on the right (rectum, seminal vesicle, penis; VII–IX = abdominal segments). (after Holmgren, 1909, Fig. 73, 74; public domain)</figcaption>
-</figure>
-
 ## 5. Soldier-specific structures {#soldier}
 
 Soldiers are the “soldier plan”: head capsule and mandibles highly specialised, antennal segments often fewer, compound eyes reduced to traces. Two main types are recognised. **Mandibulate soldiers** have enormous mandibles and a head capsule that does not project forward; the inner teeth of the left and right mandibles often differ, and in some genera (e.g. <i>Capritermes</i>) the mandibles are twisted into a strongly asymmetric “snapping” bite. **Nasute soldiers** have reduced mandibles and a head drawn out into a long nasus, with the fontanelle opening at its tip and ejecting a sticky secretion (e.g. <i>Nasutitermes</i>). A few genera are intermediate, such as <i>Armitermes</i>, sometimes called nasutoid.
@@ -210,6 +215,11 @@ Soldiers are the “soldier plan”: head capsule and mandibles highly specialis
 <figure class="taxa-illustration">
   <img src="{{ site.baseurl }}/assets/images/basics/castes-head-en.png" alt="Heads of a worker and a soldier: the worker head is nearly round with short mandibles, the soldier head is elongated with much enlarged mandibles. Head shape, the length/width ratio and the mandibular teeth are the most used characters in genus and species keys." loading="lazy" decoding="async">
   <figcaption>Heads of a worker and a soldier: the worker head is nearly round with short mandibles, the soldier head is elongated with much enlarged mandibles. Head shape, the length/width ratio and the mandibular teeth are the most used characters in genus and species keys. (Hamitermes hamifer; after Holmgren, 1909, Fig. 19, 20; public domain)</figcaption>
+</figure>
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/mandibles.png" alt="Mandible shapes of several termites (Porotermes, Leucotermes, Calotermes, Termopsis, Serritermes, Hodotermes and others)" loading="lazy" decoding="async">
+  <figcaption>Mandible shape in several termites: left, worker and imago (a, with the tooth order 1–8 labelled); right, a comparison across genera. The number and position of the mandibular teeth are key to identifying genera and species. (after Holmgren, 1909, Fig. 33–34; public domain)</figcaption>
 </figure>
 
 Soldier heads are square, oblong, round, oval, pear-shaped or conical. In <i>Cryptotermes</i> the head is short, thick and raised in front, plugging the gallery opening — phragmosis. The epicranial suture is often Y-shaped or reduced to the median line. The frons may be flat or raised, and in nasute soldiers it becomes the nasus. The fontanelle varies: absent in many lower termites; a large circular pore on the front of the head in <i>Coptotermes</i>, which secretes a milky acidic fluid (hence the Chinese name “milk-exuding termite”); at the nasus tip in <i>Nasutitermes</i>. Labral shape is a standard character: tongue-shaped in lower groups, bifid or asymmetric in Termitidae, and extremely long and grooved in <i>Schedorhinotermes</i>, where it can cover the mandible tips and the groove leads to the fontanelle.
@@ -236,13 +246,8 @@ The gut has three regions. The foregut comprises the mouth, pharynx, esophagus, 
 In Termitidae the hindgut is further modified: Malpighian tubules are fewer, the proventriculus simplified, midgut caeca lost, and a **mixed segment** of mid- and hindgut epithelium appears between midgut and P1, with the Malpighian tubules clustered nearby as a **Malpighian knot**; a sclerotised **enteric valve** forms between P1 and P3. Hindgut compartments follow Holmgren (1909): the enteric valve is P2, P1 (ileum) precedes it, and P3 (paunch), P4 (colon) and P5 (rectum) follow. In lower termites P3 is the largest compartment and is packed with flagellates; Termitidae lack hindgut flagellates and rely on bacteria; Macrotermitinae and some relatives also cultivate fungus combs.
 
 <figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="Alimentary canal of termites: left the imago of *Rhinotermes marginalis*, right the worker of *Rhinotermes taurus*." loading="lazy" decoding="async">
-  <figcaption>Alimentary canal of termites: left the imago of *Rhinotermes marginalis*, right the worker of *Rhinotermes taurus*. (after Holmgren, 1909, Fig. 48–49; public domain)</figcaption>
-</figure>
-
-<figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/wing-en.png" alt="Base of the forewing and venation: wing scale, articulating sclerites" loading="lazy" decoding="async">
-  <figcaption>Base of the forewing and venation: wing scale, articulating sclerites (Gelenkplatten) and the longitudinal veins, with the German plate labels translated at the right. The wing scale marks the wing base, where the wing breaks off after the dispersal flight. (after Holmgren, 1909, Fig. 43; public domain)</figcaption>
+  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="Alimentary canal of termites: left the imago of Rhinotermes marginalis, right the worker of Rhinotermes taurus." loading="lazy" decoding="async">
+  <figcaption>Alimentary canal of termites: left the imago of <i>Rhinotermes marginalis</i>, right the worker of <i>Rhinotermes taurus</i>. (after Holmgren, 1909, Fig. 48–49; public domain)</figcaption>
 </figure>
 
 Other internal organs include the brain (proto-, deuto- and tritocerebrum) with the subesophageal ganglion, three thoracic and six abdominal ganglia forming the ventral nerve cord; paired ovaries of many ovarioles (from 7–10 per side in Kalotermitidae to several thousand in <i>Macrotermes</i>), oviducts, spermatheca and vagina; paired testes, vasa deferentia, ejaculatory duct, seminal vesicles and accessory glands; and the frontal, salivary (labial), mandibular, sternal and tergal glands.

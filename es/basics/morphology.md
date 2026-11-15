@@ -10,11 +10,6 @@ keywords: [termites, Isoptera, morfología, anatomía, glosario, fontanela, mand
 permalink: /es/basics/morphology/
 ---
 
-<figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/wing-es.png" alt="Base del ala anterior y nerviación: escama alar, escleritos articulares" loading="lazy" decoding="async">
-  <figcaption>Base del ala anterior y nerviación: escama alar, escleritos articulares (Gelenkplatten) y venas longitudinales, con los rótulos alemanes traducidos a la derecha. La escama alar marca la base del ala, por donde se rompe tras el vuelo. (según Holmgren, 1909, Fig. 43; dominio público)</figcaption>
-</figure>
-
 # Fundamentos de los termites: morfología
 
 <p class="muted">← Volver al <a href="{{ site.base_url }}/es/basics/">índice de fundamentos</a>.</p>
@@ -54,11 +49,6 @@ Por función se reconocen primero dos grandes grupos: las castas **reproductoras
 | Reproductora | aduloide | Muy parecido al reproductor primario; procede de un alado que no voló y se desprendió de las alas dentro del nido, sobre todo en Termitidae |
 | Reproductora | neoténico: braquíptero, escamado, áptero | Esbozos alares que crecen, clasificados en braquípteros largos, cortos y micro; los que han perdido el ala y solo conservan escamas son escamados; los sin esbozos son ápteros; no vuelan y sustituyen a los reyes primarios en el nido |
 | Reproductora | neoténico: larvoide, pseudergatoide, ninfoide, ergatoide, soldado reproductor | En grupos sin obreras verdaderas, larvoide (de larvas) y pseudergatoide (de pseudergados); en grupos con obreras, ninfoide (de ninfas, con esbozos) y ergatoide (de obreras, sin esbozos); el soldado reproductor solo se conoce en Archotermopsidae |
-
-<figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/castes-head-es.png" alt="Cabezas de una obrera y de un soldado: la obrera tiene la cabeza casi redonda y mandíbulas cortas; el soldado, la cabeza alargada y mandíbulas muy desarrolladas. La forma de la cabeza, la relación largo/ancho y la dentición mandibular son los caracteres más usados." loading="lazy" decoding="async">
-  <figcaption>Cabezas de una obrera y de un soldado: la obrera tiene la cabeza casi redonda y mandíbulas cortas; el soldado, la cabeza alargada y mandíbulas muy desarrolladas. La forma de la cabeza, la relación largo/ancho y la dentición mandibular son los caracteres más usados. (Hamitermes hamifer; según Holmgren, 1909, Fig. 19, 20; dominio público)</figcaption>
-</figure>
 
 Las castas no son una escala fija sino ramas separadas por la ruta del desarrollo. Hay tres tipos de muda — progresiva, estacionaria y regresiva —, y la última devuelve al individuo a un estadio anterior. En los nidos de una sola pieza (Kalotermitidae, etc.) un pseudergado puede mudar de forma progresiva a ninfa, presoldado o neoténico, o mantenerse con una muda estacionaria, y una ninfa puede regresar a pseudergado. La larva de *Mastotermes darwiniensis* puede llegar al alado por una ninfa o convertirse directamente en obrera o presoldado. En los demás nidos, de varias piezas, la larva toma una de dos rutas: la línea ninfal lleva a alados y a reproductores ninfoides y aduloides, la línea sin alas a obreras, presoldados y soldados, y una obrera aún puede convertirse en ergatoide.
 
@@ -139,6 +129,11 @@ El tórax tiene tres segmentos: protórax, mesotórax y metatórax. El pronoto e
 
 Hay dos pares de alas membranosas y alargadas, plegadas planas sobre el abdomen en reposo, con el ala anterior algo más larga que la posterior —de ahí «Isoptera», aunque no son iguales—. La pilosidad alar varía por familia: alas desnudas (o solo con microtriquias) en Mastotermitidae, Kalotermitidae y Hodotermitidae, y vellosas en <i>Coptotermes</i>. Mastotermitidae y Hodotermitidae muestran membrana reticulada con venas transversales finas; solo Mastotermitidae tienen un lóbulo anal grande en el ala posterior. Tras el vuelo, las alas se rompen en la sutura humeral (basal) y dejan **escamas alares** triangulares: la escama anterior es mucho mayor que la posterior en Kalotermitidae y Rhinotermitidae, pero casi iguales en Termitidae.
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/wing-es.png" alt="Base del ala anterior y nerviación: escama alar, escleritos articulares y venas longitudinales" loading="lazy" decoding="async">
+  <figcaption>Base del ala anterior y nerviación: escama alar, escleritos articulares (Gelenkplatten) y venas longitudinales, con los rótulos alemanes traducidos a la derecha. La escama alar marca la base del ala, por donde se rompe tras el vuelo. (según Holmgren, 1909, Fig. 43; dominio público)</figcaption>
+</figure>
+
 Las tres patas tienen coxas y trocánteres cortos y fémures y tibias largos; la tibia lleva una hilera de espinas robustas y 2–3 espolones apicales, resumidos en la fórmula de espolones tibiales (3:3:3, 3:2:2, 2:2:2…). El tarso suele tener 4 segmentos; 5 en Mastotermitidae, 5 ventrales y 4 dorsales en Archotermopsidae (el tarsómero 2 está reducido y solo se ve ventralmente), y 3 en <i>Stylotermes</i> e <i>Indotermes</i>. El pretarso termina en un par de uñas curvas; algunos Kalotermitidae tienen arólio.
 
 | Nombre | Latín / inglés | Notas |
@@ -217,6 +212,16 @@ Los reproductores suelen mostrar manchas pardas en el abdomen con **setas secret
 
 El soldado es el «plan soldado»: cápsula cefálica y mandíbulas muy especializadas, a menudo menos segmentos antenales y ojos compuestos reducidos a trazas. Se distinguen dos tipos principales. Los **soldados mandibulados** tienen mandíbulas enormes y una cápsula que no se proyecta hacia delante; los dientes internos de las mandíbulas izquierda y derecha suelen diferir y en algunos géneros (p. ej. <i>Capritermes</i>) se tuercen en una mordida muy asimétrica. Los **soldados nasutos** tienen mandíbulas reducidas y la cabeza prolongada en un naso largo, con la fontanela en su extremo expulsando una secreción pegajosa (p. ej. <i>Nasutitermes</i>). Algunos géneros son intermedios, como <i>Armitermes</i>, a veces llamados nasutoides.
 
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/castes-head-es.png" alt="Cabezas de una obrera y de un soldado: la obrera tiene la cabeza casi redonda y mandíbulas cortas; el soldado, la cabeza alargada y mandíbulas muy desarrolladas." loading="lazy" decoding="async">
+  <figcaption>Cabezas de una obrera y de un soldado: la obrera tiene la cabeza casi redonda y mandíbulas cortas; el soldado, la cabeza alargada y mandíbulas muy desarrolladas. La forma de la cabeza, la relación largo/ancho y la dentición mandibular son los caracteres más usados. (Hamitermes hamifer; según Holmgren, 1909, Fig. 19, 20; dominio público)</figcaption>
+</figure>
+
+<figure class="taxa-illustration">
+  <img src="{{ site.baseurl }}/assets/images/basics/mandibles.png" alt="Formas de las mandíbulas de varios termites (Porotermes, Leucotermes, Calotermes, Termopsis, Serritermes, Hodotermes y otros)" loading="lazy" decoding="async">
+  <figcaption>Formas de las mandíbulas de varios termites: a la izquierda, obrera e imago (a, con el orden de dientes 1–8 rotulado); a la derecha, comparación entre géneros. El número y la posición de los dientes mandibulares son clave para identificar géneros y especies. (según Holmgren, 1909, Fig. 33–34; dominio público)</figcaption>
+</figure>
+
 La cabeza del soldado es cuadrada, oblonga, redonda, ovalada, piriforme o cónica. En <i>Cryptotermes</i> es corta, gruesa y elevada por delante, y tapona la galería: fragmosis. La sutura epicraneal suele ser en Y o reducida a la línea media. La frente puede ser plana o elevada, y en los nasutos se convierte en el naso. La fontanela varía: falta en muchos termites inferiores; en <i>Coptotermes</i> es un poro circular grande en la parte anterior de la cabeza que segrega un líquido ácido y lechoso (de ahí el nombre chino «termite que exuda leche»); en <i>Nasutitermes</i> está en el extremo del naso. La forma del labro es un carácter habitual: linguiforme en grupos inferiores, bífido o asimétrico en Termitidae, y muy largo y acanalado en <i>Schedorhinotermes</i>, donde puede cubrir las puntas de las mandíbulas y el surco conduce a la fontanela.
 
 También se usa la proporción entre el ancho del pronoto y el de la cabeza: el pronoto es mayor o casi igual al ancho cefálico en Kalotermitidae, algo menor en Rhinotermitidae y mucho menor en Termitidae. En soldados de <i>Reticulitermes</i>, el número de setas de la zona media del pronoto separa el grupo de «frente elevada» (más de 20 setas) del de «frente plana» (unas 10 o ninguna).
@@ -241,8 +246,8 @@ El tubo digestivo tiene tres regiones. El estomodeo comprende boca, faringe, es�
 En Termitidae el intestino posterior se modifica más: hay menos tubos de Malpighi, el proventrículo se simplifica, se pierden los ciegos del mesenterón y aparece un **segmento mixto** de epitelio del intestino medio y del posterior entre el mesenterón y P1, con los tubos de Malpighi agrupados cerca en un **nudo de Malpighi**; entre P1 y P3 se forma una **válvula entérica** esclerotizada. Los compartimentos siguen a Holmgren (1909): la válvula entérica es P2, antes está P1 (íleon) y después P3 (saco posterior), P4 (colon) y P5 (recto). En termites inferiores P3 es el compartimento mayor y está lleno de flagelados; Termitidae carece de flagelados y depende de bacterias; Macrotermitinae y algunos afines cultivan además jardines de hongos.
 
 <figure class="taxa-illustration">
-  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="Canal alimentario de termitas: a la izquierda el imago de *Rhinotermes marginalis*, a la derecha la obrera de *Rhinotermes taurus*." loading="lazy" decoding="async">
-  <figcaption>Canal alimentario de termitas: a la izquierda el imago de *Rhinotermes marginalis*, a la derecha la obrera de *Rhinotermes taurus*. (según Holmgren, 1909, Fig. 48–49; dominio público)</figcaption>
+  <img src="{{ site.baseurl }}/assets/images/basics/gut.png" alt="Canal alimentario de termitas: a la izquierda el imago de Rhinotermes marginalis, a la derecha la obrera de Rhinotermes taurus." loading="lazy" decoding="async">
+  <figcaption>Canal alimentario de termitas: a la izquierda el imago de <i>Rhinotermes marginalis</i>, a la derecha la obrera de <i>Rhinotermes taurus</i>. (según Holmgren, 1909, Fig. 48–49; dominio público)</figcaption>
 </figure>
 
 Otros órganos internos son el cerebro (proto-, deuto- y tritocerebro) con el ganglio subesofágico, tres ganglios torácicos y seis abdominales que forman la cadena nerviosa ventral; ovarios pares con muchos ovariolos (de 7–10 por lado en Kalotermitidae a varios miles en <i>Macrotermes</i>), oviductos, espermateca y vagina; testículos pares, conductos deferentes, conducto eyaculador, vesículas seminales y glándulas accesorias; y las glándulas frontal, salival (labial), mandibular, esternal y tergal.
