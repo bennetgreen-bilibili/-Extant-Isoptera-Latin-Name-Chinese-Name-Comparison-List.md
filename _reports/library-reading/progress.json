@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-15T02:58:40+08:00",
+ "updated": "2026-11-16T00:30:50+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -185,8 +185,8 @@
    ]
   },
   "abstract:S0010": {
-   "reads": 2,
-   "last_read": "2026-11-12T20:40:14+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -196,13 +196,18 @@
     {
      "date": "2026-11-12",
      "focus": "morphology",
+     "source_id": "S0010"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0010"
     }
    ]
   },
   "abstract:S0011": {
-   "reads": 2,
-   "last_read": "2026-11-12T20:40:14+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -212,13 +217,18 @@
     {
      "date": "2026-11-12",
      "focus": "morphology",
+     "source_id": "S0011"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0011"
     }
    ]
   },
   "abstract:S0012": {
-   "reads": 2,
-   "last_read": "2026-11-12T20:40:14+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -228,13 +238,18 @@
     {
      "date": "2026-11-12",
      "focus": "morphology",
+     "source_id": "S0012"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0012"
     }
    ]
   },
   "abstract:S0098": {
-   "reads": 2,
-   "last_read": "2026-11-12T20:40:14+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -245,12 +260,17 @@
      "date": "2026-11-12",
      "focus": "morphology",
      "source_id": "S0098"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
+     "source_id": "S0098"
     }
    ]
   },
   "abstract:S0136": {
-   "reads": 2,
-   "last_read": "2026-11-13T00:08:06+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -260,6 +280,11 @@
     {
      "date": "2026-11-12-r2",
      "focus": "morphology",
+     "source_id": "S0136"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0136"
     }
    ]
@@ -430,8 +455,8 @@
    ]
   },
   "abstract:S0137": {
-   "reads": 3,
-   "last_read": "2026-11-15T02:58:40+08:00",
+   "reads": 4,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -447,12 +472,17 @@
      "date": "2026-11-15",
      "focus": "taxonomy",
      "source_id": "S0137"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0137"
     }
    ]
   },
   "abstract:S0139": {
-   "reads": 2,
-   "last_read": "2026-11-13T00:08:06+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -462,13 +492,18 @@
     {
      "date": "2026-11-12-r2",
      "focus": "morphology",
+     "source_id": "S0139"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0139"
     }
    ]
   },
   "abstract:S0140": {
-   "reads": 2,
-   "last_read": "2026-11-13T00:08:06+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -478,13 +513,18 @@
     {
      "date": "2026-11-12-r2",
      "focus": "morphology",
+     "source_id": "S0140"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0140"
     }
    ]
   },
   "abstract:S0141": {
-   "reads": 2,
-   "last_read": "2026-11-13T00:08:06+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -495,12 +535,17 @@
      "date": "2026-11-12-r2",
      "focus": "morphology",
      "source_id": "S0141"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
+     "source_id": "S0141"
     }
    ]
   },
   "abstract:S0143": {
-   "reads": 2,
-   "last_read": "2026-11-14T20:00:56+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -510,6 +555,11 @@
     {
      "date": "2026-11-13",
      "focus": "morphology",
+     "source_id": "S0143"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0143"
     }
    ]
@@ -701,8 +751,8 @@
    ]
   },
   "abstract:S0145": {
-   "reads": 2,
-   "last_read": "2026-11-14T20:00:56+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -712,13 +762,18 @@
     {
      "date": "2026-11-13",
      "focus": "morphology",
+     "source_id": "S0145"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0145"
     }
    ]
   },
   "abstract:S0146": {
-   "reads": 2,
-   "last_read": "2026-11-14T20:00:56+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -728,13 +783,18 @@
     {
      "date": "2026-11-13",
      "focus": "morphology",
+     "source_id": "S0146"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0146"
     }
    ]
   },
   "abstract:S0147": {
-   "reads": 2,
-   "last_read": "2026-11-14T20:00:56+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -745,12 +805,17 @@
      "date": "2026-11-13",
      "focus": "morphology",
      "source_id": "S0147"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
+     "source_id": "S0147"
     }
    ]
   },
   "abstract:S0148": {
-   "reads": 2,
-   "last_read": "2026-11-14T21:23:22+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -760,6 +825,11 @@
     {
      "date": "2026-11-14",
      "focus": "morphology",
+     "source_id": "S0148"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0148"
     }
    ]
@@ -930,8 +1000,8 @@
    ]
   },
   "abstract:S0150": {
-   "reads": 2,
-   "last_read": "2026-11-14T21:23:22+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -941,13 +1011,18 @@
     {
      "date": "2026-11-14",
      "focus": "morphology",
+     "source_id": "S0150"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0150"
     }
    ]
   },
   "abstract:S0151": {
-   "reads": 2,
-   "last_read": "2026-11-14T21:23:22+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -957,13 +1032,18 @@
     {
      "date": "2026-11-14",
      "focus": "morphology",
+     "source_id": "S0151"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0151"
     }
    ]
   },
   "abstract:S0152": {
-   "reads": 2,
-   "last_read": "2026-11-14T21:23:22+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -973,13 +1053,18 @@
     {
      "date": "2026-11-14",
      "focus": "morphology",
+     "source_id": "S0152"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0152"
     }
    ]
   },
   "abstract:S0154": {
-   "reads": 2,
-   "last_read": "2026-11-14T21:23:22+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -990,12 +1075,17 @@
      "date": "2026-11-14",
      "focus": "morphology",
      "source_id": "S0154"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
+     "source_id": "S0154"
     }
    ]
   },
   "abstract:S0155": {
-   "reads": 2,
-   "last_read": "2026-11-15T02:58:40+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -1005,6 +1095,11 @@
     {
      "date": "2026-11-15",
      "focus": "taxonomy",
+     "source_id": "S0155"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0155"
     }
    ]
@@ -1175,8 +1270,8 @@
    ]
   },
   "abstract:S0196": {
-   "reads": 2,
-   "last_read": "2026-11-15T02:58:40+08:00",
+   "reads": 3,
+   "last_read": "2026-11-16T00:30:50+08:00",
    "history": [
     {
      "date": "2026-11-12",
@@ -1186,6 +1281,11 @@
     {
      "date": "2026-11-15",
      "focus": "taxonomy",
+     "source_id": "S0196"
+    },
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "ecology",
      "source_id": "S0196"
     }
    ]
@@ -1836,6 +1936,886 @@
      "date": "2026-11-15",
      "focus": "taxonomy",
      "source_id": "S0166"
+    }
+   ]
+  },
+  "10.1002-jmor.1050340304::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0243"
+    }
+   ]
+  },
+  "10.1515-znc-2018-0197::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0244"
+    }
+   ]
+  },
+  "10.13102-sociobiology.v65i3.2902::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0245"
+    }
+   ]
+  },
+  "10.1111-jeu.12447::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0246"
+    }
+   ]
+  },
+  "10.13102-sociobiology.v62i3.793::0001-0013": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0247"
+    }
+   ]
+  },
+  "10.1017-s0266467409990356::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0248"
+    }
+   ]
+  },
+  "10.1046-j.1365-3032.1999.00106.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0249"
+    }
+   ]
+  },
+  "10.1093-aesa-sax034::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0250"
+    }
+   ]
+  },
+  "10.3897-zookeys.596.9080::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0251"
+    }
+   ]
+  },
+  "10.1080-00222939700770711::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0252"
+    }
+   ]
+  },
+  "10.1127-entom.gen-16-1991-13::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0253"
+    }
+   ]
+  },
+  "10.1163-156853955x00256::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0254"
+    }
+   ]
+  },
+  "10.1080-00222933.2011.651653::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0255"
+    }
+   ]
+  },
+  "10.1080-09670870110094387::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0256"
+    }
+   ]
+  },
+  "10.1007-bf02348422::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0257"
+    }
+   ]
+  },
+  "10.1111-j.1439-0418.1978.tb04011.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0258"
+    }
+   ]
+  },
+  "10.1071-zo9740471::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0259"
+    }
+   ]
+  },
+  "10.1111-eea.12532::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0260"
+    }
+   ]
+  },
+  "10.18980-jjprotozool.45.1-2_29::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0261"
+    }
+   ]
+  },
+  "10.1093-chemse-bjr065::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0262"
+    }
+   ]
+  },
+  "10.4038-cjsbs.v39i1.2349::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0263"
+    }
+   ]
+  },
+  "10.1076-snfe.31.2.82.13328::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0264"
+    }
+   ]
+  },
+  "10.4102-koedoe.v38i1.307::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0265"
+    }
+   ]
+  },
+  "10.1007-bf02347186::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0266"
+    }
+   ]
+  },
+  "10.1080-23802359.2017.1289349::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0267"
+    }
+   ]
+  },
+  "10.15376-biores.10.2.2094-2102::0001-0009": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0268"
+    }
+   ]
+  },
+  "10.1080-00222939800770681::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0269"
+    }
+   ]
+  },
+  "10.1093-aesa-89.6.775::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0270"
+    }
+   ]
+  },
+  "10.37486-0301-8059.v24i3.1073::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0271"
+    }
+   ]
+  },
+  "10.1111-j.1442-9993.1988.tb00980.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0272"
+    }
+   ]
+  },
+  "10.1017-s0007485300045041::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0273"
+    }
+   ]
+  },
+  "10.11609-jott.5781.13.6.18598-18613::0001-0018": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0274"
+    }
+   ]
+  },
+  "10.3390-microorganisms8101482::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0275"
+    }
+   ]
+  },
+  "10.1673-031.013.3701::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0276"
+    }
+   ]
+  },
+  "10.2323-jgam.57.93::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0277"
+    }
+   ]
+  },
+  "10.1039-c39780000981::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0278"
+    }
+   ]
+  },
+  "10.1071-zo9680405::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0279"
+    }
+   ]
+  },
+  "10.1038-s41598-021-04574-0::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0280"
+    }
+   ]
+  },
+  "10.1002-ece3.7462::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0281"
+    }
+   ]
+  },
+  "10.11646-zootaxa.4032.2.3::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0282"
+    }
+   ]
+  },
+  "10.1111-jeu.12163::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0283"
+    }
+   ]
+  },
+  "10.12741-ebrasilis.v7i1.353::0001-0004": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0284"
+    }
+   ]
+  },
+  "10.25100-socolen.v38i2.9009::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0285"
+    }
+   ]
+  },
+  "10.11606-0031-1049.2000.41.p303-311::0001-0012": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0286"
+    }
+   ]
+  },
+  "10.1111-j.1439-0418.1962.tb04422.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0287"
+    }
+   ]
+  },
+  "10.1071-zo9560111::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0288"
+    }
+   ]
+  },
+  "10.1080-00359195409518986::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0289"
+    }
+   ]
+  },
+  "10.3390-insects10070218::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0290"
+    }
+   ]
+  },
+  "10.13057-biodiv-d180445::0001-0006": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0291"
+    }
+   ]
+  },
+  "10.1111-aen.12216::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0292"
+    }
+   ]
+  },
+  "10.1080-00779962.2001.9722083::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0293"
+    }
+   ]
+  },
+  "10.1139-g95-126::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0294"
+    }
+   ]
+  },
+  "10.1080-00049158.1984.10675973::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0295"
+    }
+   ]
+  },
+  "10.1111-j.1365-2028.1980.tb00276.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0296"
+    }
+   ]
+  },
+  "10.1111-j.1439-0418.1977.tb04285.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0297"
+    }
+   ]
+  },
+  "10.2307-sysbio-2.2.76::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0298"
+    }
+   ]
+  },
+  "10.11646-zootaxa.4109.5.1::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0299"
+    }
+   ]
+  },
+  "10.11646-zootaxa.3941.2.10::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0300"
+    }
+   ]
+  },
+  "10.13102-sociobiology.v59i3.555::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0301"
+    }
+   ]
+  },
+  "10.11646-zootaxa.3186.1.2::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0302"
+    }
+   ]
+  },
+  "10.3897-zookeys.148.1505::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0303"
+    }
+   ]
+  },
+  "10.11646-zootaxa.2387.1.6::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0304"
+    }
+   ]
+  },
+  "10.1071-it99005::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0305"
+    }
+   ]
+  },
+  "10.1007-bf02347490::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0306"
+    }
+   ]
+  },
+  "10.1093-ee-5.5.1022::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0307"
+    }
+   ]
+  },
+  "10.1093-aesa-53.6.825::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0308"
+    }
+   ]
+  },
+  "10.1007-s13744-022-00946-x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0309"
+    }
+   ]
+  },
+  "10.11606-1807-0205-2020.60.special-issue.21::0001-0013": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0310"
+    }
+   ]
+  },
+  "10.11609-jott.3067.8.11.9334-9338::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0311"
+    }
+   ]
+  },
+  "10.11646-zootaxa.4158.2.5::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0312"
+    }
+   ]
+  },
+  "10.1007-s11284-015-1289-8::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0313"
+    }
+   ]
+  },
+  "10.1603-0013-8746(2001)094[0530-nwrott]2.0.co;2::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0314"
+    }
+   ]
+  },
+  "10.1111-j.1365-2311.1996.tb01185.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0315"
+    }
+   ]
+  },
+  "10.1093-ee-9.4.461::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0316"
+    }
+   ]
+  },
+  "10.1093-aesa-66.1.197::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0317"
+    }
+   ]
+  },
+  "10.1111-j.1365-3113.1967.tb00540.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0318"
+    }
+   ]
+  },
+  "10.1038-s41598-023-45221-0::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0319"
+    }
+   ]
+  },
+  "10.3389-fevo.2023.1111484::0001-0015": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0320"
+    }
+   ]
+  },
+  "10.1080-00305316.2021.2024464::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0321"
+    }
+   ]
+  },
+  "10.1163-1876312x-bja10014::full": {
+   "reads": 1,
+   "last_read": "2026-11-16T00:30:50+08:00",
+   "history": [
+    {
+     "date": "2026-11-15-r2b",
+     "focus": "taxonomy",
+     "source_id": "S0322"
     }
    ]
   }

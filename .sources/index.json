@@ -3,7 +3,7 @@
     "version": 1,
     "count": 445,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-15T08:52:01+08:00",
+    "updated": "2026-11-16T00:30:09+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -341,7 +341,7 @@
       "publisher": "中译合集",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-15T02:58:28+08:00",
+      "accessed": "2026-11-16T00:29:43+08:00",
       "evidence": [
         {
           "quote": "广义的拟工蚁或假工蚁，定义为个体作为一种 功能分类完成工作，而其余的发展灵活。其区分于真工蚁的后期特征是产生了早期的 和不可逆转的发展分支，失去了继续分化为有翅蚁的可能。",
@@ -9361,14 +9361,25 @@
           "quote": "ical ecology.",
           "locator": "摘要",
           "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "The phenomenon called ecosystem engineering is considered with a case study of the mound building termite Macrotermes michaelseni.",
+          "locator": "摘要",
+          "note": "支撑：Macrotermes michaelseni 是筑丘（mound-building）白蚁，被用作解释「生态系统工程」概…"
+        },
+        {
+          "quote": "These changes to resource flows are likely to persist for long periods and constrain the biological structure of the habitat.",
+          "locator": "摘要",
+          "note": "支撑：该种造成的资源流改变被认为会长期持续，并约束生境的生物结构。"
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 813 字）。",
-      "accessed": "2026-11-09T21:44:17+08:00",
-      "used_in": [],
+      "accessed": "2026-11-16T00:30:09+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1017/s0266467498000364",
-      "id": "S0136",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0136"
     },
     {
       "title": "Keys to Soldier and Winged Adult Termites (Isoptera) of Florida",
@@ -9394,14 +9405,30 @@
           "quote": "), and C. cavifrons Banks, Family Kalotermitidae; Coptotermes formosanus Shiraki, Reticulitermes flavipes (Kollar), R. hageni Banks, R. virginicus (Banks), and Prorhinotermes simplex (Hagen), Family Rhinotermitidae; and Amitermes floridensis Scheffrahn, Mangold, & Su, Family Termitidae.",
           "locator": "摘要",
           "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "Illustrated identification keys are presented for soldiers and winged adults of the following 17 termite species known from Florida",
+          "locator": "摘要",
+          "note": "支撑：给出佛罗里达已知 17 种白蚁的兵蚁与有翅成虫图解检索表，分属 Kalotermitidae、Rhinotermitid…"
+        },
+        {
+          "quote": "Calcaritermes nearcticus Snyder, Neotermes castaneus (Burmeister), N. jouteli (Banks), N. luykxi Nickle and Collins, Kalotermes approximatus Snyder, Incisitermes milleri (Emerson), I. minor (Hagen), I. schwarzi (Banks), I. snyderi (Light), Cryptotermes brevis (Walker",
+          "locator": "摘要",
+          "note": "支撑：佛州 Kalotermitidae 列 10 种：Calcaritermes nearcticus、Neotermes …"
+        },
+        {
+          "quote": "C. cavifrons Banks, Family Kalotermitidae; Coptotermes formosanus Shiraki, Reticulitermes flavipes (Kollar), R. hageni Banks, R. virginicus (Banks)",
+          "locator": "摘要",
+          "note": "支撑：名录中 Kalotermitidae 另含 Cryptotermes cavifrons；Rhinotermitidae…"
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 687 字）。",
-      "accessed": "2026-11-09T21:44:59+08:00",
-      "used_in": [],
+      "accessed": "2026-11-16T00:30:09+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.2307/3495700",
-      "id": "S0137",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0137"
     },
     {
       "title": "New insights in insect prey choice by chimpanzees and gorillas in Southeast Cameroon: The role of nutritional value",
@@ -9496,14 +9523,30 @@
           "quote": "ated as a junior synonym of N. guayanae. Most subspecies are treated as full species. Available names of uncertain taxonomic position are presented in a separate list.",
           "locator": "摘要",
           "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "The number of termite genera recorded for the New World is 86, and the number of species 543.",
+          "locator": "摘要",
+          "note": "支撑：新世界（New World）记录白蚁 86 属、543 种。"
+        },
+        {
+          "quote": "A catalog of the living termites of the New World is presented, including all known synonyms, geographical distribution, type depositories, and a selected bibliography.",
+          "locator": "摘要",
+          "note": "支撑：该目录收录新世界现存白蚁的全部已知异名、地理分布、模式标本存放地与选目文献。"
+        },
+        {
+          "quote": "Curvitermes projectidens is transferred to Armitermes",
+          "locator": "摘要",
+          "note": "支撑：Curvitermes projectidens 被移入 Armitermes 属。"
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 567 字）。",
-      "accessed": "2026-11-09T15:08:47+00:00",
-      "used_in": [],
+      "accessed": "2026-11-16T00:30:09+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.11606/issn.2176-7793.v35i2p135-230",
-      "id": "S0140",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0140"
     },
     {
       "title": "Phylogeny of the Dictyoptera",
@@ -9919,14 +9962,30 @@
           "quote": "urface by erosion of abandoned mounds. We estimate that the termites can turnover annually 300-400 kg ha-1 of soil material with nutrient levels 2-7 times that of the Al soil horizon.",
           "locator": "摘要",
           "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "The capacity of three species of mound-building termites, Amitermes vitiosus Hill, Drepanotermes perniger (Froggatt), and Tumulitermes pastinator (Froggatt), to turn over plant nutrients was quantified in a semi-arid tropical woodland near Charters Towers in north-eastern Queensland.",
+          "locator": "摘要",
+          "note": "支撑：在昆士兰东北部 Charters Towers 附近的半干旱热带疏林，量化了 Amitermes vitiosus、Dr…"
+        },
+        {
+          "quote": "The mounds contain 21 Mg ha-l of soil, representing only 1% of the total mass of soil in the Al soil horizon but 5-7% of the plant nutrients in this system.",
+          "locator": "摘要",
+          "note": "支撑：三物种丘体每公顷含土 21 Mg，仅相当于 A1 土层土壤总质量的 1%。"
+        },
+        {
+          "quote": "but 5-7% of the plant nutrients in this system.",
+          "locator": "摘要",
+          "note": "支撑：丘体集中了该系统中植物养分的 5–7%，远高于其占土壤质量的比例。"
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 983 字）。",
-      "accessed": "2026-11-09T15:11:49+00:00",
-      "used_in": [],
+      "accessed": "2026-11-16T00:30:09+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1071/sr9880375",
-      "id": "S0150",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0150"
     },
     {
       "title": "New trace fossils of termites (Insecta: Isoptera) from the late Eocene‐early Miocene of Egypt, and the reconstruction of ancient isopteran social behavior",
@@ -9967,14 +10026,30 @@
           "quote": "chamber expansion and society budding in what were probably primitive Macrotermi‐tinae. It also indicates that at least two constructed edifices, earlier known only as epigeous manifestations of extant termite species, were almost certainly first developed by species living underground. The extant Macrotermitinae are a subfamily of termites originally believed to have evolved in the post‐Eocene of",
           "locator": "摘要",
           "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "Three new ichnogenera and five new ichnospecies are described for new trace fossils of termitaria (including associated gallery systems) of subterranean termites from upper Eocene through lower Miocene rocks of northern Egypt.",
+          "locator": "摘要",
+          "note": "支撑：埃及北部上始新统至下中新统地层中记述白蚁巢迹化石 3 个新遗迹属、5 个新遗迹种（含伴生廊道系统），为地下白蚁所造。"
+        },
+        {
+          "quote": "Termitichnus qatranii (Bown, 1982) is divided into two ichnospecies, the previously named T. qatranii, and a more generalized form, T. simplicidens, ichnosp. nov.",
+          "locator": "摘要",
+          "note": "支撑：Termitichnus qatranii（Bown, 1982）被拆为两个遗迹种：原有 T. qatranii 与形态…"
+        },
+        {
+          "quote": "Vondrichnus obovatus, ichnogen. and ichnosp. nov., is named for simple, possibly macrotermitine nests with oblate form",
+          "locator": "摘要",
+          "note": "支撑：Vondrichnus obovatus 新遗迹属、新遗迹种，代表扁球形（oblate）的简单巢，可能由大白蚁亚科（Ma…"
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 2000 字，截断于 2000 字）。",
-      "accessed": "2026-11-09T15:12:36+00:00",
-      "used_in": [],
+      "accessed": "2026-11-16T00:30:09+08:00",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1080/10420949409386386",
-      "id": "S0151",
-      "fulltext_status": "abstract-no-oa"
+      "id": "S0151"
     },
     {
       "title": "Distribution and Abundance of Bacteria in the Gut of a Soil-feeding Termite Procubitermes aburiensis (Termitidae, Termitinae)",
@@ -14804,7 +14879,7 @@
       "file_path": "_unpublished/文库/10.1515-znc-2018-0197",
       "chars": 1358,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:24+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1515-znc-2018-0197（1358 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1357 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1515-znc-2018-0197",
@@ -14836,10 +14911,27 @@
       "publisher": "Zeitschrift für Naturforschung C",
       "lang": "en",
       "doi": "10.1515/znc-2018-0197",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0244",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We show that primary queens of four higher termites from the subfamily Syntermitinae (Embiratermes neotenicus, Silvestritermes heyeri, Labiotermes labralis, and Cyrilliotermes angulariceps) emit significant amounts of the sesquiterpene alcohol (E)-nerolidol.",
+          "locator": "摘要",
+          "note": "支撑：Syntermitinae 亚科的 4 种高等白蚁（Embiratermes neotenicus、Silvestrit…"
+        },
+        {
+          "quote": "It is the dominant analyte in queen body washes; it is present on the surface of eggs, but absent in kings, workers, and soldiers.",
+          "locator": "摘要",
+          "note": "支撑：(E)-nerolidol 是蚁后体表洗出物中的主导成分，见于卵表面，而在雄虫（king）、工蚁与兵蚁中均未检出。"
+        },
+        {
+          "quote": "In E. neotenicus, it is also produced by replacement neotenic queens, in quantities correlated with their fertility.",
+          "locator": "摘要",
+          "note": "支撑：Embiratermes neotenicus 的补充生殖型（neotenic）蚁后也产生该物质，产量与其繁殖力相关。"
+        }
+      ],
+      "id": "S0244"
     },
     {
       "title": "“The road to reproduction”: foraging trails of Constrictotermes cyphergaster (Termitidae: Nasutitermitinae) as maternities for Staphylinidae beetles",
@@ -14849,7 +14941,7 @@
       "file_path": "_unpublished/文库/10.13102-sociobiology.v65i3.2902",
       "chars": 993,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:25+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.13102-sociobiology.v65i3.2902（993 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（992 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.13102-sociobiology.v65i3.2902",
@@ -14881,10 +14973,27 @@
       "publisher": "Sociobiology",
       "lang": "en",
       "doi": "10.13102/sociobiology.v65i3.2902",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0245",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Corotoca (Coleoptera: Staphylinidae) beetles are known for their close integration in the nests of the termite Constrictotermes cyphergaster (Termitidae: Nasutitermitinae).",
+          "locator": "摘要",
+          "note": "支撑：Corotoca 属（鞘翅目：隐翅虫科）甲虫与 Constrictotermes cyphergaster（白蚁科：Na…"
+        },
+        {
+          "quote": "We observed the use of termite foraging trails by Staphylinidae females to deposit and disperse their larvae.",
+          "locator": "摘要",
+          "note": "支撑：观察到隐翅虫科雌虫利用白蚁觅食道产下并扩散自己的幼虫。"
+        },
+        {
+          "quote": "We recorded the deposition of larvae of C. melantho, C. fontesi, and C. sp. n. on the dorsal surfaces of termite host workers.",
+          "locator": "摘要",
+          "note": "支撑：记录到 Corotoca melantho、Corotoca fontesi 与一个未定名新种（C. sp. n.）的幼…"
+        }
+      ],
+      "id": "S0245"
     },
     {
       "title": "New Species of Spirotrichonympha from Reticulitermes and the Relationships Among Genera in Spirotrichonymphea (Parabasalia)",
@@ -14894,7 +15003,7 @@
       "file_path": "_unpublished/文库/10.1111-jeu.12447",
       "chars": 1347,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:30+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-jeu.12447（1347 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1346 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-jeu.12447",
@@ -14928,10 +15037,27 @@
       "publisher": "Journal of Eukaryotic Microbiology",
       "lang": "en",
       "doi": "10.1111/jeu.12447",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0246",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Spirotrichonymphea is a class of hypermastigote parabasalids defined by their spiral rows of many flagella.",
+          "locator": "摘要",
+          "note": "支撑：Spirotrichonymphea 是超鞭毛类副基体虫（parabasalids）的一个纲，以多条鞭毛排成螺旋状的行列…"
+        },
+        {
+          "quote": "They are obligate hindgut symbionts of lower termites.",
+          "locator": "摘要",
+          "note": "支撑：该类群是低等白蚁后肠的专性共生体。"
+        },
+        {
+          "quote": "The genus Spirotrichonympha has been reported to inhabit several termite genera, including Reticulitermes, Coptotermes, and Hodotermopsis.",
+          "locator": "摘要",
+          "note": "支撑：Spirotrichonympha 属已知栖居于 Reticulitermes、Coptotermes、Hodoterm…"
+        }
+      ],
+      "id": "S0246"
     },
     {
       "title": "Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands",
@@ -14941,7 +15067,7 @@
       "file_path": "_unpublished/文库/10.13102-sociobiology.v62i3.793",
       "chars": 83002,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:09:33+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.13102-sociobiology.v62i3.793（13 页，83002 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.13102-sociobiology.v62i3.793",
@@ -14969,8 +15095,26 @@
       "license": "cc-by",
       "doi": "10.13102/sociobiology.v62i3.793",
       "url": "http://periodicos.uefs.br/index.php/sociobiology/article/download/793/747",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "(2700-3600 m) than any other termite species.",
+          "locator": "p.426 摘要 / 0001-0013.txt",
+          "note": "支撑：Rugitermes laticollis 采自厄瓜多尔与玻利维亚，海拔 2700-3600 m，高于任何其他白蚁物种的…"
+        },
+        {
+          "quote": "54.3°N (Zootermopsis angusticollis in British Columbia (B.C.), Canada) to 48.9°S",
+          "locator": "p.426 摘要 / 0001-0013.txt",
+          "note": "支撑：白蚁分布纬度极限自 54.3°N（加拿大不列颠哥伦比亚的 Zootermopsis angusticollis）至 48…"
+        },
+        {
+          "quote": "La Paz, Bolivia. Described from 6 winged adults, 4",
+          "locator": "p.427 引述 Snyder 1957 / 0001-0013.txt",
+          "note": "支撑：Snyder (1957) 据 6 头有翅成虫（4 雄 2 雌）描述 Rugitermes laticollis，模式产…"
+        }
+      ],
       "id": "S0247"
     },
     {
@@ -15023,7 +15167,7 @@
       "file_path": "_unpublished/文库/10.1046-j.1365-3032.1999.00106.x",
       "chars": 1593,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:39+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1046-j.1365-3032.1999.00106.x（1593 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1592 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1046-j.1365-3032.1999.00106.x",
@@ -15052,10 +15196,27 @@
       "publisher": "Physiological Entomology",
       "lang": "en",
       "doi": "10.1046/j.1365-3032.1999.00106.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0249",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Oxygen uptake and carbon dioxide release at 28°C were determined in worker castes of twenty‐six species of forest termites from the Danum Valley Conservation Area, south‐east Sabah, by Warburg manometry.",
+          "locator": "摘要",
+          "note": "支撑：在 28°C 下用 Warburg 测压法测定了沙巴东南 Danum Valley 保护区 26 种森林白蚁工蚁的耗氧量…"
+        },
+        {
+          "quote": "Metabolic rate varied inversely with body weight in a suite of soil‐, wood/soil‐ and wood‐feeding species, giving a slope (in a log–log plot) of – 0.63.",
+          "locator": "摘要",
+          "note": "支撑：食土、木/土食与木食性种类的代谢率与体重呈负相关，双对数作图斜率为 −0.63。"
+        },
+        {
+          "quote": "a number of large species, actively foraging forms such as Macrotermes malaccensis, M. gilvus, Havilanditermes atripennis and Hospitalitermes hospitalis, but also the wood‐feeding Schedorhinotermes sarawakensis, showed an oxygen consumption greater than expected for their body weight.",
+          "locator": "摘要",
+          "note": "支撑：Macrotermes malaccensis、Macrotermes gilvus、Havilanditermes a…"
+        }
+      ],
+      "id": "S0249"
     },
     {
       "title": "Discovery of a Cryptic Termite Genus, Stylotermes (Isoptera: Stylotermitidae), in Taiwan, With the Description of a New Species",
@@ -15065,7 +15226,7 @@
       "file_path": "_unpublished/文库/10.1093-aesa-sax034",
       "chars": 794,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:42+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1093-aesa-sax034（794 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（793 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1093-aesa-sax034",
@@ -15093,10 +15254,27 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1093/aesa/sax034",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0250",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The termite family Stylotermitidae consists of a single extant genus, Stylotermes, present only in eastern Asia.",
+          "locator": "摘要",
+          "note": "支撑：白蚁科 Stylotermitidae 现存仅 1 属——Stylotermes，只分布于东亚。"
+        },
+        {
+          "quote": "Stylotermes has distinctively trimerous tarsi and is considered an intermediate between the Rhinotermitidae and Kalotermitidae families.",
+          "locator": "摘要",
+          "note": "支撑：Stylotermes 具特征性的三节跗节（trimerous tarsi），被视为 Rhinotermitidae 与…"
+        },
+        {
+          "quote": "The present study reports the first discovery of the Stylotermitidae family in Taiwan.",
+          "locator": "摘要",
+          "note": "支撑：本文首次报道在台湾发现 Stylotermitidae。"
+        }
+      ],
+      "id": "S0250"
     },
     {
       "title": "Cryptotermes colombianus a new drywood termite and distribution record of Cryptotermes in Colombia",
@@ -15148,7 +15326,7 @@
       "file_path": "_unpublished/文库/10.1080-00222939700770711",
       "chars": 1187,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:55+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-00222939700770711（1187 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1186 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1080-00222939700770711",
@@ -15176,10 +15354,27 @@
       "publisher": "Journal of Natural History",
       "lang": "en",
       "doi": "10.1080/00222939700770711",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0252",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Work carried out in five forests in southern Cameroon indicates that termitaries of Cubitermes subarquatus, whether active or abandoned, provide shelter for large numbers of invasive invertebrates, particularly ants and other termite species",
+          "locator": "摘要",
+          "note": "支撑：在喀麦隆南部 5 片森林的工作表明，Cubitermes subarquatus 的蚁丘无论活跃或废弃，都为大量入侵性无…"
+        },
+        {
+          "quote": "Dissections of 90 termitaries (65 active, 25 abandoned) produced a great diversity of invasive fauna, including 354 ant colonies representing 75 species in 31 genera.",
+          "locator": "摘要",
+          "note": "支撑：解剖 90 座蚁丘（65 座活跃、25 座废弃），共得 354 个蚂蚁群落，隶属 31 属 75 种。"
+        },
+        {
+          "quote": "Ants occurred in all abandoned termitaries but 6·1% of active termitaries had no ants present.",
+          "locator": "摘要",
+          "note": "支撑：所有废弃蚁丘中都有蚂蚁，而 6.1% 的活跃蚁丘内没有蚂蚁。"
+        }
+      ],
+      "id": "S0252"
     },
     {
       "title": "Morphology of the Salivary Gland Acini in Grigiotermes bequaerti (Isoptera: Termitidae: Apicotermitinae)",
@@ -15229,7 +15424,7 @@
       "file_path": "_unpublished/文库/10.1163-156853955x00256",
       "chars": 1395,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:09:58+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1163-156853955x00256（1395 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1394 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1163-156853955x00256",
@@ -15255,10 +15450,27 @@
       "publisher": "Behaviour",
       "lang": "en",
       "doi": "10.1163/156853955x00256",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0254",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The subterranean nests of the African genus of termites, Apicotermes, present unique material for the study of the evolution of behavior.",
+          "locator": "摘要",
+          "note": "支撑：非洲 Apicotermes 属的地下巢为行为演化研究提供了独特材料。"
+        },
+        {
+          "quote": "The nests are species-specific and show phylogenetic relationships much more clearly than do the morphological characteristics of the termites building them.",
+          "locator": "摘要",
+          "note": "支撑：Apicotermes 的巢具有种特异性，比筑巢白蚁自身的形态特征更清晰地反映系统发育关系。"
+        },
+        {
+          "quote": "Circular galleries seem to have evolved independently four times within the genus.",
+          "locator": "摘要",
+          "note": "支撑：环形廊道（circular galleries）在 Apicotermes 属内似独立演化了 4 次。"
+        }
+      ],
+      "id": "S0254"
     },
     {
       "title": "A taxonomic review of the Rhinotermitidae (Isoptera) of Thailand",
@@ -15308,7 +15520,7 @@
       "file_path": "_unpublished/文库/10.1080-09670870110094387",
       "chars": 587,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:01+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-09670870110094387（587 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（586 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1080-09670870110094387",
@@ -15335,10 +15547,27 @@
       "publisher": "International Journal of Pest Management",
       "lang": "en",
       "doi": "10.1080/09670870110094387",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0256",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "there has been an increase in attacks on sugarcane in Chad by the fungus-growing termite Ancistrotermes guineensis Silvestri, with yield losses reaching 25%",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：近十年乍得甘蔗受培菌白蚁 Ancistrotermes guineensis 攻击加剧，产量损失达 25%"
+        },
+        {
+          "quote": "Management of termite populations through control of the symbiotic fungus, Termitomyces medius Heim, was investigated using systemic fungicides.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：防治思路为用内吸性杀菌剂抑制其共生真菌 Termitomyces medius，从而控制白蚁种群"
+        },
+        {
+          "quote": "four products (Bavistin, Calixin, Erpacide and Sumi 8) were selected for field experiments",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：预筛后选定 Bavistin、Calixin、Erpacide、Sumi 8 四种药剂进入田间试验"
+        }
+      ],
+      "id": "S0256"
     },
     {
       "title": "Contribution of the Western Australian wheatbelt termite, Drepanotermes tamminensis (Hill), to the soil nutrient budget",
@@ -15348,7 +15577,7 @@
       "file_path": "_unpublished/文库/10.1007-bf02348422",
       "chars": 1094,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:02+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1007-bf02348422（1094 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1093 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1007-bf02348422",
@@ -15376,10 +15605,27 @@
       "publisher": "Ecological Research",
       "lang": "en",
       "doi": "10.1007/bf02348422",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0257",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Drepanotermes tamminensis (Hill), was studied during 1991 in the Durokoppin Nature Reserve, Western Australia.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：1991 年在西澳大利亚 Durokoppin 自然保护区研究该种筑丘白蚁对土壤的改造作用"
+        },
+        {
+          "quote": "All ‘soils’ in nests were more acidic than the surrounding soil within each study plot.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：两个研究样地内，巢内“土壤”均比巢外周围土壤更酸"
+        },
+        {
+          "quote": "the nested soil contained between 0.3 and 21.9% of the total nutrient load per hectare within each study plot",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：视养分元素而定，巢土所含养分占各样地每公顷养分总储量的 0.3%–21.9%"
+        }
+      ],
+      "id": "S0257"
     },
     {
       "title": "Bioecological and economical observations on termites of Peninsular India",
@@ -15389,7 +15635,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1439-0418.1978.tb04011.x",
       "chars": 2221,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:07+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1439-0418.1978.tb04011.x（2221 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（2220 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1439-0418.1978.tb04011.x",
@@ -15415,10 +15661,27 @@
       "publisher": "Zeitschrift für Angewandte Entomologie",
       "lang": "en",
       "doi": "10.1111/j.1439-0418.1978.tb04011.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0258",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "25 species belonging to 2 families (Rhinotermitidae and Termitidae) and the following 14 genera:Heterotermes, Coptotermes, Eremotermes, Microcerotermes",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：研究涵盖 2 科（Rhinotermitidae、Termitidae）14 属 25 种白蚁，含 Heteroterm…"
+        },
+        {
+          "quote": "The study area covered an extent of roughly 22 400 km2(Tamil Nadu 400 km2, Kerala 9000 km2, and Karnataka 13 000 km2).",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：研究区约 22 400 km²，分属泰米尔纳德、喀拉拉、卡纳塔克三地（原文分别记 400、9000、13 000 km²…"
+        },
+        {
+          "quote": "Microcerotermes minorcauses 20–30% mortality inEucalyptus citriodoraplantations, andOdontotermes horniat least 10% mortality inEucalyptusspp., in both cases by girdling tap roots.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Microcerotermes minor 在 Eucalyptus citriodora 人工林造成 20%–30% …"
+        }
+      ],
+      "id": "S0258"
     },
     {
       "title": "Caste Development and Its Seasonal Cycle in the Australian Harvester Termite, Drepanotermes Perniger (Froggatt) (Isoptera; Termitinae).",
@@ -15428,7 +15691,7 @@
       "file_path": "_unpublished/文库/10.1071-zo9740471",
       "chars": 1280,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:08+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1071-zo9740471（1280 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1279 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1071-zo9740471",
@@ -15454,10 +15717,27 @@
       "publisher": "Australian Journal of Zoology",
       "lang": "en",
       "doi": "10.1071/zo9740471",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0259",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "a monomorphic soldier caste derived from two or three worker stages, and brachypterous neotenics formed by the premature metamorphosis of fifth-instar reproductive nymphs",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：兵蚁为单型，可由 2 个或 3 个工蚁龄期分化而来；短翅型补充繁殖蚁由五龄生殖若虫提前变态形成"
+        },
+        {
+          "quote": "Intercastes are known between soldier and fifth-instar reproductive nymph; presoldier and neotenic; and third-instar worker and fourth-instar reproductive nymph.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：已知三类中间品级：兵蚁与五龄生殖若虫之间、前兵蚁与补充繁殖蚁之间、三龄工蚁与四龄生殖若虫之间"
+        },
+        {
+          "quote": "only workers, soldiers and fourth-instar reproductive nymphs occur during the winter",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：冬季群体中仅存工蚁、兵蚁与四龄生殖若虫"
+        }
+      ],
+      "id": "S0259"
     },
     {
       "title": "Polymorphism in the neotropical termite S erritermes serrifer",
@@ -15467,7 +15747,7 @@
       "file_path": "_unpublished/文库/10.1111-eea.12532",
       "chars": 1528,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:16+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-eea.12532（1528 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1527 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-eea.12532",
@@ -15494,10 +15774,27 @@
       "publisher": "Entomologia Experimentalis et Applicata",
       "lang": "en",
       "doi": "10.1111/eea.12532",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0260",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "which includes only two genera: Glossotermes and Serritermes.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Serritermitidae 仅含 2 属：Glossotermes 与 Serritermes"
+        },
+        {
+          "quote": "a species endemic to the Cerrado ecoregion of central Brazil which lives as an inquiline inside nests of Cornitermes spp.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Serritermes serrifer 为巴西中部 Cerrado 生态区特有种，以客居方式生活在 Corniterm…"
+        },
+        {
+          "quote": "based on measurements taken of 11 body parts of 544 specimens of immatures",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：形态测量取 11 个体部，共测量 544 号标本（幼体、类工蚁个体、兵蚁与有翅成虫）"
+        }
+      ],
+      "id": "S0260"
     },
     {
       "title": "Variation and diversity of symbiotic protist composition in the damp-wood termite Hodotermopsis sjoestedti",
@@ -15507,7 +15804,7 @@
       "file_path": "_unpublished/文库/10.18980-jjprotozool.45.1-2_29",
       "chars": 1464,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:28+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.18980-jjprotozool.45.1-2_29（1464 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1463 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.18980-jjprotozool.45.1-2_29",
@@ -15535,10 +15832,27 @@
       "year": 2012,
       "lang": "en",
       "doi": "10.18980/jjprotozool.45.1-2_29",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0261",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "we investigated symbiotic protist fauna of 34 Hodotermopsis sjoestedti nests collected from five islands in the Ryukyu Archipelago, Taiwan Is., and southern part of Chinese continent.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：调查了琉球群岛 5 个岛、台湾岛及中国大陆南部共 34 巢 Hodotermopsis sjoestedti 的共生原生…"
+        },
+        {
+          "quote": "Thirteen parabasalid species and six oxymonad species, which were reported from the host termite collected in Yakushima Is., were recognized in this study.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：共识别出 13 种副基体类（parabasalid）和 6 种锐滴虫类（oxymonad）原生动物"
+        },
+        {
+          "quote": "Four parabasalids were identified as recently described species from H. sjoestedti collected in Vietnam.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：其中 4 种副基体类为近年依据越南所采同种白蚁描述的新种"
+        }
+      ],
+      "id": "S0261"
     },
     {
       "title": "Nonadecadienone, a New Termite Trail-Following Pheromone Identified in Glossotermes oculatus (Serritermitidae)",
@@ -15640,7 +15954,7 @@
       "file_path": "_unpublished/文库/10.1076-snfe.31.2.82.13328",
       "chars": 770,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:10:35+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1076-snfe.31.2.82.13328（770 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（769 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1076-snfe.31.2.82.13328",
@@ -15667,10 +15981,27 @@
       "publisher": "Studies on Neotropical Fauna and Environment",
       "lang": "en",
       "doi": "10.1076/snfe.31.2.82.13328",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0264",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The arboreal nests of the termite Anoplotermes banksi are abundant in Central Amazonian primary rain forests.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Anoplotermes banksi 的树栖巢在中亚马孙原生雨林中数量丰富"
+        },
+        {
+          "quote": "Colony size of 7 nests (weight 92–6891 g) varied between 2,593 and 39,256 individuals/nest (1.5 – 22.1 g termites/nest).",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：7 个巢（重 92–6891 g）的群体含 2,593–39,256 头个体，白蚁鲜重 1.5–22.1 g/巢"
+        },
+        {
+          "quote": "Average body fresh weight was 0.9 mg for workers and 2.1 mg for alates. Queens weighed 10–30 mg.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：工蚁平均个体鲜重 0.9 mg，有翅成虫 2.1 mg，蚁后 10–30 mg"
+        }
+      ],
+      "id": "S0264"
     },
     {
       "title": "Seasonal activity of savanna termites during and after severe drought",
@@ -15720,7 +16051,7 @@
       "file_path": "_unpublished/文库/10.1007-bf02347186",
       "chars": 814,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:11:09+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1007-bf02347186（814 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（813 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1007-bf02347186",
@@ -15749,10 +16080,27 @@
       "publisher": "Ecological Research",
       "lang": "en",
       "doi": "10.1007/bf02347186",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0266",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The Western Australian termite, Drepanotermes tamminensis (Hill), harvests various plant materials according to biomass availability.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：西澳大利亚白蚁 Drepanotermes tamminensis 按植物材料的生物量可得性采收不同植物材料。"
+        },
+        {
+          "quote": "The main litter components harvested by this termite in a woodland dominated by Eucalyptus capillosa are bark and leaves of the major tree species, while in shrubland dominated by Allocasuarina campestris, shoots of this species are taken.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：在以 Eucalyptus capillosa 为主的疏林中主要采收主要树种的树皮与叶，在以 Allocasuarina…"
+        },
+        {
+          "quote": "Harvesting mainly occurs during the autumn (April–May) and spring (September–October) seasons.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：采收活动主要发生在秋季（4–5 月）与春季（9–10 月）。"
+        }
+      ],
+      "id": "S0266"
     },
     {
       "title": "The complete mitochondrial genomes of the higher termites Labiotermes labralis and Embiratermes neotenicus (Termitidae: Syntermitinae)",
@@ -15762,7 +16110,7 @@
       "file_path": "_unpublished/文库/10.1080-23802359.2017.1289349",
       "chars": 8173,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:11:18+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-23802359.2017.1289349（8173 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1080-23802359.2017.1289349",
@@ -15791,8 +16139,26 @@
       "license": "cc-by",
       "doi": "10.1080/23802359.2017.1289349",
       "url": "https://www.tandfonline.com/doi/pdf/10.1080/23802359.2017.1289349?needAccess=true",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The circular mitogenomes of Labiotermes labralis (accession number KY436201) and Embiratermes neotenicus (accession number KY436202) have a length of 15,935 and 15,868 bp and an overall G + C content of 30.7 mol% and 33.7 mol%, respectively",
+          "locator": "摘要 / full.txt L2",
+          "note": "支撑：Labiotermes labralis 线粒体基因组（GenBank KY436201）长 15 935 bp、G+C…"
+        },
+        {
+          "quote": "The mitogenome sequence had an average coverage of 2023-fold, an asymmetric nucleotide composition (42.9% A, 19.2% C, 11.4% G, 26.5% T)",
+          "locator": "正文 ¶3 / full.txt L7",
+          "note": "支撑：Labiotermes labralis 线粒体基因组的平均测序深度为 2023×，碱基组成为 A 42.9%、C 19…"
+        },
+        {
+          "quote": "with an average coverage of 2418-fold, an asymmetric nucleotide composition (42.5% A, 21.6% C, 12.1% G, 23.8% T)",
+          "locator": "正文 ¶3 / full.txt L7",
+          "note": "支撑：Embiratermes neotenicus 线粒体基因组平均深度 2418×，碱基组成为 A 42.5%、C 21.…"
+        }
+      ],
       "id": "S0267"
     },
     {
@@ -15803,7 +16169,7 @@
       "file_path": "_unpublished/文库/10.15376-biores.10.2.2094-2102",
       "chars": 29688,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:11:20+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.15376-biores.10.2.2094-2102（9 页，29688 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.15376-biores.10.2.2094-2102",
@@ -15831,8 +16197,26 @@
       "license": "cc-by",
       "doi": "10.15376/biores.10.2.2094-2102",
       "url": "https://bioresources.cnr.ncsu.edu/wp-content/uploads/2016/06/BioRes_10_2_2094_Lukmandaru_Chem_Charact_Teak_Wood_Attacked_N_tectonae_6556.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "It is reported that these termites have spread through some 18,000 ha of teak forest in Java (Intari and Amir 1975).",
+          "locator": "p.2094 / 0001-0009.txt §INTRODUCTION ¶2",
+          "note": "支撑：据记载，Neotermes tectonae 已在爪哇岛约 18,000 公顷的柚木林中扩散为害。"
+        },
+        {
+          "quote": "The tumorous parts are also the nests of the termites, which are located 2 to 20 m above the ground.",
+          "locator": "p.2094 / 0001-0009.txt §INTRODUCTION ¶2",
+          "note": "支撑：受害树干的瘤状部同时是该白蚁的巢，巢位于地面以上 2-20 m 处。"
+        },
+        {
+          "quote": "The tumorous parts of the attacked wood are formed by a cambium reaction that produces wood with greater growth toward the bark due to the termites drilling the stem along the grain and plugging the flow of nutrients (Suharti and Intari 1974).",
+          "locator": "p.2094 / 0001-0009.txt §INTRODUCTION ¶2",
+          "note": "支撑：瘤状木由形成层反应形成：白蚁沿木材纹理钻蛀树干并阻断养分流，使形成层向树皮一侧异常增生。"
+        }
+      ],
       "id": "S0268"
     },
     {
@@ -15843,7 +16227,7 @@
       "file_path": "_unpublished/文库/10.1080-00222939800770681",
       "chars": 974,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:11:23+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-00222939800770681（974 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（973 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1080-00222939800770681",
@@ -15870,10 +16254,27 @@
       "publisher": "Journal of Natural History",
       "lang": "en",
       "doi": "10.1080/00222939800770681",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0269",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The southeast Asian termite Longipeditermes longipes (Nasutitermitinae) forages above ground during the day in highly organised columns of workers protected by numerous soldiers.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：东南亚的 Longipeditermes longipes 白天在地面以上沿高度组织化的工蚁队列觅食，队列由大量兵蚁护卫…"
+        },
+        {
+          "quote": "Preliminary data are presented on its foraging activity, based on observations of one colony in southern Kalimantan, Borneo.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：觅食活动数据来自婆罗洲南部加里曼丹（southern Kalimantan, Borneo）一个群体的观察。"
+        },
+        {
+          "quote": "Foraging columns were observed on 7 of the 15 days, including successive days interspersed with periods of inactivity.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：在 15 个观察日中的 7 天见到觅食队列，连续活动日之间夹杂不活动期。"
+        }
+      ],
+      "id": "S0269"
     },
     {
       "title": "Generic Revision of the Smaller Nasute Termites of the Greater Antilles (Isoptera, Termitidae, Nasutitermitinae)",
@@ -15883,7 +16284,7 @@
       "file_path": "_unpublished/文库/10.1093-aesa-89.6.775",
       "chars": 1367,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:11:30+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1093-aesa-89.6.775（1367 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1366 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1093-aesa-89.6.775",
@@ -15911,10 +16312,27 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1093/aesa/89.6.775",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0270",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The generic status of the Greater Antillean smaller nasutes (all genera except Nasutitermes) is revised, paying special attention to anatomical characters of the workers.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：对大安的列斯群岛的小型象白蚁（除 Nasutitermes 以外的全部属）作属级修订，特别重视工蚁的解剖特征。"
+        },
+        {
+          "quote": "Two new monotypic genera, Caribitermes and Antillitermes, are created.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：建立两个新的单型属 Caribitermes 与 Antillitermes。"
+        },
+        {
+          "quote": "Terrenitermes Spaeth, 1967, is synonymized with Parvitermes Emerson (in Snyder 1949).",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Terrenitermes Spaeth, 1967 被异名化于 Parvitermes Emerson（in Snyd…"
+        }
+      ],
+      "id": "S0270"
     },
     {
       "title": "Seleção de armadilhas para captura de Heterotermes tenuis (Hagen)",
@@ -15964,7 +16382,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1442-9993.1988.tb00980.x",
       "chars": 758,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:11:38+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1442-9993.1988.tb00980.x（758 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（757 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1442-9993.1988.tb00980.x",
@@ -15991,10 +16409,27 @@
       "publisher": "Australian Journal of Ecology",
       "lang": "en",
       "doi": "10.1111/j.1442-9993.1988.tb00980.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0272",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Populations of mound‐building termites were examined in a semi‐arid tropical woodland and in an adjacent area cleared of trees and sown with Urochloa mosambicensis 14 years previously.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：在北昆士兰半干旱热带疏林及相邻的 14 年前伐树并播种 Urochloa mosambicensis 的地块调查筑丘白蚁…"
+        },
+        {
+          "quote": "In that period both the density and diversity of the mound‐building termite populations were reduced in the cleared area.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：该时期内清理地块中筑丘白蚁的密度与多样性均下降。"
+        },
+        {
+          "quote": "Only two of the six mound‐building species found in the undisturbed woodland recolonized the pasture.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：未受干扰疏林中记录的 6 种筑丘白蚁中仅 2 种重新定殖牧场。"
+        }
+      ],
+      "id": "S0272"
     },
     {
       "title": "On some Australian Termites of the Genera Drepanotermes, Hamitermes and Leucotermes",
@@ -16043,7 +16478,7 @@
       "file_path": "_unpublished/文库/10.11609-jott.5781.13.6.18598-18613",
       "chars": 109392,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:11:47+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11609-jott.5781.13.6.18598-18613（18 页，109392 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.11609-jott.5781.13.6.18598-18613",
@@ -16072,8 +16507,26 @@
       "license": "cc-by",
       "doi": "10.11609/jott.5781.13.6.18598-18613",
       "url": "https://www.threatenedtaxa.org/JoTT/article/download/5781/7616",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "In total, 132 species from five families are listed, of which Termitidae Latreille, 1802 is the dominant family comprising 101 species from 27 genera and four subfamilies.",
+          "locator": "p.18598 / 0001-0018.txt（摘要）",
+          "note": "支撑：南印度白蚁名录共收录 5 科 132 种，其中 Termitidae 为优势科，含 4 亚科 27 属 101 种。"
+        },
+        {
+          "quote": "Endemism of termites to the region is high, out of the 132 species, 60 species (45.45%) (denoted by *) and five genera (denoted by **) are endemic to southern India.",
+          "locator": "p.18599 / 0001-0018.txt（引言）",
+          "note": "支撑：南印度白蚁特有种比例高：132 种中 60 种（45.45%）为区域特有种，另有 5 属为区域特有属（原文以 * 标种、…"
+        },
+        {
+          "quote": "Indocapritermes Chhotani, 1997, Krishnacapritermes Chhotani, 1997, and Labiocapritermes Krishna, 1968 and two genera of subfamily Nasutitermitinae Hare, 1937, viz., Ampoulitermes Mathur & Thapa, 1962a and Emersonitermes Mathur & Sen-Sarma, 1959 are endemic to southern India.",
+          "locator": "p.18599 / 0001-0018.txt（引言）",
+          "note": "支撑：南印度特有属共 5 个：Termitinae 的 Indocapritermes、Krishnacapritermes、…"
+        }
+      ],
       "id": "S0274"
     },
     {
@@ -16084,7 +16537,7 @@
       "file_path": "_unpublished/文库/10.3390-microorganisms8101482",
       "chars": 43019,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:12:04+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.3390-microorganisms8101482（43019 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.3390-microorganisms8101482",
@@ -16119,8 +16572,26 @@
       "license": "cc-by",
       "doi": "10.3390/microorganisms8101482",
       "url": "https://www.mdpi.com/2076-2607/8/10/1482/pdf?version=1601190105",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We conducted the study in a protected Cerrado area managed by the Brazilian Institute of Geography and Statistics (RECOR Ecological Reserve), Brasilia, Brazil (15°56′54.6″ S; 47°52′11.7″ W).",
+          "locator": "§2.1 Study Site and Sample Collection / full.txt L13",
+          "note": "支撑：研究样地位于巴西利亚的 IBGE RECOR 生态保护区（15°56′54.6″S；47°52′11.7″W）内一片 c…"
+        },
+        {
+          "quote": "The Syntermes genus includes termites from the subfamily Nasutermitinae, family Termitidae, which are widely distributed in the tropical savannas and are characterized by large size, subterranean mounds, and litter-feeding habits [8].",
+          "locator": "§1 Introduction / full.txt L9",
+          "note": "支撑：Syntermes 属隶 Termitidae 科 Nasutermitinae 亚科（原文拼法），广布热带稀树草原，体…"
+        },
+        {
+          "quote": "the pH of the S. wheeleri termite gut was reported as 9–10 [20] and the Cerrado soil between 5–6",
+          "locator": "§4 Discussion / full.txt L46",
+          "note": "支撑：Syntermes wheeleri 肠道 pH 为 9–10，而其栖息的 Cerrado 土壤 pH 仅 5–6，两者…"
+        }
+      ],
       "id": "S0275"
     },
     {
@@ -16131,7 +16602,7 @@
       "file_path": "_unpublished/文库/10.1673-031.013.3701",
       "chars": 18421,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:12:21+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1673-031.013.3701（18421 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1673-031.013.3701",
@@ -16164,8 +16635,26 @@
       "license": "cc-by",
       "doi": "10.1673/031.013.3701",
       "url": "https://academic.oup.com/jinsectscience/article-pdf/13/1/37/18151485/jis13-0037.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "From Termitidae, the humus-feeding termites Sinocapritermes mushae (Oshima et Maki) (Termitinae), Mal. zhangfengensis, and P. jiangtsekiangensis were collected on Luofu Mountain.",
+          "locator": "Methods and Materials / full.txt L8",
+          "note": "支撑：土食性白蚁 Sinocapritermes mushae（Termitinae）、Malaysiocapritermes…"
+        },
+        {
+          "quote": "The fungus-growing termites Macrotermes barneyi Light (Macrotermitinae) and Odontotermes formosanus (Shiraki) were collected on Luofu Mountain and Maofeng Mountain. The wood-feeding termites N. parvonasutus (Nasutitermitinae) and H. orthonasus were collected on Dinghu Mountain.",
+          "locator": "Methods and Materials / full.txt L8",
+          "note": "支撑：培菌性白蚁 Macrotermes barneyi（Macrotermitinae）与 Odontotermes for…"
+        },
+        {
+          "quote": "Currently, there are over 2,600 described termite species around the world, in which Termitidae makes up the bulk of extant termite species (Kambhampati and Eggleton 2000).",
+          "locator": "Introduction / full.txt L5",
+          "note": "支撑：当时全球已描述白蚁 2 600 余种，其中白蚁科（Termitidae）占现存白蚁种的绝大部分。"
+        }
+      ],
       "id": "S0276"
     },
     {
@@ -16260,7 +16749,7 @@
       "file_path": "_unpublished/文库/10.1071-zo9680405",
       "chars": 487,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:12:41+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1071-zo9680405（487 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（486 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1071-zo9680405",
@@ -16286,10 +16775,27 @@
       "publisher": "Australian Journal of Zoology",
       "lang": "en",
       "doi": "10.1071/zo9680405",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0279",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Eight new species of the genus Amitermes, represented by both the soldier and alate castes",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：描述澳大利亚 Amitermes 属 8 个新种，均具兵蚁与有翅成虫两级标本。"
+        },
+        {
+          "quote": "a further 22 new species, represented by the soldier caste only, are described",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：另描述 22 个新种，仅有兵蚁级标本。"
+        },
+        {
+          "quote": "further records are given of the distribution and biology of eight rare species previously described",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：补充 8 个前人描述过的罕见种的分布与生物学记录。"
+        }
+      ],
+      "id": "S0279"
     },
     {
       "title": "Use of the proteomic tool MALDI-TOF MS in termite identification",
@@ -16299,7 +16805,7 @@
       "file_path": "_unpublished/文库/10.1038-s41598-021-04574-0",
       "chars": 44672,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:13:07+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1038-s41598-021-04574-0（44672 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1038-s41598-021-04574-0",
@@ -16333,8 +16839,26 @@
       "license": "cc-by",
       "doi": "10.1038/s41598-021-04574-0",
       "url": "https://www.nature.com/articles/s41598-021-04574-0.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A total of 432 termite specimens were collected in Mali, Cote d’Ivoire, Togo, Senegal, Switzerland and France.",
+          "locator": "Abstract / full.txt L2",
+          "note": "支撑：该研究共采集 432 份白蚁标本，来自马里、科特迪瓦、多哥、塞内加尔、瑞士和法国六国。"
+        },
+        {
+          "quote": "A total of 432 termite specimens were collected, including 135 in Marseille (32%), 123 in Senegal (28%), 87 in Cote d’Ivoire (20%), 79 in Mali (18%), four in Switzerland (1%) and four in Togo (1%).",
+          "locator": "Results / full.txt L11",
+          "note": "支撑：标本按采集地分布为：马赛 135 份（32%）、塞内加尔 123 份（28%）、科特迪瓦 87 份（20%）、马里 79…"
+        },
+        {
+          "quote": "Morphologically, the termites were identified as belonging to 23 species, including five Ancistrotermes cavithorax, six Amitermes evincifer, 12 Cubitermes orthognathus, four Cryptotermes brevis, 12 Kalotermes flavicollis, 28 Macrotermes bellicosus",
+          "locator": "Results / full.txt L11",
+          "note": "支撑：形态学鉴定为 23 个种，其中样本量最大的是 Reticulitermes lucifugus 84 只、Odontot…"
+        }
+      ],
       "id": "S0280"
     },
     {
@@ -16345,7 +16869,7 @@
       "file_path": "_unpublished/文库/10.1002-ece3.7462",
       "chars": 43547,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:13:11+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1002-ece3.7462（43547 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1002-ece3.7462",
@@ -16379,8 +16903,26 @@
       "license": "cc-by",
       "doi": "10.1002/ece3.7462",
       "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.7462",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Twelve nests of Cubitermes tenuiceps from two locations around Pretoria, South Africa, (Table S1) were systematically excavated in October 2019 when no rain had fallen for 5 months",
+          "locator": "full.txt §2.1 Colony sampling",
+          "note": "支撑：2019 年 10 月在南非比勒陀利亚周边两个地点系统挖掘 Cubitermes tenuiceps 的 12 个巢，挖…"
+        },
+        {
+          "quote": "Alates were collected 1–2 days before the first rains, after which Cubitermes has its nuptial flight (Nutting, 1969). The day after the first rain, several colonies from both locations were excavated and no alates were found.",
+          "locator": "full.txt §2.1 Colony sampling",
+          "note": "支撑：有翅繁殖蚁（alates）在首场降雨前 1–2 天采集；降雨次日重挖两地多个巢已找不到 alates，说明 Cubite…"
+        },
+        {
+          "quote": "All colonies except one were identified to Cubitermes tenuiceps, with 97%–98% nucleotide sequence similarity to the BLASTn hit MN685946.1 in GenBank. The remaining colony also matched best Cubitermes tenuiceps, but with a lower match of 92%, so we removed it from further analyses.",
+          "locator": "full.txt §3.1 Termite identification",
+          "note": "支撑：线粒体 COII 条形码与 GenBank 记录 MN685946.1 的相似度为 97%–98%，据此定为 Cubit…"
+        }
+      ],
       "id": "S0281"
     },
     {
@@ -16476,7 +17018,7 @@
       "file_path": "_unpublished/文库/10.12741-ebrasilis.v7i1.353",
       "chars": 22633,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:13:17+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.12741-ebrasilis.v7i1.353（4 页，22633 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.12741-ebrasilis.v7i1.353",
@@ -16507,8 +17049,26 @@
       "license": "cc-by",
       "doi": "10.12741/ebrasilis.v7i1.353",
       "url": "https://www.entomobrasilis.org/index.php/ebras/article/download/ebrasilis.v7i1.353/270",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Ten soldiers and 36 workers were spread in the cavities and between",
+          "locator": "p.58 / 0001-0004.txt",
+          "note": "支撑：2012 年 3 月在巴西利亚（联邦区）一具在地面暴露一周的鼠尸干残骸中，于体腔与内部皮膜之间发现该种 10 头兵蚁与 …"
+        },
+        {
+          "quote": "associated with rat carrion in an urban area of Brasília, Distrito Federal, Brazil.",
+          "locator": "p.58 / 0001-0004.txt",
+          "note": "支撑：该种首次被记录与鼠尸相关联，地点为巴西利亚（Distrito Federal）城区，属城市环境中的新记录。"
+        },
+        {
+          "quote": "R. nasutissimus is distributed through Argentina, Bolivia, Brazil",
+          "locator": "p.60 / 0001-0004.txt",
+          "note": "支撑：文献记载其分布为阿根廷、玻利维亚、巴西、巴拉圭、秘鲁（Constantino 2013），并在塞拉多（Cerrado）不…"
+        }
+      ],
       "id": "S0284"
     },
     {
@@ -16519,7 +17079,7 @@
       "file_path": "_unpublished/文库/10.25100-socolen.v38i2.9009",
       "chars": 59013,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:13:21+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.25100-socolen.v38i2.9009（8 页，59013 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.25100-socolen.v38i2.9009",
@@ -16548,8 +17108,26 @@
       "lang": "es",
       "doi": "10.25100/socolen.v38i2.9009",
       "url": "https://revistacolombianaentomologia.univalle.edu.co/index.php/SOCOLEN/article/download/9009/11509",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Ten species were found belonging to the families Termitidae\n          (Apicotermitinae, Termitinae, Nasutitermitinae, Syntermitinae) and Rhinotermitidae (Heterotermitinae).",
+          "locator": "p.291 / 0001-0008.txt 摘要 (Abstract, L28-29)",
+          "note": "支撑：在哥伦比亚 Meta 省 Puerto López 橡胶林（Hevea brasiliensis）中记录白蚁 10 种，…"
+        },
+        {
+          "quote": "siendo Anoplotermes spp., Heterotermes convexinotatus y Grigiotermes sp. las especies con mayor\n          frecuencia.",
+          "locator": "p.291 / 0001-0008.txt 摘要 (Resumen, L17-18)",
+          "note": "支撑：种数最多的三种为 Anoplotermes spp.、Heterotermes convexinotatus 和 Gri…"
+        },
+        {
+          "quote": "but in no case was any damaging activity observed in the crop.",
+          "locator": "p.291 / 0001-0008.txt 摘要 (Abstract, L32-33)",
+          "note": "支撑：三个林龄的橡胶林中均未观察到白蚁对橡胶作物的危害活动，Heterotermes convexinotatus 的作用被解…"
+        }
+      ],
       "id": "S0285"
     },
     {
@@ -16560,7 +17138,7 @@
       "file_path": "_unpublished/文库/10.11606-0031-1049.2000.41.p303-311",
       "chars": 18857,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:13:25+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11606-0031-1049.2000.41.p303-311（12 页，18857 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.11606-0031-1049.2000.41.p303-311",
@@ -16589,8 +17167,26 @@
       "license": "cc-by",
       "doi": "10.11606/0031-1049.2000.41.p303-311",
       "url": "https://www.revistas.usp.br/paz/article/download/211857/195087",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A new fóssil termite species, the first Rhinotermitinae in amber, Dolichorhinotermes dominicanus, is described based on a single imago trapped in Dominican Amber.",
+          "locator": "p.303 摘要 / 0001-0012.txt",
+          "note": "支撑：据一枚多米尼加琥珀中的单头有翅成虫描述新种 Dolichorhinotermes dominicanus，为琥珀中首个犀…"
+        },
+        {
+          "quote": "Holotype: alate in amber (nr. 248) - Museu de la Ciência, Barcelona, Spain. Type- locality: Dominican Republic",
+          "locator": "p.305 模式材料 / 0001-0012.txt",
+          "note": "支撑：正模为巴塞罗那科学博物馆（Museu de la Ciência）藏琥珀编号 248，模式产地多米尼加共和国。"
+        },
+        {
+          "quote": "Measurements: length of head: 1.8 *; width of head with eyes: 1.6 *; width of head: 1.3; eye diameter: 0.32; maximum diameter of ocellus: 0.14; minimum diameter of ocellus: 0.1; distance from eye to lower margin of head: 0,08;",
+          "locator": "p.305 测量 / 0001-0012.txt",
+          "note": "支撑：有翅成虫量度（mm，带 * 为不精确值）：头长 1.8*、含眼头宽 1.6*、头宽 1.3、眼径 0.32、单眼最大径 …"
+        }
+      ],
       "id": "S0286"
     },
     {
@@ -16601,7 +17197,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1439-0418.1962.tb04422.x",
       "chars": 5127,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:13:48+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1439-0418.1962.tb04422.x（5127 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（5126 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1439-0418.1962.tb04422.x",
@@ -16627,10 +17223,27 @@
       "publisher": "Zeitschrift für Angewandte Entomologie",
       "lang": "de",
       "doi": "10.1111/j.1439-0418.1962.tb04422.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0287",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "die von September bis Dezember 1956 in Indien in den Staaten Uttar Pradesh, Bombay, Mysore, Kerala, Madras, Andhra Pradesh, Orissa und in Kalkutta",
+          "locator": "摘要（Zusammenfassung）/ full.txt",
+          "note": "支撑：作者 1956 年 9—12 月在印度 Uttar Pradesh、Bombay、Mysore、Kerala、Madra…"
+        },
+        {
+          "quote": "Nasutitermes beckeri Prashad and Sen‐Sarma (spec. nova)",
+          "locator": "摘要（Zusammenfassung）/ full.txt",
+          "note": "支撑：该文把 Nasutitermes beckeri 作为新种（spec. nova）记录，命名人为 Prashad 与 S…"
+        },
+        {
+          "quote": "Trinervitermes nigrirostris Mathur and Sen‐Sarma (spec. nova)",
+          "locator": "摘要（Zusammenfassung）/ full.txt",
+          "note": "支撑：该文把 Trinervitermes nigrirostris 作为新种（spec. nova）记录，命名人为 Math…"
+        }
+      ],
+      "id": "S0287"
     },
     {
       "title": "The distribution and biology of the genus Ahamitermes (Isoptera).",
@@ -16640,7 +17253,7 @@
       "file_path": "_unpublished/文库/10.1071-zo9560111",
       "chars": 1150,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:13:51+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1071-zo9560111（1150 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1149 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1071-zo9560111",
@@ -16666,10 +17279,27 @@
       "publisher": "Australian Journal of Zoology",
       "lang": "en",
       "doi": "10.1071/zo9560111",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0288",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The little-known Australian genus, Ahamitermes, contains four described species: A. nidicola Mjoberg (Queensland), A. hillii Nicholls (south-western Australia), A. inclusus Gay (restricted to a small sub-coastal area in mid- Western Australia)",
+          "locator": "摘要",
+          "note": "支撑：Ahamitermes 属共记述 4 种：A. nidicola 产昆士兰，A. hillii 产澳大利亚西南部，A. …"
+        },
+        {
+          "quote": "and A. pumilus (Hill) (New South Wales and Western Australia).",
+          "locator": "摘要",
+          "note": "支撑：A. pumilus（Hill）分布于新南威尔士与西澳大利亚。"
+        },
+        {
+          "quote": "Many new distribution records of A. hillii and some of A. inclusus are given",
+          "locator": "摘要",
+          "note": "支撑：该文补充 A. hillii 的大量新分布记录以及 A. inclusus 的部分新记录。"
+        }
+      ],
+      "id": "S0288"
     },
     {
       "title": "THE BLACK-MOUND TERMITE OF THE CAPE, AMITERMES ATLANTICUS FULLER",
@@ -16718,7 +17348,7 @@
       "file_path": "_unpublished/文库/10.3390-insects10070218",
       "chars": 47400,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:14:01+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.3390-insects10070218（47400 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.3390-insects10070218",
@@ -16751,8 +17381,26 @@
       "license": "cc-by",
       "doi": "10.3390/insects10070218",
       "url": "https://www.mdpi.com/2075-4450/10/7/218/pdf?version=1563949366",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Ants and termites were sampled within the botanical garden of the University of Lomé (Figure 1) between October and November 2016.",
+          "locator": "p.2 研究地 / full.txt L10",
+          "note": "支撑：2016 年 10–11 月在多哥洛美大学植物园采集蚂蚁与白蚁样本。"
+        },
+        {
+          "quote": "The study area (with around 3 ha) was previously cultivated land (the whole campus) up to 1988, when the garden was created. From that year, it was divided into two main parts: open area (with almost no trees) and an area planted with exotic plants and native ones (Table 1).",
+          "locator": "p.2 研究地 / full.txt L13",
+          "note": "支撑：研究地约 3 ha，1988 年建园前整个校园为耕地；此后分为几乎无树的草地（开阔区）与栽植本土及外来植物的人工林（覆盖…"
+        },
+        {
+          "quote": "The mean temperature recorded during the study period was 26.43 °C and precipitation in that period was 84 mm.",
+          "locator": "p.2 气候 / full.txt L10",
+          "note": "支撑：研究期（2016 年 10–11 月）样地均温 26.43 °C，降水量 84 mm；当地有 4–7 月与 9–10 月…"
+        }
+      ],
       "id": "S0290"
     },
     {
@@ -16846,7 +17494,7 @@
       "file_path": "_unpublished/文库/10.1080-00779962.2001.9722083",
       "chars": 883,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:14+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-00779962.2001.9722083（883 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（882 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1080-00779962.2001.9722083",
@@ -16873,10 +17521,27 @@
       "publisher": "New Zealand Entomologist",
       "lang": "en",
       "doi": "10.1080/00779962.2001.9722083",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0293",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Colony population size, reproductive system, alate production and sex ratio, and density of the New Zealand termites Stolotermes inopinus Gay and S. ruficeps Brauer were studied in the field.",
+          "locator": "摘要",
+          "note": "支撑：对新西兰的 Stolotermes inopinus Gay 与 S. ruficeps Brauer 在野外研究了巢群…"
+        },
+        {
+          "quote": "Colony size was typically several hundred individuals in spatially isolated colonies.",
+          "locator": "摘要",
+          "note": "支撑：空间上隔离的巢群个体数通常为数百头。"
+        },
+        {
+          "quote": "Compound or associated ‘colonies’ or ‘subcolonies’ may reach much larger sizes.",
+          "locator": "摘要",
+          "note": "支撑：复合或相互关联的“巢群”或“亚巢群”可达更大规模。"
+        }
+      ],
+      "id": "S0293"
     },
     {
       "title": "Two permanent linear chains of sex chromosomes in Neotermes fulvescens and karyotypes of two other neotropical Kalotermitidae species (Insecta, Isoptera)",
@@ -16886,7 +17551,7 @@
       "file_path": "_unpublished/文库/10.1139-g95-126",
       "chars": 1123,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:15+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1139-g95-126（1123 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1122 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1139-g95-126",
@@ -16913,10 +17578,27 @@
       "publisher": "Genome",
       "lang": "en",
       "doi": "10.1139/g95-126",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0294",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Cryptotermes brevis showed a similar karyotype to that obtained by other authors for specimens of the neartic and Australian regions (2n = 36 for females and 2n = 37 for males, with XX and XYY sex mechanisms, respectively).",
+          "locator": "摘要",
+          "note": "支撑：Cryptotermes brevis 雌性 2n=36、雄性 2n=37，性染色体机制分别为 XX 与 XYY，与新北…"
+        },
+        {
+          "quote": "Eucryptotermes wheeleri, the only species that has been described in this genus, showed the lowest number of chromosomes reported for Isoptera (2n = 22) until now.",
+          "locator": "摘要",
+          "note": "支撑：Eucryptotermes wheeleri 是该属唯一已描述种，2n=22，为当时等翅目中已知染色体数最低者。"
+        },
+        {
+          "quote": "The male meiosis of this species presents a linear chain of six sex chromosomes, three of them being X and three of them Y chromosomes.",
+          "locator": "摘要",
+          "note": "支撑：该种雄性减数分裂中出现 6 条性染色体组成的线性链，其中 3 条为 X、3 条为 Y。"
+        }
+      ],
+      "id": "S0294"
     },
     {
       "title": "Incidence and effects of the dampwood termite, Porotermes adamsoni,in two Tasmanian east coast eucalypt forests",
@@ -16926,7 +17608,7 @@
       "file_path": "_unpublished/文库/10.1080-00049158.1984.10675973",
       "chars": 994,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:16+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-00049158.1984.10675973（994 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（993 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1080-00049158.1984.10675973",
@@ -16953,10 +17635,27 @@
       "publisher": "Australian Forestry",
       "lang": "en",
       "doi": "10.1080/00049158.1984.10675973",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0295",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Damage caused by Porotermes adamsoni and its effect on log quality were investigated in coastal lowland eucalypt forests in eastern Tasmania.",
+          "locator": "摘要",
+          "note": "支撑：在塔斯马尼亚东部沿海低地桉树林中调查 Porotermes adamsoni 的危害及其对原木质量的影响。"
+        },
+        {
+          "quote": "In two study areas, 60 per cent and 43 per cent of trees sampled had been damaged by P. adamsoni.",
+          "locator": "摘要",
+          "note": "支撑：两个研究区中分别有 60% 与 43% 的抽样树木受 P. adamsoni 危害。"
+        },
+        {
+          "quote": "All eucalypt species (6) were attacked and there was no significant difference between species in the proportion of trees so affected.",
+          "locator": "摘要",
+          "note": "支撑：6 种桉树全部受害，各树种之间受害株比例无显著差异。"
+        }
+      ],
+      "id": "S0295"
     },
     {
       "title": "Estimation of soil and organic matter consumption by termites of the genus Cubitermes",
@@ -16966,7 +17665,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1365-2028.1980.tb00276.x",
       "chars": 1683,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:17+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1365-2028.1980.tb00276.x（1683 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1682 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1365-2028.1980.tb00276.x",
@@ -16992,10 +17691,27 @@
       "publisher": "African Journal of Ecology",
       "lang": "en",
       "doi": "10.1111/j.1365-2028.1980.tb00276.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0296",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The rates of consumption of soil and organic matter by individual workers (the dominant caste) were estimated in the first instance.",
+          "locator": "摘要",
+          "note": "支撑：先估测单个工蚁（优势品级）的土壤与有机质消耗速率。"
+        },
+        {
+          "quote": "Insects were taken from the mound and were fed in the laboratory on known amounts of soil whose organic matter content had previously been determined.",
+          "locator": "摘要",
+          "note": "支撑：实验方法：从蚁丘取虫，在实验室饲以已知量、有机质含量预先测定的土壤。"
+        },
+        {
+          "quote": "Consumption of soil varied between 0.72 mg and 0.911 mg/termite per day and of organic matter between 0.65 mg and 0.84 mg/termite per day.",
+          "locator": "摘要",
+          "note": "支撑：每头每天消耗土壤 0.72–0.911 mg、有机质 0.65–0.84 mg。"
+        }
+      ],
+      "id": "S0296"
     },
     {
       "title": "The role of sugars in the food‐selection of the termite Microtermes traegardhi (Sjost.)",
@@ -17084,7 +17800,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.4109.5.1",
       "chars": 800,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:25+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.4109.5.1（800 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（799 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.4109.5.1",
@@ -17111,10 +17827,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.4109.5.1",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0299",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Seven species were recognized and diagnosis given for all available castes.",
+          "locator": "摘要",
+          "note": "支撑：承认该属 7 种，并对所有可获品级给出鉴别特征（diagnosis）。"
+        },
+        {
+          "quote": "This includes two new species: Rhynchotermes amazonensis Constantini & Cancello sp. nov. and Rhynchotermes matraga Constantini & Cancello sp. nov.",
+          "locator": "摘要",
+          "note": "支撑：描述两个新种：Rhynchotermes amazonensis 与 Rhynchotermes matraga（Con…"
+        },
+        {
+          "quote": "Rhynchotermes guarany Cancello is recognized as syn. nov. of Rhynchotermes nasutissimus (Silvestri)",
+          "locator": "摘要",
+          "note": "支撑：将 Rhynchotermes guarany Cancello 降为 Rhynchotermes nasutissim…"
+        }
+      ],
+      "id": "S0299"
     },
     {
       "title": "Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia",
@@ -17124,7 +17857,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.3941.2.10",
       "chars": 890,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:27+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.3941.2.10（890 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（889 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.3941.2.10",
@@ -17152,10 +17885,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.3941.2.10",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0300",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Species of neotropical Apicotermitinae (Termitidae) are soldierless, restricting species identification in this group to workers or seasonally present winged imagos.",
+          "locator": "摘要",
+          "note": "支撑：新热带 Apicotermitinae（白蚁科）全部无兵蚁，该群的物种鉴定只能依据工蚁或季节性出现的具翅成虫。"
+        },
+        {
+          "quote": "All neotropical Apicotermitinae were placed in the genus Anoplotermes, until Mathews (1977) described two new genera, Grigiotermes and Ruptitermes.",
+          "locator": "摘要",
+          "note": "支撑：Mathews 于 1977 年建立 Grigiotermes 与 Ruptitermes 两属；在此之前，新热带的 A…"
+        },
+        {
+          "quote": "Fontes (1986) described two more genera, Aparatermes and Tetimatermes.",
+          "locator": "摘要",
+          "note": "支撑：Fontes 于 1986 年又描述了 Aparatermes 与 Tetimatermes 两个属。"
+        }
+      ],
+      "id": "S0300"
     },
     {
       "title": "Negative Effects of Azteca Ants on the Distribution of the Termite Neocapritermes braziliensis in Central Amazonia",
@@ -17165,7 +17915,7 @@
       "file_path": "_unpublished/文库/10.13102-sociobiology.v59i3.555",
       "chars": 1442,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:28+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.13102-sociobiology.v59i3.555（1442 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1441 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.13102-sociobiology.v59i3.555",
@@ -17191,10 +17941,27 @@
       "publisher": "DOAJ (DOAJ: Directory of Open Access Journals)",
       "lang": "en",
       "doi": "10.13102/sociobiology.v59i3.555",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0301",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Both taxa frequently build their nests attached to trees.",
+          "locator": "摘要",
+          "note": "支撑：白蚁 Neocapritermes braziliensis 与广布性蚂蚁 Azteca sp. 都常把巢附着在树木上，…"
+        },
+        {
+          "quote": "We determined the densities of their active nests in 10 plots (250 x 10 m) systematically distributed over 5 km2 in central Amazonia, Brazil, and recorded their co-occurrence in individual trees.",
+          "locator": "摘要",
+          "note": "支撑：在巴西亚马孙中部约 5 km² 范围内系统设置 10 个 250×10 m 样地，统计两种活动巢的密度并记录同一棵树上的…"
+        },
+        {
+          "quote": "we found good support for a negative effect of Azteca’s nest density on N. braziliensis’. This effect conformed to a power law, and accounted for more than half of the variation in the termite’s nest density (r2 = 0.56).",
+          "locator": "摘要",
+          "note": "支撑：贝叶斯广义非线性模型支持 Azteca 巢密度对 N. braziliensis 巢密度存在负效应，呈幂律关系，可解释白…"
+        }
+      ],
+      "id": "S0301"
     },
     {
       "title": "A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae)",
@@ -17204,7 +17971,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.3186.1.2",
       "chars": 589,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:29+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.3186.1.2（589 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（588 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.3186.1.2",
@@ -17231,10 +17998,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.3186.1.2",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0302",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The taxonomy of the South American termite genus Cyrilliotermes Fontes, 1985 is revised",
+          "locator": "摘要",
+          "note": "支撑：本文修订了南美白蚁属 Cyrilliotermes Fontes, 1985 的分类。"
+        },
+        {
+          "quote": "Two new species are described: C. brevidens and C. crassinasus, bothfrom southeastern Brazil.",
+          "locator": "摘要",
+          "note": "支撑：描述两个新种 Cyrilliotermes brevidens 与 Cyrilliotermes crassinasus…"
+        },
+        {
+          "quote": "C. cashassa Fontes, 1985 and C. jaci Fontes, 1985 are both designated as junior synonyms ofC. angulariceps (Mathews, 1977)",
+          "locator": "摘要",
+          "note": "支撑：将 C. cashassa Fontes, 1985 与 C. jaci Fontes, 1985 同时指定为 C. a…"
+        }
+      ],
+      "id": "S0302"
     },
     {
       "title": "Distribution, diversity, mesonotal morphology, gallery architecture, and queen physogastry of the termite genus Calcaritermes (Isoptera, Kalotermitidae)",
@@ -17244,7 +18028,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.148.1505",
       "chars": 26654,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:14:32+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.148.1505（26654 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.3897-zookeys.148.1505",
@@ -17272,8 +18056,26 @@
       "license": "cc-by",
       "doi": "10.3897/zookeys.148.1505",
       "url": "https://doi.org/10.3897/zookeys.148.1505",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Krishna (1961) separated Calcaritermes from all other genera by the diagnostic enlargement of the outer spine (“spur” sensu Snyder 1925b) of the fore tibia relative to the other two tibial spines. Soldiers also possess a dark, rather smooth, and cylindrical head capsule.",
+          "locator": "§Introduction / full.txt L5",
+          "note": "支撑：Calcaritermes 属的鉴别特征为前胫外侧刺（spur）相对另两枚胫刺显著增大；其兵蚁另具深色、较光滑的圆柱形头…"
+        },
+        {
+          "quote": "Calcaritermes is a basal group within the Kalotermitidae (Legendre et al. 2008) and is not closely related to the sympatric Cryptotermes which also possess phragmotic dark-headed soldiers.",
+          "locator": "§Introduction / full.txt L5",
+          "note": "支撑：Calcaritermes 是 Kalotermitidae 内的基部类群，与同域分布、同样具深色额板型（phragmo…"
+        },
+        {
+          "quote": "Emerson (1969) described Calcaritermes vetus from a fossilized alate in amber collected in the Simojovel region of Chiapas, Mexico.",
+          "locator": "§Introduction / full.txt L5",
+          "note": "支撑：Calcaritermes vetus 由 Emerson（1969）依据墨西哥恰帕斯州 Simojovel 地区琥珀中…"
+        }
+      ],
       "id": "S0303"
     },
     {
@@ -17284,7 +18086,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.2387.1.6",
       "chars": 480,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:33+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.2387.1.6（480 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（479 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.2387.1.6",
@@ -17310,10 +18112,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.2387.1.6",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0304",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A new species of mandibulate nasute termite, Rhynchotermes bulbinasus Scheffrahn sp. nov. is described from dimorphic soldiers and monomorphic workers discovered in the Caribbean plains of northern Colombia.",
+          "locator": "摘要",
+          "note": "支撑：依据在哥伦比亚北部加勒比平原发现的二型兵蚁与单型工蚁，描述新种 Rhynchotermes bulbinasus Sch…"
+        },
+        {
+          "quote": "dimorphic soldiers and monomorphic workers",
+          "locator": "摘要",
+          "note": "支撑：该新种兵蚁为二型（dimorphic），工蚁为单型（monomorphic）。"
+        },
+        {
+          "quote": "discovered in the Caribbean plains of northern Colombia",
+          "locator": "摘要",
+          "note": "支撑：模式产地为哥伦比亚北部的加勒比平原。"
+        }
+      ],
+      "id": "S0304"
     },
     {
       "title": "The genus Microcerotermes (Isoptera : Termitidae) in New Guinea and the Solomon Islands",
@@ -17323,7 +18142,7 @@
       "file_path": "_unpublished/文库/10.1071-it99005",
       "chars": 1197,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:36+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1071-it99005（1197 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1196 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1071-it99005",
@@ -17350,10 +18169,27 @@
       "publisher": "Invertebrate Taxonomy",
       "lang": "en",
       "doi": "10.1071/it99005",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0305",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The genus Microcerotermes Silvestri is revised in an area covering New Guinea, the Bismarck Islands and the Solomon Islands.",
+          "locator": "摘要",
+          "note": "支撑：修订 Microcerotermes Silvestri 属，研究范围覆盖新几内亚、俾斯麦群岛与所罗门群岛。"
+        },
+        {
+          "quote": "The presence and status of M. biroi (Desneux), M. papuanus Holmgren and M. repugnans Hill are confirmed.",
+          "locator": "摘要",
+          "note": "支撑：确认 M. biroi (Desneux)、M. papuanus Holmgren 与 M. repugnans Hi…"
+        },
+        {
+          "quote": "Microcerotermes brevior (Desneux), formerly treated as a subspecies or a synonym of M. biroi, is raised to specific rank.",
+          "locator": "摘要",
+          "note": "支撑：原被处理为 M. biroi 的亚种或异名的 Microcerotermes brevior (Desneux) 被提升…"
+        }
+      ],
+      "id": "S0305"
     },
     {
       "title": "Influence of vegetation and soil types on the wheatbelt termite, Drepanotermes tamminensis (Hill), in the Western Australian wheatbelt",
@@ -17363,7 +18199,7 @@
       "file_path": "_unpublished/文库/10.1007-bf02347490",
       "chars": 881,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:38+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1007-bf02347490（881 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（880 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1007-bf02347490",
@@ -17391,10 +18227,27 @@
       "publisher": "Ecological Research",
       "lang": "en",
       "doi": "10.1007/bf02347490",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0306",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A survey of the distribution and density of mounds of the harvester termite, Drepanotermes tamminensis (Hill), was carried out in the Durokoppin Nature Reserve, Western Australia in 1990.",
+          "locator": "摘要",
+          "note": "支撑：1990 年在西澳大利亚 Durokoppin 自然保护区对收获蚁白蚁 Drepanotermes tamminensi…"
+        },
+        {
+          "quote": "Vegetation and, to a lesser extent, soil type, appear to be important factors in determining density and distribution of termite mounds within the Reserve.",
+          "locator": "摘要",
+          "note": "支撑：植被是决定保护区内蚁丘密度与分布的重要因素，土壤类型的影响次之。"
+        },
+        {
+          "quote": "A more detailed study of mounds in Wandoo ( Eucalyptus capillosa ) woodland and Casuarina ( Allocasuarina campestris ) shrubland indicated that the total number and size of mounds were significantly higher in the woodland than in the shrubland.",
+          "locator": "摘要",
+          "note": "支撑：在 Wandoo（Eucalyptus capillosa）疏林与 Casuarina（Allocasuarina ca…"
+        }
+      ],
+      "id": "S0306"
     },
     {
       "title": "Survival and Food Consumption by the Desert Termite Gnathamitermes tubiformans1 in Relation to Dietary Nitrogen Source and Levels 2",
@@ -17404,7 +18257,7 @@
       "file_path": "_unpublished/文库/10.1093-ee-5.5.1022",
       "chars": 777,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:40+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1093-ee-5.5.1022（777 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（776 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1093-ee-5.5.1022",
@@ -17431,10 +18284,27 @@
       "publisher": "Environmental Entomology",
       "lang": "en",
       "doi": "10.1093/ee/5.5.1022",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0307",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Workers of the desert termite, Gnathamitermes tubiformans (Buckley), were fed on a natural diet of blue grama leaves and cattle manure, and on artificial diets containing various amounts of cellulose, amino acid nitrogen (AAN), and non-protein nitrogen (NPN).",
+          "locator": "摘要",
+          "note": "支撑：以蓝格兰马草叶与牛粪组成的天然食料，以及含不同纤维素、氨基酸氮（AAN）与非蛋白氮（NPN）量的人工食料饲养荒漠白蚁 G…"
+        },
+        {
+          "quote": "Survival was highest on the natural diet and somewhat lower on low levels of AAN and NPN.",
+          "locator": "摘要",
+          "note": "支撑：工蚁在天然食料上的存活率最高，在低水平 AAN 与 NPN 的人工食料上次之。"
+        },
+        {
+          "quote": "Survival and consumption of artificial diets decreased as dietary NPN level increased.",
+          "locator": "摘要",
+          "note": "支撑：随人工食料中非蛋白氮（NPN）水平升高，工蚁的存活率与取食量均下降。"
+        }
+      ],
+      "id": "S0307"
     },
     {
       "title": "New Termitophilous Staphylinidae of Zoogeographic Significance (Coleoptera)1",
@@ -17444,7 +18314,7 @@
       "file_path": "_unpublished/文库/10.1093-aesa-53.6.825",
       "chars": 1165,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:41+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1093-aesa-53.6.825（1165 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1164 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1093-aesa-53.6.825",
@@ -17470,10 +18340,27 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1093/aesa/53.6.825",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0308",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "New taxa in the Corotocina are: Thyreoxenusmexicanus, from Campeche, whose host probably is a Nasutitermes",
+          "locator": "摘要",
+          "note": "支撑：Corotocina 亚族新种 Thyreoxenus mexicanus 产自墨西哥 Campeche，其寄主很可能是…"
+        },
+        {
+          "quote": "SPIRACHTHODES, type S.madecassus, found with Nasutitermes kanderianus in Madagascar",
+          "locator": "摘要",
+          "note": "支撑：建立新属 Spirachthodes，模式种 S. madecassus 在马达加斯加与 Nasutitermes ka…"
+        },
+        {
+          "quote": "This latter is the first Old-World genus with exudatory abdominal appendages, a remarkable adaptive feature shared only with Spirachtha Sehiödte of Brazil and British Guiana.",
+          "locator": "摘要",
+          "note": "支撑：Spirachthodes 是旧世界首个具分泌性腹部附肢的属，该适应性特征此前只见于巴西与英属圭亚那的 Spiracht…"
+        }
+      ],
+      "id": "S0308"
     },
     {
       "title": "A New Termitophilous Genus of Paederinae Rove Beetles (Coleoptera, Staphylinidae) from the Neotropics and Its Phylogenetic Position",
@@ -17528,7 +18415,7 @@
       "file_path": "_unpublished/文库/10.11606-1807-0205-2020.60.special-issue.21",
       "chars": 46811,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:14:50+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11606-1807-0205-2020.60.special-issue.21（13 页，46811 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.11606-1807-0205-2020.60.special-issue.21",
@@ -17557,8 +18444,26 @@
       "license": "cc-by",
       "doi": "10.11606/1807-0205/2020.60.special-issue.21",
       "url": "https://www.revistas.usp.br/paz/article/download/163677/159649",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "two new species associated with Atlantitermes\n        guarinim Fontes and Diversitermes sp., are described and illustrated: Fonsechellus heterosetosus sp. nov. and Oecidiophilus\n         cleidecostae sp. nov., respectively.",
+          "locator": "p.1 / 0001-0013.txt",
+          "note": "支撑：描述两个新种：Fonsechellus heterosetosus sp. nov. 与 Atlantitermes g…"
+        },
+        {
+          "quote": "Holmgren, Subulitermes Holmgren, Atlantitermes guarin‑\nim Fontes, 1979, and Araujotermes caissara Fontes, 1982.",
+          "locator": "p.3 / 0001-0013.txt",
+          "note": "支撑：Fonsechellus 属物种分别与以下白蚁属或种共生：Velocitermes Holmgren、Diversite…"
+        },
+        {
+          "quote": "Velocitermes sp. or Diversitermes sp...................... F. diversicolor Silvestri",
+          "locator": "p.3 (key) / 0001-0013.txt",
+          "note": "支撑：检索表以胫节重度硬化区分 F. diversicolor，其宿主记为 Velocitermes sp. 或 Divers…"
+        }
+      ],
       "id": "S0310"
     },
     {
@@ -17612,7 +18517,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.4158.2.5",
       "chars": 812,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:58+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.4158.2.5（812 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（811 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.4158.2.5",
@@ -17639,10 +18544,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.4158.2.5",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0312",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The taxonomy of the neotropical termite genus Diversitermes Holmgren 1912 is revised.",
+          "locator": "摘要",
+          "note": "支撑：修订新热带白蚁属 Diversitermes Holmgren 1912 的分类。"
+        },
+        {
+          "quote": "Three species are recognized as valid: D. castaniceps (Holmgren 1910), D. diversimiles (Silvestri 1901) and D. tiapuan, sp. n.",
+          "locator": "摘要",
+          "note": "支撑：确认该属 3 个有效种：D. castaniceps (Holmgren 1910)、D. diversimiles (…"
+        },
+        {
+          "quote": "Identification keys based on soldiers and workers are presented.",
+          "locator": "摘要",
+          "note": "支撑：提供基于兵蚁与工蚁两品级的鉴定检索表。"
+        }
+      ],
+      "id": "S0312"
     },
     {
       "title": "Understanding the impact of fire on termites in degraded tropical peatlands and the mechanisms for their ecological success: current knowledge and research needs",
@@ -17652,7 +18574,7 @@
       "file_path": "_unpublished/文库/10.1007-s11284-015-1289-8",
       "chars": 1507,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:14:59+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1007-s11284-015-1289-8（1507 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1506 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1007-s11284-015-1289-8",
@@ -17684,10 +18606,27 @@
       "publisher": "Ecological Research",
       "lang": "en",
       "doi": "10.1007/s11284-015-1289-8",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0313",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Peatlands have experienced large scale changes due to extensive deforestation for logging, conversion to agro‐industrial plantations, and frequent peat fires.",
+          "locator": "摘要",
+          "note": "支撑：泥炭地因采伐导致的滥伐、转为农工业种植园以及频繁的泥炭火灾而发生大规模改变。"
+        },
+        {
+          "quote": "little is known about the effects of peat fires on termite assemblages",
+          "locator": "摘要",
+          "note": "支撑：与热带草原火烧相比，泥炭火灾对白蚁群落影响的研究极少。"
+        },
+        {
+          "quote": "we present available information about the impact of human use of peatlands on termite assemblages in the Indo‐Malayan region",
+          "locator": "摘要",
+          "note": "支撑：本文综述印度—马来亚地区人类利用泥炭地对白蚁群落影响的可获取资料。"
+        }
+      ],
+      "id": "S0313"
     },
     {
       "title": "New World Revision of the Termite Genus Procryptotermes (Isoptera: Kalotermitidae)",
@@ -17737,7 +18676,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1365-2311.1996.tb01185.x",
       "chars": 1450,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:15:10+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1365-2311.1996.tb01185.x（1450 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1449 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1365-2311.1996.tb01185.x",
@@ -17765,10 +18704,27 @@
       "publisher": "Ecological Entomology",
       "lang": "en",
       "doi": "10.1111/j.1365-2311.1996.tb01185.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0315",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Previous studies on the arboreal termite community in coconut plantations of northern New Guinea showed that Microcerotermes biroi is the most abundant species, despite the fighting superiority of two competitor species Nasutitermes princeps and N.novarumhebridarum.",
+          "locator": "摘要 / full.txt ¶1",
+          "note": "支撑：在新几内亚北部椰子种植园的树栖白蚁群落中，Microcerotermes biroi 数量最多，尽管两个竞争种 Nasu…"
+        },
+        {
+          "quote": "We demonstrated experimentally the ability of M.biroi colonies to replace their reproductives when removed, or to produce reproductives in satellite nests when isolated from the remainder of the colony.",
+          "locator": "摘要 / full.txt ¶2",
+          "note": "支撑：实验证明 Microcerotermes biroi 巢群在繁殖蚁被移除后能补充繁殖蚁，与主巢隔离时能在卫星巢中产生繁殖…"
+        },
+        {
+          "quote": "Replacement reproductives were always neotenics, derived from nymphs or workers.",
+          "locator": "摘要 / full.txt ¶2",
+          "note": "支撑：补充生殖蚁始终为幼态型（neotenics），由若虫或工蚁发育而来。"
+        }
+      ],
+      "id": "S0315"
     },
     {
       "title": "Seasonal Food Habits of a Desert Termite, Gnathamitermes tubiformans1 , in West Texas 2",
@@ -17778,7 +18734,7 @@
       "file_path": "_unpublished/文库/10.1093-ee-9.4.461",
       "chars": 1201,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:15:11+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1093-ee-9.4.461（1201 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1200 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1093-ee-9.4.461",
@@ -17806,10 +18762,27 @@
       "publisher": "Environmental Entomology",
       "lang": "en",
       "doi": "10.1093/ee/9.4.461",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0316",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The diet of Gnathamitermes tubiformans (Buckley) consisted primarily of 3 grass species, Aristida longiseta Steud., red three-awn; Buchloe dactyloides (Null.) Englm., bulfalograss; and Bouteloua gracilis (H.B.K.) Griffiths, blue grama.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Gnathamitermes tubiformans 的食物主要由 3 种禾草构成：Aristida longiseta…"
+        },
+        {
+          "quote": "Feeding activity was lowest in the spring and highest in the fall.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：取食活动春季最低、秋季最高。"
+        },
+        {
+          "quote": "Over the season red three-awn, buffalograss and blue grama comprised ca. 46, 26, and 24% of the diet, respectively",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：整个季节中红三芒草、野牛草与蓝格兰马草分别约占食物的 46%、26% 与 24%。"
+        }
+      ],
+      "id": "S0316"
     },
     {
       "title": "The Termitophilous Staphylinidae1 Associated with Grallatotermes in Africa; Their Taxonomy, Behavior, and a Survey of Their Glands of External Secretion2",
@@ -17897,7 +18870,7 @@
       "file_path": "_unpublished/文库/10.1038-s41598-023-45221-0",
       "chars": 51952,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:15:18+08:00",
+      "accessed": "2026-11-16T00:30:09+08:00",
       "notes": "全文存于 _unpublished/文库/10.1038-s41598-023-45221-0（51952 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1038-s41598-023-45221-0",
@@ -17928,8 +18901,26 @@
       "license": "cc-by",
       "doi": "10.1038/s41598-023-45221-0",
       "url": "https://www.nature.com/articles/s41598-023-45221-0.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Apterous castes (workers and soldiers) of the termite Procornitermes araujoi Emerson 1952 were sampled at the São Paulo State University, in the city of Rio Claro, SP, Brazil (22°23′49.01″ S; 47°32′38.06″ W), during September 2022.",
+          "locator": "§Methodology『Termite sampling』/ full.txt L18",
+          "note": "支撑：2022 年 9 月在巴西圣保罗州 Rio Claro 的圣保罗州立大学（22°23′49.01″S，47°32′38.…"
+        },
+        {
+          "quote": "the volume of the head capsule was 10 times larger in soldiers than in workers (mean ± SD, worker: 0.332 ± 0.027 mm3; soldier: 3.288 ± 0.245 mm3)",
+          "locator": "§Results『Comparison of neuropil size…』/ full.txt L34",
+          "note": "支撑：兵蚁头壳体积约为工蚁的 10 倍，均值±标准差分别为 3.288±0.245 mm³ 与 0.332±0.027 mm³…"
+        },
+        {
+          "quote": "was on average 24% smaller in soldiers than in workers (Fig. 3A) (workers, median: 0.0013, Q1: 0.0011—Q3: 0.0014 mm3; soldiers, median: 0.00101, Q1: 0.0009—Q3: 0.0011 mm3). This difference is highly significant (Mann–Whitney Test; U = 91, p < 0.001).",
+          "locator": "§Results『Comparison of neuropil size…』/ full.txt L34",
+          "note": "支撑：兵蚁的感官与整合脑区（5 个重建脑区体积之和）平均比工蚁小 24%：工蚁中位数 0.0013 mm³（四分位 0.001…"
+        }
+      ],
       "id": "S0319"
     },
     {

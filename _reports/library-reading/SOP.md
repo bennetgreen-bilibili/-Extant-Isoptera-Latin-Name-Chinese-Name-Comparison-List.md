@@ -60,11 +60,13 @@ python _tools/library_scan.py --help
 3. **读**：选到什么读什么；某条记录只有摘要、没有全文时，按 §4.2 的「据摘要」写法处理，不要把摘要当全文。
 4. **记**：`notes.md` 写一行「本轮未做新论文抓取（由抓取工作流负责）」；本轮读到抓取工作流新送来的记录时，另记「本轮新读：Sxxxx（标题，来源）」。
 
-## 3. Phase A：扫描 20 个单元（15 chunk + 5 摘要）
+## 3. Phase A：扫描阅读单元（默认 20 = 15 chunk + 5 摘要）
 
 ```powershell
 python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-MM-DD --top 120
 ```
+
+默认每轮 20 个单元；用户明确要求加大时按同一命令提高 `--limit`，`--abstract` 同步调整（摘要池有限，给足即可），`--top` 相应放大。单元数变了，**页面数不设硬上限**，但每页仍按 §4.4 选页、按 §5 写正文；单元读得多不等于每段都该立页。
 
 输出目录：`_tmp/library-scan/YYYY-MM-DD/`。
 
@@ -252,7 +254,10 @@ python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-M
 
 ```powershell
 python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
+python _tools/check_lit_duplicates.py --draft _tmp/review/YYYY-MM-DD/draft.json
 ```
+
+`check_lit_duplicates.py` 把草稿逐段与 `_data/taxon_literature.json` 现有段落、以及草稿内部互比，抓「同一来源已被写过又重写」「同一多物种研究被整段抄到几个页面」这两类跨页重复（`check_taxon_literature.py` 只查同页逐字重复）。有 ERROR 就改草稿：**同一来源在同一页只保留一条独立记述**；同一事实涉及多页时，各页只写本页那一侧（§4.4.1），措辞也要区分开。
 
 有 ERROR 先修 JSON，再输出到对话；WARN 可在 `notes.md` 解释。
 
@@ -292,6 +297,7 @@ python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
 ### 7.1 合并数据
 
 - 读现有 `_data/taxon_literature.json`，按 URL 合并；保留已有 section，追加新段落。
+- 合并时逐段比对归一化文本（去标签、去空白）：**与已有段落完全相同的不要追加**；references 也要并集补上（只加正文实际引用的 id），否则 `check_taxon_literature.py` 会报「正文引用了但参考文献未列」。
 - 同一页面段落顺序：分类/分布在前，形态/行为/生态在后；参考文献按正文出现顺序。
 - 每个新增 section 带 `heading_en` / `heading_es`，每个新增 paragraph 带 `text_en` / `text_es`；页面 key、`src`、`references` 不动。
 - 更新 `_meta.updated` 为当天。
@@ -347,12 +353,14 @@ python _tools/library_scan.py mark --date YYYY-MM-DD
 
 ```powershell
 python _tools/check_taxon_literature.py
+python _tools/check_lit_duplicates.py
 python _tools/check_site.py --ci
 python _tools/check_liquid.py
 python _tools/sources.py check --strict
 ```
 
 `check_taxon_literature.py` 会校验页面 URL、`src`/`references` id、重复段落和参考文献覆盖关系；草稿阶段可先用 `--file _tmp/review/YYYY-MM-DD/draft.json` 跑一遍。
+`check_lit_duplicates.py` 查跨页近似重复；`_reports/library-reading/duplicate-baseline.json` 里的既有配对只提示不判失败，`--strict` 可复查基线（清理基线时用）。**基线只收本轮之前的历史配对**，本轮新写的重复必须改写，不许加进基线。
 
 若本机有 Git Bash，再跑：
 
@@ -388,7 +396,7 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 - [ ] 每段至少包含一个可核验的具体事实（分类位置、年代、产地、数量、形态或行为特征）；不写只有「多个空间尺度」「整体视角」「重要节点」这类框架性判断的段落。摘要只有框架性表述时，不据此单独立页。
 - [ ] 一条事实涉及多个属／种时，每个在站内有页面的单元都写了对应表述（§4.4.1）；跑 `python _tools/audit_taxon_spread.py`，剩下的每一条都在 `notes.md` 里说明为什么不需要补写。原文只有名录级信息、没有该种自身事实的，不写，并在 `notes.md` 记「原文仅名录级，未写」。
 - [ ] `refetch.json` 里的条目本轮**只登记、不重抓**（重新下载属抓取工作流）：`summary.json` 的 `refetch_extra` 出现时，在 `notes.md` 写明该单元按「据摘要」处理或跳过，不声称读过全文。
-- [ ] 没有重复页面已有内容。
+- [ ] 没有重复页面已有内容；跑 `python _tools/check_lit_duplicates.py --draft <草稿>` 为 0 条 ERROR（跨页近似重复也算重复）。
 - [ ] 参考文献与正文来源一一对应，没有列了不用的。
 - [ ] 中文通顺，学名斜体，标点统一。
 - [ ] 每个拉丁名第一次及以后每次出现，都带中文正名（如“尖齿白蚁属（Acutidentitermes）”“奥斯本尖齿白蚁（Acutidentitermes osborni）”）；中文正名以 `_data/taxonomy.json`、`_data/species_by_genus.json`、`_species/*.md` 为准，不临时造名。
