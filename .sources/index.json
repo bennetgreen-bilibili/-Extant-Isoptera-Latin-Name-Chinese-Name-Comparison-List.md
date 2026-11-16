@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 453,
+    "count": 454,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-16T22:02:28+08:00",
+    "updated": "2026-11-16T23:35:42+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -24714,6 +24714,51 @@
       "accessed": "2026-11-16T20:05:09+08:00",
       "canonical_key": "url:https://developers.google.com/search/docs/appearance/favicon-in-search",
       "id": "S0454"
+    },
+    {
+      "title": "actions/jekyll-build-pages",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://github.com/actions/jekyll-build-pages",
+      "year": 2026,
+      "publisher": "GitHub Actions",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch（raw.githubusercontent.com 的 action.yml / entrypoint.sh / Dockerfile / Gemfile，落在 _tmp/jbp/）",
+      "evidence": [
+        {
+          "quote": "SOURCE_DIRECTORY=${GITHUB_WORKSPACE}/$INPUT_SOURCE\nDESTINATION_DIRECTORY=${GITHUB_WORKSPACE}/$INPUT_DESTINATION",
+          "locator": "entrypoint.sh, L14-15",
+          "note": "支撑：构建的 source/destination 都以 GITHUB_WORKSPACE 为根拼出来 → 用 docker run 手动复刻时必须把仓库根挂进容器并设 GITHUB_WORKSPACE"
+        },
+        {
+          "quote": "build_output=\"$($GITHUB_PAGES_BIN build \"$VERBOSE\" \"$FUTURE\" --source \"$SOURCE_DIRECTORY\" --destination \"$DESTINATION_DIRECTORY\")\"",
+          "locator": "entrypoint.sh, L56",
+          "note": "支撑：容器里真正执行的是 github-pages build（不是裸 jekyll），--source/--destination 都是绝对路径；这是三语切片必须自己 docker run 同一镜像的原因"
+        },
+        {
+          "quote": "export JEKYLL_ENV=\"production\"\nexport JEKYLL_GITHUB_TOKEN=$INPUT_TOKEN\nexport PAGES_REPO_NWO=$GITHUB_REPOSITORY\nexport JEKYLL_BUILD_REVISION=$INPUT_BUILD_REVISION\nexport PAGES_API_URL=$GITHUB_API_URL",
+          "locator": "entrypoint.sh, L24-28",
+          "note": "支撑：Pages 工具链给插件注入的环境变量清单；手动 docker run 时要照样传入，否则 jekyll-seo-tag/sitemap 的输出会与线上不同"
+        },
+        {
+          "quote": "source:\n    description: 'Directory where the source files reside.'\n    required: false\n    default: ./\n  destination:\n    description: 'Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.'\n    required: false\n    default: ./_site",
+          "locator": "action.yml, L5-12",
+          "note": "支撑：source/destination 是两个可传的输入，默认 ./ 与 ./_site——三语切片正是靠这两个输入各指一份目录"
+        },
+        {
+          "quote": "runs:\n  using: 'docker'\n  image: 'docker://ghcr.io/actions/jekyll-build-pages:v1.0.13'",
+          "locator": "action.yml, L29-31",
+          "note": "支撑：action 是 docker action，镜像标签钉在 v1.0.13；手动 docker run 必须用同一个镜像，才能与线上插件集一致"
+        }
+      ],
+      "used_in": [
+        ".github/workflows/pages.yml"
+      ],
+      "notes": "只读了仓库主分支的四个文件（action.yml / entrypoint.sh / Dockerfile / Gemfile），没有读更深实现；镜像标签 v1.0.13 与线上现用一致。Dockerfile 为 ruby:3.3-slim + bundle install，入口 ENTRYPOINT [\"/entrypoint.sh\"]。",
+      "accessed": "2026-11-16T23:35:42+08:00",
+      "canonical_key": "url:https://github.com/actions/jekyll-build-pages",
+      "id": "S0455"
     }
   ]
 }

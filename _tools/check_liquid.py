@@ -62,6 +62,10 @@ ONE_ARG_TAGS = {"capture", "increment", "decrement"}
 SKIP_DIRS = {
     ".git",
     "_site",
+    "_langsrc",   # 三语构建切片（_tools/make_lang_sources.py 的硬链接镜像）
+    "_site-zh",   # 三份语言产物（合并前）
+    "_site-en",
+    "_site-es",
     "node_modules",
     "vendor",
     "downloads",

@@ -1,3 +1,8 @@
+# Jekyll 产物与三语切片（CI 里生成；_langsrc/ 只是指向真源文件的硬链接镜像，不该进仓库）
+_site/
+_site-*/
+_langsrc/
+
 # Python
 __pycache__/
 *.pyc

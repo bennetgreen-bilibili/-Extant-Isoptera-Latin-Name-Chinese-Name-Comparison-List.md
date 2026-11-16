@@ -153,17 +153,77 @@ jobs:
       - name: Check Darwin Core Archive is current
         run: python _tools/build_dwca.py --check
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      # ── Jekyll：按语言切三份源、三个容器并行建、再并回一份 _site ───────────────────
+      #
+      # 为什么这么做：全站 11,301 页里 9,267 页（82%）是三语言的物种页，Jekyll 单线程
+      # 渲染，实测一次构建 1165s，其中 90%+ 都耗在这一步（run 43882480252）。
+      # 三语之间没有交叉引用（_layouts/、_includes/ 里 site.pages / site.documents 出现 0 次），
+      # 所以可以三份互不重叠地并行渲染；实测 488 页小样：单份 45s → 三份并行各 17–22s。
+      #
+      # 为什么用「切片目录 + 硬链接镜像」而不是三份 _config.<lang>.yml：
+      # Jekyll 的 deep_merge 对数组是**替换**不是合并，三份配置各写一份 exclude 必然漂移；
+      # 而且绕过 actions/jekyll-build-pages 直接调 jekyll 会丢掉 Pages 工具链自动开着的
+      # 插件（jekyll-optional-front-matter、jekyll-readme-index），静默 404。
+      # 切片只放本语言要渲染的条目，排除靠「不在切片里」，配置与插件矩阵完全不变。
+      # 用硬链接而不是符号链接：容器只把仓库根挂到 /src，绝对链接在容器里指向不存在的路径，
+      # 相对链接又要赌 Jekyll 会穿过链接目录；硬链接在容器内外都是普通文件。
+      # _posts 与 downloads/ 三份都带（blog.md 用 site.posts、download.md 用 site.static_files）。
+      #
+      # 注意 --source/--destination 用相对路径 + GITHUB_WORKSPACE=/src：
+      # 镜像的 entrypoint 会拼 ${GITHUB_WORKSPACE}/${INPUT_SOURCE}，与上面用 action 时同一条路径算式。
+      - name: Prepare per-language Jekyll sources
+        run: |
+          python _tools/make_lang_sources.py
+          python _tools/make_lang_sources.py --check
 
-      # actions/jekyll-build-pages 在 Docker 容器里构建，_site 归 root 所有；
-      # 紧接着的 Pagefind 以 runner 身份写 _site/pagefind 会 panic
-      #（thread 'main' panicked at pagefind/src/output/mod.rs: Os error 13 PermissionDenied）。
-      - name: Fix _site ownership (Jekyll runs in Docker as root)
-        run: sudo chown -R "$(id -u):$(id -g)" _site
+      - name: Build Jekyll per language (3 containers in parallel)
+        env:
+          PAGES_IMAGE: ghcr.io/actions/jekyll-build-pages:v1.0.13
+          INPUT_TOKEN: ${{ github.token }}
+          INPUT_BUILD_REVISION: ${{ github.sha }}
+        run: |
+          set -u
+          docker pull "$PAGES_IMAGE" || { echo "::error::拉取 $PAGES_IMAGE 失败（网络或 ghcr 限流？）"; exit 1; }
+          mkdir -p _tmp/jekyll-logs
+          pids=""
+          for lang in zh en es; do
+            docker run --rm --name "pages-jekyll-$lang" \
+              -e GITHUB_WORKSPACE=/src \
+              -e INPUT_SOURCE="_langsrc/$lang" \
+              -e INPUT_DESTINATION="_site-$lang" \
+              -e INPUT_TOKEN="$INPUT_TOKEN" \
+              -e INPUT_BUILD_REVISION="$INPUT_BUILD_REVISION" \
+              -e INPUT_VERBOSE=true \
+              -e INPUT_FUTURE=false \
+              -e GITHUB_REPOSITORY \
+              -e GITHUB_API_URL \
+              -v "$PWD:/src" \
+              "$PAGES_IMAGE" > "_tmp/jekyll-logs/$lang.log" 2>&1 &
+            pids="$pids $!"
+          done
+          rc=0
+          for pid in $pids; do
+            wait "$pid" || rc=1
+          done
+          # 容器带 --rm 跑，日志必须先落盘再打出来，否则失败了只剩「容器已删除」
+          for lang in zh en es; do
+            echo "===== Jekyll [$lang]（末 40 行）====="
+            tail -n 40 "_tmp/jekyll-logs/$lang.log" || true
+          done
+          if [ "$rc" -ne 0 ]; then
+            echo "::error::至少一种语言的 Jekyll 构建失败，完整日志见 _tmp/jekyll-logs/<lang>.log 与各容器的 --verbose 输出"
+          fi
+          exit "$rc"
+
+      # 三个容器里构建，产物归 root 所有；后续 merge / Pagefind 以 runner 身份读写会失败
+      #（Pagefind 的历史报错：thread 'main' panicked at pagefind/src/output/mod.rs: Os error 13）。
+      - name: Fix language build ownership (Jekyll runs in Docker as root)
+        run: sudo chown -R "$(id -u):$(id -g)" _site-zh _site-en _site-es
+
+      # 并集 + sitemap 合并 + 体检（语言目录越界、页数骤降、同名文件内容冲突都判失败）。
+      # 小样实测：合并产物与单体构建逐字节一致，只有 sitemap.xml 的 URL 顺序不同（URL 集合与 lastmod 相同）。
+      - name: Merge per-language builds into _site
+        run: python _tools/merge_lang_sites.py
 
       # 发布面守卫：Jekyll 会把仓库根目录的一切（除 _ / . 开头）复制进 _site，
       # 历史上就漏过 build 日志、4.3MB 出版社 PDF 和未发表书稿。_config.yml 的 exclude
