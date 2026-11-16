@@ -250,8 +250,12 @@
   </div>
 </nav>
 
-{%- comment -%} Pagefind：物种页把「科」与拉丁名带进索引，供搜索结果过滤 / 展示（/search/ 与第三方 API 都可读） {%- endcomment -%}
-<main class="content-wrap" id="main-content" tabindex="-1"{% if page.photo_kind %} data-pagefind-ignore{% else %} data-pagefind-body{% if page.collection == 'species' or page.species_page %} data-pagefind-filter="family:{{ page.family_latin }}" data-pagefind-filter="lang:{{ page.lang }}" data-pagefind-meta="latin:{{ page.latin }}"{% endif %}{% endif %}>
+{%- comment -%} Pagefind：分类页 / 物种页写下 scope（本页及所有上级 id）与 lang 过滤器。
+    科 / 亚科 / 属页的局部检索据此把全文搜索限定在本单元范围内；物种页另带拉丁名 meta 供展示。 {%- endcomment -%}
+<main class="content-wrap" id="main-content" tabindex="-1"{% if page.photo_kind %} data-pagefind-ignore{% else %} data-pagefind-body{% if page.collection == 'species' or page.species_page %} data-pagefind-meta="latin:{{ page.latin }}"{% endif %}{% endif %}>
+{%- if page.family_id %}
+<span hidden data-pagefind-filter="scope:{{ page.family_id }}"></span>{% if page.subfamily_id %}<span hidden data-pagefind-filter="scope:{{ page.subfamily_id }}"></span>{% endif %}{% if page.genus_id %}<span hidden data-pagefind-filter="scope:{{ page.genus_id }}"></span>{% endif %}<span hidden data-pagefind-filter="lang:{{ page.lang | default: 'zh-CN' | downcase }}"></span>{% if page.collection == 'species' or page.species_page %}<span hidden data-pagefind-filter="family:{{ page.family_latin }}"></span>{% endif %}
+{%- endif %}
   {%- comment -%} 单语页若有个别小节尚未翻译，由这条提示说明（页面自报 translation_pending，缺省零输出） {%- endcomment -%}
   <div class="container content">
     {% include translation-missing.html %}
@@ -286,7 +290,7 @@
 <script src="{{ site.base_url }}/pagefind/pagefind-ui.js" defer></script>
 <script src="{{ site.base_url }}/assets/search-page.js?v={{ AV['search-page.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}
-{%- comment -%} 科 / 亚科 / 属中转页的局部检索框：只在本页登记的分类单元里过滤 /search-index.json {%- endcomment -%}
+{%- comment -%} 科 / 亚科 / 属中转页的局部检索框：用 Pagefind 全文索引检索本页登记的分类单元（含研究记述），Pagefind 不可用时回退 /search-index.json {%- endcomment -%}
 {% if page.taxon_search %}<script src="{{ site.base_url }}/assets/taxon-search.js?v={{ AV['taxon-search.js'] | default: AV_FALLBACK }}" defer></script>
 {% endif %}
 {%- comment -%} 图片图集：PhotoSwipe 5 UMD + gallery.js（懒初始化，只在有图片时接管）；页面判定同上 {%- endcomment -%}

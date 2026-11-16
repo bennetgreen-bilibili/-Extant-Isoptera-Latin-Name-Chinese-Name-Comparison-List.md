@@ -6,6 +6,7 @@ lang: zh-CN
 single_lang: true
 author: 班奈特格林
 family_id: termitidae
+subfamily_id: termitinae
 last_modified_at: 2026-10-30
 permalink: /subfamily/termitinae/
 sitemap: true
@@ -28,11 +29,11 @@ breadcrumb:
 <p class="taxon-meta">白蚁科 TERMITIDAE · 23 属 · 107 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="termitinae,apsenterotermes,capritermes,cavitermes,cornicapritermes,cristatitermes,dihoplotermes,divinotermes,ekphysotermes,ephelotermes,hapsidotermes,hesperotermes,inquilinitermes,lophotermes,macrognathotermes,palmitermes,paracapritermes,protocapritermes,quasitermes,saxatilitermes,spinitermes,termes,tuberculitermes,xylochomitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
-<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内检索（107 个种与亚种）：名字、分布或模式产地</label>
+<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内全文检索（107 个种与亚种）：名字、分布、模式产地与研究记述</label>
 <input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
-<p class="taxon-search-hint">按名字与产地筛选本亚科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+<p class="taxon-search-hint">检索本亚科范围内所有页面的全文（含研究记述）；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
 </div>
 
 <figure class="taxa-illustration">

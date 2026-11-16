@@ -6,6 +6,8 @@ lang: zh-CN
 single_lang: true
 author: 班奈特格林
 family_id: termitidae
+subfamily_id: termitinae
+genus_id: divinotermes
 last_modified_at: 2026-10-30
 permalink: /genus/divinotermes/
 sitemap: true
@@ -28,11 +30,11 @@ breadcrumb:
 <p class="taxon-meta">白蚁科 TERMITIDAE · 3 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="divinotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
-<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（3 个种与亚种）：名字、分布或模式产地</label>
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内全文检索（3 个种与亚种）：名字、分布、模式产地与研究记述</label>
 <input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
-<p class="taxon-search-hint">按名字与产地筛选本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+<p class="taxon-search-hint">检索本属范围内所有页面的全文（含研究记述）；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
 </div>
 <section class="taxon-section taxon-distribution" data-pagefind-ignore>
 <h2>分布图</h2>

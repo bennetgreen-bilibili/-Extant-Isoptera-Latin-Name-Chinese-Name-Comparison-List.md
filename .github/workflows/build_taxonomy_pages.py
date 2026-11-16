@@ -1102,7 +1102,8 @@ def main():
 
     def front_matter(lang, title, description, permalink, breadcrumb, image, family_id,
                      last_modified="2026-10-30", has_map=False, taxon_search=False,
-                     has_photos=False, translation_pending=False):
+                     has_photos=False, translation_pending=False,
+                     subfamily_id=None, genus_id=None):
         lines = ["---", "layout: default", "title: " + json.dumps(title, ensure_ascii=False),
                  "description: " + json.dumps(description, ensure_ascii=False),
                  "lang: " + lang,
@@ -1110,9 +1111,15 @@ def main():
                  # （语言切换器、hreflang 只对「人工翻好的整页」判断，不再看 lang_only）。
                  "single_lang: true",
                  "author: 班奈特格林",
-                 "family_id: " + family_id,
-                 "last_modified_at: " + last_modified,
-                 "permalink: " + LANG_PREFIX[lang] + permalink, "sitemap: true"]
+                 "family_id: " + family_id]
+        # 分类层级 id：_layouts/default.html 据此给 Pagefind 写 scope 过滤器，
+        # 让科 / 亚科 / 属页的局部检索能限定在本单元所有下级页面（含物种页与研究记述）。
+        if subfamily_id:
+            lines.append("subfamily_id: " + subfamily_id)
+        if genus_id:
+            lines.append("genus_id: " + genus_id)
+        lines += ["last_modified_at: " + last_modified,
+                  "permalink: " + LANG_PREFIX[lang] + permalink, "sitemap: true"]
         if has_map:
             lines.append("has_map: true")
         if taxon_search:
@@ -1371,26 +1378,32 @@ def main():
     def search_box(lang, rank, anchors, species, subspecies):
         """页内局部检索框（assets/taxon-search.js）。
 
-        data-lang / data-lang-prefix 让脚本按本页语言出结果标签、并把结果链到同语言页面；
-        data-index 仍指向站根唯一的 search-index.json（en/es 暂无独立索引）。
+        检索走与 /search/ 相同的 Pagefind 索引，再用 scope 过滤器限定本页范围：
+        _layouts/default.html 按 front matter 的 family_id / subfamily_id / genus_id
+        给每个分类页写 `scope` 过滤器值（科页与下级页都带上级 id），本框的
+        data-anchors 首项即本页自己的 id，脚本拿它作为 scope 值。
+        data-lang 同时作为 Pagefind 的 lang 过滤器，避免三语页面互相串结果。
+        data-index 仅供 Pagefind 索引不存在时（本地 jekyll serve）回退旧 JSON 检索。
         """
         scope = COPY[lang]["search_scope"][rank]
         noun = COPY[lang]["rank_noun"][rank]
         if lang == "zh-CN":
-            label = "在本%s范围内检索（%d 个种与亚种）：名字、分布或模式产地" % (
+            label = "在本%s范围内全文检索（%d 个种与亚种）：名字、分布、模式产地与研究记述" % (
                 noun, species + subspecies)
-            hint = ('按名字与产地筛选本%s登记的分类单元；全站网页请用'
+            hint = ('检索本%s范围内所有页面的全文（含研究记述）；全站网页请用'
                     '<a href="%s">全文搜索</a>。' % (noun, lp_url(lang, "/search/")))
         elif lang == "en":
-            label = ("Search within %s (%s): name, distribution, or type locality"
+            label = ("Search the full text within %s (%s): names, distribution, type localities, "
+                     "and literature notes"
                      % (scope, count_phrase(lang, species, subspecies)))
-            hint = ('Filter the taxa recorded under %s by name and locality; for the whole '
+            hint = ('Search every page under %s, including the literature notes; for the whole '
                     'site use the <a href="%s">full-text search</a>.'
                     % (scope, lp_url(lang, "/search/")))
         else:
-            label = ("Buscar en %s (%s): nombre, distribución o localidad tipo"
+            label = ("Buscar en el texto completo de %s (%s): nombres, distribución, localidad tipo "
+                     "y notas bibliográficas"
                      % (scope, count_phrase(lang, species, subspecies)))
-            hint = ('Filtre por nombre y localidad los taxones registrados en %s; para todo '
+            hint = ('Busca en todas las páginas de %s, incluidas las notas bibliográficas; para todo '
                     'el sitio use la <a href="%s">búsqueda de texto completo</a>.'
                     % (scope, lp_url(lang, "/search/")))
         return (
@@ -1540,7 +1553,8 @@ def main():
                              image_path(sid), fam["id"],
                              has_map=has_geo("subfamily", sid), taxon_search=True,
                              has_photos=bool(photo_taxa["subfamily"].get(sid)),
-                             translation_pending=translation_pending(lang, "subfamily", sid))
+                             translation_pending=translation_pending(lang, "subfamily", sid),
+                             subfamily_id=sid)
                 + body)
 
         for gid in sorted(genera):
@@ -1591,7 +1605,8 @@ def main():
                              image_path(gen["family"]), fam["id"],
                              has_map=mapped, taxon_search=True,
                              has_photos=bool(photo_taxa["genus"].get(gid)),
-                             translation_pending=translation_pending(lang, "genus", gid))
+                             translation_pending=translation_pending(lang, "genus", gid),
+                             subfamily_id=gen["subfamily"], genus_id=gid)
                 + body)
 
     # 生成后的机械校验：描述长度/唯一、外文页无三语残留、外文页链接带前缀。

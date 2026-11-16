@@ -26,7 +26,7 @@
 {%- assign lit = site.data.taxon_literature[lit_key] -%}
 {%- assign LL = page.lang | default: 'zh-CN' -%}
 {%- if lit -%}
-<section class="taxon-section taxon-literature" lang="{{ LL }}" data-pagefind-ignore>
+<section class="taxon-section taxon-literature" lang="{{ LL }}">
   <div class="taxon-literature-head">
     <h2>{% if LL == 'en' %}Literature notes{% elsif LL == 'es' %}Notas bibliográficas{% else %}研究记述{% endif %}</h2>
   </div>

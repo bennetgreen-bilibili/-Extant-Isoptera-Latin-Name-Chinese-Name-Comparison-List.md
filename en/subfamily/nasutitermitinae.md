@@ -6,6 +6,7 @@ lang: en
 single_lang: true
 author: 班奈特格林
 family_id: termitidae
+subfamily_id: nasutitermitinae
 last_modified_at: 2026-10-30
 permalink: /en/subfamily/nasutitermitinae/
 sitemap: true
@@ -28,11 +29,11 @@ breadcrumb:
 <p class="taxon-meta">Family <i>Termitidae</i> · 81 genera · 606 species, 10 subspecies</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="en" data-lang-prefix="/en" data-anchors="nasutitermitinae,aciculitermes,afrosubulitermes,agnathotermes,ahmaditermes,ampoulitermes,angularitermes,anhangatermes,antillitermes,araujotermes,arcotermes,atlantitermes,australitermes,baucaliotermes,bulbitermes,caetetermes,caribitermes,ceylonitermellus,ceylonitermes,coarctotermes,coatitermes,coendutermes,constrictotermes,convexitermes,cortaritermes,cucurbitermes,cyranotermes,diversitermes,diwaitermes,eleanoritermes,emersonitermes,enetotermes,ereymatermes,eutermellus,fulleritermes,grallatotermes,hirtitermes,hospitalitermes,hyleotermes,kaudernitermes,lacessititermes,leptomyxotermes,leucopitermes,longipeditermes,macrosubulitermes,malagasitermes,malaysiotermes,mimeutermes,muelleritermes,mycterotermes,nasopilotermes,nasutitermes,ngauratermes,niuginitermes,obtusitermes,occasitermes,occultitermes,oriensubulitermes,paraconvexitermes,parvitermes,periaciculitermes,postsubulitermes,rhadinotermes,roonwalitermes,rotunditermes,rounditermes,sabahitermes,sandsitermes,sinonasutitermes,sinqasapatermes,spatulitermes,subulioiditermes,subulitermes,tarditermes,tenuirostritermes,tiunatermes,triangularitermes,trinervitermes,tumulitermes,velocitermes,verrucositermes,xiaitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/en/search/">
-<label class="taxon-search-label" for="taxon-search-input">Search within this subfamily (606 species, 10 subspecies): name, distribution, or type locality</label>
+<label class="taxon-search-label" for="taxon-search-input">Search the full text within this subfamily (606 species, 10 subspecies): names, distribution, type localities, and literature notes</label>
 <input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="e.g. termite / Amitermes / Australia" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
-<p class="taxon-search-hint">Filter the taxa recorded under this subfamily by name and locality; for the whole site use the <a href="{{ site.base_url }}/en/search/">full-text search</a>.</p>
+<p class="taxon-search-hint">Search every page under this subfamily, including the literature notes; for the whole site use the <a href="{{ site.base_url }}/en/search/">full-text search</a>.</p>
 </div>
 
 <figure class="taxa-illustration">

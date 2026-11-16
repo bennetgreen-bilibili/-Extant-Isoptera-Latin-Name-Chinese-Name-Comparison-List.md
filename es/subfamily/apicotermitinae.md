@@ -6,6 +6,7 @@ lang: es
 single_lang: true
 author: 班奈特格林
 family_id: termitidae
+subfamily_id: apicotermitinae
 last_modified_at: 2026-10-30
 permalink: /es/subfamily/apicotermitinae/
 sitemap: true
@@ -28,11 +29,11 @@ breadcrumb:
 <p class="taxon-meta">Familia <i>Termitidae</i> · 68 géneros · 241 especies, 2 subespecies</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="es" data-lang-prefix="/es" data-anchors="apicotermitinae,acholotermes,acidnotermes,acutidentitermes,adaiphrotermes,aderitotermes,adynatotermes,aganotermes,allognathotermes,alyscotermes,amalotermes,amicotermes,amplucrutermes,anaorotermes,anenteotermes,anoplotermes,apagotermes,aparatermes,apicotermes,apolemotermes,asagarotermes,astalotermes,astratotermes,ateuchotermes,caputitermes,chasitermes,compositermes,coxotermes,disjunctitermes,dissimulitermes,duplidentitermes,ebogotermes,eburnitermes,echinotermes,ekueitermes,euhamitermes,eurytermes,firmitermes,gastrotermes,grigiotermes,heimitermes,hirsutitermes,hoplognathotermes,humutermes,hydrecotermes,indotermes,jugositermes,koutabatermes,krecekitermes,labidotermes,longustitermes,machadotermes,mangolditermes,ourissotermes,patawatermes,phoxotermes,rostrotermes,rubeotermes,ruptitermes,rustitermes,scheffrahnitermes,skatitermes,speculitermes,spiralitermes,tetimatermes,tonsuritermes,trichotermes,triclavitermes,tucupitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/es/search/">
-<label class="taxon-search-label" for="taxon-search-input">Buscar en esta subfamilia (241 especies, 2 subespecies): nombre, distribución o localidad tipo</label>
+<label class="taxon-search-label" for="taxon-search-input">Buscar en el texto completo de esta subfamilia (241 especies, 2 subespecies): nombres, distribución, localidad tipo y notas bibliográficas</label>
 <input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="p. ej. termita / Amitermes / Australia" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
-<p class="taxon-search-hint">Filtre por nombre y localidad los taxones registrados en esta subfamilia; para todo el sitio use la <a href="{{ site.base_url }}/es/search/">búsqueda de texto completo</a>.</p>
+<p class="taxon-search-hint">Busca en todas las páginas de esta subfamilia, incluidas las notas bibliográficas; para todo el sitio use la <a href="{{ site.base_url }}/es/search/">búsqueda de texto completo</a>.</p>
 </div>
 
 <figure class="taxa-illustration">

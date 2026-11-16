@@ -6,6 +6,7 @@ lang: es
 single_lang: true
 author: 班奈特格林
 family_id: termitidae
+subfamily_id: foraminitermitinae
 last_modified_at: 2026-10-30
 permalink: /es/subfamily/foraminitermitinae/
 sitemap: true
@@ -27,11 +28,11 @@ breadcrumb:
 <p class="taxon-meta">Familia <i>Termitidae</i> · 3 géneros · 10 especies</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="es" data-lang-prefix="/es" data-anchors="foraminitermitinae,foraminitermes,labritermes,pseudomicrotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/es/search/">
-<label class="taxon-search-label" for="taxon-search-input">Buscar en esta subfamilia (10 especies): nombre, distribución o localidad tipo</label>
+<label class="taxon-search-label" for="taxon-search-input">Buscar en el texto completo de esta subfamilia (10 especies): nombres, distribución, localidad tipo y notas bibliográficas</label>
 <input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="p. ej. termita / Amitermes / Australia" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
-<p class="taxon-search-hint">Filtre por nombre y localidad los taxones registrados en esta subfamilia; para todo el sitio use la <a href="{{ site.base_url }}/es/search/">búsqueda de texto completo</a>.</p>
+<p class="taxon-search-hint">Busca en todas las páginas de esta subfamilia, incluidas las notas bibliográficas; para todo el sitio use la <a href="{{ site.base_url }}/es/search/">búsqueda de texto completo</a>.</p>
 </div>
 
 <figure class="taxa-illustration">
