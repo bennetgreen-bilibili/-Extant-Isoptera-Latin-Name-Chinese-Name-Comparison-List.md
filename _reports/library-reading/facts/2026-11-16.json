@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-16",
+ "round": "library-reading",
+ "entries": [
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "台湾乳白蚁在南非的两处人为引入点，且只生存于人为或人为改造的生境",
+   "quote": "The tropicopolitan genus Copfotermes is not indigenous to this country, but there have been two introductions of C. formosanus Shiraki, both of which still persist today at Simonstown, C.P. and Komatipoort, Tvl. This introduced species exists at Simonstown and Komatipoort only in man-made or man-modified habitats, being apparently unable to compete with the in- digenous termite fauna elsewhere.",
+   "src": "S0336",
+   "work": "Coaton 1962, Survey of the termites of the Kruger National Park",
+   "unit": "10.4102-koedoe.v5i1.842::full",
+   "locator": "full.txt 第 (2) 节 Genera not yet recorded",
+   "status": "queued",
+   "note": "站内种页本轮未涉及；Coptotermes 属页若需可后续用"
+  },
+  {
+   "page": "/genus/kalotermes/",
+   "claim": "南非已知 32 个等翅目属中，克鲁格国家公园（KNP）尚未采到的 10 个属名单",
+   "quote": "Of the 32 genera of Isoptera collected hitherto within the borders of the Republic of South Africa, only the 10 listed below have not yet been taken from the K.N.P. :",
+   "src": "S0336",
+   "work": "Coaton 1962, Survey of the termites of the Kruger National Park",
+   "unit": "10.4102-koedoe.v5i1.842::full",
+   "locator": "full.txt 第 (2) 节",
+   "status": "queued",
+   "note": "名单含 Kalotermes、Postelectrotermes、Stolotermes 等；可按属拆写"
+  },
+  {
+   "page": "/species/psammotermes-allocerus/",
+   "claim": "奇白沙白蚁分布间断被 Limpopo 盆地 Sandveld 等新记录部分连接",
+   "quote": "This gap has now been partially bridged by (a) taking the species in the Sand- veld of the Limpopo basin near Vetfontein in the district Soutpansberg",
+   "src": "S0336",
+   "work": "Coaton 1962, Survey of the termites of the Kruger National Park",
+   "unit": "10.4102-koedoe.v5i1.842::full",
+   "locator": "full.txt Psammotermes 一节",
+   "status": "used",
+   "note": "已写入种页分布段"
+  },
+  {
+   "page": "/genus/trinervitermes/",
+   "claim": "Punda Milia 附近 Trinervitermes pretoriensis 巢中的隐翅虫为 Paracorotoca 新种，由 Seevers 描述",
+   "quote": "A unique staphilinid termitophile was taken in the mound of Trinervitermes pre- torienis Full. near Punda Milia. This was despatched for determination to Prof. Charles H. Seevers of the Chicago Natural History Museum, and has proved to be a new species of Paracorotoca Warren, which will be described and named by Seevers in due course.",
+   "src": "S0336",
+   "work": "Coaton 1962, Survey of the termites of the Kruger National Park",
+   "unit": "10.4102-koedoe.v5i1.842::full",
+   "locator": "full.txt 第 4 节 termitophiles",
+   "status": "queued",
+   "note": "站内无 Paracorotoca 与 T. pretoriensis 页面；客居昆虫事实留待建页"
+  },
+  {
+   "page": "/species/hodotermes-mossambicus/",
+   "claim": "Shingwidzi 西北约 36 英里 Hodotermes mossambicus 觅食腔中的蓑衣虫为 Ecnomothelura coatoni 新属新种（Wygodzinsky 1961 描述）",
+   "quote": "In the Sandveld, approximately 36 miles North-West of Shingwidzi, a unique thysanurid was taken from the foraging pocket of Hodotermes mossambicus Hag. This appeared to be closely related to Dinatelura afra Silv. and Dinatelura primitiva Silvestri, both taken from the nests of Micro- hodotermes viator Latr. In Namaqualand. The specimen was posted to Dr. P. Wygodzinsky, Buenos Aires, Argentina, for determination and proved to be a new genus and species of Nicoletiidae (Thysanura), the descriptions of which were published by Wygodzinsky (1961) under the name Ecnomo- telura coatoni gen. et sp. nov.",
+   "src": "S0336",
+   "work": "Coaton 1962, Survey of the termites of the Kruger National Park",
+   "unit": "10.4102-koedoe.v5i1.842::full",
+   "locator": "full.txt 第 4 节 termitophiles",
+   "status": "queued",
+   "note": "OCR 原作 Ecnomo- telura 断词；种页可补客居昆虫记述"
+  },
+  {
+   "page": "/genus/armitermes/",
+   "claim": "Armitermes euamignathus 除原有主王外出现 6 头 physogastric nymphoid 雌性、2 头 ergatoid 雌性与 46 头若虫",
+   "quote": "In this healthy, orphaned colony we found the primary king, six physogastric nymphoid female replacement reproductives, two ergatoid female replacement reproductives, 46 nymphs, several presoldiers, soldiers, workers, larvae and many eggs",
+   "src": "S0331",
+   "work": "Costa-Leonardo, Soares & Barsotti 1998, Response to orphaning",
+   "unit": "10.1046-j.1570-7458.1998.00352.x::full",
+   "locator": "full.txt 摘要",
+   "status": "queued",
+   "note": "站内无 /species/armitermes-euamignathus/（戟白蚁属仅 3 种），按 §4.4.1 不另立页"
+  },
+  {
+   "page": "/species/krishnacapritermes-thakuri/",
+   "claim": "Pericapritermes travancorensis 被处理为塔库尔克里希纳扭白蚁的新异名",
+   "quote": "Pericapritermes travancorensis Mathew and Ipe syn. nov. is treated as a junior synonym of K. thakuri.",
+   "src": "S0323",
+   "work": "Amina et al. 2019, Two new species of Krishnacapritermes",
+   "unit": "10.1080-00305316.2019.1683091::full",
+   "locator": "full.txt 摘要",
+   "status": "used",
+   "note": "已写入塔库尔种页异名句；旧组合按 §5.1.1 不造中文名"
+  }
+ ]
+}
