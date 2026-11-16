@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-11-11 22:45",
-  "count": 34,
+  "updated_at": "2026-11-16 05:48",
+  "count": 44,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
+    {
+      "doi": "10.1023/a:1010301308649",
+      "title": "Nootkatone Is a Repellent for Formosan Subterranean Termite (Coptotermes formosanus)",
+      "year": 2001,
+      "venue": "Journal of Chemical Ecology",
+      "publisher": "Springer Science and Business Media LLC",
+      "cited_by": 122,
+      "landing": "http://hdl.handle.net/11380/455822",
+      "reason": "blocked",
+      "hosts": [
+        "hdl.handle.net"
+      ],
+      "tried": [
+        "http://hdl.handle.net/11380/455822"
+      ],
+      "last_result": "hdl.handle.net/11380/455822→返回网页非 PDF",
+      "last_tried": 1794807773.7860675,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
+      "doi": "10.5962/bhl.part.1525",
+      "title": "A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera : Termitidae)",
+      "year": 1970,
+      "venue": "Bulletin of the British Museum (Natural History) Entomology",
+      "publisher": "Smithsonian Institution",
+      "cited_by": 102,
+      "landing": "https://doi.org/10.5962/bhl.part.1525",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.5962/bhl.part.1525"
+      ],
+      "last_result": "doi.org/10.5962/bhl.part.1525→HTTP 403",
+      "last_tried": 1794807774.6269305,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
     {
       "doi": "10.1111/j.1462-2920.2011.02648.x",
       "title": "Nitrate reduction, nitrous oxide formation, and anaerobic ammonia oxidation to nitrite in the gut of soil‐feeding termites ( Cubitermes and Ophiotermes spp.)",
@@ -29,21 +69,22 @@
       "title": "Differences in Nest Architecture Between the Neotropical Arboreal Termites Nasutitermes Corniger and Nasutitermes Ephratae (Isoptera: Termitidae)",
       "year": 1980,
       "venue": "Psyche A Journal of Entomology",
-      "publisher": "",
+      "publisher": "Wiley",
       "cited_by": 48,
-      "landing": "https://doi.org/10.1155/1980/12305",
+      "landing": "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
       "reason": "blocked",
       "hosts": [
-        "downloads.hindawi.com"
+        "downloads.hindawi.com",
+        "onlinelibrary.wiley.com"
       ],
       "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf"
+        "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1980/12305"
       ],
-      "last_result": "下载失败：https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "downloads.hindawi.com/journals/psyche/1980/012305.pdf→HTTP 403 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1980/12305→HTTP 403",
+      "last_tried": 1794807831.224924,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1098/rspb.2016.0196",
@@ -113,9 +154,9 @@
       "title": "Beobachtungen beim Spritzakt der Nasutitermes-Soldaten",
       "year": 1959,
       "venue": "Revue suisse de zoologie",
-      "publisher": "",
+      "publisher": "Biodiversity Heritage Library",
       "cited_by": 30,
-      "landing": "https://doi.org/10.5962/bhl.part.75218",
+      "landing": "https://www.biodiversitylibrary.org/partpdf/75218",
       "reason": "blocked",
       "hosts": [
         "www.biodiversitylibrary.org"
@@ -123,31 +164,51 @@
       "tried": [
         "https://www.biodiversitylibrary.org/partpdf/75218"
       ],
-      "last_result": "下载失败：https://www.biodiversitylibrary.org/partpdf/75218",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "www.biodiversitylibrary.org/partpdf/75218→HTTP 403",
+      "last_tried": 1794807831.7196236,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1155/1981/36030",
       "title": "Laboratory Evaluation of Within‐Species, Between‐Species, and ParthenogeneticReproduction in Reticulitermes Flavipes and Reticulitermes Virginicus",
       "year": 1981,
       "venue": "Psyche A Journal of Entomology",
-      "publisher": "",
+      "publisher": "Wiley",
       "cited_by": 29,
-      "landing": "https://doi.org/10.1155/1981/36030",
+      "landing": "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
       "reason": "blocked",
       "hosts": [
-        "downloads.hindawi.com"
+        "downloads.hindawi.com",
+        "onlinelibrary.wiley.com"
       ],
       "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf"
+        "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1981/36030"
       ],
-      "last_result": "下载失败：https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "downloads.hindawi.com/journals/psyche/1981/036030.pdf→HTTP 403 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1981/36030→HTTP 403",
+      "last_tried": 1794807836.9376583,
       "first_seen": 1794399786.6055884,
+      "attempts": 2
+    },
+    {
+      "doi": "10.1016/j.ygcen.2015.06.006",
+      "title": "In silico prediction of a neuropeptidome for the eusocial insect Mastotermes darwiniensis",
+      "year": 2015,
+      "venue": "General and Comparative Endocrinology",
+      "publisher": "Elsevier BV",
+      "cited_by": 26,
+      "landing": "https://www.sciencedirect.com/science/article/am/pii/S0016648015001720",
+      "reason": "blocked",
+      "hosts": [
+        "www.sciencedirect.com"
+      ],
+      "tried": [
+        "https://www.sciencedirect.com/science/article/am/pii/S0016648015001720"
+      ],
+      "last_result": "www.sciencedirect.com/science/article/am/pii/S0016648015001720→HTTP 403",
+      "last_tried": 1794807837.7140195,
+      "first_seen": 1794808106.714615,
       "attempts": 1
     },
     {
@@ -197,30 +258,31 @@
       "title": "Intercolonial Aggression in the Subterranean Termite Heterotermes Aureus (Isoptera: Rhinotermitidae)",
       "year": 1988,
       "venue": "Psyche A Journal of Entomology",
-      "publisher": "",
+      "publisher": "Wiley",
       "cited_by": 25,
-      "landing": "https://doi.org/10.1155/1988/28452",
+      "landing": "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
       "reason": "blocked",
       "hosts": [
-        "downloads.hindawi.com"
+        "downloads.hindawi.com",
+        "onlinelibrary.wiley.com"
       ],
       "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf"
+        "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1988/28452"
       ],
-      "last_result": "下载失败：https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "downloads.hindawi.com/journals/psyche/1988/028452.pdf→HTTP 403 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1988/28452→HTTP 403",
+      "last_tried": 1794807838.1563015,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1007/s00284-018-1567-0",
       "title": "Microbial Communities of the Gut and Nest of the Humus- and Litter-Feeding Termite Procornitermes araujoi (Syntermitinae)",
       "year": 2018,
       "venue": "Current Microbiology",
-      "publisher": "",
+      "publisher": "Springer Science and Business Media LLC",
       "cited_by": 23,
-      "landing": "https://doi.org/10.1007/s00284-018-1567-0",
+      "landing": "https://link.springer.com/content/pdf/10.1007/s00284-018-1567-0.pdf",
       "reason": "blocked",
       "hosts": [
         "link.springer.com"
@@ -228,32 +290,32 @@
       "tried": [
         "https://link.springer.com/content/pdf/10.1007/s00284-018-1567-0.pdf"
       ],
-      "last_result": "下载失败：https://link.springer.com/content/pdf/10.1007/s00284-018-1567-0.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "link.springer.com/content/pdf/10.1007/s00284-018-1567-0.pdf→HTML 页面→找到 PDF 地址",
+      "last_tried": 1794807841.1220992,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1155/1977/64060",
       "title": "Pairing Behavior in Hodotermes Mossambicus (Isoptera)",
       "year": 1977,
       "venue": "Psyche A Journal of Entomology",
-      "publisher": "",
+      "publisher": "Wiley",
       "cited_by": 21,
-      "landing": "https://doi.org/10.1155/1977/64060",
+      "landing": "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
       "reason": "blocked",
       "hosts": [
-        "downloads.hindawi.com"
+        "downloads.hindawi.com",
+        "onlinelibrary.wiley.com"
       ],
       "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf"
+        "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1977/64060"
       ],
-      "last_result": "下载失败：https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "downloads.hindawi.com/journals/psyche/1977/064060.pdf→冷却中，跳过 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1977/64060→冷却中，跳过",
+      "last_tried": 1794807841.4887724,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1111/j.1752-4598.2008.00040.x",
@@ -386,9 +448,9 @@
       "title": "Food Storage by the Savanna Termite Cornitermes cumulans (Syntermitinae): a Strategy to Improve Hemicellulose Digestibility?",
       "year": 2017,
       "venue": "Microbial Ecology",
-      "publisher": "",
+      "publisher": "Springer Science and Business Media LLC",
       "cited_by": 18,
-      "landing": "https://doi.org/10.1007/s00248-017-1128-2",
+      "landing": "https://link.springer.com/content/pdf/10.1007/s00248-017-1128-2.pdf",
       "reason": "blocked",
       "hosts": [
         "link.springer.com"
@@ -396,11 +458,10 @@
       "tried": [
         "https://link.springer.com/content/pdf/10.1007/s00248-017-1128-2.pdf"
       ],
-      "last_result": "下载失败：https://link.springer.com/content/pdf/10.1007/s00248-017-1128-2.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "link.springer.com/content/pdf/10.1007/s00248-017-1128-2.pdf→HTML 页面→找到 PDF 地址",
+      "last_tried": 1794807844.2731864,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1093/femsec/fiy235",
@@ -491,9 +552,9 @@
       "title": "Dehiscent organs used for defensive behavior of kamikaze termites of the genus Ruptitermes (Termitidae, Apicotermitinae) are not glands",
       "year": 2016,
       "venue": "Micron",
-      "publisher": "",
+      "publisher": "Elsevier BV",
       "cited_by": 13,
-      "landing": "https://doi.org/10.1016/j.micron.2015.12.011",
+      "landing": "https://www.sciencedirect.com/science/article/pii/S096843281530069X",
       "reason": "blocked",
       "hosts": [
         "www.sciencedirect.com"
@@ -501,11 +562,10 @@
       "tried": [
         "https://www.sciencedirect.com/science/article/pii/S096843281530069X"
       ],
-      "last_result": "下载失败：https://www.sciencedirect.com/science/article/pii/S096843281530069X",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "www.sciencedirect.com/science/article/pii/S096843281530069X→HTTP 403",
+      "last_tried": 1794807912.5694375,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1653/024.102.0123",
@@ -547,6 +607,26 @@
       "last_tried": 1762800000.0,
       "seeded": true,
       "first_seen": 1794399786.6055884,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1016/s0031-4056(24)00213-0",
+      "title": "Distribution of polysaccharides within the humic compounds of soils subjected to a humivorous termite Thoracotermes macrothorax Sjöstedt",
+      "year": 1995,
+      "venue": "Pedobiologia",
+      "publisher": "Elsevier BV",
+      "cited_by": 10,
+      "landing": "https://doi.org/10.1016/s0031-4056(24)00213-0",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1016/s0031-4056(24)00213-0"
+      ],
+      "last_result": "doi.org/10.1016/s0031-4056(24)00213-0→返回网页非 PDF",
+      "last_tried": 1794807913.358335,
+      "first_seen": 1794808106.714615,
       "attempts": 1
     },
     {
@@ -634,13 +714,35 @@
       "attempts": 1
     },
     {
+      "doi": "10.1007/s10886-019-01098-w",
+      "title": "Worker Defensive Behavior Associated with Toxins in the Neotropical Termite Neocapritermes braziliensis (Blattaria, Isoptera, Termitidae, Termitinae)",
+      "year": 2019,
+      "venue": "Journal of Chemical Ecology",
+      "publisher": "Springer Science and Business Media LLC",
+      "cited_by": 8,
+      "landing": "http://doi.org/10.1007/s10886-019-01098-w",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "link.springer.com"
+      ],
+      "tried": [
+        "http://doi.org/10.1007/s10886-019-01098-w",
+        "https://link.springer.com/content/pdf/10.1007/s10886-019-01098-w.pdf"
+      ],
+      "last_result": "doi.org/10.1007/s10886-019-01098-w→HTML 页面→找到 PDF 地址 / link.springer.com/content/pdf/10.1007/s10886-019-01098-w.pdf→HTML 页面→找到 PDF 地址",
+      "last_tried": 1794807917.5334404,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
       "doi": "10.1007/s12686-014-0411-5",
       "title": "Development and characterization of microsatellite markers from the humivorous termite Cavitermes tuberosus (Isoptera: Termitinae) using pyrosequencing technology",
       "year": 2014,
       "venue": "Conservation Genetics Resources",
-      "publisher": "",
+      "publisher": "Springer Science and Business Media LLC",
       "cited_by": 8,
-      "landing": "https://doi.org/10.1007/s12686-014-0411-5",
+      "landing": "https://link.springer.com/content/pdf/10.1007/s12686-014-0411-5.pdf",
       "reason": "blocked",
       "hosts": [
         "link.springer.com"
@@ -648,11 +750,10 @@
       "tried": [
         "https://link.springer.com/content/pdf/10.1007/s12686-014-0411-5.pdf"
       ],
-      "last_result": "下载失败：https://link.springer.com/content/pdf/10.1007/s12686-014-0411-5.pdf",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "link.springer.com/content/pdf/10.1007/s12686-014-0411-5.pdf→HTML 页面→找到 PDF 地址",
+      "last_tried": 1794807976.6974642,
       "first_seen": 1794399786.6055884,
-      "attempts": 1
+      "attempts": 2
     },
     {
       "doi": "10.1080/02571862.2003.10634911",
@@ -703,9 +804,9 @@
       "title": "Morphology of the male reproductive system during post-embryonic development of the termite Silvestritermes euamignathus (Isoptera: Termitidae)",
       "year": 2017,
       "venue": "Zoologischer Anzeiger",
-      "publisher": "",
+      "publisher": "Elsevier BV",
       "cited_by": 7,
-      "landing": "https://doi.org/10.1016/j.jcz.2017.11.015",
+      "landing": "https://www.sciencedirect.com/science/article/pii/S0044523117301146",
       "reason": "blocked",
       "hosts": [
         "www.sciencedirect.com"
@@ -713,10 +814,109 @@
       "tried": [
         "https://www.sciencedirect.com/science/article/pii/S0044523117301146"
       ],
-      "last_result": "下载失败：https://www.sciencedirect.com/science/article/pii/S0044523117301146",
-      "last_tried": 1762800000.0,
-      "seeded": true,
+      "last_result": "www.sciencedirect.com/science/article/pii/S0044523117301146→HTTP 403",
+      "last_tried": 1794807984.4501493,
       "first_seen": 1794399786.6055884,
+      "attempts": 2
+    },
+    {
+      "doi": "10.5281/zenodo.16460267",
+      "title": "A review of the soldierless African termite genus Amicotermes Sands 1972 (Isoptera, Termitidae, Apicotermitinae)",
+      "year": 1999,
+      "venue": "Biodiversity Heritage Library (Smithsonian Institution)",
+      "publisher": "Smithsonian Institution",
+      "cited_by": 7,
+      "landing": "https://www.biodiversitylibrary.org/part/76462",
+      "reason": "blocked",
+      "hosts": [
+        "www.biodiversitylibrary.org"
+      ],
+      "tried": [
+        "https://www.biodiversitylibrary.org/part/76462"
+      ],
+      "last_result": "www.biodiversitylibrary.org/part/76462→HTTP 403",
+      "last_tried": 1794807984.8457446,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/03946975.1997.10539337",
+      "title": "Key to the soldiers ofAtlantitermesFontes 1979, with a new species from Brazil (Isoptera Termitidae Nasutitermitinae)",
+      "year": 1997,
+      "venue": "Tropical Zoology",
+      "publisher": "Informa UK Limited",
+      "cited_by": 7,
+      "landing": "https://www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=true",
+      "reason": "blocked",
+      "hosts": [
+        "www.tandfonline.com"
+      ],
+      "tried": [
+        "https://www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=true"
+      ],
+      "last_result": "www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=→HTTP 403",
+      "last_tried": 1794807985.5717747,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1111/j.1440-6055.1983.tb01845.x",
+      "title": "THE OCCURRENCE IN AUSTRALIA OF PRORHINOTERMES INOPINATUS SILVESTRI (ISOPTERA: RHINOTERMITIDAE)",
+      "year": 1983,
+      "venue": "Australian Journal of Entomology",
+      "publisher": "Wiley",
+      "cited_by": 7,
+      "landing": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1983.tb01845.x",
+      "reason": "blocked",
+      "hosts": [
+        "onlinelibrary.wiley.com"
+      ],
+      "tried": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1983.tb01845.x"
+      ],
+      "last_result": "onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1983.tb01845→冷却中，跳过",
+      "last_tried": 1794807986.2364335,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1016/j.jprot.2019.103622",
+      "title": "Proteomic-components provide insights into the defensive secretion in termite workers of the soldierless genus Ruptitermes",
+      "year": 2019,
+      "venue": "Journal of Proteomics",
+      "publisher": "Elsevier BV",
+      "cited_by": 8,
+      "landing": "http://hdl.handle.net/11449/199861",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "hdl.handle.net"
+      ],
+      "tried": [
+        "http://hdl.handle.net/11449/199861"
+      ],
+      "last_result": "hdl.handle.net/11449/199861→落地页无 PDF 地址（None）",
+      "last_tried": 1794807973.8066096,
+      "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1007/s00441-021-03469-w",
+      "title": "Salivary glands in workers of Ruptitermes spp. (Blattaria, Isoptera, Termitidae, Apicotermitinae): a morphological and preoteomic approach",
+      "year": 2021,
+      "venue": "Cell and Tissue Research",
+      "publisher": "Springer Science and Business Media LLC",
+      "cited_by": 7,
+      "landing": "http://hdl.handle.net/11449/207710",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "hdl.handle.net"
+      ],
+      "tried": [
+        "http://hdl.handle.net/11449/207710"
+      ],
+      "last_result": "hdl.handle.net/11449/207710→落地页无 PDF 地址（200）",
+      "last_tried": 1794807981.556285,
+      "first_seen": 1794808106.714615,
       "attempts": 1
     }
   ]

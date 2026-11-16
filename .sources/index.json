@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 445,
+    "count": 452,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-16T00:30:09+08:00",
+    "updated": "2026-11-16T05:48:26+00:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -24191,6 +24191,338 @@
       "accessed": "2026-11-14T21:54:08+08:00",
       "canonical_key": "url:https://yaiseo.com/gsc-change-address-new-domain",
       "id": "S0446"
+    },
+    {
+      "title": "The ommatidium of the termite mastotermes darwiniensis",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1016/s0040-8166(71)80046-0",
+      "file_path": "_unpublished/文库/10.1016-s0040-8166(71)80046-0",
+      "chars": 1977781,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-16T05:44:34+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1016-s0040-8166(71)80046-0（1171 页，1977781 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（html-meta PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1016-s0040-8166(71)80046-0",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:44:34",
+        "chunks": [
+          {
+            "chunk": "0001-0200",
+            "txt": "_unpublished/文库/10.1016-s0040-8166(71)80046-0/0001-0200.txt",
+            "chars": 331990,
+            "paragraphs": 10057,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "e8fdf034570c578bb2d9ccc083758048b41eb01752e3653f39d6535a1c961fea",
+            "bytes": 333152
+          },
+          {
+            "chunk": "0201-0400",
+            "txt": "_unpublished/文库/10.1016-s0040-8166(71)80046-0/0201-0400.txt",
+            "chars": 337028,
+            "paragraphs": 10213,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "7880c22b42894982163c81d083d0779b37310983f0dc085afafa71cd6f70796e",
+            "bytes": 337732
+          },
+          {
+            "chunk": "0401-0600",
+            "txt": "_unpublished/文库/10.1016-s0040-8166(71)80046-0/0401-0600.txt",
+            "chars": 341329,
+            "paragraphs": 10747,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "d018c6af2567a24e8101226a85f7aba538d9b7ca7781d692c47c4378e63fb5cc",
+            "bytes": 342470
+          },
+          {
+            "chunk": "0601-0800",
+            "txt": "_unpublished/文库/10.1016-s0040-8166(71)80046-0/0601-0800.txt",
+            "chars": 335486,
+            "paragraphs": 10159,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "4dcb592f216d4c17a1d00165571351e2f343f7db08b94d769b50bd01221096ca",
+            "bytes": 336783
+          },
+          {
+            "chunk": "0801-1000",
+            "txt": "_unpublished/文库/10.1016-s0040-8166(71)80046-0/0801-1000.txt",
+            "chars": 325541,
+            "paragraphs": 10381,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "668539a1cda663f9b9063971b75779af66d9c13bf611495f3e7a908205ec10dd",
+            "bytes": 327811
+          },
+          {
+            "chunk": "1001-1171",
+            "txt": "_unpublished/文库/10.1016-s0040-8166(71)80046-0/1001-1171.txt",
+            "chars": 306407,
+            "paragraphs": 8444,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "9646ca5821cee5277daebd0599b2783aa1ca2b6c173960062ba4269456b9c284",
+            "bytes": 308221
+          }
+        ]
+      },
+      "authors": [
+        "G.A. Horridge",
+        "C. Giddings"
+      ],
+      "year": 1971,
+      "publisher": "Elsevier BV",
+      "lang": "en",
+      "license": "other-oa",
+      "doi": "10.1016/s0040-8166(71)80046-0",
+      "url": "https://hdl.handle.net/1814/4695",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0447"
+    },
+    {
+      "title": "Unrelated secondary reproductives in the neotropical termite Silvestritermes euamignathus (Isoptera: Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1007/s00114-015-1325-0",
+      "file_path": "_unpublished/文库/10.1007-s00114-015-1325-0",
+      "chars": 48299,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-16T05:45:11+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1007-s00114-015-1325-0（8 页，48299 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（html-meta PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1007-s00114-015-1325-0",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:45:11",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/10.1007-s00114-015-1325-0/0001-0008.txt",
+            "chars": 48299,
+            "paragraphs": 489,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "b2dbc0e460dd90aa85e1d7d400efa26ea14b27d4261fd6bc8b12d1abbb822cc8",
+            "bytes": 48446
+          }
+        ]
+      },
+      "authors": [
+        "Ives Haifig",
+        "Edward L. Vargo",
+        "Paul E. Labadie",
+        "Ana Maria Costa–Leonardo"
+      ],
+      "year": 2016,
+      "publisher": "Springer Science and Business Media LLC",
+      "lang": "en",
+      "license": "other-oa",
+      "doi": "10.1007/s00114-015-1325-0",
+      "url": "http://hdl.handle.net/11449/173970",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0448"
+    },
+    {
+      "title": "A review of the soldierless African termite genus Amicotermes Sands 1972 (Isoptera, Termitidae, Apicotermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5281/zenodo.16460267",
+      "file_path": "_unpublished/文库/10.5281-zenodo.16460267",
+      "chars": 81,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-16T05:46:24+08:00",
+      "notes": "全文存于 _unpublished/文库/10.5281-zenodo.16460267（81 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 站点拦截下载，仅存完整摘要（80 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.5281-zenodo.16460267",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:46:24",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.5281-zenodo.16460267/full.txt",
+            "chars": 81,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.5281_zenodo.16460267-abstract.txt",
+            "sha256": "ed9ee82f9851db0987162ebdf263af0c96323b84b7dfe02945eb6ef20e83b6aa",
+            "bytes": 81
+          }
+        ]
+      },
+      "authors": [
+        "William A. Sands"
+      ],
+      "year": 1999,
+      "publisher": "Biodiversity Heritage Library (Smithsonian Institution)",
+      "lang": "en",
+      "doi": "10.5281/zenodo.16460267",
+      "fulltext_status": "abstract-blocked",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0449"
+    },
+    {
+      "title": "Key to the soldiers ofAtlantitermesFontes 1979, with a new species from Brazil (Isoptera Termitidae Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1080/03946975.1997.10539337",
+      "file_path": "_unpublished/文库/10.1080-03946975.1997.10539337",
+      "chars": 592,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-16T05:46:25+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1080-03946975.1997.10539337（592 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 站点拦截下载，仅存完整摘要（591 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1080-03946975.1997.10539337",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:46:25",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1080-03946975.1997.10539337/full.txt",
+            "chars": 592,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1080_03946975.1997.10539337-abstract.txt",
+            "sha256": "8f8e12451455e187f0c0030438788f5a8c16c94f8a7864f6efff998803de559d",
+            "bytes": 592
+          }
+        ]
+      },
+      "authors": [
+        "Reginaldo Constantino",
+        "Og Francisco Fonseca de Souza"
+      ],
+      "year": 1997,
+      "publisher": "Tropical Zoology",
+      "lang": "en",
+      "doi": "10.1080/03946975.1997.10539337",
+      "fulltext_status": "abstract-blocked",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0450"
+    },
+    {
+      "title": "THE OCCURRENCE IN AUSTRALIA OF PRORHINOTERMES INOPINATUS SILVESTRI (ISOPTERA: RHINOTERMITIDAE)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1440-6055.1983.tb01845.x",
+      "file_path": "_unpublished/文库/10.1111-j.1440-6055.1983.tb01845.x",
+      "chars": 299,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-16T05:46:26+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1440-6055.1983.tb01845.x（299 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 站点拦截下载，仅存完整摘要（298 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1440-6055.1983.tb01845.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:46:26",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1440-6055.1983.tb01845.x/full.txt",
+            "chars": 299,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1440-6055.1983.tb01845.x-abstract.txt",
+            "sha256": "abb48c6c8bfa28a9c5ad7d92ae9ab9563583a2ced0593ae1c84811afb7318dad",
+            "bytes": 299
+          }
+        ]
+      },
+      "authors": [
+        "F. J. Gay",
+        "R. A. Barrett"
+      ],
+      "year": 1983,
+      "publisher": "Australian Journal of Entomology",
+      "lang": "en",
+      "doi": "10.1111/j.1440-6055.1983.tb01845.x",
+      "fulltext_status": "abstract-blocked",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0451"
+    },
+    {
+      "title": "The Termites of Sundaland: A Taxonomic Review",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.61507/smj22-2004-it3r-04",
+      "file_path": "_unpublished/文库/10.61507-smj22-2004-it3r-04",
+      "chars": 1261,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-16T05:47:23+08:00",
+      "notes": "全文存于 _unpublished/文库/10.61507-smj22-2004-it3r-04（1261 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1260 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.61507-smj22-2004-it3r-04",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:47:23",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.61507-smj22-2004-it3r-04/full.txt",
+            "chars": 1261,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.61507_smj22-2004-it3r-04-abstract.txt",
+            "sha256": "50c374b7fa5b8a25cccaf1f9970dd7f3e0e288b8cc69b6f009c5ad7158550cb4",
+            "bytes": 1261
+          }
+        ]
+      },
+      "authors": [
+        "F. J. Gathorne-Hardy"
+      ],
+      "year": 2004,
+      "publisher": "The Sarawak Museum Journal",
+      "lang": "en",
+      "doi": "10.61507/smj22-2004-it3r-04",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0452"
+    },
+    {
+      "title": "Comparison of the chemical composition of Trinervitermes geminatus (Wasmann) with that of its feed",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.36108/nje/8891/90.0190",
+      "file_path": "_unpublished/文库/10.36108-nje-8891-90.0190",
+      "chars": 1547,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-16T05:48:26+08:00",
+      "notes": "全文存于 _unpublished/文库/10.36108-nje-8891-90.0190（1547 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1546 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.36108-nje-8891-90.0190",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-16T05:48:26",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.36108-nje-8891-90.0190/full.txt",
+            "chars": 1547,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.36108_nje_8891_90.0190-abstract.txt",
+            "sha256": "3092b18e66f4d3d3912841288173591ba649e53e47d554300c98c18f6382a908",
+            "bytes": 1547
+          }
+        ]
+      },
+      "authors": [
+        "Christianah O. Ajakaiye",
+        "A. BAWO"
+      ],
+      "year": 1990,
+      "publisher": "Nigerian Journal of Entomology",
+      "lang": "en",
+      "doi": "10.36108/nje/8891/90.0190",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0453"
     }
   ]
 }
