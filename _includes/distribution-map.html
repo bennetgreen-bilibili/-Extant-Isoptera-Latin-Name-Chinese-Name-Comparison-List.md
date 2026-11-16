@@ -27,7 +27,11 @@
   注意：Jekyll 的 kramdown 在空行处结束 HTML 块，本文件输出必须保持「无空行」，
   否则插在 Markdown 页面里的地图块会被当成 Markdown 重新解析。
 {%- endcomment -%}
-{%- assign occ = site.data.occurrence_summary -%}
+{%- comment -%}
+  别把整份 occurrence_summary（465KB）assign 成 occ：Liquid 4 的 Assign 会递归遍历被赋的值
+  给资源限额计分，每页多花 3~4ms。下面一律链式直取或用 where 过滤（Ruby 侧线性扫，比
+  Liquid 的 for + if + break 快两个数量级）。
+{%- endcomment -%}
 {%- assign dmode = include.mode | default: 'species' -%}
 {%- if page.lang == 'en' -%}{%- assign dm_lang = '/en' -%}{%- elsif page.lang == 'es' -%}{%- assign dm_lang = '/es' -%}{%- else -%}{%- assign dm_lang = '' -%}{%- endif -%}
 {%- if page.lang == 'en' -%}
@@ -88,9 +92,8 @@
   {%- assign t_nodata_en = 'No GBIF record with coordinates was found for this species.' -%}
   {%- assign t_nodata_es = 'No se encontró ningún registro de GBIF con coordenadas para esta especie.' -%}
 {%- endif -%}
-{%- if occ and dmode == 'family' -%}
-  {%- assign dm = nil -%}
-  {%- for item in occ.families -%}{%- if item.id == include.id -%}{%- assign dm = item -%}{%- break -%}{%- endif -%}{%- endfor -%}
+{%- if dmode == 'family' -%}
+  {%- assign dm = site.data.occurrence_summary.families | where: "id", include.id | first -%}
   {%- if dm and dm.file -%}
 <div class="distribution-inline distribution-inline-family" data-pagefind-ignore data-taxon="{{ dm.id }}">
 <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.zh }} {{ dm.latin }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.zh }} {{ dm.latin }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
@@ -98,26 +101,24 @@
 </div>
   {%- endif -%}
 {%- elsif dmode == 'subfamily' -%}
-  {%- assign dsm = nil -%}
-  {%- for item in site.data.subfamily_maps.subfamilies -%}{%- if item.id == include.id -%}{%- assign dsm = item -%}{%- break -%}{%- endif -%}{%- endfor -%}
+  {%- assign dsm = site.data.subfamily_maps.subfamilies | where: "id", include.id | first -%}
   {%- if dsm and dsm.file -%}
 <div class="distribution-inline distribution-inline-subfamily" data-pagefind-ignore data-taxon="{{ dsm.id }}">
 <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dsm.file }}" data-label="{{ dsm.zh }} {{ dsm.latin }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dsm.zh }} {{ dsm.latin }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
 <p class="distribution-meta"><b>{{ dsm.records }}</b> {{ t_records }} · <b>{{ dsm.cells }}</b> {{ t_cells }}{% if dsm.species %} · {{ dsm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dsm.file }}" download="{{ dsm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/family/{{ dsm.family_id }}/">{{ dsm.family_zh }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
   {%- endif -%}
-{%- elsif occ and dmode == 'genus' -%}
-  {%- assign dm = nil -%}
-  {%- for item in occ.genera -%}{%- if item.id == include.id -%}{%- assign dm = item -%}{%- break -%}{%- endif -%}{%- endfor -%}
+{%- elsif dmode == 'genus' -%}
+  {%- assign dm = site.data.occurrence_summary.genera | where: "id", include.id | first -%}
   {%- if dm and dm.file -%}
 <div class="distribution-inline distribution-inline-genus" data-pagefind-ignore data-taxon="{{ dm.id }}">
 <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
 <p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/family/{{ dm.family_id }}/">{{ dm.family_zh }}</a></p>
 </div>
   {%- endif -%}
-{%- elsif occ and dmode == 'species' -%}
+{%- elsif dmode == 'species' -%}
   {%- assign dm_slug = page.url | remove_first: '/en' | remove_first: '/es' | remove_first: '/species/' | remove: '/' -%}
-  {%- assign dm = occ.species[dm_slug] -%}
+  {%- assign dm = site.data.occurrence_summary.species[dm_slug] -%}
   {%- if dm and dm.file -%}
 <div class="species-map" aria-labelledby="species-map-title" data-pagefind-ignore data-taxon="{{ dm_slug }}">
 <h2 id="species-map-title" class="species-map-title">{{ t_title }}</h2>

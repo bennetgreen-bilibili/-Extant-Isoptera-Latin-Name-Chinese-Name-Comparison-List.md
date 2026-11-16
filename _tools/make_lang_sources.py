@@ -22,18 +22,19 @@ CI 里 `Build with Jekyll` 一步实测 1165s（19.4 分钟），占整个部署
 ## 切片内容
 
 * `zh`：`_config.yml`、共享模板/数据目录、`_posts`、`_species` 与根目录下所有
-  非 `_`/`.` 开头的条目（`assets/`、`photos/`、`genus/`、`family/`、`subfamily/`、
-  `basics/`、`data/`、`dataset/`、`downloads/`、根页面与根静态文件）——即**除 `en/`、`es/` 之外的一切**。
+  非 `_`/`.` 开头的条目（`photos/`、`genus/`、`family/`、`subfamily/`、
+  `basics/`、`data/`、`dataset/`、根页面与根静态文件）——即**除 `en/`、`es/` 之外的一切**。
 * `en`：`_config.yml`、共享模板/数据目录、`en/`。
 * `es`：`_config.yml`、共享模板/数据目录、`es/`。
 
-`en`/`es` 切片刻意不带 `assets/`、`dataset/`、根静态文件与根页面：那些是 zh 切片出的，
-合并时由 `_tools/merge_lang_sites.py` 统一并进去，三份输出因此**基本互不重叠**；
-重叠的只有三处，合并脚本都按「共享产物」处理：
+`en`/`es` 切片刻意不带 `dataset/` 与根页面：那些是 zh 切片出的，合并时由
+`_tools/merge_lang_sites.py` 统一并进去，三份输出因此**基本互不重叠**；
+重叠的部分都来自共享条目，合并脚本按「共享产物」处理：
 
 1. 各自生成的 `sitemap.xml`（取并集）；
 2. `_posts` 的渲染结果（`blog.md` 用 `site.posts` 列文章，三份切片都要有 `_posts` 才能列出文章）；
-3. `downloads/` 的静态复制（`download.md` 用 `site.static_files` 列下载文件，同理）。
+3. `downloads/` 的静态复制（`download.md` 用 `site.static_files` 列下载文件，同理）；
+4. `assets/` 的静态复制与 `robots.txt`（三份都带，保证三份产物形状一致）。
 
 同路径内容一致就只留一份；内容不一致说明切片泄漏，合并直接判失败。
 
@@ -62,7 +63,19 @@ OUT = REPO / "_langsrc"
 # `download.md`/`en/download.md`/`es/download.md` 用 `site.static_files | where contains '/downloads/'`，
 # 少了哪一份，这几页就会在本语言的切片里被渲染成空列表。三份各渲染一遍的结果相同，
 # 合并阶段按字节比对后只留一份（`_posts` 只有两篇、`downloads/` 约 2MB，代价可以忽略）。
-SHARED = ("_config.yml", "_layouts", "_includes", "_data", "_sass", "_plugins", "_posts", "downloads")
+SHARED = (
+    "_config.yml", "_layouts", "_includes", "_data", "_sass", "_plugins",
+    "_posts", "downloads",
+    # `assets/` 是纯静态资源（没有 front matter，不会被渲染）：三份切片都带，
+    # 各容器各自原样复制一遍，合并时按字节去重。看起来多复制了两次 15MB，
+    # 但换来「三份产物形状一致」——某份切片缺了它，发布面上就会少掉样式/图标/geo 数据，
+    # 而且 Pages 镜像里的 github-pages 工具链有时会自己补一个 assets/css/style.css，
+    # 补齐后三份内容一致，合并脚本不必为这种差异开特例。
+    "assets",
+    # `robots.txt` 仓库里有一份真文件；只给 zh 的话，en/es 切片会被 jekyll-sitemap
+    # 自动生成一份内容不同的 robots.txt（追加了 Sitemap 行），合并时就撞「重复渲染」。
+    "robots.txt",
+)
 
 # 每种语言切片额外挂的目录（zh 另外还要挂根目录下所有非 _/. 开头的条目，见 main()）
 LANG_DIRS = {"zh": (), "en": ("en",), "es": ("es",)}

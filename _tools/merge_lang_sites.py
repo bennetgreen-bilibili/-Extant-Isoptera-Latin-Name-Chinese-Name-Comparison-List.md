@@ -13,9 +13,9 @@
    合并后总页数是否与预期相符 —— 任何一条不满足都当失败处理，
    而不是把半套站点发上线。
 
-`_posts` 与 `downloads/` 是三份切片共用的源（`blog.md` 用 `site.posts`、
-`download.md` 用 `site.static_files`），所以每份产物里都会出现它们的输出；
-这些路径按「共享产物」放行，内容不同才算冲突。
+`_posts`、`downloads/` 与 `assets/` 是三份切片共用的源（`blog.md` 用 `site.posts`、
+`download.md` 用 `site.static_files`、模板用 `assets/` 下的样式与图标），所以每份产物里
+都会出现它们的输出（外加 `robots.txt`）；这些路径按「共享产物」放行，内容不同才算冲突。
 
 用法：python _tools/merge_lang_sites.py [--sites _site-zh _site-en _site-es] [--dest _site]
 """
@@ -42,7 +42,7 @@ SHARED_ROOT = {"robots.txt"}
 # `_posts` 与 `downloads/` 是三份切片共用的源（见 make_lang_sources.py 的 SHARED），
 # 于是每份产物里都会出现它们的输出：`downloads/**` 静态复制、每篇 post 的 permalink。
 # 这些路径出现在任何一份切片里都正常，不属于「泄漏」，内容不同才是问题（交给冲突检查）。
-SHARED_PREFIXES = ("downloads/",)
+SHARED_PREFIXES = ("downloads/", "assets/")
 POST_PERMALINK = re.compile(r"^permalink:\s*['\"]?([^'\"\s#]+)", re.M)
 POST_FILE = re.compile(r"^(\d{4})-(\d{2})-(\d{2})-(.+)\.(?:md|markdown|html)$")
 
@@ -184,7 +184,12 @@ def main() -> int:
                     if top in ZH_FORBIDDEN:
                         problems.append(f"zh 切片产物里出现了 {top} 路径（{rel}），切片漏了东西")
                 elif top != ONLY_PREFIX[lang]:
-                    problems.append(f"{lang} 切片产物里出现了不属于它的路径（{rel}），切片漏了东西")
+                    problems.append(
+                        f"{lang} 切片产物里出现了不属于它的路径（{rel}），切片漏了东西"
+                        f"——本语言目录之外，只有 `assets/`、`downloads/`、`_posts` 的 permalink 页"
+                        f"和 `robots.txt` 是常见共享产物；新增的共享目录要同时写进"
+                        f"`make_lang_sources.py` 的 SHARED 与这里的 SHARED_PREFIXES"
+                    )
             target = dest / rel
             if rel in written:
                 try:

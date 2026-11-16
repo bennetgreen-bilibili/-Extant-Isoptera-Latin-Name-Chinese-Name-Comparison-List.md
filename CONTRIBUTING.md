@@ -78,11 +78,12 @@ python .github/workflows/build_name_issues.py --write
 ## 发布构建（三语并行）
 
 站点 11,300 页里有 9,267 页是物种页（三语各 3,089 页），Jekyll 单线程渲染是唯一瓶颈：2026-11 的 CI 记录里
-`Build with Jekyll` 一步 1165s（整条 build job 1302s），其余全部脚本合计约 60s。`pages.yml` 因此把构建拆成三份并行：
+`Build with Jekyll` 一步 1165s（整条 build job 1302s），其余全部脚本合计约 60s。`pages.yml` 因此把构建拆成三份并行
+（2026-11-17 实测：拆开后这一步 **399s**，整条 build job 439s）。
 
 1. `python _tools/make_lang_sources.py` 在 `_langsrc/{zh,en,es}` 下建**硬链接镜像**（`_langsrc/` 已 gitignore）：
-   三份都带 `_config.yml` / `_layouts` / `_includes` / `_data` / `_sass` / `_plugins` / `_posts` / `downloads`，
-   zh 另带 `_species` 与根目录页面，en/es 只带各自的 `en/`、`es/`。**排除靠「不在镜像里」**，`_config.yml` 一个字都不用改。
+   三份都带 `_config.yml` / `_layouts` / `_includes` / `_data` / `_sass` / `_plugins` / `_posts` / `downloads` /
+   `assets` / `robots.txt`，zh 另带 `_species`、`dataset/` 与根目录页面。**排除靠「不在镜像里」**，`_config.yml` 一个字都不用改。
 2. 三个容器并行跑 Pages 官方镜像（`ghcr.io/actions/jekyll-build-pages:v1.0.13`，即 `jekyll-build-pages@v1` 用的同一个），
    各写 `_site-zh` / `_site-en` / `_site-es`。
 3. `python _tools/merge_lang_sites.py` 把三份并成 `_site`：同名文件按字节去重（内容不同即判失败）、`sitemap.xml` 取并集、
@@ -90,9 +91,16 @@ python .github/workflows/build_name_issues.py --write
 
 两条硬约束（改模板前先看）：
 
-- **`_posts` 与 `downloads/` 必须留在三份切片的共享清单里**：`blog.md` / `en/blog.md` / `es/blog.md` 用 `site.posts` 列文章，
-  `download.md` / `en/download.md` / `es/download.md` 用 `site.static_files` 列下载文件，少了哪一份，那几页就会被渲染成空列表。
+- **共享清单是全有或全无**：`_posts` / `downloads/` 决定 `blog.md` / `download.md` 系列能否列出内容
+  （`site.posts`、`site.static_files`）；`assets/` 与 `robots.txt` 决定三份产物形状一致——少一份 `assets/`，那份语言的
+  样式/图标就整片缺失，而只给 zh 一份 `robots.txt` 时，en/es 切片会被 `jekyll-sitemap` 补出内容不同的同名文件，
+  合并阶段直接判冲突（2026-11-17 第一次真实运行就是这样红的：`robots.txt（来自 en，与已有版本内容不同）`）。
 - 模板里**不要新增对 `site.pages` / `site.documents` / `site.species` 的遍历**：切片的假设就是这些集合在本语言之外不存在。
+- **不要整体 `assign` 大的 `_data` 哈希**。Liquid 4 的 `Assign#render` 每次都会调 `assign_score_of(val)` 递归遍历被赋值的
+  整棵结构，成本与节点数成正比、不是 O(1)：`{% assign d = site.data.papers %}`（2.1MB）≈ 16ms/页，
+  `{% assign o = site.data.occurrence_summary %}`（465KB）≈ 3.4ms/页。物种页各渲染 9,267 次，两处合起来就是全站
+  ~1/4 的 Jekyll 时间。要写成链式直取（`site.data.papers.genera[page.genus_id]`）或用 `where: "id", x | first`
+  取单条，让 `assign` 的结果永远是小结构；`_includes/related-papers.html` 与 `_includes/distribution-map.html` 是改好的样板。
 
 本地复现（Windows 上 Jekyll 3.10 的 `--source` 会把 layout 路径拼成绝对路径、页面会丢 layout，必须先进目录再构建）：
 
