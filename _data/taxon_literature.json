@@ -32,161 +32,28 @@
     },
     "updated": "2026-11-16",
     "last_batch": {
-      "date": "2026-11-15",
-      "round": "r2b",
-      "pages": 212,
-      "batch_pages": 70,
-      "units": 100,
-      "chunks": 80,
-      "abstracts": 20,
+      "date": "2026-11-16",
+      "round": "daily",
+      "pages": 242,
+      "batch_pages": 34,
+      "units": 20,
+      "chunks": 15,
+      "abstracts": 5,
       "sources": [
-        "S0001",
-        "S0002",
-        "S0003",
-        "S0004",
-        "S0005",
-        "S0006",
-        "S0008",
-        "S0009",
-        "S0010",
-        "S0011",
-        "S0012",
-        "S0013",
-        "S0034",
-        "S0098",
-        "S0103",
-        "S0104",
-        "S0105",
-        "S0106",
-        "S0109",
-        "S0110",
-        "S0111",
-        "S0112",
-        "S0115",
-        "S0134",
-        "S0136",
-        "S0137",
-        "S0140",
-        "S0143",
-        "S0144",
-        "S0145",
-        "S0146",
-        "S0147",
-        "S0148",
-        "S0150",
-        "S0151",
-        "S0152",
-        "S0155",
-        "S0156",
-        "S0166",
-        "S0170",
-        "S0175",
-        "S0176",
-        "S0177",
-        "S0180",
-        "S0182",
-        "S0185",
-        "S0186",
-        "S0187",
-        "S0190",
-        "S0191",
-        "S0192",
-        "S0193",
-        "S0196",
-        "S0199",
-        "S0200",
-        "S0201",
-        "S0203",
-        "S0204",
-        "S0206",
-        "S0207",
-        "S0208",
-        "S0209",
-        "S0210",
-        "S0211",
-        "S0212",
-        "S0213",
-        "S0214",
-        "S0215",
-        "S0216",
-        "S0217",
-        "S0218",
-        "S0219",
-        "S0220",
-        "S0221",
-        "S0223",
-        "S0225",
-        "S0226",
-        "S0227",
-        "S0228",
-        "S0231",
-        "S0233",
-        "S0234",
-        "S0236",
-        "S0237",
-        "S0239",
-        "S0240",
-        "S0241",
-        "S0242",
-        "S0244",
-        "S0245",
-        "S0246",
-        "S0247",
-        "S0249",
-        "S0250",
-        "S0252",
-        "S0254",
-        "S0256",
-        "S0257",
-        "S0258",
-        "S0259",
-        "S0260",
-        "S0261",
-        "S0264",
-        "S0266",
-        "S0267",
-        "S0268",
-        "S0269",
-        "S0270",
-        "S0272",
-        "S0274",
-        "S0275",
-        "S0276",
-        "S0279",
-        "S0280",
-        "S0281",
-        "S0284",
-        "S0285",
-        "S0286",
-        "S0287",
-        "S0288",
-        "S0290",
-        "S0293",
-        "S0294",
-        "S0295",
-        "S0296",
-        "S0299",
-        "S0300",
-        "S0301",
-        "S0302",
-        "S0303",
-        "S0304",
-        "S0305",
-        "S0306",
-        "S0307",
-        "S0308",
-        "S0310",
-        "S0312",
-        "S0313",
-        "S0315",
-        "S0316",
-        "S0319",
-        "S0372",
-        "S0434",
-        "S0439",
-        "S0440",
-        "S0442",
-        "S0443"
+        "S0323",
+        "S0324",
+        "S0325",
+        "S0326",
+        "S0327",
+        "S0328",
+        "S0329",
+        "S0330",
+        "S0331",
+        "S0333",
+        "S0334",
+        "S0335",
+        "S0336",
+        "S0337"
       ]
     },
     "languages": [
@@ -2138,7 +2005,7 @@
     ]
   },
   "/species/inquilinitermes-microcerus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-16",
     "sections": [
       {
         "heading": "对宿主追踪信息素的利用",
@@ -2154,6 +2021,21 @@
         ],
         "heading_en": "Use of the host trail pheromone",
         "heading_es": "Uso de la feromona de rastro del hospedador"
+      },
+      {
+        "heading": "在宿主巢中的存活力与行走行为",
+        "heading_en": "Survivorship and walking behaviour in the host nest",
+        "heading_es": "Supervivencia y conducta de desplazamiento en el nido hospedador",
+        "paragraphs": [
+          {
+            "src": [
+              "S0324"
+            ],
+            "text": "根据 Cruz 等（2018）研究，小角客白蚁（<i>Inquilinitermes microcerus</i>）常栖居于缩白蚁属（<i>Constrictotermes</i>）的巢中，其群体通常与宿主群体在空间上隔离。生物测定显示：工蚁与宿主接触（无论来自同巢或异巢）时平均死亡时间短于对照，与宿主巢外壁接触时也短于对照与内壁接触；而与宿主接触时行走距离与速度与对照无差异，接触内壁或外壁时则低于对照。作者据此认为该种采取回避宿主感知的行为策略（据摘要）。",
+            "text_en": "According to Cruz et al. (2018), <i>Inquilinitermes microcerus</i> frequently inhabits nests of <i>Constrictotermes</i>, and its colonies usually establish themselves spatially isolated from those of the host. In bioassays, the mean time to death of inquiline workers was shorter in contact with hosts, whether from the same or a different nest, than in the control, and shorter in contact with the external walls of the host nest than in the control or in contact with the inner walls; the distance walked and the walking velocity did not differ from the control when workers were in contact with hosts, but were lower than the control in contact with inner and external walls. The authors conclude that the species adopts behavioural strategies to avoid perception by its host (according to the abstract).",
+            "text_es": "Según Cruz et al. (2018), <i>Inquilinitermes microcerus</i> habita con frecuencia nidos de <i>Constrictotermes</i>, y sus colonias suelen establecerse aisladas espacialmente de las del hospedador. En los bioensayos, el tiempo medio hasta la muerte de las obreras inquilinas fue menor en contacto con los hospedadores, tanto del mismo nido como de otro, que en el control, y menor en contacto con las paredes externas del nido hospedador que en el control o en contacto con las paredes internas; la distancia recorrida y la velocidad de desplazamiento no difirieron del control cuando las obreras estaban en contacto con los hospedadores, pero fueron menores que el control en contacto con las paredes internas y externas. Los autores concluyen que la especie adopta estrategias conductuales para evitar ser percibida por su hospedador (según el resumen)."
+          }
+        ]
       }
     ],
     "references": [
@@ -2161,6 +2043,11 @@
         "id": "S0176",
         "citation": "Cristaldo, P. F. et al. 2014. Mutual use of trail-following chemical cues by a termite host and its inquiline. PLoS ONE.",
         "doi": "10.1371/journal.pone.0085315"
+      },
+      {
+        "id": "S0324",
+        "citation": "Cruz, J. S.; Cristaldo, P. F.; Sacramento, J. J. M.; Cruz, M. L. R.; Ferreira, D. V.; Araújo, A. P. A. 2018. Survivorship and walking behavior of Inquilinitermes microcerus (Termitidae: Termitinae) in contact with host workers and walls from host nest. Sociobiology 65(1).",
+        "url": "https://doi.org/10.13102/sociobiology.v65i1.1780"
       }
     ]
   },
@@ -4160,7 +4047,7 @@
     ]
   },
   "/species/bifiditermes-beesoni/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-16",
     "sections": [
       {
         "heading": "研究记述",
@@ -4176,6 +4063,21 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "性比、孤雌生殖与产卵",
+        "heading_en": "Sex ratio, parthenogenesis and oviposition",
+        "heading_es": "Proporción de sexos, partenogénesis y puesta",
+        "paragraphs": [
+          {
+            "src": [
+              "S0333"
+            ],
+            "text": "根据 Afzal 与 Salihah（1985）研究，比森双裂白蚁（<i>Bifiditermes beesoni</i>）的有翅成虫两性比例相等，孤雌生殖罕见；虽然与异性配对对卵巢管发育与产卵影响很大，但脱翅才是首要因素，卵子发生过程似为该类生殖个体正常存活所必需；较早开始产卵的雌性产卵更多、存活更久；开始产卵所需的相对湿度高于其正常存活所需（据摘要）。",
+            "text_en": "According to Afzal and Salihah (1985), the swarming imagoes of <i>Bifiditermes beesoni</i> include both sexes in equal proportion and parthenogenesis is of rare occurrence; although pairing with a partner of the opposite sex strongly influences the development of the ovarioles and hence egg-laying, dealation is of primary importance, and the process of oogenesis appears to be an important requirement for the normal survival of the reproductives. Females that began oviposition earlier laid more eggs and survived longer, and a higher relative humidity is needed to initiate egg-laying than for normal survival (according to the abstract).",
+            "text_es": "Según Afzal y Salihah (1985), los imagos que enjambran de <i>Bifiditermes beesoni</i> incluyen ambos sexos en igual proporción y la partenogénesis es rara; aunque el emparejamiento con una pareja del sexo opuesto influye mucho en el desarrollo de los ovariolos y, por tanto, en la puesta, la pérdida de las alas es el factor primordial, y el proceso de ovogénesis parece un requisito importante para la supervivencia normal de los reproductores. Las hembras que comenzaron antes la puesta pusieron más huevos y vivieron más, y para iniciar la puesta se necesita una humedad relativa mayor que para la supervivencia normal (según el resumen)."
+          }
+        ]
       }
     ],
     "references": [
@@ -4183,6 +4085,11 @@
         "id": "S0012",
         "citation": "Thakur M. L., Mishra S. C. 1996 Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
         "url": "https://indianjournals.com/article/jer-20-1-013"
+      },
+      {
+        "id": "S0333",
+        "citation": "Afzal, M.; Salihah, Z. 1985. Sex ratio, occurrence of parthenogenesis, ovarian development and oviposition behaviour of the primary reproductives of Bifiditermes beesoni (Gardner) (Isoptera, Kalotermitidae). Zeitschrift für Angewandte Entomologie.",
+        "url": "https://doi.org/10.1111/j.1439-0418.1985.tb02767.x"
       }
     ]
   },
@@ -5147,7 +5054,7 @@
     ]
   },
   "/genus/pericapritermes/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-16",
     "sections": [
       {
         "heading": "爪哇高地的土壤食性类群",
@@ -5171,6 +5078,29 @@
             "text_es": "Según el resumen de Ratiknyo et al. (2018), un muestreo altitudinal en cuatro laderas del monte Slamet entre 700 y 1300 m asignó a <i>Pericapritermes dolichocephalus</i> y a otra especie de <i>Pericapritermes</i> al grupo geófago, contabilizado por separado de los xilófagos y humívoros; se registraron 7349 individuos de 11 especies, 9 géneros, 5 subfamilias y 2 familias, la diversidad fue mayor en la ladera occidental y el análisis de correspondencia canónica identificó la cobertura del dosel y la intensidad lumínica como los factores ambientales más correlacionados con la estructura de la comunidad."
           }
         ]
+      },
+      {
+        "heading": "新几内亚弹颚兵蚁类群的修订",
+        "heading_en": "A revision of the snapping-soldier fauna of New Guinea",
+        "heading_es": "Una revisión de la fauna de soldados que chasquean de Nueva Guinea",
+        "paragraphs": [
+          {
+            "src": [
+              "S0329"
+            ],
+            "text": "根据 Bourguignon 等（2008）对新几内亚具弹颚兵蚁的白蚁类群的修订，此前该岛仅知 3 种，当时统置于白蚁亚科（Termitinae）：齿颚始扭白蚁（<i>Protocapritermes odontomachus</i>，当时置于白蚁属 <i>Termes</i>）、游荡长颚白蚁（<i>Macrognathotermes errator</i>）与舒尔茨近扭白蚁（<i>Pericapritermes schultzei</i>）。该研究另记录 7 种，其中 3 种为新种：巴布亚近扭白蚁（<i>Pericapritermes papuanus</i>）、小型近扭白蚁（<i>Pericapritermes parvus</i>）与毛多近扭白蚁（<i>Pericapritermes pilosus</i>）；上述记录均据摘要。",
+            "text_en": "According to Bourguignon et al. (2008), in their revision of the New Guinea termites with snapping soldiers, only three species were previously known from the island, all then placed in Termitinae: <i>Protocapritermes odontomachus</i> (then in <i>Termes</i>), <i>Macrognathotermes errator</i> and <i>Pericapritermes schultzei</i>. The study reports seven further species, three of them new to science: <i>Pericapritermes papuanus</i>, <i>Pericapritermes parvus</i> and <i>Pericapritermes pilosus</i> (all records according to the abstract).",
+            "text_es": "Según Bourguignon et al. (2008), en su revisión de las termitas de Nueva Guinea con soldados que chasquean solo se conocían tres especies de la isla, todas situadas entonces en Termitinae: <i>Protocapritermes odontomachus</i> (entonces en <i>Termes</i>), <i>Macrognathotermes errator</i> y <i>Pericapritermes schultzei</i>. El estudio registra siete especies más, tres de ellas nuevas para la ciencia: <i>Pericapritermes papuanus</i>, <i>Pericapritermes parvus</i> y <i>Pericapritermes pilosus</i> (todos los registros según el resumen)."
+          },
+          {
+            "src": [
+              "S0329"
+            ],
+            "text": "其余 4 种此前仅知于澳大利亚北部，采自巴布亚南部稀树草原：深颏棒颚白蚁（<i>Ephelotermes paleatus</i>）、奇尔棒颚白蚁（<i>Ephelotermes cheeli</i>）、钩状小脊突白蚁（<i>Lophotermes aduncus</i>）与短头小脊突白蚁（<i>Lophotermes brevicephalus</i>）。全部种类均给出鉴别特征与插图；作者强调新几内亚森林区系的东方亲缘，以及澳大利亚与新几内亚稀树草原之间的相似性（据摘要）。",
+            "text_en": "The other four species, collected in the savannas of southern Papua, were previously known only from northern Australia: <i>Ephelotermes paleatus</i>, <i>Ephelotermes cheeli</i>, <i>Lophotermes aduncus</i> and <i>Lophotermes brevicephalus</i>. Diagnostic characters and illustrations are provided for all species, and the authors emphasise the Oriental affinities of the forest fauna of New Guinea and the similarities between the Australian and New Guinean savannas (according to the abstract).",
+            "text_es": "Las otras cuatro especies, recolectadas en las sabanas del sur de Papúa, solo se conocían antes del norte de Australia: <i>Ephelotermes paleatus</i>, <i>Ephelotermes cheeli</i>, <i>Lophotermes aduncus</i> y <i>Lophotermes brevicephalus</i>. Se aportan caracteres diagnósticos e ilustraciones para todas las especies, y los autores destacan las afinidades orientales de la fauna forestal de Nueva Guinea y las semejanzas entre las sabanas de Australia y de Nueva Guinea (según el resumen)."
+          }
+        ]
       }
     ],
     "references": [
@@ -5183,6 +5113,11 @@
         "id": "S0227",
         "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5).",
         "doi": "10.13057/biodiv/d190508"
+      },
+      {
+        "id": "S0329",
+        "citation": "Bourguignon, T.; Leponce, M.; Roisin, Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769.",
+        "url": "https://doi.org/10.11646/zootaxa.1769.1.1"
       }
     ]
   },
@@ -7230,7 +7165,7 @@
     ]
   },
   "/genus/apicotermes/": {
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "sections": [
       {
         "heading": "巢壁穿孔与环形廊道",
@@ -7254,6 +7189,37 @@
             "text_es": "Las perforaciones de la pared del nido son el rasgo más característico del género y parecen permitir el intercambio de gases a través de la pared del nido, mientras que las galerías anulares sirven para proteger esas perforaciones (posiblemente para impedir la entrada de agua subterránea); el nido de una especie perdió las perforaciones de la pared por evolución regresiva y otra especie se halla en una etapa más temprana de esa regresión, por lo que el autor considera que la conducta de construcción del nido en las termitas es instintiva (según el resumen)."
           }
         ]
+      },
+      {
+        "heading": "巢结构的渐进演化与克鲁格新种",
+        "heading_en": "Progressive evolution of nest structure and a new species in the Kruger Park",
+        "heading_es": "Evolución progresiva de la estructura del nido y una especie nueva en el Parque Kruger",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，尖白蚁属（<i>Apicotermes</i>）由 Holmgren 于 1913 年建立，模式种为特雷高尖白蚁（<i>Apicotermes tragardhi</i>），模式产地为祖鲁兰北部 Ubombo 区的沙地；该属巢结构随种而异，从无通气孔的原始蜂窝状结构，到外壁被通道穿孔、孔口止于巢表的类型，呈渐进演化，是研究行为演化的材料。作者指出该属自非洲热带南伸入南非亚热带，似只限于德兰士瓦北部与东部以及祖鲁兰北部的沙地。",
+            "text_en": "According to Coaton (1962), <i>Apicotermes</i> was erected by Holmgren in 1913 with <i>Apicotermes tragardhi</i> as type species, described from the Sandveld of the Ubombo district in northern Zululand; the nest structure differs from species to species, ranging from primitive cellular structures without ventilation pores to nests whose outer walls are pierced by passages ending in pores at the surface, a progressive series that makes the genus a subject for the study of behavioural evolution. The author notes that the genus extends southwards from tropical Africa into the subtropics of South Africa and appears to be confined there to the Sandveld of the northern and eastern Transvaal and of northern Zululand.",
+            "text_es": "Según Coaton (1962), <i>Apicotermes</i> fue erigido por Holmgren en 1913 con <i>Apicotermes tragardhi</i> como especie tipo, descrita del Sandveld del distrito de Ubombo, en el norte de Zululandia; la estructura del nido varía de una especie a otra, desde estructuras celulares primitivas sin poros de ventilación hasta nidos cuyas paredes externas están perforadas por pasajes que terminan en poros en la superficie, una serie progresiva que convierte al género en objeto de estudio de la evolución del comportamiento. El autor señala que el género se extiende hacia el sur desde el África tropical hasta el subtrópico sudafricano y parece quedar confinado allí al Sandveld del norte y el este del Transvaal y del norte de Zululandia."
+          },
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "1959 年 8 月 Grobler 在克鲁格国家公园 Sibasa 区 Punda Milia 附近的沙地岩脊下采到一号尖白蚁属（<i>Apicotermes</i>）标本，经 Emerson 鉴定为新种：其巢在上方、侧面与下方均被一层狭窄气室与周围土壤隔开，自巢体伸出多条硬壁出口通道，水平、斜向与垂直向下穿过土壤与其他同类巢体相连，通道同样被气室包围。湿凉天气蚁群与蚁后聚于近地表部分，干旱酷热时上层空置、群体下移至深层；巢内为原始蜂窝状结构，完全无孔与外围气室相通。",
+            "text_en": "In August 1959 Grobler took specimens of an <i>Apicotermes</i> species beneath boulders on a rocky ridge in the Sandveld near Punda Milia, in the Sibasa sector of the Kruger National Park, which Emerson determined as new to science: the nest is separated from the surrounding soil above, at the sides and below by a narrow air space, and numbers of hard-walled exit passages diverge from the nest horizontally, diagonally and vertically downwards through the soil to link up with other similar nest structures, these passages also being surrounded by an air space. In cooler, wet weather the bulk of the colony and its queen congregate near the soil surface, whereas under drought and extreme heat the upper parts are sparsely populated or deserted and the insects move to deeper levels; the interior is a primitive cellular structure with no pores connecting it to the surrounding air space.",
+            "text_es": "En agosto de 1959 Grobler tomó ejemplares de una especie de <i>Apicotermes</i> bajo bloques de roca en una cresta pedregosa del Sandveld cerca de Punda Milia, en el sector de Sibasa del Parque Nacional Kruger, que Emerson determinó como nueva para la ciencia: el nido está separado del suelo circundante por arriba, a los lados y por debajo por una estrecha cámara de aire, y del nido divergen numerosos pasajes de salida de paredes duras, horizontales, diagonales y verticales hacia abajo a través del suelo, que se conectan con otras estructuras semejantes, también rodeadas por una cámara de aire. Con tiempo fresco y húmedo, el grueso de la colonia y su reina se congregan cerca de la superficie del suelo, mientras que con sequía y calor extremo las partes superiores quedan poco pobladas o desiertas y los insectos descienden a niveles más profundos; el interior es una estructura celular primitiva sin poros que lo comuniquen con la cámara de aire circundante."
+          },
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "由于该属不筑地表结构，巢极难发现；在克鲁格国家公园发现翻动石块即可找到巢之后，此法被广泛用于调查，三年间把该属记录扩展到 Soutpansberg 区、Sibasa、Pilgrim's Rest、Nelspruit 三区以及 Barberton 与 Ingwavuma 区。",
+            "text_en": "Because the genus builds no surface structures, its nests are normally extremely difficult to locate; once it was found in the Kruger National Park that nests could readily be found by overturning boulders and stones, the technique was widely applied during survey expeditions, and within three years it extended the records of the genus to the Soutpansberg district, the Sibasa, Pilgrim's Rest and Nelspruit sectors, and the Barberton and Ingwavuma districts.",
+            "text_es": "Como el género no construye estructuras superficiales, sus nidos son normalmente muy difíciles de localizar; una vez comprobado en el Parque Nacional Kruger que los nidos se encontraban con facilidad volteando bloques y piedras, la técnica se aplicó ampliamente en las expediciones de muestreo y, en tres años, extendió los registros del género al distrito de Soutpansberg, los sectores de Sibasa, Pilgrim's Rest y Nelspruit, y los distritos de Barberton e Ingwavuma."
+          }
+        ]
       }
     ],
     "references": [
@@ -7261,6 +7227,11 @@
         "id": "S0254",
         "citation": "Schmidt, R. S. 1955. Termite (Apicotermes) Nests-Important Ethological Material. Behaviour.",
         "doi": "10.1163/156853955x00256"
+      },
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
       }
     ]
   },
@@ -8212,6 +8183,885 @@
         "id": "S0247",
         "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
         "doi": "10.13102/sociobiology.v62i3.793"
+      }
+    ]
+  },
+  "/genus/fulleritermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "属的建立与颚齿鉴别",
+        "heading_en": "Establishment of the genus and mandibular diagnosis",
+        "heading_es": "Establecimiento del género y diagnóstico mandibular",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）对克鲁格国家公园白蚁的调查，富勒白蚁属（<i>Fulleritermes</i>）作为新属建立，用于收纳此前被误置于广义缩狭白蚁属（<i>Coarctotermes</i>）的 5 个种，全部限于埃塞俄比亚区；模式种为收缩富勒白蚁（<i>Fulleritermes contractus</i>）。5 个种中 3 个本站已有页面：收缩富勒白蚁（<i>Fulleritermes contractus</i>）、马利富勒白蚁（<i>Fulleritermes mallyi</i>）与阴暗富勒白蚁（<i>Fulleritermes tenebricus</i>）；其余 2 种本站尚无页面，即旧组合 <i>Nasutitermes</i> (<i>Coarctotermes</i>) <i>suffuscus</i> 与旧组合 <i>Coarctotermes brunneus</i>。",
+            "text_en": "According to Coaton's (1962) survey of the termites of the Kruger National Park, <i>Fulleritermes</i> was established as a new genus to receive five species that had been misplaced in the broad sense of <i>Coarctotermes</i>, all of them confined to the Ethiopian Region; the type species is <i>Fulleritermes contractus</i>. Three of the five species have pages on this site: <i>Fulleritermes contractus</i>, <i>Fulleritermes mallyi</i> and <i>Fulleritermes tenebricus</i>; the other two, the former combination <i>Nasutitermes</i> (<i>Coarctotermes</i>) <i>suffuscus</i> and the former combination <i>Coarctotermes brunneus</i>, have no page here yet.",
+            "text_es": "Según el estudio de Coaton (1962) sobre las termitas del Parque Nacional Kruger, <i>Fulleritermes</i> se estableció como género nuevo para acoger cinco especies que habían sido colocadas erróneamente en el sentido amplio de <i>Coarctotermes</i>, todas confinadas a la Región Etiópica; la especie tipo es <i>Fulleritermes contractus</i>. Tres de las cinco especies tienen página en este sitio: <i>Fulleritermes contractus</i>, <i>Fulleritermes mallyi</i> y <i>Fulleritermes tenebricus</i>; las otras dos, la combinación antigua <i>Nasutitermes</i> (<i>Coarctotermes</i>) <i>suffuscus</i> y la combinación antigua <i>Coarctotermes brunneus</i>, aún no tienen página aquí."
+          },
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "两属兵蚁头部两侧中部收缩，背面观呈提琴形，形态极为接近，长期被合并；真正的鉴别依据是有翅成虫—工蚁的左下颚齿式。富勒白蚁属（<i>Fulleritermes</i>）的并合第一、第二缘齿与发达的第三缘齿之间隔着一道深裂，第三缘齿前缘长而后斜；缩狭白蚁属（<i>Coarctotermes</i>）则由一条大致均匀凹入的切缘把并合的第一、第二缘齿与第三缘齿相连。",
+            "text_en": "The soldiers of the two genera have the sides of the head constricted in the middle, giving a fiddle-shaped outline in dorsal view, and are so similar that the groups were long lumped together; the decisive evidence lies in the dentition of the left mandible of the imago–worker caste. In <i>Fulleritermes</i> a deep cleft separates the fused first and second marginal teeth from a prominent third marginal tooth with a long, backwardly sloping anterior margin, whereas in <i>Coarctotermes</i> a more or less evenly concave cutting margin joins the fused first and second marginal teeth to the third.",
+            "text_es": "Los soldados de ambos géneros tienen los lados de la cabeza constreñidos en el centro, con contorno de violín en vista dorsal, y son tan semejantes que los grupos se mantuvieron unidos durante mucho tiempo; la evidencia decisiva está en la dentición de la mandíbula izquierda de la casta imago–obrera. En <i>Fulleritermes</i> una hendidura profunda separa los dientes marginales primero y segundo fusionados de un tercer diente marginal prominente con un margen anterior largo e inclinado hacia atrás, mientras que en <i>Coarctotermes</i> un margen cortante más o menos uniformemente cóncavo une los dientes primero y segundo fusionados con el tercero."
+          }
+        ]
+      },
+      {
+        "heading": "南非的分布与两属重叠",
+        "heading_en": "Distribution in South Africa and overlap of the two genera",
+        "heading_es": "Distribución en Sudáfrica y solapamiento de los dos géneros",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "同一研究记录了该属在南非的分布：马利富勒白蚁（<i>Fulleritermes mallyi</i>）沿开普省海岸带与山地自西部的纳马夸兰至西南的 Malmesbury，并越过海岸山脉进入 Karoo 内陆；收缩富勒白蚁（<i>Fulleritermes contractus</i>）分布于德兰士瓦北部与西部的灌丛（Bushveld），在奥兰治河以北的 Mafeking、Vryburg、Warrenton 一带渐止。两属在南非境内仅于德兰士瓦东北的 Sibasa 区重叠；在克鲁格国家公园的 Letaba、Pilgrim's Rest 与 Nelspruit 三区反复搜寻富勒白蚁属（<i>Fulleritermes</i>）均无所得，而同地缩狭白蚁属（<i>Coarctotermes</i>）记录丰富。",
+            "text_en": "The same study recorded the distribution of the genus in South Africa: <i>Fulleritermes mallyi</i> ranges along the coastal belt and mountains of the Cape Province from Namaqualand in the west to Malmesbury in the south-west and crosses the coastal mountain ranges into the Karroid interior, while <i>Fulleritermes contractus</i> occurs in the Bushveld of the northern and western Transvaal and fades out north of the Orange River in the districts of Mafeking, Vryburg and Warrenton. Within South Africa the two genera overlap only in the Sibasa district of the north-eastern Transvaal; repeated searches for <i>Fulleritermes</i> in the Letaba, Pilgrim's Rest and Nelspruit sectors of the Kruger National Park yielded nothing, although <i>Coarctotermes</i> is well represented there.",
+            "text_es": "El mismo estudio registró la distribución del género en Sudáfrica: <i>Fulleritermes mallyi</i> se extiende por la franja costera y las montañas de la provincia del Cabo desde Namaqualand, al oeste, hasta Malmesbury, al suroeste, y cruza las sierras costeras hacia el interior del Karoo, mientras que <i>Fulleritermes contractus</i> habita el Bushveld del norte y el oeste del Transvaal y desaparece al norte del río Orange en los distritos de Mafeking, Vryburg y Warrenton. Dentro de Sudáfrica los dos géneros se solapan solo en el distrito de Sibasa, en el noreste del Transvaal; búsquedas repetidas de <i>Fulleritermes</i> en los sectores de Letaba, Pilgrim's Rest y Nelspruit del Parque Nacional Kruger no dieron resultado, aunque <i>Coarctotermes</i> está bien representado allí."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/species/fulleritermes-contractus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "模式种与旧组合",
+        "heading_en": "Type species and former combinations",
+        "heading_es": "Especie tipo y combinaciones anteriores",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，收缩富勒白蚁（<i>Fulleritermes contractus</i>）是富勒白蚁属（<i>Fulleritermes</i>）的模式种。该种 1913 年由 Sjöstedt 以当时比属刚果 Katanga 的 Welgelegen 标本描述为旧属 <i>Eutermes</i> 的 <i>Eutermes contractus</i>；1922 年 Fuller 把德兰士瓦 De Wildt 与 Warmbaths 的标本记为 <i>Coarctatotermes contractus</i>（原文标 sic），1926 年 Sjöstedt 与 1949 年 Snyder 则置于缩狭白蚁属（<i>Coarctotermes</i>）。Coaton 依据有翅成虫—工蚁左上颚的深裂把该种移入新属富勒白蚁属（<i>Fulleritermes</i>），并记录其分布于德兰士瓦北部与西部的灌丛，在奥兰治河以北的 Mafeking、Vryburg、Warrenton 渐止。",
+            "text_en": "According to Coaton (1962), <i>Fulleritermes contractus</i> is the type species of <i>Fulleritermes</i>. Sjöstedt described it in 1913 as <i>Eutermes contractus</i>, in the old genus <i>Eutermes</i>, from a specimen from Welgelegen in Katanga, then in the Belgian Congo; in 1922 Fuller recorded material from De Wildt and Warmbaths in the Transvaal as <i>Coarctatotermes contractus</i> (marked sic in the source), and in 1926 Sjöstedt and in 1949 Snyder placed it in <i>Coarctotermes</i>. On the strength of the deep cleft of the left mandible of the imago–worker caste Coaton transferred the species to the new genus <i>Fulleritermes</i> and recorded it from the Bushveld of the northern and western Transvaal, fading out north of the Orange River in the districts of Mafeking, Vryburg and Warrenton.",
+            "text_es": "Según Coaton (1962), <i>Fulleritermes contractus</i> es la especie tipo de <i>Fulleritermes</i>. Sjöstedt la describió en 1913 como <i>Eutermes contractus</i>, en el género antiguo <i>Eutermes</i>, a partir de un ejemplar de Welgelegen, en Katanga, entonces en el Congo Belga; en 1922 Fuller registró material de De Wildt y Warmbaths, en el Transvaal, como <i>Coarctatotermes contractus</i> (marcado sic en la fuente), y en 1926 Sjöstedt y en 1949 Snyder la situaron en <i>Coarctotermes</i>. A partir de la hendidura profunda de la mandíbula izquierda de la casta imago–obrera, Coaton transfirió la especie al nuevo género <i>Fulleritermes</i> y la registró en el Bushveld del norte y el oeste del Transvaal, desapareciendo al norte del río Orange en los distritos de Mafeking, Vryburg y Warrenton."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/species/fulleritermes-mallyi/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "分类沿革与开普省分布",
+        "heading_en": "Taxonomic history and distribution in the Cape Province",
+        "heading_es": "Historia taxonómica y distribución en la provincia del Cabo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，马利富勒白蚁（<i>Fulleritermes mallyi</i>）1922 年由 Fuller 以开普省 Malmesbury 标本描述为薄嘴白蚁属（<i>Tenuirostritermes</i>）的旧组合 <i>Tenuirostritermes mallyi</i>；该属现知限于新北区与新热带区，把非洲种置于其中属误置。1926 年 Sjöstedt 改作旧属 <i>Eutermes</i> 的 <i>Eutermes mallyi</i>，1949 年 Snyder 置于缩狭白蚁属（<i>Coarctotermes</i>），1962 年 Coaton 依据有翅成虫—工蚁左上颚的深裂将其移入富勒白蚁属（<i>Fulleritermes</i>）。",
+            "text_en": "According to Coaton (1962), Fuller described <i>Fulleritermes mallyi</i> in 1922 from a Malmesbury specimen in the Cape Province as <i>Tenuirostritermes mallyi</i>, a former combination in <i>Tenuirostritermes</i>, a genus now known to be confined to the Nearctic and Neotropical Regions, so that placing an African species there was a misassignment. In 1926 Sjöstedt used the combination <i>Eutermes mallyi</i> in the old genus <i>Eutermes</i>, in 1949 Snyder placed the species in <i>Coarctotermes</i>, and in 1962 Coaton transferred it to <i>Fulleritermes</i> on the basis of the deep cleft of the left mandible of the imago–worker caste.",
+            "text_es": "Según Coaton (1962), Fuller describió <i>Fulleritermes mallyi</i> en 1922 a partir de un ejemplar de Malmesbury, en la provincia del Cabo, como <i>Tenuirostritermes mallyi</i>, combinación antigua en <i>Tenuirostritermes</i>, un género hoy conocido solo del Neártico y el Neotrópico, por lo que situar allí una especie africana fue una asignación errónea. En 1926 Sjöstedt empleó la combinación <i>Eutermes mallyi</i>, en el género antiguo <i>Eutermes</i>; en 1949 Snyder situó la especie en <i>Coarctotermes</i>, y en 1962 Coaton la transfirió a <i>Fulleritermes</i> sobre la base de la hendidura profunda de la mandíbula izquierda de la casta imago–obrera."
+          },
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "国家白蚁调查把该种已知分布大幅扩展：沿开普省海岸带与山地自纳马夸兰至 Malmesbury，并越过海岸山脉进入 Karoo 内陆，已记录于 Calvinia、Williston、Laingsburg、Ladismith、Beaufort West、Aberdeen、Willowmore 与 Uniondale 等区。",
+            "text_en": "The National Survey of Isoptera greatly extended the known range of the species: along the coastal belt and mountains of the Cape Province from Namaqualand to Malmesbury, and across the coastal mountain ranges into the Karroid interior, it has been recorded in the districts of Calvinia, Williston, Laingsburg, Ladismith, Beaufort West, Aberdeen, Willowmore and Uniondale.",
+            "text_es": "El Estudio Nacional de Isoptera amplió notablemente el área conocida de la especie: a lo largo de la franja costera y las montañas de la provincia del Cabo desde Namaqualand hasta Malmesbury, y a través de las sierras costeras hacia el interior del Karoo, se ha registrado en los distritos de Calvinia, Williston, Laingsburg, Ladismith, Beaufort West, Aberdeen, Willowmore y Uniondale."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/species/fulleritermes-tenebricus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "旧组合与苏丹记录",
+        "heading_en": "Former combinations and a record from Sudan",
+        "heading_es": "Combinaciones anteriores y un registro de Sudán",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，阴暗富勒白蚁（<i>Fulleritermes tenebricus</i>）1914 年由 Silvestri 以几内亚 Kakoulima 标本描述为旧属 <i>Eutermes</i> 的 <i>Eutermes tenebricus</i>，同文还记录南尼日利亚的 Olokomeji；1926 年 Sjöstedt 与 1949 年 Snyder 均置于缩狭白蚁属（<i>Coarctotermes</i>），Sands（1957）记录苏丹 Delami；1962 年 Coaton 依据有翅成虫—工蚁左上颚齿式把该种移入富勒白蚁属（<i>Fulleritermes</i>）。",
+            "text_en": "According to Coaton (1962), Silvestri described <i>Fulleritermes tenebricus</i> in 1914 as <i>Eutermes tenebricus</i>, in the old genus <i>Eutermes</i>, from a specimen from Kakoulima in Guinea, and recorded it in the same work from Olokomeji in southern Nigeria; in 1926 Sjöstedt and in 1949 Snyder placed it in <i>Coarctotermes</i>, Sands (1957) recorded it from Delami in Sudan, and in 1962 Coaton transferred it to <i>Fulleritermes</i> on the basis of the mandibular dentition of the imago–worker caste.",
+            "text_es": "Según Coaton (1962), Silvestri describió <i>Fulleritermes tenebricus</i> en 1914 como <i>Eutermes tenebricus</i>, en el género antiguo <i>Eutermes</i>, a partir de un ejemplar de Kakoulima, en Guinea, y la registró en la misma obra de Olokomeji, en el sur de Nigeria; en 1926 Sjöstedt y en 1949 Snyder la situaron en <i>Coarctotermes</i>, Sands (1957) la registró de Delami, en Sudán, y en 1962 Coaton la transfirió a <i>Fulleritermes</i> sobre la base de la dentición mandibular de la casta imago–obrera."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/genus/coarctotermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "狭义属的四个种与南非首记",
+        "heading_en": "The four species of the restricted genus and its first South African record",
+        "heading_es": "Las cuatro especies del género restringido y su primer registro sudafricano",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，缩狭白蚁属（<i>Coarctotermes</i>）在狭义下当时只余 4 个有效种：马达加斯加的漏壶缩狭白蚁（<i>Coarctotermes clepsydra</i>）、贝哈拉缩狭白蚁（<i>Coarctotermes beharaensis</i>）与波利昂缩狭白蚁（<i>Coarctotermes pauliani</i>），以及非洲大陆的 1 种；作者指出 1959 年以前该属在南非共和国的全部记录都应改归富勒白蚁属（<i>Fulleritermes</i>）。1959 年 8 月 Grobler 在克鲁格国家公园 Punda Milia 附近的 Wambia 沙地采到国内第一号狭义缩狭白蚁属标本。",
+            "text_en": "According to Coaton (1962), in the restricted sense <i>Coarctotermes</i> then held only four valid species: <i>Coarctotermes clepsydra</i>, <i>Coarctotermes beharaensis</i> and <i>Coarctotermes pauliani</i> from Madagascar, plus a single species on the African mainland; the author noted that all earlier records of the genus from the Republic of South Africa should be referred to <i>Fulleritermes</i>. In August 1959 Grobler collected the first accession referable to <i>Coarctotermes</i> in the strict sense within the country's borders, in the Sandveld near Wambia, in the vicinity of Punda Milia in the Kruger National Park.",
+            "text_es": "Según Coaton (1962), en sentido restringido <i>Coarctotermes</i> conservaba entonces solo cuatro especies válidas: <i>Coarctotermes clepsydra</i>, <i>Coarctotermes beharaensis</i> y <i>Coarctotermes pauliani</i> de Madagascar, más una sola especie en el continente africano; el autor señaló que todos los registros anteriores del género en la República de Sudáfrica debían referirse a <i>Fulleritermes</i>. En agosto de 1959 Grobler recolectó el primer ejemplar asignable a <i>Coarctotermes</i> en sentido estricto dentro de las fronteras del país, en el Sandveld cerca de Wambia, en las proximidades de Punda Milia, en el Parque Nacional Kruger."
+          },
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "此后国家调查把该属记录扩展到 Potgietersrus、Pietersburg、Soutpansberg、Lydenburg、Sibasa、Letaba、Pilgrim's Rest、Nelspruit、Barberton 与 Ingwavuma 等区，并在斯威士兰 Hlatikulu 区另有一笔记录；这一热带属在南非似只进入亚热带沙地（Sandveld），克鲁格国家公园、斯威士兰与祖鲁兰的 Lebombo 山地采获最多。鉴别上，缩狭白蚁属（<i>Coarctotermes</i>）有翅成虫—工蚁左上颚的并合第一、第二缘齿与第三缘齿之间由一条大致均匀凹入的切缘相连，不具富勒白蚁属（<i>Fulleritermes</i>）那样的深裂。",
+            "text_en": "Subsequent survey work extended the genus to the districts of Potgietersrus, Pietersburg, Soutpansberg, Lydenburg, Sibasa, Letaba, Pilgrim's Rest, Nelspruit, Barberton and Ingwavuma, with a further record from the Hlatikulu district of Swaziland; this tropical genus appears to enter South Africa only in subtropical Sandveld, and the Lebombo Mountains of the Kruger National Park, Swaziland and Zululand have yielded the richest harvest. Diagnostically, in <i>Coarctotermes</i> the fused first and second marginal teeth of the left mandible of the imago–worker caste are joined to the third marginal tooth by a more or less evenly concave cutting margin, without the deep cleft found in <i>Fulleritermes</i>.",
+            "text_es": "Los estudios posteriores ampliaron el género a los distritos de Potgietersrus, Pietersburg, Soutpansberg, Lydenburg, Sibasa, Letaba, Pilgrim's Rest, Nelspruit, Barberton e Ingwavuma, con otro registro del distrito de Hlatikulu, en Suazilandia; este género tropical parece entrar en Sudáfrica solo en el Sandveld subtropical, y las montañas Lebombo del Parque Nacional Kruger, Suazilandia y Zululandia han proporcionado la cosecha más rica. En el diagnóstico, en <i>Coarctotermes</i> los dientes marginales primero y segundo fusionados de la mandíbula izquierda de la casta imago–obrera se unen al tercer diente marginal por un margen cortante más o menos uniformemente cóncavo, sin la hendidura profunda que presenta <i>Fulleritermes</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/species/apicotermes-tragardhi/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "巢的发现与原始位置",
+        "heading_en": "Discovery of the nest and its primitive position",
+        "heading_es": "Descubrimiento del nido y su posición primitiva",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336",
+              "S0337"
+            ],
+            "text": "特雷高尖白蚁（<i>Apicotermes tragardhi</i>）由 Holmgren 于 1913 年以祖鲁兰北部 Ubombo 区沙地标本描述，其巢长期未知。据 Coaton（1962）记述，该巢直到 1955 年才在 Ubombo 区 Mbazwane 附近被采到，1958 年由 Schmidt 描述；此后确认该种在形态与巢型上都是尖白蚁属（<i>Apicotermes</i>）最原始的种类之一。据摘要，Schmidt（1958）认为该属的地下巢是研究筑巢行为演化的独特材料，这类种特异性的「冻结行为」比筑巢白蚁的形态特征更能说明种间系统发育关系。",
+            "text_en": "<i>Apicotermes tragardhi</i> was described by Holmgren in 1913 from Sandveld material of the Ubombo district in northern Zululand, and its nest long remained unknown. According to Coaton (1962), the nest was not collected until 1955, near Mbazwane in the Ubombo district, and was described by Schmidt in 1958; the species was subsequently confirmed as one of the most primitive members of <i>Apicotermes</i>, both morphologically and in the type of nest it constructs. According to the abstract, Schmidt (1958) regarded the subterranean nests of the genus as unique material for studying the evolution of nest-building behaviour, these species-specific examples of \"frozen behaviour\" revealing more about the phylogeny of the species than the morphological characters of the termites that build and inhabit them.",
+            "text_es": "<i>Apicotermes tragardhi</i> fue descrita por Holmgren en 1913 a partir de material del Sandveld del distrito de Ubombo, en el norte de Zululandia, y su nido permaneció desconocido durante mucho tiempo. Según Coaton (1962), el nido no se recolectó hasta 1955, cerca de Mbazwane, en el distrito de Ubombo, y fue descrito por Schmidt en 1958; posteriormente se confirmó que la especie es una de las más primitivas de <i>Apicotermes</i>, tanto por su morfología como por el tipo de nido que construye. Según el resumen, Schmidt (1958) consideraba los nidos subterráneos del género un material único para estudiar la evolución de la conducta de construcción, pues estos ejemplos específicos de cada especie de \"conducta congelada\" revelan más sobre la filogenia de las especies que los caracteres morfológicos de las termitas que los construyen y habitan."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      },
+      {
+        "id": "S0337",
+        "citation": "Schmidt, R. S. 1958. The nest of Apicotermes trägårdhi (Isoptera). New evidence on the evolution of nest-building. Behaviour 12(1–2).",
+        "url": "https://doi.org/10.1163/156853957x00083"
+      }
+    ]
+  },
+  "/species/psammotermes-allocerus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "分布间断与林波波河流域的连接",
+        "heading_en": "A disjunct range and the link through the Limpopo basin",
+        "heading_es": "Un área disyunta y el enlace a través de la cuenca del Limpopo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，奇白沙白蚁（<i>Psammotermes allocerus</i>）由 Silvestri 于 1908 年以纳米比亚 Namaland 标本描述，Fuller（1921）又记录于 Namaqualand 与 Ovamboland；Holmgren（1913）曾把祖鲁兰北部 Ubombo 区 Lake Sibayi 附近采得的标本误定为沙白蚁属（<i>Psammotermes</i>）的其他种。国家调查确认该种在开普省自 Namaqualand、Van Rhynsdorp、Clan William 的大西洋岸向东伸至东经 24°，南起 Prince Albert 区、北至 Gordonia 区。",
+            "text_en": "According to Coaton (1962), <i>Psammotermes allocerus</i> was described by Silvestri in 1908 from Namaland in South West Africa, and Fuller (1921) also recorded it from Namaqualand and Ovamboland; Holmgren (1913) had misidentified material collected near Lake Sibayi in the Ubombo district of northern Zululand as another species of <i>Psammotermes</i>. The National Survey established that in the Cape Province the species extends eastwards from the Atlantic seaboard of Namaqualand, Van Rhynsdorp and Clan William to longitude 24°E, and from the Prince Albert district in the south to the Gordonia district in the north.",
+            "text_es": "Según Coaton (1962), <i>Psammotermes allocerus</i> fue descrita por Silvestri en 1908 a partir de Namaland, en el África del Sudoeste, y Fuller (1921) la registró también de Namaqualand y Ovamboland; Holmgren (1913) había identificado erróneamente material recolectado cerca del lago Sibayi, en el distrito de Ubombo del norte de Zululandia, como otra especie de <i>Psammotermes</i>. El Estudio Nacional estableció que en la provincia del Cabo la especie se extiende hacia el este desde la costa atlántica de Namaqualand, Van Rhynsdorp y Clan William hasta la longitud 24°E, y desde el distrito de Prince Albert, al sur, hasta el de Gordonia, al norte."
+          },
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "由此形成一个分布难题：西部干旱区（开普省、西南非与贝专纳兰保护地）与东部湿润亚热带的一处孤立分布（祖鲁兰北部 Ubombo 区沙地）之间没有已知联系。Coaton 报告在林波波河流域 Soutpansberg 区 Vetfontein 附近沙地、克鲁格国家公园北部 Wambia 附近 Karoo 系沙地采到该种，加上 Lourenço Marques 的 Inhaka 岛与祖鲁兰北部 Ingwavuma 区沙地的标本，认为西部干旱区与东部湿润区的分布经德兰士瓦北部林波波河流域的沙地相连，Karoo 系沙地构成沿 Lebombo 山地的通道。",
+            "text_en": "A distributional problem thus arose: no known link existed between the arid western range (Cape Province, South West Africa and the Bechuanaland Protectorate) and an isolated pocket in the humid subtropical east, in the Sandveld of the Ubombo district of northern Zululand. Coaton reported the species from Sandveld near Vetfontein in the Soutpansberg district of the Limpopo basin and from Sandveld of the Karoo System near Wambia in the northern Kruger National Park, and, together with accessions from Inhaka Island at Lourenço Marques and from the Sandveld of the Ingwavuma district of northern Zululand, concluded that the arid western range is linked to the humid eastern one through the Sandveld of the Limpopo basin in the northern Transvaal, the Karoo System sands forming a corridor along the Lebombo Mountains.",
+            "text_es": "Surgió así un problema de distribución: no se conocía ningún enlace entre el área árida occidental (provincia del Cabo, África del Sudoeste y el Protectorado de Bechuanalandia) y un núcleo aislado en el este subtropical húmedo, en el Sandveld del distrito de Ubombo, en el norte de Zululandia. Coaton registró la especie en el Sandveld cerca de Vetfontein, en el distrito de Soutpansberg de la cuenca del Limpopo, y en el Sandveld del sistema del Karoo cerca de Wambia, en el norte del Parque Nacional Kruger, y, junto con ejemplares de la isla Inhaka, en Lourenço Marques, y del Sandveld del distrito de Ingwavuma, en el norte de Zululandia, concluyó que el área árida occidental se enlaza con la húmeda oriental a través del Sandveld de la cuenca del Limpopo en el norte del Transvaal, y que las arenas del sistema del Karoo forman un corredor a lo largo de las montañas Lebombo."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/genus/krishnacapritermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "印度西高止山的特有属",
+        "heading_en": "An endemic genus of the Western Ghats, India",
+        "heading_es": "Un género endémico de los Ghats Occidentales, India",
+        "paragraphs": [
+          {
+            "src": [
+              "S0323"
+            ],
+            "text": "据摘要，Amina 等（2019）指出克里希纳扭白蚁属（<i>Krishnacapritermes</i>）是印度西高止山的特有属，此前仅知迈蒂克里希纳扭白蚁（<i>Krishnacapritermes maitii</i>）与塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）2 种；该研究在喀拉拉邦西高止山的高海拔山岭描述迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）与马尼坎丹克里希纳扭白蚁（<i>Krishnacapritermes manikandan</i>）2 新种，使该属增至 4 种，并提供 4 种的二歧检索表与分布图。",
+            "text_en": "According to the abstract, Amina et al. (2019) state that <i>Krishnacapritermes</i> is a genus endemic to the Western Ghats of India, in which only two species, <i>Krishnacapritermes maitii</i> and <i>Krishnacapritermes thakuri</i>, were previously known; the study describes two new species, <i>Krishnacapritermes dineshan</i> and <i>Krishnacapritermes manikandan</i>, from the higher-elevation hill ranges of the Western Ghats in Kerala, raising the genus to four species and providing a dichotomous key to the four species and a distribution map.",
+            "text_es": "Según el resumen, Amina et al. (2019) señalan que <i>Krishnacapritermes</i> es un género endémico de los Ghats Occidentales de la India, en el que solo se conocían dos especies, <i>Krishnacapritermes maitii</i> y <i>Krishnacapritermes thakuri</i>; el estudio describe dos especies nuevas, <i>Krishnacapritermes dineshan</i> y <i>Krishnacapritermes manikandan</i>, procedentes de las sierras de mayor altitud de los Ghats Occidentales en Kerala, elevando el género a cuatro especies y aportando una clave dicotómica para las cuatro y un mapa de distribución."
+          },
+          {
+            "src": [
+              "S0323"
+            ],
+            "text": "同一研究基于细胞色素氧化酶 I（COI）基因，自多个地点为塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）与迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）生成 DNA 条形码并检验系统发育关系，同时给出迈蒂克里希纳扭白蚁（<i>Krishnacapritermes maitii</i>）与塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）的分布范围扩展数据，并讨论了兵蚁上唇透明侧突的巢内变异。研究还把近扭白蚁属（<i>Pericapritermes</i>）的旧组合 <i>Pericapritermes travancorensis</i> Mathew and Ipe 列为塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）的新异名（据摘要）。",
+            "text_en": "The same study generated DNA barcodes based on the cytochrome oxidase I (COI) gene for <i>Krishnacapritermes thakuri</i> and <i>Krishnacapritermes dineshan</i> from multiple localities and tested their phylogenetic relationships, reported data on the extension of the distribution range of <i>Krishnacapritermes maitii</i> and <i>Krishnacapritermes thakuri</i>, and commented on intracolonial variability of the hyaline lateral points of the labrum in the soldier caste. The study also treats <i>Pericapritermes travancorensis</i> Mathew and Ipe, a former combination in <i>Pericapritermes</i>, as a new junior synonym of <i>Krishnacapritermes thakuri</i> (according to the abstract).",
+            "text_es": "El mismo estudio generó códigos de barras de ADN basados en el gen de la citocromo oxidasa I (COI) para <i>Krishnacapritermes thakuri</i> y <i>Krishnacapritermes dineshan</i> de varias localidades y comprobó sus relaciones filogenéticas, aportó datos sobre la ampliación del área de distribución de <i>Krishnacapritermes maitii</i> y <i>Krishnacapritermes thakuri</i>, y comentó la variabilidad intracolonial de las puntas laterales hialinas del labro en la casta de soldados. El estudio trata además <i>Pericapritermes travancorensis</i> Mathew and Ipe, combinación antigua en <i>Pericapritermes</i>, como nuevo sinónimo posterior de <i>Krishnacapritermes thakuri</i> (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0323",
+        "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+        "url": "https://doi.org/10.1080/00305316.2019.1683091"
+      }
+    ]
+  },
+  "/species/krishnacapritermes-dineshan/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新种与 COI 条形码",
+        "heading_en": "A new species and its COI barcodes",
+        "heading_es": "Una especie nueva y sus códigos de barras COI",
+        "paragraphs": [
+          {
+            "src": [
+              "S0323"
+            ],
+            "text": "据摘要，Amina 等（2019）自喀拉拉邦西高止山的高海拔山岭描述迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）为新种，并为该种自多个地点生成基于细胞色素氧化酶 I（COI）基因的 DNA 条形码，用于检验其与同属种的系统发育关系；该种被纳入克里希纳扭白蚁属（<i>Krishnacapritermes</i>）4 种的二歧检索表与分布图。",
+            "text_en": "According to the abstract, Amina et al. (2019) describe <i>Krishnacapritermes dineshan</i> as a new species from the higher-elevation hill ranges of the Western Ghats in Kerala and generated DNA barcodes based on the cytochrome oxidase I (COI) gene for the species from multiple localities, in order to test its phylogenetic relationships with congeners; the species is included in the dichotomous key to the four species of <i>Krishnacapritermes</i> and in the distribution map.",
+            "text_es": "Según el resumen, Amina et al. (2019) describen <i>Krishnacapritermes dineshan</i> como especie nueva de las sierras de mayor altitud de los Ghats Occidentales en Kerala y generaron códigos de barras de ADN basados en el gen de la citocromo oxidasa I (COI) para la especie en varias localidades, con el fin de comprobar sus relaciones filogenéticas con sus congéneres; la especie se incluye en la clave dicotómica de las cuatro especies de <i>Krishnacapritermes</i> y en el mapa de distribución."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0323",
+        "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+        "url": "https://doi.org/10.1080/00305316.2019.1683091"
+      }
+    ]
+  },
+  "/species/krishnacapritermes-manikandan/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新种与属内检索",
+        "heading_en": "A new species and the generic key",
+        "heading_es": "Una especie nueva y la clave del género",
+        "paragraphs": [
+          {
+            "src": [
+              "S0323"
+            ],
+            "text": "据摘要，克里希纳扭白蚁属（<i>Krishnacapritermes</i>）的种数因 Amina 等（2019）描述马尼坎丹克里希纳扭白蚁（<i>Krishnacapritermes manikandan</i>）而增至 4 种；该新种与同文描述的迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）一样采自喀拉拉邦西高止山的高海拔山岭，并被纳入 4 种的二歧检索表与分布图。",
+            "text_en": "According to the abstract, Amina et al. (2019) raise <i>Krishnacapritermes</i> to four species by describing <i>Krishnacapritermes manikandan</i>; like <i>Krishnacapritermes dineshan</i>, described in the same paper, the new species comes from the higher-elevation hill ranges of the Western Ghats in Kerala, and it is included in the dichotomous key to the four species and in the distribution map.",
+            "text_es": "Según el resumen, Amina et al. (2019) elevan <i>Krishnacapritermes</i> a cuatro especies al describir <i>Krishnacapritermes manikandan</i>; al igual que <i>Krishnacapritermes dineshan</i>, descrita en el mismo trabajo, la especie nueva procede de las sierras de mayor altitud de los Ghats Occidentales en Kerala, y se incluye en la clave dicotómica de las cuatro especies y en el mapa de distribución."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0323",
+        "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+        "url": "https://doi.org/10.1080/00305316.2019.1683091"
+      }
+    ]
+  },
+  "/species/krishnacapritermes-thakuri/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新异名与分布扩展",
+        "heading_en": "A new synonym and an extended range",
+        "heading_es": "Un sinónimo nuevo y un área ampliada",
+        "paragraphs": [
+          {
+            "src": [
+              "S0323"
+            ],
+            "text": "据摘要，Amina 等（2019）把近扭白蚁属（<i>Pericapritermes</i>）的旧组合 <i>Pericapritermes travancorensis</i> Mathew and Ipe 列为塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）的新异名；该研究另自多个地点为该种生成基于细胞色素氧化酶 I（COI）基因的 DNA 条形码，并给出其分布范围扩展的数据。",
+            "text_en": "According to the abstract, Amina et al. (2019) treat <i>Pericapritermes travancorensis</i> Mathew and Ipe, a former combination in <i>Pericapritermes</i>, as a new junior synonym of <i>Krishnacapritermes thakuri</i>; the study also generated DNA barcodes based on the cytochrome oxidase I (COI) gene for the species from multiple localities and reported data extending its known distribution range.",
+            "text_es": "Según el resumen, Amina et al. (2019) consideran <i>Pericapritermes travancorensis</i> Mathew and Ipe, combinación antigua en <i>Pericapritermes</i>, un nuevo sinónimo posterior de <i>Krishnacapritermes thakuri</i>; el estudio generó además códigos de barras de ADN basados en el gen de la citocromo oxidasa I (COI) para la especie en varias localidades y aportó datos que amplían su área de distribución conocida."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0323",
+        "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+        "url": "https://doi.org/10.1080/00305316.2019.1683091"
+      }
+    ]
+  },
+  "/genus/marginitermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "澳大利亚的间断分布",
+        "heading_en": "A disjunct distribution in Australia",
+        "heading_es": "Una distribución disyunta en Australia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0326"
+            ],
+            "text": "根据 Scheffrahn 与 Postle（2013）研究，边白蚁属（<i>Marginitermes</i>）此前仅知哈伯德边白蚁（<i>Marginitermes hubbardi</i>）与食刺边白蚁（<i>Marginitermes cactiphagus</i>）2 种，分别分布于新北区西南部与中美洲；该研究据澳大利亚北部 Cape York 与 Cape Arnhem 的有翅成虫与兵蚁描述遥远边白蚁（<i>Marginitermes absitus</i>）为新种，使该属增至 3 种（据摘要）。",
+            "text_en": "According to Scheffrahn and Postle (2013), <i>Marginitermes</i> was previously known from only two species, <i>Marginitermes hubbardi</i> and <i>Marginitermes cactiphagus</i>, from the south-western Nearctic and Central America respectively; the study describes <i>Marginitermes absitus</i> as a new species from Cape York and Cape Arnhem in northern Australia, on the basis of the imago and soldier castes, raising the genus to three species (according to the abstract).",
+            "text_es": "Según Scheffrahn y Postle (2013), <i>Marginitermes</i> solo se conocía por dos especies, <i>Marginitermes hubbardi</i> y <i>Marginitermes cactiphagus</i>, del suroeste del Neártico y de América Central respectivamente; el estudio describe <i>Marginitermes absitus</i> como especie nueva de Cape York y Cape Arnhem, en el norte de Australia, a partir de las castas imago y soldado, elevando el género a tres especies (según el resumen)."
+          },
+          {
+            "src": [
+              "S0326"
+            ],
+            "text": "作者认为，遥远边白蚁（<i>Marginitermes absitus</i>）的地理分布及其隔离程度，是世界上任一白蚁属中最间断、最孤立的分布之一；依据化石记录与构造史，包括该种在内的澳大利亚木白蚁科（Kalotermitidae）是在第三纪经跨洋漂流到达澳洲大陆的（据摘要）。",
+            "text_en": "The authors consider the geographical range and isolation of <i>Marginitermes absitus</i> to represent one of the most disjunct and isolated distributions for any termite genus worldwide; based on fossil records and tectonic history, the Australian Kalotermitidae, including this species, arrived on the continent by transoceanic rafting during the Tertiary (according to the abstract).",
+            "text_es": "Los autores consideran que el área geográfica y el aislamiento de <i>Marginitermes absitus</i> representan una de las distribuciones más disyuntas y aisladas de cualquier género de termitas en el mundo; sobre la base del registro fósil y de la historia tectónica, los Kalotermitidae australianos, incluida esta especie, llegaron al continente por dispersión transoceánica durante el Terciario (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0326",
+        "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+        "url": "https://doi.org/10.1111/aen.12023"
+      }
+    ]
+  },
+  "/species/marginitermes-absitus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新种描述与体型比较",
+        "heading_en": "Description of the new species and body-size comparison",
+        "heading_es": "Descripción de la especie nueva y comparación de tamaño",
+        "paragraphs": [
+          {
+            "src": [
+              "S0326"
+            ],
+            "text": "根据 Scheffrahn 与 Postle（2013）研究，遥远边白蚁（<i>Marginitermes absitus</i>）以澳大利亚北部 Cape York 与 Cape Arnhem 的标本、据有翅成虫与兵蚁两个品级描述为新种；该种体型大于边白蚁属（<i>Marginitermes</i>）已知的两种同属种，即新北区西南部的哈伯德边白蚁（<i>Marginitermes hubbardi</i>）与中美洲的食刺边白蚁（<i>Marginitermes cactiphagus</i>）（据摘要）。",
+            "text_en": "According to Scheffrahn and Postle (2013), <i>Marginitermes absitus</i> is described as a new species from specimens collected at Cape York and Cape Arnhem in northern Australia, on the basis of the imago and soldier castes; the species is larger than both previously known congeners, <i>Marginitermes hubbardi</i> from the south-western Nearctic and <i>Marginitermes cactiphagus</i> from Central America (according to the abstract).",
+            "text_es": "Según Scheffrahn y Postle (2013), <i>Marginitermes absitus</i> se describe como especie nueva a partir de ejemplares de Cape York y Cape Arnhem, en el norte de Australia, sobre la base de las castas imago y soldado; la especie es mayor que sus dos congéneres conocidos, <i>Marginitermes hubbardi</i> del suroeste del Neártico y <i>Marginitermes cactiphagus</i> de América Central (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0326",
+        "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+        "url": "https://doi.org/10.1111/aen.12023"
+      }
+    ]
+  },
+  "/species/marginitermes-hubbardi/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新北区西南部的同属种",
+        "heading_en": "A congener of the south-western Nearctic",
+        "heading_es": "Un congénere del suroeste del Neártico",
+        "paragraphs": [
+          {
+            "src": [
+              "S0326"
+            ],
+            "text": "根据 Scheffrahn 与 Postle（2013）研究，哈伯德边白蚁（<i>Marginitermes hubbardi</i>）的分布区为新北区西南部；作者在描述新种时指出，该种的体型小于遥远边白蚁（<i>Marginitermes absitus</i>）（据摘要）。",
+            "text_en": "According to Scheffrahn and Postle (2013), the range of <i>Marginitermes hubbardi</i> is the south-western Nearctic; in describing the new species the authors note that this species is smaller than <i>Marginitermes absitus</i> (according to the abstract).",
+            "text_es": "Según Scheffrahn y Postle (2013), el área de <i>Marginitermes hubbardi</i> es el suroeste del Neártico; al describir la especie nueva, los autores señalan que esta especie es menor que <i>Marginitermes absitus</i> (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0326",
+        "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+        "url": "https://doi.org/10.1111/aen.12023"
+      }
+    ]
+  },
+  "/species/marginitermes-cactiphagus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "中美洲的同属种",
+        "heading_en": "A congener from Central America",
+        "heading_es": "Un congénere de América Central",
+        "paragraphs": [
+          {
+            "src": [
+              "S0326"
+            ],
+            "text": "据摘要，Scheffrahn 与 Postle（2013）把食刺边白蚁（<i>Marginitermes cactiphagus</i>）的分布记为中美洲，并指出该种与近北区西南部的哈伯德边白蚁（<i>Marginitermes hubbardi</i>）在体型上都不及澳大利亚的遥远边白蚁（<i>Marginitermes absitus</i>）。",
+            "text_en": "According to the abstract, Scheffrahn and Postle (2013) record <i>Marginitermes cactiphagus</i> from Central America and note that this species, like <i>Marginitermes hubbardi</i> of the south-western Nearctic, is smaller than the Australian <i>Marginitermes absitus</i>.",
+            "text_es": "Según el resumen, Scheffrahn y Postle (2013) registran <i>Marginitermes cactiphagus</i> en América Central y señalan que esta especie, al igual que <i>Marginitermes hubbardi</i> del suroeste del Neártico, es menor que la australiana <i>Marginitermes absitus</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0326",
+        "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+        "url": "https://doi.org/10.1111/aen.12023"
+      }
+    ]
+  },
+  "/genus/angularitermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "兵蚁检索表与六个种",
+        "heading_en": "A soldier key and six species",
+        "heading_es": "Una clave de soldados y seis especies",
+        "paragraphs": [
+          {
+            "src": [
+              "S0327"
+            ],
+            "text": "根据 Carrijo 等（2011）研究，棱角白蚁属（<i>Angularitermes</i>）的兵蚁检索表涵盖此前描述的大唇棱角白蚁（<i>Angularitermes clypeatus</i>）、巨鼻棱角白蚁（<i>Angularitermes nasutissimus</i>）、俄瑞斯忒斯棱角白蚁（<i>Angularitermes orestes</i>）、松果棱角白蚁（<i>Angularitermes pinocchio</i>）与毛鼻棱角白蚁（<i>Angularitermes tiguassu</i>）5 种，以及该研究描述的锥鼻棱角白蚁（<i>Angularitermes coninasus</i>），共 6 种；检索表以兵蚁特征为依据，并附各兵蚁的图示（据摘要）。",
+            "text_en": "According to Carrijo et al. (2011), the soldier-based identification key for <i>Angularitermes</i> covers the five previously described species <i>Angularitermes clypeatus</i>, <i>Angularitermes nasutissimus</i>, <i>Angularitermes orestes</i>, <i>Angularitermes pinocchio</i> and <i>Angularitermes tiguassu</i>, together with <i>Angularitermes coninasus</i>, described in the same study: six species in all. The key is based on characters of the soldier caste and is accompanied by illustrations of the soldiers (according to the abstract).",
+            "text_es": "Según Carrijo et al. (2011), la clave de identificación basada en los soldados de <i>Angularitermes</i> abarca las cinco especies descritas previamente, <i>Angularitermes clypeatus</i>, <i>Angularitermes nasutissimus</i>, <i>Angularitermes orestes</i>, <i>Angularitermes pinocchio</i> y <i>Angularitermes tiguassu</i>, junto con <i>Angularitermes coninasus</i>, descrita en el mismo estudio: seis especies en total. La clave se basa en caracteres de la casta de soldados y se acompaña de ilustraciones de los soldados (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0327",
+        "citation": "Carrijo, T. F.; Rocha, M. M.; Cuezzo, C.; Cancello, E. M. 2011. Key to the soldiers of Angularitermes Emerson with a new species from Brazilian Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 2967.",
+        "url": "https://doi.org/10.11646/zootaxa.2967.1.6"
+      }
+    ]
+  },
+  "/species/angularitermes-coninasus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新种与额管形态",
+        "heading_en": "The new species and the shape of the frontal tube",
+        "heading_es": "La especie nueva y la forma del tubo frontal",
+        "paragraphs": [
+          {
+            "src": [
+              "S0327"
+            ],
+            "text": "根据 Carrijo 等（2011）研究，锥鼻棱角白蚁（<i>Angularitermes coninasus</i>）据兵蚁与工蚁描述为新种，标本采自巴西亚马孙雨林的地上巢；其兵蚁以短的锥形额管、且基部宽得多这一特征区别于棱角白蚁属（<i>Angularitermes</i>）其他各种（据摘要）。",
+            "text_en": "According to Carrijo et al. (2011), <i>Angularitermes coninasus</i> is described as a new species from the soldier and worker castes, with samples collected from epigeal nests in the Brazilian Amazon rainforest; its soldier is distinguished from those of the other species of <i>Angularitermes</i> by a short conical frontal tube that is much wider at its base (according to the abstract).",
+            "text_es": "Según Carrijo et al. (2011), <i>Angularitermes coninasus</i> se describe como especie nueva a partir de las castas de soldado y obrera, con muestras recolectadas en nidos epigeos de la selva amazónica brasileña; su soldado se distingue del de las demás especies de <i>Angularitermes</i> por un tubo frontal cónico y corto, mucho más ancho en su base (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0327",
+        "citation": "Carrijo, T. F.; Rocha, M. M.; Cuezzo, C.; Cancello, E. M. 2011. Key to the soldiers of Angularitermes Emerson with a new species from Brazilian Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 2967.",
+        "url": "https://doi.org/10.11646/zootaxa.2967.1.6"
+      }
+    ]
+  },
+  "/genus/emersonitermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "据印度采集建立的新属",
+        "heading_en": "A new genus based on an Indian collection",
+        "heading_es": "Un género nuevo basado en una colección india",
+        "paragraphs": [
+          {
+            "src": [
+              "S0328"
+            ],
+            "text": "根据 Mathur 与 Sen-Sarma（1960）研究，埃默森白蚁属（<i>Emersonitermes</i>）作为新属建立，模式种为卡迪埃默森白蚁（<i>Emersonitermes thekadensis</i>），同时描述为新种。该属与另一新种黑鼻三脉白蚁（<i>Trinervitermes nigrirostris</i>）均据 Günther Becker 1956 年在印度采集的标本描述；这批采集中已定名约 20 种，其中 1 属 2 种为新种，而 <i>Nasutitermes beckeri</i> 由 Prashad 与 Sen-Sarma 另文描述（据摘要）。",
+            "text_en": "According to Mathur and Sen-Sarma (1960), <i>Emersonitermes</i> was established as a new genus with <i>Emersonitermes thekadensis</i> as type species, described at the same time as a new species. Both this genus and the other new species, <i>Trinervitermes nigrirostris</i>, are based on material collected by Günther Becker in India in 1956; some 20 species were determined from that collection, of which one genus and two species were new to science, while <i>Nasutitermes beckeri</i> was described elsewhere by Prashad and Sen-Sarma (according to the abstract).",
+            "text_es": "Según Mathur y Sen-Sarma (1960), <i>Emersonitermes</i> se estableció como género nuevo con <i>Emersonitermes thekadensis</i> como especie tipo, descrita al mismo tiempo como especie nueva. Tanto este género como la otra especie nueva, <i>Trinervitermes nigrirostris</i>, se basan en material recolectado por Günther Becker en la India en 1956; de esa colección se determinaron unas 20 especies, de las cuales un género y dos especies eran nuevos para la ciencia, mientras que <i>Nasutitermes beckeri</i> fue descrita en otro trabajo por Prashad y Sen-Sarma (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0328",
+        "citation": "Mathur, R. N.; Sen-Sarma, P. K. 1960. Two new termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta: Isoptera). Zeitschrift für Angewandte Entomologie.",
+        "url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x"
+      }
+    ]
+  },
+  "/species/emersonitermes-thekadensis/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "模式种与描述",
+        "heading_en": "The type species and its description",
+        "heading_es": "La especie tipo y su descripción",
+        "paragraphs": [
+          {
+            "src": [
+              "S0328"
+            ],
+            "text": "根据 Mathur 与 Sen-Sarma（1960）研究，卡迪埃默森白蚁（<i>Emersonitermes thekadensis</i>）既是埃默森白蚁属（<i>Emersonitermes</i>）的模式种，也是该属建立时描述的唯一新种；标本来自 Günther Becker 1956 年印度之行所采的一批约 20 种白蚁，描述附插图（据摘要）。",
+            "text_en": "According to Mathur and Sen-Sarma (1960), <i>Emersonitermes thekadensis</i> is both the type species of <i>Emersonitermes</i> and the only new species described when the genus was established; the material came from a collection of some 20 termite species made by Günther Becker during his stay in India in 1956, and the description is illustrated (according to the abstract).",
+            "text_es": "Según Mathur y Sen-Sarma (1960), <i>Emersonitermes thekadensis</i> es a la vez la especie tipo de <i>Emersonitermes</i> y la única especie nueva descrita al establecer el género; el material procede de una colección de unas 20 especies de termitas reunida por Günther Becker durante su estancia en la India en 1956, y la descripción está ilustrada (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0328",
+        "citation": "Mathur, R. N.; Sen-Sarma, P. K. 1960. Two new termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta: Isoptera). Zeitschrift für Angewandte Entomologie.",
+        "url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x"
+      }
+    ]
+  },
+  "/species/trinervitermes-nigrirostris/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "印度新种",
+        "heading_en": "A new species from India",
+        "heading_es": "Una especie nueva de la India",
+        "paragraphs": [
+          {
+            "src": [
+              "S0328"
+            ],
+            "text": "根据 Mathur 与 Sen-Sarma（1960）研究，黑鼻三脉白蚁（<i>Trinervitermes nigrirostris</i>）据 Günther Becker 1956 年在印度采集的标本描述为新种，描述附插图；同一批材料中还建立了埃默森白蚁属（<i>Emersonitermes</i>）与卡迪埃默森白蚁（<i>Emersonitermes thekadensis</i>），而 <i>Nasutitermes beckeri</i> 由 Prashad 与 Sen-Sarma 另文描述（据摘要）。",
+            "text_en": "According to Mathur and Sen-Sarma (1960), <i>Trinervitermes nigrirostris</i> is described as a new species from material collected by Günther Becker in India in 1956, and the description is illustrated; the same collection also yielded the new genus <i>Emersonitermes</i> and <i>Emersonitermes thekadensis</i>, while <i>Nasutitermes beckeri</i> was described elsewhere by Prashad and Sen-Sarma (according to the abstract).",
+            "text_es": "Según Mathur y Sen-Sarma (1960), <i>Trinervitermes nigrirostris</i> se describe como especie nueva a partir de material recolectado por Günther Becker en la India en 1956, y la descripción está ilustrada; de la misma colección proceden también el género nuevo <i>Emersonitermes</i> y <i>Emersonitermes thekadensis</i>, mientras que <i>Nasutitermes beckeri</i> fue descrita en otro trabajo por Prashad y Sen-Sarma (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0328",
+        "citation": "Mathur, R. N.; Sen-Sarma, P. K. 1960. Two new termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta: Isoptera). Zeitschrift für Angewandte Entomologie.",
+        "url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x"
+      }
+    ]
+  },
+  "/species/protocapritermes-odontomachus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "自白蚁属移入始扭白蚁属",
+        "heading_en": "Transferred from Termes to Protocapritermes",
+        "heading_es": "Transferida de Termes a Protocapritermes",
+        "paragraphs": [
+          {
+            "src": [
+              "S0329"
+            ],
+            "text": "根据 Bourguignon 等（2008）研究，齿颚始扭白蚁（<i>Protocapritermes odontomachus</i>）此前置于白蚁属（<i>Termes</i>），写作 <i>Termes odontomachus</i>，是该研究修订时新几内亚已知的 3 种具弹颚兵蚁种类之一；该研究把该种移入始扭白蚁属（<i>Protocapritermes</i>），并给出鉴别特征与插图（据摘要）。",
+            "text_en": "According to Bourguignon et al. (2008), <i>Protocapritermes odontomachus</i> had been placed in <i>Termes</i> as <i>Termes odontomachus</i> and was one of the three snapping-soldier species known from New Guinea at the time of the revision; the study reassigns the species to <i>Protocapritermes</i> and provides diagnostic characters and illustrations (according to the abstract).",
+            "text_es": "Según Bourguignon et al. (2008), <i>Protocapritermes odontomachus</i> había sido situada en <i>Termes</i> como <i>Termes odontomachus</i> y era una de las tres especies con soldados que chasquean conocidas de Nueva Guinea en el momento de la revisión; el estudio reasigna la especie a <i>Protocapritermes</i> y aporta caracteres diagnósticos e ilustraciones (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0329",
+        "citation": "Bourguignon, T.; Leponce, M.; Roisin, Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769.",
+        "url": "https://doi.org/10.11646/zootaxa.1769.1.1"
+      }
+    ]
+  },
+  "/genus/kaudernitermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "马达加斯加的单型新属",
+        "heading_en": "A monotypic new genus from Madagascar",
+        "heading_es": "Un género nuevo monotípico de Madagascar",
+        "paragraphs": [
+          {
+            "src": [
+              "S0335"
+            ],
+            "text": "根据 Sands 与 Lamb（1975）研究，考登白蚁属（<i>Kaudernitermes</i>）作为单型新属建立，用于收纳马达加斯加的考登考登白蚁（<i>Kaudernitermes kaudernianus</i>），该种属象白蚁亚科（Nasutitermitinae）中头部收缩的一群；该属与埃塞俄比亚区的薄喙白蚁属（<i>Leptomyxotermes</i>）和富勒白蚁属（<i>Fulleritermes</i>），以及印度—马来区的瓢白蚁属（<i>Bulbitermes</i>）关系最近，研究给出属征（据摘要）。",
+            "text_en": "According to Sands and Lamb (1975), <i>Kaudernitermes</i> was established as a new monotypic genus to receive the Malagasy <i>Kaudernitermes kaudernianus</i>, a species of the constricted-headed group of Nasutitermitinae; the genus is most closely related to <i>Leptomyxotermes</i> and <i>Fulleritermes</i> of the Ethiopian fauna and to <i>Bulbitermes</i> of the Indomalayan Region, and the study diagnoses it (according to the abstract).",
+            "text_es": "Según Sands y Lamb (1975), <i>Kaudernitermes</i> se estableció como género nuevo monotípico para acoger a la especie malgache <i>Kaudernitermes kaudernianus</i>, perteneciente al grupo de cabeza constreñida de los Nasutitermitinae; el género está más estrechamente emparentado con <i>Leptomyxotermes</i> y <i>Fulleritermes</i> de la fauna etiópica y con <i>Bulbitermes</i> de la región indomalaya, y el estudio lo diagnostica (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0335",
+        "citation": "Sands, W. A.; Lamb, R. W. 1975. The systematic position of Kaudernitermes gen. n. (Isoptera: Termitidae, Nasutitermitinae) and its relevance to host relationships of termitophilous staphylinid beetles. Journal of Entomology, Series B: Taxonomy.",
+        "url": "https://doi.org/10.1111/j.1365-3113.1975.tb00013.x"
+      }
+    ]
+  },
+  "/species/kaudernitermes-kaudernianus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "新组合与选模",
+        "heading_en": "The new combination and the lectotype",
+        "heading_es": "La combinación nueva y el lectotipo",
+        "paragraphs": [
+          {
+            "src": [
+              "S0335"
+            ],
+            "text": "根据 Sands 与 Lamb（1975）研究，考登考登白蚁（<i>Kaudernitermes kaudernianus</i>）原置于象白蚁属（<i>Nasutitermes</i>），写作 <i>Nasutitermes kaudernianus</i>；该研究将其移入新建立的考登白蚁属（<i>Kaudernitermes</i>），并为该种指定选模。与之共生的隐翅虫 <i>Spirachthodes madecassus</i> 的重新测量，以及多种象白蚁亚科（Nasutitermitinae）幼期的重新测量，被用于比较拟态甲虫与其模型（据摘要）。",
+            "text_en": "According to Sands and Lamb (1975), <i>Kaudernitermes kaudernianus</i> had been placed in <i>Nasutitermes</i> as <i>Nasutitermes kaudernianus</i>; the study transfers it to the newly established <i>Kaudernitermes</i> and designates a lectotype for the species. New measurements of its associated staphylinid beetle <i>Spirachthodes madecassus</i>, and of the young stages of many Nasutitermitinae, were used to compare the supposed mimics with their models (according to the abstract).",
+            "text_es": "Según Sands y Lamb (1975), <i>Kaudernitermes kaudernianus</i> había sido situada en <i>Nasutitermes</i> como <i>Nasutitermes kaudernianus</i>; el estudio la transfiere al género recién establecido <i>Kaudernitermes</i> y designa un lectotipo para la especie. Nuevas mediciones del estafilínido asociado <i>Spirachthodes madecassus</i> y de las etapas juveniles de muchos Nasutitermitinae sirvieron para comparar a los supuestos míméticos con sus modelos (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0335",
+        "citation": "Sands, W. A.; Lamb, R. W. 1975. The systematic position of Kaudernitermes gen. n. (Isoptera: Termitidae, Nasutitermitinae) and its relevance to host relationships of termitophilous staphylinid beetles. Journal of Entomology, Series B: Taxonomy.",
+        "url": "https://doi.org/10.1111/j.1365-3113.1975.tb00013.x"
+      }
+    ]
+  },
+  "/genus/cavitermes/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "对称弹颚兵蚁的化学系统学",
+        "heading_en": "Chemical systematics of the symmetrical snappers",
+        "heading_es": "Sistemática química de los soldados que chasquean simétricamente",
+        "paragraphs": [
+          {
+            "src": [
+              "S0325"
+            ],
+            "text": "根据 Kyjaková 等（2016）研究，在肉瘤腔白蚁（<i>Cavitermes tuberosus</i>）的对称弹颚兵蚁中已发现具活性的额腺与独特的防御化学物；该研究另取 5 个新热带种，比较其额腺解剖与分泌物化学，并把结果映射到新构建的分子系统树上，显示所研全部种类的兵蚁都有功能性额腺，腺体一部分位于头部的额突内，系统树把所研类群分为两支，其防御化学物分别仅来自脂类合成途径，或还含异戊二烯途径的产物。研究还识别出一个与腔白蚁属（<i>Cavitermes</i>）近缘的对称弹颚兵蚁新属，该属在此前多项研究中被错误归类（据摘要）。",
+            "text_en": "According to Kyjaková et al. (2016), an active frontal gland and unique defensive chemicals had already been reported in the symmetrically snapping soldiers of <i>Cavitermes tuberosus</i>; the study examined five additional Neotropical species, comparing the anatomy of the frontal gland and the chemistry of its secretion and mapping the observations onto a newly constructed molecular phylogeny. The soldiers of all studied species possess a functional frontal gland, housed in part in the frontal projections of the head, and the phylogeny groups the studied taxa into two well-defined clades supported by fundamental differences in defensive chemicals, which arise either exclusively from the lipogenic pathway or also include products of the isoprenoid pathway. The results also identify a new genus of symmetrical snappers related to <i>Cavitermes</i> that was incorrectly classified in several previous studies (according to the abstract).",
+            "text_es": "Según Kyjaková et al. (2016), ya se había descrito una glándula frontal activa y sustancias defensivas peculiares en los soldados que chasquean simétricamente de <i>Cavitermes tuberosus</i>; el estudio examinó cinco especies neotropicales adicionales, comparando la anatomía de la glándula frontal y la química de su secreción y proyectando las observaciones sobre una filogenia molecular de nuevo construcción. Los soldados de todas las especies estudiadas poseen una glándula frontal funcional, alojada en parte en las proyecciones frontales de la cabeza, y la filogenia agrupa a los taxones estudiados en dos clados bien definidos, apoyados por diferencias fundamentales en las sustancias defensivas, que proceden exclusivamente de la vía lipogénica o incluyen además productos de la vía isoprenoide. Los resultados identifican también un género nuevo de soldados que chasquean simétricamente, emparentado con <i>Cavitermes</i>, que había sido clasificado erróneamente en varios estudios anteriores (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0325",
+        "citation": "Kyjaková, P.; Roy, V.; Jirošová, A.; Krasulová, J.; Dolejšová, K.; Křivánek, J.; Hadravová, R.; Rybáček, J.; Pohl, R.; Roisin, Y.; Sillam-Dussès, D.; Hanus, R. 2016. Chemical systematics of Neotropical termite genera with symmetrically snapping soldiers (Termitidae: Termitinae). Zoological Journal of the Linnean Society.",
+        "url": "https://doi.org/10.1111/zoj.12486"
+      }
+    ]
+  },
+  "/species/neotermes-castaneus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "消化道固氮菌与食粪行为",
+        "heading_en": "Gut diazotrophs and coprophagy",
+        "heading_es": "Diazótrofos intestinales y coprofagia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0330"
+            ],
+            "text": "据摘要，Golichenkov 等（2006）指出，栗色新白蚁（<i>Neotermes castaneus</i>）的正常生命活动需要消化道内暂驻的固氮细菌持续补充，这一补充通过食粪行为与反复利用富含粪便的基质实现；该研究首次证明，在不能再利用粪便的白蚁中，需氧与兼性厌氧固氮菌复合体会因微生物类群组成的扩展与优势类群的更替而发生显著变化。",
+            "text_en": "According to the abstract, Golichenkov et al. (2006) state that the normal vital activity of <i>Neotermes castaneus</i> requires the presence and continuous replenishment of transient nitrogen-fixing bacteria in the digestive tract, achieved through coprophagy and the repeated use of substrate enriched with termite faeces; the study provides the first demonstration of significant changes in the complex of aerobic and facultatively anaerobic nitrogen fixers, mediated by an extension of microbial group composition and a shift in dominant taxa, in termites that cannot reutilise their faeces.",
+            "text_es": "Según el resumen, Golichenkov et al. (2006) señalan que la actividad vital normal de <i>Neotermes castaneus</i> requiere la presencia y la reposición continua de bacterias fijadoras de nitrógeno transitorias en el tubo digestivo, lo que se logra mediante la coprofagia y la utilización repetida de sustrato enriquecido con heces de termitas; el estudio demuestra por primera vez cambios significativos en el complejo de fijadores aerobios y anaerobios facultativos, mediados por una ampliación de la composición de grupos microbianos y un cambio de los taxones dominantes, en termitas que no pueden reutilizar sus heces."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0330",
+        "citation": "Golichenkov, M. V.; Kostina, N. V.; Ul'yanova, T. A.; Kuznetsova, T. A.; Umarov, M. M. 2006. Diazotrophs in the digestive tract of termite Neotermes castaneus. Biology Bulletin.",
+        "url": "https://doi.org/10.1134/s106235900605013x"
+      }
+    ]
+  },
+  "/species/embiratermes-festivellus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "实验室亚群体中的补充生殖蚁",
+        "heading_en": "Replacement reproductives in a laboratory subcolony",
+        "heading_es": "Reproductores de reemplazo en una subcolonia de laboratorio",
+        "paragraphs": [
+          {
+            "src": [
+              "S0331"
+            ],
+            "text": "根据 Costa-Leonardo 等（1998）研究，喜庆生白蚁（<i>Embiratermes festivellus</i>）的一块巢体（含 3 龄若虫、兵蚁与工蚁）在实验室条件下保存 12 个月后，整个实验亚群体含 2 头具色素的 nymphoid 雌性、2 头具色素的 nymphoid 雄性、仅 1 头幼虫、7 头同龄若虫、148 头工蚁、5 头兵蚁与大量卵；这些雌性在产卵，但一年后仍未像自然界群体中的同种 nymphoid 那样成为 physogastric 个体。作者认为该种具有产生 nymphoid 补充生殖蚁的能力（据摘要）。",
+            "text_en": "According to Costa-Leonardo et al. (1998), a piece of a nest of <i>Embiratermes festivellus</i> containing third-instar nymphs, soldiers and workers was kept under laboratory conditions; after 12 months the whole experimental subcolony contained two pigmented nymphoid females, two pigmented nymphoid males, only one larva, seven nymphs of the same instar, 148 workers, five soldiers and many eggs. The females were laying eggs but were not physogastric after a year, unlike some nymphoids of the same species collected from natural colonies. The authors conclude that the species is capable of producing nymphoid neotenics (according to the abstract).",
+            "text_es": "Según Costa-Leonardo et al. (1998), un fragmento de nido de <i>Embiratermes festivellus</i> con ninfas de tercer estadio, soldados y obreras se mantuvo en condiciones de laboratorio; tras 12 meses, toda la subcolonia experimental contenía dos hembras ninfoides pigmentadas, dos machos ninfoides pigmentados, una sola larva, siete ninfas del mismo estadio, 148 obreras, cinco soldados y muchos huevos. Las hembras estaban poniendo huevos pero no eran fisogástricas al año, a diferencia de algunas ninfoides de la misma especie recogidas en colonias naturales. Los autores concluyen que la especie es capaz de producir neoténicos ninfoides (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0331",
+        "citation": "Costa-Leonardo, A. M.; Soares, H. X.; Barsotti, R. C. 1998. Response to orphaning in two Neotropical termites: Armitermes euamignathus and Embiratermes festivellus. Entomologia Experimentalis et Applicata.",
+        "url": "https://doi.org/10.1046/j.1570-7458.1998.00352.x"
+      }
+    ]
+  },
+  "/species/kalotermes-aemulus/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "西澳新种与巢群结构",
+        "heading_en": "A new species from Western Australia and its colony structure",
+        "heading_es": "Una especie nueva de Australia Occidental y la estructura de sus colonias",
+        "paragraphs": [
+          {
+            "src": [
+              "S0334"
+            ],
+            "text": "根据 Sewell 与 Gay（1978）研究，竞争木白蚁（<i>Kalotermes aemulus</i>）据西澳大利亚标本描述为新种，是该属在西澳的第二个种；两种兵蚁的体型变异都很大、不能用于区分，但比例显示颚形有明确鉴别差异，竞争木白蚁（<i>Kalotermes aemulus</i>）的端齿短于希尔木白蚁（<i>Kalotermes hilli</i>）。该种分布比希尔木白蚁（<i>Kalotermes hilli</i>）更广，伸入西南部更热更干的地区；巢群规模中位数约 430 头，兵蚁平均占 9.3%（据摘要）。",
+            "text_en": "According to Sewell and Gay (1978), <i>Kalotermes aemulus</i> is described as a new species from Western Australia and is the second species of the genus in that state; the size of the soldier is highly variable in both species and provides no clear discrimination, but ratios indicate distinct diagnostic differences in mandible shape, the apical tooth of <i>Kalotermes aemulus</i> being shorter than that of <i>Kalotermes hilli</i>. The species has a wider distribution than <i>Kalotermes hilli</i> and extends into the hotter, drier areas of the south-west; the median colony size is about 430 individuals and soldiers make up 9.3 per cent on average (according to the abstract).",
+            "text_es": "Según Sewell y Gay (1978), <i>Kalotermes aemulus</i> se describe como especie nueva de Australia Occidental y es la segunda especie del género en ese estado; el tamaño del soldado es muy variable en ambas especies y no permite discriminarlas, pero las proporciones indican diferencias diagnósticas claras en la forma de la mandíbula, con el diente apical de <i>Kalotermes aemulus</i> más corto que el de <i>Kalotermes hilli</i>. La especie tiene una distribución más amplia que <i>Kalotermes hilli</i> y penetra en las zonas más cálidas y secas del suroeste; el tamaño mediano de las colonias es de unos 430 individuos y los soldados representan el 9.3 por ciento en promedio (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0334",
+        "citation": "Sewell, J. J.; Gay, F. J. 1978. The genus Kalotermes Hagen in Western Australia (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+        "url": "https://doi.org/10.1111/j.1440-6055.1978.tb01743.x"
+      }
+    ]
+  },
+  "/species/kalotermes-hilli/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "西澳特有种的重新描述",
+        "heading_en": "Redescription of a Western Australian endemic",
+        "heading_es": "Redescripción de un endemismo de Australia Occidental",
+        "paragraphs": [
+          {
+            "src": [
+              "S0334"
+            ],
+            "text": "根据 Sewell 与 Gay（1978）研究，西澳特有的希尔木白蚁（<i>Kalotermes hilli</i>）被重新描述；该种与竞争木白蚁（<i>Kalotermes aemulus</i>）的兵蚁体型变异都很大、不能用于区分，但颚形比例有明确鉴别差异，希尔木白蚁（<i>Kalotermes hilli</i>）的端齿长于竞争木白蚁（<i>Kalotermes aemulus</i>）；其分布范围较竞争木白蚁（<i>Kalotermes aemulus</i>）窄，不及后者伸入西南部更热更干的地区（据摘要）。",
+            "text_en": "According to Sewell and Gay (1978), the Western Australian endemic <i>Kalotermes hilli</i> is redescribed; the size of the soldier is highly variable in both this species and <i>Kalotermes aemulus</i> and provides no clear discrimination, but ratios of mandible shape give distinct diagnostic differences, the apical tooth of <i>Kalotermes hilli</i> being longer than that of <i>Kalotermes aemulus</i>. Its range is narrower than that of <i>Kalotermes aemulus</i>, which extends further into the hotter, drier areas of the south-west (according to the abstract).",
+            "text_es": "Según Sewell y Gay (1978), se redescribe el endemismo de Australia Occidental <i>Kalotermes hilli</i>; el tamaño del soldado es muy variable tanto en esta especie como en <i>Kalotermes aemulus</i> y no permite discriminarlas, pero las proporciones de la forma de la mandíbula ofrecen diferencias diagnósticas claras, con el diente apical de <i>Kalotermes hilli</i> más largo que el de <i>Kalotermes aemulus</i>. Su área es más estrecha que la de <i>Kalotermes aemulus</i>, que penetra más en las zonas cálidas y secas del suroeste (según el resumen)."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0334",
+        "citation": "Sewell, J. J.; Gay, F. J. 1978. The genus Kalotermes Hagen in Western Australia (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+        "url": "https://doi.org/10.1111/j.1440-6055.1978.tb01743.x"
+      }
+    ]
+  },
+  "/species/coarctotermes-clepsydra/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "模式种与左颚颚齿",
+        "heading_en": "The type species and its left mandible",
+        "heading_es": "La especie tipo y su mandíbula izquierda",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）研究，漏壶缩狭白蚁（<i>Coarctotermes clepsydra</i>）是缩狭白蚁属（<i>Coarctotermes</i>）的模式种，分布于马达加斯加。该作者以该种为例说明属级鉴别特征：有翅成虫与工蚁左颚的第 1、2 缘齿愈合，并与第 3 缘齿以一条均匀凹陷的切缘相连；富勒白蚁属（<i>Fulleritermes</i>）在同一位置为深裂，愈合的第 1、2 缘齿与显著的第 3 缘齿被分开，故左颚切缘的凹、裂之别可用于区分这两个形态相近的属。",
+            "text_en": "According to Coaton (1962), <i>Coarctotermes clepsydra</i> is the type species of <i>Coarctotermes</i> and occurs in Madagascar. The author uses this species to illustrate the generic character: in the imago and worker the first and second marginal teeth of the left mandible are fused and joined to the third marginal tooth by an evenly concave cutting margin, whereas in <i>Fulleritermes</i> a deep cleft at the same position separates the fused first and second marginal teeth from the prominent third, so the concave-versus-cleft condition of the left mandibular margin distinguishes the two morphologically similar genera.",
+            "text_es": "Según Coaton (1962), <i>Coarctotermes clepsydra</i> es la especie tipo de <i>Coarctotermes</i> y se distribuye por Madagascar. El autor utiliza esta especie para ilustrar el carácter genérico: en el imago y la obrera, el primer y el segundo diente marginal de la mandíbula izquierda están fusionados y unidos al tercer diente marginal por un margen cortante uniformemente cóncavo, mientras que en <i>Fulleritermes</i> una hendidura profunda en la misma posición separa los dientes primero y segundo fusionados del tercero, prominente; así, la condición cóncava frente a hendida del margen mandibular izquierdo distingue a los dos géneros morfológicamente semejantes."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/species/coarctotermes-beharaensis/": {
+    "updated": "2026-11-16",
+    "sections": [
+      {
+        "heading": "马达加斯加种",
+        "heading_en": "A Malagasy species",
+        "heading_es": "Una especie malgache",
+        "paragraphs": [
+          {
+            "src": [
+              "S0336"
+            ],
+            "text": "根据 Coaton（1962）核订，贝哈拉缩狭白蚁（<i>Coarctotermes beharaensis</i>）是缩狭白蚁属（<i>Coarctotermes</i>）4 个有效种之一，分布于马达加斯加；该种有翅成虫与工蚁左颚的颚齿状态与模式种漏壶缩狭白蚁（<i>Coarctotermes clepsydra</i>）一致，即第 1、2 缘齿愈合后以均匀凹陷的切缘接第 3 缘齿，作者以图版标出这一状态。",
+            "text_en": "According to Coaton's (1962) revision, <i>Coarctotermes beharaensis</i> is one of the four valid species of <i>Coarctotermes</i> and occurs in Madagascar; the dentition of the left mandible in its imago and worker agrees with that of the type species, <i>Coarctotermes clepsydra</i>, the fused first and second marginal teeth being joined to the third by an evenly concave cutting margin, a condition the author illustrates in a figure.",
+            "text_es": "Según la revisión de Coaton (1962), <i>Coarctotermes beharaensis</i> es una de las cuatro especies válidas de <i>Coarctotermes</i> y se distribuye por Madagascar; la dentición de la mandíbula izquierda en su imago y su obrera coincide con la de la especie tipo, <i>Coarctotermes clepsydra</i>, pues los dientes marginales primero y segundo, fusionados, se unen al tercero por un margen cortante uniformemente cóncavo, condición que el autor ilustra en una figura."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0336",
+        "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+        "url": "https://doi.org/10.4102/koedoe.v5i1.842"
       }
     ]
   }

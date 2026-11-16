@@ -3,7 +3,7 @@
     "version": 1,
     "count": 453,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-16T20:05:09+08:00",
+    "updated": "2026-11-16T22:02:28+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -19094,8 +19094,16 @@
       "publisher": "Oriental Insects",
       "lang": "en",
       "doi": "10.1080/00305316.2019.1683091",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Krishnacapritermes Chhotani (Isoptera: Termitidae) is one of the endemic termite genera from the Western Ghats of India. Under the genus, only two species Krishnacapritermes maitii Chhotani and Krishnacapritermes thakuri Chhotani were known earlier. The present study describes two new species, Krishnacapritermes dineshan Amina and Rajmohana sp. nov. and Krishnacapritermes manikandan Amina and Rajmohana sp. nov. from the higher elevation hill ranges of Western Ghats part of Kerala. DNA barcodes based on cytochrome oxidase I genes were generated for K. thakuri and K. dineshan from multiple locations and tested for phylogenetic relationships. The paper provides a dichotomous key for the four species of Krishnacapritermes and a species distribution map, along with data on the extension of distribution range for K. maitii and K. thakuri. Comments on intracolonial variability of the hyaline lateral points or processes of the labrum in soldier caste are included. Pericapritermes travancorensis Mathew and Ipe syn. nov. is treated as a junior synonym of K. thakuri.http://www.zoobank.org/urn:lsid:zoobank.org:pub:E2F050B5-2F85-415A-A446-4DC7FCDA1068",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：Krishnacapritermes 属 4 种的检索表、两种新种（K. dineshan、K. manikandan）、COI 条形码与分布区扩展、Pericapritermes travancorensis 作 K. thakuri 异名；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0323",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19138,8 +19146,21 @@
       "publisher": "Sociobiology",
       "lang": "en",
       "doi": "10.13102/sociobiology.v65i1.1780",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Constrictotermes sp. nests are frequently inhabited by colonies of Inquilinitermes microcerus. In this association, I. microcerus colonies usually establish their colonies spatially isolated from Constrictotermes colonies. Here, we investigated whether the apparent spatial isolation of I. microcerus colonies in Constrictotermes nests should be related to their needs (e.g. feeding) in relation to the central part of the nest or to a possible stress provoked by the presence of the host. For this, survival and walking behavior bioassays were performed to test the hypothesis that the survivorship of inquilines is: (i) reduced in the presence of host, mainly of those from different nests, (ii) increased in contact with inner walls compared with external walls; and that the distance walked and walking velocity of inquiline is: (iii) increased in the presence of the host and (iv) reduced in contact with the internal walls compared with external walls of host nest.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：客白蚁（Inquilinitermes microcerus）在缩白蚁（Constrictotermes）巢中的回避行为与接触存活差异；仅有摘要，未读全文（摘要第 1/2 段）"
+        },
+        {
+          "quote": "The mean time to death of inquiline workers is lower in contact with host (independently from the same or different nest) compared with control and the mean time to death of inquiline workers is lower in contact with external walls of host nest compared with control group and the inner walls. The distance walked and walking velocity of inquiline workers in contact with their hosts (from the same or different nest) did not differ from control, however, these parameters were reduced when workers were in contact with inner and external walls compared with control. In general, our results showed that I. microcerus adopt behavioral strategies to avoid perception by its host.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：客白蚁（Inquilinitermes microcerus）在缩白蚁（Constrictotermes）巢中的回避行为与接触存活差异；仅有摘要，未读全文（摘要第 2/2 段）"
+        }
+      ],
       "id": "S0324",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19188,8 +19209,21 @@
       "publisher": "Zoological Journal of the Linnean Society",
       "lang": "en",
       "doi": "10.1111/zoj.12486",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Termite soldiers often combine mechanical adaptations with defensive chemicals secreted from the frontal gland. Amongst the most remarkable strategies for mechanical defence, symmetrical and asymmetrical snapping mandibles evolved in several lineages of the diversified subfamily Termitinae (Termitidae). The contribution of the frontal chemical weapon to defence in snapping soldiers has long been doubted and the subfamily Termitinae overlooked with respect to soldier-produced chemicals. We recently reported an active frontal gland secreting unique defensive chemicals in the symmetrically snapping soldiers of Cavitermes tuberosus. The aim of the present study was a larger-scale comparison of chemical defence in symmetrically snapping soldiers. We studied the anatomy of the frontal gland and the chemistry of its secretion in five additional Neotropical species and mapped our observations on a de novo constructed molecular phylogeny of the target group.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：对称弹颚兵蚁 5 个新热带种的额腺解剖与分泌物化学、两大化学支系、Cavitermes 近缘新属；仅有摘要，未读全文（摘要第 1/2 段）"
+        },
+        {
+          "quote": "We show that the soldiers of all studied species possess a functional frontal gland, housed in part in the frontal projections on their heads. Phylogenetic reconstruction groups the studied taxa into two well-defined clades, supported by fundamental differences in defensive chemicals, either arising exclusively from the lipogenic pathway or containing also the products of the isoprenoid pathway. Our results also identify a new genus of symmetrical snappers, related to the genus Cavitermes, incorrectly classified in several previous studies.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：对称弹颚兵蚁 5 个新热带种的额腺解剖与分泌物化学、两大化学支系、Cavitermes 近缘新属；仅有摘要，未读全文（摘要第 2/2 段）"
+        }
+      ],
       "id": "S0325",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19228,8 +19262,16 @@
       "publisher": "Australian Journal of Entomology",
       "lang": "en",
       "doi": "10.1111/aen.12023",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Marginitermes absitus n. sp., discovered at Cape York and Cape Arnhem in northern Australia, is described from the imago and soldier castes. This termite species is larger than both of the known congeners, M. hubbardi and M. cactiphagus, from the south-western Nearctic and Central America, respectively. The geographical range and isolation of M. absitus represents one of the most disjunct and isolated distributions for any termite genus worldwide. Based on fossil records and tectonic history, the Australian Kalotermitidae, including M. absitus, arrived on the continent by transoceanic rafting during the Tertiary.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：Marginitermes absitus 新种（昆士兰北部）、体型大于两种同属种、属级间断分布与第三纪越洋漂流；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0326",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19270,8 +19312,16 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.2967.1.6",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "An identification key based on characters of the soldier caste is provided for species of Angularitermes. Soldiers of previously described species in the genus, A. clypeatus, A. nasutissimus, A. orestes, A. pinocchio and A. tiguassu, are illustrated along with a new species, Angularitermes coninasus, n. sp., that is described and illustrated from soldier and worker castes. Samples of the new species were collected from epigeal nests at the Brazilian Amazon rainforest. The soldier of A. coninasus, n. sp. is distinguished from its congeners by having a short conical frontal tube, much wider at its base.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：Angularitermes 属兵蚁检索表、A. coninasus 新种与额管鉴别特征；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0327",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19310,8 +19360,16 @@
       "publisher": "Zeitschrift für Angewandte Entomologie",
       "lang": "de",
       "doi": "10.1111/j.1439-0418.1960.tb01178.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Summary This account is based on material collected by Prof. Dr. Günther Becker of the Bundesanstalt für Materialprüfung, Berlin-Dahlem, Germany, during his short period of stay in India (1956). His termite collection contains some 20 species, out of which one genus and two species are new to science. The descriptions of Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. are given with illustrations. Nasutitermes beckeri is described by Baini Prashad und P. K. Sen-Sarma and is published elsewhere. Zusammenfassung Dieser Beitrag beruht auf einer Termiten-Sammlung von Prof. Dr. Günther Becker, Bundesanstalt für Materialprüfung, Berlin-Dahlem, Unter den Eichen 87, während seines 3monatigen Aufenthaltes in Indien 1956. Von den bisher bestimmten 20 Arten, die seine Sammlung enthält, sind ein Genus und zwei weitere Arten neu für die Wissenschaft. Emersonitermes thekadensis und Trinervitermes nigrirostris sind mit Abbildungen beschrieben. - Die Beschreibung von Nasutitermes beckeri Prashad und Sen-Sarma wird an anderer Stelle veröffentlicht.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：Emersonitermes thekadensis 新属新种、Trinervitermes nigrirostris 新种、Becker 1956 年印度采集；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0328",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19351,8 +19409,16 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.1769.1.1",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Up to now, three described species of Termitinae with snapping soldier mandibles (the Termes–Capritermes group) were known from New Guinea: Termes odontomachus (Desneux), Macrognathotermes errator Miller and Pericapritermes schultzei (Holmgren). Here, we report the presence of seven additional species, among which three are new to science: Pericapritermes parvus, P. pilosus and P. papuanus. The other four, collected in southern Papuan savannas, were previously known from northern Australia: Ephelotermes paleatus Miller, E. cheeli (Mjöberg), Lophotermes aduncus Miller, and L. brevicephalus Miller. We reassign T. odontomachus to Protocapritermes Holmgren. Diagnostic characters andillustrations are provided for all species. The Oriental affinities of the forest fauna of New Guinea and the similarities between Australian and New Guinean savannas are emphasized.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：新几内亚弹颚兵蚁类群 3 已知种 + 7 新增种（含 3 新种）、T. odontomachus 移入 Protocapritermes；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0329",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19394,8 +19460,16 @@
       "publisher": "Biology Bulletin",
       "lang": "ru",
       "doi": "10.1134/s106235900605013x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Normal vital activity of termites Neotermes castaneus requires the presence and continuous replenishment of transient nitrogen-fixing bacteria in their digestive tract, which is realized by coprophagy and repeated utilization of substrate enriched in termite feces. This is the first demonstration of significant changes in the complex of aerobic and facultatively anaerobic nitrogen fixers mediated by an extension of microbial group composition and a shift in dominant taxa in termites that cannot reutilize their feces.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：栗色新白蚁（Neotermes castaneus）暂时性固氮菌与食粪补充机制；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0330",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19435,8 +19509,21 @@
       "publisher": "Entomologia Experimentalis et Applicata",
       "lang": "en",
       "doi": "10.1046/j.1570-7458.1998.00352.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "In this paper we examine the potential of the termites Armitermes euamignathus Silvestri: 1901 and Embiratermes festivellus (Silvestri, 1901) (Isoptera, Termitidae, Nasutitermitinae) to produce neotenics experimentally. Three nests of the mound‐building termite A. euamignathus, from the Brazilian cerrado, had their primary queens removed in August 1994. After 12 months, only one mound survived; it had a normal appearance. In this healthy, orphaned colony we found the primary king, six physogastric nymphoid female replacement reproductives, two ergatoid female replacement reproductives, 46 nymphs, several presoldiers, soldiers, workers, larvae and many eggs. These data show that neotenics in A. euamignathus may originate from both workers and nymphs, but nymphoids are produced in larger numbers. The biometric study of nymphs and nymphoids suggests that these brachypterous neotenics were derived from third instar nymphs after a single moult or from four instar nymphs after a reduction of wing bud length. A piece of an E.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：戟白蚁（Armitermes euamignathus）孤立巢群补充生殖型组成、喜庆生白蚁（Embiratermes festivellus）实验室补充生殖型；仅有摘要，未读全文（摘要第 1/2 段）"
+        },
+        {
+          "quote": "festivellus nest with some third instar nymphs, soldiers and workers was kept under laboratory conditions. After 12 months, the whole experimental subcolony was examined and appeared to contain two pigmented nymphoid females, two pigmented nymphoid males, only one larva, seven nymphs of the same instar, 148 workers, five soldiers and many eggs. These results also indicate the capacity of the termite E. festivellus to produce nymphoid neotenics. These neotenic females were laying eggs, but they were not physogastric after a year, unlike some nymphoids of the same species collected from natural colonies.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：戟白蚁（Armitermes euamignathus）孤立巢群补充生殖型组成、喜庆生白蚁（Embiratermes festivellus）实验室补充生殖型；仅有摘要，未读全文（摘要第 2/2 段）"
+        }
+      ],
       "id": "S0331",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19449,7 +19536,7 @@
       "chars": 81,
       "retrieved_via": "文库（text）",
       "accessed": "2026-11-10T15:15:45+08:00",
-      "notes": "全文存于 _unpublished/文库/10.5281-zenodo.16061602（81 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（80 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "notes": "全文存于 _unpublished/文库/10.5281-zenodo.16061602（81 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（80 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准；2026-11-16 阅读单元：全文库仅 81 字符（\"No abstract provided.\"），无可读内容，未用于正文。",
       "library": {
         "book": "10.5281-zenodo.16061602",
         "manifest": "_unpublished/文库/manifest.json",
@@ -19514,8 +19601,21 @@
       "publisher": "Zeitschrift für Angewandte Entomologie",
       "lang": "en",
       "doi": "10.1111/j.1439-0418.1985.tb02767.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The swarming imagoes ofB. beesonirepresent both the sexes in equal proportion. The phenomenon of parthenogenesis is of rare occurrence. Although pairing of a female with the opposite sex exhibited a strong influence on development of the ovarioles and consequently the egg‐laying, dealation was of the primary concern. The process of oogenesis appears to be an important need for the normal survival of the reproductives. The females which initiated oviposition earlier laid more eggs and survived longer as compared to the ones started later or those laid no eggs at all. To initiate egg‐laying the females ofB. beesoniprefer a higher relative humidity than for their normal survival. Zusammenfassung Geschlechterverhältnis, Parthenogenese, Ovarentwicklung und Eiablage‐Verhalten bei den primären Geschlechtstieren von Bifiditermes beesoni (Gard.) (Isoptera, Kalotermitidae) Die schwärmenden Adulten vonB. beesonibestehen aus beiden Geschlechtern in etwa gleichem Verhältnis. Parthenogenese tritt selten auf.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：比森双裂白蚁（Bifiditermes beesoni）婚飞性比、孤雌生殖罕见、脱翅与产卵、湿度需求；仅有摘要，未读全文（摘要第 1/2 段）"
+        },
+        {
+          "quote": "Obwohl die Paarung einen starken Einfluß nimmt, ist die Entwicklung der Ovariolen und damit die Eiablage vor allem vom Flügelabwurf abhängig. Der Prozeß der Oogenese scheint eine wichtige Voraussetzung für das normale Leben der reproduktiven Weibchen zu sein. Weibchen, die mit der Eiablage eher begannen, legten mehr Eier ab und lebten lïnger als die anderen. Eine frühere Eiablage findet vor allem bei höherer Luftfeuchtigkeit statt.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：比森双裂白蚁（Bifiditermes beesoni）婚飞性比、孤雌生殖罕见、脱翅与产卵、湿度需求；仅有摘要，未读全文（摘要第 2/2 段）"
+        }
+      ],
       "id": "S0333",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19554,8 +19654,16 @@
       "publisher": "Australian Journal of Entomology",
       "lang": "en",
       "doi": "10.1111/j.1440-6055.1978.tb01743.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A second species of Kalotermes is described from Western Australia, K. aemulus sp. n., and the endemic K. hilli Emerson is redescribed. Although size of the soldier is highly variable in both species and provides no clear discrimination, ratios indicate distinct diagnostic differences particularly in the shape of the mandible. Soldiers of K. aemulus have a shorter apical tooth than those of K. hilli. K. aemulus has a wider distribution than K. hilli and extends into the hotter, drier areas of the south‐west. The median colony size of K. aemulus is about 430 and the average proportion of soldiers 9.3 per cent.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：竞争木白蚁（Kalotermes aemulus）新种、希尔木白蚁（K. hilli）重描述、上颚形状鉴别、群体规模；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0334",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19594,8 +19702,16 @@
       "publisher": "Journal of Entomology Series B Taxonomy",
       "lang": "en",
       "doi": "10.1111/j.1365-3113.1975.tb00013.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The well‐known theory that termitophilous staphylinid beetles mimic their termite hosts has led to a reassessment of relationships between two termites, Fulleritermes contractus and Nasutitermes kaudernianus. The latter species was found to belong to a new monotypic genus, Kaudernitermes, of the constricted‐headed group of Nasutitermitinae. This Malagasy genus is most closely related to Leptomyxotermes and Fulleritermes of the Ethiopian fauna and Bulbitermes of the Indomalayan. It is diagnosed and a lectotype designated for Kaudernitermes kaudernianus comb.n. New measurements of its associated termitophile Spirachthodes madecassus and of the young stages of many Nasutitermitinae have led to more exact comparisons between supposed beetle mimics and their putative models among different instars of host species. These, with new observations of structural details, give rise to a theory that modes of mimicry and colony integration in the beetles may have followed diverging pathways.",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：Kaudernitermes 新属建立、与富勒白蚁属（Fulleritermes）等的亲缘、选模与客居甲虫；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0335",
       "fulltext_status": "abstract-no-oa"
     },
@@ -19635,8 +19751,31 @@
       "license": "cc-by",
       "doi": "10.4102/koedoe.v5i1.842",
       "url": "https://koedoe.co.za/index.php/koedoe/article/download/842/955",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The new genus Fulleritermes consists of species which have hitherto erroneously been placed in the hold-all genus Coarctotermes Hgrn. s. lat. The following valid named spev:ies, all of them confined to the Ethiopian Region, are now transferred from the genus Coarctotermes Hgrn. s. lat. to Fulleritermes gen. nov.:- F. contractus Sjdst., F. mallyi Full., F. tenebricus Silv., F. suffuscus Emers. and F. brunneus Noir. Fuller (1922) recorded F. contractus Sjdst. from the De Wildt sector of the Brits district and Warmbaths in the Warmbad district of the Transv",
+          "locator": "全文 OCR，§3(d) Fulleritermes 一节",
+          "note": "支撑：Fulleritermes 新属建立与 5 种转移、两属颚齿鉴别、Psammotermes allocerus 分布衔接、客居动物；OCR 讹误（如 Sjost./Sjdst./maginal）照录"
+        },
+        {
+          "quote": "In the left mandible of C. clepsydra Sjost., generitype of the genus Coarctotermes s. str. (vide Ahmad, 1950, fig. 9), the fused first plus second marginal tooth is not separated from the third maginal tooth by a notch, the two being joined by a more or less evenly concave cutting margin. This same pattern is present in C. beharaensis Cach. from the Malagasy Region (Fig. 12A) and C. coarctatus Sjost. from the Ethiopian Region (Fig. 128). In the left mandible of F. mallyi (Fig. 12C) and F. contractus (Fig. 12D), 153 on the other hand, there is a deep cleft separating the fused first plus second marginal tooth from a prominent third marginal tooth which has a long, backwardly-sloping anterior margin. 4. Termitophiles from the K.N.P. : While collecting",
+          "locator": "全文 OCR，两属颚齿鉴别段",
+          "note": "支撑：Fulleritermes 新属建立与 5 种转移、两属颚齿鉴别、Psammotermes allocerus 分布衔接、客居动物；OCR 讹误（如 Sjost./Sjdst./maginal）照录"
+        },
+        {
+          "quote": "This gap has now been partially bridged by (a) taking the species in the Sand- veld of the Limpopo basin near Vetfontein in the district Soutpansberg, as well as in the Sandveld of the Karoo System near Wambia in the Norihern K.N.P., lb) an accession gained from Callan, who collected it on Inhaka Island at Lourenco Marques, and (c) an accession gained from Grobler who took it in the Sandveld of the Ingwavuma district of Northern Zululand. It seems now quite clear that the main distribution area of P. allocerus in the arid West is linked with that in the humid East via the Sandveld of the Limpopo basin in the Nort",
+          "locator": "全文 OCR，Psammotermes allocerus 分布段",
+          "note": "支撑：Fulleritermes 新属建立与 5 种转移、两属颚齿鉴别、Psammotermes allocerus 分布衔接、客居动物"
+        },
+        {
+          "quote": "th-West of Shingwidzi, a unique thysanurid was taken from the foraging pocket of Hodotermes mossambicus Hag. This appeared to be closely related to Dinatelura afra Silv. and Dinatelura primitiva Silvestri, both taken from the nests of Micro- hodotermes viator Latr. In Namaqualand. The specimen was posted to Dr. P. Wygodzinsky, Buenos Aires, Argentina, for determination and proved to be a new genus and species of Nicoletiidae (Thysanura), the descriptions of which were published by Wygodzinsky (1961) under the name Ecnomo- telura coatoni gen. et sp. nov. 5. Acknowledgments : The author is deeply indebted to the following for assistance and co-operation freely given:— To Pr",
+          "locator": "全文 OCR，§4 Termitophiles 段",
+          "note": "支撑：Fulleritermes 新属建立与 5 种转移、两属颚齿鉴别、Psammotermes allocerus 分布衔接、客居动物"
+        }
+      ],
       "id": "S0336"
     },
     {
@@ -19673,8 +19812,16 @@
       "publisher": "Behaviour",
       "lang": "en",
       "doi": "10.1163/156853957x00083",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "THE NEST OF APICOTERMES TRÄGÅRDHI (ISOPTERA) NEW EVIDENCE ON THE EVOLUTION OF NEST-BUILDING by ROBERT S. SCHMIDT 1) (Illinois State Normal University, Normal) (With 4 Figures) (Rec. 26 - XII - 1956) INTRODUCTION The subterranean nests of Apicotermes, an r'lfrican genus of termites, provide unique material for the study of the evolution of behavior. These species-specific examples of \"frozen behavior\" tell much more about the phylogeny of the species than do the morphological characters of the termites building and inhabiting them. Although relatively little is known about this genus and collections have so far been rather meager, it has been",
+          "locator": "摘要（full.txt，abstract-no-oa）",
+          "note": "支撑：特雷高尖白蚁（Apicotermes tragardhi）巢作为行为演化材料（仅引言片段）；仅有摘要，未读全文"
+        }
+      ],
       "id": "S0337",
       "fulltext_status": "abstract-no-oa"
     },
