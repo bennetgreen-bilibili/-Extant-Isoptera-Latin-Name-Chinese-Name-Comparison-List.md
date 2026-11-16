@@ -64,12 +64,12 @@
       {%- assign meta_desc = meta_desc | append: '。隶属 ' | append: page.parent_zh | append: '（' | append: page.parent_latin | append: '）' -%}
     {%- endif -%}
     {%- assign meta_desc = meta_desc | append: '，模式产地 ' | append: page.type_locality -%}
-    {%- assign meta_desc = meta_desc | append: '。本站收录的现存等翅下目（白蚁）拉丁学名—中文正名对照名录：分类位置、模式产地、分布地图、同属物种、参考文献与 GB/T 7714、BibTeX、RIS 引用格式。' -%}
+    {%- assign meta_desc = meta_desc | append: '。白蚁名录（现生等翅下目）：分类位置、模式产地、分布地图、同属物种、参考文献与 GB/T 7714、BibTeX、RIS 引用格式。' -%}
   {%- endif -%}
   {%- assign meta_desc = meta_desc | truncate: 160, '…' -%}
 {%- elsif page.collection == 'posts' and page.excerpt -%}
   {%- assign excerpt_txt = page.excerpt | strip_html | normalize_whitespace | strip -%}
-  {%- assign meta_desc = excerpt_txt | append: ' — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录博客：版本更新、分类讨论与参考文献导读。' -%}
+  {%- assign meta_desc = excerpt_txt | append: ' — 白蚁名录博客：现生等翅下目的版本更新、分类讨论与参考文献导读。' -%}
   {%- assign meta_desc = meta_desc | truncate: 160, '…' -%}
 {%- else -%}
   {%- if page.lang == 'en' -%}

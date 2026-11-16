@@ -5,8 +5,8 @@
 #   4) 模板里不用再改：导航/页头/页脚/语言切换/hreflang 都读这里
 zh-CN:
   lang_label: 中文
-  brand: 现存等翅下目名录
-  brand_sub: Extant Isoptera
+  brand: 白蚁名录
+  brand_sub: 13 科 · 326 属 · 3021 种
   nav_label: 主导航
   theme_toggle: 切换日间/夜间模式
   theme_to_light: 切换到日间模式
@@ -83,7 +83,7 @@ zh-CN:
   nav_blog: 博客
   nav_guestbook: 留言
   hero_sub: 拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 326 属 · 3021 种 · 68 亚种
-  footer_copy: © 2026 班奈特格林 · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+  footer_copy: © 2026 班奈特格林 · 白蚁名录（现生等翅下目）
   footer_note: 注明作者可免费引用 · CC BY 4.0 · 13 科 326 属 3021 种 68 亚种
   footer_doi: 数据集 DOI
   back_top: 回到顶部
@@ -155,8 +155,8 @@ zh-CN:
 
 en:
   lang_label: English
-  brand: Extant Isoptera
-  brand_sub: Latin–Chinese name comparison list
+  brand: Termite Checklist
+  brand_sub: 13 families · 326 genera · 3,021 species
   nav_label: Main navigation
   theme_toggle: "Switch between light and dark mode"
   theme_to_light: "Switch to light mode"
@@ -233,7 +233,7 @@ en:
   nav_blog: Blog
   nav_guestbook: Guestbook
   hero_sub: Latin names · Chinese names · bilingual checklist — 13 families · 18 subfamilies · 326 genera · 3021 species · 68 subspecies
-  footer_copy: © 2026 Bennet Green (班奈特格林) · Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+  footer_copy: © 2026 Bennet Green (班奈特格林) · Termite Checklist (extant Isoptera)
   footer_note: Free to cite with attribution · CC BY 4.0 · 13 families, 326 genera, 3021 species, 68 subspecies
   footer_doi: Dataset DOI
   back_top: Back to top
@@ -305,8 +305,8 @@ en:
 
 es:
   lang_label: Español
-  brand: Isópteros actuales
-  brand_sub: Lista comparativa latín–chino
+  brand: Lista de termitas
+  brand_sub: 13 familias · 326 géneros · 3.021 especies
   nav_label: Navegación principal
   theme_toggle: "Cambiar entre modo claro y oscuro"
   theme_to_light: "Cambiar al modo claro"
@@ -383,7 +383,7 @@ es:
   nav_blog: Blog
   nav_guestbook: Libro de visitas
   hero_sub: Nombres latinos · nombres chinos · lista bilingüe — 13 familias · 18 subfamilias · 326 géneros · 3021 especies · 68 subespecies
-  footer_copy: © 2026 Bennet Green (班奈特格林) · Lista comparativa de nombres latinos y chinos de los isópteros actuales
+  footer_copy: © 2026 Bennet Green (班奈特格林) · Lista de termitas (isópteros actuales)
   footer_note: Uso libre citando al autor · CC BY 4.0 · 13 familias, 326 géneros, 3021 especies, 68 subespecies
   footer_doi: DOI del conjunto de datos
   back_top: Volver arriba

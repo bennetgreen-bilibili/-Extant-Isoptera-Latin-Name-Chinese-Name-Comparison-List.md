@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 命名差异与待核对 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: "名录与 GBIF Backbone、Catalogue of Life、Blattodea Species File 的名称级比对：外部异名、匹配歧义与收录缺口，可按类别、来源与关键词筛选并导出 CSV。｜本站《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》，13 科 326 属 3021 种 68 亚种。"
+title: 命名差异：与 GBIF、CoL、BSF 的名称比对
+description: "名录与 GBIF Backbone、Catalogue of Life、Blattodea Species File 的名称级比对：逐条列出外部异名、匹配歧义（同名异物、属级转移）与收录缺口，可按类别、来源与关键词筛选并导出 CSV。｜白蚁名录：现生等翅下目 13 科、326 属、3021 种、68 亚种。"
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-29

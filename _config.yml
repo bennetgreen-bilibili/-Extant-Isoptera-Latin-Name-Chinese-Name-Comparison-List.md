@@ -1,10 +1,13 @@
-# 站点标题：title 为双语合并串（供取 site.title 的场合：分享卡片、外部工具），
+# 站点标题 = 品牌名 + 定位语（白蚁名录｜现生等翅下目）。2026-11-16 由原「拉丁学名—中文正名对照名录」
+# 全名改为品牌式短名：全名只作数据集正式名（CITATION.cff / dataset/），页头与标签页用品牌名。
+# title 为双语合并串（供取 site.title 的场合：分享卡片、外部工具），
 # title_zh / title_en / title_es 由 _layouts/default.html 的页头双语标题分两行渲染
-# （主行=页面语言，副行=另一语言）；标签页标题只取各页 front matter 的 title。
-title: "现存等翅下目（白蚁）拉丁学名—中文正名对照名录 | Extant Isoptera (Termites) — Latin–Chinese Name Comparison List"
-title_zh: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-title_en: Extant Isoptera (Termites) — Latin–Chinese Name Comparison List
-title_es: Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos
+# （主行=页面语言，副行=另一语言）；标签页标题只取各页 front matter 的 title，
+# 首页的 front matter title 比站名更长尾（带「分类·学名·中文名·分布」），站名本身只作品牌与页头 H1。
+title: "白蚁名录 — 现生等翅下目 | Termite Checklist — Extant Isoptera"
+title_zh: 白蚁名录 — 现生等翅下目
+title_en: Termite Checklist — Extant Isoptera
+title_es: Lista de termitas — Isópteros actuales
 description: >-
   双语（中文/English）
   现存等翅下目（白蚁）现生类群对照名录：13 科、18 亚科、326 属、3021 种、68 亚种。
@@ -12,9 +15,9 @@ description: >-
 # 各语言兜底 meta description（150–160 字，Bing 建议的描述长度）。
 # 只有既没有手写 description、也不是物种页/文章页的页面才会用到（见 _includes/meta-description.html）。
 # 上面那段 description 仍保持原样：feed.xml 用 description 作 <subtitle>，请不要改动它。
-description_zh: "双语（中文/English）现存等翅下目（白蚁）现生类群对照名录：收录 13 科、18 亚科、326 属、3021 种、68 亚种，提供拉丁学名—中文正名检索、各阶元物种数统计、模式产地与分布地图、同属物种对照，并按类群提供 JSON-LD 结构化数据与 GB/T 7714、BibTeX、RIS 引用格式。"
-description_en: "Bilingual (Chinese/English) list of all 3,021 extant termite species and 68 subspecies in 13 families: Latin and Chinese names, type localities, citations."
-description_es: "Lista bilingüe (chino/inglés) de las 3.021 especies y 68 subespecies actuales de termitas en 13 familias: nombres latinos y chinos, localidades típicas y citas."
+description_zh: "白蚁名录：收录现生白蚁 13 科、18 亚科、326 属、3021 种、68 亚种，可按拉丁学名、中文正名、异名、拼音与分布检索；含科、亚科、属、种四级页面，形态检索表、词源、模式产地与分布地图，文献可导出 GB/T 7714、BibTeX，另有 JSON 数据集与中英西三语界面。"
+description_en: "Termite Checklist: 3,021 extant termite species and 68 subspecies in 13 families — Latin and Chinese names, distribution, identification keys and open data."
+description_es: "Lista de termitas: 3.021 especies y 68 subespecies actuales de isópteros en 13 familias, con nombres latinos y chinos, distribución, claves y datos abiertos."
 lang: zh-CN
 author: 班奈特格林
 # Jekyll 标准站点地址：canonical、sitemap.xml、以及所有绝对链接都由 url + baseurl 拼接。
