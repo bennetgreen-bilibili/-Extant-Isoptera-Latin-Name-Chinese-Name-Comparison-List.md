@@ -13,5 +13,6 @@ sitemap: false
   <Url type="text/html" method="get" template="{{ site.base_url }}/search/?q={searchTerms}"/>
   <Url type="application/atom+xml" method="get" template="{{ site.base_url }}/feed.xml"/>
   <Contact>{{ site.base_url }}/guestbook/</Contact>
+  <Image width="96" height="96" type="image/png">{{ site.base_url }}/assets/icons/favicon-96.png</Image>
   <AdultContent>false</AdultContent>
 </OpenSearchDescription>

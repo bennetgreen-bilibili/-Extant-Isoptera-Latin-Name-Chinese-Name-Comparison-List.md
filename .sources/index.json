@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 452,
+    "count": 453,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-16T05:48:26+00:00",
+    "updated": "2026-11-16T20:05:09+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -24523,6 +24523,50 @@
       "used_in": [],
       "evidence": [],
       "id": "S0453"
+    },
+    {
+      "title": "Define a favicon to show in search results",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://developers.google.com/search/docs/appearance/favicon-in-search",
+      "authors": [
+        "Google Search Central"
+      ],
+      "year": 2026,
+      "publisher": "Google",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Add a `<link>` tag to the header of your [home page](#guidelines) with the following syntax: <link rel=\"icon\" href=\"/path/to/favicon.ico\">",
+          "locator": "§ Implementation, 步骤 2",
+          "note": "支撑：图标必须在首页 <head> 里用 <link rel=\"icon\"> 显式声明；只把 favicon.ico 放在根目录、不写 link 时 Google 不会采用（本站此前即为此状态，搜索结果左侧显示灰色地球）→ _layouts/default.html 头部新增 8 条图标声明"
+        },
+        {
+          "quote": "Your favicon must be a square (1:1 aspect ratio) that's at least 8x8px. While the minimum size requirement is 8x8px, we recommend using a favicon that's larger than 48x48px so that it looks good on various surfaces. Google Search supports the following favicon file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF.",
+          "locator": "§ Guidelines, 第 4 条",
+          "note": "支撑：图标取正方形、边长 48–512px，并同时产出 ICO 与 48/96/144/192/512 PNG；格式清单里没有 SVG，所以 SVG 只作为浏览器标签页的增强，不作为满足 Google 的唯一图标"
+        },
+        {
+          "quote": "Google Search only supports one favicon per site, where a _site_ is defined by the hostname.",
+          "locator": "§ Guidelines, 第 1 条",
+          "note": "支撑：三语（zh-CN / en / es）共用同一个 hostname，因此全站一套图标即可，不需要按语言分别做 favicon"
+        },
+        {
+          "quote": "Allow time for Google to recrawl and process the new information on your home page. Remember that crawling can take anywhere from several days to several weeks, depending on how often our systems determine content needs to be refreshed. You can [request indexing](/search/docs/crawling-indexing/ask-google-to-recrawl) of your site's home page by using the URL Inspection tool.",
+          "locator": "§ Implementation, 步骤 3",
+          "note": "支撑：交付说明里告诉用户「上线后要在 Search Console 对首页请求编入索引，Google 侧生效需数天到数周」，不能承诺立刻变"
+        }
+      ],
+      "used_in": [
+        "_layouts/default.html",
+        "_tools/make_favicon.py"
+      ],
+      "notes": "页面标注 Last updated 2026-10-27 UTC。另有一处仅作参考、未写入产物的表述：Googlebot 必须能抓取首页并跟随其重定向，Googlebot-Image 必须能抓取图标文件，两者都不得被 robots.txt 阻断——本站 robots.txt 为 Allow: /，已满足，故未单独立摘录。",
+      "accessed": "2026-11-16T20:05:09+08:00",
+      "canonical_key": "url:https://developers.google.com/search/docs/appearance/favicon-in-search",
+      "id": "S0454"
     }
   ]
 }

@@ -65,6 +65,20 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "_config.yml"
 SPECIES_DIR = ROOT / "_species"
+# 站点图标：生成脚本是 _tools/make_favicon.py，声明写在 _layouts/default.html 头部。
+# 顺序即 <link> 里的顺序，不含 SVG（Google 不读，只给浏览器标签页用）。
+FAVICON_ICO = ROOT / "favicon.ico"
+FAVICON_LAYOUT = ROOT / "_layouts" / "default.html"
+FAVICON_REQUIRED = (
+    "favicon.ico",
+    "assets/icons/favicon-48.png",
+    "assets/icons/favicon-96.png",
+    "assets/icons/favicon-144.png",
+    "assets/icons/favicon-192.png",
+    "assets/icons/favicon-512.png",
+    "assets/icons/apple-touch-icon.png",
+    "assets/icons/favicon.svg",
+)
 LIST_FILES = {"zh-CN": ROOT / "list.md", "en": ROOT / "en" / "list.md", "es": ROOT / "es" / "list.md"}
 SITEMAP = ROOT / "sitemap.txt"
 SEARCH_INDEX = ROOT / "search-index.json"
@@ -1115,6 +1129,41 @@ def check_jsonld_dataset_scope() -> None:
                      '（否则 Google 会报缺 name / description / license / creator）')
 
 
+def check_favicon() -> None:
+    """站点图标（favicon）：文件必须到位，且 _layouts/default.html 头部必须逐个声明。
+
+    Google 搜索结果左侧的小方块只认 <head> 里声明出来的图标：图标文件就算放在仓库根目录，
+    没有 ``<link rel="icon">`` 也不会被抓到，结果里就退回灰色地球。这里把「声明」与
+    「磁盘上的文件」两侧锁在一起——漏声明、改名、删文件任意一种都会在 PR 阶段红，
+    而不是等上线后靠肉眼发现。
+    """
+    if not FAVICON_ICO.is_file():
+        err("favicon.ico", "文件不存在（运行 python _tools/make_favicon.py 生成）")
+    elif FAVICON_ICO.read_bytes()[:4] != b"\x00\x00\x01\x00":
+        err("favicon.ico", "不是合法的 ICO 文件（运行 python _tools/make_favicon.py 重新生成）")
+    if not FAVICON_LAYOUT.is_file():
+        err("_layouts/default.html", "文件不存在，无法确认 favicon 声明")
+        return
+    head = read(FAVICON_LAYOUT)
+    declared: list[str] = []
+    for tag in re.findall(r'<link[^>]+rel="(?:icon|apple-touch-icon)"[^>]*>', head):
+        m = re.search(r'href="\{\{ site\.base_url \}\}(/[^"?]+)', tag)
+        if not m:
+            err("_layouts/default.html", "favicon 声明没有用 site.base_url 前缀：" + tag[:80])
+            continue
+        rel_path = m.group(1).lstrip("/")
+        declared.append(rel_path)
+        if not (ROOT / rel_path).is_file():
+            err("_layouts/default.html", "favicon 声明指向不存在的文件：" + rel_path)
+    for rel_path in FAVICON_REQUIRED:
+        if rel_path not in declared:
+            err(
+                "_layouts/default.html",
+                "缺少 favicon 声明：%s（Google 搜索结果左侧图标依赖 <link rel=\"icon\">，"
+                "只有根目录的 favicon.ico 文件而没有声明不算数）" % rel_path,
+            )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="站点与数据一致性校验")
     parser.add_argument("--ci", action="store_true", help="输出 GitHub Actions 注解")
@@ -1142,6 +1191,7 @@ def main() -> int:
     check_search_overlay()
     check_species_siblings_not_indexed()
     check_jsonld_dataset_scope()
+    check_favicon()
 
     if args.ci:
         for where, msg in errors:

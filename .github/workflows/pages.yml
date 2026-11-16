@@ -258,7 +258,11 @@ jobs:
 
           # (路径, 必须出现的片段)；片段为 None 表示只校验状态码
           CHECKS = [
-              ("/", None),
+              # 首页顺带断言 favicon 声明还在：没有它 Google 结果里就退回灰色地球
+              ("/", 'rel="icon"'),
+              ("/favicon.ico", None),
+              ("/assets/icons/favicon-96.png", None),
+              ("/assets/icons/apple-touch-icon.png", None),
               ("/list/", None),
               ("/species/mastotermes-darwiniensis/", "Mastotermes darwiniensis"),
               ("/search/", None),

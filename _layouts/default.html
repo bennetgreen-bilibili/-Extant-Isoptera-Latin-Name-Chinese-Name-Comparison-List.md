@@ -5,6 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" id="theme-color-meta" content="#1f4d38">
 {%- comment -%}
+  站点图标（favicon）：Google 搜索结果左侧的小方块只认页面 <head> 里声明出来的图标，
+  没有声明就在结果里显示灰色地球（图标文件本身放在根目录也没用）。所以这里必须显式写全：
+  浏览器标签页优先用 SVG，Googlebot 只认 ICO / PNG（不支持 SVG），iOS 用 apple-touch-icon。
+  图标文件由 _tools/make_favicon.py 生成（改图标后重跑；--check 校验磁盘产物是否过期）。
+{%- endcomment -%}
+<link rel="icon" href="{{ site.base_url }}/favicon.ico" sizes="16x16 32x32 48x48 64x64">
+<link rel="icon" type="image/png" sizes="48x48" href="{{ site.base_url }}/assets/icons/favicon-48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ site.base_url }}/assets/icons/favicon-96.png">
+<link rel="icon" type="image/png" sizes="144x144" href="{{ site.base_url }}/assets/icons/favicon-144.png">
+<link rel="icon" type="image/png" sizes="192x192" href="{{ site.base_url }}/assets/icons/favicon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="{{ site.base_url }}/assets/icons/favicon-512.png">
+<link rel="icon" type="image/svg+xml" href="{{ site.base_url }}/assets/icons/favicon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.base_url }}/assets/icons/apple-touch-icon.png">
+{%- comment -%}
   显示模式（昼 / 夜）：在样式表之前就把 <html data-theme> 定下来，避免首屏先按错误的主题画一遍。
   读过 localStorage 就尊重用户上次的选择；没读过就跟随系统（之后系统切换由 site.js 继续跟随）。
   theme-js 这个 class 让 CSS 只对有 JS 的页面显示切换按钮。

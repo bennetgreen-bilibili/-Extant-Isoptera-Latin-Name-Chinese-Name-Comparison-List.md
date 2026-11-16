@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="白蚁名录">
+  <title>白蚁名录 — 现生等翅下目</title>
+  <rect width="1024" height="1024" rx="230" fill="#1f4d38"/>
+  <g transform="rotate(9 498.56 603.96)"
+     fill="#f7f1e6" stroke="#f7f1e6" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="674.96" cy="609.56" rx="243.60" ry="179.20"/>
+    <ellipse cx="408.96" cy="592.76" rx="117.60" ry="112.00"/>
+    <ellipse cx="218.56" cy="556.36" rx="112.00" ry="114.80"/>
+    <path d="M336.16 671.16 L291.36 763" stroke-width="31.36"/>
+    <path d="M408.96 684.6 L400 783.16" stroke-width="31.36"/>
+    <path d="M473.92 671.16 L515.36 758.52" stroke-width="31.36"/>
+    <path d="M193.92 458.36 L149.12 375.48 L115.52 355.32" stroke-width="29.12"/>
+    <path d="M232 449.4 L202.88 362.04 L178.24 341.88" stroke-width="29.12"/>
+    <ellipse cx="156.96" cy="524.44" rx="19.04" ry="19.04" fill="#1f4d38" stroke="none"/>
+  </g>
+</svg>
