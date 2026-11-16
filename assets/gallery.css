@@ -56,8 +56,8 @@
   .species-gallery .gallery-grid{column-width:150px;column-gap:10px}
   .species-gallery .gallery-card{margin-bottom:10px}
   .species-gallery .gallery-lead{font-size:.86em}
-  .species-gallery .gallery-caption{padding:6px 8px 7px;font-size:10.5px}
-  .species-gallery .gallery-caption-meta{font-size:10px;gap:1px 6px}
+  .species-gallery .gallery-caption{padding:6px 8px 7px;font-size:11.5px}
+  .species-gallery .gallery-caption-meta{font-size:11px;gap:1px 6px}
 }
 
 @media (prefers-reduced-motion:reduce){

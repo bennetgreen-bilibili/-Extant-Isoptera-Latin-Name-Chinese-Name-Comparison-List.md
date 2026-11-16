@@ -105,6 +105,7 @@
     wrap.insertBefore(aside, content);
     if (source && source.parentNode) source.parentNode.removeChild(source);
     tocAside = aside;
+    setupTocCollapse(aside);
     syncTocTop();
     var pending = false;
     function onShift() {
@@ -158,6 +159,81 @@
       }
       li.insertBefore(row, childA);
       row.appendChild(childA);
+    }
+  }
+
+  /* 手机上目录块若常开，首屏全被目录吃掉：≤720px 默认收起成一行标题，点标题展开；
+     桌面端侧栏保持常开，标题不可点。用户手动切换过后不再随窗口宽度变化重置。 */
+  function setupTocCollapse(aside) {
+    var head = aside.querySelector('.toc-heading');
+    if (!head) return;
+    var mq = window.matchMedia ? window.matchMedia('(max-width:720px)') : null;
+    var userToggled = false;
+    function setCollapsed(collapsed) {
+      aside.classList.toggle('is-collapsed', collapsed);
+      head.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+    }
+    function sync() {
+      var narrow = !!(mq && mq.matches);
+      head.classList.toggle('is-toggleable', narrow);
+      if (!narrow) {
+        setCollapsed(false);
+        head.removeAttribute('role');
+        head.removeAttribute('tabindex');
+        return;
+      }
+      head.setAttribute('role', 'button');
+      head.setAttribute('tabindex', '0');
+      setCollapsed(userToggled ? aside.classList.contains('is-collapsed') : true);
+    }
+    function toggle() {
+      if (!mq || !mq.matches) return;
+      userToggled = true;
+      setCollapsed(!aside.classList.contains('is-collapsed'));
+    }
+    head.addEventListener('click', toggle);
+    head.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Enter' || ev.key === ' ' || ev.key === 'Spacebar') {
+        ev.preventDefault();
+        toggle();
+      }
+    });
+    sync();
+    if (mq && mq.addEventListener) mq.addEventListener('change', sync);
+    else if (mq && mq.addListener) mq.addListener(sync);
+  }
+
+  /* 正文宽表在手机上会把整页顶宽（如 /stats/ 的 10 列表）：统一包一层横向滚动容器，
+     表格本身保持自然列宽，只在容器内横滑。已在滚动容器里的（如 .ni-table-wrap）跳过。 */
+  function wrapTables() {
+    var tables = document.querySelectorAll('.content table');
+    for (var i = 0; i < tables.length; i++) {
+      var t = tables[i];
+      var parent = t.parentNode;
+      if (!parent || parent.nodeType !== 1) continue;
+      if (parent.classList.contains('table-wrap')) continue;
+      if (parent.classList.contains('ni-table-wrap')) continue;
+      var box = document.createElement('div');
+      box.className = 'table-wrap';
+      parent.insertBefore(box, t);
+      box.appendChild(t);
+    }
+    var wraps = document.querySelectorAll('.table-wrap');
+    if (!wraps.length) return;
+    for (var k = 0; k < wraps.length; k++) {
+      wraps[k].addEventListener('scroll', syncTableHints, { passive: true });
+    }
+    window.addEventListener('resize', syncTableHints);
+    syncTableHints();
+  }
+
+  /* 表格还能继续横滑时给容器右侧渐隐（.table-wrap.is-scrollable），滑到头就去掉 */
+  function syncTableHints() {
+    var wraps = document.querySelectorAll('.table-wrap');
+    for (var i = 0; i < wraps.length; i++) {
+      var w = wraps[i];
+      var more = w.scrollWidth - w.clientWidth - w.scrollLeft > 2;
+      if (w.classList.contains('is-scrollable') !== more) w.classList.toggle('is-scrollable', more);
     }
   }
 
@@ -308,7 +384,7 @@
 
   function ready(fn) { if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
   ready(function () {
-    setupToc(); italicizeTaxa(); setupBackTop(); setupCitations(); setupTheme();
+    setupToc(); italicizeTaxa(); wrapTables(); setupBackTop(); setupCitations(); setupTheme();
     window.addEventListener('beforeprint', openCiteDetailsForPrint);
   });
 })();

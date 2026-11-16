@@ -250,6 +250,7 @@
 
 <nav class="site-nav" aria-label="{{ T.nav_label }}" data-pagefind-ignore>
   <div class="container nav-inner">
+    <div class="nav-links">
     <a href="{{ site.base_url }}{{ LANGP }}/" class="nav-link{% if path_no_lang == '/' %} active{% endif %}">{{ T.nav_home }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{{ T.nav_list }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/basics/" class="nav-link{% if page.url contains '/basics' %} active{% endif %}">{{ T.nav_basics }}</a>
@@ -260,6 +261,7 @@
     <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{{ T.nav_blog }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/guestbook/" class="nav-link{% if page.url contains '/guestbook' %} active{% endif %}">{{ T.nav_guestbook }}</a>
+    </div>
     <button type="button" class="nav-search-btn" id="nav-search-btn" aria-label="{{ T.search_shortcut }}" title="{{ T.search_shortcut }}"><span aria-hidden="true">⌕</span> {{ T.nav_search }}</button>
   </div>
 </nav>

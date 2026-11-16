@@ -200,6 +200,8 @@
   .distribution-inline-subfamily .distribution-map,
   .distribution-inline-genus .distribution-map,
   .distribution-map-species{height:300px}
+  /* 小地图上三行图例原本占掉右三分之一，字号提到 12px 收窄内边距，别盖住点位 */
+  .map-legend{font-size:12px;line-height:1.35;padding:6px 8px;max-width:132px}
 }
 
 /* 减少动效偏好：Leaflet 的缩放动画（若浏览器开启）不应影响阅读 */

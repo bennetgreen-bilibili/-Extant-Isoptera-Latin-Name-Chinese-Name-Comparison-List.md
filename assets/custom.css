@@ -76,7 +76,9 @@ html.theme-js .theme-toggle{display:inline-flex}
 
 /* ===== 吸顶导航 ===== */
 .site-nav{position:sticky;top:0;z-index:500;background:var(--card);border-bottom:1px solid var(--line);box-shadow:var(--shadow-sm)}
-.nav-inner{display:flex;align-items:center;gap:2px;overflow-x:auto}
+.nav-inner{display:flex;align-items:center;gap:2px}
+/* 导航链接单独一层：窄屏时只有这一层横滑，搜索按钮固定留在可见的右端 */
+.nav-links{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0}
 .nav-link{color:var(--muted);text-decoration:none;font-size:15px;font-weight:500;padding:16px 15px;white-space:nowrap;position:relative;transition:color .15s}
 .nav-link:hover{color:var(--ink)}
 .nav-link.active{color:var(--accent);font-weight:700}
@@ -140,6 +142,14 @@ html.theme-js .theme-toggle{display:inline-flex}
 .content tbody tr:hover{background:var(--accent-soft)}
 .content tbody tr:last-child td{border-bottom:none}
 .content td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+/* 宽表在窄屏改为容器内横滑（assets/site.js 的 wrapTables() 注入包裹层），不再把整页顶宽，
+   也不再让浏览器把列压成一个汉字宽；窄表仍撑满容器，视觉不变 */
+.table-wrap{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.2em 0}
+.table-wrap > table{margin:0}
+/* 路径、URL、DOI 这类长串允许在必要时断行（只在断不开时生效，不影响正常排版） */
+.content code,.content td,.content th,.content a{overflow-wrap:anywhere}
+/* 正文里的长拉丁学名/DOI 也别把行盒顶出容器：break-word 只在整词放不下时才断 */
+.content p,.content li,.content dd,.content dt,.content blockquote,.content figcaption,.content span{overflow-wrap:break-word}
 
 /* ===== 搜索 ===== */
 .search-wrap{max-width:640px;margin:1.2em 0 1.6em;position:relative}
@@ -631,3 +641,45 @@ body.search-overlay-open{overflow:hidden}
 .content .lang-note{background:var(--accent-softer);border:1px solid var(--line-soft);border-left:3px solid var(--accent,#8a6d3b);border-radius:8px;padding:10px 14px;margin:0 0 1.4em;font-size:.93em;color:var(--muted)}
 .content .lang-note p{margin:.15em 0}
 .content .lang-note strong{color:inherit}
+
+/* ===== 移动端（≤720px）：导航可发现性、目录收起、触摸目标 ===== */
+@media (max-width:720px){
+  /* 顶部导航是横向长条（10 项 ≈740px）：只有链接那层横滑，右侧渐隐暗示还有内容；
+     搜索按钮不再被推到滚动容器末尾，而是固定可见 */
+  .nav-links{
+    overflow-x:auto;
+    scrollbar-width:none;
+    -webkit-mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 20px),transparent 100%);
+    mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 20px),transparent 100%);
+  }
+  .nav-links::-webkit-scrollbar{height:0}
+  .nav-link{padding:15px 12px;font-size:14px}
+  .nav-search-btn{margin-left:8px;flex:0 0 auto}
+
+  /* 正文表格保持自然列宽，超出部分在 .table-wrap 内横滑（包裹层由 site.js 注入）；
+     还能继续滑时右侧渐隐，提示表格没结束 */
+  .table-wrap > table{width:max-content;min-width:100%}
+  .table-wrap.is-scrollable{
+    -webkit-mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 26px),transparent 100%);
+    mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 26px),transparent 100%);
+  }
+
+  /* 名录页目录：默认收起成一行标题，点标题展开（site.js 的 setupTocCollapse） */
+  .toc-side.is-collapsed{margin-bottom:12px}
+  .toc-side.is-collapsed > ul{display:none}
+  .toc-heading.is-toggleable{display:flex;align-items:center;gap:8px;cursor:pointer;margin-bottom:8px;padding:2px 0}
+  .toc-heading.is-toggleable::after{content:"▾";margin-left:auto;font-size:11px;letter-spacing:0;color:var(--accent)}
+  .toc-side.is-collapsed > .toc-heading.is-toggleable{margin-bottom:0}
+  .toc-side.is-collapsed > .toc-heading.is-toggleable::after{content:"▸"}
+  .toc-toggle{flex:0 0 34px;width:34px;height:34px;font-size:15px}
+  .toc-spacer{flex:0 0 34px}
+  .toc-row{min-height:36px;gap:4px}
+  .toc-side{font-size:14px}
+
+  /* 触摸目标：向 40px 靠，别让 26~32px 的控件挨在一起（WCAG 2.5.8 AA 只要求 24px） */
+  .theme-toggle{width:40px;height:40px}
+  .lang-switch{padding:8px 12px}
+  .nav-search-btn{padding:8px 12px}
+  .cite-block .cite-copy{padding:8px 14px;line-height:1.4}
+  .content summary{padding:6px 0}
+}
