@@ -35,13 +35,14 @@
    "scientificName": {{ sci_name | jsonify }},
    "taxonRank": {{ rank_label | jsonify }},
    "alternateName": [{{ page.zh | jsonify }}],
+   "description": {{ include.taxon_desc | default: page.description | jsonify }},
    "url": "{{ site.base_url }}{{ page.url }}",
    {%- if site.dataset.version %}
    "version": "{{ site.dataset.version }}",
    "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
    {%- endif %}
    "isPartOf": {"@id": "{{ site.base_url }}/#dataset"},
-   "parentTaxon": {% if page.rank == 'subspecies' %}{"@type": "Taxon", "name": {{ page.parent_latin | jsonify }}, "alternateName": [{{ page.parent_zh | jsonify }}], "url": "{{ site.base_url }}{{ LP }}/species/{{ page.parent_slug }}/"}{% else %}{"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/"}{% endif %}
+   "parentTaxon": {% if page.rank == 'subspecies' %}{"@type": "Taxon", "name": {{ page.parent_latin | jsonify }}, "alternateName": [{{ page.parent_zh | jsonify }}], "taxonRank": "Species", "url": "{{ site.base_url }}{{ LP }}/species/{{ page.parent_slug }}/", "parentTaxon": {"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/"} }{% else %}{"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}{{ LP }}/genus/{{ page.genus_id }}/", "parentTaxon": {"@type": "Taxon", "name": {{ page.family_latin | jsonify }}, "alternateName": [{{ page.family_zh | jsonify }}], "taxonRank": "Family", "url": "{{ site.base_url }}{{ LP }}/family/{{ page.family_id }}/"} }{% endif %}
    {%- assign first = true -%}
    {%- if AUTH.gbif.key or AUTH.col.id or AUTH.wd or BSF.valid_otu or BSF.otu -%}
    ,"sameAs": [

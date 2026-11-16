@@ -51,12 +51,13 @@
 {%- endif -%}
 {%- assign seo_title = page.title -%}
 {%- if page.collection == 'species' or page.species_page -%}
+  {%- comment -%} 物种页标题：学名在前，中文正名与三个栏目关键词随后，品牌置尾；SERP 截断时先丢品牌、不丢学名 {%- endcomment -%}
   {%- if page.lang == 'en' -%}
-  {%- assign seo_title = page.latin | append: ' — ' | append: page.zh | append: ' — Termite Checklist' -%}
+  {%- assign seo_title = page.latin | append: ' (' | append: page.zh | append: ') — Taxonomy, distribution and identification | Termite Checklist' -%}
   {%- elsif page.lang == 'es' -%}
-  {%- assign seo_title = page.latin | append: ' — ' | append: page.zh | append: ' — Lista de termitas' -%}
+  {%- assign seo_title = page.latin | append: ' (' | append: page.zh | append: ') — Taxonomía, distribución e identificación | Lista de termitas' -%}
   {%- else -%}
-  {%- assign seo_title = page.zh | append: '（' | append: page.latin | append: '） — 白蚁名录' -%}
+  {%- assign seo_title = page.latin | append: '（' | append: page.zh | append: '）— 分类地位、分布与识别特征 | 白蚁名录' -%}
   {%- endif -%}
 {%- elsif page.url == '/' or page.url == '/en/' or page.url == '/es/' -%}
 {%- elsif seo_title contains site.title_zh or seo_title contains site.title_en or seo_title contains site.title_es -%}
@@ -141,6 +142,8 @@
 {% unless page.collection == 'species' or page.species_page %}{% include breadcrumb-jsonld.html %}{% endunless %}
 {%- comment -%} 数据页（三语 /data/）：输出独立的 Dataset 结构化数据，与首页的 @id 保持一致 {%- endcomment -%}
 {% if path_no_lang == '/data/' %}{% include dataset-jsonld.html %}{% endif %}
+{%- comment -%} 物种页 Taxon + BreadcrumbList：放在 <head> 内便于解析；描述复用上方已算好的 meta_desc，避免重复拼接 {%- endcomment -%}
+{% if page.collection == 'species' or page.species_page %}{% include species-jsonld.html taxon_desc=meta_desc %}{% endif %}
 {%- comment -%} 全文搜索页（pagefind: true）：Pagefind 的样式与脚本由 CI 在 _site/pagefind/ 生成 {%- endcomment -%}
 {%- comment -%}
   静态资源缓存戳：_data/build.json 由 _tools/stamp_assets.py 按文件内容生成（CI 在 Jekyll 构建之前跑，
