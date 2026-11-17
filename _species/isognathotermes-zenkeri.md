@@ -31,7 +31,7 @@ synonym_localities: "Cameroon: Bipindi"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**岑克等颚白蚁**（*Isognathotermes zenkeri*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Cameroon: ?。分布记录包括喀麦隆、刚果民主共和国。本站记录本种有 1 个次异名。
+**岑克等颚白蚁**（*Isognathotermes zenkeri*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Cameroon: ?。分布记录包括喀麦隆、刚果民主共和国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Cameroon: Bipindi"
 
 - **分布记录**：喀麦隆、刚果民主共和国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes (Cubitermes) kemneri* Emerson, 1928: 509 —— 模式产地：Cameroon: Bipindi
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) kemneri* 出现，本站统一归入 *Isognathotermes zenkeri*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) kemneri* 出现，均归入 *Isognathotermes zenkeri*。
 <!-- AUTO:END -->

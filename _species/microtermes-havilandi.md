@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Orange Free State: Bloemfontein"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**哈维兰小白蚁**（*Microtermes havilandi*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti; Natal: Stanford Hill; Zululand: Mfolozi Junction; Zululand: Somkele; Zululand: Umhlazinga。分布记录包括非洲南部、南非。本站记录本种有 1 个次异名。
+**哈维兰小白蚁**（*Microtermes havilandi*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti; Natal: Stanford Hill; Zululand: Mfolozi Junction; Zululand: Somkele; Zululand: Umhlazinga。分布记录包括非洲南部、南非。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "South Africa: Orange Free State: Bloemfontein"
 
 - **分布记录**：非洲南部、南非
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microtermes havilandi intermedius* Fuller, 1922: 98-99 —— 模式产地：South Africa: Orange Free State: Bloemfontein
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes havilandi intermedius* 出现，本站统一归入 *Microtermes havilandi*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes havilandi intermedius* 出现，均归入 *Microtermes havilandi*。
 <!-- AUTO:END -->

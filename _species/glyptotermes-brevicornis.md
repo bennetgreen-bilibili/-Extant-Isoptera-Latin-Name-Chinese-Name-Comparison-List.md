@@ -28,7 +28,7 @@ synonym_localities: "Australia: Queensland: Mt. Tambourine; Australia: Queenslan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短角树白蚁**（*Glyptotermes brevicornis*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括澳大利亚、斐济、新西兰。本站记录本种有 6 个次异名。
+**短角树白蚁**（*Glyptotermes brevicornis*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括澳大利亚、斐济、新西兰。本种有 6 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "Australia: Queensland: Mt. Tambourine; Australia: Queenslan
 
 - **分布记录**：澳大利亚、斐济、新西兰
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本种有 6 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes (Glyptotermes) affinis* Mjöberg, 1920: 21-24 —— 模式产地：Australia: Queensland: Mt. Tambourine
 2. *Calotermes (Glyptotermes) trilineatus* Mjöberg, 1920: 24-26 —— 模式产地：Australia: Queensland
@@ -61,5 +59,5 @@ synonym_localities: "Australia: Queensland: Mt. Tambourine; Australia: Queenslan
 5. *Calotermes (Glyptotermes) claripennis* Hill, 1925: 212-214 —— 模式产地：Australia: Lord Howe Island
 6. *Calotermes (Glyptotermes) perangustus* Hill, 1926: 199-201 —— 模式产地：Australia: New South Wales: Wauchope
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes (Glyptotermes) affinis*、*Calotermes (Glyptotermes) trilineatus*、*Calotermes (Glyptotermes) dubius*、*Calotermes (Glyptotermes) nigrolabrum*、*Calotermes (Glyptotermes) claripennis*、*Calotermes (Glyptotermes) perangustus* 等）出现，本站统一归入 *Glyptotermes brevicornis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes (Glyptotermes) affinis*、*Calotermes (Glyptotermes) trilineatus*、*Calotermes (Glyptotermes) dubius*、*Calotermes (Glyptotermes) nigrolabrum*、*Calotermes (Glyptotermes) claripennis*、*Calotermes (Glyptotermes) perangustus* 等）出现，均归入 *Glyptotermes brevicornis*。
 <!-- AUTO:END -->

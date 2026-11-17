@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小型曲白蚁**（*Curvitermes minor*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）曲白蚁属（*Curvitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]。分布记录包括巴西、玻利维亚。本站记录本种有 1 个次异名。
+**小型曲白蚁**（*Curvitermes minor*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）曲白蚁属（*Curvitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]。分布记录包括巴西、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 
 - **分布记录**：巴西、玻利维亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Curvitermes planioculus* Mathews, 1977: 230-232 —— 模式产地：Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Curvitermes planioculus* 出现，本站统一归入 *Curvitermes minor*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Curvitermes planioculus* 出现，均归入 *Curvitermes minor*。
 <!-- AUTO:END -->

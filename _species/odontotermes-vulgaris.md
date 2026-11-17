@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Stanger"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**常见土白蚁**（*Odontotermes vulgaris*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal。分布记录包括旧热带界西非、东非、非洲南部、安哥拉、纳米比亚、南非、斯威士兰、津巴布韦。本站记录本种有 1 个次异名。
+**常见土白蚁**（*Odontotermes vulgaris*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal。分布记录包括旧热带界西非、东非、非洲南部、安哥拉、纳米比亚、南非、斯威士兰、津巴布韦。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "South Africa: Natal: Stanger"
 
 - **分布记录**：旧热带界西非、东非、非洲南部、安哥拉、纳米比亚、南非、斯威士兰、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes (Termes) vulgaris minor* Fuller, 1922: 87 —— 模式产地：South Africa: Natal: Stanger
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes (Termes) vulgaris minor* 出现，本站统一归入 *Odontotermes vulgaris*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes (Termes) vulgaris minor* 出现，均归入 *Odontotermes vulgaris*。
 <!-- AUTO:END -->

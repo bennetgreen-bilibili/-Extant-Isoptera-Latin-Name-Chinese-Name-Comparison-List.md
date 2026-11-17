@@ -28,7 +28,7 @@ synonym_localities: "Australia: Northern Territory: Stapleton"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**游荡异白蚁**（*Heterotermes vagus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Hill 于 1927 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚、巴布亚新几内亚。本站记录本种有 1 个次异名。
+**游荡异白蚁**（*Heterotermes vagus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Hill 于 1927 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚、巴布亚新几内亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Australia: Northern Territory: Stapleton"
 
 - **分布记录**：澳大利亚、巴布亚新几内亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Leucotermes venustus* Hill, 1927: 55-58 —— 模式产地：Australia: Northern Territory: Stapleton
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Leucotermes venustus* 出现，本站统一归入 *Heterotermes vagus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Leucotermes venustus* 出现，均归入 *Heterotermes vagus*。
 <!-- AUTO:END -->

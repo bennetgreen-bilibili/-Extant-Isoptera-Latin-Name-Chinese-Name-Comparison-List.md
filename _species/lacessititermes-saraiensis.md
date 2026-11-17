@@ -31,7 +31,7 @@ synonym_localities: "Philippines: Luzon: Balintauac, near Manila; Luzon: Laguna 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**萨赖怒白蚁**（*Lacessititermes saraiensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）怒白蚁属（*Lacessititermes*）的一种。本种由 Oshima 于 1916 年描述，模式产地为 Philippines: Luzon: Laguna Province: Sarai near Paete。分布记录包括中国、印度尼西亚、菲律宾。本站记录本种有 1 个次异名。
+**萨赖怒白蚁**（*Lacessititermes saraiensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）怒白蚁属（*Lacessititermes*）的一种。本种由 Oshima 于 1916 年描述，模式产地为 Philippines: Luzon: Laguna Province: Sarai near Paete。分布记录包括中国、印度尼西亚、菲律宾。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Philippines: Luzon: Balintauac, near Manila; Luzon: Laguna 
 
 - **分布记录**：中国、印度尼西亚、菲律宾
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Hospitalitermes) luzonensis* Oshima, 1917: 17-19 —— 模式产地：Philippines: Luzon: Balintauac, near Manila
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Hospitalitermes) luzonensis* 出现，本站统一归入 *Lacessititermes saraiensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Hospitalitermes) luzonensis* 出现，均归入 *Lacessititermes saraiensis*。
 <!-- AUTO:END -->

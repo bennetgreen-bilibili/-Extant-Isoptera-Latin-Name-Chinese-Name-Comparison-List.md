@@ -28,7 +28,7 @@ synonym_localities: "Indonesia: Java: Bogor"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**犬头堆砂白蚁**（*Cryptotermes cynocephalus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Light 于 1921 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括菲律宾至澳大利亚、热带、印度尼西亚、马来西亚、夏威夷（美国）、巴布亚新几内亚、斯里兰卡。本站记录本种有 1 个次异名。
+**犬头堆砂白蚁**（*Cryptotermes cynocephalus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Light 于 1921 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括菲律宾至澳大利亚、热带、印度尼西亚、马来西亚、夏威夷（美国）、巴布亚新几内亚、斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Indonesia: Java: Bogor"
 
 - **分布记录**：菲律宾至澳大利亚、热带、印度尼西亚、马来西亚、夏威夷（美国）、巴布亚新几内亚、斯里兰卡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Cryptotermes buitenzorgi* Kemner, 1934: 45-47 —— 模式产地：Indonesia: Java: Bogor
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Cryptotermes buitenzorgi* 出现，本站统一归入 *Cryptotermes cynocephalus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Cryptotermes buitenzorgi* 出现，均归入 *Cryptotermes cynocephalus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Swaziland: Lebombo Flats N of Umbuluzi River near Komati"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽背钩白蚁**（*Ancistrotermes latinotus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Holmgren 于 1912 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Luapula。分布记录包括非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 1 个次异名。
+**宽背钩白蚁**（*Ancistrotermes latinotus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Holmgren 于 1912 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Luapula。分布记录包括非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Swaziland: Lebombo Flats N of Umbuluzi River near Komati"
 
 - **分布记录**：非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Ancistrotermes lebomboensis* Fuller, 1922: 103-104 —— 模式产地：Swaziland: Lebombo Flats N of Umbuluzi River near Komati
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Ancistrotermes lebomboensis* 出现，本站统一归入 *Ancistrotermes latinotus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Ancistrotermes lebomboensis* 出现，均归入 *Ancistrotermes latinotus*。
 <!-- AUTO:END -->

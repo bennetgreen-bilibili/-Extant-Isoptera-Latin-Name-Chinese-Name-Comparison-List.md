@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**显赫多铲白蚁**（*Polyspathotermes inclitus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）多铲白蚁属（*Polyspathotermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Zambia: Banguelo。分布记录包括刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚。本站记录本种有 1 个次异名。
+**显赫多铲白蚁**（*Polyspathotermes inclitus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）多铲白蚁属（*Polyspathotermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Zambia: Banguelo。分布记录包括刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi"
 
 - **分布记录**：刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Cubitermes) domifaber* Sjöstedt, 1913: 370-371 —— 模式产地：Democratic Republic of the Congo: Katanga: Lubumbashi
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Cubitermes) domifaber* 出现，本站统一归入 *Polyspathotermes inclitus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Cubitermes) domifaber* 出现，均归入 *Polyspathotermes inclitus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Goiás: Alto Paraíso de Goiás [14.1325S 47.51W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**巨鼻喙白蚁**（*Rhynchotermes nasutissimus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]; Paraguay: Central: Areguá \[25.3S 57.4167W\]。分布记录包括巴西、玻利维亚、巴拉圭、阿根廷、秘鲁。本站记录本种有 1 个次异名。
+**巨鼻喙白蚁**（*Rhynchotermes nasutissimus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]; Paraguay: Central: Areguá \[25.3S 57.4167W\]。分布记录包括巴西、玻利维亚、巴拉圭、阿根廷、秘鲁。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Brasil: Goiás: Alto Paraíso de Goiás [14.1325S 47.51W]"
 
 - **分布记录**：巴西、玻利维亚、巴拉圭、阿根廷、秘鲁
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhynchotermes guarany* Cancello, 1997: 149-153 —— 模式产地：Brasil: Goiás: Alto Paraíso de Goiás \[14.1325S 47.51W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhynchotermes guarany* 出现，本站统一归入 *Rhynchotermes nasutissimus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhynchotermes guarany* 出现，均归入 *Rhynchotermes nasutissimus*。
 <!-- AUTO:END -->

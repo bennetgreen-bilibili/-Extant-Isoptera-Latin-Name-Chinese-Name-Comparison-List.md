@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland: Cape York Peninsula, near Coleman Ri
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**哈里斯络白蚁**（*Hapsidotermes harrisi*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种，也是本属的模式种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Ravenshoe。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**哈里斯络白蚁**（*Hapsidotermes harrisi*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种，也是本属的模式种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Ravenshoe。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Australia: Queensland: Cape York Peninsula, near Coleman Ri
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes alicensis* Mjöberg, 1920: 100-101 —— 模式产地：Australia: Queensland: Cape York Peninsula, near Coleman River
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes alicensis* 出现，本站统一归入 *Hapsidotermes harrisi*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes alicensis* 出现，均归入 *Hapsidotermes harrisi*。
 <!-- AUTO:END -->

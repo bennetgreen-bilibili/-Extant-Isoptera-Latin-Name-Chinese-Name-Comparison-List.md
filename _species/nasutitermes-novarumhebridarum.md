@@ -31,7 +31,7 @@ synonym_localities: "Solomon Islands: Santa Cruz Archipelago: Graciosa Bay; Papu
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**新赫布里底象白蚁**（*Nasutitermes novarumhebridarum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren & Holmgren 于 1915 年描述，模式产地为 Vanuatu: Ambrym。分布记录包括所罗门群岛、新喀里多尼亚（法）、巴布亚新几内亚、瓦努阿图。本站记录本种有 2 个次异名。
+**新赫布里底象白蚁**（*Nasutitermes novarumhebridarum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren & Holmgren 于 1915 年描述，模式产地为 Vanuatu: Ambrym。分布记录包括所罗门群岛、新喀里多尼亚（法）、巴布亚新几内亚、瓦努阿图。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Solomon Islands: Santa Cruz Archipelago: Graciosa Bay; Papu
 
 - **分布记录**：所罗门群岛、新喀里多尼亚（法）、巴布亚新几内亚、瓦努阿图
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Nasutitermes (Grallatotermes) oceanicum* Snyder, 1925: 439-440 —— 模式产地：Solomon Islands: Santa Cruz Archipelago: Graciosa Bay
 2. *Eutermes yandiniensis* Hill, 1927: 25-28 —— 模式产地：Papua New Guinea: New Britain: Rabaul
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes (Grallatotermes) oceanicum*、*Eutermes yandiniensis* 等）出现，本站统一归入 *Nasutitermes novarumhebridarum*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes (Grallatotermes) oceanicum*、*Eutermes yandiniensis* 等）出现，均归入 *Nasutitermes novarumhebridarum*。
 <!-- AUTO:END -->

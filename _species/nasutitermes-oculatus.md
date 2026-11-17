@@ -31,7 +31,7 @@ synonym_localities: "Sri Lanka: Peradeniya"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**眼显象白蚁**（*Nasutitermes oculatus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Sri Lanka: Peradeniya。分布记录包括斯里兰卡。本站记录本种有 1 个次异名。
+**眼显象白蚁**（*Nasutitermes oculatus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Sri Lanka: Peradeniya。分布记录包括斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Sri Lanka: Peradeniya"
 
 - **分布记录**：斯里兰卡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes longicornis* Holmgren, 1913: 283 —— 模式产地：Sri Lanka: Peradeniya
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes longicornis* 出现，本站统一归入 *Nasutitermes oculatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes longicornis* 出现，均归入 *Nasutitermes oculatus*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本站记录本种有 9 个次异名。
+**黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本种有 9 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 
 - **分布记录**：东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 9 个次异名（junior synonyms），按原始文献出处列出：
+本种有 9 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Arrhinotermes japonicus* Holmgren, 1912: 122-124 —— 模式产地：Taiwan: Botel Tobago
 2. *Arrhinotermes krakataui* Holmgren, 1913: 69-71 —— 模式产地：Indonesia: Krakatau
@@ -64,5 +62,5 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 8. *Prorhinotermes ravani* Roonwal & Maiti, 1966: 84-90 —— 模式产地：Philippines: Luzon: Rizal Province near Rizal-Bulacan boundary of Manila North road
 9. *Prorhinotermes panaitanensis* Thakur & Thakur, 1992: 251-257 —— 模式产地：India: Andaman Islands: Long Island
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Arrhinotermes japonicus*、*Arrhinotermes krakataui*、*Termitogetonella tibiaoensis*、*Prorhinotermes luzonensis*、*Prorhinotermes gracilis*、*Prorhinotermes shiva*、*Prorhinotermes tibiaoensiformis*、*Prorhinotermes ravani* 等）出现，本站统一归入 *Prorhinotermes flavus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Arrhinotermes japonicus*、*Arrhinotermes krakataui*、*Termitogetonella tibiaoensis*、*Prorhinotermes luzonensis*、*Prorhinotermes gracilis*、*Prorhinotermes shiva*、*Prorhinotermes tibiaoensiformis*、*Prorhinotermes ravani* 等）出现，均归入 *Prorhinotermes flavus*。
 <!-- AUTO:END -->

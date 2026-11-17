@@ -28,7 +28,7 @@ synonym_localities: "Indonesia: Kalimantan: Balik-Papan"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**南亚乳白蚁**（*Coptotermes travians*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Marudi。分布记录包括印度尼西亚苏门答腊、马来西亚、新加坡。本站记录本种有 1 个次异名。
+**南亚乳白蚁**（*Coptotermes travians*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Marudi。分布记录包括印度尼西亚苏门答腊、马来西亚、新加坡。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Indonesia: Kalimantan: Balik-Papan"
 
 - **分布记录**：印度尼西亚苏门答腊、马来西亚、新加坡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes bornensis* Oshima, 1914: 21-22 —— 模式产地：Indonesia: Kalimantan: Balik-Papan
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes bornensis* 出现，本站统一归入 *Coptotermes travians*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes bornensis* 出现，均归入 *Coptotermes travians*。
 <!-- AUTO:END -->

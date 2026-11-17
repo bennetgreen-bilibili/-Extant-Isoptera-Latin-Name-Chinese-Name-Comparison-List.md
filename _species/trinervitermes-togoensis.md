@@ -31,7 +31,7 @@ synonym_localities: "Sudan: Kaka; Mali: Belia"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多哥兰三脉白蚁**（*Trinervitermes togoensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Ghana: Ho。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、印度、尼日尔、贝宁、厄立特里亚、埃塞俄比亚、加纳、几内亚、马里、尼日利亚、塞拉利昂、苏丹、乌干达。本站记录本种有 2 个次异名。
+**多哥兰三脉白蚁**（*Trinervitermes togoensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Ghana: Ho。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、印度、尼日尔、贝宁、厄立特里亚、埃塞俄比亚、加纳、几内亚、马里、尼日利亚、塞拉利昂、苏丹、乌干达。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Sudan: Kaka; Mali: Belia"
 
 - **分布记录**：科特迪瓦、塞内加尔、多哥、布基纳法索、印度、尼日尔、贝宁、厄立特里亚、埃塞俄比亚、加纳、几内亚、马里、尼日利亚、塞拉利昂、苏丹、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes terricola* Trägårdh, 1904: 31-33 —— 模式产地：Sudan: Kaka
 2. *Trinervitermes nigeriensis* Sjöstedt, 1926: 332-333 —— 模式产地：Mali: Belia
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes terricola*、*Trinervitermes nigeriensis* 等）出现，本站统一归入 *Trinervitermes togoensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes terricola*、*Trinervitermes nigeriensis* 等）出现，均归入 *Trinervitermes togoensis*。
 <!-- AUTO:END -->

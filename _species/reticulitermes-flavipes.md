@@ -28,7 +28,7 @@ synonym_localities: "United States: Pennsylvania; United States: Texas: Beaumont
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**北美散白蚁**（*Reticulitermes flavipes*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1837 年描述，模式产地为 Austria: Schönbrunn。分布记录包括北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭。文献另注：随贸易引入欧洲。本站记录本种有 3 个次异名。
+**北美散白蚁**（*Reticulitermes flavipes*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1837 年描述，模式产地为 Austria: Schönbrunn。分布记录包括北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭。文献另注：随贸易引入欧洲。本种有 3 个次异名。
 
 ## 词源
 
@@ -48,15 +48,13 @@ synonym_localities: "United States: Pennsylvania; United States: Texas: Beaumont
 - **分布记录**：北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭
 - **补充记录**：随贸易引入欧洲
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes frontalis* Haldeman, 1844: 55 —— 模式产地：United States: Pennsylvania
 2. *Reticulitermes claripennis* Banks, 1920: 47 —— 模式产地：United States: Texas: Beaumont
 3. *Reticulitermes flavipes santonensis* Feytaud, 1950: 380-381 —— 模式产地：France: La Rochelle
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes frontalis*、*Reticulitermes claripennis*、*Reticulitermes flavipes santonensis* 等）出现，本站统一归入 *Reticulitermes flavipes*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes frontalis*、*Reticulitermes claripennis*、*Reticulitermes flavipes santonensis* 等）出现，均归入 *Reticulitermes flavipes*。
 <!-- AUTO:END -->

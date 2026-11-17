@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑白喙白蚁**（*Rhynchotermes diphyes*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括巴西。本站记录本种有 1 个次异名。
+**黑白喙白蚁**（*Rhynchotermes diphyes*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括巴西。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 
 - **分布记录**：巴西
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhynchotermes nyctobius* Mathews, 1977: 157 —— 模式产地：Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhynchotermes nyctobius* 出现，本站统一归入 *Rhynchotermes diphyes*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhynchotermes nyctobius* 出现，均归入 *Rhynchotermes diphyes*。
 <!-- AUTO:END -->

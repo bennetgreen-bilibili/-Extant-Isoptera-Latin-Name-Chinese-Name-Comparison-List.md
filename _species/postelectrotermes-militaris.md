@@ -28,7 +28,7 @@ synonym_localities: "Sri Lanka: Bogawantalawa"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**好斗后琥珀白蚁**（*Postelectrotermes militaris*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Sri Lanka: Bogawantalawa。分布记录包括斯里兰卡。本站记录本种有 1 个次异名。
+**好斗后琥珀白蚁**（*Postelectrotermes militaris*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Sri Lanka: Bogawantalawa。分布记录包括斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Sri Lanka: Bogawantalawa"
 
 - **分布记录**：斯里兰卡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes militaris unidentatus* Kemner, 1926: 381-382 —— 模式产地：Sri Lanka: Bogawantalawa
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes militaris unidentatus* 出现，本站统一归入 *Postelectrotermes militaris*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes militaris unidentatus* 出现，均归入 *Postelectrotermes militaris*。
 <!-- AUTO:END -->

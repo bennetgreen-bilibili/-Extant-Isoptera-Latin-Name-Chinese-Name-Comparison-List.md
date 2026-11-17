@@ -31,7 +31,7 @@ synonym_localities: "Madagascar: Andrangoloaka; Nosy Be; Madagascar: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽头考登白蚁**（*Kaudernitermes laticeps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Nosy Be。分布记录包括马达加斯加、马约特。本站记录本种有 2 个次异名。
+**宽头考登白蚁**（*Kaudernitermes laticeps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Nosy Be。分布记录包括马达加斯加、马约特。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Madagascar: Andrangoloaka; Nosy Be; Madagascar: ?"
 
 - **分布记录**：马达加斯加、马约特
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes canaliculatus* Wasmann, 1897: 168-169 —— 模式产地：Madagascar: Andrangoloaka
 2. *Eutermes mitis* Sjöstedt, 1902: 40 —— 模式产地：Nosy Be
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes canaliculatus*、*Eutermes mitis* 等）出现，本站统一归入 *Kaudernitermes laticeps*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes canaliculatus*、*Eutermes mitis* 等）出现，均归入 *Kaudernitermes laticeps*。
 <!-- AUTO:END -->

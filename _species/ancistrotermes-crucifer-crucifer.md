@@ -32,7 +32,7 @@ synonym_localities: "(country unknown): ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Ancistrotermes crucifer crucifer*）是十字钩白蚁（*Ancistrotermes crucifer*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）。本亚种由 Sjöstedt 于 1897 年描述，模式产地为 Cameroon: Abo; Sierra Leone: ?。本页暂无单列的分布记录，母种 *Ancistrotermes crucifer* 的分布见下文「分布」一节。本站记录本亚种有 1 个次异名。
+**指名亚种**（*Ancistrotermes crucifer crucifer*）是十字钩白蚁（*Ancistrotermes crucifer*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）。本亚种由 Sjöstedt 于 1897 年描述，模式产地为 Cameroon: Abo; Sierra Leone: ?。本页暂无单列的分布记录，母种 *Ancistrotermes crucifer* 的分布见下文「分布」一节。本亚种有 1 个次异名。
 
 ## 词源
 
@@ -56,9 +56,9 @@ synonym_localities: "(country unknown): ?"
 
 ## 次异名
 
-本站记录本亚种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本亚种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microtermes camerunensis* Holmgren, 1913: 332 —— 模式产地：(country unknown): ?
 
-在旧文献、地方名录与数据库检索中，本亚种可能以异名 *Microtermes camerunensis* 出现，本站统一归入 *Ancistrotermes crucifer crucifer*。
+在旧文献、地方名录与数据库检索中，本亚种可能以异名 *Microtermes camerunensis* 出现，均归入 *Ancistrotermes crucifer crucifer*。
 <!-- AUTO:END -->

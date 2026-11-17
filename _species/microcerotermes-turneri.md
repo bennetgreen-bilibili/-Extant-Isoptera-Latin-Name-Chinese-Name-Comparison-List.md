@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland: Rockhampton; Australia: Queensland: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**特纳锯白蚁**（*Microcerotermes turneri*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括大洋洲、澳大利亚。本站记录本种有 2 个次异名。
+**特纳锯白蚁**（*Microcerotermes turneri*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括大洋洲、澳大利亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Australia: Queensland: Rockhampton; Australia: Queensland: 
 
 - **分布记录**：大洋洲、澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microcerotermes neglectus* Rosen, 1912: 228-229 —— 模式产地：Australia: Queensland: Rockhampton
 2. *Microcerotermes excisus* Mjöberg, 1920: 105-107 —— 模式产地：Australia: Queensland: Glen Lamington, near Lamington
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Microcerotermes neglectus*、*Microcerotermes excisus* 等）出现，本站统一归入 *Microcerotermes turneri*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Microcerotermes neglectus*、*Microcerotermes excisus* 等）出现，均归入 *Microcerotermes turneri*。
 <!-- AUTO:END -->

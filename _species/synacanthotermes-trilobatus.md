@@ -31,7 +31,7 @@ synonym_localities: "Angola: Dundo"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三裂聚刺白蚁**（*Synacanthotermes trilobatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）聚刺白蚁属（*Synacanthotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Democratic Republic of the Congo: Kananga。分布记录包括安哥拉、刚果民主共和国、马拉维、赞比亚。本站记录本种有 1 个次异名。
+**三裂聚刺白蚁**（*Synacanthotermes trilobatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）聚刺白蚁属（*Synacanthotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Democratic Republic of the Congo: Kananga。分布记录包括安哥拉、刚果民主共和国、马拉维、赞比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Angola: Dundo"
 
 - **分布记录**：安哥拉、刚果民主共和国、马拉维、赞比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Synacanthotermes angolensis* Weidner, 1956: 68-72 —— 模式产地：Angola: Dundo
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Synacanthotermes angolensis* 出现，本站统一归入 *Synacanthotermes trilobatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Synacanthotermes angolensis* 出现，均归入 *Synacanthotermes trilobatus*。
 <!-- AUTO:END -->

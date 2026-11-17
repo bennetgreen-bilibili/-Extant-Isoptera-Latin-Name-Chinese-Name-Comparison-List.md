@@ -31,7 +31,7 @@ synonym_localities: "Taiwan: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小象白蚁**（*Nasutitermes parvonasutus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Nawa 于 1911 年描述，模式产地为 Taiwan: ?。分布记录包括中国台湾。本站记录本种有 1 个次异名。
+**小象白蚁**（*Nasutitermes parvonasutus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Nawa 于 1911 年描述，模式产地为 Taiwan: ?。分布记录包括中国台湾。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Taiwan: ?"
 
 - **分布记录**：中国台湾
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) watasei* Holmgren, 1912: 134-136 —— 模式产地：Taiwan: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) watasei* 出现，本站统一归入 *Nasutitermes parvonasutus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) watasei* 出现，均归入 *Nasutitermes parvonasutus*。
 <!-- AUTO:END -->

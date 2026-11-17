@@ -31,7 +31,7 @@ synonym_localities: "Mozambique: ?; South Africa: Transvaal: Messina; Namibia: O
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**米夏埃尔森大白蚁**（*Macrotermes michaelseni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Namibia: Okahandja。分布记录包括旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 4 个次异名。
+**米夏埃尔森大白蚁**（*Macrotermes michaelseni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Namibia: Okahandja。分布记录包括旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Mozambique: ?; South Africa: Transvaal: Messina; Namibia: O
 
 - **分布记录**：旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes (Termes) bellicosus mossambica* Hagen, 1858: 118-121 —— 模式产地：Mozambique: ?
 2. *Macrotermes bellicosus limpopoensis* Fuller, 1922: 73 —— 模式产地：South Africa: Transvaal: Messina
 3. *Macrotermes bellicosus kunenensis* Fuller, 1922: 73 —— 模式产地：Namibia: Ovamboland: Onganga
 4. *Macrotermes bellicosus tonga* Fuller, 1927: 137 —— 模式产地：South Africa: Natal: Upper Mkuzi Drift below Tshanana Peak
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes (Termes) bellicosus mossambica*、*Macrotermes bellicosus limpopoensis*、*Macrotermes bellicosus kunenensis*、*Macrotermes bellicosus tonga* 等）出现，本站统一归入 *Macrotermes michaelseni*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes (Termes) bellicosus mossambica*、*Macrotermes bellicosus limpopoensis*、*Macrotermes bellicosus kunenensis*、*Macrotermes bellicosus tonga* 等）出现，均归入 *Macrotermes michaelseni*。
 <!-- AUTO:END -->

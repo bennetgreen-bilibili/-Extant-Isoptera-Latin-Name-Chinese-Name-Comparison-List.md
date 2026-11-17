@@ -31,7 +31,7 @@ synonym_localities: "Myanmar: Palon (Pegù); Malaysia: Sarawak: Baram; Singapore
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**暗黄大白蚁**（*Macrotermes gilvus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Indonesia: Java: Bogor。分布记录包括旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南。本站记录本种有 12 个次异名。
+**暗黄大白蚁**（*Macrotermes gilvus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Indonesia: Java: Bogor。分布记录包括旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南。本种有 12 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Myanmar: Palon (Pegù); Malaysia: Sarawak: Baram; Singapore
 
 - **分布记录**：旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 12 个次异名（junior synonyms），按原始文献出处列出：
+本种有 12 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes azarelii* Wasmann, 1896: 626-628, 629 —— 模式产地：Myanmar: Palon (Pegù)
 2. *Termes malayanus* Haviland, 1898: 381-383 —— 模式产地：Malaysia: Sarawak: Baram
@@ -71,5 +69,5 @@ synonym_localities: "Myanmar: Palon (Pegù); Malaysia: Sarawak: Baram; Singapore
 11. *Macrotermes gilvus madurensis* Kemner, 1934: 82-83 —— 模式产地：Java: Palabouhanratou
 12. *Macrotermes gilvus kalshoveni* Kemner, 1934: 80-82 —— 模式产地：near Cheribon, Palimanan
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes azarelii*、*Termes malayanus*、*Termes (Macrotermes) manilanus*、*Termes (Macrotermes) philippinae*、*Termes (Macrotermes) luzonensis*、*Termes (Termes) copelandi*、*Macrotermes gilvus padangensis*、*Macrotermes gilvus borneensis* 等）出现，本站统一归入 *Macrotermes gilvus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes azarelii*、*Termes malayanus*、*Termes (Macrotermes) manilanus*、*Termes (Macrotermes) philippinae*、*Termes (Macrotermes) luzonensis*、*Termes (Termes) copelandi*、*Macrotermes gilvus padangensis*、*Macrotermes gilvus borneensis* 等）出现，均归入 *Macrotermes gilvus*。
 <!-- AUTO:END -->

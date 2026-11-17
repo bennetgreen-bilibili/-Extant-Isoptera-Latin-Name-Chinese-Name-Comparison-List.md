@@ -31,7 +31,7 @@ synonym_localities: "Thailand: Makham"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**普拉巴瓢白蚁**（*Bulbitermes prabhae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）瓢白蚁属（*Bulbitermes*）的一种。本种由 Krishna 于 1965 年描述，模式产地为 Myanmar: Maymyo, 1/4 mile from Botanical Garden。分布记录包括越南、缅甸、泰国。本站记录本种有 1 个次异名。
+**普拉巴瓢白蚁**（*Bulbitermes prabhae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）瓢白蚁属（*Bulbitermes*）的一种。本种由 Krishna 于 1965 年描述，模式产地为 Myanmar: Maymyo, 1/4 mile from Botanical Garden。分布记录包括越南、缅甸、泰国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Thailand: Makham"
 
 - **分布记录**：越南、缅甸、泰国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Bulbitermes makhamensis* Ahmad, 1965: 84-85 —— 模式产地：Thailand: Makham
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Bulbitermes makhamensis* 出现，本站统一归入 *Bulbitermes prabhae*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Bulbitermes makhamensis* 出现，均归入 *Bulbitermes prabhae*。
 <!-- AUTO:END -->

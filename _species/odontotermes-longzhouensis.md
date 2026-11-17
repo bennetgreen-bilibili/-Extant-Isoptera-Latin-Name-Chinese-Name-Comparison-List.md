@@ -31,7 +31,7 @@ synonym_localities: "China: Guangxi Province: Shanglin"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**龙州土白蚁**（*Odontotermes longzhouensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Lin 于 1981 年描述，模式产地为 China: Guangxi Province: Longzhou。分布记录包括广西（上林）、中国。本站记录本种有 1 个次异名。
+**龙州土白蚁**（*Odontotermes longzhouensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Lin 于 1981 年描述，模式产地为 China: Guangxi Province: Longzhou。分布记录包括广西（上林）、中国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "China: Guangxi Province: Shanglin"
 
 - **分布记录**：广西（上林）、中国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes shanglinensis* Li, 1986: 194-195 —— 模式产地：China: Guangxi Province: Shanglin
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes shanglinensis* 出现，本站统一归入 *Odontotermes longzhouensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes shanglinensis* 出现，均归入 *Odontotermes longzhouensis*。
 <!-- AUTO:END -->

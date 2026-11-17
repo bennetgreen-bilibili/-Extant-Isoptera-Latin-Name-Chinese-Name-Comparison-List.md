@@ -31,7 +31,7 @@ synonym_localities: "Brasil: São Paulo: São Vicente, Ilha Porchat [23.98S 46.3
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**栗头歧白蚁**（*Diversitermes castaniceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]。分布记录包括巴西、巴拉圭、玻利维亚。本站记录本种有 1 个次异名。
+**栗头歧白蚁**（*Diversitermes castaniceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]。分布记录包括巴西、巴拉圭、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: São Paulo: São Vicente, Ilha Porchat [23.98S 46.3
 
 - **分布记录**：巴西、巴拉圭、玻利维亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Diversitermes eidmanni* Roonwal, Chhotani & Verma, 1981: 348 —— 模式产地：Brasil: São Paulo: São Vicente, Ilha Porchat \[23.98S 46.37W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Diversitermes eidmanni* 出现，本站统一归入 *Diversitermes castaniceps*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Diversitermes eidmanni* 出现，均归入 *Diversitermes castaniceps*。
 <!-- AUTO:END -->

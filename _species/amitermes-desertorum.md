@@ -31,7 +31,7 @@ synonym_localities: "Tunisia: Kairouan"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**遗弃弓白蚁**（*Amitermes desertorum*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Desneux 于 1902 年描述，模式产地为 Algeria: "dans le Souf, entre Maouiet-Fezan et Tougourt."。分布记录包括阿尔及利亚、埃及、利比亚、突尼斯。本站记录本种有 1 个次异名。
+**遗弃弓白蚁**（*Amitermes desertorum*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Desneux 于 1902 年描述，模式产地为 Algeria: "dans le Souf, entre Maouiet-Fezan et Tougourt."。分布记录包括阿尔及利亚、埃及、利比亚、突尼斯。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Tunisia: Kairouan"
 
 - **分布记录**：阿尔及利亚、埃及、利比亚、突尼斯
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hamitermes santschi* Silvestri, 1911: 105-106 —— 模式产地：Tunisia: Kairouan
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes santschi* 出现，本站统一归入 *Amitermes desertorum*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes santschi* 出现，均归入 *Amitermes desertorum*。
 <!-- AUTO:END -->

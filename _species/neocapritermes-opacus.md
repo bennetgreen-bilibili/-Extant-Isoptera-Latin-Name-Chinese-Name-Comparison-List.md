@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本站记录本种有 6 个次异名。
+**发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本种有 6 个次异名。
 
 ## 词源
 
@@ -51,11 +51,9 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 
 - **分布记录**：巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本种有 6 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes saliens* Müller, 1873: 347 —— 模式产地：Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]
 2. *Termes orensis* Sörensen, 1884: 22-23 —— 模式产地：Argentina: Chaco: Río de Oro \[ 27.0422S 58.5667W \]
@@ -64,5 +62,5 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 5. *Capritermes alienus* Rosen, 1912: 229-230 —— 模式产地：(country unknown): ?
 6. *Capritermes (Neocapritermes) parallelus* Snyder, 1926: 67-69 —— 模式产地：Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes saliens*、*Termes orensis*、*Termes lacussancti*、*Termes (Capritermes) paradoxus*、*Capritermes alienus*、*Capritermes (Neocapritermes) parallelus* 等）出现，本站统一归入 *Neocapritermes opacus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes saliens*、*Termes orensis*、*Termes lacussancti*、*Termes (Capritermes) paradoxus*、*Capritermes alienus*、*Capritermes (Neocapritermes) parallelus* 等）出现，均归入 *Neocapritermes opacus*。
 <!-- AUTO:END -->

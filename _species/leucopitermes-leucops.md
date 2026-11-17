@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Java: Bogor"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**白脸白脸白蚁**（*Leucopitermes leucops*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）白脸白蚁属（*Leucopitermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1914 年描述，模式产地为 Indonesia: Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap; Taiping: Maxwell’s Hill。分布记录包括印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
+**白脸白脸白蚁**（*Leucopitermes leucops*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）白脸白蚁属（*Leucopitermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1914 年描述，模式产地为 Indonesia: Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap; Taiping: Maxwell’s Hill。分布记录包括印度尼西亚、马来西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Indonesia: Java: Bogor"
 
 - **分布记录**：印度尼西亚、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Subulitermes javanellus* Kemner, 1934: 120-122 —— 模式产地：Indonesia: Java: Bogor
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Subulitermes javanellus* 出现，本站统一归入 *Leucopitermes leucops*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Subulitermes javanellus* 出现，均归入 *Leucopitermes leucops*。
 <!-- AUTO:END -->

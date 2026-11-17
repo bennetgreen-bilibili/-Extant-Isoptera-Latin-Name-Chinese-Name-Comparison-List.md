@@ -28,7 +28,7 @@ synonym_localities: "Madagascar: Lac Alaotrana [Manaloha]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长头后琥珀白蚁**（*Postelectrotermes longiceps*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: La Mandaka。分布记录包括马达加斯加。本站记录本种有 1 个次异名。
+**长头后琥珀白蚁**（*Postelectrotermes longiceps*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: La Mandaka。分布记录包括马达加斯加。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Madagascar: Lac Alaotrana [Manaloha]"
 
 - **分布记录**：马达加斯加
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Glyptotermes alaotranus* Cachan, 1951: 6 —— 模式产地：Madagascar: Lac Alaotrana \[Manaloha\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Glyptotermes alaotranus* 出现，本站统一归入 *Postelectrotermes longiceps*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Glyptotermes alaotranus* 出现，均归入 *Postelectrotermes longiceps*。
 <!-- AUTO:END -->

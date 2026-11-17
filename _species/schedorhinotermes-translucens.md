@@ -28,7 +28,7 @@ synonym_localities: "Indonesia: Sulawesi; Solomon Islands: Ugi Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**透明长鼻白蚁**（*Schedorhinotermes translucens*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚。本站记录本种有 2 个次异名。
+**透明长鼻白蚁**（*Schedorhinotermes translucens*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Indonesia: Sulawesi; Solomon Islands: Ugi Island"
 
 - **分布记录**：所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhinotermes (Schedorhinotermes) celebensis* Holmgren, 1911: 458 —— 模式产地：Indonesia: Sulawesi
 2. *Rhinotermes (Schedorhinotermes) marjoriae* Snyder, 1925: 404-405 —— 模式产地：Solomon Islands: Ugi Island
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes (Schedorhinotermes) celebensis*、*Rhinotermes (Schedorhinotermes) marjoriae* 等）出现，本站统一归入 *Schedorhinotermes translucens*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes (Schedorhinotermes) celebensis*、*Rhinotermes (Schedorhinotermes) marjoriae* 等）出现，均归入 *Schedorhinotermes translucens*。
 <!-- AUTO:END -->

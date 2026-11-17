@@ -28,7 +28,7 @@ synonym_localities: "Mexico: Colima State: Colima; Colima State: Jala; Colima St
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凸背异白蚁**（*Heterotermes convexinotatus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Panama: Colón。分布记录包括加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马。本站记录本种有 2 个次异名。
+**凸背异白蚁**（*Heterotermes convexinotatus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Panama: Colón。分布记录包括加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Mexico: Colima State: Colima; Colima State: Jala; Colima St
 
 - **分布记录**：加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Heterotermes orthognathus* Light, 1933: 113-114 —— 模式产地：Mexico: Colima State: Colima
 2. *Heterotermes pallidus* Light, 1935: 247-248 —— 模式产地：Colima State: Jala
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Heterotermes orthognathus*、*Heterotermes pallidus* 等）出现，本站统一归入 *Heterotermes convexinotatus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Heterotermes orthognathus*、*Heterotermes pallidus* 等）出现，均归入 *Heterotermes convexinotatus*。
 <!-- AUTO:END -->

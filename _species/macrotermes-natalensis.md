@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Transvaal: Nylstroom; South Africa: Transvaal
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**纳塔尔大白蚁**（*Macrotermes natalensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Estcourt。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
+**纳塔尔大白蚁**（*Macrotermes natalensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Estcourt。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "South Africa: Transvaal: Nylstroom; South Africa: Transvaal
 
 - **分布记录**：旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Macrotermes natalensis intermedius* Fuller, 1922: 76 —— 模式产地：South Africa: Transvaal: Nylstroom
 2. *Macrotermes natalensis transvaalensis* Fuller, 1922: 76 —— 模式产地：South Africa: Transvaal: Witbank
 3. *Macrotermes natalensis durbanensis* Fuller, 1927: 136 —— 模式产地：South Africa: Natal: Durban
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Macrotermes natalensis intermedius*、*Macrotermes natalensis transvaalensis*、*Macrotermes natalensis durbanensis* 等）出现，本站统一归入 *Macrotermes natalensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Macrotermes natalensis intermedius*、*Macrotermes natalensis transvaalensis*、*Macrotermes natalensis durbanensis* 等）出现，均归入 *Macrotermes natalensis*。
 <!-- AUTO:END -->

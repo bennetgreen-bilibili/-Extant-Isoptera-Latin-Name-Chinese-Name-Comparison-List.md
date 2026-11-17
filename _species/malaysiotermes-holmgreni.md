@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Sarawak: Sabal Tapang; Malaysia: Sarawak"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍姆格伦马来白蚁**（*Malaysiotermes holmgreni*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）马来白蚁属（*Malaysiotermes*）的一种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Sarawak, 12 miles S of Kuching。分布记录包括印度尼西亚、马来西亚。本站记录本种有 2 个次异名。
+**霍姆格伦马来白蚁**（*Malaysiotermes holmgreni*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）马来白蚁属（*Malaysiotermes*）的一种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Sarawak, 12 miles S of Kuching。分布记录包括印度尼西亚、马来西亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Malaysia: Sarawak: Sabal Tapang; Malaysia: Sarawak"
 
 - **分布记录**：印度尼西亚、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Aciculioiditermes denticulatus* Ahmad, 1968: 22-23 —— 模式产地：Malaysia: Sarawak: Sabal Tapang
 2. *Aciculioiditermes sarawakensis* Ahmad, 1968: 23-25 —— 模式产地：Malaysia: Sarawak
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Aciculioiditermes denticulatus*、*Aciculioiditermes sarawakensis* 等）出现，本站统一归入 *Malaysiotermes holmgreni*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Aciculioiditermes denticulatus*、*Aciculioiditermes sarawakensis* 等）出现，均归入 *Malaysiotermes holmgreni*。
 <!-- AUTO:END -->

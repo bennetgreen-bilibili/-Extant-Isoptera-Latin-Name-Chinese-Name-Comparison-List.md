@@ -28,7 +28,7 @@ synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: L
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长颚堆砂白蚁**（*Cryptotermes dudleyi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达。本站记录本种有 6 个次异名。
+**长颚堆砂白蚁**（*Cryptotermes dudleyi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达。本种有 6 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: L
 
 - **分布记录**：澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本种有 6 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes havilandi parasita* Wasmann, 1910: 120 —— 模式产地：Mauritius: ?
 2. *Calotermes (Cryptotermes) jacobsoni* Holmgren, 1913: 48 —— 模式产地：Indonesia: Java: Gunung Gedeh
@@ -61,5 +59,5 @@ synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: L
 5. *Cryptotermes (Planocryptotermes) primus* Kemner, 1932: 151-153 —— 模式产地：Sri Lanka: ?
 6. *Cryptotermes (Planocryptotermes) javanicus* Kemner, 1934: 47-49 —— 模式产地：Indonesia: Java: Bogor
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes havilandi parasita*、*Calotermes (Cryptotermes) jacobsoni*、*Planocryptotermes nocens*、*Cryptotermes thompsonae*、*Cryptotermes (Planocryptotermes) primus*、*Cryptotermes (Planocryptotermes) javanicus* 等）出现，本站统一归入 *Cryptotermes dudleyi*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes havilandi parasita*、*Calotermes (Cryptotermes) jacobsoni*、*Planocryptotermes nocens*、*Cryptotermes thompsonae*、*Cryptotermes (Planocryptotermes) primus*、*Cryptotermes (Planocryptotermes) javanicus* 等）出现，均归入 *Cryptotermes dudleyi*。
 <!-- AUTO:END -->

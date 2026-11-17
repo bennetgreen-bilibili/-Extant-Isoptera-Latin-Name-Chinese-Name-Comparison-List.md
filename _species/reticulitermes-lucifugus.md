@@ -28,7 +28,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**暗黑散白蚁**（*Reticulitermes lucifugus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。分布记录包括地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））。本站记录本种有 5 个次异名。
+**暗黑散白蚁**（*Reticulitermes lucifugus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。分布记录包括地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））。本种有 5 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 
 - **分布记录**：地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes arda* Forskål, 1775: 96-97 —— 模式产地：Yemen: Beitelfakíh
 2. *Hemerobius raphidioides* Villers, 1789: 56 —— 模式产地：(country unknown): "Europa"
@@ -60,7 +58,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 4. *Termes parvulum* Illiger, 1807: 16 —— 模式产地：Portugal: ?
 5. *Termes pusillus* Walker, 1853: 528-529 —— 模式产地：(country unknown): ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes arda*、*Hemerobius raphidioides*、*Termes radicum*、*Termes parvulum*、*Termes pusillus* 等）出现，本站统一归入 *Reticulitermes lucifugus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes arda*、*Hemerobius raphidioides*、*Termes radicum*、*Termes parvulum*、*Termes pusillus* 等）出现，均归入 *Reticulitermes lucifugus*。
 
 ## 亚种
 

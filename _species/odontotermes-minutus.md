@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Sabah: Sandakan South District: Lungmanis"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小土白蚁**（*Odontotermes minutus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Amir 于 1975 年描述，模式产地为 Indonesia: Sumatra: Lampung: Way Kambas。分布记录包括东亚中国、印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
+**小土白蚁**（*Odontotermes minutus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Amir 于 1975 年描述，模式产地为 Indonesia: Sumatra: Lampung: Way Kambas。分布记录包括东亚中国、印度尼西亚、马来西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Malaysia: Sabah: Sandakan South District: Lungmanis"
 
 - **分布记录**：东亚中国、印度尼西亚、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes mathuri* Thapa, 1982: 271-274 —— 模式产地：Malaysia: Sabah: Sandakan South District: Lungmanis
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes mathuri* 出现，本站统一归入 *Odontotermes minutus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes mathuri* 出现，均归入 *Odontotermes minutus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Tanzania: Usambara: Mombo"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**雷登小白蚁**（*Microtermes redenianus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Tanzania: Tanga。分布记录包括东非、坦桑尼亚、乍得、刚果民主共和国。本站记录本种有 1 个次异名。
+**雷登小白蚁**（*Microtermes redenianus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Tanzania: Tanga。分布记录包括东非、坦桑尼亚、乍得、刚果民主共和国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Tanzania: Usambara: Mombo"
 
 - **分布记录**：东非、坦桑尼亚、乍得、刚果民主共和国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microtermes usambaricus* Sjöstedt, 1926: 173 —— 模式产地：Tanzania: Usambara: Mombo
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes usambaricus* 出现，本站统一归入 *Microtermes redenianus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes usambaricus* 出现，均归入 *Microtermes redenianus*。
 <!-- AUTO:END -->

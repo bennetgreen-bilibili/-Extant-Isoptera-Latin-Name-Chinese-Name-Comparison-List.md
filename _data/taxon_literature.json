@@ -5254,12 +5254,11 @@
           },
           {
             "src": [
-              "S0001",
-              "S0003"
+              "S0001"
             ],
-            "text": "据《白蚁学》（程冬保、杨兆芬，2014）记载，台湾乳白蚁（<i>Coptotermes formosanus</i>）蚁巢含水量为 30%–37%，平均 33.3%；据《中国动物志·昆虫纲·第十七卷·等翅目》记载，一个成熟群体一年可产生 20 000 头以上有翅成虫。",
-            "text_en": "According to Cheng and Yang (2014), nests of <i>Coptotermes formosanus</i> hold 30%–37% water, averaging 33.3%; according to the Fauna Sinica volume on Isoptera, a mature colony can produce more than 20 000 alates in a year.",
-            "text_es": "Según Cheng y Yang (2014), los nidos de <i>Coptotermes formosanus</i> contienen entre 30% y 37% de agua, con una media de 33,3%; según el volumen de Fauna Sinica sobre Isoptera, una colonia madura puede producir más de 20 000 aladas al año."
+            "text": "据《白蚁学》（程冬保、杨兆芬，2014）记载，台湾乳白蚁（<i>Coptotermes formosanus</i>）蚁巢含水量为 30%–37%，平均 33.3%。",
+            "text_en": "According to Cheng and Yang (2014), nests of <i>Coptotermes formosanus</i> hold 30%–37% water, averaging 33.3%.",
+            "text_es": "Según Cheng y Yang (2014), los nidos de <i>Coptotermes formosanus</i> contienen entre 30% y 37% de agua, con una media de 33,3%."
           },
           {
             "src": [
@@ -5281,10 +5280,6 @@
       {
         "id": "S0001",
         "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
-      },
-      {
-        "id": "S0003",
-        "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
       },
       {
         "id": "S0372",

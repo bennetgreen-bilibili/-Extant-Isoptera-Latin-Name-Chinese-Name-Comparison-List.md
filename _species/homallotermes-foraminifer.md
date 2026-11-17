@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Penang"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具孔平白蚁**（*Homallotermes foraminifer*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）平白蚁属（*Homallotermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak。分布记录包括印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
+**具孔平白蚁**（*Homallotermes foraminifer*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）平白蚁属（*Homallotermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak。分布记录包括印度尼西亚、马来西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Malaysia: Penang"
 
 - **分布记录**：印度尼西亚、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes (Capritermes) penangi* Holmgren, 1914: 283-284 —— 模式产地：Malaysia: Penang
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes (Capritermes) penangi* 出现，本站统一归入 *Homallotermes foraminifer*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes (Capritermes) penangi* 出现，均归入 *Homallotermes foraminifer*。
 <!-- AUTO:END -->

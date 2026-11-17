@@ -28,7 +28,7 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Senegal: Thi�
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**叶额堆砂白蚁**（*Cryptotermes havilandi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Equatorial Guinea: Bioko。分布记录包括非洲南部、南非、莫桑比克、西非、喀麦隆、尼日利亚、南美、巴西、安提瓜和巴布达、孟加拉国、巴巴多斯、欧罗巴岛（法国）、瓜德罗普、圭亚那、印度、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、美属维尔京群岛。本站记录本种有 2 个次异名。
+**叶额堆砂白蚁**（*Cryptotermes havilandi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Equatorial Guinea: Bioko。分布记录包括非洲南部、南非、莫桑比克、西非、喀麦隆、尼日利亚、南美、巴西、安提瓜和巴布达、孟加拉国、巴巴多斯、欧罗巴岛（法国）、瓜德罗普、圭亚那、印度、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、美属维尔京群岛。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Senegal: Thi�
 
 - **分布记录**：非洲南部、南非、莫桑比克、西非、喀麦隆、尼日利亚、南美、巴西、安提瓜和巴布达、孟加拉国、巴巴多斯、欧罗巴岛（法国）、瓜德罗普、圭亚那、印度、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、美属维尔京群岛
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes lamanianus* Sjöstedt, 1911: 137-139 —— 模式产地：Democratic Republic of the Congo: Mukimbungu
 2. *Cryptotermes senegalensis* Silvestri, 1914: 7-8 —— 模式产地：Senegal: Thiès
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes lamanianus*、*Cryptotermes senegalensis* 等）出现，本站统一归入 *Cryptotermes havilandi*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes lamanianus*、*Cryptotermes senegalensis* 等）出现，均归入 *Cryptotermes havilandi*。
 <!-- AUTO:END -->

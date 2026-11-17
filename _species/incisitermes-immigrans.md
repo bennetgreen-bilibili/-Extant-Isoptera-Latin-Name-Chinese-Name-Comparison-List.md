@@ -28,7 +28,7 @@ synonym_localities: "United States: Hawaii: Hilo; Panama: Ancon; Kiribati: Phoen
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**移境楹白蚁**（*Incisitermes immigrans*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1922 年描述，模式产地为 United States: Hawaii: Honolulu, Oahu。分布记录包括中美洲至波利尼西亚。本站记录本种有 3 个次异名。
+**移境楹白蚁**（*Incisitermes immigrans*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1922 年描述，模式产地为 United States: Hawaii: Honolulu, Oahu。分布记录包括中美洲至波利尼西亚。本种有 3 个次异名。
 
 ## 词源
 
@@ -48,15 +48,13 @@ synonym_localities: "United States: Hawaii: Hilo; Panama: Ancon; Kiribati: Phoen
 
 - **分布记录**：中美洲至波利尼西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes marjoriae* Snyder, 1924: 3-4 —— 模式产地：United States: Hawaii: Hilo
 2. *Kalotermes (Kalotermes) clevelandi* Snyder, 1926: 7-8 —— 模式产地：Panama: Ancon
 3. *Calotermes (Calotermes) curvithorax* Kelsey, 1944: 47-51 —— 模式产地：Kiribati: Phoenix Islands, Canton Island
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Kalotermes marjoriae*、*Kalotermes (Kalotermes) clevelandi*、*Calotermes (Calotermes) curvithorax* 等）出现，本站统一归入 *Incisitermes immigrans*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Kalotermes marjoriae*、*Kalotermes (Kalotermes) clevelandi*、*Calotermes (Calotermes) curvithorax* 等）出现，均归入 *Incisitermes immigrans*。
 <!-- AUTO:END -->

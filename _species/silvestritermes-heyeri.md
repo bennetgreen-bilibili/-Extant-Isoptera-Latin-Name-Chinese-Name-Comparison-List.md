@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本站记录本种有 1 个次异名。
+**海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 
 - **分布记录**：哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Armitermes (Armitermes) holmgreni* Snyder, 1926: 22-23 —— 模式产地：Bolivia: El Beni: Ivón \[11.13S 66.13W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Armitermes) holmgreni* 出现，本站统一归入 *Silvestritermes heyeri*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Armitermes) holmgreni* 出现，均归入 *Silvestritermes heyeri*。
 <!-- AUTO:END -->

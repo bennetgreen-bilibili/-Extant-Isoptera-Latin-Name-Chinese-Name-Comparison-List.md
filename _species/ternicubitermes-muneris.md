@@ -31,7 +31,7 @@ synonym_localities: "Malawi: Mlanje"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**职司三方白蚁**（*Ternicubitermes muneris*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）三方白蚁属（*Ternicubitermes*）的一种。本种由 Sjöstedt 于 1913 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Welgelegen。分布记录包括刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、赞比亚。本站记录本种有 1 个次异名。
+**职司三方白蚁**（*Ternicubitermes muneris*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）三方白蚁属（*Ternicubitermes*）的一种。本种由 Sjöstedt 于 1913 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Welgelegen。分布记录包括刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、赞比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Malawi: Mlanje"
 
 - **分布记录**：刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、赞比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Cubitermes) bisulcatus* Sjöstedt, 1914: 4-6 —— 模式产地：Malawi: Mlanje
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Cubitermes) bisulcatus* 出现，本站统一归入 *Ternicubitermes muneris*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Cubitermes) bisulcatus* 出现，均归入 *Ternicubitermes muneris*。
 <!-- AUTO:END -->

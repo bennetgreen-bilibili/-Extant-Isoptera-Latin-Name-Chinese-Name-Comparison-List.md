@@ -31,7 +31,7 @@ synonym_localities: "Ghana: Keta; Democratic Republic of the Congo: \"Haut Uél�
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西部三脉白蚁**（*Trinervitermes occidentalis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Guinea Bissau: Bissau。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达。本站记录本种有 4 个次异名。
+**西部三脉白蚁**（*Trinervitermes occidentalis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Guinea Bissau: Bissau。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Ghana: Keta; Democratic Republic of the Congo: \"Haut Uél�
 
 - **分布记录**：科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Trinervitermes auriterrae* Sjöstedt, 1926: 2-3 —— 模式产地：Ghana: Keta
 2. *Trinervitermes maudanicus* Sjöstedt, 1926: 156-158 —— 模式产地：Democratic Republic of the Congo: "Haut Uélé": Mauda
 3. *Nasutitermes (Trinervitermes) lutzi* Emerson, 1928: 494-495 —— 模式产地：Democratic Republic of the Congo: Niangara
 4. *Nasutitermes (Trinervitermes) bettonianus sulciceps* Emerson, 1928: 493 —— 模式产地：Democratic Republic of the Congo: Garamba
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Trinervitermes auriterrae*、*Trinervitermes maudanicus*、*Nasutitermes (Trinervitermes) lutzi*、*Nasutitermes (Trinervitermes) bettonianus sulciceps* 等）出现，本站统一归入 *Trinervitermes occidentalis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Trinervitermes auriterrae*、*Trinervitermes maudanicus*、*Nasutitermes (Trinervitermes) lutzi*、*Nasutitermes (Trinervitermes) bettonianus sulciceps* 等）出现，均归入 *Trinervitermes occidentalis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Cameroon: River Nyong, 16 km south of Makak"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**最小近扭白蚁**（*Pericapritermes minimus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Weidner 于 1956 年描述，模式产地为 Angola: Dundo。分布记录包括安哥拉、喀麦隆、刚果民主共和国。本站记录本种有 1 个次异名。
+**最小近扭白蚁**（*Pericapritermes minimus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Weidner 于 1956 年描述，模式产地为 Angola: Dundo。分布记录包括安哥拉、喀麦隆、刚果民主共和国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Cameroon: River Nyong, 16 km south of Makak"
 
 - **分布记录**：安哥拉、喀麦隆、刚果民主共和国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Pericapritermes amplignathus* Harris, 1956: 932-933 —— 模式产地：Cameroon: River Nyong, 16 km south of Makak
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes amplignathus* 出现，本站统一归入 *Pericapritermes minimus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes amplignathus* 出现，均归入 *Pericapritermes minimus*。
 <!-- AUTO:END -->

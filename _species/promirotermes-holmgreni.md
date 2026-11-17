@@ -31,7 +31,7 @@ synonym_localities: "Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍姆格伦前奇白蚁**（*Promirotermes holmgreni*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama。分布记录包括塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆。本站记录本种有 1 个次异名。
+**霍姆格伦前奇白蚁**（*Promirotermes holmgreni*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama。分布记录包括塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,15 +51,13 @@ synonym_localities: "Ghana: Accra"
 
 - **分布记录**：塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Promirotermes gracilipes minor* Sjöstedt, 1926: 244 —— 模式产地：Ghana: Accra
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Promirotermes gracilipes minor* 出现，本站统一归入 *Promirotermes holmgreni*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Promirotermes gracilipes minor* 出现，均归入 *Promirotermes holmgreni*。
 
 ## 亚种
 

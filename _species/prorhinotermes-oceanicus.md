@@ -28,7 +28,7 @@ synonym_localities: "Costa Rica: Cocos Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海洋原鼻白蚁**（*Prorhinotermes oceanicus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Costa Rica: Cocos Island。分布记录包括哥斯达黎加、哥斯达黎加可可斯岛。本站记录本种有 1 个次异名。
+**海洋原鼻白蚁**（*Prorhinotermes oceanicus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Costa Rica: Cocos Island。分布记录包括哥斯达黎加、哥斯达黎加可可斯岛。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Costa Rica: Cocos Island"
 
 - **分布记录**：哥斯达黎加、哥斯达黎加可可斯岛
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Leucotermes insularis* Wasmann, 1902: 140, 160 —— 模式产地：Costa Rica: Cocos Island
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Leucotermes insularis* 出现，本站统一归入 *Prorhinotermes oceanicus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Leucotermes insularis* 出现，均归入 *Prorhinotermes oceanicus*。
 <!-- AUTO:END -->

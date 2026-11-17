@@ -28,7 +28,7 @@ synonym_localities: "(country unknown): Sary-Khodga desert, village Sarchaly; Tu
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**安格无刺白蚁**（*Anacanthotermes ahngerianus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Jacobson 于 1905 年描述，模式产地为 Turkmenistan: Jagly-olum on Atrek River。分布记录包括中东、哈萨克斯坦、乌兹别克斯坦、伊朗、土库曼斯坦。本站记录本种有 1 个次异名。
+**安格无刺白蚁**（*Anacanthotermes ahngerianus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Jacobson 于 1905 年描述，模式产地为 Turkmenistan: Jagly-olum on Atrek River。分布记录包括中东、哈萨克斯坦、乌兹别克斯坦、伊朗、土库曼斯坦。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "(country unknown): Sary-Khodga desert, village Sarchaly; Tu
 
 - **分布记录**：中东、哈萨克斯坦、乌兹别克斯坦、伊朗、土库曼斯坦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anacanthotermes ahngerianus opacus* Luppova, 1958: 102, 104 —— 模式产地：(country unknown): Sary-Khodga desert, village Sarchaly
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anacanthotermes ahngerianus opacus* 出现，本站统一归入 *Anacanthotermes ahngerianus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anacanthotermes ahngerianus opacus* 出现，均归入 *Anacanthotermes ahngerianus*。
 <!-- AUTO:END -->

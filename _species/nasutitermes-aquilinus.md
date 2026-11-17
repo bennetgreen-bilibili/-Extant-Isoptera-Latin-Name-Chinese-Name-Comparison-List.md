@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Rio Grande do Sul"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**鹰喙象白蚁**（*Nasutitermes aquilinus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]; Santa Catarina: Jaraguá do Sul \[26.4905S 49.0763W\]。分布记录包括巴西、巴拉圭、阿根廷、哥伦比亚。本站记录本种有 1 个次异名。
+**鹰喙象白蚁**（*Nasutitermes aquilinus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]; Santa Catarina: Jaraguá do Sul \[26.4905S 49.0763W\]。分布记录包括巴西、巴拉圭、阿根廷、哥伦比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Rio Grande do Sul"
 
 - **分布记录**：巴西、巴拉圭、阿根廷、哥伦比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) aquilinus rectifrons* Holmgren, 1910: 289 —— 模式产地：Brasil: Rio Grande do Sul
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) aquilinus rectifrons* 出现，本站统一归入 *Nasutitermes aquilinus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) aquilinus rectifrons* 出现，均归入 *Nasutitermes aquilinus*。
 <!-- AUTO:END -->

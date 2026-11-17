@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland, near Laura; Australia: Northern Terr
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**挖掘冢白蚁**（*Tumulitermes pastinator*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种。本种由 Hill 于 1915 年描述，模式产地为 Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport。分布记录包括澳大利亚。本站记录本种有 2 个次异名。
+**挖掘冢白蚁**（*Tumulitermes pastinator*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种。本种由 Hill 于 1915 年描述，模式产地为 Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport。分布记录包括澳大利亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Australia: Queensland, near Laura; Australia: Northern Terr
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes tyriei* Mjöberg, 1920: 59-61 —— 模式产地：Australia: Queensland, near Laura
 2. *Eutermes tribulis* Hill, 1923: 46-48 —— 模式产地：Australia: Northern Territory: Tennant Creek
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes tyriei*、*Eutermes tribulis* 等）出现，本站统一归入 *Tumulitermes pastinator*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes tyriei*、*Eutermes tribulis* 等）出现，均归入 *Tumulitermes pastinator*。
 <!-- AUTO:END -->

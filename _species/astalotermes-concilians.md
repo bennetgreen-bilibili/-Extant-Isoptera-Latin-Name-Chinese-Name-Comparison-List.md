@@ -31,7 +31,7 @@ synonym_localities: "Guinea: Mamou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**团结无利器白蚁**（*Astalotermes concilians*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括西非、几内亚、尼日利亚。本站记录本种有 1 个次异名。
+**团结无利器白蚁**（*Astalotermes concilians*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括西非、几内亚、尼日利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Guinea: Mamou"
 
 - **分布记录**：西非、几内亚、尼日利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes placidus* Silvestri, 1914: 63-64 —— 模式产地：Guinea: Mamou
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes placidus* 出现，本站统一归入 *Astalotermes concilians*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes placidus* 出现，均归入 *Astalotermes concilians*。
 <!-- AUTO:END -->

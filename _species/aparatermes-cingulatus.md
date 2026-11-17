@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N  58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**环带弯肠白蚁**（*Aparatermes cingulatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）弯肠白蚁属（*Aparatermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]。分布记录包括巴西、圭亚那地盾、法属圭亚那/圭亚那/苏里南、亚马孙地区、哥伦比亚/秘鲁/玻利维亚/厄瓜多尔、南美东南部、阿根廷/巴拉圭/乌拉圭、中美洲及加勒比。本站记录本种有 1 个次异名。
+**环带弯肠白蚁**（*Aparatermes cingulatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）弯肠白蚁属（*Aparatermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]。分布记录包括巴西、圭亚那地盾、法属圭亚那/圭亚那/苏里南、亚马孙地区、哥伦比亚/秘鲁/玻利维亚/厄瓜多尔、南美东南部、阿根廷/巴拉圭/乌拉圭、中美洲及加勒比。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N  58.7W]"
 
 - **分布记录**：巴西、圭亚那地盾、法属圭亚那/圭亚那/苏里南、亚马孙地区、哥伦比亚/秘鲁/玻利维亚/厄瓜多尔、南美东南部、阿根廷/巴拉圭/乌拉圭、中美洲及加勒比
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Aparatermes silvestrii* Emerson, 1925: 421-423 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N  58.7W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Aparatermes silvestrii* 出现，本站统一归入 *Aparatermes cingulatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Aparatermes silvestrii* 出现，均归入 *Aparatermes cingulatus*。
 <!-- AUTO:END -->

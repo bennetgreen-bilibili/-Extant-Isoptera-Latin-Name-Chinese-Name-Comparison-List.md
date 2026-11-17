@@ -31,7 +31,7 @@ synonym_localities: "Philippines: Luzon: Rizal Province: Las Piñas, near Manila
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**细瘦象白蚁**（*Nasutitermes gracilis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Oshima 于 1916 年描述，模式产地为 Philippines: Luzon; Laguna; Sarai, near Paete。分布记录包括印度尼西亚、菲律宾。本站记录本种有 2 个次异名。
+**细瘦象白蚁**（*Nasutitermes gracilis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Oshima 于 1916 年描述，模式产地为 Philippines: Luzon; Laguna; Sarai, near Paete。分布记录包括印度尼西亚、菲律宾。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Philippines: Luzon: Rizal Province: Las Piñas, near Manila
 
 - **分布记录**：印度尼西亚、菲律宾
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes minutus* Oshima, 1917: 19-20 —— 模式产地：Philippines: Luzon: Rizal Province: Las Piñas, near Manila
 2. *Eutermes (Rotunditermes) culasiensis* Oshima, 1920: 504-505 —— 模式产地：Philippines: Panay: Antique Province: Culasi
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes minutus*、*Eutermes (Rotunditermes) culasiensis* 等）出现，本站统一归入 *Nasutitermes gracilis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes minutus*、*Eutermes (Rotunditermes) culasiensis* 等）出现，均归入 *Nasutitermes gracilis*。
 <!-- AUTO:END -->

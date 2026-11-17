@@ -31,7 +31,7 @@ synonym_localities: "India: Karnataka: Huvin Hippargi; Karnataka: Kaladgi; Karna
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**震撼大白蚁**（*Macrotermes convulsionarius*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 König 于 1779 年描述，模式产地为 India: Tamil Nadu: Tanjore (Tranqueba)。分布记录包括南亚、印度、斯里兰卡。本站记录本种有 1 个次异名。
+**震撼大白蚁**（*Macrotermes convulsionarius*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 König 于 1779 年描述，模式产地为 India: Tamil Nadu: Tanjore (Tranqueba)。分布记录包括南亚、印度、斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Karnataka: Huvin Hippargi; Karnataka: Kaladgi; Karna
 
 - **分布记录**：南亚、印度、斯里兰卡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes estherae* Desneux, 1908: 390-394 —— 模式产地：India: Karnataka: Huvin Hippargi
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes estherae* 出现，本站统一归入 *Macrotermes convulsionarius*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes estherae* 出现，均归入 *Macrotermes convulsionarius*。
 <!-- AUTO:END -->

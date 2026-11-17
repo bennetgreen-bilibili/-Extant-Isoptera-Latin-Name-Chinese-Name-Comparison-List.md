@@ -31,7 +31,7 @@ synonym_localities: "Israel: Alonim; Turkmenistan: Kazanogukski Region, 37 km ro
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**讨厌弓白蚁**（*Amitermes vilis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Iran: Shiraz。分布记录包括中东/阿拉伯半岛、阿富汗、土库曼斯坦。本站记录本种有 2 个次异名。
+**讨厌弓白蚁**（*Amitermes vilis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Iran: Shiraz。分布记录包括中东/阿拉伯半岛、阿富汗、土库曼斯坦。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Israel: Alonim; Turkmenistan: Kazanogukski Region, 37 km ro
 
 - **分布记录**：中东/阿拉伯半岛、阿富汗、土库曼斯坦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Amitermes wahrmani* Spaeth, 1964: 27-29 —— 模式产地：Israel: Alonim
 2. *Amitermes rhizophagus* Belyaeva, 1974: 63-73 —— 模式产地：Turkmenistan: Kazanogukski Region, 37 km road Nebut-Dag, Yashkan
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Amitermes wahrmani*、*Amitermes rhizophagus* 等）出现，本站统一归入 *Amitermes vilis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Amitermes wahrmani*、*Amitermes rhizophagus* 等）出现，均归入 *Amitermes vilis*。
 <!-- AUTO:END -->

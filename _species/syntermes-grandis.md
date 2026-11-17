@@ -31,7 +31,7 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; Brasil: ?; Bolivi
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大聚白蚁**（*Syntermes grandis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 French Guiana: Cayenne \[4.93333N 52.33W\]。分布记录包括巴西、法属圭亚那、苏里南、委内瑞拉、玻利维亚、圭亚那。本站记录本种有 3 个次异名。
+**大聚白蚁**（*Syntermes grandis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 French Guiana: Cayenne \[4.93333N 52.33W\]。分布记录包括巴西、法属圭亚那、苏里南、委内瑞拉、玻利维亚、圭亚那。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; Brasil: ?; Bolivi
 
 - **分布记录**：巴西、法属圭亚那、苏里南、委内瑞拉、玻利维亚、圭亚那
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes fuscum* Latreille, 1804: 59-60 —— 模式产地：French Guiana: Cayenne \[4.93333N 52.33W\]
 2. *Syntermes dirus hageni* Holmgren, 1911: 548 —— 模式产地：Brasil: ?
 3. *Syntermes lighti* Emerson, 1945: 453-454 —— 模式产地：Bolivia: Pando: Villa Bella \[10.3833S 65.4W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes fuscum*、*Syntermes dirus hageni*、*Syntermes lighti* 等）出现，本站统一归入 *Syntermes grandis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes fuscum*、*Syntermes dirus hageni*、*Syntermes lighti* 等）出现，均归入 *Syntermes grandis*。
 <!-- AUTO:END -->

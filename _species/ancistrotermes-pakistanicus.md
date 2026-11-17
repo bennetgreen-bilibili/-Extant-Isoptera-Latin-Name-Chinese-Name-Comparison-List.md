@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Malacca; Singapore: ?; India: Assam: Khasi-Jainti
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**巴基斯坦钩白蚁**（*Ancistrotermes pakistanicus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Ahmad 于 1955 年描述，模式产地为 Bangladesh: Chittagong Hills: Mainimukh。分布记录包括南亚、东南亚、巴基斯坦、泰国、老挝、马来西亚、孟加拉国、喀麦隆、印度、印度尼西亚、缅甸、新加坡、越南。本站记录本种有 2 个次异名。
+**巴基斯坦钩白蚁**（*Ancistrotermes pakistanicus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Ahmad 于 1955 年描述，模式产地为 Bangladesh: Chittagong Hills: Mainimukh。分布记录包括南亚、东南亚、巴基斯坦、泰国、老挝、马来西亚、孟加拉国、喀麦隆、印度、印度尼西亚、缅甸、新加坡、越南。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Malaysia: Malacca; Singapore: ?; India: Assam: Khasi-Jainti
 
 - **分布记录**：南亚、东南亚、巴基斯坦、泰国、老挝、马来西亚、孟加拉国、喀麦隆、印度、印度尼西亚、缅甸、新加坡、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes pallidus* Haviland, 1898: 389 —— 模式产地：Malaysia: Malacca
 2. *Microtermes umsae* Roonwal & Chhotani, 1962: 370-374 —— 模式产地：Singapore: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes pallidus*、*Microtermes umsae* 等）出现，本站统一归入 *Ancistrotermes pakistanicus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes pallidus*、*Microtermes umsae* 等）出现，均归入 *Ancistrotermes pakistanicus*。
 <!-- AUTO:END -->

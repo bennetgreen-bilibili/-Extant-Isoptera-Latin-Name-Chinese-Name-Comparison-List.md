@@ -31,7 +31,7 @@ synonym_localities: "Guatemala: San José; Colombia: Cundinamarca: Bogotá [4.6N
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑头象白蚁**（*Nasutitermes nigriceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Haldeman 于 1854 年描述，模式产地为 Mexico: Western Mexico。分布记录包括墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛。本站记录本种有 4 个次异名。
+**黑头象白蚁**（*Nasutitermes nigriceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Haldeman 于 1854 年描述，模式产地为 Mexico: Western Mexico。分布记录包括墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Guatemala: San José; Colombia: Cundinamarca: Bogotá [4.6N
 
 - **分布记录**：墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) guatemalae* Holmgren, 1910: 294-295 —— 模式产地：Guatemala: San José
 2. *Eutermes (Eutermes) pilifrons* Holmgren, 1910: 265-266 —— 模式产地：Colombia: Cundinamarca: Bogotá \[4.6N 74.0833W\]
 3. *Eutermes (Eutermes) pacificus* Holmgren, 1910: 266-267 —— 模式产地：Curaçao: ?
 4. *Nasutitermes dasyopsis* Thorne, 1989 —— 模式产地：Panama: Cuayabo Grande
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*、*Nasutitermes dasyopsis* 等）出现，本站统一归入 *Nasutitermes nigriceps*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*、*Nasutitermes dasyopsis* 等）出现，均归入 *Nasutitermes nigriceps*。
 <!-- AUTO:END -->

@@ -6159,7 +6159,7 @@
   },
   "/species/coptotermes-formosanus/": {
    "alate": "Alate: the dorsum of the head deep yellowish brown, the dorsum of the thorax and abdomen brownish yellow and paler than the head, the venter of the abdomen yellow, the wings tinged with pale yellow. Compound eyes nearly round, ocelli elongate-round, the distance between the ocellus and the compound eye less than the width of the ocellus itself. Postclypeus extremely short, forming a transverse band, pale yellow and slightly raised, about one-quarter to one-third as long as wide; anteclypeus white and longer than the postclypeus; labrum pale yellow, rounded at the front. Antennae with 19–21 segments, mostly the third or fourth shorter. Head oval, widest behind the middle, narrower at both the anterior and posterior ends than at the middle; fontanelle aperture oval, narrow above and broad below, large and conspicuous, situated on a slightly projecting short tube at the front of the head and facing forwards. Mandibles sickle-shaped, their anterior part curved towards the midline, the base of the left mandible with a deep notch, in front of which are four small processes, successively smaller towards the front, the foremost behind the middle of the mandible, the rest of the mandibular surface smooth and toothless. Labrum nearly tongue-shaped, its front with an indistinct transparent point reaching half the length of the closed mandibles. Pronotum flat, narrower than the head, with a notch in the middle of both the anterior and posterior margins. Forewing scale larger than the hindwing scale, the wing membrane densely covered with fine short hairs; in the forewing the media arising independently at the humeral suture and closer to the cubitus than to the radial sector, the cubitus with 6–8 branches; in the hindwing the media arising from the base of the radial sector and, after arising, closer to the cubitus than to the radial sector, the cubitus with 7–8 branches.",
-   "biology": "",
+   "biology": "The colony is founded by a single reproductive pair and nests inside wood or tree trunks, where the nest temperature stays about 4 °C above ambient. In young colonies (up to 2.5 years) soldiers make up 10–15% of the population; the proportion falls with colony age, and mature colonies older than 8 years usually carry only 1–3%. Soldiers also grow larger: in a six-month-old nest the head width is under 0.99 mm, while in a 20-year-old laboratory colony it reaches 1.16–1.25 mm, an increase of more than a quarter. The first alates appear after about 8 years in the laboratory and 9–10 years in field burials, and a mature colony can produce more than 20,000 reproductives a year, with a total population of over 100,000 individuals. Swarming is concentrated in April–June, mostly between 18:20 and 22:00 at 21–30 °C. Foraging workers range up to 30 m from the nest, covering about 2,827 m². Three species of symbiotic protozoa are known from the gut, and three species of mites are common in nests, becoming numerous in weak colonies. The termite prefers sugar-rich material; sugarcane is among its favourite foods. The optimal temperature is 25–30 °C and activity is confined to 10–37 °C: all individuals die after 7 days at −3 °C, and 95% die within 2 days at 39–41 °C. Nest CO₂ is usually 0.5–6.5%, far above atmospheric levels.",
    "book_name": "Coptotermes",
    "book_ref": "(entry no. 83 in the original work)",
    "distribution": "In China distributed in the eastern part of the country, the northern limit roughly along and south of the line from Hefei, Chaoxian and Wuhu, Anhui, to Jianhu, Jiangsu, south of the Huai River at about 32–39° N; abroad recorded from Japan, the Philippines, the southern states of the United States, Hawaii and Africa.",
@@ -7457,7 +7457,7 @@
   },
   "/species/microcerotermes-marilimbus/": {
    "alate": "Body uniformly dark brown, head capsule darker, postclypeus dark brown or paler, the pale yellow stripe between the ocelli indistinct, pronotum with a pale T marking; legs yellowish brown. Body length with wings 8.52 to 9.63 mm, body length 5.68 to 6.60 mm. Head capsule elliptical, slightly longer than wide, length 0.85 to 0.92 mm, width 0.80 to 0.85 mm; fontanelle small, Y suture indistinct. Antennae with 14 segments, segment 3 shortest, segment 2 twice segment 3. Eye projection rate 14 per cent, the distance to the ventral margin of the head about a little more than half its long diameter. Ocelli oval, about 0.07 mm long, their distance to the compound eyes almost equal to their long diameter. Postclypeus slightly arched, the median line dark, median length 0.25 to 0.27 mm. Pronotum trapezoidal, length 0.43 to 0.48 mm, width 0.71 to 0.76 mm, the anterior margin slightly tilted up, the posterior margin distinctly concave in the middle. Hind tibia 0.95 to 1.02 mm long.",
-   "biology": "",
+   "biology": "It builds tower-like mounds up to human height on the ground, or globular nests on tree trunks; it is the dominant termite in the coastal primary Vatica woodland between Wushi and Yangmei in Wanning, Hainan, and bores into Vatica trees and the wooden posts of thatched houses.",
    "book_name": "Microcerotermes marilimbus",
    "book_ref": "(entry no. 253 in the original work)",
    "distribution": "Wanning and Ledong, Hainan.",
@@ -7479,7 +7479,7 @@
   },
   "/species/microcerotermes-remotus/": {
    "alate": "Body uniformly dark brown, head capsule darker, postclypeus yellow to yellowish brown, with a pale yellow stripe between the ocelli; pronotum with a pale T marking; legs yellow. Body length with wings 7.49 to 9.44 mm, body length 5.55 to 5.89 mm. Head capsule elliptical, slightly longer than wide, length 0.84 to 0.87 mm, width 0.74 to 0.80 mm; fontanelle a small dot, the coronal suture faintly visible. Antennae with 14 segments, segment 3 shortest. The distance between the compound eyes and the ventral margin of the head about one quarter of their long diameter. Ocelli oval, about 0.10 mm long, their distance to the compound eyes less than half their long diameter. Postclypeus slightly arched, median length 0.22 to 0.23 mm, width 0.37 to 0.40 mm. Pronotum trapezoidal, length 0.38 to 0.46 mm, width 0.62 to 0.74 mm, the anterior margin slightly tilted up and shallowly concave in the middle, the posterior margin distinctly concave. Hind tibia 0.94 to 1.02 mm long.",
-   "biology": "",
+   "biology": "It builds globular nests on the ground more than 1 m across, bores mainly into tree stumps, and also attacks timber in dwellings and warehouses, utility poles, railway sleepers and fences; in durability tests of 78 Hainan timbers it appeared late but then nested in the test blocks and damaged Hopea hainanensis, Madhuca hainanensis and Lithocarpus woods severely.",
    "book_name": "Microcerotermes remotus",
    "book_ref": "(entry no. 255 in the original work)",
    "distribution": "Yaxian, Dongfang, Ledong and Lingshui, Hainan.",
@@ -8194,7 +8194,7 @@
   },
   "/species/odontotermes-angustignathus/": {
    "alate": "",
-   "biology": "",
+   "biology": "It lives in the soil with entirely subterranean nests, and feeds mainly on tree stumps and on wooden posts near ground level.",
    "book_name": "Odontotermes angustignathus",
    "book_ref": "(entry no. 257 in the original work)",
    "distribution": "Yunnan: Menghan, Menghai and Yunjinghong (500 m a.s.l.); Hainan.",
@@ -8700,7 +8700,7 @@
   },
   "/species/pseudocapritermes-pseudolaetus/": {
    "alate": "",
-   "biology": "",
+   "biology": "It lives in the soil and is very rare.",
    "book_name": "Pseudocapritermes pseudolaetus",
    "book_ref": "(entry no. 386 in the original work)",
    "distribution": "Mengla, Jinping, Yunnan, 390 m a.s.l.",
@@ -8722,7 +8722,7 @@
   },
   "/species/pseudocapritermes-sowerbyi/": {
    "alate": "The head is brownish, the thorax and abdomen brownish yellow, the wings brownish yellow with the veins brownish; the head and body densely covered with short hairs, and the wing surface also bears uniform short hairs. The head is broadly oval. The ocelli are elliptical; in the male the distance between the ocellus and the compound eye is about the width of one ocellus, in the female less than its own width. The postclypeus is slightly raised, its posterior margin slightly curved backwards, about one-third as long as wide, paler than the vertex. The fontanelle is large, its surface raised, situated at the centre of the vertex. Antennae with 15 segments, segment 3 slightly shorter than segments 2 and 4. The pronotum is ingot-shaped, the middle of the anterior margin straight, the lateral corners blunt and slightly projecting anterolaterally, the notches in the middle of the anterior and posterior margins indistinct. The forewing scale is larger than the hindwing scale. The radial sector of the forewing reaches the wing apex without branching, the media arises independently at the shoulder suture and runs nearer the cubitus than the radial sector, giving off three or four branches posteriorly to the wing apex, the cubitus with about ten branches; the media of the hindwing arises together with the radial sector at the shoulder suture and separates thereafter.",
-   "biology": "",
+   "biology": "It lives in the soil or in decayed trunks and roots, often sharing the same site with other termite species.",
    "book_name": "Pseudocapritermes sowerbyi",
    "book_ref": "(entry no. 388 in the original work)",
    "distribution": "Fuzhou, Hexi, Jianou and Nanping, Fujian; Shantou, Shaoguan and Zhanjiang, Guangdong; Qiongshan, Hainan; Yingjiang, Simao, Pingbian and Mengla, Jinping (390 m, 450 m, 500 m and 580 m), Yunnan.",
@@ -9250,7 +9250,7 @@
   },
   "/species/reticulitermes-labralis/": {
    "alate": "The head capsule, postmentum, pronotum and femoral segments are all blackish brown; the labrum, postclypeus and tibiae greyish brown, the tibiae paler. The head capsule is circular, the fontanelle dot-like, about 0.48 mm from the frontal margin. The compound eyes are roundly triangular, the projection rate 1–5 per cent, the long diameter greater than the distance from the compound eye to the lower margin of the head; the ocelli are nearly circular, the long diameter greater than their distance from the compound eye. The vertex arches like a mound, the frontal slope slightly concave, the postclypeus projecting and slightly lower than the vertex, slightly higher than the ocelli. Antennae with 17–18 segments. The anterior margin of the pronotum is broad and flat with a broad shallow median notch, the lateral margins slightly arcuate, the middle of the posterior margin distinctly notched.",
-   "biology": "",
+   "biology": "It damages timber structures and many ornamental trees, is common along the lower Yangtze, and can also attack the wooden fabric of multi-storey buildings; alates mature mainly in mid- to late April and swarm from April to June.",
    "book_name": "Reticulitermes",
    "book_ref": "(entry no. 123 in the original work)",
    "distribution": "Jiangsu, Zhejiang, Anhui, Shanghai.",
@@ -9899,7 +9899,7 @@
   },
   "/species/reticulitermes-yunsiensis/": {
    "alate": "",
-   "biology": "",
+   "biology": "It seriously damages the timber structure of buildings.",
    "book_name": "Reticulitermes",
    "book_ref": "(entry no. 155 in the original work)",
    "distribution": "Mount Daiyun, Mount Wuyi and elsewhere in Fujian.",
@@ -10009,7 +10009,7 @@
   },
   "/species/sinocapritermes-mushae/": {
    "alate": "Head black; postclypeus, antennae, labrum, labial palps, maxillary palps, pronotum, abdominal tergites and sternites, legs and wings all dark brown, slightly paler than the head. Body densely covered with hairs.",
-   "biology": "",
+   "biology": "It lives in the soil and feeds on decayed wood and rotting grass and leaves.",
    "book_name": "Sinocapritermesmushae",
    "book_ref": "(entry no. 361 in the original work)",
    "distribution": "Wushe, Taiwan; Zhejiang; Jian'ou, Pinghe and Changting, Fujian; Chongqing; Guangxi; Shaoguan and Zhanjiang, Guangdong; Hainan; Mount Dawei, Pingbian, Yunnan (altitude 1500 m).",

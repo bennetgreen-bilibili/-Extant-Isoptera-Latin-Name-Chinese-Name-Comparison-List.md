@@ -28,7 +28,7 @@ synonym_localities: "Guyana: Demerara-Mahaica: Georgetown [ 6.8N 58.1667W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍姆格伦新白蚁**（*Neotermes holmgreni*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: Taboga Island。分布记录包括中美洲、巴拿马、哥斯达黎加、危地马拉、墨西哥、南美洲、哥伦比亚、委内瑞拉、圭亚那、加勒比、格林纳达、马提尼克、特立尼达和多巴哥。本站记录本种有 1 个次异名。
+**霍姆格伦新白蚁**（*Neotermes holmgreni*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: Taboga Island。分布记录包括中美洲、巴拿马、哥斯达黎加、危地马拉、墨西哥、南美洲、哥伦比亚、委内瑞拉、圭亚那、加勒比、格林纳达、马提尼克、特立尼达和多巴哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Guyana: Demerara-Mahaica: Georgetown [ 6.8N 58.1667W ]"
 
 - **分布记录**：中美洲、巴拿马、哥斯达黎加、危地马拉、墨西哥、南美洲、哥伦比亚、委内瑞拉、圭亚那、加勒比、格林纳达、马提尼克、特立尼达和多巴哥
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes (Neotermes) clearei* Emerson, 1925: 316-318 —— 模式产地：Guyana: Demerara-Mahaica: Georgetown \[ 6.8N 58.1667W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Neotermes) clearei* 出现，本站统一归入 *Neotermes holmgreni*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Neotermes) clearei* 出现，均归入 *Neotermes holmgreni*。
 <!-- AUTO:END -->

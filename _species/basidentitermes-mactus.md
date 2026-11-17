@@ -31,7 +31,7 @@ synonym_localities: "Cameroon: Victoria"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**荣耀基齿白蚁**（*Basidentitermes mactus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Guinea: ?。分布记录包括西非、几内亚、利比里亚、加纳、科特迪瓦、尼日利亚、喀麦隆、坦桑尼亚。本站记录本种有 1 个次异名。
+**荣耀基齿白蚁**（*Basidentitermes mactus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Guinea: ?。分布记录包括西非、几内亚、利比里亚、加纳、科特迪瓦、尼日利亚、喀麦隆、坦桑尼亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Cameroon: Victoria"
 
 - **分布记录**：西非、几内亚、利比里亚、加纳、科特迪瓦、尼日利亚、喀麦隆、坦桑尼亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Basidentitermes bivalens* Silvestri, 1914: 119-121 —— 模式产地：Cameroon: Victoria
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Basidentitermes bivalens* 出现，本站统一归入 *Basidentitermes mactus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Basidentitermes bivalens* 出现，均归入 *Basidentitermes mactus*。
 
 ## 亚种
 

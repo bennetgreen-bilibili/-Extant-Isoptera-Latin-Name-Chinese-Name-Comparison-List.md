@@ -28,7 +28,7 @@ synonym_localities: "Madeira Island (Portugal): Serra d’Agua"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**早熟后琥珀白蚁**（*Postelectrotermes praecox*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Madeira Island (Portugal): ?。分布记录包括马德拉群岛（葡）。本站记录本种有 1 个次异名。
+**早熟后琥珀白蚁**（*Postelectrotermes praecox*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Madeira Island (Portugal): ?。分布记录包括马德拉群岛（葡）。本种有 1 个次异名。
 
 ## 词源
 
@@ -47,13 +47,11 @@ synonym_localities: "Madeira Island (Portugal): Serra d’Agua"
 
 - **分布记录**：马德拉群岛（葡）
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes barretoi* Grassé, 1939: 182-184 —— 模式产地：Madeira Island (Portugal): Serra d’Agua
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes barretoi* 出现，本站统一归入 *Postelectrotermes praecox*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes barretoi* 出现，均归入 *Postelectrotermes praecox*。
 <!-- AUTO:END -->

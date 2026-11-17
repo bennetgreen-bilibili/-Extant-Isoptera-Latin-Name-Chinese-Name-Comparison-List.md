@@ -31,7 +31,7 @@ synonym_localities: "(country unknown): \"Hinterindien\""
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**缺齿东锥白蚁**（*Oriensubulitermes inanis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）东锥白蚁属（*Oriensubulitermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak。分布记录包括印度尼西亚、马来西亚、新加坡。本站记录本种有 1 个次异名。
+**缺齿东锥白蚁**（*Oriensubulitermes inanis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）东锥白蚁属（*Oriensubulitermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak。分布记录包括印度尼西亚、马来西亚、新加坡。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "(country unknown): \"Hinterindien\""
 
 - **分布记录**：印度尼西亚、马来西亚、新加坡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Subulitermes) inaniformis* Holmgren, 1912: 64 —— 模式产地：(country unknown): "Hinterindien"
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Subulitermes) inaniformis* 出现，本站统一归入 *Oriensubulitermes inanis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Subulitermes) inaniformis* 出现，均归入 *Oriensubulitermes inanis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Suriname: Para: Jodensavanne [5.418N 54.969W]; Suriname: Pa
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**角头壶头白蚁**（*Cyrilliotermes angulariceps*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）壶头白蚁属（*Cyrilliotermes*）的一种，也是本属的模式种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、苏里南、秘鲁、厄瓜多尔。本站记录本种有 2 个次异名。
+**角头壶头白蚁**（*Cyrilliotermes angulariceps*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）壶头白蚁属（*Cyrilliotermes*）的一种，也是本属的模式种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、苏里南、秘鲁、厄瓜多尔。本种有 2 个次异名。
 
 ## 词源
 
@@ -51,14 +51,12 @@ synonym_localities: "Suriname: Para: Jodensavanne [5.418N 54.969W]; Suriname: Pa
 
 - **分布记录**：南美洲、巴西、哥伦比亚、法属圭亚那、苏里南、秘鲁、厄瓜多尔
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Cyrilliotermes cashassa* Fontes, 1985: 15-16 —— 模式产地：Suriname: Para: Jodensavanne \[5.418N 54.969W\]
 2. *Cyrilliotermes jaci* Fontes, 1985: 14-15 —— 模式产地：Suriname: Para: Jodensavanne \[5.418N 54.969W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cyrilliotermes cashassa*、*Cyrilliotermes jaci* 等）出现，本站统一归入 *Cyrilliotermes angulariceps*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cyrilliotermes cashassa*、*Cyrilliotermes jaci* 等）出现，均归入 *Cyrilliotermes angulariceps*。
 <!-- AUTO:END -->

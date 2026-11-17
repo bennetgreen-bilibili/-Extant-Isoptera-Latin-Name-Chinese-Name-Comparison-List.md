@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本站记录本种有 2 个次异名。
+**直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 
 - **分布记录**：巴西、巴拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Paracornitermes hirsutus* Araujo, 1954: 187-188 —— 模式产地：Brasil: Minas Gerais: Monte Azul \[15.155S 42.8747W\]
 2. *Paracornitermes caapora* Bandeira & Cancello, 1992: 424-428 —— 模式产地：Brasil: Roraima: Ilha de Maracá \[3.4N 61.65W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Paracornitermes hirsutus*、*Paracornitermes caapora* 等）出现，本站统一归入 *Labiotermes orthocephalus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Paracornitermes hirsutus*、*Paracornitermes caapora* 等）出现，均归入 *Labiotermes orthocephalus*。
 <!-- AUTO:END -->

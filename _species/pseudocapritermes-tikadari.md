@@ -31,7 +31,7 @@ synonym_localities: "India: Assam: Sibsagar Range: Sola Reserve Forest"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**铁卡达伪扭白蚁**（*Pseudocapritermes tikadari*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种。本种由 Roonwal & Chhotani 于 1962 年描述，模式产地为 India: Assam: Cherrapunji。分布记录包括印度、不丹。本站记录本种有 1 个次异名。
+**铁卡达伪扭白蚁**（*Pseudocapritermes tikadari*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种。本种由 Roonwal & Chhotani 于 1962 年描述，模式产地为 India: Assam: Cherrapunji。分布记录包括印度、不丹。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Assam: Sibsagar Range: Sola Reserve Forest"
 
 - **分布记录**：印度、不丹
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Pseudocapritermes planus* Mathur & Thapa, 1965: 12-13 —— 模式产地：India: Assam: Sibsagar Range: Sola Reserve Forest
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Pseudocapritermes planus* 出现，本站统一归入 *Pseudocapritermes tikadari*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Pseudocapritermes planus* 出现，均归入 *Pseudocapritermes tikadari*。
 <!-- AUTO:END -->

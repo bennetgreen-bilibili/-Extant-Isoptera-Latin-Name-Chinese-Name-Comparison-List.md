@@ -31,7 +31,7 @@ synonym_localities: "Australia: Western Australia: Mundaring"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**蜂头冢白蚁**（*Tumulitermes apiocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种。本种由 Silvestri 于 1909 年描述，模式产地为 Australia: Western Australia: Northhampton or Jurrandale。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**蜂头冢白蚁**（*Tumulitermes apiocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种。本种由 Silvestri 于 1909 年描述，模式产地为 Australia: Western Australia: Northhampton or Jurrandale。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Australia: Western Australia: Mundaring"
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Tumulitermes) aagaardi* Mjöberg, 1920: 55-56 —— 模式产地：Australia: Western Australia: Mundaring
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Tumulitermes) aagaardi* 出现，本站统一归入 *Tumulitermes apiocephalus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Tumulitermes) aagaardi* 出现，均归入 *Tumulitermes apiocephalus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Zululand, near Sordwana Bay"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拟伤残净白蚁**（*Nitiditermes truncatoides*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Natal: Mbazwane Swamp \[approx. 27°30?S, 32°20?E\]。分布记录包括南非。本站记录本种有 1 个次异名。
+**拟伤残净白蚁**（*Nitiditermes truncatoides*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Natal: Mbazwane Swamp \[approx. 27°30?S, 32°20?E\]。分布记录包括南非。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "South Africa: Zululand, near Sordwana Bay"
 
 - **分布记录**：南非
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes (Cubitermes) truncatoides sordwana* Fuller, 1925: 203 —— 模式产地：South Africa: Zululand, near Sordwana Bay
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) truncatoides sordwana* 出现，本站统一归入 *Nitiditermes truncatoides*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) truncatoides sordwana* 出现，均归入 *Nitiditermes truncatoides*。
 <!-- AUTO:END -->

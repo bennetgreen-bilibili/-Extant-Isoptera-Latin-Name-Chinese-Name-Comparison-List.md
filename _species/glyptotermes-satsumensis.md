@@ -28,7 +28,7 @@ synonym_localities: "Japan: Kagoshima Prefecture (Satsuma); Taiwan: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**赤树白蚁**（*Glyptotermes satsumensis*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Matsumura 于 1907 年描述，模式产地为 Japan: Kagoshima \[ 31.9N 130.45E \]。分布记录包括日本、中国台湾。本站记录本种有 2 个次异名。
+**赤树白蚁**（*Glyptotermes satsumensis*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Matsumura 于 1907 年描述，模式产地为 Japan: Kagoshima \[ 31.9N 130.45E \]。分布记录包括日本、中国台湾。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Japan: Kagoshima Prefecture (Satsuma); Taiwan: ?"
 
 - **分布记录**：日本、中国台湾
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes (Glyptotermes) satsumaensis* Holmgren, 1912: 116-117 —— 模式产地：Japan: Kagoshima Prefecture (Satsuma)
 2. *Glyptotermes longicephalus* Oshima, 1912: 64-66 —— 模式产地：Taiwan: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes (Glyptotermes) satsumaensis*、*Glyptotermes longicephalus* 等）出现，本站统一归入 *Glyptotermes satsumensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes (Glyptotermes) satsumaensis*、*Glyptotermes longicephalus* 等）出现，均归入 *Glyptotermes satsumensis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Gabon: Agoncho"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**体大大白蚁**（*Macrotermes amplus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Democratic Republic of the Congo: Umangi。分布记录包括中非、刚果共和国、刚果民主共和国、喀麦隆、中非共和国、安哥拉、加蓬、尼日利亚、苏丹。本站记录本种有 1 个次异名。
+**体大大白蚁**（*Macrotermes amplus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Democratic Republic of the Congo: Umangi。分布记录包括中非、刚果共和国、刚果民主共和国、喀麦隆、中非共和国、安哥拉、加蓬、尼日利亚、苏丹。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Gabon: Agoncho"
 
 - **分布记录**：中非、刚果共和国、刚果民主共和国、喀麦隆、中非共和国、安哥拉、加蓬、尼日利亚、苏丹
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes gabonensis* Sjöstedt, 1900: 92-94 —— 模式产地：Gabon: Agoncho
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes gabonensis* 出现，本站统一归入 *Macrotermes amplus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes gabonensis* 出现，均归入 *Macrotermes amplus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; South 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**明翼大白蚁**（*Macrotermes vitrialatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Democratic Republic of the Congo: "an Bord" (at the border)。分布记录包括旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 5 个次异名。
+**明翼大白蚁**（*Macrotermes vitrialatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Democratic Republic of the Congo: "an Bord" (at the border)。分布记录包括旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦。本种有 5 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; South 
 
 - **分布记录**：旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes imperator* Sjöstedt, 1913: 359-362 —— 模式产地：Democratic Republic of the Congo: Katanga: Sankisia
 2. *Termes waterbergi* Fuller, 1915: 466-470 —— 模式产地：South Africa: Transvaal: Bela-Bela (Warmbaths)
@@ -64,5 +62,5 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; South 
 4. *Amplitermes mozambicanus* Sjöstedt, 1926: 89-90 —— 模式产地：Mozambique: Andrada
 5. *Macrotermes angolensis* Noirot, 1955: 142-144 —— 模式产地：Angola: 27 km NNW Quilengues
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes imperator*、*Termes waterbergi*、*Macrotermes schoutedeni*、*Amplitermes mozambicanus*、*Macrotermes angolensis* 等）出现，本站统一归入 *Macrotermes vitrialatus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes imperator*、*Termes waterbergi*、*Macrotermes schoutedeni*、*Amplitermes mozambicanus*、*Macrotermes angolensis* 等）出现，均归入 *Macrotermes vitrialatus*。
 <!-- AUTO:END -->

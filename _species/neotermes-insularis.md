@@ -28,7 +28,7 @@ synonym_localities: "Australia: Queensland: Mackay; Australia: New South Wales: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**岛生新白蚁**（*Neotermes insularis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 New Zealand: ?。分布记录包括澳大利亚、新西兰。本站记录本种有 7 个次异名。
+**岛生新白蚁**（*Neotermes insularis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 New Zealand: ?。分布记录包括澳大利亚、新西兰。本种有 7 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "Australia: Queensland: Mackay; Australia: New South Wales: 
 
 - **分布记录**：澳大利亚、新西兰
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 7 个次异名（junior synonyms），按原始文献出处列出：
+本种有 7 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes irregularis* Froggatt, 1897: 525-527 —— 模式产地：Australia: Queensland: Mackay
 2. *Calotermes robustus* Froggatt, 1897: 529-530 —— 模式产地：Australia: New South Wales: Sans Souci
@@ -62,5 +60,5 @@ synonym_localities: "Australia: Queensland: Mackay; Australia: New South Wales: 
 6. *Calotermes malandensis* Mjöberg, 1920: 12-16 —— 模式产地：Australia: Queensland: Malanda
 7. *Calotermes (Neotermes) deuqueti* Hill, 1926: 196-199 —— 模式产地：Australia: New South Wales: Lismore
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes irregularis*、*Calotermes robustus*、*Calotermes longiceps*、*Calotermes (Neotermes) oculifer*、*Calotermes (Neotermes) paralleliceps*、*Calotermes malandensis*、*Calotermes (Neotermes) deuqueti* 等）出现，本站统一归入 *Neotermes insularis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes irregularis*、*Calotermes robustus*、*Calotermes longiceps*、*Calotermes (Neotermes) oculifer*、*Calotermes (Neotermes) paralleliceps*、*Calotermes malandensis*、*Calotermes (Neotermes) deuqueti* 等）出现，均归入 *Neotermes insularis*。
 <!-- AUTO:END -->

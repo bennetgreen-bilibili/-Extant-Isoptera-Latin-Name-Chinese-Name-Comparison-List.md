@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
+**乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本种有 4 个次异名。
 
 ## 词源
 
@@ -51,16 +51,14 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 
 - **分布记录**：刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes bilobatus* Haviland, 1898: 411 (imago) —— 模式产地：South Africa: Natal: Estcourt
 2. *Mirotermes (Cubitermes) natalensis obscurus* Holmgren, 1913: 356 —— 模式产地：South Africa: Natal: Charlestown
 3. *Mirotermes (Cubitermes) natalensis* Holmgren, 1913: 355-356 —— 模式产地：South Africa: Natal: Amanzimtoti
 4. *Mirotermes (Procubitermes) mfolozii* Fuller, 1925: 190-191 —— 模式产地：South Africa: Zululand: Tsetse fly station Conjeni, S bank of White Umfolozi (Mfolozi) River
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes bilobatus*、*Mirotermes (Cubitermes) natalensis obscurus*、*Mirotermes (Cubitermes) natalensis*、*Mirotermes (Procubitermes) mfolozii* 等）出现，本站统一归入 *Alyscotermes kilimandjaricus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes bilobatus*、*Mirotermes (Cubitermes) natalensis obscurus*、*Mirotermes (Cubitermes) natalensis*、*Mirotermes (Procubitermes) mfolozii* 等）出现，均归入 *Alyscotermes kilimandjaricus*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "Pakistan: Peshawar"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大头无刺白蚁**（*Anacanthotermes macrocephalus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 Pakistan: Sind: Karachi。分布记录包括印度、阿富汗、伊朗、巴基斯坦。本站记录本种有 1 个次异名。
+**大头无刺白蚁**（*Anacanthotermes macrocephalus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 Pakistan: Sind: Karachi。分布记录包括印度、阿富汗、伊朗、巴基斯坦。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Pakistan: Peshawar"
 
 - **分布记录**：印度、阿富汗、伊朗、巴基斯坦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anacanthotermes peshawarensis* Akhtar, 1974: 40-44 —— 模式产地：Pakistan: Peshawar
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anacanthotermes peshawarensis* 出现，本站统一归入 *Anacanthotermes macrocephalus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anacanthotermes peshawarensis* 出现，均归入 *Anacanthotermes macrocephalus*。
 <!-- AUTO:END -->

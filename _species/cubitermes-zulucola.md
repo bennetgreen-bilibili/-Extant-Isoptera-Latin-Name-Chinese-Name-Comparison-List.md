@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Somkele"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**祖鲁兰方白蚁**（*Cubitermes zulucola*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）方白蚁属（*Cubitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括非洲南部、南非祖鲁兰。本站记录本种有 1 个次异名。
+**祖鲁兰方白蚁**（*Cubitermes zulucola*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）方白蚁属（*Cubitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括非洲南部、南非祖鲁兰。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "South Africa: Natal: Somkele"
 
 - **分布记录**：非洲南部、南非祖鲁兰
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes (Cubitermes) pseudoduplex* Fuller, 1925: 196-197 —— 模式产地：South Africa: Natal: Somkele
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) pseudoduplex* 出现，本站统一归入 *Cubitermes zulucola*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) pseudoduplex* 出现，均归入 *Cubitermes zulucola*。
 <!-- AUTO:END -->

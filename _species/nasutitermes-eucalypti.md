@@ -31,7 +31,7 @@ synonym_localities: "Australia: Northern Territory: Tennant Creek"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**桉树象白蚁**（*Nasutitermes eucalypti*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Western Australia: Kimberley District。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**桉树象白蚁**（*Nasutitermes eucalypti*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Western Australia: Kimberley District。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Australia: Northern Territory: Tennant Creek"
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes fieldi* Hill, 1923: 43-46 —— 模式产地：Australia: Northern Territory: Tennant Creek
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes fieldi* 出现，本站统一归入 *Nasutitermes eucalypti*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes fieldi* 出现，均归入 *Nasutitermes eucalypti*。
 <!-- AUTO:END -->

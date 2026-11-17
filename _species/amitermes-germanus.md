@@ -31,7 +31,7 @@ synonym_localities: "Australia: Western Australia: Derby"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**芽弓白蚁**（*Amitermes germanus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Hill 于 1915 年描述，模式产地为 Australia: Northern Territory: Darwin: Fannie Bay。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**芽弓白蚁**（*Amitermes germanus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Hill 于 1915 年描述，模式产地为 Australia: Northern Territory: Darwin: Fannie Bay。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Australia: Western Australia: Derby"
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hamitermes (Hamitermes) kimberleyensis* Mjöberg, 1920: 75-78 —— 模式产地：Australia: Western Australia: Derby
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes (Hamitermes) kimberleyensis* 出现，本站统一归入 *Amitermes germanus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes (Hamitermes) kimberleyensis* 出现，均归入 *Amitermes germanus*。
 <!-- AUTO:END -->

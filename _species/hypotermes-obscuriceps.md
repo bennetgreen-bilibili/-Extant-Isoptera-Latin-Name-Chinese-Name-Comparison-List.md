@@ -31,7 +31,7 @@ synonym_localities: "Sri Lanka: Avisavella, Raltota"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**暗头地白蚁**（*Hypotermes obscuriceps*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 Sri Lanka: Trincomali。分布记录包括印度、斯里兰卡、越南。本站记录本种有 1 个次异名。
+**暗头地白蚁**（*Hypotermes obscuriceps*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 Sri Lanka: Trincomali。分布记录包括印度、斯里兰卡、越南。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Sri Lanka: Avisavella, Raltota"
 
 - **分布记录**：印度、斯里兰卡、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes (Hypotermes) marshalli* Kemner, 1926: 387-388 —— 模式产地：Sri Lanka: Avisavella, Raltota
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes (Hypotermes) marshalli* 出现，本站统一归入 *Hypotermes obscuriceps*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes (Hypotermes) marshalli* 出现，均归入 *Hypotermes obscuriceps*。
 <!-- AUTO:END -->

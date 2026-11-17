@@ -28,7 +28,7 @@ synonym_localities: "China: Guangdong Province: Zengeheng County"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**巢县乳白蚁**（*Coptotermes chaoxianensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Huang & Li 于 1985 年描述，模式产地为 China: Anhui Province: Chaoxian County。分布记录包括中国安徽。本站记录本种有 1 个次异名。
+**巢县乳白蚁**（*Coptotermes chaoxianensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Huang & Li 于 1985 年描述，模式产地为 China: Anhui Province: Chaoxian County。分布记录包括中国安徽。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "China: Guangdong Province: Zengeheng County"
 
 - **分布记录**：中国安徽
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes varicapitatus minutus* Tsai & Li in Tsai et al., 1985: 112-113, 115-116 —— 模式产地：China: Guangdong Province: Zengeheng County
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes varicapitatus minutus* 出现，本站统一归入 *Coptotermes chaoxianensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes varicapitatus minutus* 出现，均归入 *Coptotermes chaoxianensis*。
 <!-- AUTO:END -->

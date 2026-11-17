@@ -31,7 +31,7 @@ synonym_localities: "Botswana: Kalahari: Kooa-Sekgoma; South Africa: Cape Provin
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长矛弓白蚁**（*Amitermes hastatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Cape of Good Hope: Port Elizabeth。分布记录包括南部非洲、坦桑尼亚。本站记录本种有 11 个次异名。
+**长矛弓白蚁**（*Amitermes hastatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Cape of Good Hope: Port Elizabeth。分布记录包括南部非洲、坦桑尼亚。本种有 11 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Botswana: Kalahari: Kooa-Sekgoma; South Africa: Cape Provin
 
 - **分布记录**：南部非洲、坦桑尼亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 11 个次异名（junior synonyms），按原始文献出处列出：
+本种有 11 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hamitermes runconifer* Silvestri, 1908: 77-78 —— 模式产地：Botswana: Kalahari: Kooa-Sekgoma
 2. *Hamitermes hastatus capicola* Silvestri, 1914: 78-80 —— 模式产地：South Africa: Cape Province: Stellenbosch
@@ -70,5 +68,5 @@ synonym_localities: "Botswana: Kalahari: Kooa-Sekgoma; South Africa: Cape Provin
 10. *Hamitermes kenhardti* Fuller, 1922: 128 —— 模式产地：South Africa: Cape Province: East London
 11. *Hamitermes schoombiensis* Fuller, 1922: 126 —— 模式产地：South Africa: Cape Province: Kenhardt District
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hamitermes runconifer*、*Hamitermes hastatus capicola*、*Hamitermes gunni*、*Hamitermes kellyi*、*Hamitermes zuurbergi*、*Hamitermes atlanticus*、*Hamitermes murraysburgi*、*Hamitermes libertatis* 等）出现，本站统一归入 *Amitermes hastatus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hamitermes runconifer*、*Hamitermes hastatus capicola*、*Hamitermes gunni*、*Hamitermes kellyi*、*Hamitermes zuurbergi*、*Hamitermes atlanticus*、*Hamitermes murraysburgi*、*Hamitermes libertatis* 等）出现，均归入 *Amitermes hastatus*。
 <!-- AUTO:END -->

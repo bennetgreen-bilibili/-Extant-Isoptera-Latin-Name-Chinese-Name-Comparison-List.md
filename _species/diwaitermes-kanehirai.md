@@ -31,7 +31,7 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Vanuatu: Nendo Islan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凯恩希拉木象白蚁**（*Diwaitermes kanehirai*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）木象白蚁属（*Diwaitermes*）的一种，也是本属的模式种。本种由 Oshima 于 1914 年描述，模式产地为 Indonesia: Maluku: Aru Island: Dobo。分布记录包括印度尼西亚、所罗门群岛、澳大利亚、巴布亚新几内亚、瓦努阿图。本站记录本种有 6 个次异名。
+**凯恩希拉木象白蚁**（*Diwaitermes kanehirai*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）木象白蚁属（*Diwaitermes*）的一种，也是本属的模式种。本种由 Oshima 于 1914 年描述，模式产地为 Indonesia: Maluku: Aru Island: Dobo。分布记录包括印度尼西亚、所罗门群岛、澳大利亚、巴布亚新几内亚、瓦努阿图。本种有 6 个次异名。
 
 ## 词源
 
@@ -51,11 +51,9 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Vanuatu: Nendo Islan
 
 - **分布记录**：印度尼西亚、所罗门群岛、澳大利亚、巴布亚新几内亚、瓦努阿图
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本种有 6 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Nasutitermes (Subulitermes) orientis* Snyder, 1925: 440-441 —— 模式产地：Solomon Islands: Malayta Island: Auki
 2. *Nasutitermes (Subulitermes) sanctaecrucis* Snyder, 1925: 442-443 —— 模式产地：Vanuatu: Nendo Island: Graciosa Bay
@@ -64,5 +62,5 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Vanuatu: Nendo Islan
 5. *Eutermes rufirostris* Hill, 1927: 24-25 —— 模式产地：Papua New Guinea: New Britain: Bai, near Rabaul
 6. *Subulitermes undecimus* Kemner, 1931: 34-38 —— 模式产地：Indonesia: Maluku: Ambon
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes (Subulitermes) orientis*、*Nasutitermes (Subulitermes) sanctaecrucis*、*Nasutitermes (Subulitermes) orientis tulagiensis*、*Eutermes kaewiengensis*、*Eutermes rufirostris*、*Subulitermes undecimus* 等）出现，本站统一归入 *Diwaitermes kanehirai*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes (Subulitermes) orientis*、*Nasutitermes (Subulitermes) sanctaecrucis*、*Nasutitermes (Subulitermes) orientis tulagiensis*、*Eutermes kaewiengensis*、*Eutermes rufirostris*、*Subulitermes undecimus* 等）出现，均归入 *Diwaitermes kanehirai*。
 <!-- AUTO:END -->

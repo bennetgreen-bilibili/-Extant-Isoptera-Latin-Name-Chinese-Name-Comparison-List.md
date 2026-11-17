@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**真弓颚西尔韦斯特里白蚁**（*Silvestritermes euamignathus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]; Central: Asunción \[25.2667S 57.6667W\]; Guairá: Villa Rica \[25.75S 56.4333W\]。分布记录包括巴西、哥伦比亚、委内瑞拉、玻利维亚、巴拉圭。本站记录本种有 1 个次异名。
+**真弓颚西尔韦斯特里白蚁**（*Silvestritermes euamignathus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]; Central: Asunción \[25.2667S 57.6667W\]; Guairá: Villa Rica \[25.75S 56.4333W\]。分布记录包括巴西、哥伦比亚、委内瑞拉、玻利维亚、巴拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 
 - **分布记录**：巴西、哥伦比亚、委内瑞拉、玻利维亚、巴拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Armitermes cerradoensis* Mathews, 1977: 212-214 —— 模式产地：Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes cerradoensis* 出现，本站统一归入 *Silvestritermes euamignathus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes cerradoensis* 出现，均归入 *Silvestritermes euamignathus*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "Vanuatu: Nendo Island: Graciosa Bay; Solomon Islands: Malay
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**意外原鼻白蚁**（*Prorhinotermes inopinatus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1909 年描述，模式产地为 (country unknown): "Insulae Samoa, Ninafoon"。分布记录包括澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛。本站记录本种有 2 个次异名。
+**意外原鼻白蚁**（*Prorhinotermes inopinatus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1909 年描述，模式产地为 (country unknown): "Insulae Samoa, Ninafoon"。分布记录包括澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛。本种有 2 个次异名。
 
 ## 词源
 
@@ -47,14 +47,12 @@ synonym_localities: "Vanuatu: Nendo Island: Graciosa Bay; Solomon Islands: Malay
 
 - **分布记录**：澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Prorhinotermes manni* Snyder, 1925: 399-400 —— 模式产地：Vanuatu: Nendo Island: Graciosa Bay
 2. *Prorhinotermes solomonensis* Snyder, 1925: 400-401 —— 模式产地：Solomon Islands: Malayta Island: Auki
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Prorhinotermes manni*、*Prorhinotermes solomonensis* 等）出现，本站统一归入 *Prorhinotermes inopinatus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Prorhinotermes manni*、*Prorhinotermes solomonensis* 等）出现，均归入 *Prorhinotermes inopinatus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Cameroon: Ekundu; Congo: Brazzaville; Democratic Republic o
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**卢哈象白蚁**（*Nasutitermes lujae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括喀麦隆、尼日利亚、加蓬、乌干达、安哥拉、刚果（布）、刚果民主共和国、加纳、科特迪瓦。本站记录本种有 5 个次异名。
+**卢哈象白蚁**（*Nasutitermes lujae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括喀麦隆、尼日利亚、加蓬、乌干达、安哥拉、刚果（布）、刚果民主共和国、加纳、科特迪瓦。本种有 5 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Cameroon: Ekundu; Congo: Brazzaville; Democratic Republic o
 
 - **分布记录**：喀麦隆、尼日利亚、加蓬、乌干达、安哥拉、刚果（布）、刚果民主共和国、加纳、科特迪瓦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes ekunduensis* Sjöstedt, 1911: 16 —— 模式产地：Cameroon: Ekundu
 2. *Eutermes (Eutermes) impetus* Sjöstedt, 1924: 493 —— 模式产地：Congo: Brazzaville
@@ -64,5 +62,5 @@ synonym_localities: "Cameroon: Ekundu; Congo: Brazzaville; Democratic Republic o
 4. *Nasutitermes (Nasutitermes) bequaerti* Emerson, 1928: 416 —— 模式产地：Democratic Republic of the Congo: Bumba (Barumba)
 5. *Nasutitermes (Nasutitermes) santschii* Emerson, 1928: 484-487 —— 模式产地：Democratic Republic of the Congo: Kisangani (Stanleyville)
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes ekunduensis*、*Eutermes (Eutermes) impetus*、*Eutermes maculiventris pusilla*、*Nasutitermes (Nasutitermes) bequaerti*、*Nasutitermes (Nasutitermes) santschii* 等）出现，本站统一归入 *Nasutitermes lujae*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes ekunduensis*、*Eutermes (Eutermes) impetus*、*Eutermes maculiventris pusilla*、*Nasutitermes (Nasutitermes) bequaerti*、*Nasutitermes (Nasutitermes) santschii* 等）出现，均归入 *Nasutitermes lujae*。
 <!-- AUTO:END -->

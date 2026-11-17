@@ -31,7 +31,7 @@ synonym_localities: "Congo: Brazzaville"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**平静无刃白蚁**（*Astratotermes pacatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无刃白蚁属（*Astratotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括非洲热带。本站记录本种有 1 个次异名。
+**平静无刃白蚁**（*Astratotermes pacatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无刃白蚁属（*Astratotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括非洲热带。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Congo: Brazzaville"
 
 - **分布记录**：非洲热带
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes sedatus* Silvestri, 1914: 55-57 —— 模式产地：Congo: Brazzaville
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes sedatus* 出现，本站统一归入 *Astratotermes pacatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes sedatus* 出现，均归入 *Astratotermes pacatus*。
 <!-- AUTO:END -->

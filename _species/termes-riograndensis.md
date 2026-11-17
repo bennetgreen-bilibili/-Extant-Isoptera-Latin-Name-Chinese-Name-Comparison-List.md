@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Rio Grande do Sul: São Leopoldo [29.7603S 51.1472W
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**里奥格兰德白蚁**（*Termes riograndensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Jhering 于 1887 年描述，模式产地为 Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]。分布记录包括阿根廷、巴西、巴拉圭、乌拉圭。本站记录本种有 1 个次异名。
+**里奥格兰德白蚁**（*Termes riograndensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Jhering 于 1887 年描述，模式产地为 Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]。分布记录包括阿根廷、巴西、巴拉圭、乌拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Rio Grande do Sul: São Leopoldo [29.7603S 51.1472W
 
 - **分布记录**：阿根廷、巴西、巴拉圭、乌拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes saltans* Wasmann, 1897: 152 —— 模式产地：Brasil: Rio Grande do Sul: São Leopoldo \[29.7603S 51.1472W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes saltans* 出现，本站统一归入 *Termes riograndensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes saltans* 出现，均归入 *Termes riograndensis*。
 <!-- AUTO:END -->

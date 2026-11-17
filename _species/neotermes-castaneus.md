@@ -28,7 +28,7 @@ synonym_localities: "Honduras: ?; Guatemala: ?; Dominica: Laudat; United States:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**栗色新白蚁**（*Neotermes castaneus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Puerto Rico: ?。分布记录包括中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）。本站记录本种有 4 个次异名。
+**栗色新白蚁**（*Neotermes castaneus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Puerto Rico: ?。分布记录包括中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）。本种有 4 个次异名。
 
 ## 词源
 
@@ -47,16 +47,14 @@ synonym_localities: "Honduras: ?; Guatemala: ?; Dominica: Laudat; United States:
 
 - **分布记录**：中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes anticus* Walker, 1853: 523 —— 模式产地：Honduras: ?
 2. *Termes guatimalae* Walker, 1853: 528 —— 模式产地：Guatemala: ?
 3. *Neotermes elevatus* Banks, 1919: 477 —— 模式产地：Dominica: Laudat
 4. *Neotermes angustoculus* Snyder, 1924: 8-9 —— 模式产地：United States: Florida: Dade County: Paradise Key
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes anticus*、*Termes guatimalae*、*Neotermes elevatus*、*Neotermes angustoculus* 等）出现，本站统一归入 *Neotermes castaneus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes anticus*、*Termes guatimalae*、*Neotermes elevatus*、*Neotermes angustoculus* 等）出现，均归入 *Neotermes castaneus*。
 <!-- AUTO:END -->

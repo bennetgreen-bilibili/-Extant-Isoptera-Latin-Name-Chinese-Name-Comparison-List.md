@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Sabah: Keningau District, mile 6; Malaysia: Sabah
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**友好白蚁**（*Termes comis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak; Singapore: ?。分布记录包括印度尼西亚、马来西亚、新加坡、泰国、越南。本站记录本种有 2 个次异名。
+**友好白蚁**（*Termes comis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak; Singapore: ?。分布记录包括印度尼西亚、马来西亚、新加坡、泰国、越南。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Malaysia: Sabah: Keningau District, mile 6; Malaysia: Sabah
 
 - **分布记录**：印度尼西亚、马来西亚、新加坡、泰国、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes borneensis* Thapa, 1982: 177-179 —— 模式产地：Malaysia: Sabah: Keningau District, mile 6
 2. *Termes kalumpangensis* Thapa, 1982: 179-180 —— 模式产地：Malaysia: Sabah: Kunak-Mostyn District: Kalumpang
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes borneensis*、*Termes kalumpangensis* 等）出现，本站统一归入 *Termes comis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes borneensis*、*Termes kalumpangensis* 等）出现，均归入 *Termes comis*。
 <!-- AUTO:END -->

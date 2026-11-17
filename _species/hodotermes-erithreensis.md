@@ -28,7 +28,7 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**厄立特里亚草白蚁**（*Hodotermes erithreensis*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种。本种由 Sjöstedt 于 1912 年描述，模式产地为 Eritrea: Assab。分布记录包括厄立特里亚、埃塞俄比亚、索马里。本站记录本种有 1 个次异名。
+**厄立特里亚草白蚁**（*Hodotermes erithreensis*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种。本种由 Sjöstedt 于 1912 年描述，模式产地为 Eritrea: Assab。分布记录包括厄立特里亚、埃塞俄比亚、索马里。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 
 - **分布记录**：厄立特里亚、埃塞俄比亚、索马里
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermes erithreensis minor* Harris, 1946: 67 —— 模式产地：Somalia: Alabla Balleh, Halaya
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hodotermes erithreensis minor* 出现，本站统一归入 *Hodotermes erithreensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hodotermes erithreensis minor* 出现，均归入 *Hodotermes erithreensis*。
 <!-- AUTO:END -->

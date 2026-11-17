@@ -28,7 +28,7 @@ synonym_localities: "Australia: New South Wales: Colo Vale; Australia: Victoria:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乳色乳白蚁**（*Coptotermes lacteus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: New South Wales: Shoalhaven。分布记录包括澳大利亚东部。本站记录本种有 2 个次异名。
+**乳色乳白蚁**（*Coptotermes lacteus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: New South Wales: Shoalhaven。分布记录包括澳大利亚东部。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Australia: New South Wales: Colo Vale; Australia: Victoria:
 
 - **分布记录**：澳大利亚东部
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes lactis* Froggatt, 1897: 297, pl. facing 297 —— 模式产地：Australia: New South Wales: Colo Vale
 2. *Coptotermes sedulus* Hill, 1923: 40-43 —— 模式产地：Australia: Victoria: Belgrave
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes lactis*、*Coptotermes sedulus* 等）出现，本站统一归入 *Coptotermes lacteus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes lactis*、*Coptotermes sedulus* 等）出现，均归入 *Coptotermes lacteus*。
 <!-- AUTO:END -->

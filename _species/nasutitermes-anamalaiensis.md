@@ -31,7 +31,7 @@ synonym_localities: "India: Tamil Nadu: South Coimbatore Forest Division: Topsli
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**安纳马莱象白蚁**（*Nasutitermes anamalaiensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 India: Tamil Nadu: Anamalai Hills。分布记录包括印度。本站记录本种有 1 个次异名。
+**安纳马莱象白蚁**（*Nasutitermes anamalaiensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 India: Tamil Nadu: Anamalai Hills。分布记录包括印度。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Tamil Nadu: South Coimbatore Forest Division: Topsli
 
 - **分布记录**：印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Alstonitermes flavescens* Thakur, 1976: 783-785 —— 模式产地：India: Tamil Nadu: South Coimbatore Forest Division: Topslip: Kareeyan Shola
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Alstonitermes flavescens* 出现，本站统一归入 *Nasutitermes anamalaiensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Alstonitermes flavescens* 出现，均归入 *Nasutitermes anamalaiensis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Costa Rica: Estrella"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**全武喙白蚁**（*Rhynchotermes perarmatus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Rio Chinilla。分布记录包括哥斯达黎加、巴拿马、厄瓜多尔、哥伦比亚、伯利兹、危地马拉。本站记录本种有 1 个次异名。
+**全武喙白蚁**（*Rhynchotermes perarmatus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Rio Chinilla。分布记录包括哥斯达黎加、巴拿马、厄瓜多尔、哥伦比亚、伯利兹、危地马拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Costa Rica: Estrella"
 
 - **分布记录**：哥斯达黎加、巴拿马、厄瓜多尔、哥伦比亚、伯利兹、危地马拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Armitermes (Rhynchotermes) major* Snyder, 1925: 160-161 —— 模式产地：Costa Rica: Estrella
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Rhynchotermes) major* 出现，本站统一归入 *Rhynchotermes perarmatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Rhynchotermes) major* 出现，均归入 *Rhynchotermes perarmatus*。
 <!-- AUTO:END -->

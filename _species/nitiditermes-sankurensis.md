@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg; Congo: Indo, 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**桑库鲁净白蚁**（*Nitiditermes sankurensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
+**桑库鲁净白蚁**（*Nitiditermes sankurensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg; Congo: Indo, 
 
 - **分布记录**：安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Cubitermes) cubicephalus* Sjöstedt, 1913: 354-391 —— 模式产地：Democratic Republic of the Congo: Luluabourg
 2. *Eutermes sibitiensis* Sjöstedt, 1925: 54 —— 模式产地：Congo: Indo, Sibiti
 3. *Cubitermes sankurensis elongata* Sjöstedt, 1926: 230 —— 模式产地：Democratic Republic of the Congo: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Cubitermes) cubicephalus*、*Eutermes sibitiensis*、*Cubitermes sankurensis elongata* 等）出现，本站统一归入 *Nitiditermes sankurensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Cubitermes) cubicephalus*、*Eutermes sibitiensis*、*Cubitermes sankurensis elongata* 等）出现，均归入 *Nitiditermes sankurensis*。
 <!-- AUTO:END -->

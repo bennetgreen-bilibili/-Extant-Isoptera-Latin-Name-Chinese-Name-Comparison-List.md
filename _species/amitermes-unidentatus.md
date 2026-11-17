@@ -31,7 +31,7 @@ synonym_localities: "Tanzania: Kilimanjaro; Kilimanjaro: Kibonoto; Ngare Nanyuki
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**单齿弓白蚁**（*Amitermes unidentatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Tanzania: Bawi。分布记录包括安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚。本站记录本种有 4 个次异名。
+**单齿弓白蚁**（*Amitermes unidentatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Tanzania: Bawi。分布记录包括安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Tanzania: Kilimanjaro; Kilimanjaro: Kibonoto; Ngare Nanyuki
 
 - **分布记录**：安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes meruensis* Sjöstedt, 1911: 177-179 —— 模式产地：Tanzania: Kilimanjaro
 2. *Hamitermes elongatus* Silvestri, 1914: 77-78 —— 模式产地：Kilimanjaro: Kibonoto
 3. *Hamitermes limpopoensis* Fuller, 1922: 127 —— 模式产地：Ngare Nanyuki
 4. *Amitermes macrocephalus* Ghidini, 1941: 31 —— 模式产地：Angola: S. Paolo de Loanda: Quifangondo
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes meruensis*、*Hamitermes elongatus*、*Hamitermes limpopoensis*、*Amitermes macrocephalus* 等）出现，本站统一归入 *Amitermes unidentatus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes meruensis*、*Hamitermes elongatus*、*Hamitermes limpopoensis*、*Amitermes macrocephalus* 等）出现，均归入 *Amitermes unidentatus*。
 <!-- AUTO:END -->

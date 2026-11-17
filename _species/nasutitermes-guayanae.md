@@ -31,7 +31,7 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]; Colombia: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**圭亚那象白蚁**（*Nasutitermes guayanae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Suriname: ?。分布记录包括哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥。本站记录本种有 2 个次异名。
+**圭亚那象白蚁**（*Nasutitermes guayanae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Suriname: ?。分布记录包括哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]; Colombia: ?"
 
 - **分布记录**：哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) grandis* Holmgren, 1910: 258-260 —— 模式产地：Peru: Puno: Chaquimayo \[13.45S 70.4W\]
 2. *Eutermes (Eutermes) guayanae columbicus* Holmgren, 1910: 256 —— 模式产地：Colombia: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) grandis*、*Eutermes (Eutermes) guayanae columbicus* 等）出现，本站统一归入 *Nasutitermes guayanae*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) grandis*、*Eutermes (Eutermes) guayanae columbicus* 等）出现，均归入 *Nasutitermes guayanae*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
+**拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本种有 4 个次异名。
 
 ## 词源
 
@@ -48,16 +48,14 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 
 - **分布记录**：西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhinotermes bequaertianus* Sjöstedt, 1913: 357-358 —— 模式产地：Democratic Republic of the Congo: Katanga: Lubumbashi
 2. *Schedorhinotermes putorius australis* Fuller, 1921: 51-52 —— 模式产地：Mozambique: Beira
 3. *Rhinotermes (Schedorhinotermes) lamanianus angulatus* Emerson, 1928: 429-430 —— 模式产地：Democratic Republic of the Congo: Niapu
 4. *Schedorhinotermes provisorius* Grassé, 1937: 20-26 —— 模式产地：Ivory Coast: Béoumi
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes bequaertianus*、*Schedorhinotermes putorius australis*、*Rhinotermes (Schedorhinotermes) lamanianus angulatus*、*Schedorhinotermes provisorius* 等）出现，本站统一归入 *Schedorhinotermes lamanianus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes bequaertianus*、*Schedorhinotermes putorius australis*、*Rhinotermes (Schedorhinotermes) lamanianus angulatus*、*Schedorhinotermes provisorius* 等）出现，均归入 *Schedorhinotermes lamanianus*。
 <!-- AUTO:END -->

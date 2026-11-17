@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]; Bras
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**可怕聚白蚁**（*Syntermes dirus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]。分布记录包括巴西。本站记录本种有 3 个次异名。
+**可怕聚白蚁**（*Syntermes dirus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]。分布记录包括巴西。本种有 3 个次异名。
 
 ## 词源
 
@@ -51,15 +51,13 @@ synonym_localities: "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]; Bras
 
 - **分布记录**：巴西
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes obscurum* Blanchard, 1840: 47 —— 模式产地：Brasil: Rio de Janeiro: Rio de Janeiro \[22.9S 43.23W\]
 2. *Termes dubius* Rambur, 1842: 309 —— 模式产地：Brasil: ?
 3. *Termes cephalotes* Rambur, 1842: 309 —— 模式产地：Brasil: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes obscurum*、*Termes dubius*、*Termes cephalotes* 等）出现，本站统一归入 *Syntermes dirus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes obscurum*、*Termes dubius*、*Termes cephalotes* 等）出现，均归入 *Syntermes dirus*。
 <!-- AUTO:END -->

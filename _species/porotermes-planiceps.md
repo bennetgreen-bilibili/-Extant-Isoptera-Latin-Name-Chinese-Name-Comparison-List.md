@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Cape Province"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**扁头洞白蚁**（*Porotermes planiceps*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 South Africa: Cape Province?。分布记录包括南非。本站记录本种有 1 个次异名。
+**扁头洞白蚁**（*Porotermes planiceps*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 South Africa: Cape Province?。分布记录包括南非。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "South Africa: Cape Province"
 
 - **分布记录**：南非
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes amabilis* Sjöstedt, 1911: 3-4 —— 模式产地：South Africa: Cape Province
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes amabilis* 出现，本站统一归入 *Porotermes planiceps*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes amabilis* 出现，均归入 *Porotermes planiceps*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**迟钝聚白蚁**（*Syntermes obtusus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]。分布记录包括巴西、巴拉圭、阿根廷、玻利维亚。本站记录本种有 1 个次异名。
+**迟钝聚白蚁**（*Syntermes obtusus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]。分布记录包括巴西、巴拉圭、阿根廷、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
 
 - **分布记录**：巴西、巴拉圭、阿根廷、玻利维亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Syntermes silvestrii* Holmgren, 1911: 548 —— 模式产地：Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Syntermes silvestrii* 出现，本站统一归入 *Syntermes obtusus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Syntermes silvestrii* 出现，均归入 *Syntermes obtusus*。
 <!-- AUTO:END -->

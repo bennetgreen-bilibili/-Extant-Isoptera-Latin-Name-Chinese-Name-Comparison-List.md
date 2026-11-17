@@ -31,7 +31,7 @@ synonym_localities: "Australia: Northern Territory: Port Darwin: Palmerston; (co
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三齿程草象白蚁**（*Nasutitermes triodiae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Western Australia: Hall’s Creek, Kimberly Goldfield。分布记录包括澳大利亚、巴布亚新几内亚。本站记录本种有 4 个次异名。
+**三齿程草象白蚁**（*Nasutitermes triodiae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Western Australia: Hall’s Creek, Kimberly Goldfield。分布记录包括澳大利亚、巴布亚新几内亚。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Australia: Northern Territory: Port Darwin: Palmerston; (co
 
 - **分布记录**：澳大利亚、巴布亚新几内亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes pyriformis* Froggatt, 1898: 750-751 —— 模式产地：Australia: Northern Territory: Port Darwin: Palmerston
 2. *Eutermes nigerrimus queenslandicus* Mjöberg, 1920: 43 —— 模式产地：(country unknown): ?
 3. *Eutermes nigerrimus* Mjöberg, 1920: 38-43 —— 模式产地：(country unknown): ?
 4. *Eutermes palmerstoni* Hill, 1922: 148-151 —— 模式产地：Australia: Northern Territory, near Darwin
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes pyriformis*、*Eutermes nigerrimus queenslandicus*、*Eutermes nigerrimus*、*Eutermes palmerstoni* 等）出现，本站统一归入 *Nasutitermes triodiae*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes pyriformis*、*Eutermes nigerrimus queenslandicus*、*Eutermes nigerrimus*、*Eutermes palmerstoni* 等）出现，均归入 *Nasutitermes triodiae*。
 <!-- AUTO:END -->

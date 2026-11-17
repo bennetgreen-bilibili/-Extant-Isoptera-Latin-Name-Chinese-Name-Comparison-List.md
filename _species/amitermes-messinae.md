@@ -31,7 +31,7 @@ synonym_localities: "Yemen: Abyan, in the Wadi Bana near Ga’ar"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**墨西拿弓白蚁**（*Amitermes messinae*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Fuller 于 1922 年描述，模式产地为 South Africa: Transvaal: Messina。分布记录包括南非、埃及、埃塞俄比亚、伊朗、肯尼亚、马拉维、沙特阿拉伯、苏丹、坦桑尼亚、也门、赞比亚。本站记录本种有 1 个次异名。
+**墨西拿弓白蚁**（*Amitermes messinae*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Fuller 于 1922 年描述，模式产地为 South Africa: Transvaal: Messina。分布记录包括南非、埃及、埃塞俄比亚、伊朗、肯尼亚、马拉维、沙特阿拉伯、苏丹、坦桑尼亚、也门、赞比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Yemen: Abyan, in the Wadi Bana near Ga’ar"
 
 - **分布记录**：南非、埃及、埃塞俄比亚、伊朗、肯尼亚、马拉维、沙特阿拉伯、苏丹、坦桑尼亚、也门、赞比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Amitermes harleyi* Harris, 1957: 425-427 —— 模式产地：Yemen: Abyan, in the Wadi Bana near Ga’ar
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Amitermes harleyi* 出现，本站统一归入 *Amitermes messinae*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Amitermes harleyi* 出现，均归入 *Amitermes messinae*。
 <!-- AUTO:END -->

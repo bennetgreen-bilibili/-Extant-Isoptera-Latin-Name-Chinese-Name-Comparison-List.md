@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本站记录本种有 10 个次异名。
+**莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本种有 10 个次异名。
 
 ## 词源
 
@@ -47,11 +47,9 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 
 - **分布记录**：非洲南部及东部
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
+本种有 10 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermes havilandi* Sharp, 1895: 384 —— 模式产地：South Africa: Natal: Colenso on Tugela River
 2. *Hodotermes pulcher* Sjöstedt, 1905: 1-3 —— 模式产地：South Africa: Orange River Colony
@@ -64,5 +62,5 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 9. *Hodotermes (Macrohodotermes) pallidus* Fuller, 1921: 45-46 —— 模式产地：South Africa: Cape Province: Middelburg
 10. *Hodotermes (Hodotermes) bloemfonteinsis* Sjöstedt, 1926: 14-15 —— 模式产地：South Africa: Pretoria: Girls High School
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis* 等）出现，本站统一归入 *Hodotermes mossambicus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis* 等）出现，均归入 *Hodotermes mossambicus*。
 <!-- AUTO:END -->

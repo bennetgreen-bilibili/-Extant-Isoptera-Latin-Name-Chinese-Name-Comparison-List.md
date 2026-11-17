@@ -31,7 +31,7 @@ synonym_localities: "India: Kerala: Vythiri"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**扭曲唇扭白蚁**（*Labiocapritermes distortus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）唇扭白蚁属（*Labiocapritermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1922 年描述，模式产地为 India: Kerala, Kavalai。分布记录包括印度。本站记录本种有 1 个次异名。
+**扭曲唇扭白蚁**（*Labiocapritermes distortus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）唇扭白蚁属（*Labiocapritermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1922 年描述，模式产地为 India: Kerala, Kavalai。分布记录包括印度。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "India: Kerala: Vythiri"
 
 - **分布记录**：印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Pericapritermes vythirii* Verma, 1983: 296-298 —— 模式产地：India: Kerala: Vythiri
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes vythirii* 出现，本站统一归入 *Labiocapritermes distortus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes vythirii* 出现，均归入 *Labiocapritermes distortus*。
 <!-- AUTO:END -->

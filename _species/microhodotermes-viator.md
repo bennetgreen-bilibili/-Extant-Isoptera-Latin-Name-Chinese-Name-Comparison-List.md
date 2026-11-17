@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**旅游小草白蚁**（*Microhodotermes viator*）是草白蚁科（HODOTERMITIDAE）小草白蚁属（*Microhodotermes*）的一种，也是本属的模式种。本种由 Latreille 于 1804 年描述，模式产地为 South Africa: Cape of Good Hope。分布记录包括南非、纳米比亚。本站记录本种有 6 个次异名。
+**旅游小草白蚁**（*Microhodotermes viator*）是草白蚁科（HODOTERMITIDAE）小草白蚁属（*Microhodotermes*）的一种，也是本属的模式种。本种由 Latreille 于 1804 年描述，模式产地为 South Africa: Cape of Good Hope。分布记录包括南非、纳米比亚。本种有 6 个次异名。
 
 ## 词源
 
@@ -47,11 +47,9 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 
 - **分布记录**：南非、纳米比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本种有 6 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermes aurivillii* Sjöstedt, 1900: 278 —— 模式产地：South Africa: Cape Province \[W. Capland\]: Darling
 2. *Hodotermes (Hodotermes) silvestrii* Fuller, 1921: 40 —— 模式产地：South Africa: Cape Province: Namaqualand-Bushmanland
@@ -60,5 +58,5 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 5. *Hodotermes (Hodotermes) faurei* Fuller, 1921: 40 —— 模式产地：South Africa: Cape Province: Victoria West
 6. *Hodotermes viator hageni* Fuller, 1921: 38-39 —— 模式产地：South Africa: Cape Province: Elsenburg
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes aurivillii*、*Hodotermes (Hodotermes) silvestrii*、*Hodotermes (Hodotermes) thomseni*、*Hodotermes (Hodotermes) peringueyi*、*Hodotermes (Hodotermes) faurei*、*Hodotermes viator hageni* 等）出现，本站统一归入 *Microhodotermes viator*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes aurivillii*、*Hodotermes (Hodotermes) silvestrii*、*Hodotermes (Hodotermes) thomseni*、*Hodotermes (Hodotermes) peringueyi*、*Hodotermes (Hodotermes) faurei*、*Hodotermes viator hageni* 等）出现，均归入 *Microhodotermes viator*。
 <!-- AUTO:END -->

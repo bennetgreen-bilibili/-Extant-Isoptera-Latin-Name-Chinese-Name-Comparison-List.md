@@ -31,7 +31,7 @@ synonym_localities: "Panama: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**福雷尔弓白蚁**（*Amitermes foreli*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Colombia: Atlántico: Barranquilla \[ 10.9639N 74.7964W \]。分布记录包括亚马孙地区、中美洲及加勒比、哥伦比亚、委内瑞拉。本站记录本种有 1 个次异名。
+**福雷尔弓白蚁**（*Amitermes foreli*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Colombia: Atlántico: Barranquilla \[ 10.9639N 74.7964W \]。分布记录包括亚马孙地区、中美洲及加勒比、哥伦比亚、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Panama: ?"
 
 - **分布记录**：亚马孙地区、中美洲及加勒比、哥伦比亚、委内瑞拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Amitermes medius* Banks, 1918: 663-664 —— 模式产地：Panama: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Amitermes medius* 出现，本站统一归入 *Amitermes foreli*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Amitermes medius* 出现，均归入 *Amitermes foreli*。
 <!-- AUTO:END -->

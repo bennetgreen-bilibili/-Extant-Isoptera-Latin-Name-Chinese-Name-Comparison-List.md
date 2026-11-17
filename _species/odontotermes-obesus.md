@@ -31,7 +31,7 @@ synonym_localities: "India: Tangore (\"Tanschaur\"); India: Bangalore; India: As
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**胖身土白蚁**（*Odontotermes obesus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 India: Maharashtra: Mumbai。分布记录包括南亚印度、巴基斯坦、尼泊尔、孟加拉国、不丹、中国、缅甸。本站记录本种有 6 个次异名。
+**胖身土白蚁**（*Odontotermes obesus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 India: Maharashtra: Mumbai。分布记录包括南亚印度、巴基斯坦、尼泊尔、孟加拉国、不丹、中国、缅甸。本种有 6 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "India: Tangore (\"Tanschaur\"); India: Bangalore; India: As
 
 - **分布记录**：南亚印度、巴基斯坦、尼泊尔、孟加拉国、不丹、中国、缅甸
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本种有 6 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes fatalis* König, 1779: 1 —— 模式产地：India: Tangore ("Tanschaur")
 2. *Odontotermes (Cyclotermes) bangalorensis* Holmgren, 1913: 112 —— 模式产地：India: Bangalore
@@ -65,5 +63,5 @@ synonym_localities: "India: Tangore (\"Tanschaur\"); India: Bangalore; India: As
 5. *Odontotermes (Cyclotermes) obesus oculatus* Silvestri, 1923: 224-225 —— 模式产地：India: Chilka Lake: Barkuda Island
 6. *Termes (Cyclotermes) orissae* Snyder, 1934: 10-11 —— 模式产地：India: Orissa: Porohat Division: Goilkera
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes fatalis*、*Odontotermes (Cyclotermes) bangalorensis*、*Odontotermes (Cyclotermes) assamensis*、*Odontotermes (Cyclotermes) flavomaculatus*、*Odontotermes (Cyclotermes) obesus oculatus*、*Termes (Cyclotermes) orissae* 等）出现，本站统一归入 *Odontotermes obesus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes fatalis*、*Odontotermes (Cyclotermes) bangalorensis*、*Odontotermes (Cyclotermes) assamensis*、*Odontotermes (Cyclotermes) flavomaculatus*、*Odontotermes (Cyclotermes) obesus oculatus*、*Termes (Cyclotermes) orissae* 等）出现，均归入 *Odontotermes obesus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Ghana: Aburi; Aburi; Guinea: Camayenne; Camayenne; Democrat
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宿主白蚁**（*Termes hospes*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Cameroon: Bonge。分布记录包括旧热带界、刚果民主共和国、塞内加尔、喀麦隆、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、乌干达。本站记录本种有 2 个次异名。
+**宿主白蚁**（*Termes hospes*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Cameroon: Bonge。分布记录包括旧热带界、刚果民主共和国、塞内加尔、喀麦隆、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、乌干达。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Ghana: Aburi; Aburi; Guinea: Camayenne; Camayenne; Democrat
 
 - **分布记录**：旧热带界、刚果民主共和国、塞内加尔、喀麦隆、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes obtectus* Silvestri, 1914: 127-128 —— 模式产地：Ghana: Aburi
 2. *Mirotermes (Mirotermes) langi* Emerson, 1928: 537-539 —— 模式产地：Aburi
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Mirotermes obtectus*、*Mirotermes (Mirotermes) langi* 等）出现，本站统一归入 *Termes hospes*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Mirotermes obtectus*、*Mirotermes (Mirotermes) langi* 等）出现，均归入 *Termes hospes*。
 <!-- AUTO:END -->

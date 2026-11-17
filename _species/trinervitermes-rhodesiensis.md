@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Democratic Re
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗得西亚三脉白蚁**（*Trinervitermes rhodesiensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括科特迪瓦、安哥拉、博茨瓦纳、中非、刚果共和国、刚果民主共和国、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 10 个次异名。
+**罗得西亚三脉白蚁**（*Trinervitermes rhodesiensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括科特迪瓦、安哥拉、博茨瓦纳、中非、刚果共和国、刚果民主共和国、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦。本种有 10 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Democratic Re
 
 - **分布记录**：科特迪瓦、安哥拉、博茨瓦纳、中非、刚果共和国、刚果民主共和国、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
+本种有 10 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes brutus* Sjöstedt, 1911: 12-13 —— 模式产地：Democratic Republic of the Congo: Mukimbungu
 2. *Eutermes agricola* Sjöstedt, 1913: 380-382 —— 模式产地：Democratic Republic of the Congo: Katanga: Mufungwa
@@ -69,5 +67,5 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Democratic Re
 9. *Eutermes (Trinervitermes) diplacodes* Sjöstedt, 1924: 41-42 —— 模式产地：Democratic Republic of the Congo: Banana
 10. *Eutermes (Trinervitermes) muneris* Sjöstedt, 1924: 42 —— 模式产地：Boma
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes brutus*、*Eutermes agricola*、*Eutermes rufonasalis*、*Eutermes (Trinervitermes) roseni*、*Eutermes (Trinervitermes) kalaharicus*、*Trinervitermes thermarum*、*Trinervitermes abassas*、*Eutermes (Trinervitermes) loubetsiensis* 等）出现，本站统一归入 *Trinervitermes rhodesiensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes brutus*、*Eutermes agricola*、*Eutermes rufonasalis*、*Eutermes (Trinervitermes) roseni*、*Eutermes (Trinervitermes) kalaharicus*、*Trinervitermes thermarum*、*Trinervitermes abassas*、*Eutermes (Trinervitermes) loubetsiensis* 等）出现，均归入 *Trinervitermes rhodesiensis*。
 <!-- AUTO:END -->

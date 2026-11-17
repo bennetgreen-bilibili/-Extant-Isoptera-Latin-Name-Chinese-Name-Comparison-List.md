@@ -32,7 +32,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Pseudacanthotermes militaris militaris*）是好斗伪刺白蚁（*Pseudacanthotermes militaris*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）。本亚种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。本页暂无单列的分布记录，母种 *Pseudacanthotermes militaris* 的分布见下文「分布」一节。本站记录本亚种有 1 个次异名。
+**指名亚种**（*Pseudacanthotermes militaris militaris*）是好斗伪刺白蚁（*Pseudacanthotermes militaris*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）。本亚种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。本页暂无单列的分布记录，母种 *Pseudacanthotermes militaris* 的分布见下文「分布」一节。本亚种有 1 个次异名。
 
 ## 词源
 
@@ -56,9 +56,9 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia"
 
 ## 次异名
 
-本站记录本亚种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本亚种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Acanthotermes militaris minor* Sjöstedt, 1913: 358-359 —— 模式产地：Democratic Republic of the Congo: Katanga: Sankisia
 
-在旧文献、地方名录与数据库检索中，本亚种可能以异名 *Acanthotermes militaris minor* 出现，本站统一归入 *Pseudacanthotermes militaris militaris*。
+在旧文献、地方名录与数据库检索中，本亚种可能以异名 *Acanthotermes militaris minor* 出现，均归入 *Pseudacanthotermes militaris militaris*。
 <!-- AUTO:END -->

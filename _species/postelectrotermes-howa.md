@@ -28,7 +28,7 @@ synonym_localities: "Mauritius: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**合华后琥珀白蚁**（*Postelectrotermes howa*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括印度洋岛屿、马达加斯加、留尼汪、科摩罗、毛里求斯、留尼汪（法）。本站记录本种有 1 个次异名。
+**合华后琥珀白蚁**（*Postelectrotermes howa*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括印度洋岛屿、马达加斯加、留尼汪、科摩罗、毛里求斯、留尼汪（法）。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Mauritius: ?"
 
 - **分布记录**：印度洋岛屿、马达加斯加、留尼汪、科摩罗、毛里求斯、留尼汪（法）
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Neotermes howa mauritiana* Sjöstedt, 1926: 42 —— 模式产地：Mauritius: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Neotermes howa mauritiana* 出现，本站统一归入 *Postelectrotermes howa*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Neotermes howa mauritiana* 出现，均归入 *Postelectrotermes howa*。
 <!-- AUTO:END -->

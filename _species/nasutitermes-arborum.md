@@ -31,7 +31,7 @@ synonym_localities: "Gabon: ?; Benin: Cotonou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**树生象白蚁**（*Nasutitermes arborum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达。本站记录本种有 2 个次异名。
+**树生象白蚁**（*Nasutitermes arborum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Gabon: ?; Benin: Cotonou"
 
 - **分布记录**：科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes maculiventris* Sjöstedt, 1904: 104-105 —— 模式产地：Gabon: ?
 2. *Eutermes infuscatus perfusca* Silvestri, 1914: 35-36 —— 模式产地：Benin: Cotonou
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes maculiventris*、*Eutermes infuscatus perfusca* 等）出现，本站统一归入 *Nasutitermes arborum*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes maculiventris*、*Eutermes infuscatus perfusca* 等）出现，均归入 *Nasutitermes arborum*。
 <!-- AUTO:END -->

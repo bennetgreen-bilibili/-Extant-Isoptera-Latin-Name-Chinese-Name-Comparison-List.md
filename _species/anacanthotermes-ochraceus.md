@@ -28,7 +28,7 @@ synonym_localities: "Tunisia: Tunis, Bou-Hedma"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄赭无刺白蚁**（*Anacanthotermes ochraceus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Egypt: ?。分布记录包括北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门。本站记录本种有 1 个次异名。
+**黄赭无刺白蚁**（*Anacanthotermes ochraceus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Egypt: ?。分布记录包括北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门。本种有 1 个次异名。
 
 ## 词源
 
@@ -47,13 +47,11 @@ synonym_localities: "Tunisia: Tunis, Bou-Hedma"
 
 - **分布记录**：北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anacanthotermes tunisiensis* Sjöstedt, 1935: 106-107 —— 模式产地：Tunisia: Tunis, Bou-Hedma
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anacanthotermes tunisiensis* 出现，本站统一归入 *Anacanthotermes ochraceus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anacanthotermes tunisiensis* 出现，均归入 *Anacanthotermes ochraceus*。
 <!-- AUTO:END -->

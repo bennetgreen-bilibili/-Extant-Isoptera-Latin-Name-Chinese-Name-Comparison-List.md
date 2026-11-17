@@ -31,7 +31,7 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具角象白蚁**（*Nasutitermes corniger*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，也是本属的模式种。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。另有记录显示其已引入巴哈马、帕劳、巴布亚新几内亚、美国。本站记录本种有 14 个次异名。
+**具角象白蚁**（*Nasutitermes corniger*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，也是本属的模式种。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。另有记录显示其已引入巴哈马、帕劳、巴布亚新几内亚、美国。本种有 14 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 - **分布记录**：巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛
 - **引入记录**：巴哈马、帕劳、巴布亚新几内亚、美国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 14 个次异名（junior synonyms），按原始文献出处列出：
+本种有 14 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) costalis* Holmgren, 1910: 293-294 —— 模式产地：Trinidad and Tobago: Trinidad
 2. *Eutermes (Eutermes) cayennae* Holmgren, 1910: 232-234 —— 模式产地：French Guiana: Cayenne \[4.93333N 52.33W\]
@@ -73,5 +71,5 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 13. *Eutermes (Eutermes) insularis* Holmgren, 1910: 239-240 —— 模式产地：Puerto Rico: P. Serre
 14. *Nasutitermes polygynus* Roisin & Pasteels, 1985: 325-329 —— 模式产地：Venezuela: Carabobo: Puerto Cabello \[10.4731N 68.0125W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) costalis*、*Eutermes (Eutermes) cayennae*、*Eutermes (Eutermes) cayennae lividus*、*Eutermes (Eutermes) haitiensis*、*Eutermes (Eutermes) cayennae brevinasus*、*Eutermes (Eutermes) sanctaeluciae*、*Eutermes (Eutermes) martiniquensis*、*Eutermes (Eutermes) cayennae atriceps* 等）出现，本站统一归入 *Nasutitermes corniger*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) costalis*、*Eutermes (Eutermes) cayennae*、*Eutermes (Eutermes) cayennae lividus*、*Eutermes (Eutermes) haitiensis*、*Eutermes (Eutermes) cayennae brevinasus*、*Eutermes (Eutermes) sanctaeluciae*、*Eutermes (Eutermes) martiniquensis*、*Eutermes (Eutermes) cayennae atriceps* 等）出现，均归入 *Nasutitermes corniger*。
 <!-- AUTO:END -->

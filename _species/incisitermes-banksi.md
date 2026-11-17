@@ -28,7 +28,7 @@ synonym_localities: "United States: Texas: Chalk Bluff; United States: Arizona: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**班克斯楹白蚁**（*Incisitermes banksi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1920 年描述，模式产地为 United States: Arizona: Santa Catalina Mountains: Sabino Canyon。分布记录包括美国、墨西哥。本站记录本种有 2 个次异名。
+**班克斯楹白蚁**（*Incisitermes banksi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1920 年描述，模式产地为 United States: Arizona: Santa Catalina Mountains: Sabino Canyon。分布记录包括美国、墨西哥。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "United States: Texas: Chalk Bluff; United States: Arizona: 
 
 - **分布记录**：美国、墨西哥
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes texanus* Banks, 1920: 29-31 —— 模式产地：United States: Texas: Chalk Bluff
 2. *Kalotermes lighti* Snyder, 1926: 395-396 —— 模式产地：United States: Arizona: Ray: Copper Butte Canyon
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Kalotermes texanus*、*Kalotermes lighti* 等）出现，本站统一归入 *Incisitermes banksi*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Kalotermes texanus*、*Kalotermes lighti* 等）出现，均归入 *Incisitermes banksi*。
 <!-- AUTO:END -->

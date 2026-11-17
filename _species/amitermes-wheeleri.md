@@ -31,7 +31,7 @@ synonym_localities: "United States: Arizona: Fort Grant; United States: Texas: U
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**惠勒弓白蚁**（*Amitermes wheeleri*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 United States: Texas: Belton。分布记录包括美国、墨西哥。本站记录本种有 4 个次异名。
+**惠勒弓白蚁**（*Amitermes wheeleri*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 United States: Texas: Belton。分布记录包括美国、墨西哥。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "United States: Arizona: Fort Grant; United States: Texas: U
 
 - **分布记录**：美国、墨西哥
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Amitermes arizonensis* Banks, 1920: 56, 59 —— 模式产地：United States: Arizona: Fort Grant
 2. *Amitermes (Amitermes) spadix* Light, 1932: 388-398 —— 模式产地：United States: Texas: Uvalde
 3. *Amitermes (Amitermes) parvipunctus* Light, 1932: 388 —— 模式产地：United States: Texas: Uvalde
 4. *Amitermes floridensis* Scheffrahn, Su & Mangold, 1989: 618-624 —— 模式产地：United States: Florida: Pinellas Co.: St. Petersburg
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Amitermes arizonensis*、*Amitermes (Amitermes) spadix*、*Amitermes (Amitermes) parvipunctus*、*Amitermes floridensis* 等）出现，本站统一归入 *Amitermes wheeleri*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Amitermes arizonensis*、*Amitermes (Amitermes) spadix*、*Amitermes (Amitermes) parvipunctus*、*Amitermes floridensis* 等）出现，均归入 *Amitermes wheeleri*。
 <!-- AUTO:END -->

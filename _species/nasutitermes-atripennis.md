@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Sumatra: Bandar Baroe; Indonesia: Sumatra: Simeu
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑翅象白蚁**（*Nasutitermes atripennis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括印度尼西亚、马来西亚、菲律宾。本站记录本种有 2 个次异名。
+**黑翅象白蚁**（*Nasutitermes atripennis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括印度尼西亚、马来西亚、菲律宾。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Indonesia: Sumatra: Bandar Baroe; Indonesia: Sumatra: Simeu
 
 - **分布记录**：印度尼西亚、马来西亚、菲律宾
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) duplex* Holmgren, 1914: 254-256 —— 模式产地：Indonesia: Sumatra: Bandar Baroe
 2. *Hirtitermes sinabangensis* Oshima, 1923: 21-22 —— 模式产地：Indonesia: Sumatra: Simeulue, Sinabang
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) duplex*、*Hirtitermes sinabangensis* 等）出现，本站统一归入 *Nasutitermes atripennis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) duplex*、*Hirtitermes sinabangensis* 等）出现，均归入 *Nasutitermes atripennis*。
 <!-- AUTO:END -->

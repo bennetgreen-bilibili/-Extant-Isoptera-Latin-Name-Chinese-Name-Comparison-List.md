@@ -28,7 +28,7 @@ synonym_localities: "Colombia: ?; South Africa: Natal: Durban; Peru: Lima: Lima 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**麻头堆砂白蚁**（*Cryptotermes brevis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 Jamaica: ?。分布记录包括加拿大、加那利群岛（西班牙）、埃及、以色列、意大利、马德拉群岛（葡萄牙）、葡萄牙、西班牙、美国。文献另注：原产秘鲁智利沿海，现泛热带广布。本站记录本种有 5 个次异名。
+**麻头堆砂白蚁**（*Cryptotermes brevis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 Jamaica: ?。分布记录包括加拿大、加那利群岛（西班牙）、埃及、以色列、意大利、马德拉群岛（葡萄牙）、葡萄牙、西班牙、美国。文献另注：原产秘鲁智利沿海，现泛热带广布。本种有 5 个次异名。
 
 ## 词源
 
@@ -49,11 +49,9 @@ synonym_localities: "Colombia: ?; South Africa: Natal: Durban; Peru: Lima: Lima 
 - **分布记录**：加拿大、加那利群岛（西班牙）、埃及、以色列、意大利、马德拉群岛（葡萄牙）、葡萄牙、西班牙、美国
 - **补充记录**：原产秘鲁智利沿海，现泛热带广布
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes indecisus* Walker, 1853: 524 —— 模式产地：Colombia: ?
 2. *Cryptotermes pseudobrevis* Fuller, 1921: 30 —— 模式产地：South Africa: Natal: Durban
@@ -61,5 +59,5 @@ synonym_localities: "Colombia: ?; South Africa: Natal: Durban; Peru: Lima: Lima 
 4. *Cryptotermes piceatus* Snyder, 1922: 14-16 —— 模式产地：United States: Hawaii, Oahu Territory, Honolulu
 5. *Lagena samanica* Berry, 1928: 398, —— 模式产地：Peru: Middle Lobitos shale
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes indecisus*、*Cryptotermes pseudobrevis*、*Cryptotermes rospigliosi*、*Cryptotermes piceatus*、*Lagena samanica* 等）出现，本站统一归入 *Cryptotermes brevis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes indecisus*、*Cryptotermes pseudobrevis*、*Cryptotermes rospigliosi*、*Cryptotermes piceatus*、*Lagena samanica* 等）出现，均归入 *Cryptotermes brevis*。
 <!-- AUTO:END -->

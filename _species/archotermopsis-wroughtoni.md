@@ -28,7 +28,7 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚。本站记录本种有 2 个次异名。
+**罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -47,14 +47,12 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 
 - **分布记录**：南亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termopsis radcliffei* Radcliffe, 1904: 412-414 —— 模式产地：India: Kashmir valley
 2. *Archotermopsis deodarae* Chatterjee & Thakur, 1967: 10-13 —— 模式产地：India: Kashmir: Achhabal, Anantnag
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termopsis radcliffei*、*Archotermopsis deodarae* 等）出现，本站统一归入 *Archotermopsis wroughtoni*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termopsis radcliffei*、*Archotermopsis deodarae* 等）出现，均归入 *Archotermopsis wroughtoni*。
 <!-- AUTO:END -->

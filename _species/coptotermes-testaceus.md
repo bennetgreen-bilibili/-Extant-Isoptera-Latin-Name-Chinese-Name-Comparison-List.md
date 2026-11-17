@@ -28,7 +28,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**厚壳乳白蚁**（*Coptotermes testaceus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括新热带界、中美洲至南美北部。本站记录本种有 5 个次异名。
+**厚壳乳白蚁**（*Coptotermes testaceus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括新热带界、中美洲至南美北部。本种有 5 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 
 - **分布记录**：新热带界、中美洲至南美北部
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Perla fusca* De Geer, 1773: 567 —— 模式产地：Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]
 2. *Termes morio* Fabricius, 1793: 90 —— 模式产地：French Guiana: Cayenne \[ 4.93333N 52.33W \]
@@ -60,5 +58,5 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 4. *Coptotermes crassus* Snyder, 1922: 21-22 —— 模式产地：Honduras: La Ceiba, San Juan Pueblo
 5. *Coptotermes niger* Snyder, 1922: 19-20 —— 模式产地：Panama: Juan Mina
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Perla fusca*、*Termes morio*、*Termes (Eutermes) marabitanas*、*Coptotermes crassus*、*Coptotermes niger* 等）出现，本站统一归入 *Coptotermes testaceus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Perla fusca*、*Termes morio*、*Termes (Eutermes) marabitanas*、*Coptotermes crassus*、*Coptotermes niger* 等）出现，均归入 *Coptotermes testaceus*。
 <!-- AUTO:END -->

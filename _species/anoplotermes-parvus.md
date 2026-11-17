@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]; Bolivia: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小解甲白蚁**（*Anoplotermes parvus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Snyder 于 1923 年描述，模式产地为 Panama: Frijoles。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。本站记录本种有 4 个次异名。
+**小解甲白蚁**（*Anoplotermes parvus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Snyder 于 1923 年描述，模式产地为 Panama: Frijoles。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]; Bolivia: 
 
 - **分布记录**：巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes (Anoplotermes) brevipilus* Emerson, 1925: 424-425 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]
 2. *Anoplotermes (Anoplotermes) proximus* Snyder, 1926: 54-55 —— 模式产地：Bolivia: La Paz: Tumupasa \[ 14.15S 67.9167W \]
 3. *Anoplotermes (Anoplotermes) distinctus* Snyder, 1926: 49-50 —— 模式产地：Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]
 4. *Anoplotermes (Anoplotermes) clypeatus* Snyder, 1926: 47-48 —— 模式产地：Bolivia: El Beni: San Gregorio \[ 15.5S 64.666W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Anoplotermes (Anoplotermes) brevipilus*、*Anoplotermes (Anoplotermes) proximus*、*Anoplotermes (Anoplotermes) distinctus*、*Anoplotermes (Anoplotermes) clypeatus* 等）出现，本站统一归入 *Anoplotermes parvus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Anoplotermes (Anoplotermes) brevipilus*、*Anoplotermes (Anoplotermes) proximus*、*Anoplotermes (Anoplotermes) distinctus*、*Anoplotermes (Anoplotermes) clypeatus* 等）出现，均归入 *Anoplotermes parvus*。
 <!-- AUTO:END -->

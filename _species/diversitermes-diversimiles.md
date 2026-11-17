@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso do Sul: Corumbá, Santo Domingos [19.23
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多兵歧白蚁**（*Diversitermes diversimiles*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]。分布记录包括巴西、阿根廷、法属圭亚那、玻利维亚、巴拉圭。本站记录本种有 1 个次异名。
+**多兵歧白蚁**（*Diversitermes diversimiles*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]。分布记录包括巴西、阿根廷、法属圭亚那、玻利维亚、巴拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Brasil: Mato Grosso do Sul: Corumbá, Santo Domingos [19.23
 
 - **分布记录**：巴西、阿根廷、法属圭亚那、玻利维亚、巴拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Constrictotermes) strelnicovi* John, 1920: 232-233 —— 模式产地：Brasil: Mato Grosso do Sul: Corumbá, Santo Domingos \[19.2334S 57.6332W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Constrictotermes) strelnicovi* 出现，本站统一归入 *Diversitermes diversimiles*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Constrictotermes) strelnicovi* 出现，均归入 *Diversitermes diversimiles*。
 <!-- AUTO:END -->

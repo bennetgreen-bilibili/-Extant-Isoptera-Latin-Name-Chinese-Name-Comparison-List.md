@@ -31,7 +31,7 @@ synonym_localities: "Bangladesh: Ukhia; India: West Bengal: Buxa Forest Division
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**龙格伦吉里印白蚁**（*Indotermes rongrensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）印白蚁属（*Indotermes*）的一种。本种由 Roonwal & Chhotani 于 1962 年描述，模式产地为 India: Assam: Garo Hills District: Rongrengiri。分布记录包括东洋界。本站记录本种有 2 个次异名。
+**龙格伦吉里印白蚁**（*Indotermes rongrensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）印白蚁属（*Indotermes*）的一种。本种由 Roonwal & Chhotani 于 1962 年描述，模式产地为 India: Assam: Garo Hills District: Rongrengiri。分布记录包括东洋界。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Bangladesh: Ukhia; India: West Bengal: Buxa Forest Division
 
 - **分布记录**：东洋界
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Indotermes bangladeshiensis* Akhtar, 1975: 116-120 —— 模式产地：Bangladesh: Ukhia
 2. *Doonitermes buxensis* Thakur & Sen-Sarma, 1980: 85-90 —— 模式产地：India: West Bengal: Buxa Forest Division: Jainti Forest
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Indotermes bangladeshiensis*、*Doonitermes buxensis* 等）出现，本站统一归入 *Indotermes rongrensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Indotermes bangladeshiensis*、*Doonitermes buxensis* 等）出现，均归入 *Indotermes rongrensis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Java: Semarang; Indonesia: Sumatra: Kota Bahru"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三宝近扭白蚁**（*Pericapritermes semarangi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Java: Semarang。分布记录包括印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国。本站记录本种有 2 个次异名。
+**三宝近扭白蚁**（*Pericapritermes semarangi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Java: Semarang。分布记录包括印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Indonesia: Java: Semarang; Indonesia: Sumatra: Kota Bahru"
 
 - **分布记录**：印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes javanicus* Holmgren, 1913: 255-256 —— 模式产地：Indonesia: Java: Semarang
 2. *Capritermes sumatrensis* John, 1925: 215-216 —— 模式产地：Indonesia: Sumatra: Kota Bahru
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes javanicus*、*Capritermes sumatrensis* 等）出现，本站统一归入 *Pericapritermes semarangi*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes javanicus*、*Capritermes sumatrensis* 等）出现，均归入 *Pericapritermes semarangi*。
 <!-- AUTO:END -->

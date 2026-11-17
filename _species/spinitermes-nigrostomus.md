@@ -31,7 +31,7 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑嘴针刺白蚁**（*Spinitermes nigrostomus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]。分布记录包括巴西、委内瑞拉、玻利维亚、圭亚那、秘鲁、苏里南。本站记录本种有 1 个次异名。
+**黑嘴针刺白蚁**（*Spinitermes nigrostomus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]。分布记录包括巴西、委内瑞拉、玻利维亚、圭亚那、秘鲁、苏里南。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
 
 - **分布记录**：巴西、委内瑞拉、玻利维亚、圭亚那、秘鲁、苏里南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Spinitermes gracilis* Holmgren, 1906: 565-567 —— 模式产地：Peru: Puno: Chaquimayo \[13.45S 70.4W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Spinitermes gracilis* 出现，本站统一归入 *Spinitermes nigrostomus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Spinitermes gracilis* 出现，均归入 *Spinitermes nigrostomus*。
 <!-- AUTO:END -->

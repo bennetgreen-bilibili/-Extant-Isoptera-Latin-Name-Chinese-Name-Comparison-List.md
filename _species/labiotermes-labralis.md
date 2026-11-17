@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**细唇厚唇白蚁**（*Labiotermes labralis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚。本站记录本种有 1 个次异名。
+**细唇厚唇白蚁**（*Labiotermes labralis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 
 - **分布记录**：巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Labiotermes labralis boreus* Snyder, 1949: 334 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Labiotermes labralis boreus* 出现，本站统一归入 *Labiotermes labralis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Labiotermes labralis boreus* 出现，均归入 *Labiotermes labralis*。
 <!-- AUTO:END -->

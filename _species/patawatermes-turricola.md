@@ -31,7 +31,7 @@ synonym_localities: "Argentina: Misiones: Santa Ana [ 27.37S 55.58W ]; Paraguay:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**土栖帕塔瓦白蚁**（*Patawatermes turricola*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）帕塔瓦白蚁属（*Patawatermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]。分布记录包括南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥。本站记录本种有 1 个次异名。
+**土栖帕塔瓦白蚁**（*Patawatermes turricola*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）帕塔瓦白蚁属（*Patawatermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]。分布记录包括南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Argentina: Misiones: Santa Ana [ 27.37S 55.58W ]; Paraguay:
 
 - **分布记录**：南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes bequaerti* Snyder & Emerson in Snyder, 1949: 104 —— 模式产地：Argentina: Misiones: Santa Ana \[ 27.37S 55.58W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes bequaerti* 出现，本站统一归入 *Patawatermes turricola*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes bequaerti* 出现，均归入 *Patawatermes turricola*。
 <!-- AUTO:END -->

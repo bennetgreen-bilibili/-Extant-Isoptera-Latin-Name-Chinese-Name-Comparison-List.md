@@ -28,7 +28,7 @@ synonym_localities: "Morocco: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄颈木白蚁**（*Kalotermes flavicollis*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种，也是本属的模式种。本种由 Fabricius 于 1793 年描述，模式产地为 (country unknown): "Barbaria"。分布记录包括地中海区、南欧、北非、西亚。本站记录本种有 1 个次异名。
+**黄颈木白蚁**（*Kalotermes flavicollis*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种，也是本属的模式种。本种由 Fabricius 于 1793 年描述，模式产地为 (country unknown): "Barbaria"。分布记录包括地中海区、南欧、北非、西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -47,13 +47,11 @@ synonym_localities: "Morocco: ?"
 
 - **分布记录**：地中海区、南欧、北非、西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes maroccoensis* Sjöstedt, 1904: 17 —— 模式产地：Morocco: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes maroccoensis* 出现，本站统一归入 *Kalotermes flavicollis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes maroccoensis* 出现，均归入 *Kalotermes flavicollis*。
 <!-- AUTO:END -->

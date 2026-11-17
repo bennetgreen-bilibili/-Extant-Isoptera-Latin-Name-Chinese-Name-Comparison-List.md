@@ -28,7 +28,7 @@ synonym_localities: "Indonesia: Tarakan Island; Indonesia: Java: Bogor, Depok, n
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**中暗长鼻白蚁**（*Schedorhinotermes medioobscurus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Holmgren 于 1914 年描述，模式产地为 Indonesia: Sumatra: Tandjong Slamat; Malaysia: Malacca: Trong, near Taiping。分布记录包括东南亚、印度尼西亚、泰国、马来西亚、柬埔寨、新加坡、越南、菲律宾、中国、印度。本站记录本种有 2 个次异名。
+**中暗长鼻白蚁**（*Schedorhinotermes medioobscurus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Holmgren 于 1914 年描述，模式产地为 Indonesia: Sumatra: Tandjong Slamat; Malaysia: Malacca: Trong, near Taiping。分布记录包括东南亚、印度尼西亚、泰国、马来西亚、柬埔寨、新加坡、越南、菲律宾、中国、印度。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Indonesia: Tarakan Island; Indonesia: Java: Bogor, Depok, n
 
 - **分布记录**：东南亚、印度尼西亚、泰国、马来西亚、柬埔寨、新加坡、越南、菲律宾、中国、印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhinotermes (Schedorhinotermes) tarakensis* Oshima, 1914: 28-29 —— 模式产地：Indonesia: Tarakan Island
 2. *Schedorhinotermes javanicus* Kemner, 1934: 51-54 —— 模式产地：Indonesia: Java: Bogor, Depok, near Tjidaho Berge Salak
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes (Schedorhinotermes) tarakensis*、*Schedorhinotermes javanicus* 等）出现，本站统一归入 *Schedorhinotermes medioobscurus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Rhinotermes (Schedorhinotermes) tarakensis*、*Schedorhinotermes javanicus* 等）出现，均归入 *Schedorhinotermes medioobscurus*。
 <!-- AUTO:END -->

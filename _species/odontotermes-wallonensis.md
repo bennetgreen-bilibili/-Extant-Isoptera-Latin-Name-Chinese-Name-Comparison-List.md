@@ -31,7 +31,7 @@ synonym_localities: "India: Rajasthan: Udaipur District: Bhupalsagar, near Udaip
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**瓦隆土白蚁**（*Odontotermes wallonensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Ahmadnagar District: Sangamner: Wallon。分布记录包括南亚印度。本站记录本种有 1 个次异名。
+**瓦隆土白蚁**（*Odontotermes wallonensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Ahmadnagar District: Sangamner: Wallon。分布记录包括南亚印度。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Rajasthan: Udaipur District: Bhupalsagar, near Udaip
 
 - **分布记录**：南亚印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes brunneus kushwahai* Roonwal & Bose, 1964: 33-36 —— 模式产地：India: Rajasthan: Udaipur District: Bhupalsagar, near Udaipur
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes brunneus kushwahai* 出现，本站统一归入 *Odontotermes wallonensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes brunneus kushwahai* 出现，均归入 *Odontotermes wallonensis*。
 <!-- AUTO:END -->

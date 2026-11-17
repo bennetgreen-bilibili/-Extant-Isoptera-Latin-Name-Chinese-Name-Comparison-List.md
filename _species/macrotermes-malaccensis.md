@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Belitung (Billiton); Malaysia: Johore"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**马六甲大白蚁**（*Macrotermes malaccensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Malacca。分布记录包括东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南。本站记录本种有 2 个次异名。
+**马六甲大白蚁**（*Macrotermes malaccensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Malacca。分布记录包括东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Indonesia: Belitung (Billiton); Malaysia: Johore"
 
 - **分布记录**：东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Gnathotermes aurivillii* Holmgren, 1912: 23 —— 模式产地：Indonesia: Belitung (Billiton)
 2. *Gnathotermes havilandi* Holmgren, 1912: 23 —— 模式产地：Malaysia: Johore
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Gnathotermes aurivillii*、*Gnathotermes havilandi* 等）出现，本站统一归入 *Macrotermes malaccensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Gnathotermes aurivillii*、*Gnathotermes havilandi* 等）出现，均归入 *Macrotermes malaccensis*。
 <!-- AUTO:END -->

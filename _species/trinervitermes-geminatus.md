@@ -31,7 +31,7 @@ synonym_localities: "(country unknown): \"Atlantic coast of Sahara\"; Nigeria: I
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**成对三脉白蚁**（*Trinervitermes geminatus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Ghana: ?。分布记录包括科特迪瓦、塞内加尔、多哥、加纳、尼日利亚、布基纳法索、刚果民主共和国、埃塞俄比亚、马里、毛里塔尼亚、塞拉利昂、苏丹、乌干达。本站记录本种有 3 个次异名。
+**成对三脉白蚁**（*Trinervitermes geminatus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Ghana: ?。分布记录包括科特迪瓦、塞内加尔、多哥、加纳、尼日利亚、布基纳法索、刚果民主共和国、埃塞俄比亚、马里、毛里塔尼亚、塞拉利昂、苏丹、乌干达。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "(country unknown): \"Atlantic coast of Sahara\"; Nigeria: I
 
 - **分布记录**：科特迪瓦、塞内加尔、多哥、加纳、尼日利亚、布基纳法索、刚果民主共和国、埃塞俄比亚、马里、毛里塔尼亚、塞拉利昂、苏丹、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Trinervitermes) grossus* Sjöstedt, 1924: 493 —— 模式产地：(country unknown): "Atlantic coast of Sahara"
 2. *Trinervitermes ibidanicus* Sjöstedt, 1926: 347 —— 模式产地：Nigeria: Ibadan (Ibidan)
 3. *Trinervitermes ebnerianus* Sjöstedt, 1926: 73-74 —— 模式产地：Sudan: Tungaru
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Trinervitermes) grossus*、*Trinervitermes ibidanicus*、*Trinervitermes ebnerianus* 等）出现，本站统一归入 *Trinervitermes geminatus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Trinervitermes) grossus*、*Trinervitermes ibidanicus*、*Trinervitermes ebnerianus* 等）出现，均归入 *Trinervitermes geminatus*。
 <!-- AUTO:END -->

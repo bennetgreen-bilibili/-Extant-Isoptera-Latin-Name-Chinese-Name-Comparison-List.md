@@ -28,7 +28,7 @@ synonym_localities: "Sierra Leone: ?; Ghana: Aburi"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**舍斯泰特乳白蚁**（*Coptotermes sjostedti*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Cameroon: Bonge; Cape Debubdscha。分布记录包括西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达。另有记录显示其已引入瓜德罗普（法国）。本站记录本种有 2 个次异名。
+**舍斯泰特乳白蚁**（*Coptotermes sjostedti*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Cameroon: Bonge; Cape Debubdscha。分布记录包括西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达。另有记录显示其已引入瓜德罗普（法国）。本种有 2 个次异名。
 
 ## 词源
 
@@ -49,14 +49,12 @@ synonym_localities: "Sierra Leone: ?; Ghana: Aburi"
 - **分布记录**：西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达
 - **引入记录**：瓜德罗普（法国）
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes arda* Fabricius, 1781: 397 —— 模式产地：Sierra Leone: ?
 2. *Coptotermes sjostedti modica* Silvestri, 1914: 9 —— 模式产地：Ghana: Aburi
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes arda*、*Coptotermes sjostedti modica* 等）出现，本站统一归入 *Coptotermes sjostedti*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes arda*、*Coptotermes sjostedti modica* 等）出现，均归入 *Coptotermes sjostedti*。
 <!-- AUTO:END -->

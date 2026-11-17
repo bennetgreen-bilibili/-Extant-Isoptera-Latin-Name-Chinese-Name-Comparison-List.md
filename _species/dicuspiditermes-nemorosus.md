@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Sarawak; Malaysia: Sarawak; Malaysia: Sabah: Keni
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**树荫突扭白蚁**（*Dicuspiditermes nemorosus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括东南亚、马来西亚、印度尼西亚、新加坡。本站记录本种有 3 个次异名。
+**树荫突扭白蚁**（*Dicuspiditermes nemorosus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括东南亚、马来西亚、印度尼西亚、新加坡。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Malaysia: Sarawak; Malaysia: Sarawak; Malaysia: Sabah: Keni
 
 - **分布记录**：东南亚、马来西亚、印度尼西亚、新加坡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes medius* Holmgren, 1913: 252 —— 模式产地：Malaysia: Sarawak
 2. *Capritermes minor* Holmgren, 1913: 252 —— 模式产地：Malaysia: Sarawak
 3. *Dicuspiditermes paramakhamensis* Thapa, 1982: 226-229 —— 模式产地：Malaysia: Sabah: Keningau District: Biah Forest, mile 6
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes medius*、*Capritermes minor*、*Dicuspiditermes paramakhamensis* 等）出现，本站统一归入 *Dicuspiditermes nemorosus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes medius*、*Capritermes minor*、*Dicuspiditermes paramakhamensis* 等）出现，均归入 *Dicuspiditermes nemorosus*。
 <!-- AUTO:END -->

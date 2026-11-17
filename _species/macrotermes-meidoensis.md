@@ -31,7 +31,7 @@ synonym_localities: "China: Tibet: Medog"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**梅多大白蚁**（*Macrotermes meidoensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Huang & Han 于 1988 年描述，模式产地为 China: Tibet: Medog。分布记录包括中国西藏、墨脱。本站记录本种有 1 个次异名。
+**梅多大白蚁**（*Macrotermes meidoensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Huang & Han 于 1988 年描述，模式产地为 China: Tibet: Medog。分布记录包括中国西藏、墨脱。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "China: Tibet: Medog"
 
 - **分布记录**：中国西藏、墨脱
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Macrotermes medogensis* Han, 1990: 175-178 —— 模式产地：China: Tibet: Medog
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Macrotermes medogensis* 出现，本站统一归入 *Macrotermes meidoensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Macrotermes medogensis* 出现，均归入 *Macrotermes meidoensis*。
 <!-- AUTO:END -->

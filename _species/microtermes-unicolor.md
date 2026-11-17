@@ -31,7 +31,7 @@ synonym_localities: "India: Uttarakhand: Dehra Dun"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**单色小白蚁**（*Microtermes unicolor*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 India: Uttarakhand: Dehra Dun。分布记录包括南亚、巴基斯坦、印度。本站记录本种有 1 个次异名。
+**单色小白蚁**（*Microtermes unicolor*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 India: Uttarakhand: Dehra Dun。分布记录包括南亚、巴基斯坦、印度。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Uttarakhand: Dehra Dun"
 
 - **分布记录**：南亚、巴基斯坦、印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microtermes pubescens* Snyder, 1933: 9-10 —— 模式产地：India: Uttarakhand: Dehra Dun
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes pubescens* 出现，本站统一归入 *Microtermes unicolor*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes pubescens* 出现，均归入 *Microtermes unicolor*。
 <!-- AUTO:END -->

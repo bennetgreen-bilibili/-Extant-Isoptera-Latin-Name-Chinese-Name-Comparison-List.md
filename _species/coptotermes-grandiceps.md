@@ -28,7 +28,7 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Papua New Guinea: Me
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**庞头乳白蚁**（*Coptotermes grandiceps*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Solomon Islands: Tulagi Island。分布记录包括所罗门群岛、巴布亚新几内亚、印度尼西亚。本站记录本种有 4 个次异名。
+**庞头乳白蚁**（*Coptotermes grandiceps*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Solomon Islands: Tulagi Island。分布记录包括所罗门群岛、巴布亚新几内亚、印度尼西亚。本种有 4 个次异名。
 
 ## 词源
 
@@ -48,16 +48,14 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Papua New Guinea: Me
 
 - **分布记录**：所罗门群岛、巴布亚新几内亚、印度尼西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes solomonensis* Snyder, 1925: 403 —— 模式产地：Solomon Islands: Malayta Island: Auki
 2. *Coptotermes obiratus* Hill, 1927: 17-19 —— 模式产地：Papua New Guinea: Mekeo District: Waima
 3. *Coptotermes froggatti* Light & Davis, 1929: 62-66 —— 模式产地：Solomon Islands: Russell Group: Banika
 4. *Coptotermes hilli* Light & Davis, 1929: 66 —— 模式产地：Solomon Islands: Banika
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Coptotermes solomonensis*、*Coptotermes obiratus*、*Coptotermes froggatti*、*Coptotermes hilli* 等）出现，本站统一归入 *Coptotermes grandiceps*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Coptotermes solomonensis*、*Coptotermes obiratus*、*Coptotermes froggatti*、*Coptotermes hilli* 等）出现，均归入 *Coptotermes grandiceps*。
 <!-- AUTO:END -->

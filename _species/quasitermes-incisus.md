@@ -31,7 +31,7 @@ synonym_localities: "Madagascar: Manantantely, near Tolanaro"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**切割相似白蚁**（*Quasitermes incisus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）相似白蚁属（*Quasitermes*）的现存唯一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina。分布记录包括马达加斯加。本站记录本种有 1 个次异名。
+**切割相似白蚁**（*Quasitermes incisus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）相似白蚁属（*Quasitermes*）的现存唯一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina。分布记录包括马达加斯加。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Madagascar: Manantantely, near Tolanaro"
 
 - **分布记录**：马达加斯加
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Quasitermes caprinus* Emerson, 1950: 10-13 —— 模式产地：Madagascar: Manantantely, near Tolanaro
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Quasitermes caprinus* 出现，本站统一归入 *Quasitermes incisus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Quasitermes caprinus* 出现，均归入 *Quasitermes incisus*。
 <!-- AUTO:END -->

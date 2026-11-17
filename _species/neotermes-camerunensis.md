@@ -28,7 +28,7 @@ synonym_localities: "Cameroon: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**喀麦隆新白蚁**（*Neotermes camerunensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Cameroon: Mungo River。分布记录包括塞内加尔、喀麦隆、尼日利亚、圣多美和普林西比。本站记录本种有 1 个次异名。
+**喀麦隆新白蚁**（*Neotermes camerunensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Cameroon: Mungo River。分布记录包括塞内加尔、喀麦隆、尼日利亚、圣多美和普林西比。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Cameroon: ?"
 
 - **分布记录**：塞内加尔、喀麦隆、尼日利亚、圣多美和普林西比
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes auriceps* Sjöstedt, 1904: 19 —— 模式产地：Cameroon: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes auriceps* 出现，本站统一归入 *Neotermes camerunensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes auriceps* 出现，均归入 *Neotermes camerunensis*。
 <!-- AUTO:END -->

@@ -32,7 +32,7 @@ synonym_localities: "Malaysia: Sarawak; Indonesia: Java: Jember"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Nasutitermes matangensis matangensis*）是马登象白蚁（*Nasutitermes matangensis*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）。本亚种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Matang。本页暂无单列的分布记录，母种 *Nasutitermes matangensis* 的分布见下文「分布」一节。本站记录本亚种有 2 个次异名。
+**指名亚种**（*Nasutitermes matangensis matangensis*）是马登象白蚁（*Nasutitermes matangensis*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）。本亚种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Matang。本页暂无单列的分布记录，母种 *Nasutitermes matangensis* 的分布见下文「分布」一节。本亚种有 2 个次异名。
 
 ## 词源
 
@@ -56,10 +56,10 @@ synonym_localities: "Malaysia: Sarawak; Indonesia: Java: Jember"
 
 ## 次异名
 
-本站记录本亚种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本亚种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) matangensiformis* Holmgren, 1913: 185 —— 模式产地：Malaysia: Sarawak
 2. *Eutermes djemberensis* Kemner, 1934: 128-129 —— 模式产地：Indonesia: Java: Jember
 
-在旧文献、地方名录与数据库检索中，本亚种可能以上述异名（*Eutermes (Eutermes) matangensiformis*、*Eutermes djemberensis* 等）出现，本站统一归入 *Nasutitermes matangensis matangensis*。
+在旧文献、地方名录与数据库检索中，本亚种可能以上述异名（*Eutermes (Eutermes) matangensiformis*、*Eutermes djemberensis* 等）出现，均归入 *Nasutitermes matangensis matangensis*。
 <!-- AUTO:END -->

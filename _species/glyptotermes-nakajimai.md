@@ -28,7 +28,7 @@ synonym_localities: "Japan: Kyushu: Miyazaki Prefecture: Kushima City; Japan: Ho
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**中岛树白蚁**（*Glyptotermes nakajimai*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Morimoto 于 1973 年描述，模式产地为 Japan: Kochi Prefecture: Cape Ashizuri。分布记录包括日本、韩国。本站记录本种有 2 个次异名。
+**中岛树白蚁**（*Glyptotermes nakajimai*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Morimoto 于 1973 年描述，模式产地为 Japan: Kochi Prefecture: Cape Ashizuri。分布记录包括日本、韩国。本种有 2 个次异名。
 
 ## 词源
 
@@ -48,14 +48,12 @@ synonym_localities: "Japan: Kyushu: Miyazaki Prefecture: Kushima City; Japan: Ho
 
 - **分布记录**：日本、韩国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Glyptotermes kodamai* Mori, 1976: 54 —— 模式产地：Japan: Kyushu: Miyazaki Prefecture: Kushima City
 2. *Glyptotermes kushimensis* Mori, 1978: 34-35 —— 模式产地：Japan: Honshu: Wakayama Prefecture: Kushimoto
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Glyptotermes kodamai*、*Glyptotermes kushimensis* 等）出现，本站统一归入 *Glyptotermes nakajimai*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Glyptotermes kodamai*、*Glyptotermes kushimensis* 等）出现，均归入 *Glyptotermes nakajimai*。
 <!-- AUTO:END -->

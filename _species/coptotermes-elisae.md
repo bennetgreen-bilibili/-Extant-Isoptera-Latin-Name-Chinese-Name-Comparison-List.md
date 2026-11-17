@@ -28,7 +28,7 @@ synonym_localities: "Papua New Guinea: Bukaua"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**瑞明乳白蚁**（*Coptotermes elisae*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Desneux 于 1905 年描述，模式产地为 Papua New Guinea: Simbang, Huon Gulf。分布记录包括印度尼西亚、马来西亚、巴布亚新几内亚。本站记录本种有 1 个次异名。
+**瑞明乳白蚁**（*Coptotermes elisae*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Desneux 于 1905 年描述，模式产地为 Papua New Guinea: Simbang, Huon Gulf。分布记录包括印度尼西亚、马来西亚、巴布亚新几内亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Papua New Guinea: Bukaua"
 
 - **分布记录**：印度尼西亚、马来西亚、巴布亚新几内亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes hyaloapex* Holmgren, 1911: 457 —— 模式产地：Papua New Guinea: Bukaua
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes hyaloapex* 出现，本站统一归入 *Coptotermes elisae*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes hyaloapex* 出现，均归入 *Coptotermes elisae*。
 <!-- AUTO:END -->

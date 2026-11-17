@@ -31,7 +31,7 @@ synonym_localities: "Tanzania: Kilimanjaro: Kibonoto; Tanzania: Amani; Mozambiqu
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**贝顿三脉白蚁**（*Trinervitermes bettonianus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1905 年描述，模式产地为 Kenya: Athi River。分布记录包括纳米比亚、刚果（布）、肯尼亚、刚果民主共和国、马拉维、莫桑比克、尼日利亚、坦桑尼亚、乌干达、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
+**贝顿三脉白蚁**（*Trinervitermes bettonianus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1905 年描述，模式产地为 Kenya: Athi River。分布记录包括纳米比亚、刚果（布）、肯尼亚、刚果民主共和国、马拉维、莫桑比克、尼日利亚、坦桑尼亚、乌干达、赞比亚、津巴布韦。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Tanzania: Kilimanjaro: Kibonoto; Tanzania: Amani; Mozambiqu
 
 - **分布记录**：纳米比亚、刚果（布）、肯尼亚、刚果民主共和国、马拉维、莫桑比克、尼日利亚、坦桑尼亚、乌干达、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes segelli* Sjöstedt, 1907: 26-28 —— 模式产地：Tanzania: Kilimanjaro: Kibonoto
 2. *Eutermes (Trinervitermes) ruficeps* Holmgren, 1913: 343-344 —— 模式产地：Tanzania: Amani
 3. *Eutermes crassinasus* Sjöstedt, 1914: 6-9 —— 模式产地：Mozambique: Villa Fontes
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes segelli*、*Eutermes (Trinervitermes) ruficeps*、*Eutermes crassinasus* 等）出现，本站统一归入 *Trinervitermes bettonianus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes segelli*、*Eutermes (Trinervitermes) ruficeps*、*Eutermes crassinasus* 等）出现，均归入 *Trinervitermes bettonianus*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**格斯特乳白蚁**（*Coptotermes gestroi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Bhamo。分布记录包括东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛。文献另注：热带区广布，引入安提瓜和巴布达。本站记录本种有 10 个次异名。
+**格斯特乳白蚁**（*Coptotermes gestroi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Bhamo。分布记录包括东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛。文献另注：热带区广布，引入安提瓜和巴布达。本种有 10 个次异名。
 
 ## 词源
 
@@ -48,11 +48,9 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 - **分布记录**：东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛
 - **补充记录**：热带区广布，引入安提瓜和巴布达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
+本种有 10 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Arrhinotermes heimi* Wasmann, 1902: 104 —— 模式产地：India: Maharashtra: Ahmednagar District: Wallon
 2. *Coptotermes havilandi* Holmgren, 1911: 192 —— 模式产地：Thailand: Hinlap
@@ -65,5 +63,5 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 9. *Coptotermes (Oligocrinitermes) obliquus* Xia & He, 1986: 172-174, 181, 182 —— 模式产地：China: Yunnan Province: Jinghong County: Menglun Com
 10. *Coptotermes yaxianensis* Li, 1986: 225-226 —— 模式产地：China: Yunnan Province: Jinghong
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Arrhinotermes heimi*、*Coptotermes havilandi*、*Coptotermes parvulus*、*Coptotermes vastator*、*Coptotermes pacificus*、*Coptotermes javanicus*、*Coptotermes monosetosus menglunensis*、*Coptotermes (Oligocrinitermes) cochlearus* 等）出现，本站统一归入 *Coptotermes gestroi*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Arrhinotermes heimi*、*Coptotermes havilandi*、*Coptotermes parvulus*、*Coptotermes vastator*、*Coptotermes pacificus*、*Coptotermes javanicus*、*Coptotermes monosetosus menglunensis*、*Coptotermes (Oligocrinitermes) cochlearus* 等）出现，均归入 *Coptotermes gestroi*。
 <!-- AUTO:END -->

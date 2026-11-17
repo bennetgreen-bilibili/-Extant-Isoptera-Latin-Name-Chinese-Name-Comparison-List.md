@@ -28,7 +28,7 @@ synonym_localities: "Guatemala: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽头楹白蚁**（*Incisitermes platycephalus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Madrid, near Colima。分布记录包括墨西哥、危地马拉、洪都拉斯、尼加拉瓜。本站记录本种有 1 个次异名。
+**宽头楹白蚁**（*Incisitermes platycephalus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Madrid, near Colima。分布记录包括墨西哥、危地马拉、洪都拉斯、尼加拉瓜。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Guatemala: ?"
 
 - **分布记录**：墨西哥、危地马拉、洪都拉斯、尼加拉瓜
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes nigritus* Snyder, 1946: 158-159 —— 模式产地：Guatemala: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes nigritus* 出现，本站统一归入 *Incisitermes platycephalus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes nigritus* 出现，均归入 *Incisitermes platycephalus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland: Torrens Creek; Australia: Queensland
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小头锯白蚁**（*Microcerotermes parviceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Colosseum。分布记录包括大洋洲、澳大利亚。本站记录本种有 4 个次异名。
+**小头锯白蚁**（*Microcerotermes parviceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Colosseum。分布记录包括大洋洲、澳大利亚。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Australia: Queensland: Torrens Creek; Australia: Queensland
 
 - **分布记录**：大洋洲、澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes serratus* Froggatt, 1898: 731-732 —— 模式产地：Australia: Queensland: Torrens Creek
 2. *Microcerotermes mendicus* Hill, 1927: 90-92 —— 模式产地：Australia: Queensland: El Arish
 3. *Microcerotermes gladius* Hill, 1927: 81-83 —— 模式产地：Australia: Queensland, near Cairns: Merinda
 4. *Microcerotermes fugax* Hill, 1927: 86-88 —— 模式产地：Australia: Northern Territory: Stapleton
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes serratus*、*Microcerotermes mendicus*、*Microcerotermes gladius*、*Microcerotermes fugax* 等）出现，本站统一归入 *Microcerotermes parviceps*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes serratus*、*Microcerotermes mendicus*、*Microcerotermes gladius*、*Microcerotermes fugax* 等）出现，均归入 *Microcerotermes parviceps*。
 <!-- AUTO:END -->

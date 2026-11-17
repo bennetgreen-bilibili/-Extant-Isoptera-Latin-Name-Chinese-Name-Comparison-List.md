@@ -31,7 +31,7 @@ synonym_localities: "Solomon Islands: Banika; Pepisala; Papua New Guinea: New Br
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**毛头锯白蚁**（*Microcerotermes piliceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Solomon Islands: Ugi Island。分布记录包括大洋洲、所罗门群岛、巴布亚新几内亚。本站记录本种有 2 个次异名。
+**毛头锯白蚁**（*Microcerotermes piliceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Solomon Islands: Ugi Island。分布记录包括大洋洲、所罗门群岛、巴布亚新几内亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Solomon Islands: Banika; Pepisala; Papua New Guinea: New Br
 
 - **分布记录**：大洋洲、所罗门群岛、巴布亚新几内亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microcerotermes froggatti* Hill, 1927: 38-40 —— 模式产地：Solomon Islands: Banika
 2. *Microcerotermes umbritarsus* Hill, 1927: 33-37 —— 模式产地：Pepisala
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Microcerotermes froggatti*、*Microcerotermes umbritarsus* 等）出现，本站统一归入 *Microcerotermes piliceps*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Microcerotermes froggatti*、*Microcerotermes umbritarsus* 等）出现，均归入 *Microcerotermes piliceps*。
 <!-- AUTO:END -->

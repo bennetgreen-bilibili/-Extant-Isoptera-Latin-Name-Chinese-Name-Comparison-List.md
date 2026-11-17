@@ -28,7 +28,7 @@ synonym_localities: "Chile: Valparaíso: Zapallar [ 34.05S 71.5333W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**智利新白蚁**（*Neotermes chilensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Blanchard 于 1851 年描述，模式产地为 Chile: ?。分布记录包括智利。本站记录本种有 1 个次异名。
+**智利新白蚁**（*Neotermes chilensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Blanchard 于 1851 年描述，模式产地为 Chile: ?。分布记录包括智利。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Chile: Valparaíso: Zapallar [ 34.05S 71.5333W ]"
 
 - **分布记录**：智利
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes chilensis zapallarensis* Goetsch, 1933: 229 —— 模式产地：Chile: Valparaíso: Zapallar \[ 34.05S 71.5333W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes chilensis zapallarensis* 出现，本站统一归入 *Neotermes chilensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes chilensis zapallarensis* 出现，均归入 *Neotermes chilensis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Australia: Western Australia: 3.2 km S Yornup"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**克雷珀林旁扭白蚁**（*Paracapritermes kraepelinii*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）旁扭白蚁属（*Paracapritermes*）的一种。本种由 Silvestri 于 1909 年描述，模式产地为 Australia: Western Australia: Mundaring。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**克雷珀林旁扭白蚁**（*Paracapritermes kraepelinii*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）旁扭白蚁属（*Paracapritermes*）的一种。本种由 Silvestri 于 1909 年描述，模式产地为 Australia: Western Australia: Mundaring。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Australia: Western Australia: 3.2 km S Yornup"
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Paracapritermes hesperus* Gay, 1956: 210-211 —— 模式产地：Australia: Western Australia: 3.2 km S Yornup
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Paracapritermes hesperus* 出现，本站统一归入 *Paracapritermes kraepelinii*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Paracapritermes hesperus* 出现，均归入 *Paracapritermes kraepelinii*。
 <!-- AUTO:END -->

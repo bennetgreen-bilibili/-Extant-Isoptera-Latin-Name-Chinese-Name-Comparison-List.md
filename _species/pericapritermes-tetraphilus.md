@@ -31,7 +31,7 @@ synonym_localities: "Myanmar: Maymyo"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大近扭白蚁**（*Pericapritermes tetraphilus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Silvestri 于 1922 年描述，模式产地为 Bangladesh: Chittagong Hill Tracts: Rangamati。分布记录包括广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）、印度、孟加拉国、缅甸。本站记录本种有 1 个次异名。
+**大近扭白蚁**（*Pericapritermes tetraphilus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Silvestri 于 1922 年描述，模式产地为 Bangladesh: Chittagong Hill Tracts: Rangamati。分布记录包括广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）、印度、孟加拉国、缅甸。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Myanmar: Maymyo"
 
 - **分布记录**：广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）、印度、孟加拉国、缅甸
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes orientalis* Mathur & Sen-Sarma, 1961: 1-4 —— 模式产地：Myanmar: Maymyo
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes orientalis* 出现，本站统一归入 *Pericapritermes tetraphilus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes orientalis* 出现，均归入 *Pericapritermes tetraphilus*。
 <!-- AUTO:END -->

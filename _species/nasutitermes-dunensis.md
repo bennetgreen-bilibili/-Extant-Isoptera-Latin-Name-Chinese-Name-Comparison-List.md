@@ -31,7 +31,7 @@ synonym_localities: "India: Uttarakhand: Naintal District: 1–2 km east of Gair
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**德拉敦象白蚁**（*Nasutitermes dunensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Chatterjee & Thakur 于 1969 年描述，模式产地为 India: Uttarakhand: Dehra Dun: Dehra Dun Forest Division: Asarori Range: Mohamedpur Block。分布记录包括印度。本站记录本种有 2 个次异名。
+**德拉敦象白蚁**（*Nasutitermes dunensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Chatterjee & Thakur 于 1969 年描述，模式产地为 India: Uttarakhand: Dehra Dun: Dehra Dun Forest Division: Asarori Range: Mohamedpur Block。分布记录包括印度。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "India: Uttarakhand: Naintal District: 1–2 km east of Gair
 
 - **分布记录**：印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Nasutitermes lambai* Verma & Thakur, 1978: 50-53 —— 模式产地：India: Uttarakhand: Naintal District: 1–2 km east of Gairal Forest Rest House: Sangali Sot
 2. *Nasutitermes guptai* Sen-Sarma & Thakur, 1980: 25-29 —— 模式产地：India: Uttarakhand: Kumaon Hills: Askot: Dholakot
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes lambai*、*Nasutitermes guptai* 等）出现，本站统一归入 *Nasutitermes dunensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes lambai*、*Nasutitermes guptai* 等）出现，均归入 *Nasutitermes dunensis*。
 <!-- AUTO:END -->

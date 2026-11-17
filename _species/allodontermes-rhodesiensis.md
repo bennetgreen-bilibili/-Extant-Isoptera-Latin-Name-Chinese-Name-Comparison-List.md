@@ -31,7 +31,7 @@ synonym_localities: "Mozambique: Lourenço Marques, Delagoa Bay; South Africa: T
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗得西亚奇齿白蚁**（*Allodontermes rhodesiensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括旧热带界东非、非洲南部。本站记录本种有 2 个次异名。
+**罗得西亚奇齿白蚁**（*Allodontermes rhodesiensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括旧热带界东非、非洲南部。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Mozambique: Lourenço Marques, Delagoa Bay; South Africa: T
 
 - **分布记录**：旧热带界东非、非洲南部
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Allodontermes schultzei orientalis* Fuller, 1922: 71-72 —— 模式产地：Mozambique: Lourenço Marques, Delagoa Bay
 2. *Termes (Protermes) esuriens* Sjöstedt, 1924: 255 —— 模式产地：South Africa: Transvaal: Pretoria
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Allodontermes schultzei orientalis*、*Termes (Protermes) esuriens* 等）出现，本站统一归入 *Allodontermes rhodesiensis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Allodontermes schultzei orientalis*、*Termes (Protermes) esuriens* 等）出现，均归入 *Allodontermes rhodesiensis*。
 <!-- AUTO:END -->

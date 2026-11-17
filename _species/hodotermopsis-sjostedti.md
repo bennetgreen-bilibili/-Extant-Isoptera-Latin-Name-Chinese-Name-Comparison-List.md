@@ -28,7 +28,7 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（HODOTERMOPSIDAE）原白蚁属（*Hodotermopsis*）的现存唯一种。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本站记录本种有 5 个次异名。
+**山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（HODOTERMOPSIDAE）原白蚁属（*Hodotermopsis*）的现存唯一种。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本种有 5 个次异名。
 
 ## 词源
 
@@ -47,11 +47,9 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 
 - **分布记录**：日本、中国台湾、中国南部、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hodotermopsis japonicus* Holmgren, 1912: 112-113 —— 模式产地：Japan: Amami-Oshima
 2. *Hodotermopsis yui* Li & Ping, 1988: 303-304, 305 —— 模式产地：China: Guangdong Province: Lianshan County
@@ -59,7 +57,7 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 4. *Hodotermopsis dimorphus* Zhu, Wang & Huang, 1991: 199-201, 203 —— 模式产地：China: Guizhou Province: Leishan County: Leigong Mountain
 5. *Hodotermopsis fanjingshanensis* Zhu, Wang & Huang, 1991: 201-202, 203 —— 模式产地：China: Guizhou Province: Jiankou County: Fanjingshan Mountain
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis* 等）出现，本站统一归入 *Hodotermopsis sjostedti*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis* 等）出现，均归入 *Hodotermopsis sjostedti*。
 <!-- AUTO:END -->
 
 ## 湖南莽山的观察

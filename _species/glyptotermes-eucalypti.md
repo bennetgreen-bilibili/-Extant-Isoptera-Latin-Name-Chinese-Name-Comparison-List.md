@@ -28,7 +28,7 @@ synonym_localities: "Australia: Capital Territory: Black Mtn"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**桉树树白蚁**（*Glyptotermes eucalypti*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Sydney。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**桉树树白蚁**（*Glyptotermes eucalypti*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Sydney。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Australia: Capital Territory: Black Mtn"
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes (Glyptotermes) neotuberculatus* Hill, 1933: 42-44 —— 模式产地：Australia: Capital Territory: Black Mtn
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes (Glyptotermes) neotuberculatus* 出现，本站统一归入 *Glyptotermes eucalypti*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes (Glyptotermes) neotuberculatus* 出现，均归入 *Glyptotermes eucalypti*。
 <!-- AUTO:END -->

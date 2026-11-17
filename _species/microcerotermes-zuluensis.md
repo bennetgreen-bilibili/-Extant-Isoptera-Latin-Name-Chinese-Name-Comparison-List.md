@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Zululand"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**祖鲁锯白蚁**（*Microcerotermes zuluensis*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele。分布记录包括旧热带界、西非、非洲南部。本站记录本种有 1 个次异名。
+**祖鲁锯白蚁**（*Microcerotermes zuluensis*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele。分布记录包括旧热带界、西非、非洲南部。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "South Africa: Zululand"
 
 - **分布记录**：旧热带界、西非、非洲南部
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microcerotermes zuluensis grandis* Holmgren, 1913: 364 —— 模式产地：South Africa: Zululand
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Microcerotermes zuluensis grandis* 出现，本站统一归入 *Microcerotermes zuluensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Microcerotermes zuluensis grandis* 出现，均归入 *Microcerotermes zuluensis*。
 
 ## 亚种
 

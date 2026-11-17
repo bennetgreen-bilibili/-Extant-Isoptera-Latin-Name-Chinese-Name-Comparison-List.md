@@ -28,7 +28,7 @@ synonym_localities: "Indonesia: Borneo: Tandjong"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**最大长鼻白蚁**（*Schedorhinotermes maximus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Borneo: Tandjong。分布记录包括分布待核。本站记录本种有 1 个次异名。
+**最大长鼻白蚁**（*Schedorhinotermes maximus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Borneo: Tandjong。分布记录包括分布待核。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Indonesia: Borneo: Tandjong"
 
 - **分布记录**：分布待核
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Macrorhinotermes maximus* Holmgren, 1913: 81 —— 模式产地：Indonesia: Borneo: Tandjong
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Macrorhinotermes maximus* 出现，本站统一归入 *Schedorhinotermes maximus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Macrorhinotermes maximus* 出现，均归入 *Schedorhinotermes maximus*。
 <!-- AUTO:END -->

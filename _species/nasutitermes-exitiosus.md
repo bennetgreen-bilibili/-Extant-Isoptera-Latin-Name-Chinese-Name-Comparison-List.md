@@ -31,7 +31,7 @@ synonym_localities: "Australia: South Australia: Adelaide"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**破坏象白蚁**（*Nasutitermes exitiosus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Hill 于 1925 年描述，模式产地为 Australia: Western Australia: Ludlow。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**破坏象白蚁**（*Nasutitermes exitiosus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Hill 于 1925 年描述，模式产地为 Australia: Western Australia: Ludlow。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Australia: South Australia: Adelaide"
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes australis* Walker, 1853: 525-526 —— 模式产地：Australia: South Australia: Adelaide
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes australis* 出现，本站统一归入 *Nasutitermes exitiosus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes australis* 出现，均归入 *Nasutitermes exitiosus*。
 <!-- AUTO:END -->

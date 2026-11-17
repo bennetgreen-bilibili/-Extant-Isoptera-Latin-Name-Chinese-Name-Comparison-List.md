@@ -31,7 +31,7 @@ synonym_localities: "Ethiopia: Murlè"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**伦伯格弓白蚁**（*Amitermes loennbergianus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Kenya: somewhat north of Guaso Nyero。分布记录包括厄立特里亚、埃塞俄比亚、肯尼亚、索马里、坦桑尼亚、乌干达、也门。本站记录本种有 1 个次异名。
+**伦伯格弓白蚁**（*Amitermes loennbergianus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Kenya: somewhat north of Guaso Nyero。分布记录包括厄立特里亚、埃塞俄比亚、肯尼亚、索马里、坦桑尼亚、乌干达、也门。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Ethiopia: Murlè"
 
 - **分布记录**：厄立特里亚、埃塞俄比亚、肯尼亚、索马里、坦桑尼亚、乌干达、也门
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Amitermes lacertosus* Ghidini, 1941: 32-33 —— 模式产地：Ethiopia: Murlè
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Amitermes lacertosus* 出现，本站统一归入 *Amitermes loennbergianus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Amitermes lacertosus* 出现，均归入 *Amitermes loennbergianus*。
 <!-- AUTO:END -->

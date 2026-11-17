@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Zululand: Mkosi"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**部白小白蚁**（*Microtermes albopartitus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括非洲南部、南非、喀麦隆、刚果民主共和国、马拉维、坦桑尼亚。本站记录本种有 1 个次异名。
+**部白小白蚁**（*Microtermes albopartitus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括非洲南部、南非、喀麦隆、刚果民主共和国、马拉维、坦桑尼亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "South Africa: Zululand: Mkosi"
 
 - **分布记录**：非洲南部、南非、喀麦隆、刚果民主共和国、马拉维、坦桑尼亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Microtermes longiceps* Holmgren, 1913: 330-332, 334 —— 模式产地：South Africa: Zululand: Mkosi
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes longiceps* 出现，本站统一归入 *Microtermes albopartitus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Microtermes longiceps* 出现，均归入 *Microtermes albopartitus*。
 <!-- AUTO:END -->

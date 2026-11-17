@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**博德金新扭白蚁**（*Neocapritermes bodkini*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]。分布记录包括哥伦比亚、圭亚那、巴西、秘鲁。本站记录本种有 1 个次异名。
+**博德金新扭白蚁**（*Neocapritermes bodkini*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]。分布记录包括哥伦比亚、圭亚那、巴西、秘鲁。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
 
 - **分布记录**：哥伦比亚、圭亚那、巴西、秘鲁
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes bodkini modestior* Silvestri, 1923: 315-318 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes bodkini modestior* 出现，本站统一归入 *Neocapritermes bodkini*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes bodkini modestior* 出现，均归入 *Neocapritermes bodkini*。
 <!-- AUTO:END -->

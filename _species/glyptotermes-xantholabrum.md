@@ -28,7 +28,7 @@ synonym_localities: "Polynesia (French): Marquesas: Uahuka: Tehaeva: Hane Valley
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄唇树白蚁**（*Glyptotermes xantholabrum*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Hill 于 1926 年描述，模式产地为 Samoa: Upolu Island: Apia。分布记录包括萨摩亚、巴布亚新几内亚、法属波利尼西亚、瓦努阿图。本站记录本种有 1 个次异名。
+**黄唇树白蚁**（*Glyptotermes xantholabrum*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Hill 于 1926 年描述，模式产地为 Samoa: Upolu Island: Apia。分布记录包括萨摩亚、巴布亚新几内亚、法属波利尼西亚、瓦努阿图。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Polynesia (French): Marquesas: Uahuka: Tehaeva: Hane Valley
 
 - **分布记录**：萨摩亚、巴布亚新几内亚、法属波利尼西亚、瓦努阿图
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes (Glyptotermes) juddi* Light, 1932: 169-170 —— 模式产地：Polynesia (French): Marquesas: Uahuka: Tehaeva: Hane Valley
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Glyptotermes) juddi* 出现，本站统一归入 *Glyptotermes xantholabrum*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Glyptotermes) juddi* 出现，均归入 *Glyptotermes xantholabrum*。
 <!-- AUTO:END -->

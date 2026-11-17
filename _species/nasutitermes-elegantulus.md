@@ -31,7 +31,7 @@ synonym_localities: "Sao Tome and Principe: Roça Infante D. Henrique; Democrati
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小雅象白蚁**（*Nasutitermes elegantulus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Cameroon: Victoria。分布记录包括刚果（布）、安哥拉、喀麦隆、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、圣多美和普林西比、乌干达。本站记录本种有 3 个次异名。
+**小雅象白蚁**（*Nasutitermes elegantulus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Cameroon: Victoria。分布记录包括刚果（布）、安哥拉、喀麦隆、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、圣多美和普林西比、乌干达。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Sao Tome and Principe: Roça Infante D. Henrique; Democrati
 
 - **分布记录**：刚果（布）、安哥拉、喀麦隆、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、圣多美和普林西比、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes macrophthalmus* Silvestri, 1912: 240-241 —— 模式产地：Sao Tome and Principe: Roça Infante D. Henrique
 2. *Eutermes (Eutermes) minusculus* Sjöstedt, 1924: 40 —— 模式产地：Democratic Republic of the Congo: Lukula
 3. *Nasutitermes (Nasutitermes) kohli* Emerson, 1928: 484 —— 模式产地：Democratic Republic of the Congo: Kandolo, near Kisangani
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes macrophthalmus*、*Eutermes (Eutermes) minusculus*、*Nasutitermes (Nasutitermes) kohli* 等）出现，本站统一归入 *Nasutitermes elegantulus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes macrophthalmus*、*Eutermes (Eutermes) minusculus*、*Nasutitermes (Nasutitermes) kohli* 等）出现，均归入 *Nasutitermes elegantulus*。
 <!-- AUTO:END -->

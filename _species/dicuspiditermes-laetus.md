@@ -31,7 +31,7 @@ synonym_localities: "Myanmar: Maymyo; Vietnam: Cau Da; India: Tripura: Tiliamura
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**明亮突扭白蚁**（*Dicuspiditermes laetus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Myanmar: Lower Myanmar: east side of Dawna Hills, Sukli。分布记录包括东南亚、泰国、孟加拉国、柬埔寨、中国、印度、马来西亚、缅甸、越南。本站记录本种有 3 个次异名。
+**明亮突扭白蚁**（*Dicuspiditermes laetus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Myanmar: Lower Myanmar: east side of Dawna Hills, Sukli。分布记录包括东南亚、泰国、孟加拉国、柬埔寨、中国、印度、马来西亚、缅甸、越南。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Myanmar: Maymyo; Vietnam: Cau Da; India: Tripura: Tiliamura
 
 - **分布记录**：东南亚、泰国、孟加拉国、柬埔寨、中国、印度、马来西亚、缅甸、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Capritermes garthwaitei* Gardner, 1945: 106-108 —— 模式产地：Myanmar: Maymyo
 2. *Dicuspiditermes orientalis* Harris, 1968: 147-148 —— 模式产地：Vietnam: Cau Da
 3. *Dicuspiditermes tripurensis* Sen-Sarma & Thakur, 1979: 21-23 —— 模式产地：India: Tripura: Tiliamura
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes garthwaitei*、*Dicuspiditermes orientalis*、*Dicuspiditermes tripurensis* 等）出现，本站统一归入 *Dicuspiditermes laetus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Capritermes garthwaitei*、*Dicuspiditermes orientalis*、*Dicuspiditermes tripurensis* 等）出现，均归入 *Dicuspiditermes laetus*。
 <!-- AUTO:END -->

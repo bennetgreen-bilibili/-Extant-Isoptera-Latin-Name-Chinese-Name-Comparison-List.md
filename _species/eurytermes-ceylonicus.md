@@ -31,7 +31,7 @@ synonym_localities: "Sri Lanka: Badulla"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**锡兰宽白蚁**（*Eurytermes ceylonicus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Sri Lanka: ?。分布记录包括斯里兰卡。本站记录本种有 1 个次异名。
+**锡兰宽白蚁**（*Eurytermes ceylonicus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Sri Lanka: ?。分布记录包括斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Sri Lanka: Badulla"
 
 - **分布记录**：斯里兰卡
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes ceyloniellus* Kemner, 1926: 389 —— 模式产地：Sri Lanka: Badulla
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes ceyloniellus* 出现，本站统一归入 *Eurytermes ceylonicus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes ceyloniellus* 出现，均归入 *Eurytermes ceylonicus*。
 <!-- AUTO:END -->

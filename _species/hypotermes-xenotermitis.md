@@ -31,7 +31,7 @@ synonym_localities: "India: Assam: North-East Frontier Agency, Khasi Hills, on b
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**氙地白蚁**（*Hypotermes xenotermitis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Palon (Pegù)。分布记录包括印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国。本站记录本种有 1 个次异名。
+**氙地白蚁**（*Hypotermes xenotermitis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Palon (Pegù)。分布记录包括印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Assam: North-East Frontier Agency, Khasi Hills, on b
 
 - **分布记录**：印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hypotermes nongpriangi* Roonwal & Sen-Sarma, 1956: 21-26 —— 模式产地：India: Assam: North-East Frontier Agency, Khasi Hills, on bank of River Nong-priang
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hypotermes nongpriangi* 出现，本站统一归入 *Hypotermes xenotermitis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hypotermes nongpriangi* 出现，均归入 *Hypotermes xenotermitis*。
 <!-- AUTO:END -->

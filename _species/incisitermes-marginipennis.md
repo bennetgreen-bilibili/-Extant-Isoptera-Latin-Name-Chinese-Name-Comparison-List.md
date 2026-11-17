@@ -28,7 +28,7 @@ synonym_localities: "Mexico: ?; Mexico: ?; Mexico: Federal District"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**缘翅楹白蚁**（*Incisitermes marginipennis*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Latreille 于 1817 年描述，模式产地为 Mexico: ?。分布记录包括墨西哥、危地马拉、巴拿马。本站记录本种有 3 个次异名。
+**缘翅楹白蚁**（*Incisitermes marginipennis*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Latreille 于 1817 年描述，模式产地为 Mexico: ?。分布记录包括墨西哥、危地马拉、巴拿马。本种有 3 个次异名。
 
 ## 词源
 
@@ -48,15 +48,13 @@ synonym_localities: "Mexico: ?; Mexico: ?; Mexico: Federal District"
 
 - **分布记录**：墨西哥、危地马拉、巴拿马
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes mexicanus* Walker, 1853: 528 —— 模式产地：Mexico: ?
 2. *Kalotermes tuberculifrons* Snyder, 1922: 6-7 —— 模式产地：Mexico: ?
 3. *Kalotermes montanus* Snyder, 1922: 5-6 —— 模式产地：Mexico: Federal District
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes mexicanus*、*Kalotermes tuberculifrons*、*Kalotermes montanus* 等）出现，本站统一归入 *Incisitermes marginipennis*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes mexicanus*、*Kalotermes tuberculifrons*、*Kalotermes montanus* 等）出现，均归入 *Incisitermes marginipennis*。
 <!-- AUTO:END -->

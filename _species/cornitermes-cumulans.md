@@ -31,7 +31,7 @@ synonym_localities: "Paraguay: ?; Brasil: ?; Brasil: Minas Gerais: Congonhas [20
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**成堆角象白蚁**（*Cornitermes cumulans*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1832 年描述，模式产地为 Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]。分布记录包括巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔。本站记录本种有 4 个次异名。
+**成堆角象白蚁**（*Cornitermes cumulans*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1832 年描述，模式产地为 Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]。分布记录包括巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔。本种有 4 个次异名。
 
 ## 词源
 
@@ -51,16 +51,14 @@ synonym_localities: "Paraguay: ?; Brasil: ?; Brasil: Minas Gerais: Congonhas [20
 
 - **分布记录**：巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes americana* Rengger, 1835: 267 —— 模式产地：Paraguay: ?
 2. *Termes dubius* Rambur, 1842: 309 —— 模式产地：Brasil: ?
 3. *Termes (Termes) similis* Hagen, 1858: 167-171, 243 —— 模式产地：Brasil: Minas Gerais: Congonhas \[20.4997S 43.8578W\]
 4. *Termes christiersoni* Sörensen, 1884: 20-22 —— 模式产地：Argentina: Chaco: Río de Oro \[27.0422S 58.5667W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni* 等）出现，本站统一归入 *Cornitermes cumulans*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni* 等）出现，均归入 *Cornitermes cumulans*。
 <!-- AUTO:END -->

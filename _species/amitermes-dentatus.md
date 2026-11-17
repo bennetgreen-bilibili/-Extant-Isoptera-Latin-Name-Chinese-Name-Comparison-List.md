@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Sumatra: Soengei Bamban"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具齿弓白蚁**（*Amitermes dentatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Marudi。分布记录包括东南亚岛屿、中国、泰国。本站记录本种有 1 个次异名。
+**具齿弓白蚁**（*Amitermes dentatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Marudi。分布记录包括东南亚岛屿、中国、泰国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Indonesia: Sumatra: Soengei Bamban"
 
 - **分布记录**：东南亚岛屿、中国、泰国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hamitermes (Hamitermes) minor* Holmgren, 1914: 273 —— 模式产地：Indonesia: Sumatra: Soengei Bamban
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes (Hamitermes) minor* 出现，本站统一归入 *Amitermes dentatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes (Hamitermes) minor* 出现，均归入 *Amitermes dentatus*。
 <!-- AUTO:END -->

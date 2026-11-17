@@ -28,7 +28,7 @@ synonym_localities: "China: Guangdong Province: Dinghu Mountain: Zhaoqing City"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**广州散白蚁**（*Reticulitermes guangzhouensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Ping 于 1985 年描述，模式产地为 China: Guangdong Province: Guangzhou。分布记录包括中国。本站记录本种有 1 个次异名。
+**广州散白蚁**（*Reticulitermes guangzhouensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Ping 于 1985 年描述，模式产地为 China: Guangdong Province: Guangzhou。分布记录包括中国。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "China: Guangdong Province: Dinghu Mountain: Zhaoqing City"
 
 - **分布记录**：中国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Reticulitermes dichrous* Ping, 1985: 324-325, 328 —— 模式产地：China: Guangdong Province: Dinghu Mountain: Zhaoqing City
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Reticulitermes dichrous* 出现，本站统一归入 *Reticulitermes guangzhouensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Reticulitermes dichrous* 出现，均归入 *Reticulitermes guangzhouensis*。
 <!-- AUTO:END -->

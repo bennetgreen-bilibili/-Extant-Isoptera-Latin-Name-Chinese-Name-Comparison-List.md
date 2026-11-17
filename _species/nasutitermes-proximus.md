@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Santa Catarina: Jaraguá do Sul [26.4905S 49.0763W]
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**最新象白蚁**（*Nasutitermes proximus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Uruguay: Maldonado: La Sierra \[34.7667S 55.4167W\]。分布记录包括巴西、乌拉圭。本站记录本种有 1 个次异名。
+**最新象白蚁**（*Nasutitermes proximus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Uruguay: Maldonado: La Sierra \[34.7667S 55.4167W\]。分布记录包括巴西、乌拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Santa Catarina: Jaraguá do Sul [26.4905S 49.0763W]
 
 - **分布记录**：巴西、乌拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) aurantiacoides* Holmgren, 1910: 269-270 —— 模式产地：Brasil: Santa Catarina: Jaraguá do Sul \[26.4905S 49.0763W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) aurantiacoides* 出现，本站统一归入 *Nasutitermes proximus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) aurantiacoides* 出现，均归入 *Nasutitermes proximus*。
 <!-- AUTO:END -->

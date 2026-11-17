@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Minas Gerais: Congonhas [20.4997S 43.8578W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阿劳若前角白蚁**（*Procornitermes araujoi*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Emerson 于 1952 年描述，模式产地为 Brasil: São Paulo: Leme, Taquarí (district) \[22.1856S 47.3903W\]。分布记录包括巴西。本站记录本种有 1 个次异名。
+**阿劳若前角白蚁**（*Procornitermes araujoi*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Emerson 于 1952 年描述，模式产地为 Brasil: São Paulo: Leme, Taquarí (district) \[22.1856S 47.3903W\]。分布记录包括巴西。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: Minas Gerais: Congonhas [20.4997S 43.8578W]"
 
 - **分布记录**：巴西
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes similis* Hagen, 1858: 167 —— 模式产地：Brasil: Minas Gerais: Congonhas \[20.4997S 43.8578W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes similis* 出现，本站统一归入 *Procornitermes araujoi*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Termes similis* 出现，均归入 *Procornitermes araujoi*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Cameroon: Victoria; Democratic Republic of the Congo: Haut 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽额象白蚁**（*Nasutitermes latifrons*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Ekundu。分布记录包括刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达。本站记录本种有 5 个次异名。
+**宽额象白蚁**（*Nasutitermes latifrons*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Ekundu。分布记录包括刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达。本种有 5 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Cameroon: Victoria; Democratic Republic of the Congo: Haut 
 
 - **分布记录**：刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes pius* Sjöstedt, 1911: 16 —— 模式产地：Cameroon: Victoria
 2. *Eutermes (Eutermes) ueleensis* Sjöstedt, 1924: 494 —— 模式产地：Democratic Republic of the Congo: Haut Uélé: Moto
@@ -64,5 +62,5 @@ synonym_localities: "Cameroon: Victoria; Democratic Republic of the Congo: Haut 
 4. *Eutermes indoensis* Sjöstedt, 1925: 55 —— 模式产地：Congo: Indo, Sibiti
 5. *Eutermes expulsus* Sjöstedt, 1926: 154-155 —— 模式产地：Democratic Republic of the Congo: Bas Uélé, Djamba
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes pius*、*Eutermes (Eutermes) ueleensis*、*Eutermes (Eutermes) incurvus*、*Eutermes indoensis*、*Eutermes expulsus* 等）出现，本站统一归入 *Nasutitermes latifrons*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes pius*、*Eutermes (Eutermes) ueleensis*、*Eutermes (Eutermes) incurvus*、*Eutermes indoensis*、*Eutermes expulsus* 等）出现，均归入 *Nasutitermes latifrons*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Bahamas: New Providence Island; Cuba: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**里珀特象白蚁**（*Nasutitermes rippertii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 Cuba: Havana。分布记录包括古巴、巴哈马、牙买加。本站记录本种有 2 个次异名。
+**里珀特象白蚁**（*Nasutitermes rippertii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 Cuba: Havana。分布记录包括古巴、巴哈马、牙买加。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Bahamas: New Providence Island; Cuba: ?"
 
 - **分布记录**：古巴、巴哈马、牙买加
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) bahamensis* Holmgren, 1910: 290-291 —— 模式产地：Bahamas: New Providence Island
 2. *Eutermes (Eutermes) cubanus* Holmgren, 1910: 291-292 —— 模式产地：Cuba: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) bahamensis*、*Eutermes (Eutermes) cubanus* 等）出现，本站统一归入 *Nasutitermes rippertii*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) bahamensis*、*Eutermes (Eutermes) cubanus* 等）出现，均归入 *Nasutitermes rippertii*。
 <!-- AUTO:END -->

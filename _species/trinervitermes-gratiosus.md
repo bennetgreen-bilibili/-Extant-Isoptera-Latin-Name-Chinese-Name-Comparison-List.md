@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**常见三脉白蚁**（*Trinervitermes gratiosus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Luluabourg。分布记录包括安哥拉、布隆迪、刚果（金）、肯尼亚、卢旺达、坦桑尼亚、乌干达、赞比亚、刚果民主共和国。本站记录本种有 1 个次异名。
+**常见三脉白蚁**（*Trinervitermes gratiosus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Luluabourg。分布记录包括安哥拉、布隆迪、刚果（金）、肯尼亚、卢旺达、坦桑尼亚、乌干达、赞比亚、刚果民主共和国。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg"
 
 - **分布记录**：安哥拉、布隆迪、刚果（金）、肯尼亚、卢旺达、坦桑尼亚、乌干达、赞比亚、刚果民主共和国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Trinervitermes) carbo* Sjöstedt, 1924: 42 —— 模式产地：Democratic Republic of the Congo: Luluabourg
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Trinervitermes) carbo* 出现，本站统一归入 *Trinervitermes gratiosus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Trinervitermes) carbo* 出现，均归入 *Trinervitermes gratiosus*。
 <!-- AUTO:END -->

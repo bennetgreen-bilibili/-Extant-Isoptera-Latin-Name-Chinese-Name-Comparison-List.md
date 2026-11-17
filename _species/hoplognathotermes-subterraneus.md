@@ -31,7 +31,7 @@ synonym_localities: "Guinea: Mamou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**土栖锐颚白蚁**（*Hoplognathotermes subterraneus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）锐颚白蚁属（*Hoplognathotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Conakry; Kakoulima。分布记录包括西非、科特迪瓦。本站记录本种有 1 个次异名。
+**土栖锐颚白蚁**（*Hoplognathotermes subterraneus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）锐颚白蚁属（*Hoplognathotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Conakry; Kakoulima。分布记录包括西非、科特迪瓦。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Guinea: Mamou"
 
 - **分布记录**：西非、科特迪瓦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hoplognathotermes subterraneus superior* Silvestri, 1914: 28 —— 模式产地：Guinea: Mamou
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hoplognathotermes subterraneus superior* 出现，本站统一归入 *Hoplognathotermes subterraneus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hoplognathotermes subterraneus superior* 出现，均归入 *Hoplognathotermes subterraneus*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Java: Bogor; Indonesia: Java: Tjiogrek near Bogo
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**利顿土白蚁**（*Odontotermes billitoni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Belitung (Billiton)。分布记录包括东南亚印度尼西亚、马来西亚。本站记录本种有 3 个次异名。
+**利顿土白蚁**（*Odontotermes billitoni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Belitung (Billiton)。分布记录包括东南亚印度尼西亚、马来西亚。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "Indonesia: Java: Bogor; Indonesia: Java: Tjiogrek near Bogo
 
 - **分布记录**：东南亚印度尼西亚、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes (Odontotermes) javanicus buitenzorghi* Holmgren, 1913: 134 —— 模式产地：Indonesia: Java: Bogor
 2. *Odontotermes (Odontotermes) sundaicus esuriens* Kemner, 1934: 98-100 —— 模式产地：Indonesia: Java: Tjiogrek near Bogor
 3. *Odontotermes (Odontotermes) sundaicus* Kemner, 1934: 96-98 —— 模式产地：Indonesia: Java: Depok, near Bogor
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Odontotermes (Odontotermes) javanicus buitenzorghi*、*Odontotermes (Odontotermes) sundaicus esuriens*、*Odontotermes (Odontotermes) sundaicus* 等）出现，本站统一归入 *Odontotermes billitoni*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Odontotermes (Odontotermes) javanicus buitenzorghi*、*Odontotermes (Odontotermes) sundaicus esuriens*、*Odontotermes (Odontotermes) sundaicus* 等）出现，均归入 *Odontotermes billitoni*。
 <!-- AUTO:END -->

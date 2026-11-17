@@ -31,7 +31,7 @@ synonym_localities: "Brasil: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**讨厌聚白蚁**（*Syntermes molestus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Bahia。分布记录包括巴西、哥伦比亚、秘鲁、法属圭亚那、委内瑞拉、玻利维亚、厄瓜多尔、圭亚那、苏里南。本站记录本种有 1 个次异名。
+**讨厌聚白蚁**（*Syntermes molestus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Bahia。分布记录包括巴西、哥伦比亚、秘鲁、法属圭亚那、委内瑞拉、玻利维亚、厄瓜多尔、圭亚那、苏里南。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Brasil: ?"
 
 - **分布记录**：巴西、哥伦比亚、秘鲁、法属圭亚那、委内瑞拉、玻利维亚、厄瓜多尔、圭亚那、苏里南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Syntermes brasiliensis* Holmgren, 1911: 548 —— 模式产地：Brasil: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Syntermes brasiliensis* 出现，本站统一归入 *Syntermes molestus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Syntermes brasiliensis* 出现，均归入 *Syntermes molestus*。
 <!-- AUTO:END -->

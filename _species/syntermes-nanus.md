@@ -31,7 +31,7 @@ synonym_localities: "(country unknown): South America"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**侏儒聚白蚁**（*Syntermes nanus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Constantino 于 1995 年描述，模式产地为 Brasil: São Paulo: Pirassununga \[21.98S 47.42W\]。分布记录包括巴西、哥伦比亚、阿根廷、玻利维亚、巴拉圭。本站记录本种有 1 个次异名。
+**侏儒聚白蚁**（*Syntermes nanus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Constantino 于 1995 年描述，模式产地为 Brasil: São Paulo: Pirassununga \[21.98S 47.42W\]。分布记录包括巴西、哥伦比亚、阿根廷、玻利维亚、巴拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "(country unknown): South America"
 
 - **分布记录**：巴西、哥伦比亚、阿根廷、玻利维亚、巴拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Syntermes noiroti* Krishna, Grimaldi, Krishna & Engel, 2013: 1494 —— 模式产地：(country unknown): South America
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Syntermes noiroti* 出现，本站统一归入 *Syntermes nanus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Syntermes noiroti* 出现，均归入 *Syntermes nanus*。
 <!-- AUTO:END -->

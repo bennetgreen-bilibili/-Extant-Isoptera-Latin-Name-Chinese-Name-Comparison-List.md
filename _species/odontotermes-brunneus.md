@@ -31,7 +31,7 @@ synonym_localities: "India: Karnataka: Bijapur District: Badami"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**棕色土白蚁**（*Odontotermes brunneus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 India: Bengal。分布记录包括南亚印度、未注明。本站记录本种有 1 个次异名。
+**棕色土白蚁**（*Odontotermes brunneus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 India: Bengal。分布记录包括南亚印度、未注明。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Karnataka: Bijapur District: Badami"
 
 - **分布记录**：南亚印度、未注明
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes mathadi* Roonwal & Chhotani, 1964: 45-52 —— 模式产地：India: Karnataka: Bijapur District: Badami
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes mathadi* 出现，本站统一归入 *Odontotermes brunneus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes mathadi* 出现，均归入 *Odontotermes brunneus*。
 <!-- AUTO:END -->

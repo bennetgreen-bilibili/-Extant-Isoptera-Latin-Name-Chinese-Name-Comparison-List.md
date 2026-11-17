@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Cameroon: Bip
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**菌匠等颚白蚁**（*Isognathotermes fungifaber*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian。分布记录包括非洲热带。本站记录本种有 4 个次异名。
+**菌匠等颚白蚁**（*Isognathotermes fungifaber*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian。分布记录包括非洲热带。本种有 4 个次异名。
 
 ## 词源
 
@@ -52,16 +52,14 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Cameroon: Bip
 
 - **分布记录**：非洲热带
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本种有 4 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Cubitermes fungifaber elongata* Sjöstedt, 1924: 256 —— 模式产地：Democratic Republic of the Congo: Mukimbungu
 2. *Mirotermes (Cubitermes) banksi* Emerson, 1928: 522-523 —— 模式产地：Cameroon: Bipindi
 3. *Mirotermes (Cubitermes) comstocki* Emerson, 1928: 523-525 —— 模式产地：Cameroon: Bipindi
 4. *Mirotermes (Cubitermes) schmidti* Emerson, 1928: 520-521 —— 模式产地：Cameroon: Bipindi
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cubitermes fungifaber elongata*、*Mirotermes (Cubitermes) banksi*、*Mirotermes (Cubitermes) comstocki*、*Mirotermes (Cubitermes) schmidti* 等）出现，本站统一归入 *Isognathotermes fungifaber*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cubitermes fungifaber elongata*、*Mirotermes (Cubitermes) banksi*、*Mirotermes (Cubitermes) comstocki*、*Mirotermes (Cubitermes) schmidti* 等）出现，均归入 *Isognathotermes fungifaber*。
 <!-- AUTO:END -->

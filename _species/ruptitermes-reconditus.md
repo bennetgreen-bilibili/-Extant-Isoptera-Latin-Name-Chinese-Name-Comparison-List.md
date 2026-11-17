@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: La Paz: Mojos [ 14.5667S 68.8833W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**隐匿腹爆白蚁**（*Ruptitermes reconditus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Argentina: Chaco: Resistencia \[ 27.45S 58.9833W \]; Misiones: Posadas \[ 27.37S 55.9W \]; Misiones: Santa Ana \[ 27.37S 55.58W \]; Salta: Salta \[ 24.7833S 65.4167W \]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: Guairá: Villa Rica \[ 25.75S 56.4333W \]。分布记录包括新热带界、巴拿马、巴西、哥伦比亚、委内瑞拉、玻利维亚、厄瓜多尔、阿根廷、法属圭亚那、巴拉圭、秘鲁。本站记录本种有 1 个次异名。
+**隐匿腹爆白蚁**（*Ruptitermes reconditus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Argentina: Chaco: Resistencia \[ 27.45S 58.9833W \]; Misiones: Posadas \[ 27.37S 55.9W \]; Misiones: Santa Ana \[ 27.37S 55.58W \]; Salta: Salta \[ 24.7833S 65.4167W \]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: Guairá: Villa Rica \[ 25.75S 56.4333W \]。分布记录包括新热带界、巴拿马、巴西、哥伦比亚、委内瑞拉、玻利维亚、厄瓜多尔、阿根廷、法属圭亚那、巴拉圭、秘鲁。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Bolivia: La Paz: Mojos [ 14.5667S 68.8833W ]"
 
 - **分布记录**：新热带界、巴拿马、巴西、哥伦比亚、委内瑞拉、玻利维亚、厄瓜多尔、阿根廷、法属圭亚那、巴拉圭、秘鲁
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Speculitermes proratus* Emerson in Snyder, 1949: 110 —— 模式产地：Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Speculitermes proratus* 出现，本站统一归入 *Ruptitermes reconditus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Speculitermes proratus* 出现，均归入 *Ruptitermes reconditus*。
 <!-- AUTO:END -->

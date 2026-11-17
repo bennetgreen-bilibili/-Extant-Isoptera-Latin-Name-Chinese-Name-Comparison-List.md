@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: near Yakuluku"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阴暗富勒白蚁**（*Fulleritermes tenebricus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）富勒白蚁属（*Fulleritermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kakoulima; Nigeria: Olokemeji。分布记录包括科特迪瓦、多哥、塞内加尔、布基纳法索、加纳、中非共和国、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹。本站记录本种有 1 个次异名。
+**阴暗富勒白蚁**（*Fulleritermes tenebricus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）富勒白蚁属（*Fulleritermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kakoulima; Nigeria: Olokemeji。分布记录包括科特迪瓦、多哥、塞内加尔、布基纳法索、加纳、中非共和国、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Democratic Republic of the Congo: near Yakuluku"
 
 - **分布记录**：科特迪瓦、多哥、塞内加尔、布基纳法索、加纳、中非共和国、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Nasutitermes (Coarctotermes) suffuscus* Emerson, 1928: 496 —— 模式产地：Democratic Republic of the Congo: near Yakuluku
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Nasutitermes (Coarctotermes) suffuscus* 出现，本站统一归入 *Fulleritermes tenebricus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Nasutitermes (Coarctotermes) suffuscus* 出现，均归入 *Fulleritermes tenebricus*。
 <!-- AUTO:END -->

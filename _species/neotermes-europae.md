@@ -28,7 +28,7 @@ synonym_localities: "Madagascar: Station Forestière de l’Ankarafantsika"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**欧罗巴新白蚁**（*Neotermes europae*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Wasmann 于 1910 年描述，模式产地为 Europa Island (France): ?; Reunion (French): ?。分布记录包括欧罗巴岛、马达加斯加、留尼汪。本站记录本种有 1 个次异名。
+**欧罗巴新白蚁**（*Neotermes europae*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Wasmann 于 1910 年描述，模式产地为 Europa Island (France): ?; Reunion (French): ?。分布记录包括欧罗巴岛、马达加斯加、留尼汪。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Madagascar: Station Forestière de l’Ankarafantsika"
 
 - **分布记录**：欧罗巴岛、马达加斯加、留尼汪
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Neotermes concavifrons* Cachan, 1949: 201-203 —— 模式产地：Madagascar: Station Forestière de l’Ankarafantsika
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Neotermes concavifrons* 出现，本站统一归入 *Neotermes europae*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Neotermes concavifrons* 出现，均归入 *Neotermes europae*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**切头距白蚁**（*Calcaritermes temnocephalus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本站记录本种有 1 个次异名。
+**切头距白蚁**（*Calcaritermes temnocephalus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 
 - **分布记录**：南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes (Calcaritermes) fairchildi* Snyder, 1926: 51 —— 模式产地：Costa Rica: Santa Clara: Hamburg Farm
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Calcaritermes) fairchildi* 出现，本站统一归入 *Calcaritermes temnocephalus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Calcaritermes) fairchildi* 出现，均归入 *Calcaritermes temnocephalus*。
 <!-- AUTO:END -->

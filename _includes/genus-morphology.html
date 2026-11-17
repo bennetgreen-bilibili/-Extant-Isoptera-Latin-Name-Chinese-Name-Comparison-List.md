@@ -32,27 +32,26 @@
 {%- assign t_h2 = "Morphology" -%}
 {%- assign t_lead = "The descriptions below are an adaptation of the original genus-level accounts; terms follow the meaning of the source, and the original is not transcribed verbatim." -%}
 {%- assign t_cite = "Sources: " -%}
-{%- assign t_cite_end = " This text is an adaptation, not a verbatim transcription of the original." -%}
+{%- assign t_cite_end = "" -%}
 {%- assign t_sep = "; " -%}
 {%- assign t_sep2 = ", " -%}
 {%- elsif page.lang == 'es' -%}
 {%- assign t_h2 = "Morfología" -%}
 {%- assign t_lead = "Las descripciones siguientes son una adaptación de los relatos originales de género; los términos siguen el sentido del texto original y este no se transcribe literalmente." -%}
 {%- assign t_cite = "Fuentes: " -%}
-{%- assign t_cite_end = " Este texto es una adaptación, no una transcripción literal del original." -%}
+{%- assign t_cite_end = "" -%}
 {%- assign t_sep = "; " -%}
 {%- assign t_sep2 = ", " -%}
 {%- else -%}
 {%- assign t_h2 = "形态描述" -%}
 {%- assign t_lead = "以下形态描述据原始文献的属级记述改写成中文，术语按原文含义翻译；不逐字转录原文。" -%}
 {%- assign t_cite = "文献依据：" -%}
-{%- assign t_cite_end = "本段为改写稿，非原文转录。" -%}
+{%- assign t_cite_end = "" -%}
 {%- assign t_sep = "；" -%}
 {%- assign t_sep2 = "，" -%}
 {%- endif -%}
 <section class="species-fauna taxon-fauna genus-morphology" lang="{{ page.lang | default: 'zh-CN' }}">
   <h2>{{ t_h2 }}</h2>
-  <p class="fauna-lead">{{ t_lead }}</p>
   {%- for sec in mg.sections %}
   <h4>{{ sec.label }}</h4>
   <p>{{ sec.text }}</p>
@@ -62,7 +61,6 @@
 {%- elsif page.lang == 'zh-CN' -%}
 <section class="species-fauna taxon-fauna genus-morphology" lang="zh-CN">
   <h2>形态描述</h2>
-  <p class="fauna-lead">本页的形态描述尚待据原始文献补写。下面先列出该属的原始描述出处与模式种，供查考；这些是文献线索，不是形态描述本身。</p>
   {%- if gs and gs.treatise -%}
   <p><strong>原始描述</strong>：{{ gs.citation }}</p>
   {%- if gs.type_species and gs.type_species != "" -%}
@@ -71,7 +69,7 @@
   {%- else -%}
   <p>《Treatise on the Isoptera of the World》（2013）未给该属独立条目，原始描述出处待补。</p>
   {%- endif -%}
-  <p class="fauna-cite">出处据 Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377。该书记录原始文献线索，不含形态描述；本站不据以代写描述。</p>
+  <p class="fauna-cite">出处据 Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377。</p>
 </section>
 {%- elsif gs and gs.treatise -%}
 {%- if page.lang == 'en' -%}
@@ -80,18 +78,17 @@
 {%- assign t_orig = "Original description" -%}
 {%- assign t_type = "Type species" -%}
 {%- assign t_colon = ": " -%}
-{%- assign t_cite = "The references above follow Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World, Bulletin of the American Museum of Natural History 377; the Treatise records literature leads only and contains no morphological description, so it is not used here to write one." -%}
+{%- assign t_cite = "The references above follow Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World, Bulletin of the American Museum of Natural History 377." -%}
 {%- else -%}
 {%- assign t_h2 = "Morfología" -%}
 {%- assign t_lead = "La descripción morfológica de este género aún debe redactarse a partir de la literatura original. Abajo se indican la referencia de la descripción original y la especie tipo para su consulta; son pistas bibliográficas, no una descripción." -%}
 {%- assign t_orig = "Descripción original" -%}
 {%- assign t_type = "Especie tipo" -%}
 {%- assign t_colon = ": " -%}
-{%- assign t_cite = "Las referencias anteriores proceden de Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World, Bulletin of the American Museum of Natural History 377; el Treatise solo recoge pistas bibliográficas y no contiene descripción morfológica, por lo que no se usa aquí para redactarla." -%}
+{%- assign t_cite = "Las referencias anteriores proceden de Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World, Bulletin of the American Museum of Natural History 377." -%}
 {%- endif -%}
 <section class="species-fauna taxon-fauna genus-morphology" lang="{{ page.lang | default: 'zh-CN' }}">
   <h2>{{ t_h2 }}</h2>
-  <p class="fauna-lead">{{ t_lead }}</p>
   <p><strong>{{ t_orig }}</strong>{{ t_colon }}{{ gs.citation }}</p>
   {%- if gs.type_species and gs.type_species != "" -%}
   <p><strong>{{ t_type }}</strong>{{ t_colon }}{{ gs.type_species }}</p>

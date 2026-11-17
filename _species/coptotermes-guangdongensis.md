@@ -28,7 +28,7 @@ synonym_localities: "China: Guangdong Province: Guangzhou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**广东乳白蚁**（*Coptotermes guangdongensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Ping 于 1985 年描述，模式产地为 China: Guangdong Province: Guangzhou。分布记录包括中国广东。本站记录本种有 1 个次异名。
+**广东乳白蚁**（*Coptotermes guangdongensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Ping 于 1985 年描述，模式产地为 China: Guangdong Province: Guangzhou。分布记录包括中国广东。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "China: Guangdong Province: Guangzhou"
 
 - **分布记录**：中国广东
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes pingi* Myles, 1990: 813 —— 模式产地：China: Guangdong Province: Guangzhou
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes pingi* 出现，本站统一归入 *Coptotermes guangdongensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Coptotermes pingi* 出现，均归入 *Coptotermes guangdongensis*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "South Africa: ?; Eritrea: Mt. Kullo; Democratic Republic of
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**不同三脉白蚁**（*Trinervitermes dispar*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1902 年描述，模式产地为 Malawi: Zomba。分布记录包括厄立特里亚、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、纳米比亚、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦。本站记录本种有 7 个次异名。
+**不同三脉白蚁**（*Trinervitermes dispar*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1902 年描述，模式产地为 Malawi: Zomba。分布记录包括厄立特里亚、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、纳米比亚、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦。本种有 7 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "South Africa: ?; Eritrea: Mt. Kullo; Democratic Republic of
 
 - **分布记录**：厄立特里亚、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、纳米比亚、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 7 个次异名（junior synonyms），按原始文献出处列出：
+本种有 7 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes gemellus* Sjöstedt, 1902: 303-304 —— 模式产地：South Africa: ?
 2. *Eutermes kulloensis* Sjöstedt, 1912: 13-15 —— 模式产地：Eritrea: Mt. Kullo
@@ -66,5 +64,5 @@ synonym_localities: "South Africa: ?; Eritrea: Mt. Kullo; Democratic Republic of
 6. *Trinervitermes umzinduzii* Fuller, 1922: 114 —— 模式产地：South Africa: Natal: Bisley, Pietermaritzburg
 7. *Trinervitermes eldirensis* Ghidini, 1941: 33-34 —— 模式产地：Ethiopia: El Dire
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes gemellus*、*Eutermes kulloensis*、*Eutermes katangensis*、*Eutermes (Trinervitermes) erythreae*、*Eutermes grootfonteinsis*、*Trinervitermes umzinduzii*、*Trinervitermes eldirensis* 等）出现，本站统一归入 *Trinervitermes dispar*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes gemellus*、*Eutermes kulloensis*、*Eutermes katangensis*、*Eutermes (Trinervitermes) erythreae*、*Eutermes grootfonteinsis*、*Trinervitermes umzinduzii*、*Trinervitermes eldirensis* 等）出现，均归入 *Trinervitermes dispar*。
 <!-- AUTO:END -->

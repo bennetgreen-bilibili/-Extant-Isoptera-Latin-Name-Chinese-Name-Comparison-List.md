@@ -31,7 +31,7 @@ synonym_localities: "Philippines: Luzon: Laguna Province: Paete; Philippines: Pa
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多产土白蚁**（*Odontotermes dives*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括东南亚印度尼西亚、菲律宾、马来西亚。本站记录本种有 2 个次异名。
+**多产土白蚁**（*Odontotermes dives*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括东南亚印度尼西亚、菲律宾、马来西亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Philippines: Luzon: Laguna Province: Paete; Philippines: Pa
 
 - **分布记录**：东南亚印度尼西亚、菲律宾、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes mediodentatus* Oshima, 1920: 499-500 —— 模式产地：Philippines: Luzon: Laguna Province: Paete
 2. *Termitogetonella tibiaoensis* Oshima, 1920: 496-497 —— 模式产地：Philippines: Panay
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Odontotermes mediodentatus*、*Termitogetonella tibiaoensis* 等）出现，本站统一归入 *Odontotermes dives*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Odontotermes mediodentatus*、*Termitogetonella tibiaoensis* 等）出现，均归入 *Odontotermes dives*。
 <!-- AUTO:END -->

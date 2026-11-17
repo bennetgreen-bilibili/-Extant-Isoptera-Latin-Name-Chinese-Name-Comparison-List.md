@@ -31,7 +31,7 @@ synonym_localities: "Madagascar: St. Marie Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑色考登白蚁**（*Kaudernitermes nigritus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括马达加斯加、塞舌尔。本站记录本种有 1 个次异名。
+**黑色考登白蚁**（*Kaudernitermes nigritus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括马达加斯加、塞舌尔。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Madagascar: St. Marie Island"
 
 - **分布记录**：马达加斯加、塞舌尔
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes nigrita rectirostris* Wasmann, 1910: 127 —— 模式产地：Madagascar: St. Marie Island
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes nigrita rectirostris* 出现，本站统一归入 *Kaudernitermes nigritus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes nigrita rectirostris* 出现，均归入 *Kaudernitermes nigritus*。
 <!-- AUTO:END -->

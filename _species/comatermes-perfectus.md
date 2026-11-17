@@ -28,7 +28,7 @@ synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**完美毛白蚁**（*Comatermes perfectus*）是木白蚁科（KALOTERMITIDAE）毛白蚁属（*Comatermes*）的现存唯一种。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥。本站记录本种有 1 个次异名。
+**完美毛白蚁**（*Comatermes perfectus*）是木白蚁科（KALOTERMITIDAE）毛白蚁属（*Comatermes*）的现存唯一种。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -47,13 +47,11 @@ synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
 
 - **分布记录**：中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes (Neotermes) manni* Snyder, 1926: 6 —— 模式产地：Bolivia: La Paz: near mouth of Mapiri \[ 15.1131S 67.69W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Neotermes) manni* 出现，本站统一归入 *Comatermes perfectus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Neotermes) manni* 出现，均归入 *Comatermes perfectus*。
 <!-- AUTO:END -->

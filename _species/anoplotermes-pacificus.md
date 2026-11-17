@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**太平洋解甲白蚁**（*Anoplotermes pacificus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]。分布记录包括巴西、亚马孙地区。本站记录本种有 1 个次异名。
+**太平洋解甲白蚁**（*Anoplotermes pacificus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]。分布记录包括巴西、亚马孙地区。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 
 - **分布记录**：巴西、亚马孙地区
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Anoplotermes (Anoplotermes) indistinctus* Snyder, 1926: 52-53 —— 模式产地：Bolivia: La Paz: Tumupasa \[ 14.15S 67.9167W \]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes (Anoplotermes) indistinctus* 出现，本站统一归入 *Anoplotermes pacificus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes (Anoplotermes) indistinctus* 出现，均归入 *Anoplotermes pacificus*。
 <!-- AUTO:END -->

@@ -28,7 +28,7 @@ synonym_localities: "Australia: \"Federal Capital Territory.\""
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凸木白蚁**（*Kalotermes convexus*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 Australia: Tasmania。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**凸木白蚁**（*Kalotermes convexus*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 Australia: Tasmania。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Australia: \"Federal Capital Territory.\""
 
 - **分布记录**：澳大利亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Calotermes tillyardi* Hill, 1932: 138-142 —— 模式产地：Australia: "Federal Capital Territory."
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes tillyardi* 出现，本站统一归入 *Kalotermes convexus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes tillyardi* 出现，均归入 *Kalotermes convexus*。
 <!-- AUTO:END -->

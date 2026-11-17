@@ -31,7 +31,7 @@ synonym_localities: "Peru: Puno: San Juan del Oro [14.22S 69.1528W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**秘鲁象白蚁**（*Nasutitermes peruanus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、厄瓜多尔、巴西、玻利维亚。本站记录本种有 1 个次异名。
+**秘鲁象白蚁**（*Nasutitermes peruanus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、厄瓜多尔、巴西、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Peru: Puno: San Juan del Oro [14.22S 69.1528W]"
 
 - **分布记录**：秘鲁、厄瓜多尔、巴西、玻利维亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) tambopatensis* Holmgren, 1910: 242-243 —— 模式产地：Peru: Puno: San Juan del Oro \[14.22S 69.1528W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) tambopatensis* 出现，本站统一归入 *Nasutitermes peruanus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) tambopatensis* 出现，均归入 *Nasutitermes peruanus*。
 <!-- AUTO:END -->

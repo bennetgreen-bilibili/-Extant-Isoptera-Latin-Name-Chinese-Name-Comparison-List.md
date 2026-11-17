@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; Tanzan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**执着奇齿白蚁**（*Allodontermes tenax*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Zambia: Luapula。分布记录包括旧热带界东非、非洲南部。本站记录本种有 2 个次异名。
+**执着奇齿白蚁**（*Allodontermes tenax*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Zambia: Luapula。分布记录包括旧热带界东非、非洲南部。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; Tanzan
 
 - **分布记录**：旧热带界东非、非洲南部
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes infundibuli* Sjöstedt, 1913: 363-366 —— 模式产地：Democratic Republic of the Congo: Katanga: Sankisia
 2. *Allodontermes morogorensis* Harris, 1936: 364-366 —— 模式产地：Tanzania: Morogoro
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes infundibuli*、*Allodontermes morogorensis* 等）出现，本站统一归入 *Allodontermes tenax*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes infundibuli*、*Allodontermes morogorensis* 等）出现，均归入 *Allodontermes tenax*。
 <!-- AUTO:END -->

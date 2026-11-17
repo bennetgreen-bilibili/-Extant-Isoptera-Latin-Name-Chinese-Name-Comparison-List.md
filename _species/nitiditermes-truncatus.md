@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Pongolo River, near Nduma"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**伤残净白蚁**（*Nitiditermes truncatus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand。分布记录包括南非。本站记录本种有 1 个次异名。
+**伤残净白蚁**（*Nitiditermes truncatus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand。分布记录包括南非。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "South Africa: Natal: Pongolo River, near Nduma"
 
 - **分布记录**：南非
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes (Cubitermes) duplex nduma* Fuller, 1925: 205 —— 模式产地：South Africa: Natal: Pongolo River, near Nduma
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) duplex nduma* 出现，本站统一归入 *Nitiditermes truncatus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Cubitermes) duplex nduma* 出现，均归入 *Nitiditermes truncatus*。
 <!-- AUTO:END -->

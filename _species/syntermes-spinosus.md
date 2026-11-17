@@ -31,7 +31,7 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; French Guiana: Ca
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多刺聚白蚁**（*Syntermes spinosus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Latreille 于 1804 年描述，模式产地为 (country unknown): ?。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、秘鲁、厄瓜多尔、委内瑞拉。本站记录本种有 7 个次异名。
+**多刺聚白蚁**（*Syntermes spinosus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Latreille 于 1804 年描述，模式产地为 (country unknown): ?。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、秘鲁、厄瓜多尔、委内瑞拉。本种有 7 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; French Guiana: Ca
 
 - **分布记录**：巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、秘鲁、厄瓜多尔、委内瑞拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 7 个次异名（junior synonyms），按原始文献出处列出：
+本种有 7 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes costatus* Rambur, 1842: 305-306 —— 模式产地：French Guiana: Cayenne \[4.93333N 52.33W\]
 2. *Termes decumanus* Erichson, 1848: 582-583 —— 模式产地：French Guiana: Cayenne \[4.93333N 52.33W\]
@@ -66,5 +64,5 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; French Guiana: Ca
 6. *Syntermes solidus* Emerson, 1945: 447 —— 模式产地：French Guiana: St. Jean (Maroni River) \[5.4N 54.08W\]
 7. *Syntermes robustus* Constantino, 1991: 221-222 —— 模式产地：Brasil: Amazonas: Maraã \[1.848S 65.523W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes costatus*、*Termes decumanus*、*Syntermes snyderi*、*Syntermes emersoni*、*Syntermes chaquimayensis parvinasus*、*Syntermes solidus*、*Syntermes robustus* 等）出现，本站统一归入 *Syntermes spinosus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes costatus*、*Termes decumanus*、*Syntermes snyderi*、*Syntermes emersoni*、*Syntermes chaquimayensis parvinasus*、*Syntermes solidus*、*Syntermes robustus* 等）出现，均归入 *Syntermes spinosus*。
 <!-- AUTO:END -->

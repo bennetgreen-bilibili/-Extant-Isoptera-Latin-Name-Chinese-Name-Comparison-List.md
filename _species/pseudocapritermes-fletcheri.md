@@ -31,7 +31,7 @@ synonym_localities: "India: Tamil Nadu: Topslip; India: Goa: South Goa Forest Di
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**弗莱彻伪扭白蚁**（*Pseudocapritermes fletcheri*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种。本种由 Holmgren & Holmgren 于 1917 年描述，模式产地为 India: Tamil Nadu: Anamalai Hills。分布记录包括印度。本站记录本种有 3 个次异名。
+**弗莱彻伪扭白蚁**（*Pseudocapritermes fletcheri*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种。本种由 Holmgren & Holmgren 于 1917 年描述，模式产地为 India: Tamil Nadu: Anamalai Hills。分布记录包括印度。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "India: Tamil Nadu: Topslip; India: Goa: South Goa Forest Di
 
 - **分布记录**：印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Pseudocapritermes fontanellus* Mathur & Thapa, 1961: 3-7 —— 模式产地：India: Tamil Nadu: Topslip
 2. *Pseudocapritermes goanicus* Thakur & Chatterjee, 1969: 189-192 —— 模式产地：India: Goa: South Goa Forest Division: Moleum Forest Range, towards Belagaon side, about 1 km from Moleum rest house
 3. *Pseudocapritermes roonwali* Verma, 1985: 179-180 —— 模式产地：India: Kerala: Kottavasal
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Pseudocapritermes fontanellus*、*Pseudocapritermes goanicus*、*Pseudocapritermes roonwali* 等）出现，本站统一归入 *Pseudocapritermes fletcheri*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Pseudocapritermes fontanellus*、*Pseudocapritermes goanicus*、*Pseudocapritermes roonwali* 等）出现，均归入 *Pseudocapritermes fletcheri*。
 <!-- AUTO:END -->

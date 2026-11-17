@@ -31,7 +31,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**沃克角象白蚁**（*Cornitermes walkeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Snyder 于 1929 年描述，模式产地为 Panama: Río Tapia。分布记录包括哥斯达黎加、巴拿马、哥伦比亚。本站记录本种有 1 个次异名。
+**沃克角象白蚁**（*Cornitermes walkeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Snyder 于 1929 年描述，模式产地为 Panama: Río Tapia。分布记录包括哥斯达黎加、巴拿马、哥伦比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 
 - **分布记录**：哥斯达黎加、巴拿马、哥伦比亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Cornitermes (Cornitermes) acignathus costaricensis* Snyder, 1929: 84 —— 模式产地：Costa Rica: Santa Clara: Hamburg Farm
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Cornitermes (Cornitermes) acignathus costaricensis* 出现，本站统一归入 *Cornitermes walkeri*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Cornitermes (Cornitermes) acignathus costaricensis* 出现，均归入 *Cornitermes walkeri*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaqu
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莱佩斯前角白蚁**（*Procornitermes lespesii*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]。分布记录包括巴西、玻利维亚、巴拉圭、阿根廷。本站记录本种有 2 个次异名。
+**莱佩斯前角白蚁**（*Procornitermes lespesii*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]。分布记录包括巴西、玻利维亚、巴拉圭、阿根廷。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaqu
 
 - **分布记录**：巴西、玻利维亚、巴拉圭、阿根廷
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Termes muelleri* Jhering, 1887: 3 —— 模式产地：Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]
 2. *Cornitermes cornutus* Holmgren, 1906: 549-551 —— 模式产地：Bolivia: La Paz: Río Tuichi \[14.28S 68.54W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes muelleri*、*Cornitermes cornutus* 等）出现，本站统一归入 *Procornitermes lespesii*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes muelleri*、*Cornitermes cornutus* 等）出现，均归入 *Procornitermes lespesii*。
 <!-- AUTO:END -->

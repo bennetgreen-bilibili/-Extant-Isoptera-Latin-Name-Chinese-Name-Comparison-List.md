@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: Pando: Cachuela Esperanza [10.5333S 65.6333W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**班克斯象白蚁**（*Nasutitermes banksi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Potaro-Siparuni: Tukeit \[5.2N 59.45W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、圭亚那、玻利维亚、秘鲁。本站记录本种有 1 个次异名。
+**班克斯象白蚁**（*Nasutitermes banksi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Potaro-Siparuni: Tukeit \[5.2N 59.45W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、圭亚那、玻利维亚、秘鲁。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Bolivia: Pando: Cachuela Esperanza [10.5333S 65.6333W]"
 
 - **分布记录**：巴西、法属圭亚那、哥伦比亚、圭亚那、玻利维亚、秘鲁
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Nasutitermes (Convexitermes) pulliceps* Snyder, 1926: 34-35 —— 模式产地：Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Nasutitermes (Convexitermes) pulliceps* 出现，本站统一归入 *Nasutitermes banksi*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Nasutitermes (Convexitermes) pulliceps* 出现，均归入 *Nasutitermes banksi*。
 <!-- AUTO:END -->

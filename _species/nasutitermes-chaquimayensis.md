@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: La Paz: Río Tuichi [14.28S 68.54W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**查基马约象白蚁**（*Nasutitermes chaquimayensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括巴西、秘鲁、玻利维亚、巴拉圭。本站记录本种有 1 个次异名。
+**查基马约象白蚁**（*Nasutitermes chaquimayensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括巴西、秘鲁、玻利维亚、巴拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Bolivia: La Paz: Río Tuichi [14.28S 68.54W]"
 
 - **分布记录**：巴西、秘鲁、玻利维亚、巴拉圭
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) tuichensis* Holmgren, 1910: 232 —— 模式产地：Bolivia: La Paz: Río Tuichi \[14.28S 68.54W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) tuichensis* 出现，本站统一归入 *Nasutitermes chaquimayensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Eutermes (Eutermes) tuichensis* 出现，均归入 *Nasutitermes chaquimayensis*。
 <!-- AUTO:END -->

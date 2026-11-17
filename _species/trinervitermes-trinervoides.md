@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Lake Sibayi; Natal: Pietermaritzburg, 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似三脉三脉白蚁**（*Trinervitermes trinervoides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 South Africa: Cape Province: Laingsburg。分布记录包括南非、纳米比亚、刚果（金）、刚果民主共和国、莱索托、莫桑比克、斯威士兰、津巴布韦。本站记录本种有 10 个次异名。
+**似三脉三脉白蚁**（*Trinervitermes trinervoides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 South Africa: Cape Province: Laingsburg。分布记录包括南非、纳米比亚、刚果（金）、刚果民主共和国、莱索托、莫桑比克、斯威士兰、津巴布韦。本种有 10 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "South Africa: Natal: Lake Sibayi; Natal: Pietermaritzburg, 
 
 - **分布记录**：南非、纳米比亚、刚果（金）、刚果民主共和国、莱索托、莫桑比克、斯威士兰、津巴布韦
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
+本种有 10 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Trinervitermes) auriceps* Holmgren, 1913: 338-339 —— 模式产地：South Africa: Natal: Lake Sibayi
 2. *Eutermes (Trinervitermes) trinerviformis* Holmgren, 1913: 336-337 —— 模式产地：Natal: Pietermaritzburg, Lake Sibayi
@@ -69,5 +67,5 @@ synonym_localities: "South Africa: Natal: Lake Sibayi; Natal: Pietermaritzburg, 
 9. *Eutermes (Trinervitermes) messor* Sjöstedt, 1924: 257 —— 模式产地：South Africa: Cape Province: Kuruman
 10. *Trinervitermes hilli* Snyder, 1949: 327 —— 模式产地：South Africa: Somerset West, Pearston
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Trinervitermes) auriceps*、*Eutermes (Trinervitermes) trinerviformis*、*Eutermes (Trinervitermes) dubius*、*Eutermes hentschelianus*、*Trinervitermes kurumanensis*、*Trinervitermes gemellus thomseni*、*Trinervitermes havilandi*、*Trinervitermes fuscus* 等）出现，本站统一归入 *Trinervitermes trinervoides*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Trinervitermes) auriceps*、*Eutermes (Trinervitermes) trinerviformis*、*Eutermes (Trinervitermes) dubius*、*Eutermes hentschelianus*、*Trinervitermes kurumanensis*、*Trinervitermes gemellus thomseni*、*Trinervitermes havilandi*、*Trinervitermes fuscus* 等）出现，均归入 *Trinervitermes trinervoides*。
 <!-- AUTO:END -->

@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**球额等颚白蚁**（*Isognathotermes bulbifrons*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括非洲热带。本站记录本种有 2 个次异名。
+**球额等颚白蚁**（*Isognathotermes bulbifrons*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括非洲热带。本种有 2 个次异名。
 
 ## 词源
 
@@ -52,14 +52,12 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu"
 
 - **分布记录**：非洲热带
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+本种有 2 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Cubitermes heghi* Sjöstedt, 1924: 255 —— 模式产地：Democratic Republic of the Congo: Mukimbungu
 2. *Cubitermes gibbifrons* Sjöstedt, 1924: 255
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cubitermes heghi*、*Cubitermes gibbifrons* 等）出现，本站统一归入 *Isognathotermes bulbifrons*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cubitermes heghi*、*Cubitermes gibbifrons* 等）出现，均归入 *Isognathotermes bulbifrons*。
 <!-- AUTO:END -->

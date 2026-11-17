@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Luebo; Democratic Republi
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**斯考特登象白蚁**（*Nasutitermes schoutedeni*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Basongo。分布记录包括安哥拉、喀麦隆、刚果（布）、刚果（金）、加蓬、科特迪瓦、尼日利亚、乌干达、刚果民主共和国。本站记录本种有 5 个次异名。
+**斯考特登象白蚁**（*Nasutitermes schoutedeni*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Basongo。分布记录包括安哥拉、喀麦隆、刚果（布）、刚果（金）、加蓬、科特迪瓦、尼日利亚、乌干达、刚果民主共和国。本种有 5 个次异名。
 
 ## 词源
 
@@ -52,11 +52,9 @@ synonym_localities: "Democratic Republic of the Congo: Luebo; Democratic Republi
 
 - **分布记录**：安哥拉、喀麦隆、刚果（布）、刚果（金）、加蓬、科特迪瓦、尼日利亚、乌干达、刚果民主共和国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 5 个次异名（junior synonyms），按原始文献出处列出：
+本种有 5 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Eutermes (Eutermes) aethiops* Sjöstedt, 1924: 41 —— 模式产地：Democratic Republic of the Congo: Luebo
 2. *Eutermes (Eutermes) putidus* Sjöstedt, 1924: 40-41 —— 模式产地：Democratic Republic of the Congo: Kasai: Eala
@@ -64,5 +62,5 @@ synonym_localities: "Democratic Republic of the Congo: Luebo; Democratic Republi
 4. *Eutermes (Eutermes) dulcis* Sjöstedt, 1924: 494 —— 模式产地：Democratic Republic of the Congo: Kasai: Kondué
 5. *Nasutitermes (Nasutitermes) chapini* Emerson, 1928: 480-481 —— 模式产地：Democratic Republic of the Congo: Haut Uélé: Moto
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) aethiops*、*Eutermes (Eutermes) putidus*、*Eutermes (Eutermes) konduensis*、*Eutermes (Eutermes) dulcis*、*Nasutitermes (Nasutitermes) chapini* 等）出现，本站统一归入 *Nasutitermes schoutedeni*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) aethiops*、*Eutermes (Eutermes) putidus*、*Eutermes (Eutermes) konduensis*、*Eutermes (Eutermes) dulcis*、*Nasutitermes (Nasutitermes) chapini* 等）出现，均归入 *Nasutitermes schoutedeni*。
 <!-- AUTO:END -->

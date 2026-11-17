@@ -30,7 +30,7 @@ synonyms: "Xiaitermes tiantaiensis Gao & He, 1994"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**鄞县夏氏白蚁**（*Xiaitermes yinxianensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）夏氏白蚁属（*Xiaitermes*）的现存唯一种。本种由 Gao & He 于 1994 年描述，模式产地为 China: Zhejiang Province: Yinxia。分布记录包括中国。本站记录本种有 1 个次异名。
+**鄞县夏氏白蚁**（*Xiaitermes yinxianensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）夏氏白蚁属（*Xiaitermes*）的现存唯一种。本种由 Gao & He 于 1994 年描述，模式产地为 China: Zhejiang Province: Yinxia。分布记录包括中国。本种有 1 个次异名。
 
 ## 词源
 
@@ -50,13 +50,11 @@ synonyms: "Xiaitermes tiantaiensis Gao & He, 1994"
 
 - **分布记录**：中国
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Xiaitermes tiantaiensis* Gao & He, 1994
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Xiaitermes tiantaiensis* 出现，本站统一归入 *Xiaitermes yinxianensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Xiaitermes tiantaiensis* 出现，均归入 *Xiaitermes yinxianensis*。
 <!-- AUTO:END -->

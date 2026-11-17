@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Sabah: Beaufort District: Beaufort"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似锥似锥白蚁**（*Subulioiditermes subulioides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）似锥白蚁属（*Subulioiditermes*）的一种，也是本属的模式种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Pahang: Fraser’s Hill。分布记录包括印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
+**似锥似锥白蚁**（*Subulioiditermes subulioides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）似锥白蚁属（*Subulioiditermes*）的一种，也是本属的模式种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Pahang: Fraser’s Hill。分布记录包括印度尼西亚、马来西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Malaysia: Sabah: Beaufort District: Beaufort"
 
 - **分布记录**：印度尼西亚、马来西亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Subulioiditermes major* Thapa, 1982: 367-368 —— 模式产地：Malaysia: Sabah: Beaufort District: Beaufort
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Subulioiditermes major* 出现，本站统一归入 *Subulioiditermes subulioides*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Subulioiditermes major* 出现，均归入 *Subulioiditermes subulioides*。
 <!-- AUTO:END -->

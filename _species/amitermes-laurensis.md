@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland: Townsville"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**劳拉弓白蚁**（*Amitermes laurensis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Laura。分布记录包括澳大利亚、巴布亚新几内亚。本站记录本种有 1 个次异名。
+**劳拉弓白蚁**（*Amitermes laurensis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Laura。分布记录包括澳大利亚、巴布亚新几内亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Australia: Queensland: Townsville"
 
 - **分布记录**：澳大利亚、巴布亚新几内亚
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Hamitermes wilsoni* Hill, 1922: 159 —— 模式产地：Australia: Queensland: Townsville
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes wilsoni* 出现，本站统一归入 *Amitermes laurensis*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Hamitermes wilsoni* 出现，均归入 *Amitermes laurensis*。
 <!-- AUTO:END -->

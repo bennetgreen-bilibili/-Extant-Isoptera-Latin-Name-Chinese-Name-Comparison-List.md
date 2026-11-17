@@ -410,7 +410,7 @@ def build_body_zh(fm, meta, subs_of_parent, parent_fm):
 
     syn_count = clean(fm.get("synonym_count"))
     if syn_count.isdigit() and int(syn_count) > 0:
-        sents.append("本站记录本%s有 %s 个次异名。" % (rank_word, syn_count))
+        sents.append("本%s有 %s 个次异名。" % (rank_word, syn_count))
     lines += ["## 摘要", "", "".join(sents)]
 
     # ---- 词源 -------------------------------------------------------------
@@ -470,7 +470,6 @@ def build_body_zh(fm, meta, subs_of_parent, parent_fm):
             lines.append("- **引入记录**：%s" % join_zh(introduced))
         if notes:
             lines.append("- **补充记录**：%s" % "；".join(notes))
-        lines += ["", "以上记录沿用原始数据的写法，未做地理编码与译名统一。"]
     elif parent_fm:
         lines += ["", "## 分布", ""]
         parent_zh = join_zh(parent_native) or "未记录"
@@ -485,7 +484,7 @@ def build_body_zh(fm, meta, subs_of_parent, parent_fm):
         lines += ["", "## 次异名", ""]
     if syns:
         n_syn = len(syns)
-        lines.append("本站记录本%s有 %d 个次异名（junior synonyms），按原始文献出处列出：" % (rank_word, n_syn))
+        lines.append("本%s有 %d 个次异名（junior synonyms），按原始文献出处列出：" % (rank_word, n_syn))
         lines.append("")
         for i, entry in enumerate(syns, 1):
             name, auth = split_synonym(entry)
@@ -494,10 +493,10 @@ def build_body_zh(fm, meta, subs_of_parent, parent_fm):
             lines.append("%d. *%s* %s%s" % (i, name, auth, tail))
         old_names = "、".join("*%s*" % split_synonym(s)[0] for s in syns[:8])
         if len(syns) > 1:
-            lines += ["", "在旧文献、地方名录与数据库检索中，本%s可能以上述异名（%s 等）出现，本站统一归入 *%s*。"
+            lines += ["", "在旧文献、地方名录与数据库检索中，本%s可能以上述异名（%s 等）出现，均归入 *%s*。"
                       % (rank_word, old_names, latin)]
         else:
-            lines += ["", "在旧文献、地方名录与数据库检索中，本%s可能以异名 %s 出现，本站统一归入 *%s*。"
+            lines += ["", "在旧文献、地方名录与数据库检索中，本%s可能以异名 %s 出现，均归入 *%s*。"
                       % (rank_word, old_names, latin)]
 
     # ---- 依外部权威库补录的异名 -------------------------------------------

@@ -31,7 +31,7 @@ synonym_localities: "China: Canton; Fujian Province: Fuzhou (Foochow); Hong Kong
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑翅土白蚁**（*Odontotermes formosanus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: ?。分布记录包括旧热带界中国台湾、中国、中国澳门、中国香港、日本、缅甸、泰国、越南。本站记录本种有 3 个次异名。
+**黑翅土白蚁**（*Odontotermes formosanus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: ?。分布记录包括旧热带界中国台湾、中国、中国澳门、中国香港、日本、缅甸、泰国、越南。本种有 3 个次异名。
 
 ## 词源
 
@@ -52,15 +52,13 @@ synonym_localities: "China: Canton; Fujian Province: Fuzhou (Foochow); Hong Kong
 
 - **分布记录**：旧热带界中国台湾、中国、中国澳门、中国香港、日本、缅甸、泰国、越南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本种有 3 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Odontotermes formosanus* Holmgren, 1912: 127-129 —— 模式产地：China: Canton
 2. *Odontotermes (Cyclotermes) sinensis* Holmgren, 1913: 115-116 —— 模式产地：Fujian Province: Fuzhou (Foochow)
 3. *Odontotermes qianyangensis* Lin, 1981: 426-427 —— 模式产地：Hong Kong
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Odontotermes formosanus*、*Odontotermes (Cyclotermes) sinensis*、*Odontotermes qianyangensis* 等）出现，本站统一归入 *Odontotermes formosanus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Odontotermes formosanus*、*Odontotermes (Cyclotermes) sinensis*、*Odontotermes qianyangensis* 等）出现，均归入 *Odontotermes formosanus*。
 <!-- AUTO:END -->

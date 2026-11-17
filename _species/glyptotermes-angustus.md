@@ -28,7 +28,7 @@ synonym_localities: "Panama: Barro Colorado Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**变狭树白蚁**（*Glyptotermes angustus*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Rio Chinilla。分布记录包括哥斯达黎加、伯利兹、洪都拉斯、尼加拉瓜、巴拿马。本站记录本种有 1 个次异名。
+**变狭树白蚁**（*Glyptotermes angustus*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Rio Chinilla。分布记录包括哥斯达黎加、伯利兹、洪都拉斯、尼加拉瓜、巴拿马。本种有 1 个次异名。
 
 ## 词源
 
@@ -48,13 +48,11 @@ synonym_localities: "Panama: Barro Colorado Island"
 
 - **分布记录**：哥斯达黎加、伯利兹、洪都拉斯、尼加拉瓜、巴拿马
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Kalotermes (Glyptotermes) barbouri* Snyder, 1925: 185-186 —— 模式产地：Panama: Barro Colorado Island
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Glyptotermes) barbouri* 出现，本站统一归入 *Glyptotermes angustus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Glyptotermes) barbouri* 出现，均归入 *Glyptotermes angustus*。
 <!-- AUTO:END -->

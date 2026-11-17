@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Haviland Rail"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**简单鳞白蚁**（*Lepidotermes simplex*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti。分布记录包括非洲南部、南非。本站记录本种有 1 个次异名。
+**简单鳞白蚁**（*Lepidotermes simplex*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti。分布记录包括非洲南部、南非。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "South Africa: Natal: Haviland Rail"
 
 - **分布记录**：非洲南部、南非
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Mirotermes (Procubitermes) havilandicus* Fuller, 1925: 186-187 —— 模式产地：South Africa: Natal: Haviland Rail
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Procubitermes) havilandicus* 出现，本站统一归入 *Lepidotermes simplex*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Mirotermes (Procubitermes) havilandicus* 出现，均归入 *Lepidotermes simplex*。
 <!-- AUTO:END -->

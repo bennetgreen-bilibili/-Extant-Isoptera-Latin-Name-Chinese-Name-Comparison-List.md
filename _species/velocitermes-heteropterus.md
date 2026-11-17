@@ -31,7 +31,7 @@ synonym_localities: "Brasil: São Paulo: Guatapará, Horto Florestal de Guarani 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**异翅快白蚁**（*Velocitermes heteropterus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）快白蚁属（*Velocitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉。本站记录本种有 1 个次异名。
+**异翅快白蚁**（*Velocitermes heteropterus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）快白蚁属（*Velocitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -51,13 +51,11 @@ synonym_localities: "Brasil: São Paulo: Guatapará, Horto Florestal de Guarani 
 
 - **分布记录**：巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Diversitermes needhami* Roonwal, Chhotani & Verma, 1981: 348 —— 模式产地：Brasil: São Paulo: Guatapará, Horto Florestal de Guarani \[21.42S 48.1W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Diversitermes needhami* 出现，本站统一归入 *Velocitermes heteropterus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Diversitermes needhami* 出现，均归入 *Velocitermes heteropterus*。
 <!-- AUTO:END -->

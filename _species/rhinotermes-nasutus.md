@@ -28,7 +28,7 @@ synonym_localities: "Suriname: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大鼻鼻白蚁**（*Rhinotermes nasutus*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种，也是本属的模式种。本种由 Perty 于 1833 年描述，模式产地为 Brasil: ?。分布记录包括法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南。本站记录本种有 1 个次异名。
+**大鼻鼻白蚁**（*Rhinotermes nasutus*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种，也是本属的模式种。本种由 Perty 于 1833 年描述，模式产地为 Brasil: ?。分布记录包括法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南。本种有 1 个次异名。
 
 ## 词源
 
@@ -47,13 +47,11 @@ synonym_localities: "Suriname: ?"
 
 - **分布记录**：法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Rhinotermes taurus* Desneux, 1904: 146-147 —— 模式产地：Suriname: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhinotermes taurus* 出现，本站统一归入 *Rhinotermes nasutus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhinotermes taurus* 出现，均归入 *Rhinotermes nasutus*。
 <!-- AUTO:END -->

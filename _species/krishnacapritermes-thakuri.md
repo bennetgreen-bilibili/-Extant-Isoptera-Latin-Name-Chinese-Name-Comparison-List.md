@@ -31,7 +31,7 @@ synonym_localities: "India: Kerala: Kottayam, CMS College Campus"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**塔库尔克里希纳扭白蚁**（*Krishnacapritermes thakuri*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）克里希纳扭白蚁属（*Krishnacapritermes*）的一种。本种由 Chhotani 于 1997 年描述，模式产地为 India: Kerala: Silent Valley。分布记录包括南亚、印度。本站记录本种有 1 个次异名。
+**塔库尔克里希纳扭白蚁**（*Krishnacapritermes thakuri*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）克里希纳扭白蚁属（*Krishnacapritermes*）的一种。本种由 Chhotani 于 1997 年描述，模式产地为 India: Kerala: Silent Valley。分布记录包括南亚、印度。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "India: Kerala: Kottayam, CMS College Campus"
 
 - **分布记录**：南亚、印度
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Pericapritermes travancorensis* Mathew & Ipe, 2018: 12583 —— 模式产地：India: Kerala: Kottayam, CMS College Campus
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes travancorensis* 出现，本站统一归入 *Krishnacapritermes thakuri*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Pericapritermes travancorensis* 出现，均归入 *Krishnacapritermes thakuri*。
 <!-- AUTO:END -->

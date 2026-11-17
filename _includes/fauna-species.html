@@ -12,8 +12,6 @@
 {%- if _fz != '' or fauna_en_abstract != '' -%}
 <section class="species-fauna" lang="{% if page.lang == 'en' %}en{% elsif page.lang == 'es' %}es{% else %}zh-CN{% endif %}">
   <h2>{% if page.lang == 'en' %}Recorded in <i>Fauna Sinica</i>{% elsif page.lang == 'es' %}Registrado en <i>Fauna Sinica</i>{% else %}《中国动物志》记载{% endif %}</h2>
-  <p class="species-fauna-lead">{% if page.lang == 'en' %}The morphological and biological accounts below are taken from <i>Fauna Sinica</i> and related literature; only structure and punctuation have been standardized here.{% elsif page.lang == 'es' %}Los datos morfológicos y biológicos siguientes proceden de <i>Fauna Sinica</i> y de la literatura relacionada; aquí solo se han normalizado la estructura y la puntuación.{% else %}以下形态与生物学记载摘自《中国动物志》等相关文献，本站仅作结构与标点整理。{% endif %}</p>
-
   {%- if _fz != '' %}
   <h3>{% if page.lang == 'en' %}Morphology{% elsif page.lang == 'es' %}Morfología{% else %}形态描述{% endif %}</h3>
   {%- if fz.soldier %}
@@ -54,6 +52,6 @@
   <p>{{ fz.taxonomy_note }}</p>
   {%- endif %}
 
-  <p class="species-fauna-source">{% if page.lang == 'en' %}Source: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% elsif page.lang == 'es' %}Fuente: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% else %}文献依据：黄复生等（2000）《中国动物志·昆虫纲 第十七卷 等翅目》，科学出版社。{% endif %}{% if fz.book_ref %} {{ fz.book_ref }}{% endif %}{% if page.lang == 'en' %} Entries are cited by their number in the original work.{% elsif page.lang == 'es' %} Las entradas se citan por su número en la obra original.{% else %} 本站引文按原书条目编号标注。{% endif %}</p>
+  <p class="species-fauna-source">{% if page.lang == 'en' %}Source: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% elsif page.lang == 'es' %}Fuente: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% else %}文献依据：黄复生等（2000）《中国动物志·昆虫纲 第十七卷 等翅目》，科学出版社。{% endif %}{% if fz.book_ref %} {{ fz.book_ref }}{% endif %}</p>
 </section>
 {%- endif %}

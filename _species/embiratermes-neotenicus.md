@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本站记录本种有 1 个次异名。
+**幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 
 - **分布记录**：秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Armitermes (Armitermes) percutiens* Emerson, 1925: 369-371 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Armitermes) percutiens* 出现，本站统一归入 *Embiratermes neotenicus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Armitermes (Armitermes) percutiens* 出现，均归入 *Embiratermes neotenicus*。
 <!-- AUTO:END -->

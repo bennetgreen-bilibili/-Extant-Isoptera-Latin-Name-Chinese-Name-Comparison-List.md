@@ -31,7 +31,7 @@ synonym_localities: "Mauritius: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**毛里求斯象白蚁**（*Nasutitermes mauritianus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Wasmann 于 1910 年描述，模式产地为 Mauritius: ?。分布记录包括马达加斯加、毛里求斯。本站记录本种有 1 个次异名。
+**毛里求斯象白蚁**（*Nasutitermes mauritianus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Wasmann 于 1910 年描述，模式产地为 Mauritius: ?。分布记录包括马达加斯加、毛里求斯。本种有 1 个次异名。
 
 ## 词源
 
@@ -52,13 +52,11 @@ synonym_localities: "Mauritius: ?"
 
 - **分布记录**：马达加斯加、毛里求斯
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本种有 1 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Nasutitermes (Nasutitermes) voeltzkowi wasmanni* Emerson, 1928: 416 —— 模式产地：Mauritius: ?
 
-在旧文献、地方名录与数据库检索中，本种可能以异名 *Nasutitermes (Nasutitermes) voeltzkowi wasmanni* 出现，本站统一归入 *Nasutitermes mauritianus*。
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Nasutitermes (Nasutitermes) voeltzkowi wasmanni* 出现，均归入 *Nasutitermes mauritianus*。
 <!-- AUTO:END -->

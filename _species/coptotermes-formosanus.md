@@ -28,7 +28,7 @@ synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolul
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本站记录本种有 17 个次异名。
+**台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本种有 17 个次异名。
 
 ## 词源
 
@@ -49,11 +49,9 @@ synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolul
 - **分布记录**：中国南部及台湾
 - **补充记录**：随木材广布热带亚热带
 
-以上记录沿用原始数据的写法，未做地理编码与译名统一。
-
 ## 次异名
 
-本站记录本种有 17 个次异名（junior synonyms），按原始文献出处列出：
+本种有 17 个次异名（junior synonyms），按原始文献出处列出：
 
 1. *Coptotermes formosae* Holmgren, 1911: 192 —— 模式产地：Taiwan: ?
 2. *Coptotermes hongkonensis* Oshima, 1914: 7-10 —— 模式产地：China: Hong Kong
@@ -73,5 +71,5 @@ synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolul
 16. *Coptotermes (Polycrinitermes) anglefontanalis* Gao, Lau & He, 1995: 1-5 —— 模式产地：China: Hong Kong: New Territories: Lui Kung Tin
 17. *Coptotermes guizhouensis* He & Qui, 1992 —— 模式产地：China: Guizhou Province: Conjiang County
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus* 等）出现，本站统一归入 *Coptotermes formosanus*。
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus* 等）出现，均归入 *Coptotermes formosanus*。
 <!-- AUTO:END -->
