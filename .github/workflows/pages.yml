@@ -29,8 +29,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install python-docx
-        run: pip install python-docx
+      # pyyaml：check_site.py 的 front matter YAML 闸门要真解析；没装时它只能退回启发式
+      - name: Install python-docx and pyyaml
+        run: pip install python-docx pyyaml
 
       # 结构一致性闸门：三语索引页同构、层级页面齐备、计数、sitemap、i18n、命名差异产物
       # （数据本身有错就不部署；生成产物由下面的步骤重新生成，不在此处比较）

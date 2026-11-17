@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fundamentos de los termites — Biología
-description: Biología de los termites: cómo surgen y se regulan las castas (pseudergates y obreras verdaderas, hormona juvenil, feromonas inhibidoras), cómo se construyen y se mantienen los nidos (tipos de nido, jardines de hongos), qué comen y cómo lo digieren, además del ciclo vital, el comportamiento social, la defensa y las funciones ecológicas.
+description: "Biología de los termites: cómo surgen y se regulan las castas (pseudergates y obreras verdaderas, hormona juvenil, feromonas inhibidoras), cómo se construyen y se mantienen los nidos (tipos de nido, jardines de hongos), qué comen y cómo lo digieren, además del ciclo vital, el comportamiento social, la defensa y las funciones ecológicas."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-05

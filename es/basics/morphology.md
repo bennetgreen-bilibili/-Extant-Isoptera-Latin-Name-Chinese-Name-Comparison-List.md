@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fundamentos de los termites — Morfología
-description: Morfología de los termites término a término: cabeza, fontanela, mandíbulas, alas, tarzos y órganos internos, con nombres latinos y una nota sobre nombres alternativos.
+description: "Morfología de los termites término a término: cabeza, fontanela, mandíbulas, alas, tarzos y órganos internos, con nombres latinos y una nota sobre nombres alternativos."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-04

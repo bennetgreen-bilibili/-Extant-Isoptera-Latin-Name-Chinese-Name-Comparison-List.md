@@ -34,6 +34,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      # pyyaml：check_site.py 的 front matter YAML 闸门要真解析
+      # （2026-11 英文首页 title 里一个没加引号的「冒号+空格」让整块 front matter 被
+      # Jekyll 静默吞掉，线上 /en/ 的 <title> 空了一整天）
+      - name: Install pyyaml
+        run: pip install pyyaml
+
       # 结构一致性：JSON、分布图产物、三语名录同构、锚点、计数、sitemap、i18n、命名差异产物
       - name: Structural checks
         run: python _tools/check_site.py --ci

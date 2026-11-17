@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Termite Basics — Morphology
-description: Entry page to the termite basics: morphology (head, fontanelle, mandibles, wings, tarsi, internal organs), with Latin/English names, caste notes and what to look for.
+description: "Entry page to the termite basics: morphology (head, fontanelle, mandibles, wings, tarsi, internal organs), with Latin/English names, caste notes and what to look for."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-05

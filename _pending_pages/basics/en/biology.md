@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Termite Basics — Biology
-description: Termite biology: how castes arise and are regulated (pseudergates and true workers, juvenile hormone, inhibitory pheromones), how nests are built and kept stable (nest types, fungus combs), what termites eat and how they digest it, plus life history, social behaviour, defence and ecosystem roles.
+description: "Termite biology: how castes arise and are regulated (pseudergates and true workers, juvenile hormone, inhibitory pheromones), how nests are built and kept stable (nest types, fungus combs), what termites eat and how they digest it, plus life history, social behaviour, defence and ecosystem roles."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-05

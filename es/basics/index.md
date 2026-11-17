@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fundamentos de los termites — Morfología
-description: Página de entrada a los fundamentos: morfología (cápsula cefálica, fontanela, mandíbulas, alas, tarzos, órganos internos), con nombres latinos, castas y qué observar.
+description: "Página de entrada a los fundamentos: morfología (cápsula cefálica, fontanela, mandíbulas, alas, tarzos, órganos internos), con nombres latinos, castas y qué observar."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-05

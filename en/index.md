@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Termite Checklist — Extant Isoptera: taxonomy & names
+title: "Termite Checklist — Extant Isoptera: taxonomy & names"
 description: "Termite Checklist: 3,021 extant termite species and 68 subspecies in 13 families — Latin and Chinese names, distribution maps, keys and open data (JSON, DOI)."
 lang: en
 author: 班奈特格林 (Bennet Green)

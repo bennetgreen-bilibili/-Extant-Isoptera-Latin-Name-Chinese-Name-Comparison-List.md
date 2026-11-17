@@ -246,10 +246,10 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
-- **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语索引页同构、层级页面齐备（每个科／亚科／属都有页面、属页列全该属物种）、索引内部锚点、面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数）、sitemap 与 i18n、命名差异产物自洽，并把「中文重名 / 缺分布」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
+- **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语索引页同构、层级页面齐备（每个科／亚科／属都有页面、属页列全该属物种）、索引内部锚点、面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数）、sitemap 与 i18n、命名差异产物自洽、站点图标声明、front matter 是否为合法 YAML（解析失败时 Jekyll 会静默丢掉整块 front matter，页面标题退化成「H1 — 站点名」、permalink 丢失），并把「中文重名 / 缺分布」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取，并声明两条 `Sitemap:`。2026-11-12 起站点用自定义域名 `https://termite-extant-isoptera.org`（Cloudflare 托管 DNS + GitHub Pages 自定义域名），站点位于域名根，`https://termite-extant-isoptera.org/robots.txt` 与其中的 sitemap 声明因此真正生效。仓库里**没有 `CNAME` 文件是正常的**：本站用自定义 GitHub Actions 工作流发布，GitHub 会忽略 CNAME 文件，域名在仓库 Settings → Pages 里填写。<!-- src:S0431 -->
-- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 3099 条）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3089 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 11295 条）
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 11295 条：三语各 3765 条 = 3295 个物种页（含 206 个 `/species/<slug>/photos/` 照片页）+ 470 个其他页面；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 
@@ -282,9 +282,10 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - 「次异名」一节的结构：原始文献次异名（`synonyms` / `synonym_localities` / `synonym_count`）在前，编号列表；若 front matter 另有 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，再接一个「依外部权威库补录的异名」小节（项目符号列表，逐条给出模式产地与来源）。补录数据只影响该小节与检索索引，不改 `synonym_count`；2026.10.30 版已把此前 3 对「已补录」异名正式并入 `synonyms`（`synonym_count` 各加 1），当前没有只存在于该小节的条目。
 
 ## 搜索引擎收录推送（IndexNow）
-- 根目录 `182d630ef67e7551ab41b920fcdba760.txt` 是 IndexNow 的 key 验证文件：文件名就是 key，内容也必须恰好是同一串 key。**不要改名、不要删、不要改内容**，否则 IndexNow 会拒收提交。
+- 根目录 `e2e5803b0bdbaf2841439d61209ca404.txt` 是 IndexNow 的 key 验证文件：文件名就是 key，内容也必须恰好是同一串 key。**不要改名、不要删、不要改内容**，否则 IndexNow 会拒收提交。
 - `.github/workflows/indexnow.py` 在 `pages.yml` 的 `indexnow` job（`needs: deploy`）里执行：部署完成后读取线上 sitemap，把本次提交改动到的页面 URL 批量 POST 到 `https://api.indexnow.org/indexnow`（Bing / Yandex / Seznam / Naver / Yep 共享端点），让它们分钟级重新抓取。
 - 默认只推送**本次改动涉及的 URL**（`--changed`，用 `git diff HEAD^` 映射：`_species/x.md → /species/x/`、`list.md → /list/`、`en/x.md → /en/x/`、`es/x.md → /es/x/`、`_posts/2026-10-22-welcome.md → /blog/2026/10/22/welcome/`…）。若改动涉及模板/配置（`_layouts/`、`_data/`、`assets/`、`_config.yml`），自动退化为提交整个 sitemap。
 - 该 step 设了 `continue-on-error: true`：推送失败只会标黄，不会让部署失败。
 - 手动执行：`python .github/workflows/indexnow.py --dry-run`（只解析不提交）、`--changed --dry-run`、`--sitemap <本地或线上 sitemap 路径>`。
 - Google 不支持 IndexNow（sitemap ping 也已停用），Google 侧依靠 `sitemap.xml` + 站内链接 + 时间；百度/必应中国的站长平台 API 需要 token，暂未接入。
+- Google 侧用 Search Console（`googleb89ba243d635e504.html` + meta 验证，已验证）；百度侧用 `baidu_verify_codeva-02OUrzqDJS.html`；**Bing 侧尚未验证**——在 Bing Webmaster Tools 里「从 Search Console 导入」最省事，导入后补交 `https://termite-extant-isoptera.org/sitemap.xml` 并等待其重新抓取首页以刷新搜索结果里的站点图标（Bing 的 favicon 缓存更新通常要 1–4 周）。站点图标本身的声明与文件由 `_tools/check_site.py` 的 `check_favicon()` 守着。

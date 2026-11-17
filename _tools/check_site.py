@@ -1164,6 +1164,86 @@ def check_favicon() -> None:
             )
 
 
+FRONT_MATTER_SKIP_DIRS = {
+    "_langsrc", "_site", "_tmp", "_unpublished", "_pending_pages_backup",
+    ".git", ".sources", ".library-vault", "node_modules", "vendor",
+}
+
+
+def front_matter_problem(block: str):
+    """Return (line_no, message) when a front matter YAML block cannot be parsed.
+
+    Jekyll 默认不校验 front matter：YAML 出错时（``strict_front_matter`` 未开）
+    它只往日志里丢一行 warning，然后把整块 front matter 当成空。GitHub Pages 的
+    默认插件会补上布局、拿第一个 H1 当标题，于是坏页照常渲染——``<title>`` 变成
+    「H1 — 站点名」、``<html lang>`` 退回中文、``description`` 走中文兜底、
+    permalink 丢失（漂亮 URL 变 ``.html`` 甚至 404）。线上只能靠人肉看出来，
+    所以这里在 PR 阶段把 YAML 解析一遍（本仓库真踩过：``title: A — B: C``）。
+    """
+    try:
+        import yaml
+    except ImportError:  # CI 里装了 PyYAML；本地没装就退回启发式
+        yaml = None
+
+    if yaml is not None:
+        try:
+            data = yaml.safe_load(block) or {}
+        except yaml.YAMLError as exc:
+            mark = getattr(exc, "problem_mark", None)
+            line_no = mark.line + 2 if mark is not None else 0
+            first = str(exc).splitlines()[0] if str(exc) else exc.__class__.__name__
+            return line_no, first
+        if not isinstance(data, dict):
+            return 0, "front matter 解析结果不是映射（%s）" % type(data).__name__
+        return None
+
+    # 没有 PyYAML：只抓最常见的那种错——纯量没加引号却含「冒号 + 空格」。
+    for offset, line in enumerate(block.splitlines(), start=2):
+        m = re.match(r"^([A-Za-z_][\w-]*):[ \t]+(\S.*)$", line)
+        if not m:
+            continue
+        value = m.group(2).strip()
+        if not value or value[0] in "\"'[{&*!|>#>%@`":
+            continue
+        if re.search(r":(\s|$)", value):
+            return offset, "纯量含「冒号 + 空格」却没有加引号：%s" % line.strip()[:80]
+    return None
+
+
+def check_front_matter_yaml() -> None:
+    """扫描全部 .md / .html 的 front matter，挡住会被 Jekyll 静默吞掉的 YAML 错误。"""
+    try:
+        import yaml  # noqa: F401
+        mode = "PyYAML"
+    except ImportError:
+        mode = "启发式"
+    checked = 0
+    for path in sorted(ROOT.rglob("*")):
+        if path.suffix not in (".md", ".html") or not path.is_file():
+            continue
+        parts = path.relative_to(ROOT).parts
+        if parts[0] in FRONT_MATTER_SKIP_DIRS:
+            continue
+        text = read(path)
+        if not text.startswith("---"):
+            continue
+        end = text.find("\n---", 3)
+        if end < 0:
+            continue
+        checked += 1
+        problem = front_matter_problem(text[4:end])
+        if problem:
+            line_no, msg = problem
+            where = path.relative_to(ROOT).as_posix()
+            if line_no:
+                where += ":%d" % line_no
+            err(where, "front matter 不是合法 YAML（%s）：%s。Jekyll 会静默丢掉整块 "
+                       "front matter，页面退化成「H1 — 站点名」标题、丢 permalink；"
+                       "含「冒号」「#」的纯量请加双引号" % (mode, msg))
+    if not checked:
+        warn("front matter", "没有扫描到任何带 front matter 的文件，闸门等于没跑")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="站点与数据一致性校验")
     parser.add_argument("--ci", action="store_true", help="输出 GitHub Actions 注解")
@@ -1192,6 +1272,7 @@ def main() -> int:
     check_species_siblings_not_indexed()
     check_jsonld_dataset_scope()
     check_favicon()
+    check_front_matter_yaml()
 
     if args.ci:
         for where, msg in errors:

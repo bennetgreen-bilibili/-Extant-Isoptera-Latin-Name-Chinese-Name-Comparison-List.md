@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Termite Basics — Morphology
-description: Termite morphology term by term: head, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a note on competing names for the same structure.
+description: "Termite morphology term by term: head, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a note on competing names for the same structure."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
