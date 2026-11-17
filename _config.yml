@@ -87,6 +87,18 @@ defaults:
       sitemap: false
   -
     scope:
+      path: "baidu_verify_codeva-02OUrzqDJS.html"
+    values:
+      sitemap: false
+  # GitHub Pages 的 jekyll-optional-front-matter 会把没有 front matter 的 AGENTS.md 也渲染成
+  # /AGENTS.html 并被 jekyll-sitemap 收录——那是仓库维护说明，不该出现在搜索结果里。
+  -
+    scope:
+      path: "AGENTS.md"
+    values:
+      sitemap: false
+  -
+    scope:
       path: "现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名 — 中文正名对照名录Latin Name — Chinese Name Comparison List.md"
     values:
       sitemap: false
