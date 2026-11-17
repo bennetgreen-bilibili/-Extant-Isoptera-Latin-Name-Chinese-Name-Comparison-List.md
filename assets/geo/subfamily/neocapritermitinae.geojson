@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"subfamily","subfamily":"Neocapritermitinae","subfamily_zh":"新扭白蚁亚科","subfamily_id":"neocapritermitinae","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","records":1076,"cells":177,"genera":3,"species":20,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"merged by build_taxonomy_pages.py from the per-genus 1 degree maps of this subfamily; original records: GBIF occurrence search API (assets/geo/genus/*.geojson, generated 2026-10-28)"},
+"properties":{"level":"subfamily","subfamily":"Neocapritermitinae","subfamily_zh":"新扭白蚁亚科","subfamily_id":"neocapritermitinae","family":"Termitidae","family_zh":"白蚁科","family_id":"termitidae","records":1076,"cells":177,"genera":3,"species":20,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"merged by build_taxonomy_pages.py from the per-genus 1 degree maps of this subfamily; original records: GBIF occurrence search API (assets/geo/genus/*.geojson, generated 2026-10-28)"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,-32.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,-31.5]},"properties":{"n":1}},

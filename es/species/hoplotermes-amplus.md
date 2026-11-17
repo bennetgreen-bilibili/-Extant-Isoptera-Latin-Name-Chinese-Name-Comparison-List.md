@@ -14,7 +14,7 @@ genus_zh: "武白蚁属"
 genus_latin: "Hoplotermes"
 genus_id: "hoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hoplotermes amplus*** es la única especie viviente del género *Hoplotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala. Distribución según la fuente: Central America and Caribbean, Mexico.
+***Hoplotermes amplus*** es la única especie viviente del género *Hoplotermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala. Distribución según la fuente: Central America and Caribbean, Mexico.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *amplus*: Del latín amplus (amplio, grande)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Hoplotermes*]({{ site.base_url }}/es/genus/hoplotermes/) — monotípico, 1 especie
 

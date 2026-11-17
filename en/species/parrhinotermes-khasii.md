@@ -14,7 +14,7 @@ genus_zh: "棒鼻白蚁属"
 genus_latin: "Parrhinotermes"
 genus_id: "parrhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Parrhinotermes khasii*** is a species of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE. The species was described by Roonwal & Sen-Sarma in 1956; the type locality is India: Assam: Khasi Hills, bank of river Nong-priang. Distribution: Tibet (Mêdog: Beibeng 800 m, Yarang 1000 m); India (Assam: Khasi Hills 366 m).
+***Parrhinotermes khasii*** is a species of the genus *Parrhinotermes*, in the family Rhinotermitidae. The species was described by Roonwal & Sen-Sarma in 1956; the type locality is India: Assam: Khasi Hills, bank of river Nong-priang. Distribution: Tibet (Mêdog: Beibeng 800 m, Yarang 1000 m); India (Assam: Khasi Hills 366 m).
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *khasii*: Named after the Khasi Hills (India)
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Parrhinotermes*]({{ site.base_url }}/en/genus/parrhinotermes/) — 13 species
 - **Type species of the genus**: *Parrhinotermes aequalis*
 

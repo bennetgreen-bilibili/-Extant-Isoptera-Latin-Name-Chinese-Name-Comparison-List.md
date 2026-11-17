@@ -12,7 +12,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -30,7 +30,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Pericapritermes urgens urgens*）是催促近扭白蚁（*Pericapritermes urgens*）的一个亚种，隶属白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Cameroon: Victoria; Ghana: ?; Guinea: Mamou。本页暂无单列的分布记录，母种 *Pericapritermes urgens* 的分布见下文「分布」一节。
+**指名亚种**（*Pericapritermes urgens urgens*）是催促近扭白蚁（*Pericapritermes urgens*）的一个亚种，隶属白蚁科（Termitidae）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Cameroon: Victoria; Ghana: ?; Guinea: Mamou。本页暂无单列的分布记录，母种 *Pericapritermes urgens* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -42,7 +42,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
 - **属**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种
 - **种**：[催促近扭白蚁 *Pericapritermes urgens*]({{ site.base_url }}/species/pericapritermes-urgens/)

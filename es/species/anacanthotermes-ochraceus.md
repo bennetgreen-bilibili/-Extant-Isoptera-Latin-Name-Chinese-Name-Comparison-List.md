@@ -14,7 +14,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Tunisia: Tunis, Bou-Hedma"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anacanthotermes ochraceus*** es una especie y la especie tipo del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Egypt: ?. Distribución según la fuente: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. Este sitio registra 1 sinónimo junior para la especie.
+***Anacanthotermes ochraceus*** es una especie y la especie tipo del género *Anacanthotermes*, en la familia Hodotermitidae. La especie fue descrita por Burmeister en 1839; la localidad tipo es Egypt: ?. Distribución según la fuente: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *ochraceus*: Del latín ochraceus (ocre)
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMITIDAE]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
+- **Familia**: [Hodotermitidae]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
 - **Género**: [*Anacanthotermes*]({{ site.base_url }}/es/genus/anacanthotermes/) — 16 especies
 
 ## Distribución

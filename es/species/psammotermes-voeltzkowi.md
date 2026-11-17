@@ -14,7 +14,7 @@ genus_zh: "沙白蚁属"
 genus_latin: "Psammotermes"
 genus_id: "psammotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Psammotermes voeltzkowi*** es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Wasmann en 1910; la localidad tipo es Madagascar: Tulear. Distribución según la fuente: Madagascar.
+***Psammotermes voeltzkowi*** es una especie del género *Psammotermes*, en la familia Psammotermitidae. La especie fue descrita por Wasmann en 1910; la localidad tipo es Madagascar: Tulear. Distribución según la fuente: Madagascar.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *voeltzkowi*: En honor de Alfred Voeltzkow (naturalista ale
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Psammotermes*]({{ site.base_url }}/es/genus/psammotermes/) — 6 especies
 - **Especie tipo del género**: *Psammotermes hybostoma*
 

@@ -14,7 +14,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anacanthotermes ubachi*** es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Navás en 1911; la localidad tipo es Israel: near Dead Sea (Cercanias del Mar Muerto). Distribución según la fuente: Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey.
+***Anacanthotermes ubachi*** es una especie del género *Anacanthotermes*, en la familia Hodotermitidae. La especie fue descrita por Navás en 1911; la localidad tipo es Israel: near Dead Sea (Cercanias del Mar Muerto). Distribución según la fuente: Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *ubachi*: En honor de Ubach
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMITIDAE]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
+- **Familia**: [Hodotermitidae]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
 - **Género**: [*Anacanthotermes*]({{ site.base_url }}/es/genus/anacanthotermes/) — 16 especies
 - **Especie tipo del género**: *Anacanthotermes ochraceus*
 

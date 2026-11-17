@@ -14,7 +14,7 @@ genus_zh: "圆筒白蚁属"
 genus_latin: "Cylindrotermes"
 genus_id: "cylindrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆筒白蚁亚科"
 subfamily_latin: "Cylindrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cylindrotermes flangiatus*** es una especie del género *Cylindrotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución según la fuente: Neotropics.
+***Cylindrotermes flangiatus*** es una especie del género *Cylindrotermes*, en la familia Termitidae (subfamilia Cylindrotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución según la fuente: Neotropics.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *flangiatus*: Del inglés flange (reborde) + el latín -atu
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cylindrotermitinae]({{ site.base_url }}/es/subfamily/cylindrotermitinae/) — 2 géneros, 9 especies
 - **Género**: [*Cylindrotermes*]({{ site.base_url }}/es/genus/cylindrotermes/) — 8 especies
 - **Especie tipo del género**: *Cylindrotermes nordenskioldi*

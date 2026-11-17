@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/341705590/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
   - name: "Cryptotermes"
     url: "/es/genus/cryptotermes/"

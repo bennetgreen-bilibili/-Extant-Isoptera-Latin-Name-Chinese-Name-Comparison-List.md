@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/642393053/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Cubitermitinae"
     url: "/es/subfamily/cubitermitinae/"

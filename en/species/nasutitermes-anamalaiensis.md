@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Tamil Nadu: South Coimbatore Forest Division: Topsli
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Nasutitermes anamalaiensis*** is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Snyder in 1933; the type locality is India: Tamil Nadu: Anamalai Hills. Distribution: India. This site records 1 junior synonym for the species.
+***Nasutitermes anamalaiensis*** is a species of the genus *Nasutitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Snyder in 1933; the type locality is India: Tamil Nadu: Anamalai Hills. Distribution: India. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *anamalaiensis*: Named after the locality Anamala
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Nasutitermes*]({{ site.base_url }}/en/genus/nasutitermes/) — 243 species
 - **Type species of the genus**: *Nasutitermes corniger*

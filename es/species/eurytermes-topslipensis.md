@@ -14,7 +14,7 @@ genus_zh: "宽白蚁属"
 genus_latin: "Eurytermes"
 genus_id: "eurytermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eurytermes topslipensis*** es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Chatterjee & Thapa en 1963; la localidad tipo es India: Tamil Nadu: Topslip: Mount Stuart. Distribución según la fuente: South Asia, Western Ghats, India.
+***Eurytermes topslipensis*** es una especie del género *Eurytermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Chatterjee & Thapa en 1963; la localidad tipo es India: Tamil Nadu: Topslip: Mount Stuart. Distribución según la fuente: South Asia, Western Ghats, India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *topslipensis*: Por la localidad de Topslip (India)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Eurytermes*]({{ site.base_url }}/es/genus/eurytermes/) — 6 especies
 - **Especie tipo del género**: *Eurytermes assmuthi*

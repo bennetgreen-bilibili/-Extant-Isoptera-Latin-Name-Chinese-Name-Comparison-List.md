@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/456364230/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITOGETONIDAE"
+  - name: "Termitogetonidae"
     url: "/es/family/termitogetonidae/"
   - name: "Termitogeton"
     url: "/es/genus/termitogeton/"

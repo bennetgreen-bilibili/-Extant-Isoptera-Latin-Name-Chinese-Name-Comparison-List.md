@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/337919121/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "鼻白蚁科 RHINOTERMITIDAE"
+  - name: "鼻白蚁科 Rhinotermitidae"
     url: "/family/rhinotermitidae/"
   - name: "长鼻白蚁属 Schedorhinotermes"
     url: "/genus/schedorhinotermes/"

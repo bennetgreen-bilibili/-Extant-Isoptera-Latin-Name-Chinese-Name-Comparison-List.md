@@ -14,7 +14,7 @@ genus_zh: "子民白蚁属"
 genus_latin: "Incolitermes"
 genus_id: "incolitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Incolitermes pumilus*** es la única especie viviente del género *Incolitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: New South Wales: Unumgar State Forest, near Mt Lindesay (as Lindsay), near Queensland border. Distribución según la fuente: Australia.
+***Incolitermes pumilus*** es la única especie viviente del género *Incolitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: New South Wales: Unumgar State Forest, near Mt Lindesay (as Lindsay), near Queensland border. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *pumilus*: Del latín pumilus (enano)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Incolitermes*]({{ site.base_url }}/es/genus/incolitermes/) — monotípico, 1 especie
 

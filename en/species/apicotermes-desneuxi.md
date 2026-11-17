@@ -14,7 +14,7 @@ genus_zh: "尖白蚁属"
 genus_latin: "Apicotermes"
 genus_id: "apicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Apicotermes desneuxi*** is a species of the genus *Apicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Emerson in 1953; the type locality is Democratic Republic of the Congo: Inkisi region between Bamba, Kilenda and Kinzuzu. Distribution: Democratic Republic of the Congo.
+***Apicotermes desneuxi*** is a species of the genus *Apicotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Emerson in 1953; the type locality is Democratic Republic of the Congo: Inkisi region between Bamba, Kilenda and Kinzuzu. Distribution: Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *desneuxi*: Named after J. Desneux
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Apicotermes*]({{ site.base_url }}/en/genus/apicotermes/) — 13 species
 - **Type species of the genus**: *Apicotermes tragardhi*

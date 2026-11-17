@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes naudei*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1950; la localidad tipo es South Africa: North Zululand: Maputa. Distribución según la fuente: South Africa.
+***Cryptotermes naudei*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Coaton en 1950; la localidad tipo es South Africa: North Zululand: Maputa. Distribución según la fuente: South Africa.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *naudei*: En honor de Naudé
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

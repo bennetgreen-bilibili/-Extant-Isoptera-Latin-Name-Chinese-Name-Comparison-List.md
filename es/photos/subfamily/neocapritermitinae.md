@@ -20,6 +20,6 @@ back_label: "新扭白蚁亚科 Neocapritermitinae"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
 ---

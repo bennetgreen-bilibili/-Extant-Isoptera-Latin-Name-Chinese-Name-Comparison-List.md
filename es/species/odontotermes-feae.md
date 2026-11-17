@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Maharashtra: Mumbai"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Odontotermes feae*** es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Carin Chebà, 900–1100 m. Distribución según la fuente: South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
+***Odontotermes feae*** es una especie del género *Odontotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Carin Chebà, 900–1100 m. Distribución según la fuente: South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *feae*: En honor de Leonardo Fea
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Odontotermes*]({{ site.base_url }}/es/genus/odontotermes/) — 198 especies
 - **Especie tipo del género**: *Odontotermes vulgaris*

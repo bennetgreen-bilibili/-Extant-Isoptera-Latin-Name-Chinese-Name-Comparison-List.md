@@ -14,7 +14,7 @@ genus_zh: "葫白蚁属"
 genus_latin: "Cucurbitermes"
 genus_id: "cucurbitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cucurbitermes yingdeensis*** es una especie y la especie tipo del género *Cucurbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li & Ping en 1985; la localidad tipo es China: Guangdong Province: Yingde. Distribución según la fuente: China, Guangdong, Jiangxi, Hunan.
+***Cucurbitermes yingdeensis*** es una especie y la especie tipo del género *Cucurbitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Li & Ping en 1985; la localidad tipo es China: Guangdong Province: Yingde. Distribución según la fuente: China, Guangdong, Jiangxi, Hunan.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *yingdeensis*: Por la localidad de Yingde
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Cucurbitermes*]({{ site.base_url }}/es/genus/cucurbitermes/) — 3 especies
 

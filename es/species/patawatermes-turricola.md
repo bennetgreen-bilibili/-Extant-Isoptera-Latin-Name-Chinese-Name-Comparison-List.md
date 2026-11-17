@@ -14,7 +14,7 @@ genus_zh: "帕塔瓦白蚁属"
 genus_latin: "Patawatermes"
 genus_id: "patawatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Argentina: Misiones: Santa Ana [ 27.37S 55.58W ]; Paraguay:
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Patawatermes turricola*** es una especie y la especie tipo del género *Patawatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución según la fuente: South America, Colombia, Brazil, Peru, Ecuador, Venezuela, Paraguay, Argentina, Bolivia, Panama, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
+***Patawatermes turricola*** es una especie y la especie tipo del género *Patawatermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución según la fuente: South America, Colombia, Brazil, Peru, Ecuador, Venezuela, Paraguay, Argentina, Bolivia, Panama, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *turricola*: Del latín turris (torre) + -cola (habitante):
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Patawatermes*]({{ site.base_url }}/es/genus/patawatermes/) — 2 especies
 

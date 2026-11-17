@@ -14,7 +14,7 @@ genus_zh: "无剑白蚁属"
 genus_latin: "Asagarotermes"
 genus_id: "asagarotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Asagarotermes coronatus*** is the only extant species of the genus *Asagarotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville. Distribution: Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo.
+***Asagarotermes coronatus*** is the only extant species of the genus *Asagarotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville. Distribution: Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *coronatus*: Latin coronatus (crowned)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Asagarotermes*]({{ site.base_url }}/en/genus/asagarotermes/) — monotypic, 1 species
 

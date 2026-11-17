@@ -14,7 +14,7 @@ genus_zh: "蔡斯白蚁属"
 genus_latin: "Chasitermes"
 genus_id: "chasitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Chasitermes tupan*** es una especie del género *Chasitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Almeida-Azevedo, Carrijo, Pinzón-Florián, Morais & Azevedo en 2026; la localidad tipo es Amazon Rainforest. Distribución según la fuente: Amazon Rainforest.
+***Chasitermes tupan*** es una especie del género *Chasitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Almeida-Azevedo, Carrijo, Pinzón-Florián, Morais & Azevedo en 2026; la localidad tipo es Amazon Rainforest. Distribución según la fuente: Amazon Rainforest.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tupan*: Tupã, dios del trueno tupí-guaraní
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Chasitermes*]({{ site.base_url }}/es/genus/chasitermes/) — 2 especies
 - **Especie tipo del género**: *Chasitermes pax*

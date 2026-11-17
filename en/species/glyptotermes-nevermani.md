@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Glyptotermes nevermani*** is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1926; the type locality is Costa Rica: west slope of Irazú volcano. Distribution: Costa Rica.
+***Glyptotermes nevermani*** is a species of the genus *Glyptotermes*, in the family Kalotermitidae. The species was described by Snyder in 1926; the type locality is Costa Rica: west slope of Irazú volcano. Distribution: Costa Rica.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *nevermani*: Named after Nevermann (German collector Wilhelm Ne
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Glyptotermes*]({{ site.base_url }}/en/genus/glyptotermes/) — 131 species
 - **Type species of the genus**: *Glyptotermes tuberculatus*
 

@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/757240686/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "ARCHOTERMOPSIDAE"
+  - name: "Archotermopsidae"
     url: "/es/family/archotermopsidae/"
   - name: "Zootermopsis"
     url: "/es/genus/zootermopsis/"

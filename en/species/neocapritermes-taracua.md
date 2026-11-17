@@ -14,7 +14,7 @@ genus_zh: "新扭白蚁属"
 genus_latin: "Neocapritermes"
 genus_id: "neocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neocapritermes taracua*** is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Krishna & Araujo in 1968; the type locality is Brasil: Amazonas: Taracuá \[ 0.1N 68.4667W \]. Distribution: Brazil, Colombia, French Guiana, Guyana, Ecuador, Venezuela, Peru.
+***Neocapritermes taracua*** is a species of the genus *Neocapritermes*, in the family Termitidae (subfamily Neocapritermitinae). The species was described by Krishna & Araujo in 1968; the type locality is Brasil: Amazonas: Taracuá \[ 0.1N 68.4667W \]. Distribution: Brazil, Colombia, French Guiana, Guyana, Ecuador, Venezuela, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *taracua*: From the Tupi vernacular name taracuá (also tracuá
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Neocapritermitinae]({{ site.base_url }}/en/subfamily/neocapritermitinae/) — 3 genera, 20 species
 - **Genus**: [*Neocapritermes*]({{ site.base_url }}/en/genus/neocapritermes/) — 17 species
 - **Type species of the genus**: *Neocapritermes opacus*

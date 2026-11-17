@@ -14,7 +14,7 @@ genus_zh: "爪白蚁属"
 genus_latin: "Unguitermes"
 genus_id: "unguitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Unguitermes bouilloni*** is a species of the genus *Unguitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Harris in 1965; the type locality is Democratic Republic of the Congo: Takundi: River Kwando. Distribution: Democratic Republic of the Congo.
+***Unguitermes bouilloni*** is a species of the genus *Unguitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Harris in 1965; the type locality is Democratic Republic of the Congo: Takundi: River Kwando. Distribution: Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *bouilloni*: Named after André Bouillon
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Unguitermes*]({{ site.base_url }}/en/genus/unguitermes/) — 7 species
 - **Type species of the genus**: *Unguitermes bidentatus*

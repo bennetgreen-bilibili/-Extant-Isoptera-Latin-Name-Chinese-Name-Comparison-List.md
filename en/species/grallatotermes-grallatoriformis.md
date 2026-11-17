@@ -14,7 +14,7 @@ genus_zh: "高跷白蚁属"
 genus_latin: "Grallatotermes"
 genus_id: "grallatotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Grallatotermes grallatoriformis*** is a species of the genus *Grallatotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Karnataka (South Kanara): Aryapur; Tamil Nadu: Anamalai Hills: Tellkadi. Distribution: India.
+***Grallatotermes grallatoriformis*** is a species of the genus *Grallatotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Karnataka (South Kanara): Aryapur; Tamil Nadu: Anamalai Hills: Tellkadi. Distribution: India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *grallatoriformis*: Latin grallator (stilt-walker) + -formis (s
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Grallatotermes*]({{ site.base_url }}/en/genus/grallatotermes/) — 7 species
 - **Type species of the genus**: *Grallatotermes grallator*

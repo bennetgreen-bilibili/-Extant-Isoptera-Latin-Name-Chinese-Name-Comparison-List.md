@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"genus","genus":"Hodotermes","genus_zh":"草白蚁属","genus_id":"hodotermes","family":"HODOTERMITIDAE","family_zh":"草白蚁科","family_id":"hodotermitidae","gbif_key":8179928,"records":537,"cells":131,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Hodotermes","genus_zh":"草白蚁属","genus_id":"hodotermes","family":"Hodotermitidae","family_zh":"草白蚁科","family_id":"hodotermitidae","gbif_key":8179928,"records":537,"cells":131,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-33.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[20.5,-33.5]},"properties":{"n":5}},

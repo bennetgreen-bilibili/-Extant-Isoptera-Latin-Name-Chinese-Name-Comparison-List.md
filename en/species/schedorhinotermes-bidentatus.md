@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schedorhinotermes bidentatus*** is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Oshima in 1920; the type locality is Philippines: Panay: Antique Province: Culasi. Distribution: Philippines.
+***Schedorhinotermes bidentatus*** is a species of the genus *Schedorhinotermes*, in the family Rhinotermitidae. The species was described by Oshima in 1920; the type locality is Philippines: Panay: Antique Province: Culasi. Distribution: Philippines.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Schedorhinotermes*]({{ site.base_url }}/en/genus/schedorhinotermes/) — 35 species
 - **Type species of the genus**: *Schedorhinotermes intermedius*
 

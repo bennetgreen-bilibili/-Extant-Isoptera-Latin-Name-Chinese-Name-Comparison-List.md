@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/28928580/large.jpe
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Mirocapritermitinae"
     url: "/es/subfamily/mirocapritermitinae/"

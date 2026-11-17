@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/644756478/large.jp
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Amitermitinae"
     url: "/en/subfamily/amitermitinae/"

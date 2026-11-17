@@ -12,7 +12,7 @@ genus_zh: "新扭白蚁属"
 genus_latin: "Neocapritermes"
 genus_id: "neocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本种有 6 个次异名。
+**发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（Termitidae）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本种有 6 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/subfamily/neocapritermitinae/) —— 本站收录 3 属 20 种
 - **属**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/genus/neocapritermes/) —— 共 17 种
 

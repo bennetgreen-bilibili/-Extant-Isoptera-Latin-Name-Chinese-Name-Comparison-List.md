@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Transvaal: Nylstroom; South Africa: Transvaal
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrotermes natalensis*** es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Estcourt. Distribución según la fuente: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Botswana, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Eritrea, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Kenya, Liberia, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
+***Macrotermes natalensis*** es una especie del género *Macrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Estcourt. Distribución según la fuente: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Botswana, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Eritrea, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Kenya, Liberia, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *natalensis*: Por la localidad de Natal
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Macrotermes*]({{ site.base_url }}/es/genus/macrotermes/) — 57 especies
 - **Especie tipo del género**: *Macrotermes lilljeborgi*

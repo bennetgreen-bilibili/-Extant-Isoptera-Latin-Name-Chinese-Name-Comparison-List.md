@@ -12,7 +12,7 @@ genus_zh: "暗鼻白蚁属"
 genus_latin: "Tiunatermes"
 genus_id: "tiunatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**马里乌赞暗鼻白蚁**（*Tiunatermes mariuzani*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）暗鼻白蚁属（*Tiunatermes*）的一种，也是本属的模式种。本种由 Carrijo, Cuezzo & Santos 于 2015 年描述，模式产地为 Brasil: Tocantins: Jalapão, Ponte Alta do Tocantins \[11.0269S 47.1417W\]。分布记录包括南美洲、巴西。
+**马里乌赞暗鼻白蚁**（*Tiunatermes mariuzani*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）暗鼻白蚁属（*Tiunatermes*）的一种，也是本属的模式种。本种由 Carrijo, Cuezzo & Santos 于 2015 年描述，模式产地为 Brasil: Tocantins: Jalapão, Ponte Alta do Tocantins \[11.0269S 47.1417W\]。分布记录包括南美洲、巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[暗鼻白蚁属 *Tiunatermes*]({{ site.base_url }}/genus/tiunatermes/) —— 共 2 种
 

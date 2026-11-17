@@ -14,7 +14,7 @@ genus_zh: "隐藏白蚁属"
 genus_latin: "Dissimulitermes"
 genus_id: "dissimulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Dissimulitermes invisibilis*** es la única especie viviente del género *Dissimulitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Constantini & Cancello en 2020; la localidad tipo es Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi \[ 19.9078S 40.5414W \]. Distribución según la fuente: Brazil.
+***Dissimulitermes invisibilis*** es la única especie viviente del género *Dissimulitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Constantini & Cancello en 2020; la localidad tipo es Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi \[ 19.9078S 40.5414W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *invisibilis*: Del latín invisibilis (invisible)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Dissimulitermes*]({{ site.base_url }}/es/genus/dissimulitermes/) — monotípico, 1 especie
 

@@ -14,7 +14,7 @@ genus_zh: "软白蚁属"
 genus_latin: "Amalotermes"
 genus_id: "amalotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Amalotermes phaeocephalus*** es la única especie viviente del género *Amalotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: Eastern Region: 40 mi from Port Harcourt on Owerri Road. Distribución según la fuente: Central Africa, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria.
+***Amalotermes phaeocephalus*** es la única especie viviente del género *Amalotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: Eastern Region: 40 mi from Port Harcourt on Owerri Road. Distribución según la fuente: Central Africa, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *phaeocephalus*: Del término descriptivo «phae» (marrón
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Amalotermes*]({{ site.base_url }}/es/genus/amalotermes/) — monotípico, 1 especie
 

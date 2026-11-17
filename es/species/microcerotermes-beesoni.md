@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Uttarakhand: Kumaon: Haldwani District; India: Assam
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microcerotermes beesoni*** es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Snyder en 1933; la localidad tipo es India: Uttarakhand: Haldwani: Chakrata Range. Distribución según la fuente: South Asia, India, Bangladesh, Bhutan, Pakistan. Este sitio registra 2 sinónimos junior para la especie.
+***Microcerotermes beesoni*** es una especie del género *Microcerotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Snyder en 1933; la localidad tipo es India: Uttarakhand: Haldwani: Chakrata Range. Distribución según la fuente: South Asia, India, Bangladesh, Bhutan, Pakistan. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *beesoni*: En honor del entomólogo forestal C. F. C. Beeso
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Microcerotermes*]({{ site.base_url }}/es/genus/microcerotermes/) — 148 especies
 - **Especie tipo del género**: *Microcerotermes strunckii*

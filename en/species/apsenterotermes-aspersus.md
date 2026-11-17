@@ -14,7 +14,7 @@ genus_zh: "后肠白蚁属"
 genus_latin: "Apsenterotermes"
 genus_id: "apsenterotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Apsenterotermes aspersus*** is a species of the genus *Apsenterotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Western Australia, 640 km from Geraldton, on Carnarvon road. Distribution: Australia.
+***Apsenterotermes aspersus*** is a species of the genus *Apsenterotermes*, in the family Termitidae (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Western Australia, 640 km from Geraldton, on Carnarvon road. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *aspersus*: From the descriptive term 'asper' (rough)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Apsenterotermes*]({{ site.base_url }}/en/genus/apsenterotermes/) — 5 species
 - **Type species of the genus**: *Apsenterotermes iridipennis*

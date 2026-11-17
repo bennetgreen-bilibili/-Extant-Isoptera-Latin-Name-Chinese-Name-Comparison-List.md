@@ -12,7 +12,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**克里希纳距白蚁**（*Calcaritermes krishnai*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Maiti & Chakraborty 于 1981 年描述，模式产地为 India: Nicobar Islands: Great Nicobar Island: Champa Bay。分布记录包括印度尼科巴群岛。
+**克里希纳距白蚁**（*Calcaritermes krishnai*）是木白蚁科（Kalotermitidae）距白蚁属（*Calcaritermes*）的一种。本种由 Maiti & Chakraborty 于 1981 年描述，模式产地为 India: Nicobar Islands: Great Nicobar Island: Champa Bay。分布记录包括印度尼科巴群岛。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种
 - **本属模式种**：*Calcaritermes imminens*
 

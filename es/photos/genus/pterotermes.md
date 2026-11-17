@@ -20,6 +20,6 @@ back_label: "翅白蚁属 Pterotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
 ---

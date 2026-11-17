@@ -12,7 +12,7 @@ genus_zh: "原白蚁属"
 genus_latin: "Hodotermopsis"
 genus_id: "hodotermopsis"
 family_zh: "原白蚁科"
-family_latin: "HODOTERMOPSIDAE"
+family_latin: "Hodotermopsidae"
 family_id: "hodotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（HODOTERMOPSIDAE）原白蚁属（*Hodotermopsis*）的现存唯一种。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本种有 5 个次异名。
+**山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（Hodotermopsidae）原白蚁属（*Hodotermopsis*）的现存唯一种。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本种有 5 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 
 ## 分类位置
 
-- **科**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/family/hodotermopsidae/) —— 本站收录 1 属 1 种
+- **科**：[原白蚁科 Hodotermopsidae]({{ site.base_url }}/family/hodotermopsidae/) —— 本站收录 1 属 1 种
 - **属**：[原白蚁属 *Hodotermopsis*]({{ site.base_url }}/genus/hodotermopsis/) —— 单型属，仅含 1 种
 
 ## 分布

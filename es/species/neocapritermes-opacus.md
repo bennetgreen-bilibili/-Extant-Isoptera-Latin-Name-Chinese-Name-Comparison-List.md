@@ -14,7 +14,7 @@ genus_zh: "新扭白蚁属"
 genus_latin: "Neocapritermes"
 genus_id: "neocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neocapritermes opacus*** es una especie y la especie tipo del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribución según la fuente: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. Este sitio registra 6 sinónimos junior para la especie.
+***Neocapritermes opacus*** es una especie y la especie tipo del género *Neocapritermes*, en la familia Termitidae (subfamilia Neocapritermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribución según la fuente: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. Este sitio registra 6 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *opacus*: Del latín opacus (mate, opaco)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Neocapritermitinae]({{ site.base_url }}/es/subfamily/neocapritermitinae/) — 3 géneros, 20 especies
 - **Género**: [*Neocapritermes*]({{ site.base_url }}/es/genus/neocapritermes/) — 17 especies
 

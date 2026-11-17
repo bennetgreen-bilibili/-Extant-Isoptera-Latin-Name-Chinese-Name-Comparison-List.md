@@ -42,7 +42,7 @@
  "families": [
   {
    "zh": "澳白蚁科",
-   "latin": "MASTOTERMITIDAE",
+   "latin": "Mastotermitidae",
    "id": "mastotermitidae",
    "genera": [
     {
@@ -65,7 +65,7 @@
   },
   {
    "zh": "古白蚁科",
-   "latin": "ARCHOTERMOPSIDAE",
+   "latin": "Archotermopsidae",
    "id": "archotermopsidae",
    "genera": [
     {
@@ -134,7 +134,7 @@
   },
   {
    "zh": "草白蚁科",
-   "latin": "HODOTERMITIDAE",
+   "latin": "Hodotermitidae",
    "id": "hodotermitidae",
    "genera": [
     {
@@ -315,7 +315,7 @@
   },
   {
    "zh": "原白蚁科",
-   "latin": "HODOTERMOPSIDAE",
+   "latin": "Hodotermopsidae",
    "id": "hodotermopsidae",
    "genera": [
     {
@@ -338,7 +338,7 @@
   },
   {
    "zh": "胄白蚁科",
-   "latin": "STOLOTERMITIDAE",
+   "latin": "Stolotermitidae",
    "id": "stolotermitidae",
    "genera": [
     {
@@ -433,7 +433,7 @@
   },
   {
    "zh": "木白蚁科",
-   "latin": "KALOTERMITIDAE",
+   "latin": "Kalotermitidae",
    "id": "kalotermitidae",
    "genera": [
     {
@@ -4025,7 +4025,7 @@
   },
   {
    "zh": "沙白蚁科",
-   "latin": "PSAMMOTERMITIDAE",
+   "latin": "Psammotermitidae",
    "id": "psammotermitidae",
    "genera": [
     {
@@ -4176,7 +4176,7 @@
   },
   {
    "zh": "鼻白蚁科",
-   "latin": "RHINOTERMITIDAE",
+   "latin": "Rhinotermitidae",
    "id": "rhinotermitidae",
    "genera": [
     {
@@ -4662,7 +4662,7 @@
   },
   {
    "zh": "齿白蚁科",
-   "latin": "SERRITERMITIDAE",
+   "latin": "Serritermitidae",
    "id": "serritermitidae",
    "genera": [
     {
@@ -4708,7 +4708,7 @@
   },
   {
    "zh": "杆白蚁科",
-   "latin": "STYLOTERMITIDAE",
+   "latin": "Stylotermitidae",
    "id": "stylotermitidae",
    "genera": [
     {
@@ -5039,7 +5039,7 @@
   },
   {
    "zh": "寡脉白蚁科",
-   "latin": "TERMITOGETONIDAE",
+   "latin": "Termitogetonidae",
    "id": "termitogetonidae",
    "genera": [
     {
@@ -5069,7 +5069,7 @@
   },
   {
    "zh": "异白蚁科",
-   "latin": "HETEROTERMITIDAE",
+   "latin": "Heterotermitidae",
    "id": "heterotermitidae",
    "genera": [
     {
@@ -6741,7 +6741,7 @@
   },
   {
    "zh": "白蚁科",
-   "latin": "TERMITIDAE",
+   "latin": "Termitidae",
    "id": "termitidae",
    "subfamilies": [
     {

@@ -14,7 +14,7 @@ genus_zh: "钝颚白蚁属"
 genus_latin: "Ahmaditermes"
 genus_id: "ahmaditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ahmaditermes parafulvus*** is a species of the genus *Ahmaditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China, Vietnam.
+***Ahmaditermes parafulvus*** is a species of the genus *Ahmaditermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China, Vietnam.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *parafulvus*: From the descriptive term 'para' (beside)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Ahmaditermes*]({{ site.base_url }}/en/genus/ahmaditermes/) — 21 species
 - **Type species of the genus**: *Ahmaditermes pyricephalus*

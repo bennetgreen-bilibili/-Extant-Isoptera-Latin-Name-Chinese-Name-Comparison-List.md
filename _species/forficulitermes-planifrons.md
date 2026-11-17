@@ -12,7 +12,7 @@ genus_zh: "剪白蚁属"
 genus_latin: "Forficulitermes"
 genus_id: "forficulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "剪白蚁亚科"
 subfamily_latin: "Forficulitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**扁额剪白蚁**（*Forficulitermes planifrons*）是白蚁科（TERMITIDAE）剪白蚁亚科（Forficulitermitinae）剪白蚁属（*Forficulitermes*）的现存唯一种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Sona Mpangu。分布记录包括中非喀麦隆。
+**扁额剪白蚁**（*Forficulitermes planifrons*）是白蚁科（Termitidae）剪白蚁亚科（Forficulitermitinae）剪白蚁属（*Forficulitermes*）的现存唯一种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Sona Mpangu。分布记录包括中非喀麦隆。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[剪白蚁亚科 Forficulitermitinae]({{ site.base_url }}/subfamily/forficulitermitinae/) —— 本站收录 1 属 1 种
 - **属**：[剪白蚁属 *Forficulitermes*]({{ site.base_url }}/genus/forficulitermes/) —— 单型属，仅含 1 种
 

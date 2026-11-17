@@ -12,7 +12,7 @@ genus_zh: "无利器白蚁属"
 genus_latin: "Astalotermes"
 genus_id: "astalotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Angola: São Paulo de Loanda; South Africa: Natal: Mont aux
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短小无利器白蚁**（*Astalotermes brevior*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦。本种有 3 个次异名。
+**短小无利器白蚁**（*Astalotermes brevior*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦。本种有 3 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Angola: São Paulo de Loanda; South Africa: Natal: Mont aux
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[无利器白蚁属 *Astalotermes*]({{ site.base_url }}/genus/astalotermes/) —— 共 17 种
 - **本属模式种**：*Astalotermes concilians*

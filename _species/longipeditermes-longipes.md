@@ -12,7 +12,7 @@ genus_zh: "长足白蚁属"
 genus_latin: "Longipeditermes"
 genus_id: "longipeditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Sabah: Beaufort District: Beaufort"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长足长足白蚁**（*Longipeditermes longipes*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）长足白蚁属（*Longipeditermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak; Sarawak: Marudi。分布记录包括马来西亚、新加坡、泰国、印度尼西亚、文莱。本种有 1 个次异名。
+**长足长足白蚁**（*Longipeditermes longipes*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）长足白蚁属（*Longipeditermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak; Sarawak: Marudi。分布记录包括马来西亚、新加坡、泰国、印度尼西亚、文莱。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Malaysia: Sabah: Beaufort District: Beaufort"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[长足白蚁属 *Longipeditermes*]({{ site.base_url }}/genus/longipeditermes/) —— 共 2 种
 

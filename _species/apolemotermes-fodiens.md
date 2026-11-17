@@ -12,7 +12,7 @@ genus_zh: "和平白蚁属"
 genus_latin: "Apolemotermes"
 genus_id: "apolemotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**挖掘和平白蚁**（*Apolemotermes fodiens*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和平白蚁属（*Apolemotermes*）的现存唯一种。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]。分布记录包括喀麦隆。
+**挖掘和平白蚁**（*Apolemotermes fodiens*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）和平白蚁属（*Apolemotermes*）的现存唯一种。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]。分布记录包括喀麦隆。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[和平白蚁属 *Apolemotermes*]({{ site.base_url }}/genus/apolemotermes/) —— 单型属，仅含 1 种
 

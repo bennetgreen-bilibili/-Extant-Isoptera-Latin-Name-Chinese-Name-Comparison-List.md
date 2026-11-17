@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Amitermes bandeirai*** es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Rocha & Cancello en 2020; la localidad tipo es Brasil: Bahia, Teixeira de Freitas \[ 17.5078S 39.6318W \]. Distribución según la fuente: Brazil.
+***Amitermes bandeirai*** es una especie del género *Amitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Rocha & Cancello en 2020; la localidad tipo es Brasil: Bahia, Teixeira de Freitas \[ 17.5078S 39.6318W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *bandeirai*: En honor de Bandeira
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Amitermes*]({{ site.base_url }}/es/genus/amitermes/) — 113 especies
 - **Especie tipo del género**: *Amitermes amifer*

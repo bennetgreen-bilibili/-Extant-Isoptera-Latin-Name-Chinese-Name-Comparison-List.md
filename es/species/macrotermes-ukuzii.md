@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Zululand"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrotermes ukuzii*** es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Zululand: Ukuzi River. Distribución según la fuente: southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
+***Macrotermes ukuzii*** es una especie del género *Macrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Zululand: Ukuzi River. Distribución según la fuente: southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *ukuzii*: En honor de Ukuz
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Macrotermes*]({{ site.base_url }}/es/genus/macrotermes/) — 57 especies
 - **Especie tipo del género**: *Macrotermes lilljeborgi*

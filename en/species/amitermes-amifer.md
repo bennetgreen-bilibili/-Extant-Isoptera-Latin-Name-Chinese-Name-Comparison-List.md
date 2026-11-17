@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Amitermes amifer*** is a species and the type species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Silvestri in 1901; the type locality is Argentina: Formosa: Formosa \[ 26.1833S 58.1833W \]; Salta: El Tala \[ 26.1167S 65.2833W \]; Salta: Salta \[ 24.7833S 65.4167W \]; San Luis: San Luis \[ 33.3S 66.35W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: ?. Distribution: Brazil, mainland Southeast Asia, Argentina, Bolivia, Paraguay.
+***Amitermes amifer*** is a species and the type species of the genus *Amitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Silvestri in 1901; the type locality is Argentina: Formosa: Formosa \[ 26.1833S 58.1833W \]; Salta: El Tala \[ 26.1167S 65.2833W \]; Salta: Salta \[ 24.7833S 65.4167W \]; San Luis: San Luis \[ 33.3S 66.35W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: ?. Distribution: Brazil, mainland Southeast Asia, Argentina, Bolivia, Paraguay.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *amifer*: From Latin -fer (bearing); root ami- unexplained
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Amitermes*]({{ site.base_url }}/en/genus/amitermes/) — 113 species
 

@@ -14,7 +14,7 @@ genus_zh: "圆白蚁属"
 genus_latin: "Rotunditermes"
 genus_id: "rotunditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rotunditermes rotundiceps*** is a species and the type species of the genus *Rotunditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, Colombia, Peru.
+***Rotunditermes rotundiceps*** is a species and the type species of the genus *Rotunditermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, Colombia, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *rotundiceps*: Latin rotundus (round) + -ceps (head), round-hea
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Rotunditermes*]({{ site.base_url }}/en/genus/rotunditermes/) — 2 species
 

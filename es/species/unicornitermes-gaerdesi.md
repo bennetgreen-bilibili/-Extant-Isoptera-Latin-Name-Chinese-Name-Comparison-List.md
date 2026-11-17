@@ -14,7 +14,7 @@ genus_zh: "独角白蚁属"
 genus_latin: "Unicornitermes"
 genus_id: "unicornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Unicornitermes gaerdesi*** es la única especie viviente del género *Unicornitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Coaton en 1971; la localidad tipo es Namibia: District Lüderitz at Witpütz. Distribución según la fuente: Namibia, South Africa.
+***Unicornitermes gaerdesi*** es la única especie viviente del género *Unicornitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Coaton en 1971; la localidad tipo es Namibia: District Lüderitz at Witpütz. Distribución según la fuente: Namibia, South Africa.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *gaerdesi*: En honor de Gärdes
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Unicornitermes*]({{ site.base_url }}/es/genus/unicornitermes/) — monotípico, 1 especie
 

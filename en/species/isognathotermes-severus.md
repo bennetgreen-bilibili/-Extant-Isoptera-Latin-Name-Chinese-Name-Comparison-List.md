@@ -14,7 +14,7 @@ genus_zh: "等颚白蚁属"
 genus_latin: "Isognathotermes"
 genus_id: "isognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -32,7 +32,7 @@ synonyms: "Cubitermes severus var. modestior Silvestri, 1914: 93-94; Cubitermes 
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Isognathotermes severus*** is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima. Distribution: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania. This site records 2 junior synonyms for the species.
+***Isognathotermes severus*** is a species of the genus *Isognathotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima. Distribution: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *severus*: Latin severus (severe)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Isognathotermes*]({{ site.base_url }}/en/genus/isognathotermes/) — 16 species
 - **Type species of the genus**: *Isognathotermes minitabundus*

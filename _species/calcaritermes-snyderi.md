@@ -12,7 +12,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**斯奈德距白蚁**（*Calcaritermes snyderi*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Krishna 于 1962 年描述，模式产地为 El Salvador: Volcan de Santa Ana。分布记录包括萨尔瓦多、巴拿马、伯利兹、危地马拉、洪都拉斯。
+**斯奈德距白蚁**（*Calcaritermes snyderi*）是木白蚁科（Kalotermitidae）距白蚁属（*Calcaritermes*）的一种。本种由 Krishna 于 1962 年描述，模式产地为 El Salvador: Volcan de Santa Ana。分布记录包括萨尔瓦多、巴拿马、伯利兹、危地马拉、洪都拉斯。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种
 - **本属模式种**：*Calcaritermes imminens*
 

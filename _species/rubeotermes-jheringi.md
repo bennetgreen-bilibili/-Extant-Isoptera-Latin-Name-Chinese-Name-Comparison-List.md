@@ -12,7 +12,7 @@ genus_zh: "变红白蚁属"
 genus_latin: "Rubeotermes"
 genus_id: "rubeotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**耶林变红白蚁**（*Rubeotermes jheringi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）变红白蚁属（*Rubeotermes*）的现存唯一种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[ 13.45S 70.4W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、特立尼达和多巴哥。
+**耶林变红白蚁**（*Rubeotermes jheringi*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）变红白蚁属（*Rubeotermes*）的现存唯一种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[ 13.45S 70.4W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、特立尼达和多巴哥。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[变红白蚁属 *Rubeotermes*]({{ site.base_url }}/genus/rubeotermes/) —— 单型属，仅含 1 种
 

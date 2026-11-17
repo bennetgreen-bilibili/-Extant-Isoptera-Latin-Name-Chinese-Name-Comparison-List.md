@@ -14,7 +14,7 @@ genus_zh: "沙白蚁属"
 genus_latin: "Psammotermes"
 genus_id: "psammotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "(country unknown): \"Rotes Meer\"; Egypt: Aswân (Assuan)"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Psammotermes hybostoma*** es una especie y la especie tipo del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Desneux en 1902; la localidad tipo es Algeria: Biskra; Touggourt. Distribución según la fuente: West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen. Este sitio registra 2 sinónimos junior para la especie.
+***Psammotermes hybostoma*** es una especie y la especie tipo del género *Psammotermes*, en la familia Psammotermitidae. La especie fue descrita por Desneux en 1902; la localidad tipo es Algeria: Biskra; Touggourt. Distribución según la fuente: West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *hybostoma*: Del griego hybos (joroba) + stoma (boca), de b
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Psammotermes*]({{ site.base_url }}/es/genus/psammotermes/) — 6 especies
 
 ## Distribución

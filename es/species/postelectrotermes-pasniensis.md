@@ -14,7 +14,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Postelectrotermes pasniensis*** es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Baluchistan: Pasni. Distribución según la fuente: South Asia, Pakistan, Iran.
+***Postelectrotermes pasniensis*** es una especie del género *Postelectrotermes*, en la familia Kalotermitidae. La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Baluchistan: Pasni. Distribución según la fuente: South Asia, Pakistan, Iran.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *pasniensis*: Por Pasni, Baluchistán, Pakistán
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Postelectrotermes*]({{ site.base_url }}/es/genus/postelectrotermes/) — 15 especies
 - **Especie tipo del género**: *Postelectrotermes praecox*
 

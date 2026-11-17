@@ -14,7 +14,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Madagascar: Manantantely, near Tolanaro"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Postelectrotermes longus*** es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución según la fuente: Comoros, Madagascar, Seychelles. Este sitio registra 1 sinónimo junior para la especie.
+***Postelectrotermes longus*** es una especie del género *Postelectrotermes*, en la familia Kalotermitidae. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución según la fuente: Comoros, Madagascar, Seychelles. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *longus*: Del latín longus (largo)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Postelectrotermes*]({{ site.base_url }}/es/genus/postelectrotermes/) — 15 especies
 - **Especie tipo del género**: *Postelectrotermes praecox*
 

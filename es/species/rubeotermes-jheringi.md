@@ -14,7 +14,7 @@ genus_zh: "变红白蚁属"
 genus_latin: "Rubeotermes"
 genus_id: "rubeotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rubeotermes jheringi*** es la única especie viviente del género *Rubeotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[ 13.45S 70.4W \]. Distribución según la fuente: South America, Brazil, Colombia, French Guiana, Trinidad and Tobago.
+***Rubeotermes jheringi*** es la única especie viviente del género *Rubeotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[ 13.45S 70.4W \]. Distribución según la fuente: South America, Brazil, Colombia, French Guiana, Trinidad and Tobago.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *jheringi*: En honor de H. von Ihering (zoólogo alemán)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Rubeotermes*]({{ site.base_url }}/es/genus/rubeotermes/) — monotípico, 1 especie
 

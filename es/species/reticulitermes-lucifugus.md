@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Reticulitermes lucifugus*** es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". Distribución según la fuente: Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia). Este sitio registra 5 sinónimos junior para la especie.
+***Reticulitermes lucifugus*** es una especie del género *Reticulitermes*, en la familia Heterotermitidae. La especie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". Distribución según la fuente: Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia). Este sitio registra 5 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *lucifugus*: Del latín lux (luz) + fugus (que huye), que r
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Reticulitermes*]({{ site.base_url }}/es/genus/reticulitermes/) — 140 especies
 - **Especie tipo del género**: *Reticulitermes flavipes*
 

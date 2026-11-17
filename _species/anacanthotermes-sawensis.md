@@ -12,7 +12,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**塞瓦无刺白蚁**（*Anacanthotermes sawensis*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Al-Alawy, Abdul-Rassoul & Al-Azawi 于 1990 年描述，模式产地为 Iraq: Al-Mothana (Smawa), near Sawa Lake。分布记录包括伊拉克。
+**塞瓦无刺白蚁**（*Anacanthotermes sawensis*）是草白蚁科（Hodotermitidae）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Al-Alawy, Abdul-Rassoul & Al-Azawi 于 1990 年描述，模式产地为 Iraq: Al-Mothana (Smawa), near Sawa Lake。分布记录包括伊拉克。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种
 - **本属模式种**：*Anacanthotermes ochraceus*
 

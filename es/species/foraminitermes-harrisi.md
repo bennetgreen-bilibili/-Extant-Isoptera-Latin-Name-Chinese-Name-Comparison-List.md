@@ -14,7 +14,7 @@ genus_zh: "孔白蚁属"
 genus_latin: "Foraminitermes"
 genus_id: "foraminitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "孔白蚁亚科"
 subfamily_latin: "Foraminitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Foraminitermes harrisi*** es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Krishna en 1963; la localidad tipo es Democratic Republic of the Congo: Keyberg, 10 km S Lubumbashi. Distribución según la fuente: Democratic Republic of the Congo.
+***Foraminitermes harrisi*** es una especie del género *Foraminitermes*, en la familia Termitidae (subfamilia Foraminitermitinae). La especie fue descrita por Krishna en 1963; la localidad tipo es Democratic Republic of the Congo: Keyberg, 10 km S Lubumbashi. Distribución según la fuente: Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *harrisi*: En honor de Harris
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Foraminitermitinae]({{ site.base_url }}/es/subfamily/foraminitermitinae/) — 3 géneros, 10 especies
 - **Género**: [*Foraminitermes*]({{ site.base_url }}/es/genus/foraminitermes/) — 6 especies
 - **Especie tipo del género**: *Foraminitermes tubifrons*

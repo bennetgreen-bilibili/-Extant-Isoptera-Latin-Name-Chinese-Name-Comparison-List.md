@@ -14,7 +14,7 @@ genus_zh: "无锐白蚁属"
 genus_latin: "Ateuchotermes"
 genus_id: "ateuchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ateuchotermes tranquillus*** es una especie del género *Ateuchotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución según la fuente: Guinea.
+***Ateuchotermes tranquillus*** es una especie del género *Ateuchotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución según la fuente: Guinea.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tranquillus*: Del latín tranquillus (tranquilo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Ateuchotermes*]({{ site.base_url }}/es/genus/ateuchotermes/) — 8 especies
 - **Especie tipo del género**: *Ateuchotermes pectinatus*

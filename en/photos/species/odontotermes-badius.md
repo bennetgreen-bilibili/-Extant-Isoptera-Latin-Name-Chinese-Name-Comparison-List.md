@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Odontotermes_badius%
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Macrotermitinae"
     url: "/en/subfamily/macrotermitinae/"

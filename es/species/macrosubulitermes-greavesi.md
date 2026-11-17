@@ -14,7 +14,7 @@ genus_zh: "大锥白蚁属"
 genus_latin: "Macrosubulitermes"
 genus_id: "macrosubulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrosubulitermes greavesi*** es la única especie viviente del género *Macrosubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Gadgarra. Distribución según la fuente: Australia.
+***Macrosubulitermes greavesi*** es la única especie viviente del género *Macrosubulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Gadgarra. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *greavesi*: En honor de Greaves
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Macrosubulitermes*]({{ site.base_url }}/es/genus/macrosubulitermes/) — monotípico, 1 especie
 

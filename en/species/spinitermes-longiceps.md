@@ -14,7 +14,7 @@ genus_zh: "针刺白蚁属"
 genus_latin: "Spinitermes"
 genus_id: "spinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Spinitermes longiceps*** is a species of the genus *Spinitermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribution: Brazil, Colombia, Ecuador.
+***Spinitermes longiceps*** is a species of the genus *Spinitermes*, in the family Termitidae (subfamily Termitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribution: Brazil, Colombia, Ecuador.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Spinitermes*]({{ site.base_url }}/en/genus/spinitermes/) — 5 species
 - **Type species of the genus**: *Spinitermes trispinosus*

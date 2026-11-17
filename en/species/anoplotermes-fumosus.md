@@ -14,7 +14,7 @@ genus_zh: "解甲白蚁属"
 genus_latin: "Anoplotermes"
 genus_id: "anoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Anoplotermes fumosus*** is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Hagen in 1860; the type locality is Mexico: Veracruz. Distribution: Brazil, Mexico, United States.
+***Anoplotermes fumosus*** is a species of the genus *Anoplotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Hagen in 1860; the type locality is Mexico: Veracruz. Distribution: Brazil, Mexico, United States.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *fumosus*: Latin fumosus (smoky)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Anoplotermes*]({{ site.base_url }}/en/genus/anoplotermes/) — 23 species
 - **Type species of the genus**: *Anoplotermes pacificus*

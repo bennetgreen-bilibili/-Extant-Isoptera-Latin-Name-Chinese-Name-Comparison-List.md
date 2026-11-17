@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "United States: Hawaii: Hilo; Panama: Ancon; Kiribati: Phoen
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes immigrans*** is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1922; the type locality is United States: Hawaii: Honolulu, Oahu. Distribution: Central America to Polynesia. This site records 3 junior synonyms for the species.
+***Incisitermes immigrans*** is a species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Snyder in 1922; the type locality is United States: Hawaii: Honolulu, Oahu. Distribution: Central America to Polynesia. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *immigrans*: Latin immigrans (immigrating)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 - **Type species of the genus**: *Incisitermes schwarzi*
 

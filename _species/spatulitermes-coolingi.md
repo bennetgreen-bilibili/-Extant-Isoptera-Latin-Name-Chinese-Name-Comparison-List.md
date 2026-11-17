@@ -12,7 +12,7 @@ genus_zh: "匙白蚁属"
 genus_latin: "Spatulitermes"
 genus_id: "spatulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**库林匙白蚁**（*Spatulitermes coolingi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）匙白蚁属（*Spatulitermes*）的现存唯一种。本种由 Coaton 于 1971 年描述，模式产地为 Namibia: 64.4 km ex Rundu-Grootfontein。分布记录包括非洲南部、纳米比亚、赞比亚。
+**库林匙白蚁**（*Spatulitermes coolingi*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）匙白蚁属（*Spatulitermes*）的现存唯一种。本种由 Coaton 于 1971 年描述，模式产地为 Namibia: 64.4 km ex Rundu-Grootfontein。分布记录包括非洲南部、纳米比亚、赞比亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[匙白蚁属 *Spatulitermes*]({{ site.base_url }}/genus/spatulitermes/) —— 单型属，仅含 1 种
 

@@ -20,6 +20,6 @@ back_label: "尖鼻白蚁属 Acorhinotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/es/family/rhinotermitidae/"
 ---

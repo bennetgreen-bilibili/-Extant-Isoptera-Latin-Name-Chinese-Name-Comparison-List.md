@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/92/CSIRO_ScienceImage_1
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
   - name: "Cryptotermes"
     url: "/en/genus/cryptotermes/"

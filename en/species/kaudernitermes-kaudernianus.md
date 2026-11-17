@@ -14,7 +14,7 @@ genus_zh: "考登白蚁属"
 genus_latin: "Kaudernitermes"
 genus_id: "kaudernitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Kaudernitermes kaudernianus*** is a species and the type species of the genus *Kaudernitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1914; the type locality is Madagascar: St. Marie de Marovoay. Distribution: Madagascar.
+***Kaudernitermes kaudernianus*** is a species and the type species of the genus *Kaudernitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1914; the type locality is Madagascar: St. Marie de Marovoay. Distribution: Madagascar.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *kaudernianus*: Named after W. Kaudern
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Kaudernitermes*]({{ site.base_url }}/en/genus/kaudernitermes/) — 4 species
 

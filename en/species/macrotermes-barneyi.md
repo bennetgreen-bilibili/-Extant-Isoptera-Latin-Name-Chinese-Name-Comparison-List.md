@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Macrotermes barneyi*** is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Light in 1924; the type locality is China: Hong Kong: Hong Kong University, China: Amoy Harbour, China: near Kuliang, in the mountains near Foochow. Distribution: East Asia, China, Hong Kong, China, Macau, China, Vietnam.
+***Macrotermes barneyi*** is a species of the genus *Macrotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Light in 1924; the type locality is China: Hong Kong: Hong Kong University, China: Amoy Harbour, China: near Kuliang, in the mountains near Foochow. Distribution: East Asia, China, Hong Kong, China, Macau, China, Vietnam.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *barneyi*: Named after Barney
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Macrotermes*]({{ site.base_url }}/en/genus/macrotermes/) — 57 species
 - **Type species of the genus**: *Macrotermes lilljeborgi*

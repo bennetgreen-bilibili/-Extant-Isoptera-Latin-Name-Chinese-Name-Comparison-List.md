@@ -14,7 +14,7 @@ genus_zh: "生白蚁属"
 genus_latin: "Embiratermes"
 genus_id: "embiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Rio de Janeiro: Mendes [22.5174S 43.7215W]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Embiratermes heterotypus*** es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución según la fuente: Brazil, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
+***Embiratermes heterotypus*** es una especie del género *Embiratermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución según la fuente: Brazil, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *heterotypus*: Del término descriptivo «heter» (distinto
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Embiratermes*]({{ site.base_url }}/es/genus/embiratermes/) — 9 especies
 - **Especie tipo del género**: *Embiratermes festivellus*

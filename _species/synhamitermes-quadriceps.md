@@ -12,7 +12,7 @@ genus_zh: "同钩白蚁属"
 genus_latin: "Synhamitermes"
 genus_id: "synhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**方头同钩白蚁**（*Synhamitermes quadriceps*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）同钩白蚁属（*Synhamitermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Khandala, near Bombay。分布记录包括南美东南部、阿根廷/巴拉圭/乌拉圭、南亚、印度。
+**方头同钩白蚁**（*Synhamitermes quadriceps*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）同钩白蚁属（*Synhamitermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Khandala, near Bombay。分布记录包括南美东南部、阿根廷/巴拉圭/乌拉圭、南亚、印度。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[同钩白蚁属 *Synhamitermes*]({{ site.base_url }}/genus/synhamitermes/) —— 共 4 种
 

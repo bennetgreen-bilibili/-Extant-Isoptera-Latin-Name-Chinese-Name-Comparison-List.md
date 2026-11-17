@@ -14,7 +14,7 @@ genus_zh: "杆白蚁属"
 genus_latin: "Stylotermes"
 genus_id: "stylotermes"
 family_zh: "杆白蚁科"
-family_latin: "STYLOTERMITIDAE"
+family_latin: "Stylotermitidae"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Stylotermes dunensis*** is a species of the genus *Stylotermes*, in the family STYLOTERMITIDAE. The species was described by Thakur in 1975; the type locality is India: Uttarakhand: Dehra Dun: New Forest. Distribution: China, India.
+***Stylotermes dunensis*** is a species of the genus *Stylotermes*, in the family Stylotermitidae. The species was described by Thakur in 1975; the type locality is India: Uttarakhand: Dehra Dun: New Forest. Distribution: China, India.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *dunensis*: From Latin duna (dune)
 
 ## Taxonomic position
 
-- **Family**: [STYLOTERMITIDAE]({{ site.base_url }}/en/family/stylotermitidae/) — 1 genus, 45 species
+- **Family**: [Stylotermitidae]({{ site.base_url }}/en/family/stylotermitidae/) — 1 genus, 45 species
 - **Genus**: [*Stylotermes*]({{ site.base_url }}/en/genus/stylotermes/) — 45 species
 - **Type species of the genus**: *Stylotermes fletcheri*
 

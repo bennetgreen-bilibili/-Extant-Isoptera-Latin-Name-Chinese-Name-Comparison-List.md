@@ -12,7 +12,7 @@ genus_zh: "角象白蚁属"
 genus_latin: "Cornitermes"
 genus_id: "cornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**尖颚角象白蚁**（*Cornitermes acignathus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Ecuador: Guayas: Guayaquil \[2.16667S 79.9W\]。分布记录包括哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔。
+**尖颚角象白蚁**（*Cornitermes acignathus*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Ecuador: Guayas: Guayaquil \[2.16667S 79.9W\]。分布记录包括哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种
 - **本属模式种**：*Cornitermes cumulans*

@@ -14,7 +14,7 @@ genus_zh: "棱角白蚁属"
 genus_latin: "Angularitermes"
 genus_id: "angularitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Angularitermes pinocchio*** is a species of the genus *Angularitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Cancello & Brandão in 1996; the type locality is Brasil: Goiás: Goiânia \[16.67S 49.27W\]. Distribution: Brazil, Peru.
+***Angularitermes pinocchio*** is a species of the genus *Angularitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Cancello & Brandão in 1996; the type locality is Brasil: Goiás: Goiânia \[16.67S 49.27W\]. Distribution: Brazil, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *pinocchio*: Pinocchio (the long-nosed puppet)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Angularitermes*]({{ site.base_url }}/en/genus/angularitermes/) — 6 species
 - **Type species of the genus**: *Angularitermes nasutissimus*

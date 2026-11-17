@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: "HODOTERMOPSIDAE 原白蚁科 — all photos (1, 1 species)"
-description: "Freely licensed photos of the 1 species in the family HODOTERMOPSIDAE (原白蚁科), 1 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
+title: "Hodotermopsidae 原白蚁科 — all photos (1, 1 species)"
+description: "Freely licensed photos of the 1 species in the family Hodotermopsidae (原白蚁科), 1 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
 lang: en
 single_lang: true
 author: 班奈特格林
@@ -11,12 +11,12 @@ permalink: "/en/family/hodotermopsidae/photos/"
 sitemap: true
 photo_kind: family
 photo_id: "hodotermopsidae"
-photo_latin: "HODOTERMOPSIDAE"
+photo_latin: "Hodotermopsidae"
 photo_zh: "原白蚁科"
 photo_count: 1
 photo_species: 1
 back_url: "/family/hodotermopsidae/"
-back_label: "原白蚁科 HODOTERMOPSIDAE"
+back_label: "原白蚁科 Hodotermopsidae"
 breadcrumb:
   - name: "List"
     url: "/en/list/"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "土白蚁属 Odontotermes 物种名录"
-description: "土白蚁属（Odontotermes）是白蚁科（TERMITIDAE）下的一个属，隶属大白蚁亚科（Macrotermitinae），本站收录 198 种、10 亚种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置见名录索引与上级科、亚科页面。详见名录索引。"
+description: "土白蚁属（Odontotermes）是白蚁科（Termitidae）下的一个属，隶属大白蚁亚科（Macrotermitinae），本站收录 198 种、10 亚种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置见名录索引与上级科、亚科页面。详见名录索引。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -28,7 +28,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/macrotermitinae/">大白蚁亚科</a> › <a href="{{ site.base_url }}/genus/odontotermes/">土白蚁属 <i>Odontotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>土白蚁属 <i>Odontotermes</i></h1>
-<p class="taxon-meta">白蚁科 TERMITIDAE · 198 种、10 亚种</p>
+<p class="taxon-meta">白蚁科 Termitidae · 198 种、10 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="odontotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本属范围内全文检索（208 个种与亚种）：名字、分布、模式产地与研究记述</label>

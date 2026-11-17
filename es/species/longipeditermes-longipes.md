@@ -14,7 +14,7 @@ genus_zh: "长足白蚁属"
 genus_latin: "Longipeditermes"
 genus_id: "longipeditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Malaysia: Sabah: Beaufort District: Beaufort"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Longipeditermes longipes*** es una especie y la especie tipo del género *Longipeditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak; Sarawak: Marudi. Distribución según la fuente: Malaysia, Singapore, Thailand, Indonesia, Brunei. Este sitio registra 1 sinónimo junior para la especie.
+***Longipeditermes longipes*** es una especie y la especie tipo del género *Longipeditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak; Sarawak: Marudi. Distribución según la fuente: Malaysia, Singapore, Thailand, Indonesia, Brunei. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *longipes*: Del latín longus (largo) + pes (pie), de patas
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Longipeditermes*]({{ site.base_url }}/es/genus/longipeditermes/) — 2 especies
 

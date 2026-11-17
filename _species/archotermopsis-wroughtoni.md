@@ -12,7 +12,7 @@ genus_zh: "古白蚁属"
 genus_latin: "Archotermopsis"
 genus_id: "archotermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚。本种有 2 个次异名。
+**罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（Archotermopsidae）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 
 ## 分类位置
 
-- **科**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
+- **科**：[古白蚁科 Archotermopsidae]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
 - **属**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/genus/archotermopsis/) —— 共 2 种
 
 ## 分布

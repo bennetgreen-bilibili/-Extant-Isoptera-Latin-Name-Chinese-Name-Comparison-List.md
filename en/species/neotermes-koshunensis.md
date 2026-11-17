@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Japan: Naha (Riu-kiu); Taiwan: Botel Tobago"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes koshunensis*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Shiraki in 1909; the type locality is Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]. Distribution: East Asia, Taiwan, Japan. This site records 1 junior synonym for the species.
+***Neotermes koshunensis*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Shiraki in 1909; the type locality is Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]. Distribution: East Asia, Taiwan, Japan. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *koshunensis*: Named after Koshun (Hengchun, Taiwan)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

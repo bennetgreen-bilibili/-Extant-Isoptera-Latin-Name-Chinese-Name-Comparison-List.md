@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Neotermes_jouteli.pn
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
   - name: "Neotermes"
     url: "/en/genus/neotermes/"

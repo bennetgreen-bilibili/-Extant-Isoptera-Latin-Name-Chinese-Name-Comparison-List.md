@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; French Guiana: Ca
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Syntermes spinosus*** es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Latreille en 1804; la localidad tipo es (country unknown): ?. Distribución según la fuente: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela. Este sitio registra 7 sinónimos junior para la especie.
+***Syntermes spinosus*** es una especie del género *Syntermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Latreille en 1804; la localidad tipo es (country unknown): ?. Distribución según la fuente: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela. Este sitio registra 7 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *spinosus*: Del latín spinosus (espinoso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Syntermes*]({{ site.base_url }}/es/genus/syntermes/) — 23 especies
 - **Especie tipo del género**: *Syntermes dirus*

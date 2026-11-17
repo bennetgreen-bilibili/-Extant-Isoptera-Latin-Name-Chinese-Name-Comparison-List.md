@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Incisitermes repandus*** es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1926; la localidad tipo es Samoa: Upolu Island: Apia. Distribución según la fuente: Vanuatu, Australia, Fiji, Marshall Islands, Samoa.
+***Incisitermes repandus*** es una especie del género *Incisitermes*, en la familia Kalotermitidae. La especie fue descrita por Hill en 1926; la localidad tipo es Samoa: Upolu Island: Apia. Distribución según la fuente: Vanuatu, Australia, Fiji, Marshall Islands, Samoa.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *repandus*: Del latín repandus (de margen ondulado)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Incisitermes*]({{ site.base_url }}/es/genus/incisitermes/) — 30 especies
 - **Especie tipo del género**: *Incisitermes schwarzi*
 

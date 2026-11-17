@@ -14,7 +14,7 @@ genus_zh: "厚唇白蚁属"
 genus_latin: "Labiotermes"
 genus_id: "labiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Labiotermes guasu*** es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino & Acioli en 2006; la localidad tipo es Brasil: Amazonas: Benjamin Constant, Nova Aliança \[4.35S 69.6W\]. Distribución según la fuente: Brazil, Colombia, Peru.
+***Labiotermes guasu*** es una especie del género *Labiotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Constantino & Acioli en 2006; la localidad tipo es Brasil: Amazonas: Benjamin Constant, Nova Aliança \[4.35S 69.6W\]. Distribución según la fuente: Brazil, Colombia, Peru.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *guasu*: Del tupí -guasu (grande)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Labiotermes*]({{ site.base_url }}/es/genus/labiotermes/) — 10 especies
 - **Especie tipo del género**: *Labiotermes labralis*

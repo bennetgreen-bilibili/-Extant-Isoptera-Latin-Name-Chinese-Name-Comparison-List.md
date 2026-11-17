@@ -14,7 +14,7 @@ genus_zh: "前新白蚁属"
 genus_latin: "Proneotermes"
 genus_id: "proneotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Proneotermes tacicuarensis*** es una especie del género *Proneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Jurado-Vargas, Méndez-Montiel, García-Díaz & Cruz-de León en 2025; la localidad tipo es Mexico: Michoacán: Tacicuaro. Distribución según la fuente: Mexico (Michoacán).
+***Proneotermes tacicuarensis*** es una especie del género *Proneotermes*, en la familia Kalotermitidae. La especie fue descrita por Jurado-Vargas, Méndez-Montiel, García-Díaz & Cruz-de León en 2025; la localidad tipo es Mexico: Michoacán: Tacicuaro. Distribución según la fuente: Mexico (Michoacán).
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *tacicuarensis*: Por la localidad de Tacicuaro (Michoacán,
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Proneotermes*]({{ site.base_url }}/es/genus/proneotermes/) — 4 especies
 - **Especie tipo del género**: *Proneotermes perezi*
 

@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolul
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coptotermes formosanus*** es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución según la fuente: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 17 sinónimos junior para la especie.
+***Coptotermes formosanus*** es una especie del género *Coptotermes*, en la familia Heterotermitidae. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución según la fuente: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 17 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *formosanus*: En honor de Formosa (nombre antiguo de Taiwá
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
 - **Especie tipo del género**: *Coptotermes gestroi*
 

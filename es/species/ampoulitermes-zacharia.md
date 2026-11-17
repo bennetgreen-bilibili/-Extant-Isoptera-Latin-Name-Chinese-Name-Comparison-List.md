@@ -14,7 +14,7 @@ genus_zh: "安瓿白蚁属"
 genus_latin: "Ampoulitermes"
 genus_id: "ampoulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ampoulitermes zacharia*** es una especie del género *Ampoulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Joseph & Mathew en 2024; la localidad tipo es India: Kerala: Idukki (Mamalakandam). Distribución según la fuente: India.
+***Ampoulitermes zacharia*** es una especie del género *Ampoulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Joseph & Mathew en 2024; la localidad tipo es India: Kerala: Idukki (Mamalakandam). Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *zacharia*: En honor de Zacharia
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ampoulitermes*]({{ site.base_url }}/es/genus/ampoulitermes/) — 2 especies
 - **Especie tipo del género**: *Ampoulitermes wynaadensis*

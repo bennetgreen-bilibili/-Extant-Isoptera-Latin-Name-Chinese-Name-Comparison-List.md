@@ -12,7 +12,7 @@ genus_zh: "灰白蚁属"
 genus_latin: "Grigiotermes"
 genus_id: "grigiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**哈根灰白蚁**（*Grigiotermes hageni*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）灰白蚁属（*Grigiotermes*）的一种，也是本属的模式种。本种由 Snyder & Emerson 于 1949 年描述，模式产地为 Argentina: Chaco: Colonia Benítez \[ 27.3333S 58.9333W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]。分布记录包括巴西、哥伦比亚、法属圭亚那、委内瑞拉、玻利维亚、巴拉圭、阿根廷、特立尼达和多巴哥。本种有 1 个次异名。
+**哈根灰白蚁**（*Grigiotermes hageni*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）灰白蚁属（*Grigiotermes*）的一种，也是本属的模式种。本种由 Snyder & Emerson 于 1949 年描述，模式产地为 Argentina: Chaco: Colonia Benítez \[ 27.3333S 58.9333W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]。分布记录包括巴西、哥伦比亚、法属圭亚那、委内瑞拉、玻利维亚、巴拉圭、阿根廷、特立尼达和多巴哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[灰白蚁属 *Grigiotermes*]({{ site.base_url }}/genus/grigiotermes/) —— 共 2 种
 

@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Nasutitermes longirostris sabahicola*** is a subspecies of *Nasutitermes longirostris*, in the family TERMITIDAE (subfamily Nasutitermitinae), genus *Nasutitermes*. The subspecies was described by Engel & Krishna in 2013; the type locality is Malaysia: Sabah: Lamag District: Tenegang Besar, mile 8. No separate distribution record is listed on this page; see the parent species *Nasutitermes longirostris* below.
+***Nasutitermes longirostris sabahicola*** is a subspecies of *Nasutitermes longirostris*, in the family Termitidae (subfamily Nasutitermitinae), genus *Nasutitermes*. The subspecies was described by Engel & Krishna in 2013; the type locality is Malaysia: Sabah: Lamag District: Tenegang Besar, mile 8. No separate distribution record is listed on this page; see the parent species *Nasutitermes longirostris* below.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *sabahicola*: Named after Sabah (Malaysia) + Latin -cola (dwell
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Nasutitermes*]({{ site.base_url }}/en/genus/nasutitermes/) — 243 species
 - **Species**: [*Nasutitermes longirostris*]({{ site.base_url }}/en/species/nasutitermes-longirostris/)

@@ -14,7 +14,7 @@ genus_zh: "牛白蚁属"
 genus_latin: "Tauritermes"
 genus_id: "tauritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tauritermes vitulus*** es una especie del género *Tauritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Araujo & Fontes en 1979; la localidad tipo es Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]. Distribución según la fuente: Brazil.
+***Tauritermes vitulus*** es una especie del género *Tauritermes*, en la familia Kalotermitidae. La especie fue descrita por Araujo & Fontes en 1979; la localidad tipo es Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *vitulus*: Del latín vitulus (ternero)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Tauritermes*]({{ site.base_url }}/es/genus/tauritermes/) — 4 especies
 - **Especie tipo del género**: *Tauritermes taurocephalus*
 

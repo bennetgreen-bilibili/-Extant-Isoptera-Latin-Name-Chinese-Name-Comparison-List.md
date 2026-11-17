@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microcerotermes labioangulatus wahkdaitensis*** es una subespecie de *Microcerotermes labioangulatus*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), género *Microcerotermes*. La subespecie fue descrita por Das & Choudhury en 2020; la localidad tipo es India: Meghalaya: Wahkdait area, East Khasi Hills \[ 25.208N 91.99E \]. No se incluye un registro de distribución separado en esta página; véase la especie parental *Microcerotermes labioangulatus* más abajo.
+***Microcerotermes labioangulatus wahkdaitensis*** es una subespecie de *Microcerotermes labioangulatus*, en la familia Termitidae (subfamilia Microcerotermitinae), género *Microcerotermes*. La subespecie fue descrita por Das & Choudhury en 2020; la localidad tipo es India: Meghalaya: Wahkdait area, East Khasi Hills \[ 25.208N 91.99E \]. No se incluye un registro de distribución separado en esta página; véase la especie parental *Microcerotermes labioangulatus* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *wahkdaitensis*: Por Wahkdait (India)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Microcerotermes*]({{ site.base_url }}/es/genus/microcerotermes/) — 148 especies
 - **Especie**: [*Microcerotermes labioangulatus*]({{ site.base_url }}/es/species/microcerotermes-labioangulatus/)

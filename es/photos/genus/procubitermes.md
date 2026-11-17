@@ -20,7 +20,7 @@ back_label: "原方白蚁属 Procubitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Cubitermitinae"
     url: "/es/subfamily/cubitermitinae/"

@@ -14,7 +14,7 @@ genus_zh: "刻痕白蚁属"
 genus_latin: "Crenetermes"
 genus_id: "crenetermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Crenetermes albotarsalis*** es una especie y la especie tipo del género *Crenetermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1897; la localidad tipo es Cameroon: Kribi; Yaunde. Distribución según la fuente: Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Tanzania, Zambia.
+***Crenetermes albotarsalis*** es una especie y la especie tipo del género *Crenetermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1897; la localidad tipo es Cameroon: Kribi; Yaunde. Distribución según la fuente: Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Tanzania, Zambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *albotarsalis*: De albo (blanco) + tarsalis (tarso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Crenetermes*]({{ site.base_url }}/es/genus/crenetermes/) — 5 especies
 

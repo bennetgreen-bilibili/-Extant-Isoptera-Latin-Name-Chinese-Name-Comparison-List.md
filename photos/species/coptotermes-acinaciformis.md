@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/595585246/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "异白蚁科 HETEROTERMITIDAE"
+  - name: "异白蚁科 Heterotermitidae"
     url: "/family/heterotermitidae/"
   - name: "乳白蚁属 Coptotermes"
     url: "/genus/coptotermes/"

@@ -14,7 +14,7 @@ genus_zh: "基白蚁属"
 genus_latin: "Coxotermes"
 genus_id: "coxotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coxotermes boukokoensis*** es la única especie viviente del género *Coxotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Grassé & Noirot en 1955; la localidad tipo es Central African Republic: Boukoko, near Mbaiki. Distribución según la fuente: Central Africa, Cameroon, Congo, Nigeria, Central African Republic.
+***Coxotermes boukokoensis*** es la única especie viviente del género *Coxotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Grassé & Noirot en 1955; la localidad tipo es Central African Republic: Boukoko, near Mbaiki. Distribución según la fuente: Central Africa, Cameroon, Congo, Nigeria, Central African Republic.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *boukokoensis*: Por la localidad de Boukoko
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Coxotermes*]({{ site.base_url }}/es/genus/coxotermes/) — monotípico, 1 especie
 

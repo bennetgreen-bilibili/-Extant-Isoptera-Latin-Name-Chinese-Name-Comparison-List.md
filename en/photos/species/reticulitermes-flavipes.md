@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/734854304/large.jp
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "HETEROTERMITIDAE"
+  - name: "Heterotermitidae"
     url: "/en/family/heterotermitidae/"
   - name: "Reticulitermes"
     url: "/en/genus/reticulitermes/"

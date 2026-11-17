@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/456364230/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "寡脉白蚁科 TERMITOGETONIDAE"
+  - name: "寡脉白蚁科 Termitogetonidae"
     url: "/family/termitogetonidae/"
   - name: "寡脉白蚁属 Termitogeton"
     url: "/genus/termitogeton/"

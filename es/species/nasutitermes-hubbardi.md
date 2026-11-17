@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes hubbardi*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Cuba: Caboda; Jamaica: Mandeville. Distribución según la fuente: Cuba, Dominican Republic, Jamaica, Haiti.
+***Nasutitermes hubbardi*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Cuba: Caboda; Jamaica: Mandeville. Distribución según la fuente: Cuba, Dominican Republic, Jamaica, Haiti.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hubbardi*: En honor de Henry G. Hubbard
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

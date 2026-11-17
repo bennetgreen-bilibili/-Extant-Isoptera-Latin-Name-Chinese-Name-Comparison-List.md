@@ -14,7 +14,7 @@ genus_zh: "无钩白蚁属"
 genus_latin: "Ahamitermes"
 genus_id: "ahamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ahamitermes inclusus*** is a species of the genus *Ahamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Gay in 1955; the type locality is Australia: Western Australia, 51 mi NNW Galena. Distribution: Australia.
+***Ahamitermes inclusus*** is a species of the genus *Ahamitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Gay in 1955; the type locality is Australia: Western Australia, 51 mi NNW Galena. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *inclusus*: Latin inclusus (enclosed)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Ahamitermes*]({{ site.base_url }}/en/genus/ahamitermes/) — 3 species
 - **Type species of the genus**: *Ahamitermes nidicola*

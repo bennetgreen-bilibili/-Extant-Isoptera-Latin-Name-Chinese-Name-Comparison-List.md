@@ -12,7 +12,7 @@ genus_zh: "鼻白蚁属"
 genus_latin: "Rhinotermes"
 genus_id: "rhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多毛鼻白蚁**（*Rhinotermes hispidus*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括巴西、法属圭亚那、哥伦比亚、玻利维亚、厄瓜多尔、秘鲁、委内瑞拉。
+**多毛鼻白蚁**（*Rhinotermes hispidus*）是鼻白蚁科（Rhinotermitidae）鼻白蚁属（*Rhinotermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括巴西、法属圭亚那、哥伦比亚、玻利维亚、厄瓜多尔、秘鲁、委内瑞拉。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[鼻白蚁属 *Rhinotermes*]({{ site.base_url }}/genus/rhinotermes/) —— 共 4 种
 - **本属模式种**：*Rhinotermes nasutus*
 

@@ -14,7 +14,7 @@ genus_zh: "无颚白蚁属"
 genus_latin: "Agnathotermes"
 genus_id: "agnathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Agnathotermes crassinasus*** es una especie del género *Agnathotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribución según la fuente: Brazil, Colombia, Ecuador.
+***Agnathotermes crassinasus*** es una especie del género *Agnathotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribución según la fuente: Brazil, Colombia, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *crassinasus*: Del término descriptivo «crass» (grueso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Agnathotermes*]({{ site.base_url }}/es/genus/agnathotermes/) — 2 especies
 - **Especie tipo del género**: *Agnathotermes glaber*

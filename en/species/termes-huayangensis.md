@@ -14,7 +14,7 @@ genus_zh: "白蚁属"
 genus_latin: "Termes"
 genus_id: "termes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Termes huayangensis*** is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Ahmad in 1965; the type locality is Thailand: Huay Yang. Distribution: Guangdong, China, Huayang, Thailand.
+***Termes huayangensis*** is a species of the genus *Termes*, in the family Termitidae (subfamily Termitinae). The species was described by Ahmad in 1965; the type locality is Thailand: Huay Yang. Distribution: Guangdong, China, Huayang, Thailand.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *huayangensis*: Named after the locality Huayang
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Termes*]({{ site.base_url }}/en/genus/termes/) — 27 species
 - **Type species of the genus**: *Termes fatalis*

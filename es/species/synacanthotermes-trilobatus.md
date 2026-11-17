@@ -14,7 +14,7 @@ genus_zh: "聚刺白蚁属"
 genus_latin: "Synacanthotermes"
 genus_id: "synacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Angola: Dundo"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Synacanthotermes trilobatus*** es una especie del género *Synacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Democratic Republic of the Congo: Kananga. Distribución según la fuente: Angola, Democratic Republic of the Congo, Malawi, Zambia. Este sitio registra 1 sinónimo junior para la especie.
+***Synacanthotermes trilobatus*** es una especie del género *Synacanthotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Democratic Republic of the Congo: Kananga. Distribución según la fuente: Angola, Democratic Republic of the Congo, Malawi, Zambia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *trilobatus*: Del latín tri- (tres) + lobatus (lobulado), 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Synacanthotermes*]({{ site.base_url }}/es/genus/synacanthotermes/) — 3 especies
 - **Especie tipo del género**: *Synacanthotermes heterodon*

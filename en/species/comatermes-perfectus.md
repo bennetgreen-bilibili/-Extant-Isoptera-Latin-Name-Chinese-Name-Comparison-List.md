@@ -14,7 +14,7 @@ genus_zh: "毛白蚁属"
 genus_latin: "Comatermes"
 genus_id: "comatermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Comatermes perfectus*** is the only extant species of the genus *Comatermes*, in the family KALOTERMITIDAE. The species was described by Hagen in 1858; the type locality is (country unknown): ?. Distribution: Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago. This site records 1 junior synonym for the species.
+***Comatermes perfectus*** is the only extant species of the genus *Comatermes*, in the family Kalotermitidae. The species was described by Hagen in 1858; the type locality is (country unknown): ?. Distribution: Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *perfectus*: Latin perfectus (perfect)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Comatermes*]({{ site.base_url }}/en/genus/comatermes/) — monotypic, 1 species
 
 ## Distribution

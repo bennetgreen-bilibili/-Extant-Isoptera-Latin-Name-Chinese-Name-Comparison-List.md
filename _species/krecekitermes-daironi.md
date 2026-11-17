@@ -12,7 +12,7 @@ genus_zh: "克雷切克白蚁属"
 genus_latin: "Krecekitermes"
 genus_id: "krecekitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**戴龙克雷切克白蚁**（*Krecekitermes daironi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）克雷切克白蚁属（*Krecekitermes*）的现存唯一种。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]。分布记录包括南美洲、哥伦比亚、法属圭亚那。
+**戴龙克雷切克白蚁**（*Krecekitermes daironi*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）克雷切克白蚁属（*Krecekitermes*）的现存唯一种。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]。分布记录包括南美洲、哥伦比亚、法属圭亚那。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[克雷切克白蚁属 *Krecekitermes*]({{ site.base_url }}/genus/krecekitermes/) —— 单型属，仅含 1 种
 

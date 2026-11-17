@@ -14,7 +14,7 @@ genus_zh: "鳞白蚁属"
 genus_latin: "Lepidotermes"
 genus_id: "lepidotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Lepidotermes amydrus*** is a species of the genus *Lepidotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Uys in 1994; the type locality is Namibia: 64 km ex Windhoek-Gallschau crossroads. Distribution: southern Africa, South Africa.
+***Lepidotermes amydrus*** is a species of the genus *Lepidotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Uys in 1994; the type locality is Namibia: 64 km ex Windhoek-Gallschau crossroads. Distribution: southern Africa, South Africa.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *amydrus*: Greek amydros (dim, obscure)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Lepidotermes*]({{ site.base_url }}/en/genus/lepidotermes/) — 9 species
 - **Type species of the genus**: *Lepidotermes pretoriensis*

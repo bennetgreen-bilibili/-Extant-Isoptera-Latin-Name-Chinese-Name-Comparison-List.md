@@ -14,7 +14,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Postelectrotermes castaneiceps*** is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Sjöstedt in 1914; the type locality is Madagascar: Fenerive. Distribution: Madagascar.
+***Postelectrotermes castaneiceps*** is a species of the genus *Postelectrotermes*, in the family Kalotermitidae. The species was described by Sjöstedt in 1914; the type locality is Madagascar: Fenerive. Distribution: Madagascar.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *castaneiceps*: From castanei + ceps
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Postelectrotermes*]({{ site.base_url }}/en/genus/postelectrotermes/) — 15 species
 - **Type species of the genus**: *Postelectrotermes praecox*
 

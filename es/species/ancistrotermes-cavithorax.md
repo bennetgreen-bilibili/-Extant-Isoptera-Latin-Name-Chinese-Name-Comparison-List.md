@@ -14,7 +14,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ancistrotermes cavithorax*** es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Victoria. Distribución según la fuente: West Africa, Côte d'Ivoire, Senegal, Benin, Gambia, Cameroon, Central Africa, Democratic Republic of the Congo, Ghana, Guinea, Nigeria, Sierra Leone, Uganda. Este sitio registra 1 sinónimo junior para la especie.
+***Ancistrotermes cavithorax*** es una especie del género *Ancistrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Victoria. Distribución según la fuente: West Africa, Côte d'Ivoire, Senegal, Benin, Gambia, Cameroon, Central Africa, Democratic Republic of the Congo, Ghana, Guinea, Nigeria, Sierra Leone, Uganda. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *cavithorax*: Del latín cavus (hueco) + thorax (tórax), d
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Ancistrotermes*]({{ site.base_url }}/es/genus/ancistrotermes/) — 16 especies
 - **Especie tipo del género**: *Ancistrotermes crucifer*

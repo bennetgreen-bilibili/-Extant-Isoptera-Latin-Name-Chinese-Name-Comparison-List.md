@@ -12,7 +12,7 @@ genus_zh: "大前白蚁属"
 genus_latin: "Megaprotermes"
 genus_id: "megaprotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**吉法德大前白蚁**（*Megaprotermes giffardii*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大前白蚁属（*Megaprotermes*）的现存唯一种。本种由 Silvestri 于 1914 年描述，模式产地为 Nigeria: Ibadan。分布记录包括科特迪瓦、中非共和国、刚果民主共和国、冈比亚、加纳、尼日利亚、塞内加尔。
+**吉法德大前白蚁**（*Megaprotermes giffardii*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大前白蚁属（*Megaprotermes*）的现存唯一种。本种由 Silvestri 于 1914 年描述，模式产地为 Nigeria: Ibadan。分布记录包括科特迪瓦、中非共和国、刚果民主共和国、冈比亚、加纳、尼日利亚、塞内加尔。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大前白蚁属 *Megaprotermes*]({{ site.base_url }}/genus/megaprotermes/) —— 单型属，仅含 1 种
 

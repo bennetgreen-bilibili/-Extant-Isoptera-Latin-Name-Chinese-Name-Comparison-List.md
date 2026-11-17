@@ -14,7 +14,7 @@ genus_zh: "无利器白蚁属"
 genus_latin: "Astalotermes"
 genus_id: "astalotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Angola: São Paulo de Loanda; South Africa: Natal: Mont aux
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Astalotermes brevior*** is a species of the genus *Astalotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Zululand: Mkosi. Distribution: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. This site records 3 junior synonyms for the species.
+***Astalotermes brevior*** is a species of the genus *Astalotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Zululand: Mkosi. Distribution: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *brevior*: From the descriptive term 'brev' (short)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Astalotermes*]({{ site.base_url }}/en/genus/astalotermes/) — 17 species
 - **Type species of the genus**: *Astalotermes concilians*

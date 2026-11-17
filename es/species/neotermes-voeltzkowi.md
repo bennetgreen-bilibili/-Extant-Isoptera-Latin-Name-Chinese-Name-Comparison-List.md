@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes voeltzkowi*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Majunga. Distribución según la fuente: Madagascar.
+***Neotermes voeltzkowi*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Majunga. Distribución según la fuente: Madagascar.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *voeltzkowi*: En honor de Alfred Voeltzkow (naturalista ale
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

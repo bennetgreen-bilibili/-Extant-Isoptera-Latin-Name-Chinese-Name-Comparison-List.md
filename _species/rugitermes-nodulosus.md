@@ -12,7 +12,7 @@ genus_zh: "皱白蚁属"
 genus_latin: "Rugitermes"
 genus_id: "rugitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**结节皱白蚁**（*Rugitermes nodulosus*）是木白蚁科（KALOTERMITIDAE）皱白蚁属（*Rugitermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: São João del Rei \[ 21.1356S 44.2617W \]。分布记录包括巴西。
+**结节皱白蚁**（*Rugitermes nodulosus*）是木白蚁科（Kalotermitidae）皱白蚁属（*Rugitermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: São João del Rei \[ 21.1356S 44.2617W \]。分布记录包括巴西。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[皱白蚁属 *Rugitermes*]({{ site.base_url }}/genus/rugitermes/) —— 共 18 种
 
 ## 分布

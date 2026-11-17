@@ -12,7 +12,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本种有 4 个次异名。
+**拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（Rhinotermitidae）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本种有 4 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种
 - **本属模式种**：*Schedorhinotermes intermedius*
 

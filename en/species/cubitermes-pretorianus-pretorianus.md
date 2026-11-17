@@ -14,7 +14,7 @@ genus_zh: "方白蚁属"
 genus_latin: "Cubitermes"
 genus_id: "cubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cubitermes pretorianus pretorianus*** is a subspecies of *Cubitermes pretorianus*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Cubitermes*. The subspecies was described by Silvestri in 1914; the type locality is South Africa: Transvaal: Pretoria. No separate distribution record is listed on this page; see the parent species *Cubitermes pretorianus* below.
+***Cubitermes pretorianus pretorianus*** is a subspecies of *Cubitermes pretorianus*, in the family Termitidae (subfamily Cubitermitinae), genus *Cubitermes*. The subspecies was described by Silvestri in 1914; the type locality is South Africa: Transvaal: Pretoria. No separate distribution record is listed on this page; see the parent species *Cubitermes pretorianus* below.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *pretorianus*: Named after Pretoria, South Africa
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Cubitermes*]({{ site.base_url }}/en/genus/cubitermes/) — 11 species
 - **Species**: [*Cubitermes pretorianus*]({{ site.base_url }}/en/species/cubitermes-pretorianus/)

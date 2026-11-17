@@ -14,7 +14,7 @@ genus_zh: "尖白蚁属"
 genus_latin: "Apicotermes"
 genus_id: "apicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Apicotermes tragardhi*** is a species and the type species of the genus *Apicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Holmgren in 1912; the type locality is South Africa: Zululand: Mkosi. Distribution: Mozambique, South Africa, Tanzania, Zimbabwe.
+***Apicotermes tragardhi*** is a species and the type species of the genus *Apicotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Holmgren in 1912; the type locality is South Africa: Zululand: Mkosi. Distribution: Mozambique, South Africa, Tanzania, Zimbabwe.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *tragardhi*: Named after Ivar Trägårdh (Swedish entomologist)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Apicotermes*]({{ site.base_url }}/en/genus/apicotermes/) — 13 species
 

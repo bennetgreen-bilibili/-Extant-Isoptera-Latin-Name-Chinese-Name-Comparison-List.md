@@ -14,7 +14,7 @@ genus_zh: "腔白蚁属"
 genus_latin: "Cavitermes"
 genus_id: "cavitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cavitermes rozeni*** es una especie del género *Cavitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Krishna en 2003; la localidad tipo es Brasil: Amazonas: Manaus, Campos Sales \[3.0012S 60.0431W\]. Distribución según la fuente: Brazil, Ecuador.
+***Cavitermes rozeni*** es una especie del género *Cavitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Krishna en 2003; la localidad tipo es Brasil: Amazonas: Manaus, Campos Sales \[3.0012S 60.0431W\]. Distribución según la fuente: Brazil, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *rozeni*: En honor de una persona «Rozen» (posiblemente J
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Cavitermes*]({{ site.base_url }}/es/genus/cavitermes/) — 5 especies
 - **Especie tipo del género**: *Cavitermes tuberosus*

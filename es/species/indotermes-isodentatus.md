@@ -14,7 +14,7 @@ genus_zh: "印白蚁属"
 genus_latin: "Indotermes"
 genus_id: "indotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Indotermes isodentatus*** es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: Menghan. Distribución según la fuente: Oriental region.
+***Indotermes isodentatus*** es una especie del género *Indotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: Menghan. Distribución según la fuente: Oriental region.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *isodentatus*: Del griego isos (igual) + del latín dentatu
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Indotermes*]({{ site.base_url }}/es/genus/indotermes/) — 10 especies
 - **Especie tipo del género**: *Indotermes maymensis*

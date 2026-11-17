@@ -14,7 +14,7 @@ genus_zh: "埃博戈白蚁属"
 genus_latin: "Ebogotermes"
 genus_id: "ebogotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ebogotermes raphaeli*** es la única especie viviente del género *Ebogotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn & Roisin en 2021; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución según la fuente: Cameroon.
+***Ebogotermes raphaeli*** es la única especie viviente del género *Ebogotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn & Roisin en 2021; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución según la fuente: Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *raphaeli*: En honor de Raphael Awoumou Onana, jefe de la a
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Ebogotermes*]({{ site.base_url }}/es/genus/ebogotermes/) — monotípico, 1 especie
 

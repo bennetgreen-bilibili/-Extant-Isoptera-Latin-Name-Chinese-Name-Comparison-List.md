@@ -20,7 +20,7 @@ back_label: "细颈白蚁属 Baucaliotermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Nasutitermitinae"
     url: "/en/subfamily/nasutitermitinae/"

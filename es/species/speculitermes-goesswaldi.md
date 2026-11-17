@@ -14,7 +14,7 @@ genus_zh: "稀白蚁属"
 genus_latin: "Speculitermes"
 genus_id: "speculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Speculitermes goesswaldi*** es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1964; la localidad tipo es India: Karnataka (Mysore): Dharwar. Distribución según la fuente: South Asia, India.
+***Speculitermes goesswaldi*** es una especie del género *Speculitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1964; la localidad tipo es India: Karnataka (Mysore): Dharwar. Distribución según la fuente: South Asia, India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *goesswaldi*: En honor de Karl Gößwald
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Speculitermes*]({{ site.base_url }}/es/genus/speculitermes/) — 13 especies
 - **Especie tipo del género**: *Speculitermes cyclops*

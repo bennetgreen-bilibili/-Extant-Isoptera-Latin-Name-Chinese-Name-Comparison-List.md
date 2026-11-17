@@ -14,7 +14,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Calcaritermes temnocephalus*** is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribution: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
+***Calcaritermes temnocephalus*** is a species of the genus *Calcaritermes*, in the family Kalotermitidae. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribution: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *temnocephalus*: Greek temnō (cut) + kephalē (head), cut-head
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Calcaritermes*]({{ site.base_url }}/en/genus/calcaritermes/) — 12 species
 - **Type species of the genus**: *Calcaritermes imminens*
 

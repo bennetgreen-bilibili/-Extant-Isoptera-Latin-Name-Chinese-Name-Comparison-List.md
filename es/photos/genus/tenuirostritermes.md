@@ -20,7 +20,7 @@ back_label: "薄嘴白蚁属 Tenuirostritermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Nasutitermitinae"
     url: "/es/subfamily/nasutitermitinae/"

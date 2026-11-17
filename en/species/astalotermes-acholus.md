@@ -14,7 +14,7 @@ genus_zh: "无利器白蚁属"
 genus_latin: "Astalotermes"
 genus_id: "astalotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Astalotermes acholus*** is a species of the genus *Astalotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Democratic Republic of the Congo: Bas-Congo: Mbamba. Distribution: tropical Africa, Cameroon, Democratic Republic of the Congo, Tanzania.
+***Astalotermes acholus*** is a species of the genus *Astalotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Democratic Republic of the Congo: Bas-Congo: Mbamba. Distribution: tropical Africa, Cameroon, Democratic Republic of the Congo, Tanzania.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *acholus*: Greek a- (without) + cholē (bile), pale
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Astalotermes*]({{ site.base_url }}/en/genus/astalotermes/) — 17 species
 - **Type species of the genus**: *Astalotermes concilians*

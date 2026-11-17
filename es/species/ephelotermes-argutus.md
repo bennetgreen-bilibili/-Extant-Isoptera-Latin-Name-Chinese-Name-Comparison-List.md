@@ -14,7 +14,7 @@ genus_zh: "棒颚白蚁属"
 genus_latin: "Ephelotermes"
 genus_id: "ephelotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ephelotermes argutus*** es una especie del género *Ephelotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1929; la localidad tipo es Australia: Victoria: Kewell, 13 km NWN Mortoa. Distribución según la fuente: Australia.
+***Ephelotermes argutus*** es una especie del género *Ephelotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Hill en 1929; la localidad tipo es Australia: Victoria: Kewell, 13 km NWN Mortoa. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *argutus*: Del latín argutus (agudo, claro)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Ephelotermes*]({{ site.base_url }}/es/genus/ephelotermes/) — 6 especies
 - **Especie tipo del género**: *Ephelotermes melachoma*

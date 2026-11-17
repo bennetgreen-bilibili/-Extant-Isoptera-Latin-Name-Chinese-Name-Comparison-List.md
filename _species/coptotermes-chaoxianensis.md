@@ -12,7 +12,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "China: Guangdong Province: Zengeheng County"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**巢县乳白蚁**（*Coptotermes chaoxianensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Huang & Li 于 1985 年描述，模式产地为 China: Anhui Province: Chaoxian County。分布记录包括中国安徽。本种有 1 个次异名。
+**巢县乳白蚁**（*Coptotermes chaoxianensis*）是异白蚁科（Heterotermitidae）乳白蚁属（*Coptotermes*）的一种。本种由 Huang & Li 于 1985 年描述，模式产地为 China: Anhui Province: Chaoxian County。分布记录包括中国安徽。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "China: Guangdong Province: Zengeheng County"
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
 - **本属模式种**：*Coptotermes gestroi*
 

@@ -14,7 +14,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Globitermes vadaensis*** es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Java: Vada, near Tjandjoer. Distribución según la fuente: Southeast Asian islands, Malay Archipelago.
+***Globitermes vadaensis*** es una especie del género *Globitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Java: Vada, near Tjandjoer. Distribución según la fuente: Southeast Asian islands, Malay Archipelago.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *vadaensis*: Por la localidad de Vada (ubicación exacta in
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Globitermes*]({{ site.base_url }}/es/genus/globitermes/) — 7 especies
 - **Especie tipo del género**: *Globitermes globosus*

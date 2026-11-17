@@ -12,7 +12,7 @@ genus_zh: "顺白蚁属"
 genus_latin: "Acholotermes"
 genus_id: "acholotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**体大顺白蚁**（*Acholotermes tithasus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）顺白蚁属（*Acholotermes*）的一种，也是本属的模式种。本种由 Sands 于 1972 年描述，模式产地为 Democratic Republic of the Congo: Yangambi。分布记录包括非洲热带。
+**体大顺白蚁**（*Acholotermes tithasus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）顺白蚁属（*Acholotermes*）的一种，也是本属的模式种。本种由 Sands 于 1972 年描述，模式产地为 Democratic Republic of the Congo: Yangambi。分布记录包括非洲热带。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[顺白蚁属 *Acholotermes*]({{ site.base_url }}/genus/acholotermes/) —— 共 5 种
 

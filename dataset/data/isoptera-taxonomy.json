@@ -63,7 +63,7 @@
   {
    "id": "mastotermitidae",
    "zh": "澳白蚁科",
-   "latin": "MASTOTERMITIDAE",
+   "latin": "Mastotermitidae",
    "cladeId": "isoptera",
    "subfamilies": [],
    "genera": [
@@ -96,7 +96,7 @@
   {
    "id": "archotermopsidae",
    "zh": "古白蚁科",
-   "latin": "ARCHOTERMOPSIDAE",
+   "latin": "Archotermopsidae",
    "cladeId": "teletisoptera",
    "subfamilies": [],
    "genera": [
@@ -201,7 +201,7 @@
   {
    "id": "hodotermitidae",
    "zh": "草白蚁科",
-   "latin": "HODOTERMITIDAE",
+   "latin": "Hodotermitidae",
    "cladeId": "teletisoptera",
    "subfamilies": [],
    "genera": [
@@ -480,7 +480,7 @@
   {
    "id": "hodotermopsidae",
    "zh": "原白蚁科",
-   "latin": "HODOTERMOPSIDAE",
+   "latin": "Hodotermopsidae",
    "cladeId": "teletisoptera",
    "subfamilies": [],
    "genera": [
@@ -513,7 +513,7 @@
   {
    "id": "stolotermitidae",
    "zh": "胄白蚁科",
-   "latin": "STOLOTERMITIDAE",
+   "latin": "Stolotermitidae",
    "cladeId": "teletisoptera",
    "subfamilies": [],
    "genera": [
@@ -658,7 +658,7 @@
   {
    "id": "kalotermitidae",
    "zh": "木白蚁科",
-   "latin": "KALOTERMITIDAE",
+   "latin": "Kalotermitidae",
    "cladeId": "icoisoptera",
    "subfamilies": [],
    "genera": [
@@ -6276,7 +6276,7 @@
   {
    "id": "psammotermitidae",
    "zh": "沙白蚁科",
-   "latin": "PSAMMOTERMITIDAE",
+   "latin": "Psammotermitidae",
    "cladeId": "neoisoptera",
    "subfamilies": [],
    "genera": [
@@ -6509,7 +6509,7 @@
   {
    "id": "rhinotermitidae",
    "zh": "鼻白蚁科",
-   "latin": "RHINOTERMITIDAE",
+   "latin": "Rhinotermitidae",
    "cladeId": "neoisoptera",
    "subfamilies": [],
    "genera": [
@@ -7265,7 +7265,7 @@
   {
    "id": "serritermitidae",
    "zh": "齿白蚁科",
-   "latin": "SERRITERMITIDAE",
+   "latin": "Serritermitidae",
    "cladeId": "neoisoptera",
    "subfamilies": [],
    "genera": [
@@ -7333,7 +7333,7 @@
   {
    "id": "stylotermitidae",
    "zh": "杆白蚁科",
-   "latin": "STYLOTERMITIDAE",
+   "latin": "Stylotermitidae",
    "cladeId": "neoisoptera",
    "subfamilies": [],
    "genera": [
@@ -7850,7 +7850,7 @@
   {
    "id": "termitogetonidae",
    "zh": "寡脉白蚁科",
-   "latin": "TERMITOGETONIDAE",
+   "latin": "Termitogetonidae",
    "cladeId": "neoisoptera",
    "subfamilies": [],
    "genera": [
@@ -7894,7 +7894,7 @@
   {
    "id": "heterotermitidae",
    "zh": "异白蚁科",
-   "latin": "HETEROTERMITIDAE",
+   "latin": "Heterotermitidae",
    "cladeId": "geoisoptera",
    "subfamilies": [],
    "genera": [
@@ -10520,7 +10520,7 @@
   {
    "id": "termitidae",
    "zh": "白蚁科",
-   "latin": "TERMITIDAE",
+   "latin": "Termitidae",
    "cladeId": "geoisoptera",
    "subfamilies": [
     {

@@ -20,7 +20,7 @@ back_label: "刺白蚁属 Acanthotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Macrotermitinae"
     url: "/es/subfamily/macrotermitinae/"

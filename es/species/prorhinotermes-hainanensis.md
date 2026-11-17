@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Prorhinotermes hainanensis*** es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Ping & Xu en 1989; la localidad tipo es China: Hainan Island: Ya. Distribución según la fuente: China, Hainan.
+***Prorhinotermes hainanensis*** es una especie del género *Prorhinotermes*, en la familia Psammotermitidae. La especie fue descrita por Ping & Xu en 1989; la localidad tipo es China: Hainan Island: Ya. Distribución según la fuente: China, Hainan.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *hainanensis*: Por Hainan (China)
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Prorhinotermes*]({{ site.base_url }}/es/genus/prorhinotermes/) — 12 especies
 - **Especie tipo del género**: *Prorhinotermes inopinatus*
 

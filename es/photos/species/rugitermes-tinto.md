@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Rugitermes_tinto_%28
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
   - name: "Rugitermes"
     url: "/es/genus/rugitermes/"

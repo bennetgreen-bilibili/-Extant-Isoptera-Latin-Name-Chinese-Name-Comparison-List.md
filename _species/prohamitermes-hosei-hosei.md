@@ -12,7 +12,7 @@ genus_zh: "前钩白蚁属"
 genus_latin: "Prohamitermes"
 genus_id: "prohamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -30,7 +30,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Prohamitermes hosei hosei*）是霍斯前钩白蚁（*Prohamitermes hosei*）的一个亚种，隶属白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）前钩白蚁属（*Prohamitermes*）。本亚种由 Desneux 于 1906 年描述，模式产地为 Malaysia: Sarawak。本页暂无单列的分布记录，母种 *Prohamitermes hosei* 的分布见下文「分布」一节。
+**指名亚种**（*Prohamitermes hosei hosei*）是霍斯前钩白蚁（*Prohamitermes hosei*）的一个亚种，隶属白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）前钩白蚁属（*Prohamitermes*）。本亚种由 Desneux 于 1906 年描述，模式产地为 Malaysia: Sarawak。本页暂无单列的分布记录，母种 *Prohamitermes hosei* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -42,7 +42,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[前钩白蚁属 *Prohamitermes*]({{ site.base_url }}/genus/prohamitermes/) —— 共 2 种
 - **种**：[霍斯前钩白蚁 *Prohamitermes hosei*]({{ site.base_url }}/species/prohamitermes-hosei/)

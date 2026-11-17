@@ -14,7 +14,7 @@ genus_zh: "瘤突白蚁属"
 genus_latin: "Ekphysotermes"
 genus_id: "ekphysotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ekphysotermes kalgoorliensis*** is a species and the type species of the genus *Ekphysotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Hill in 1942; the type locality is Australia: Western Australia: Kalgoorlie. Distribution: Australia.
+***Ekphysotermes kalgoorliensis*** is a species and the type species of the genus *Ekphysotermes*, in the family Termitidae (subfamily Termitinae). The species was described by Hill in 1942; the type locality is Australia: Western Australia: Kalgoorlie. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *kalgoorliensis*: Named after the locality Kalgoorl
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Ekphysotermes*]({{ site.base_url }}/en/genus/ekphysotermes/) — 5 species
 

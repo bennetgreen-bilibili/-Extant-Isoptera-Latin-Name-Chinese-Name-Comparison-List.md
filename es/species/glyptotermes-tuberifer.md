@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Glyptotermes tuberifer*** es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna & Emerson en 1962; la localidad tipo es Saint Vincent & Grenadines: Sandy Bay. Distribución según la fuente: Caribbean, Guatemala.
+***Glyptotermes tuberifer*** es una especie del género *Glyptotermes*, en la familia Kalotermitidae. La especie fue descrita por Krishna & Emerson en 1962; la localidad tipo es Saint Vincent & Grenadines: Sandy Bay. Distribución según la fuente: Caribbean, Guatemala.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *tuberifer*: De tuberi (tubérculo) + fer (portador)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Glyptotermes*]({{ site.base_url }}/es/genus/glyptotermes/) — 131 especies
 - **Especie tipo del género**: *Glyptotermes tuberculatus*
 

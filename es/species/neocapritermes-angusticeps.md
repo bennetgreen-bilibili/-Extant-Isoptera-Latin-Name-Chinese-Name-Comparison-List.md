@@ -14,7 +14,7 @@ genus_zh: "新扭白蚁属"
 genus_latin: "Neocapritermes"
 genus_id: "neocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neocapritermes angusticeps*** es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución según la fuente: Brazil, French Guiana, Guyana, Suriname, Trinidad and Tobago, Venezuela.
+***Neocapritermes angusticeps*** es una especie del género *Neocapritermes*, en la familia Termitidae (subfamilia Neocapritermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución según la fuente: Brazil, French Guiana, Guyana, Suriname, Trinidad and Tobago, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *angusticeps*: De angusti (estrecho) + ceps (cabeza)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Neocapritermitinae]({{ site.base_url }}/es/subfamily/neocapritermitinae/) — 3 géneros, 20 especies
 - **Género**: [*Neocapritermes*]({{ site.base_url }}/es/genus/neocapritermes/) — 17 especies
 - **Especie tipo del género**: *Neocapritermes opacus*

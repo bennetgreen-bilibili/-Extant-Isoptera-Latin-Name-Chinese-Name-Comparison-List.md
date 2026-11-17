@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/607990528/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "澳白蚁科 MASTOTERMITIDAE"
+  - name: "澳白蚁科 Mastotermitidae"
     url: "/family/mastotermitidae/"
   - name: "澳白蚁属 Mastotermes"
     url: "/genus/mastotermes/"

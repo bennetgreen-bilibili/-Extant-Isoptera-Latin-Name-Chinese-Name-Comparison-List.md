@@ -14,7 +14,7 @@ genus_zh: "奥卡万戈白蚁属"
 genus_latin: "Okavangotermes"
 genus_id: "okavangotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Okavangotermes guineensis*** es una especie del género *Okavangotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Ghana: 3 miles from Larabanga on Sawala road. Distribución según la fuente: Ghana.
+***Okavangotermes guineensis*** es una especie del género *Okavangotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Ghana: 3 miles from Larabanga on Sawala road. Distribución según la fuente: Ghana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *guineensis*: Por Guinea
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Okavangotermes*]({{ site.base_url }}/es/genus/okavangotermes/) — 2 especies
 - **Especie tipo del género**: *Okavangotermes giessi*

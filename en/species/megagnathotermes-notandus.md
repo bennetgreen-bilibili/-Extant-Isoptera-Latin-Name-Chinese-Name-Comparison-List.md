@@ -14,7 +14,7 @@ genus_zh: "大颚白蚁属"
 genus_latin: "Megagnathotermes"
 genus_id: "megagnathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Megagnathotermes notandus*** is the only extant species of the genus *Megagnathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Mamou. Distribution: West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sierra Leone.
+***Megagnathotermes notandus*** is the only extant species of the genus *Megagnathotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Mamou. Distribution: West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sierra Leone.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *notandus*: From the descriptive term 'not' (back)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Megagnathotermes*]({{ site.base_url }}/en/genus/megagnathotermes/) — monotypic, 1 species
 

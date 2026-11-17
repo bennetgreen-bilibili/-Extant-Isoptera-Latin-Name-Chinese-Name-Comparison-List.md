@@ -12,7 +12,7 @@ genus_zh: "罗伊辛白蚁属"
 genus_latin: "Roisinitermes"
 genus_id: "roisinitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**埃博戈罗伊辛白蚁**（*Roisinitermes ebogoensis*）是木白蚁科（KALOTERMITIDAE）罗伊辛白蚁属（*Roisinitermes*）的现存唯一种。本种由 Scheffrahn 于 2018 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
+**埃博戈罗伊辛白蚁**（*Roisinitermes ebogoensis*）是木白蚁科（Kalotermitidae）罗伊辛白蚁属（*Roisinitermes*）的现存唯一种。本种由 Scheffrahn 于 2018 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[罗伊辛白蚁属 *Roisinitermes*]({{ site.base_url }}/genus/roisinitermes/) —— 单型属，仅含 1 种
 
 ## 分布

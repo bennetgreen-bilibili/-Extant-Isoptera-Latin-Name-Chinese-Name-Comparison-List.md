@@ -14,7 +14,7 @@ genus_zh: "倒钩白蚁属"
 genus_latin: "Onkotermes"
 genus_id: "onkotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Onkotermes corochus*** es una especie del género *Onkotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Torales & Fontes en 2008; la localidad tipo es Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]. Distribución según la fuente: Argentina, Paraguay.
+***Onkotermes corochus*** es una especie del género *Onkotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Torales & Fontes en 2008; la localidad tipo es Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]. Distribución según la fuente: Argentina, Paraguay.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *corochus*: Etimología incierta; probablemente de una leng
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Onkotermes*]({{ site.base_url }}/es/genus/onkotermes/) — 2 especies
 - **Especie tipo del género**: *Onkotermes brevicorniger*

@@ -12,7 +12,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**爱琴散白蚁**（*Reticulitermes aegeus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Ghesini & Marini 于 2015 年描述，模式产地为 Cyprus: Kakopetria。分布记录包括东地中海、克罗地亚、希腊、土耳其、塞浦路斯。
+**爱琴散白蚁**（*Reticulitermes aegeus*）是异白蚁科（Heterotermitidae）散白蚁属（*Reticulitermes*）的一种。本种由 Ghesini & Marini 于 2015 年描述，模式产地为 Cyprus: Kakopetria。分布记录包括东地中海、克罗地亚、希腊、土耳其、塞浦路斯。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种
 - **本属模式种**：*Reticulitermes flavipes*
 

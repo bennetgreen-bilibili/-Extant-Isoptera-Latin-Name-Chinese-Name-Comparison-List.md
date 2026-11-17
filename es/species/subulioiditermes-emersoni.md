@@ -14,7 +14,7 @@ genus_zh: "似锥白蚁属"
 genus_latin: "Subulioiditermes"
 genus_id: "subulioiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Subulioiditermes emersoni*** es una especie del género *Subulioiditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Malaysia.
+***Subulioiditermes emersoni*** es una especie del género *Subulioiditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *emersoni*: En honor del taxónomo de termitas A. E. Emerso
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Subulioiditermes*]({{ site.base_url }}/es/genus/subulioiditermes/) — 3 especies
 - **Especie tipo del género**: *Subulioiditermes subulioides*

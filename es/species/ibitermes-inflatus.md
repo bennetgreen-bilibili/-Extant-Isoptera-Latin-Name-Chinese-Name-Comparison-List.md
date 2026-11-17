@@ -14,7 +14,7 @@ genus_zh: "地球白蚁属"
 genus_latin: "Ibitermes"
 genus_id: "ibitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ibitermes inflatus*** es una especie y la especie tipo del género *Ibitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Vasconcellos en 2002; la localidad tipo es Brasil: Paraíba: Reserva Biológica Guaribas \[6.8S 35.095W\]. Distribución según la fuente: Brazil.
+***Ibitermes inflatus*** es una especie y la especie tipo del género *Ibitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Vasconcellos en 2002; la localidad tipo es Brasil: Paraíba: Reserva Biológica Guaribas \[6.8S 35.095W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *inflatus*: De infl (inflado) + atus (provisto de)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Ibitermes*]({{ site.base_url }}/es/genus/ibitermes/) — 2 especies
 

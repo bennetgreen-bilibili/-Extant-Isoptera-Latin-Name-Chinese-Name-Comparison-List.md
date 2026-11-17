@@ -158,7 +158,10 @@ def read_json(path: Path):
 
 
 def title_case_family(latin: str) -> str:
-    """数据里的科名是全大写（MASTOTERMITIDAE），Darwin Core 里要写成 Mastotermitidae。"""
+    """Darwin Core 的科名写成 Mastotermitidae（首字母大写）。
+
+    站点数据现在本身就是这个写法；这里保留兜底，兼容早期全大写（MASTOTERMITIDAE）的输入。
+    """
     latin = latin.strip()
     if not latin:
         return ""

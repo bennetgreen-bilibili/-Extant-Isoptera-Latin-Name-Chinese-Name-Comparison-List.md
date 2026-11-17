@@ -14,7 +14,7 @@ genus_zh: "扭白蚁属"
 genus_latin: "Capritermes"
 genus_id: "capritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Capritermes capricornis*** is the only extant species of the genus *Capritermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Wasmann in 1893; the type locality is Madagascar: Andrangoloaka. Distribution: Côte d'Ivoire, Madagascar.
+***Capritermes capricornis*** is the only extant species of the genus *Capritermes*, in the family Termitidae (subfamily Termitinae). The species was described by Wasmann in 1893; the type locality is Madagascar: Andrangoloaka. Distribution: Côte d'Ivoire, Madagascar.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *capricornis*: Latin caper (goat) + cornu (horn), goat-horned
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Capritermes*]({{ site.base_url }}/en/genus/capritermes/) — monotypic, 1 species
 

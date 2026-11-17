@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coptotermes gestroi*** es una especie y la especie tipo del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Bhamo. Distribución según la fuente: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. Este sitio registra 10 sinónimos junior para la especie.
+***Coptotermes gestroi*** es una especie y la especie tipo del género *Coptotermes*, en la familia Heterotermitidae. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Bhamo. Distribución según la fuente: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. Este sitio registra 10 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *gestroi*: En honor de R. Gestro (entomólogo italiano)
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
 
 ## Distribución

@@ -14,7 +14,7 @@ genus_zh: "巨鼻白蚁属"
 genus_latin: "Cyranotermes"
 genus_id: "cyranotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cyranotermes karipuna*** es una especie del género *Cyranotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Rocha, Carrijo & Cancello en 2012; la localidad tipo es Brasil: Rondônia: Porto Velho, Jaci Paraná \[8.76194S 63.9039W\]. Distribución según la fuente: Brazil.
+***Cyranotermes karipuna*** es una especie del género *Cyranotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Rocha, Carrijo & Cancello en 2012; la localidad tipo es Brasil: Rondônia: Porto Velho, Jaci Paraná \[8.76194S 63.9039W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *karipuna*: Por el pueblo karipuna (Brasil)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Cyranotermes*]({{ site.base_url }}/es/genus/cyranotermes/) — 4 especies
 - **Especie tipo del género**: *Cyranotermes timuassu*

@@ -20,6 +20,6 @@ back_label: "楹白蚁属 Incisitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
 ---

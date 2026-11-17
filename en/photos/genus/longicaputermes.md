@@ -20,6 +20,6 @@ back_label: "头长白蚁属 Longicaputermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
 ---

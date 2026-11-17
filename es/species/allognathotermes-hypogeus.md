@@ -14,7 +14,7 @@ genus_zh: "异颚白蚁属"
 genus_latin: "Allognathotermes"
 genus_id: "allognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Allognathotermes hypogeus*** es una especie y la especie tipo del género *Allognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kakoulima. Distribución según la fuente: West Africa, Cameroon.
+***Allognathotermes hypogeus*** es una especie y la especie tipo del género *Allognathotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kakoulima. Distribución según la fuente: West Africa, Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hypogeus*: Del griego hypo (debajo) + gē (tierra), subter
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Allognathotermes*]({{ site.base_url }}/es/genus/allognathotermes/) — 3 especies
 

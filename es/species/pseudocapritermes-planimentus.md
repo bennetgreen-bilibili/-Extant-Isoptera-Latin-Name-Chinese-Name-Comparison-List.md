@@ -14,7 +14,7 @@ genus_zh: "伪扭白蚁属"
 genus_latin: "Pseudocapritermes"
 genus_id: "pseudocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pseudocapritermes planimentus*** es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Yang, Zhu & Huang en 1992; la localidad tipo es China: Yunnan Province: Jianshei County. Distribución según la fuente: Yunnan (Jianshui1450 m), China.
+***Pseudocapritermes planimentus*** es una especie del género *Pseudocapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Yang, Zhu & Huang en 1992; la localidad tipo es China: Yunnan Province: Jianshei County. Distribución según la fuente: Yunnan (Jianshui1450 m), China.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *planimentus*: Del latín planus (plano) + mentum (mentón)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pseudocapritermes*]({{ site.base_url }}/es/genus/pseudocapritermes/) — 19 especies
 - **Especie tipo del género**: *Pseudocapritermes silvaticus*

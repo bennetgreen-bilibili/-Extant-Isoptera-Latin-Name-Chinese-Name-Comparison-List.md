@@ -12,7 +12,7 @@ genus_zh: "缩狭白蚁属"
 genus_latin: "Coarctotermes"
 genus_id: "coarctotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**贝哈拉缩狭白蚁**（*Coarctotermes beharaensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）缩狭白蚁属（*Coarctotermes*）的一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: Behara。分布记录包括马达加斯加。
+**贝哈拉缩狭白蚁**（*Coarctotermes beharaensis*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）缩狭白蚁属（*Coarctotermes*）的一种。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: Behara。分布记录包括马达加斯加。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[缩狭白蚁属 *Coarctotermes*]({{ site.base_url }}/genus/coarctotermes/) —— 共 4 种
 - **本属模式种**：*Coarctotermes clepsydra*

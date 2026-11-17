@@ -14,7 +14,7 @@ genus_zh: "平白蚁属"
 genus_latin: "Homallotermes"
 genus_id: "homallotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Homallotermes pilosus*** es una especie del género *Homallotermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Mathur & Thapa en 1962; la localidad tipo es India: Tamil Nadu: Madras: Topslip. Distribución según la fuente: India.
+***Homallotermes pilosus*** es una especie del género *Homallotermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Mathur & Thapa en 1962; la localidad tipo es India: Tamil Nadu: Madras: Topslip. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *pilosus*: Del latín pilosus (peludo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Homallotermes*]({{ site.base_url }}/es/genus/homallotermes/) — 4 especies
 - **Especie tipo del género**: *Homallotermes foraminifer*

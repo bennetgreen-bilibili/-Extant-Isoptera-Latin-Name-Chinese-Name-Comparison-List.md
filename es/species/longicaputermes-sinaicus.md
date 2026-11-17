@@ -14,7 +14,7 @@ genus_zh: "头长白蚁属"
 genus_latin: "Longicaputermes"
 genus_id: "longicaputermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Longicaputermes sinaicus*** es la única especie viviente del género *Longicaputermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Kemner en 1932; la localidad tipo es Egypt: Sinai Peninsula: Gabr. Amir. Distribución según la fuente: Sinai Peninsula, Egypt, Israel.
+***Longicaputermes sinaicus*** es la única especie viviente del género *Longicaputermes*, en la familia Kalotermitidae. La especie fue descrita por Kemner en 1932; la localidad tipo es Egypt: Sinai Peninsula: Gabr. Amir. Distribución según la fuente: Sinai Peninsula, Egypt, Israel.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *sinaicus*: Por Sinaí (península, Egipto)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Longicaputermes*]({{ site.base_url }}/es/genus/longicaputermes/) — monotípico, 1 especie
 
 ## Distribución

@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Roisinitermes_ebogoe
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
   - name: "Roisinitermes"
     url: "/en/genus/roisinitermes/"

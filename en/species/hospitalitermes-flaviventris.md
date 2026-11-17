@@ -14,7 +14,7 @@ genus_zh: "须白蚁属"
 genus_latin: "Hospitalitermes"
 genus_id: "hospitalitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Hospitalitermes flaviventris*** is a species of the genus *Hospitalitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Wasmann in 1902; the type locality is Malaysia: Negeri Sembilan: Berhentian Tingi. Distribution: Indonesia, Malaysia.
+***Hospitalitermes flaviventris*** is a species of the genus *Hospitalitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Wasmann in 1902; the type locality is Malaysia: Negeri Sembilan: Berhentian Tingi. Distribution: Indonesia, Malaysia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *flaviventris*: From the descriptive term 'flav' (yellow)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Hospitalitermes*]({{ site.base_url }}/en/genus/hospitalitermes/) — 37 species
 - **Type species of the genus**: *Hospitalitermes hospitalis*

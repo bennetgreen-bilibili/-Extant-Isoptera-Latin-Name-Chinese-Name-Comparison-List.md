@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: "HETEROTERMITIDAE 异白蚁科 — all photos (601, 23 species)"
-description: "Freely licensed photos of the 23 species in the family HETEROTERMITIDAE (异白蚁科), 601 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
+title: "Heterotermitidae 异白蚁科 — all photos (601, 23 species)"
+description: "Freely licensed photos of the 23 species in the family Heterotermitidae (异白蚁科), 601 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
 lang: en
 single_lang: true
 author: 班奈特格林
@@ -11,12 +11,12 @@ permalink: "/en/family/heterotermitidae/photos/"
 sitemap: true
 photo_kind: family
 photo_id: "heterotermitidae"
-photo_latin: "HETEROTERMITIDAE"
+photo_latin: "Heterotermitidae"
 photo_zh: "异白蚁科"
 photo_count: 601
 photo_species: 23
 back_url: "/family/heterotermitidae/"
-back_label: "异白蚁科 HETEROTERMITIDAE"
+back_label: "异白蚁科 Heterotermitidae"
 breadcrumb:
   - name: "List"
     url: "/en/list/"

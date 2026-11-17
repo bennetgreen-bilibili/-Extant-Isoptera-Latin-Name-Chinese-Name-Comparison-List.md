@@ -14,7 +14,7 @@ genus_zh: "凯姆勒白蚁属"
 genus_latin: "Kemneritermes"
 genus_id: "kemneritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Kemneritermes sarawakensis*** es la única especie viviente del género *Kemneritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad & Akhtar en 1981; la localidad tipo es Malaysia: Sarawak: Sabal Tapang. Distribución según la fuente: Borneo.
+***Kemneritermes sarawakensis*** es la única especie viviente del género *Kemneritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad & Akhtar en 1981; la localidad tipo es Malaysia: Sarawak: Sabal Tapang. Distribución según la fuente: Borneo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *sarawakensis*: Por la localidad de Sarawak
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Kemneritermes*]({{ site.base_url }}/es/genus/kemneritermes/) — monotípico, 1 especie
 

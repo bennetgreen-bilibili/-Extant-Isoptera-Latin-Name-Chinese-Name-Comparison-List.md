@@ -14,7 +14,7 @@ genus_zh: "小真白蚁属"
 genus_latin: "Eutermellus"
 genus_id: "eutermellus"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eutermellus undulans*** es una especie del género *Eutermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1965; la localidad tipo es Ghana: 25 mi north of Wenchi on Bamboi Road. Distribución según la fuente: West Africa, Gambia.
+***Eutermellus undulans*** es una especie del género *Eutermellus*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1965; la localidad tipo es Ghana: 25 mi north of Wenchi on Bamboi Road. Distribución según la fuente: West Africa, Gambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *undulans*: Del latín undulans (ondulante)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Eutermellus*]({{ site.base_url }}/es/genus/eutermellus/) — 5 especies
 - **Especie tipo del género**: *Eutermellus convergens*

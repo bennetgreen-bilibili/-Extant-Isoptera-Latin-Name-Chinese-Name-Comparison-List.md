@@ -14,7 +14,7 @@ genus_zh: "漏斗白蚁属"
 genus_latin: "Acangaobitermes"
 genus_id: "acangaobitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Acangaobitermes krishnai*** es la única especie viviente del género *Acangaobitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rocha, Cancello & Cuezzo en 2011; la localidad tipo es Brasil: Goiás: Parque Nacional das Emas \[18.1S 52.91W\]. Distribución según la fuente: Brazil.
+***Acangaobitermes krishnai*** es la única especie viviente del género *Acangaobitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Rocha, Cancello & Cuezzo en 2011; la localidad tipo es Brasil: Goiás: Parque Nacional das Emas \[18.1S 52.91W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Acangaobitermes*]({{ site.base_url }}/es/genus/acangaobitermes/) — monotípico, 1 especie
 

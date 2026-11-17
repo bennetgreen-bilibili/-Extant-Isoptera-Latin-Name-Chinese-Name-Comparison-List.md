@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Mexico: Colima State: Colima; Colima State: Jala; Colima St
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heterotermes convexinotatus*** es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Colón. Distribución según la fuente: Caribbean, Puerto Rico, Antigua and Barbuda, Barbados, Mexico, South America, Brazil, Colombia, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Panama. Este sitio registra 2 sinónimos junior para la especie.
+***Heterotermes convexinotatus*** es una especie del género *Heterotermes*, en la familia Heterotermitidae. La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Colón. Distribución según la fuente: Caribbean, Puerto Rico, Antigua and Barbuda, Barbados, Mexico, South America, Brazil, Colombia, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Panama. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *convexinotatus*: De convexinot (convexo) + atus (que posee
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Heterotermes*]({{ site.base_url }}/es/genus/heterotermes/) — 31 especies
 - **Especie tipo del género**: *Heterotermes platycephalus*
 

@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes rotundiceps*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn & Krecek in 1999; the type locality is Dominican Republic: La Romana Province, 4 km N Guyamate. Distribution: Caribbean, Dominican Republic, Puerto Rico.
+***Cryptotermes rotundiceps*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Scheffrahn & Krecek in 1999; the type locality is Dominican Republic: La Romana Province, 4 km N Guyamate. Distribution: Caribbean, Dominican Republic, Puerto Rico.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *rotundiceps*: Latin rotundus (round) + -ceps (head), round-hea
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

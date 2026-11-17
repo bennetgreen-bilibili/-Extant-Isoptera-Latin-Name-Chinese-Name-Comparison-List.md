@@ -14,7 +14,7 @@ genus_zh: "海德瑞克白蚁属"
 genus_latin: "Hydrecotermes"
 genus_id: "hydrecotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hydrecotermes arienesho*** es una especie y la especie tipo del género *Hydrecotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución según la fuente: Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago.
+***Hydrecotermes arienesho*** es una especie y la especie tipo del género *Hydrecotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución según la fuente: Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *arienesho*: Por una localidad de la Guayana Francesa
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Hydrecotermes*]({{ site.base_url }}/es/genus/hydrecotermes/) — 2 especies
 

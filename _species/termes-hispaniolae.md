@@ -12,7 +12,7 @@ genus_zh: "白蚁属"
 genus_latin: "Termes"
 genus_id: "termes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**伊斯帕尼奥拉白蚁**（*Termes hispaniolae*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Haiti: ?; Panama: ?。分布记录包括新热带界、中美洲及加勒比、南美北部广泛分布、伯利兹、玻利维亚、巴西、开曼群岛、哥伦比亚、哥斯达黎加、古巴、多米尼加共和国、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、墨西哥、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拿马、波多黎各、圣基茨和尼维斯、安圭拉、圣卢西亚、特立尼达和多巴哥、委内瑞拉、美属维尔京群岛。另有记录显示其已引入巴哈马。
+**伊斯帕尼奥拉白蚁**（*Termes hispaniolae*）是白蚁科（Termitidae）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Haiti: ?; Panama: ?。分布记录包括新热带界、中美洲及加勒比、南美北部广泛分布、伯利兹、玻利维亚、巴西、开曼群岛、哥伦比亚、哥斯达黎加、古巴、多米尼加共和国、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、墨西哥、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拿马、波多黎各、圣基茨和尼维斯、安圭拉、圣卢西亚、特立尼达和多巴哥、委内瑞拉、美属维尔京群岛。另有记录显示其已引入巴哈马。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[白蚁属 *Termes*]({{ site.base_url }}/genus/termes/) —— 共 27 种
 - **本属模式种**：*Termes fatalis*

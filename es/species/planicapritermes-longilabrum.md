@@ -14,7 +14,7 @@ genus_zh: "平扭白蚁属"
 genus_latin: "Planicapritermes"
 genus_id: "planicapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Planicapritermes longilabrum*** es una especie del género *Planicapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Constantino en 1998; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución según la fuente: Brazil.
+***Planicapritermes longilabrum*** es una especie del género *Planicapritermes*, en la familia Termitidae (subfamilia Neocapritermitinae). La especie fue descrita por Constantino en 1998; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *longilabrum*: Del término descriptivo «long» (largo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Neocapritermitinae]({{ site.base_url }}/es/subfamily/neocapritermitinae/) — 3 géneros, 20 especies
 - **Género**: [*Planicapritermes*]({{ site.base_url }}/es/genus/planicapritermes/) — 2 especies
 - **Especie tipo del género**: *Planicapritermes planiceps*

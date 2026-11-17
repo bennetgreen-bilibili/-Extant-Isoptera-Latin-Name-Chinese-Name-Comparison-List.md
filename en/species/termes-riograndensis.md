@@ -14,7 +14,7 @@ genus_zh: "白蚁属"
 genus_latin: "Termes"
 genus_id: "termes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Rio Grande do Sul: São Leopoldo [29.7603S 51.1472W
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Termes riograndensis*** is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Jhering in 1887; the type locality is Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]. Distribution: Argentina, Brazil, Paraguay, Uruguay. This site records 1 junior synonym for the species.
+***Termes riograndensis*** is a species of the genus *Termes*, in the family Termitidae (subfamily Termitinae). The species was described by Jhering in 1887; the type locality is Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River \[31.285S 51.752W\]. Distribution: Argentina, Brazil, Paraguay, Uruguay. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *riograndensis*: Named after the locality Riogrand
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Termes*]({{ site.base_url }}/en/genus/termes/) — 27 species
 - **Type species of the genus**: *Termes fatalis*

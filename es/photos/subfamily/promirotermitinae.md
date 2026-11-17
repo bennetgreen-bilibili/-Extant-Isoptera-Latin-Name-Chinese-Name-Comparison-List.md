@@ -20,6 +20,6 @@ back_label: "前奇白蚁亚科 Promirotermitinae"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
 ---

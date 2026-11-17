@@ -14,7 +14,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Calcaritermes imminens*** is a species and the type species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1925; the type locality is Colombia: Magdalena: Cincinnati (plantation) \[ 11.1N 74.0833W \]. Distribution: Colombia.
+***Calcaritermes imminens*** is a species and the type species of the genus *Calcaritermes*, in the family Kalotermitidae. The species was described by Snyder in 1925; the type locality is Colombia: Magdalena: Cincinnati (plantation) \[ 11.1N 74.0833W \]. Distribution: Colombia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *imminens*: Latin imminens (imminent)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Calcaritermes*]({{ site.base_url }}/en/genus/calcaritermes/) — 12 species
 
 ## Distribution

@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Sao Tome and Principe: Roça Infante D. Henrique; Democrati
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes elegantulus*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Cameroon: Victoria. Distribución según la fuente: Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda. Este sitio registra 3 sinónimos junior para la especie.
+***Nasutitermes elegantulus*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Cameroon: Victoria. Distribución según la fuente: Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *elegantulus*: Del latín elegantulus (bastante elegante)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

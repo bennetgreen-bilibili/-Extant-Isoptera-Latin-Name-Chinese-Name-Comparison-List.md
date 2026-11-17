@@ -14,7 +14,7 @@ genus_zh: "西部白蚁属"
 genus_latin: "Occasitermes"
 genus_id: "occasitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Occasitermes watsoni*** es una especie del género *Occasitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gay en 1974; la localidad tipo es Australia: New South Wales: 12 km W by N Temora. Distribución según la fuente: Australia.
+***Occasitermes watsoni*** es una especie del género *Occasitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Gay en 1974; la localidad tipo es Australia: New South Wales: 12 km W by N Temora. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *watsoni*: En honor de J.A.L. Watson
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Occasitermes*]({{ site.base_url }}/es/genus/occasitermes/) — 2 especies
 - **Especie tipo del género**: *Occasitermes occasus*

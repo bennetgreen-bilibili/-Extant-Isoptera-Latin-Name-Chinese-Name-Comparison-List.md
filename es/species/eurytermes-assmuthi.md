@@ -14,7 +14,7 @@ genus_zh: "宽白蚁属"
 genus_latin: "Eurytermes"
 genus_id: "eurytermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eurytermes assmuthi*** es una especie y la especie tipo del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. Distribución según la fuente: South Asia, India.
+***Eurytermes assmuthi*** es una especie y la especie tipo del género *Eurytermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. Distribución según la fuente: South Asia, India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *assmuthi*: En honor de Assmuth
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Eurytermes*]({{ site.base_url }}/es/genus/eurytermes/) — 6 especies
 

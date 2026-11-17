@@ -14,7 +14,7 @@ genus_zh: "狭鼻白蚁属"
 genus_latin: "Dolichorhinotermes"
 genus_id: "dolichorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Dolichorhinotermes longidens*** is a species of the genus *Dolichorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Snyder in 1924; the type locality is Panama: Rio Chinilla. Distribution: Panama, Colombia.
+***Dolichorhinotermes longidens*** is a species of the genus *Dolichorhinotermes*, in the family Rhinotermitidae. The species was described by Snyder in 1924; the type locality is Panama: Rio Chinilla. Distribution: Panama, Colombia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *longidens*: From the descriptive term 'long' (long)
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Dolichorhinotermes*]({{ site.base_url }}/en/genus/dolichorhinotermes/) — 7 species
 - **Type species of the genus**: *Dolichorhinotermes longilabius*
 

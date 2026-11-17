@@ -14,7 +14,7 @@ genus_zh: "多刺白蚁属"
 genus_latin: "Echinotermes"
 genus_id: "echinotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Echinotermes biriba*** is the only extant species of the genus *Echinotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Castro & Scheffrahn in 2020; the type locality is Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribution: South America, Colombia, Peru.
+***Echinotermes biriba*** is the only extant species of the genus *Echinotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Castro & Scheffrahn in 2020; the type locality is Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribution: South America, Colombia, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *biriba*: Tupi vernacular name biriba (a tree/fruit)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Echinotermes*]({{ site.base_url }}/en/genus/echinotermes/) — monotypic, 1 species
 

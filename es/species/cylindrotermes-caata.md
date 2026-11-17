@@ -14,7 +14,7 @@ genus_zh: "圆筒白蚁属"
 genus_latin: "Cylindrotermes"
 genus_id: "cylindrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆筒白蚁亚科"
 subfamily_latin: "Cylindrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cylindrotermes caata*** es una especie del género *Cylindrotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Rocha & Cancello en 2007; la localidad tipo es Brasil: São Paulo: Luis Antônio, Reserva Jatai \[ 21.555S 47.7044W \]. Distribución según la fuente: Neotropics.
+***Cylindrotermes caata*** es una especie del género *Cylindrotermes*, en la familia Termitidae (subfamilia Cylindrotermitinae). La especie fue descrita por Rocha & Cancello en 2007; la localidad tipo es Brasil: São Paulo: Luis Antônio, Reserva Jatai \[ 21.555S 47.7044W \]. Distribución según la fuente: Neotropics.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *caata*: Del tupí «kaʼa» (bosque, hoja)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cylindrotermitinae]({{ site.base_url }}/es/subfamily/cylindrotermitinae/) — 2 géneros, 9 especies
 - **Género**: [*Cylindrotermes*]({{ site.base_url }}/es/genus/cylindrotermes/) — 8 especies
 - **Especie tipo del género**: *Cylindrotermes nordenskioldi*

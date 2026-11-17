@@ -14,7 +14,7 @@ genus_zh: "洞白蚁属"
 genus_latin: "Porotermes"
 genus_id: "porotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Victoria: Cape Otway; Australia: Tasmania"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Porotermes adamsoni*** is a species of the genus *Porotermes*, in the family STOLOTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Uralla. Distribution: Australia; introduced: New Zealand. This site records 2 junior synonyms for the species.
+***Porotermes adamsoni*** is a species of the genus *Porotermes*, in the family Stolotermitidae. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Uralla. Distribution: Australia; introduced: New Zealand. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *adamsoni*: Named after Adamson
 
 ## Taxonomic position
 
-- **Family**: [STOLOTERMITIDAE]({{ site.base_url }}/en/family/stolotermitidae/) — 2 genera, 10 species
+- **Family**: [Stolotermitidae]({{ site.base_url }}/en/family/stolotermitidae/) — 2 genera, 10 species
 - **Genus**: [*Porotermes*]({{ site.base_url }}/en/genus/porotermes/) — 3 species
 - **Type species of the genus**: *Porotermes quadricollis*
 

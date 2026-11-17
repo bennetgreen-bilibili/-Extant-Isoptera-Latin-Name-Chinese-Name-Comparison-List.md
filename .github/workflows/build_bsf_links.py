@@ -775,7 +775,7 @@ def template_rows() -> list[dict]:
         {
             "latin": "Coptotermes formosanus",
             "zh": "台湾乳白蚁",
-            "family_latin": "HETEROTERMITIDAE",
+            "family_latin": "Heterotermitidae",
             "family_zh": "异白蚁科",
             "bsf_status": "valid",
             "bsf_label": "Coptotermes formosanus Shiraki, 1909",
@@ -790,7 +790,7 @@ def template_rows() -> list[dict]:
         {
             "latin": "Mastotermes darwiniensis",
             "zh": "达尔文澳白蚁",
-            "family_latin": "MASTOTERMITIDAE",
+            "family_latin": "Mastotermitidae",
             "family_zh": "澳白蚁科",
             "bsf_status": "valid",
             "bsf_label": "Mastotermes darwiniensis Froggatt, 1897",

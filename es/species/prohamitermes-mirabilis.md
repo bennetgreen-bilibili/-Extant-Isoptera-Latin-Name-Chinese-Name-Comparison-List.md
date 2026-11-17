@@ -14,7 +14,7 @@ genus_zh: "前钩白蚁属"
 genus_latin: "Prohamitermes"
 genus_id: "prohamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Prohamitermes mirabilis*** es una especie y la especie tipo del género *Prohamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Mt. Lambir; Singapore: ?. Distribución según la fuente: Malaysia, Borneo, Singapore, Indonesia.
+***Prohamitermes mirabilis*** es una especie y la especie tipo del género *Prohamitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Mt. Lambir; Singapore: ?. Distribución según la fuente: Malaysia, Borneo, Singapore, Indonesia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mirabilis*: Del latín mirabilis (admirable)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Prohamitermes*]({{ site.base_url }}/es/genus/prohamitermes/) — 2 especies
 

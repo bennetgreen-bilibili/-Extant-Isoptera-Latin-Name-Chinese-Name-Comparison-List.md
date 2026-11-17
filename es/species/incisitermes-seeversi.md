@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Incisitermes seeversi*** es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Mexico: Madre Maria Island. Distribución según la fuente: Mexico, Guatemala.
+***Incisitermes seeversi*** es una especie del género *Incisitermes*, en la familia Kalotermitidae. La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Mexico: Madre Maria Island. Distribución según la fuente: Mexico, Guatemala.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *seeversi*: En honor de C. H. Seevers (entomólogo estadoun
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Incisitermes*]({{ site.base_url }}/es/genus/incisitermes/) — 30 especies
 - **Especie tipo del género**: *Incisitermes schwarzi*
 

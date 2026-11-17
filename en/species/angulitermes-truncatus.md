@@ -14,7 +14,7 @@ genus_zh: "角白蚁属"
 genus_latin: "Angulitermes"
 genus_id: "angulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Angulitermes truncatus*** is a species of the genus *Angulitermes*, in the family TERMITIDAE (subfamily Promirotermitinae). The species was described by Sjöstedt in 1926; the type locality is Ghana: Accra. Distribution: Senegal, Ghana, Kenya, Nigeria, Saudi Arabia, Tanzania, Uganda, Zambia.
+***Angulitermes truncatus*** is a species of the genus *Angulitermes*, in the family Termitidae (subfamily Promirotermitinae). The species was described by Sjöstedt in 1926; the type locality is Ghana: Accra. Distribution: Senegal, Ghana, Kenya, Nigeria, Saudi Arabia, Tanzania, Uganda, Zambia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *truncatus*: Latin truncatus (truncated)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Promirotermitinae]({{ site.base_url }}/en/subfamily/promirotermitinae/) — 2 genera, 39 species
 - **Genus**: [*Angulitermes*]({{ site.base_url }}/en/genus/angulitermes/) — 29 species
 - **Type species of the genus**: *Angulitermes frontalis*

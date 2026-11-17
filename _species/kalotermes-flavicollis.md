@@ -12,7 +12,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Morocco: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄颈木白蚁**（*Kalotermes flavicollis*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种，也是本属的模式种。本种由 Fabricius 于 1793 年描述，模式产地为 (country unknown): "Barbaria"。分布记录包括地中海区、南欧、北非、西亚。本种有 1 个次异名。
+**黄颈木白蚁**（*Kalotermes flavicollis*）是木白蚁科（Kalotermitidae）木白蚁属（*Kalotermes*）的一种，也是本属的模式种。本种由 Fabricius 于 1793 年描述，模式产地为 (country unknown): "Barbaria"。分布记录包括地中海区、南欧、北非、西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Morocco: ?"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/genus/kalotermes/) —— 共 21 种
 
 ## 分布

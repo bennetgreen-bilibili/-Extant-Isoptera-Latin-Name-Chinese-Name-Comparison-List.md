@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Anenteotermes_cherub
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Apicotermitinae"
     url: "/es/subfamily/apicotermitinae/"

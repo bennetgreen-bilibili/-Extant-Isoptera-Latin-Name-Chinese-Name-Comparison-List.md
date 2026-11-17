@@ -12,7 +12,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Uganda: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**基巴拉土白蚁**（*Odontotermes kibarensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Fuller 于 1923 年描述，模式产地为 Uganda: Kampala: Kibara。分布记录包括东非肯尼亚、安哥拉、苏丹、坦桑尼亚、乌干达。本种有 1 个次异名。
+**基巴拉土白蚁**（*Odontotermes kibarensis*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Fuller 于 1923 年描述，模式产地为 Uganda: Kampala: Kibara。分布记录包括东非肯尼亚、安哥拉、苏丹、坦桑尼亚、乌干达。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Uganda: ?"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/genus/odontotermes/) —— 共 198 种
 - **本属模式种**：*Odontotermes vulgaris*

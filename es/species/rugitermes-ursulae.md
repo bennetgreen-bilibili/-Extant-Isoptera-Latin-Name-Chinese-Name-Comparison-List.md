@@ -14,7 +14,7 @@ genus_zh: "皱白蚁属"
 genus_latin: "Rugitermes"
 genus_id: "rugitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rugitermes ursulae*** es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Casalla, Scheffrahn & Korb en 2021; la localidad tipo es Colombia: Sucre: Colosó \[ 9.5435N 75.3488W \]. Distribución según la fuente: Colombia.
+***Rugitermes ursulae*** es una especie del género *Rugitermes*, en la familia Kalotermitidae. La especie fue descrita por Casalla, Scheffrahn & Korb en 2021; la localidad tipo es Colombia: Sucre: Colosó \[ 9.5435N 75.3488W \]. Distribución según la fuente: Colombia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *ursulae*: En honor de Ursula
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Rugitermes*]({{ site.base_url }}/es/genus/rugitermes/) — 18 especies
 - **Especie tipo del género**: *Rugitermes nodulosus*
 

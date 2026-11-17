@@ -14,7 +14,7 @@ genus_zh: "大前白蚁属"
 genus_latin: "Megaprotermes"
 genus_id: "megaprotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Megaprotermes giffardii*** es la única especie viviente del género *Megaprotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Nigeria: Ibadan. Distribución según la fuente: Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal.
+***Megaprotermes giffardii*** es la única especie viviente del género *Megaprotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Nigeria: Ibadan. Distribución según la fuente: Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *giffardii*: En honor de Giffard
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Megaprotermes*]({{ site.base_url }}/es/genus/megaprotermes/) — monotípico, 1 especie
 

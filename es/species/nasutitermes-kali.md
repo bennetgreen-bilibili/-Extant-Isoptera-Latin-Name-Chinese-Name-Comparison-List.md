@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes kali*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Meghalaya (Assam): Khasi-Jaintia Hills District: Umsa Nongkharai. Distribución según la fuente: India.
+***Nasutitermes kali*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Meghalaya (Assam): Khasi-Jaintia Hills District: Umsa Nongkharai. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *kali*: En honor de Kali
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

@@ -14,7 +14,7 @@ genus_zh: "冢白蚁属"
 genus_latin: "Tumulitermes"
 genus_id: "tumulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Australia: Queensland, near Laura; Australia: Northern Terr
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tumulitermes pastinator*** es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribución según la fuente: Australia. Este sitio registra 2 sinónimos junior para la especie.
+***Tumulitermes pastinator*** es una especie del género *Tumulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribución según la fuente: Australia. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *pastinator*: Del latín pastinator (excavador)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Tumulitermes*]({{ site.base_url }}/es/genus/tumulitermes/) — 17 especies
 - **Especie tipo del género**: *Tumulitermes tumuli*

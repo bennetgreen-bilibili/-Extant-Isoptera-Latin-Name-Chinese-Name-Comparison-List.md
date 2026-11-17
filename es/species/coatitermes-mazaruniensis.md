@@ -14,7 +14,7 @@ genus_zh: "凸鼻白蚁属"
 genus_latin: "Coatitermes"
 genus_id: "coatitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coatitermes mazaruniensis*** es una especie del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución según la fuente: Guyana, Ecuador, French Guiana.
+***Coatitermes mazaruniensis*** es una especie del género *Coatitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución según la fuente: Guyana, Ecuador, French Guiana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mazaruniensis*: Por la localidad de Mazarun
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Coatitermes*]({{ site.base_url }}/es/genus/coatitermes/) — 4 especies
 - **Especie tipo del género**: *Coatitermes clevelandi*

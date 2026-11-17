@@ -12,7 +12,7 @@ genus_zh: "尖鼻白蚁属"
 genus_latin: "Acorhinotermes"
 genus_id: "acorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**穆鲁伊尖鼻白蚁**（*Acorhinotermes murui*）是鼻白蚁科（RHINOTERMITIDAE）尖鼻白蚁属（*Acorhinotermes*）的一种。本种由 Castro 于 2023 年描述，模式产地为 Colombia: Amazon basin。分布记录包括哥伦比亚（亚马孙）。
+**穆鲁伊尖鼻白蚁**（*Acorhinotermes murui*）是鼻白蚁科（Rhinotermitidae）尖鼻白蚁属（*Acorhinotermes*）的一种。本种由 Castro 于 2023 年描述，模式产地为 Colombia: Amazon basin。分布记录包括哥伦比亚（亚马孙）。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/genus/acorhinotermes/) —— 共 3 种
 - **本属模式种**：*Acorhinotermes subfusciceps*
 

@@ -14,7 +14,7 @@ genus_zh: "前砂白蚁属"
 genus_latin: "Procryptotermes"
 genus_id: "procryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Procryptotermes fryeri*** es una especie y la especie tipo del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución según la fuente: Seychelles.
+***Procryptotermes fryeri*** es una especie y la especie tipo del género *Procryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución según la fuente: Seychelles.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *fryeri*: En honor de Fryer
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Procryptotermes*]({{ site.base_url }}/es/genus/procryptotermes/) — 14 especies
 
 ## Distribución

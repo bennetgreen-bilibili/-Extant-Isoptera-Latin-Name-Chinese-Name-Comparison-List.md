@@ -14,7 +14,7 @@ genus_zh: "箭猪白蚁属"
 genus_latin: "Coendutermes"
 genus_id: "coendutermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coendutermes tucum*** es la única especie viviente del género *Coendutermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1985; la localidad tipo es Brasil: Mato Grosso: Juína, Estação Ecológica de Iquê \[12.1S 59.3W\]. Distribución según la fuente: Brazil, Colombia, Suriname.
+***Coendutermes tucum*** es la única especie viviente del género *Coendutermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1985; la localidad tipo es Brasil: Mato Grosso: Juína, Estação Ecológica de Iquê \[12.1S 59.3W\]. Distribución según la fuente: Brazil, Colombia, Suriname.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tucum*: De tucum, una palmera (tupí)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Coendutermes*]({{ site.base_url }}/es/genus/coendutermes/) — monotípico, 1 especie
 

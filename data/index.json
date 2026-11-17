@@ -84,7 +84,7 @@
     "type": "family",
     "id": "mastotermitidae",
     "zh": "澳白蚁科",
-    "latin": "MASTOTERMITIDAE",
+    "latin": "Mastotermitidae",
     "counts": {
      "genera": 1,
      "species": 1,
@@ -109,7 +109,7 @@
         "type": "family",
         "id": "archotermopsidae",
         "zh": "古白蚁科",
-        "latin": "ARCHOTERMOPSIDAE",
+        "latin": "Archotermopsidae",
         "counts": {
          "genera": 2,
          "species": 5,
@@ -122,7 +122,7 @@
         "type": "family",
         "id": "hodotermitidae",
         "zh": "草白蚁科",
-        "latin": "HODOTERMITIDAE",
+        "latin": "Hodotermitidae",
         "counts": {
          "genera": 3,
          "species": 21,
@@ -135,7 +135,7 @@
         "type": "family",
         "id": "hodotermopsidae",
         "zh": "原白蚁科",
-        "latin": "HODOTERMOPSIDAE",
+        "latin": "Hodotermopsidae",
         "counts": {
          "genera": 1,
          "species": 1,
@@ -148,7 +148,7 @@
         "type": "family",
         "id": "stolotermitidae",
         "zh": "胄白蚁科",
-        "latin": "STOLOTERMITIDAE",
+        "latin": "Stolotermitidae",
         "counts": {
          "genera": 2,
          "species": 10,
@@ -169,7 +169,7 @@
         "type": "family",
         "id": "kalotermitidae",
         "zh": "木白蚁科",
-        "latin": "KALOTERMITIDAE",
+        "latin": "Kalotermitidae",
         "counts": {
          "genera": 23,
          "species": 480,
@@ -188,7 +188,7 @@
           "type": "family",
           "id": "psammotermitidae",
           "zh": "沙白蚁科",
-          "latin": "PSAMMOTERMITIDAE",
+          "latin": "Psammotermitidae",
           "counts": {
            "genera": 2,
            "species": 18,
@@ -201,7 +201,7 @@
           "type": "family",
           "id": "rhinotermitidae",
           "zh": "鼻白蚁科",
-          "latin": "RHINOTERMITIDAE",
+          "latin": "Rhinotermitidae",
           "counts": {
            "genera": 5,
            "species": 62,
@@ -214,7 +214,7 @@
           "type": "family",
           "id": "serritermitidae",
           "zh": "齿白蚁科",
-          "latin": "SERRITERMITIDAE",
+          "latin": "Serritermitidae",
           "counts": {
            "genera": 2,
            "species": 3,
@@ -227,7 +227,7 @@
           "type": "family",
           "id": "stylotermitidae",
           "zh": "杆白蚁科",
-          "latin": "STYLOTERMITIDAE",
+          "latin": "Stylotermitidae",
           "counts": {
            "genera": 1,
            "species": 45,
@@ -240,7 +240,7 @@
           "type": "family",
           "id": "termitogetonidae",
           "zh": "寡脉白蚁科",
-          "latin": "TERMITOGETONIDAE",
+          "latin": "Termitogetonidae",
           "counts": {
            "genera": 1,
            "species": 2,
@@ -259,7 +259,7 @@
             "type": "family",
             "id": "heterotermitidae",
             "zh": "异白蚁科",
-            "latin": "HETEROTERMITIDAE",
+            "latin": "Heterotermitidae",
             "counts": {
              "genera": 3,
              "species": 229,
@@ -272,7 +272,7 @@
             "type": "family",
             "id": "termitidae",
             "zh": "白蚁科",
-            "latin": "TERMITIDAE",
+            "latin": "Termitidae",
             "counts": {
              "genera": 280,
              "species": 2144,

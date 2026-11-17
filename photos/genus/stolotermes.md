@@ -20,6 +20,6 @@ back_label: "胄白蚁属 Stolotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "胄白蚁科 STOLOTERMITIDAE"
+  - name: "胄白蚁科 Stolotermitidae"
     url: "/family/stolotermitidae/"
 ---

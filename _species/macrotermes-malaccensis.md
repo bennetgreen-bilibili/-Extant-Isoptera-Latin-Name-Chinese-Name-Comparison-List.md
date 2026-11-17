@@ -12,7 +12,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Indonesia: Belitung (Billiton); Malaysia: Johore"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**马六甲大白蚁**（*Macrotermes malaccensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Malacca。分布记录包括东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南。本种有 2 个次异名。
+**马六甲大白蚁**（*Macrotermes malaccensis*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Malacca。分布记录包括东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南。本种有 2 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Indonesia: Belitung (Billiton); Malaysia: Johore"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
 - **本属模式种**：*Macrotermes lilljeborgi*

@@ -14,7 +14,7 @@ genus_zh: "尖鼻白蚁属"
 genus_latin: "Acorhinotermes"
 genus_id: "acorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Acorhinotermes subfusciceps*** is a species and the type species of the genus *Acorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
+***Acorhinotermes subfusciceps*** is a species and the type species of the genus *Acorhinotermes*, in the family Rhinotermitidae. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *subfusciceps*: From subfusci + ceps
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Acorhinotermes*]({{ site.base_url }}/en/genus/acorhinotermes/) — 3 species
 
 ## Distribution

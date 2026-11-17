@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Morphology_of_Cthyll
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "异白蚁科 HETEROTERMITIDAE"
+  - name: "异白蚁科 Heterotermitidae"
     url: "/family/heterotermitidae/"
   - name: "异白蚁属 Heterotermes"
     url: "/genus/heterotermes/"

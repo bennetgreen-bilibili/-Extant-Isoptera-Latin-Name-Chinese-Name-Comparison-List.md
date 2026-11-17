@@ -14,7 +14,7 @@ genus_zh: "肠刺白蚁属"
 genus_latin: "Compositermes"
 genus_id: "compositermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Compositermes vindai*** is a species and the type species of the genus *Compositermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn in 2013; the type locality is Trinidad and Tobago: Tunapuna-Piarco: Mount Saint Benedict \[ 10.662N 61.397W \]. Distribution: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean.
+***Compositermes vindai*** is a species and the type species of the genus *Compositermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Scheffrahn in 2013; the type locality is Trinidad and Tobago: Tunapuna-Piarco: Mount Saint Benedict \[ 10.662N 61.397W \]. Distribution: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *vindai*: Named in honor of Boudanath (Vinda) Maharajh (1950–
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Compositermes*]({{ site.base_url }}/en/genus/compositermes/) — 2 species
 

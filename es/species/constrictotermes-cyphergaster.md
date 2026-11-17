@@ -14,7 +14,7 @@ genus_zh: "缩白蚁属"
 genus_latin: "Constrictotermes"
 genus_id: "constrictotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Constrictotermes cyphergaster*** es una especie y la especie tipo del género *Constrictotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Ladário, Urucum \[19.155S 57.631W\]; Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución según la fuente: Brazil, Paraguay, Argentina, Bolivia.
+***Constrictotermes cyphergaster*** es una especie y la especie tipo del género *Constrictotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Ladário, Urucum \[19.155S 57.631W\]; Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución según la fuente: Brazil, Paraguay, Argentina, Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *cyphergaster*: Del griego kryptos (oculto) + gastēr (vien
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Constrictotermes*]({{ site.base_url }}/es/genus/constrictotermes/) — 6 especies
 

@@ -12,7 +12,7 @@ genus_zh: "胸白蚁属"
 genus_latin: "Thoracotermes"
 genus_id: "thoracotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短背胸白蚁**（*Thoracotermes brevinotus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）胸白蚁属（*Thoracotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Mamou。分布记录包括西非、几内亚、科特迪瓦。
+**短背胸白蚁**（*Thoracotermes brevinotus*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）胸白蚁属（*Thoracotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Mamou。分布记录包括西非、几内亚、科特迪瓦。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[胸白蚁属 *Thoracotermes*]({{ site.base_url }}/genus/thoracotermes/) —— 共 4 种
 - **本属模式种**：*Thoracotermes macrothorax*

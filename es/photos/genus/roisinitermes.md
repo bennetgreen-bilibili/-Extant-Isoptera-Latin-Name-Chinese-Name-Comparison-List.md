@@ -20,6 +20,6 @@ back_label: "罗伊辛白蚁属 Roisinitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
 ---

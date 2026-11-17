@@ -12,7 +12,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具沟异白蚁**（*Heterotermes sulcatus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]。分布记录包括南美洲、巴西、委内瑞拉、苏里南。
+**具沟异白蚁**（*Heterotermes sulcatus*）是异白蚁科（Heterotermitidae）异白蚁属（*Heterotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]。分布记录包括南美洲、巴西、委内瑞拉、苏里南。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种
 - **本属模式种**：*Heterotermes platycephalus*
 

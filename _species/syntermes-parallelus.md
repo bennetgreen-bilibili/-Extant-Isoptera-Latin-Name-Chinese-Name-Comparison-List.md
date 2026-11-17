@@ -12,7 +12,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Colombia: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**平行聚白蚁**（*Syntermes parallelus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Upper Demerara-Berbice: Canister Falls \[4.8N 58.4333W\]。分布记录包括巴西、委内瑞拉、哥伦比亚、法属圭亚那、圭亚那。本种有 1 个次异名。
+**平行聚白蚁**（*Syntermes parallelus*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Upper Demerara-Berbice: Canister Falls \[4.8N 58.4333W\]。分布记录包括巴西、委内瑞拉、哥伦比亚、法属圭亚那、圭亚那。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Colombia: ?"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/genus/syntermes/) —— 共 23 种
 - **本属模式种**：*Syntermes dirus*

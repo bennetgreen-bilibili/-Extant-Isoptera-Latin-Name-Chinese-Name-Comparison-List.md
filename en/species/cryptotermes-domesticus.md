@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Taiwan: Botel Tobago, Lan Yü); Taiwan: Botel Tobago, Lan Y
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes domesticus*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France). This site records 11 junior synonyms for the species.
+***Cryptotermes domesticus*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France). This site records 11 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *domesticus*: Latin domesticus (domestic, of the house)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

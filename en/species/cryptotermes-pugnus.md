@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes pugnus*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn & Vasconcellos in 2023; the type locality is Brasil: Paraíba: São José dos Cordeiros \[ 7.39S 36.808W \]. Distribution: Brazil.
+***Cryptotermes pugnus*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Scheffrahn & Vasconcellos in 2023; the type locality is Brasil: Paraíba: São José dos Cordeiros \[ 7.39S 36.808W \]. Distribution: Brazil.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *pugnus*: Latin pugnus (fist)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

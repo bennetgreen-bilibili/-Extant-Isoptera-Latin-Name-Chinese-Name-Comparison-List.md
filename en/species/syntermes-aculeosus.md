@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Syntermes aculeosus*** is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1945; the type locality is Guyana: East Berbice-Corentyne: Oronoque River \[2.7N 57.42W\]. Distribution: Brazil, Peru, Bolivia, Ecuador, French Guiana, Venezuela, Colombia, Suriname, Guyana.
+***Syntermes aculeosus*** is a species of the genus *Syntermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Emerson in 1945; the type locality is Guyana: East Berbice-Corentyne: Oronoque River \[2.7N 57.42W\]. Distribution: Brazil, Peru, Bolivia, Ecuador, French Guiana, Venezuela, Colombia, Suriname, Guyana.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *aculeosus*: From acule + osus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Syntermes*]({{ site.base_url }}/en/genus/syntermes/) — 23 species
 - **Type species of the genus**: *Syntermes dirus*

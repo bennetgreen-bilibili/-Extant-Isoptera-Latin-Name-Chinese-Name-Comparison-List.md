@@ -12,7 +12,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Australia: Queensland: Rockhampton"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**奇异异白蚁**（*Heterotermes paradoxus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括澳大利亚、印度尼西亚、巴布亚新几内亚。本种有 1 个次异名。
+**奇异异白蚁**（*Heterotermes paradoxus*）是异白蚁科（Heterotermitidae）异白蚁属（*Heterotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括澳大利亚、印度尼西亚、巴布亚新几内亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Australia: Queensland: Rockhampton"
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种
 - **本属模式种**：*Heterotermes platycephalus*
 

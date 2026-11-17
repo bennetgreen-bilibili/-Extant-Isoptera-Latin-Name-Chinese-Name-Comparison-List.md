@@ -14,7 +14,7 @@ genus_zh: "弯肠白蚁属"
 genus_latin: "Aparatermes"
 genus_id: "aparatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N  58.7W]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Aparatermes cingulatus*** es una especie del género *Aparatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]. Distribución según la fuente: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean. Este sitio registra 1 sinónimo junior para la especie.
+***Aparatermes cingulatus*** es una especie del género *Aparatermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]. Distribución según la fuente: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *cingulatus*: Del latín cingulatus (con bandas, ceñido)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Aparatermes*]({{ site.base_url }}/es/genus/aparatermes/) — 3 especies
 - **Especie tipo del género**: *Aparatermes abbreviatus*

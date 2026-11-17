@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Colombia: ?"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Syntermes parallelus*** is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Silvestri in 1923; the type locality is Guyana: Upper Demerara-Berbice: Canister Falls \[4.8N 58.4333W\]. Distribution: Brazil, Venezuela, Colombia, French Guiana, Guyana. This site records 1 junior synonym for the species.
+***Syntermes parallelus*** is a species of the genus *Syntermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Silvestri in 1923; the type locality is Guyana: Upper Demerara-Berbice: Canister Falls \[4.8N 58.4333W\]. Distribution: Brazil, Venezuela, Colombia, French Guiana, Guyana. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *parallelus*: From the descriptive term 'parallel' (parallel)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Syntermes*]({{ site.base_url }}/en/genus/syntermes/) — 23 species
 - **Type species of the genus**: *Syntermes dirus*

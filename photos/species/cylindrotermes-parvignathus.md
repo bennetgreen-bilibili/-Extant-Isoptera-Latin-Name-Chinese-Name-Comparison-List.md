@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/545873417/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "圆筒白蚁亚科 Cylindrotermitinae"
     url: "/subfamily/cylindrotermitinae/"

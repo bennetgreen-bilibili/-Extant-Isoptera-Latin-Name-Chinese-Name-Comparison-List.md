@@ -14,7 +14,7 @@ genus_zh: "恩格尔白蚁属"
 genus_latin: "Engelitermes"
 genus_id: "engelitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "恩格尔白蚁亚科"
 subfamily_latin: "Engelitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Engelitermes zambo*** es la única especie viviente del género *Engelitermes*, en la familia TERMITIDAE (subfamilia Engelitermitinae). La especie fue descrita por Romero-Arias, Roisin & Scheffrahn en 2023; la localidad tipo es Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]. Distribución según la fuente: Cameroon.
+***Engelitermes zambo*** es la única especie viviente del género *Engelitermes*, en la familia Termitidae (subfamilia Engelitermitinae). La especie fue descrita por Romero-Arias, Roisin & Scheffrahn en 2023; la localidad tipo es Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]. Distribución según la fuente: Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *zambo*: Por el pueblo zambo
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Engelitermitinae]({{ site.base_url }}/es/subfamily/engelitermitinae/) — 1 género, 1 especie
 - **Género**: [*Engelitermes*]({{ site.base_url }}/es/genus/engelitermes/) — monotípico, 1 especie
 

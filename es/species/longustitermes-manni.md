@@ -14,7 +14,7 @@ genus_zh: "长工白蚁属"
 genus_latin: "Longustitermes"
 genus_id: "longustitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Longustitermes manni*** es la única especie viviente del género *Longustitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: Lombardia. Distribución según la fuente: Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Honduras, Panama. Este sitio registra 1 sinónimo junior para la especie.
+***Longustitermes manni*** es la única especie viviente del género *Longustitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: Lombardia. Distribución según la fuente: Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Honduras, Panama. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *manni*: En honor del entomólogo W. M. Mann
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Longustitermes*]({{ site.base_url }}/es/genus/longustitermes/) — monotípico, 1 especie
 

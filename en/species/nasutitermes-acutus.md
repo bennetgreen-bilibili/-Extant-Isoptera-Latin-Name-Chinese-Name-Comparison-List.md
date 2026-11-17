@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Indonesia: ?Java: Bogor; ?Sumatra: Tandjong Slamat; Malaysi
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Nasutitermes acutus*** is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1913; the type locality is Indonesia: Java: Wonosobo. Distribution: Indonesia, Malaysia. This site records 2 junior synonyms for the species.
+***Nasutitermes acutus*** is a species of the genus *Nasutitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1913; the type locality is Indonesia: Java: Wonosobo. Distribution: Indonesia, Malaysia. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *acutus*: Latin acutus (sharp)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Nasutitermes*]({{ site.base_url }}/en/genus/nasutitermes/) — 243 species
 - **Type species of the genus**: *Nasutitermes corniger*

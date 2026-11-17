@@ -14,7 +14,7 @@ genus_zh: "原方白蚁属"
 genus_latin: "Procubitermes"
 genus_id: "procubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Procubitermes undulans*** is a species of the genus *Procubitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Schmitz in 1917; the type locality is Democratic Republic of the Congo: Kisangani (Stanleyville). Distribution: East Africa, Uganda, Democratic Republic of the Congo.
+***Procubitermes undulans*** is a species of the genus *Procubitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Schmitz in 1917; the type locality is Democratic Republic of the Congo: Kisangani (Stanleyville). Distribution: East Africa, Uganda, Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *undulans*: Latin undulans (wavy)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Procubitermes*]({{ site.base_url }}/en/genus/procubitermes/) — 9 species
 - **Type species of the genus**: *Procubitermes arboricola*

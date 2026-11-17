@@ -12,7 +12,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阿马尼乳白蚁**（*Coptotermes amanii*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Tanzania: Usambara: Amani。分布记录包括坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦。
+**阿马尼乳白蚁**（*Coptotermes amanii*）是异白蚁科（Heterotermitidae）乳白蚁属（*Coptotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Tanzania: Usambara: Amani。分布记录包括坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
 - **本属模式种**：*Coptotermes gestroi*
 

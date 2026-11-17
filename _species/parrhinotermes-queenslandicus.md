@@ -12,7 +12,7 @@ genus_zh: "棒鼻白蚁属"
 genus_latin: "Parrhinotermes"
 genus_id: "parrhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**昆士兰棒鼻白蚁**（*Parrhinotermes queenslandicus*）是鼻白蚁科（RHINOTERMITIDAE）棒鼻白蚁属（*Parrhinotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Malanda。分布记录包括澳大利亚。
+**昆士兰棒鼻白蚁**（*Parrhinotermes queenslandicus*）是鼻白蚁科（Rhinotermitidae）棒鼻白蚁属（*Parrhinotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Malanda。分布记录包括澳大利亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[棒鼻白蚁属 *Parrhinotermes*]({{ site.base_url }}/genus/parrhinotermes/) —— 共 13 种
 - **本属模式种**：*Parrhinotermes aequalis*
 

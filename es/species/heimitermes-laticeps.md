@@ -14,7 +14,7 @@ genus_zh: "埃姆白蚁属"
 genus_latin: "Heimitermes"
 genus_id: "heimitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heimitermes laticeps*** es una especie y la especie tipo del género *Heimitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Grassé & Noirot en 1955; la localidad tipo es Congo: Ebana, near Etoumbi. Distribución según la fuente: Central Africa, Cameroon, Nigeria.
+***Heimitermes laticeps*** es una especie y la especie tipo del género *Heimitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Grassé & Noirot en 1955; la localidad tipo es Congo: Ebana, near Etoumbi. Distribución según la fuente: Central Africa, Cameroon, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de c
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Heimitermes*]({{ site.base_url }}/es/genus/heimitermes/) — 2 especies
 

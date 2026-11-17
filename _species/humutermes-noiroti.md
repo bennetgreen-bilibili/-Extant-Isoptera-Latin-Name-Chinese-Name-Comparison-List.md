@@ -12,7 +12,7 @@ genus_zh: "腐殖白蚁属"
 genus_latin: "Humutermes"
 genus_id: "humutermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**努瓦罗腐殖白蚁**（*Humutermes noiroti*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腐殖白蚁属（*Humutermes*）的一种。本种由 Bourguignon & Roisin 于 2016 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括新热带界。
+**努瓦罗腐殖白蚁**（*Humutermes noiroti*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）腐殖白蚁属（*Humutermes*）的一种。本种由 Bourguignon & Roisin 于 2016 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括新热带界。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[腐殖白蚁属 *Humutermes*]({{ site.base_url }}/genus/humutermes/) —— 共 2 种
 - **本属模式种**：*Humutermes krishnai*

@@ -14,7 +14,7 @@ genus_zh: "阿劳若白蚁属"
 genus_latin: "Araujotermes"
 genus_id: "araujotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Araujotermes zeteki*** es una especie del género *Araujotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Summit. Distribución según la fuente: Colombia, Brazil, Panama, Venezuela.
+***Araujotermes zeteki*** es una especie del género *Araujotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Summit. Distribución según la fuente: Colombia, Brazil, Panama, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *zeteki*: En honor de J. Zetek
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Araujotermes*]({{ site.base_url }}/es/genus/araujotermes/) — 4 especies
 - **Especie tipo del género**: *Araujotermes caissara*

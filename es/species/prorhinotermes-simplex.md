@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Prorhinotermes simplex*** es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Cuba: ?. Distribución según la fuente: United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico.
+***Prorhinotermes simplex*** es una especie del género *Prorhinotermes*, en la familia Psammotermitidae. La especie fue descrita por Hagen en 1858; la localidad tipo es Cuba: ?. Distribución según la fuente: United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *simplex*: Del latín simplex (simple)
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Prorhinotermes*]({{ site.base_url }}/es/genus/prorhinotermes/) — 12 especies
 - **Especie tipo del género**: *Prorhinotermes inopinatus*
 

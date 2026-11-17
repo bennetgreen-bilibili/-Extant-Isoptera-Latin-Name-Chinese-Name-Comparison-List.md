@@ -14,7 +14,7 @@ genus_zh: "突扭白蚁属"
 genus_latin: "Dicuspiditermes"
 genus_id: "dicuspiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Indonesia: Sumatra: Tandjunggadang"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Dicuspiditermes santschii*** is a species of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Silvestri in 1922; the type locality is Indonesia: Sumatra: Padang-Pandjang. Distribution: Southeast Asia, Indonesia, Malaysia. This site records 1 junior synonym for the species.
+***Dicuspiditermes santschii*** is a species of the genus *Dicuspiditermes*, in the family Termitidae (subfamily Mirocapritermitinae). The species was described by Silvestri in 1922; the type locality is Indonesia: Sumatra: Padang-Pandjang. Distribution: Southeast Asia, Indonesia, Malaysia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *santschii*: Named after F. Santschi
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Dicuspiditermes*]({{ site.base_url }}/en/genus/dicuspiditermes/) — 21 species
 - **Type species of the genus**: *Dicuspiditermes obtusus*

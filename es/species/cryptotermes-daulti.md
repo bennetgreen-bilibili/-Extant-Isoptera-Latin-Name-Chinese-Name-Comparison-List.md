@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes daulti*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Rathore en 1994; la localidad tipo es India: Gujarat: Taranga hills, 32 km. south of Danta and 60 km. NE of Mahesana. Distribución según la fuente: India.
+***Cryptotermes daulti*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Rathore en 1994; la localidad tipo es India: Gujarat: Taranga hills, 32 km. south of Danta and 60 km. NE of Mahesana. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *daulti*: En honor de Dault
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Honduras: ?; Guatemala: ?; Dominica: Laudat; United States:
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes castaneus*** is a species and the type species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Puerto Rico: ?. Distribution: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). This site records 4 junior synonyms for the species.
+***Neotermes castaneus*** is a species and the type species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Burmeister in 1839; the type locality is Puerto Rico: ?. Distribution: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). This site records 4 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *castaneus*: Latin castaneus (chestnut)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 
 ## Distribution

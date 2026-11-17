@@ -12,7 +12,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Ghana: Keta; Democratic Republic of the Congo: \"Haut Uél�
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西部三脉白蚁**（*Trinervitermes occidentalis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Guinea Bissau: Bissau。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达。本种有 4 个次异名。
+**西部三脉白蚁**（*Trinervitermes occidentalis*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Guinea Bissau: Bissau。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达。本种有 4 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Ghana: Keta; Democratic Republic of the Congo: \"Haut Uél�
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种
 - **本属模式种**：*Trinervitermes trinervius*

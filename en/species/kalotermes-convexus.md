@@ -14,7 +14,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: \"Federal Capital Territory.\""
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Kalotermes convexus*** is a species of the genus *Kalotermes*, in the family KALOTERMITIDAE. The species was described by Walker in 1853; the type locality is Australia: Tasmania. Distribution: Australia. This site records 1 junior synonym for the species.
+***Kalotermes convexus*** is a species of the genus *Kalotermes*, in the family Kalotermitidae. The species was described by Walker in 1853; the type locality is Australia: Tasmania. Distribution: Australia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *convexus*: Latin convexus (convex)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Kalotermes*]({{ site.base_url }}/en/genus/kalotermes/) — 21 species
 - **Type species of the genus**: *Kalotermes flavicollis*
 

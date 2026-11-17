@@ -14,7 +14,7 @@ genus_zh: "杆白蚁属"
 genus_latin: "Stylotermes"
 genus_id: "stylotermes"
 family_zh: "杆白蚁科"
-family_latin: "STYLOTERMITIDAE"
+family_latin: "Stylotermitidae"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Stylotermes ahmadi*** es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Ukhia. Distribución según la fuente: China, Bangladesh.
+***Stylotermes ahmadi*** es una especie del género *Stylotermes*, en la familia Stylotermitidae. La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Ukhia. Distribución según la fuente: China, Bangladesh.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *ahmadi*: En honor del termitólogo paquistaní M. Ahmad
 
 ## Posición taxonómica
 
-- **Familia**: [STYLOTERMITIDAE]({{ site.base_url }}/es/family/stylotermitidae/) — 1 género, 45 especies
+- **Familia**: [Stylotermitidae]({{ site.base_url }}/es/family/stylotermitidae/) — 1 género, 45 especies
 - **Género**: [*Stylotermes*]({{ site.base_url }}/es/genus/stylotermes/) — 45 especies
 - **Especie tipo del género**: *Stylotermes fletcheri*
 

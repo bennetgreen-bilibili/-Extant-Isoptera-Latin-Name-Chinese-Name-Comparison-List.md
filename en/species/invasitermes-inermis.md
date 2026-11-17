@@ -14,7 +14,7 @@ genus_zh: "闯白蚁属"
 genus_latin: "Invasitermes"
 genus_id: "invasitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Invasitermes inermis*** is a species and the type species of the genus *Invasitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Miller in 1984; the type locality is Australia: Northern Territory: Brocks Creek. Distribution: Australia.
+***Invasitermes inermis*** is a species and the type species of the genus *Invasitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Miller in 1984; the type locality is Australia: Northern Territory: Brocks Creek. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *inermis*: Latin in- (without) + arma (arms), unarmed
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Invasitermes*]({{ site.base_url }}/en/genus/invasitermes/) — 2 species
 

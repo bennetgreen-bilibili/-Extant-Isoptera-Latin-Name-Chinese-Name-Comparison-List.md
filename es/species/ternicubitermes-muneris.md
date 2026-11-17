@@ -14,7 +14,7 @@ genus_zh: "三方白蚁属"
 genus_latin: "Ternicubitermes"
 genus_id: "ternicubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Malawi: Mlanje"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ternicubitermes muneris*** es una especie del género *Ternicubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución según la fuente: Democratic Republic of the Congo, Kenya, Malawi, Tanzania, Zambia. Este sitio registra 1 sinónimo junior para la especie.
+***Ternicubitermes muneris*** es una especie del género *Ternicubitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución según la fuente: Democratic Republic of the Congo, Kenya, Malawi, Tanzania, Zambia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *muneris*: Del latín muneris (de un deber/regalo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Ternicubitermes*]({{ site.base_url }}/es/genus/ternicubitermes/) — 13 especies
 - **Especie tipo del género**: *Ternicubitermes bilobatodes*

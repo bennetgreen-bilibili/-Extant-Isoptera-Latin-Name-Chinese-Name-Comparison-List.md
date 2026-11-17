@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Lord Howe Island"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes primus*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1921; la localidad tipo es Australia: Queensland: Townsville. Distribución según la fuente: Australia. Este sitio registra 1 sinónimo junior para la especie.
+***Cryptotermes primus*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Hill en 1921; la localidad tipo es Australia: Queensland: Townsville. Distribución según la fuente: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *primus*: Del latín primus (primero)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

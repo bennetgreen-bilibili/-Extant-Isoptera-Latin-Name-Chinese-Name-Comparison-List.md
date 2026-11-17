@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "(country unknown): South America"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Syntermes nanus*** es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino en 1995; la localidad tipo es Brasil: São Paulo: Pirassununga \[21.98S 47.42W\]. Distribución según la fuente: Brazil, Colombia, Argentina, Bolivia, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
+***Syntermes nanus*** es una especie del género *Syntermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Constantino en 1995; la localidad tipo es Brasil: São Paulo: Pirassununga \[21.98S 47.42W\]. Distribución según la fuente: Brazil, Colombia, Argentina, Bolivia, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *nanus*: Del griego nanos (enano)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Syntermes*]({{ site.base_url }}/es/genus/syntermes/) — 23 especies
 - **Especie tipo del género**: *Syntermes dirus*

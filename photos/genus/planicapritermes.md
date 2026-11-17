@@ -20,7 +20,7 @@ back_label: "平扭白蚁属 Planicapritermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "新扭白蚁亚科 Neocapritermitinae"
     url: "/subfamily/neocapritermitinae/"

@@ -12,7 +12,7 @@ genus_zh: "寡脉白蚁属"
 genus_latin: "Termitogeton"
 genus_id: "termitogeton"
 family_zh: "寡脉白蚁科"
-family_latin: "TERMITOGETONIDAE"
+family_latin: "Termitogetonidae"
 family_id: "termitogetonidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Malaysia: Sabah: Lamag District: Pin"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**平坦寡脉白蚁**（*Termitogeton planus*）是寡脉白蚁科（TERMITOGETONIDAE）寡脉白蚁属（*Termitogeton*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括印度尼西亚、马来西亚。本种有 1 个次异名。
+**平坦寡脉白蚁**（*Termitogeton planus*）是寡脉白蚁科（Termitogetonidae）寡脉白蚁属（*Termitogeton*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括印度尼西亚、马来西亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Malaysia: Sabah: Lamag District: Pin"
 
 ## 分类位置
 
-- **科**：[寡脉白蚁科 TERMITOGETONIDAE]({{ site.base_url }}/family/termitogetonidae/) —— 本站收录 1 属 2 种
+- **科**：[寡脉白蚁科 Termitogetonidae]({{ site.base_url }}/family/termitogetonidae/) —— 本站收录 1 属 2 种
 - **属**：[寡脉白蚁属 *Termitogeton*]({{ site.base_url }}/genus/termitogeton/) —— 共 2 种
 
 ## 分布

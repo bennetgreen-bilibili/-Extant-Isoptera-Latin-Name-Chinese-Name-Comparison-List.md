@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Reticulitermes speratus leptolabralis*** es una subespecie de *Reticulitermes speratus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Aichi, Kasugai, Tokushima, Yami. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes speratus* más abajo.
+***Reticulitermes speratus leptolabralis*** es una subespecie de *Reticulitermes speratus*, en la familia Heterotermitidae, género *Reticulitermes*. La subespecie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Aichi, Kasugai, Tokushima, Yami. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes speratus* más abajo.
 
 ## Etimología
 
@@ -41,7 +41,7 @@ Epíteto específico *leptolabralis*: Del griego leptos (esbelto) + latín labru
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Reticulitermes*]({{ site.base_url }}/es/genus/reticulitermes/) — 140 especies
 - **Especie**: [*Reticulitermes speratus*]({{ site.base_url }}/es/species/reticulitermes-speratus/)
 - **Subespecie**: esta página (*Reticulitermes speratus leptolabralis*)

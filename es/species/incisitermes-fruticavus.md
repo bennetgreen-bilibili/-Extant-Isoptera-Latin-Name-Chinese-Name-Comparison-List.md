@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Incisitermes fruticavus*** es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Rust en 1979; la localidad tipo es United States: California, 1.1 mi N Aguanga. Distribución según la fuente: United States.
+***Incisitermes fruticavus*** es una especie del género *Incisitermes*, en la familia Kalotermitidae. La especie fue descrita por Rust en 1979; la localidad tipo es United States: California, 1.1 mi N Aguanga. Distribución según la fuente: United States.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *fruticavus*: Del latín frutex (arbusto) + cavus (hueco), 
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Incisitermes*]({{ site.base_url }}/es/genus/incisitermes/) — 30 especies
 - **Especie tipo del género**: *Incisitermes schwarzi*
 

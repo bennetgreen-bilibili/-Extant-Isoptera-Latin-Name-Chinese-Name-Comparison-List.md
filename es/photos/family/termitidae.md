@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: "TERMITIDAE 白蚁科 — todas las fotos (1918, 106 especies)"
-description: "Fotos con licencia libre de las 106 especies de la familia TERMITIDAE (白蚁科), 1918 en total, de iNaturalist y Wikimedia Commons; agrupadas por especie, cada una enlaza a su conjunto completo."
+title: "Termitidae 白蚁科 — todas las fotos (1918, 106 especies)"
+description: "Fotos con licencia libre de las 106 especies de la familia Termitidae (白蚁科), 1918 en total, de iNaturalist y Wikimedia Commons; agrupadas por especie, cada una enlaza a su conjunto completo."
 lang: es
 single_lang: true
 author: 班奈特格林
@@ -11,12 +11,12 @@ permalink: "/es/family/termitidae/photos/"
 sitemap: true
 photo_kind: family
 photo_id: "termitidae"
-photo_latin: "TERMITIDAE"
+photo_latin: "Termitidae"
 photo_zh: "白蚁科"
 photo_count: 1918
 photo_species: 106
 back_url: "/family/termitidae/"
-back_label: "白蚁科 TERMITIDAE"
+back_label: "白蚁科 Termitidae"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"

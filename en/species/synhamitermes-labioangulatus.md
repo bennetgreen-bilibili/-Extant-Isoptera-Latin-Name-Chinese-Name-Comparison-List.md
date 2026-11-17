@@ -14,7 +14,7 @@ genus_zh: "同钩白蚁属"
 genus_latin: "Synhamitermes"
 genus_id: "synhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Synhamitermes labioangulatus*** is a species of the genus *Synhamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Thakur in 1989; the type locality is India: Gujarat: Valsad district: Kaprada: Kaprada forest near Govita village. Distribution: India.
+***Synhamitermes labioangulatus*** is a species of the genus *Synhamitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Thakur in 1989; the type locality is India: Gujarat: Valsad district: Kaprada: Kaprada forest near Govita village. Distribution: India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *labioangulatus*: From labioangul + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Synhamitermes*]({{ site.base_url }}/en/genus/synhamitermes/) — 4 species
 - **Type species of the genus**: *Synhamitermes quadriceps*

@@ -14,7 +14,7 @@ genus_zh: "净白蚁属"
 genus_latin: "Nitiditermes"
 genus_id: "nitiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Nitiditermes curtatus*** is a species of the genus *Nitiditermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Kindia; Mamou. Distribution: Ghana, Guinea, Senegal.
+***Nitiditermes curtatus*** is a species of the genus *Nitiditermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Kindia; Mamou. Distribution: Ghana, Guinea, Senegal.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *curtatus*: From curt + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Nitiditermes*]({{ site.base_url }}/en/genus/nitiditermes/) — 15 species
 - **Type species of the genus**: *Nitiditermes berghei*

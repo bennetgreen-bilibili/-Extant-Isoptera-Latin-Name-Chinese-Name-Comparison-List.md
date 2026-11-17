@@ -20,6 +20,6 @@ back_label: "象白蚁亚科 Nasutitermitinae"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
 ---

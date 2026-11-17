@@ -12,7 +12,7 @@ genus_zh: "洞白蚁属"
 genus_latin: "Porotermes"
 genus_id: "porotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Australia: Victoria: Cape Otway; Australia: Tasmania"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**亚当森洞白蚁**（*Porotermes adamsoni*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Uralla。分布记录包括澳大利亚。另有记录显示其已引入新西兰。本种有 2 个次异名。
+**亚当森洞白蚁**（*Porotermes adamsoni*）是胄白蚁科（Stolotermitidae）洞白蚁属（*Porotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Uralla。分布记录包括澳大利亚。另有记录显示其已引入新西兰。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Australia: Victoria: Cape Otway; Australia: Tasmania"
 
 ## 分类位置
 
-- **科**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种
+- **科**：[胄白蚁科 Stolotermitidae]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种
 - **属**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/genus/porotermes/) —— 共 3 种
 - **本属模式种**：*Porotermes quadricollis*
 

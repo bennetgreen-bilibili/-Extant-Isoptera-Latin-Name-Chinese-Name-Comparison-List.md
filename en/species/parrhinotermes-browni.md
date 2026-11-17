@@ -14,7 +14,7 @@ genus_zh: "棒鼻白蚁属"
 genus_latin: "Parrhinotermes"
 genus_id: "parrhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Parrhinotermes browni*** is a species of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE. The species was described by Harris in 1958; the type locality is Solomon Islands: Guadalcanal: Gold Ridge. Distribution: Indonesia, Papua New Guinea, Solomon Islands.
+***Parrhinotermes browni*** is a species of the genus *Parrhinotermes*, in the family Rhinotermitidae. The species was described by Harris in 1958; the type locality is Solomon Islands: Guadalcanal: Gold Ridge. Distribution: Indonesia, Papua New Guinea, Solomon Islands.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *browni*: Named after Brown
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Parrhinotermes*]({{ site.base_url }}/en/genus/parrhinotermes/) — 13 species
 - **Type species of the genus**: *Parrhinotermes aequalis*
 

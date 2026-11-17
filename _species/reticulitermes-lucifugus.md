@@ -12,7 +12,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**暗黑散白蚁**（*Reticulitermes lucifugus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。分布记录包括地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））。本种有 5 个次异名。
+**暗黑散白蚁**（*Reticulitermes lucifugus*）是异白蚁科（Heterotermitidae）散白蚁属（*Reticulitermes*）的一种。本种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。分布记录包括地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））。本种有 5 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种
 - **本属模式种**：*Reticulitermes flavipes*
 

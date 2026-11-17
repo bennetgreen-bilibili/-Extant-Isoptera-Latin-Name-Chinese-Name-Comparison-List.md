@@ -12,7 +12,7 @@ genus_zh: "库塔巴白蚁属"
 genus_latin: "Koutabatermes"
 genus_id: "koutabatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具刺库塔巴白蚁**（*Koutabatermes spinifer*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）库塔巴白蚁属（*Koutabatermes*）的现存唯一种。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]。分布记录包括新热带界具体国家未核、喀麦隆。
+**具刺库塔巴白蚁**（*Koutabatermes spinifer*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）库塔巴白蚁属（*Koutabatermes*）的现存唯一种。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]。分布记录包括新热带界具体国家未核、喀麦隆。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[库塔巴白蚁属 *Koutabatermes*]({{ site.base_url }}/genus/koutabatermes/) —— 单型属，仅含 1 种
 

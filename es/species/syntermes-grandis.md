@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; Brasil: ?; Bolivi
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Syntermes grandis*** es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es French Guiana: Cayenne \[4.93333N 52.33W\]. Distribución según la fuente: Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana. Este sitio registra 3 sinónimos junior para la especie.
+***Syntermes grandis*** es una especie del género *Syntermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es French Guiana: Cayenne \[4.93333N 52.33W\]. Distribución según la fuente: Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *grandis*: Del latín grandis (grande)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Syntermes*]({{ site.base_url }}/es/genus/syntermes/) — 23 especies
 - **Especie tipo del género**: *Syntermes dirus*

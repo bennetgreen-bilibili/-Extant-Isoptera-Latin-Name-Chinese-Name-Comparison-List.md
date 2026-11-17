@@ -12,7 +12,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗吉尔双裂白蚁**（*Bifiditermes rogierae*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Hollande 于 1982 年描述，模式产地为 Canary Islands (Spain): Tenerife, Punta de Teno。分布记录包括西班牙。
+**罗吉尔双裂白蚁**（*Bifiditermes rogierae*）是木白蚁科（Kalotermitidae）双裂白蚁属（*Bifiditermes*）的一种。本种由 Hollande 于 1982 年描述，模式产地为 Canary Islands (Spain): Tenerife, Punta de Teno。分布记录包括西班牙。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种
 - **本属模式种**：*Bifiditermes madagascariensis*
 

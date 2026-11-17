@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Brasil: Pará; Panama: Obispo"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Heterotermes tenuis*** is a species of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Hagen in 1858; the type locality is Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?. Distribution: Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands. This site records 2 junior synonyms for the species.
+***Heterotermes tenuis*** is a species of the genus *Heterotermes*, in the family Heterotermitidae. The species was described by Hagen in 1858; the type locality is Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?. Distribution: Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *tenuis*: Latin tenuis (slender)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Heterotermes*]({{ site.base_url }}/en/genus/heterotermes/) — 31 species
 - **Type species of the genus**: *Heterotermes platycephalus*
 

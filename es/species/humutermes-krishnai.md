@@ -14,7 +14,7 @@ genus_zh: "腐殖白蚁属"
 genus_latin: "Humutermes"
 genus_id: "humutermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Humutermes krishnai*** es una especie y la especie tipo del género *Humutermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución según la fuente: Neotropics, Panama, Colombia, French Guiana, Brazil, Ecuador.
+***Humutermes krishnai*** es una especie y la especie tipo del género *Humutermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución según la fuente: Neotropics, Panama, Colombia, French Guiana, Brazil, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *krishnai*: En honor del taxónomo de termitas K. Krishna
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Humutermes*]({{ site.base_url }}/es/genus/humutermes/) — 2 especies
 

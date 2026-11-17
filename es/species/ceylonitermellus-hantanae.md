@@ -14,7 +14,7 @@ genus_zh: "小锡兰白蚁属"
 genus_latin: "Ceylonitermellus"
 genus_id: "ceylonitermellus"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ceylonitermellus hantanae*** es una especie y la especie tipo del género *Ceylonitermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Hantana. Distribución según la fuente: Sri Lanka.
+***Ceylonitermellus hantanae*** es una especie y la especie tipo del género *Ceylonitermellus*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Hantana. Distribución según la fuente: Sri Lanka.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hantanae*: Por Hantana (Sri Lanka)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ceylonitermellus*]({{ site.base_url }}/es/genus/ceylonitermellus/) — 3 especies
 

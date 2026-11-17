@@ -14,7 +14,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Kalotermes capicola*** is a species of the genus *Kalotermes*, in the family KALOTERMITIDAE. The species was described by Coaton in 1949; the type locality is South Africa: Cape Town: Botanical Gardens. Distribution: South Africa.
+***Kalotermes capicola*** is a species of the genus *Kalotermes*, in the family Kalotermitidae. The species was described by Coaton in 1949; the type locality is South Africa: Cape Town: Botanical Gardens. Distribution: South Africa.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *capicola*: From Latin caput (cape) + -cola (dweller), dweller 
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Kalotermes*]({{ site.base_url }}/en/genus/kalotermes/) — 21 species
 - **Type species of the genus**: *Kalotermes flavicollis*
 

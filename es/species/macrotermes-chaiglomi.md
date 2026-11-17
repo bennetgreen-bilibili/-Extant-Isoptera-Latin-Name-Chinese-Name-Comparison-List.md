@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrotermes chaiglomi*** es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Bangkok, Bang Khen. Distribución según la fuente: Southeast Asia, East Asia, China, Thailand.
+***Macrotermes chaiglomi*** es una especie del género *Macrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Bangkok, Bang Khen. Distribución según la fuente: Southeast Asia, East Asia, China, Thailand.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *chaiglomi*: Por la localidad de Chai Glom
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Macrotermes*]({{ site.base_url }}/es/genus/macrotermes/) — 57 especies
 - **Especie tipo del género**: *Macrotermes lilljeborgi*

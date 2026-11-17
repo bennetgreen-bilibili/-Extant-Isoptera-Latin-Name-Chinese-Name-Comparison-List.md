@@ -14,7 +14,7 @@ genus_zh: "洞白蚁属"
 genus_latin: "Porotermes"
 genus_id: "porotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Chile: Los Lagos: Cayutué [ 41.2333S 72.2833W ]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Porotermes quadricollis*** es una especie y la especie tipo del género *Porotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Rambur en 1842; la localidad tipo es Chile: ?. Distribución según la fuente: Chile and southern South America. Este sitio registra 1 sinónimo junior para la especie.
+***Porotermes quadricollis*** es una especie y la especie tipo del género *Porotermes*, en la familia Stolotermitidae. La especie fue descrita por Rambur en 1842; la localidad tipo es Chile: ?. Distribución según la fuente: Chile and southern South America. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *quadricollis*: De quadri (cuadrado) + collis (cuello)
 
 ## Posición taxonómica
 
-- **Familia**: [STOLOTERMITIDAE]({{ site.base_url }}/es/family/stolotermitidae/) — 2 géneros, 10 especies
+- **Familia**: [Stolotermitidae]({{ site.base_url }}/es/family/stolotermitidae/) — 2 géneros, 10 especies
 - **Género**: [*Porotermes*]({{ site.base_url }}/es/genus/porotermes/) — 3 especies
 
 ## Distribución

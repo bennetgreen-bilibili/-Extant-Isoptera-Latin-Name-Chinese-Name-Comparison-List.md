@@ -14,7 +14,7 @@ genus_zh: "头白蚁属"
 genus_latin: "Cephalotermes"
 genus_id: "cephalotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆筒白蚁亚科"
 subfamily_latin: "Cylindrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cephalotermes rectangularis*** es la única especie viviente del género *Cephalotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Mungo River. Distribución según la fuente: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
+***Cephalotermes rectangularis*** es la única especie viviente del género *Cephalotermes*, en la familia Termitidae (subfamilia Cylindrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Mungo River. Distribución según la fuente: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *rectangularis*: De rectangul (ángulo recto) + aris (relat
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cylindrotermitinae]({{ site.base_url }}/es/subfamily/cylindrotermitinae/) — 2 géneros, 9 especies
 - **Género**: [*Cephalotermes*]({{ site.base_url }}/es/genus/cephalotermes/) — monotípico, 1 especie
 

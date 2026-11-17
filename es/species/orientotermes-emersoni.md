@@ -14,7 +14,7 @@ genus_zh: "东方白蚁属"
 genus_latin: "Orientotermes"
 genus_id: "orientotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "始钩白蚁亚科"
 subfamily_latin: "Protohamitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Orientotermes emersoni*** es la única especie viviente del género *Orientotermes*, en la familia TERMITIDAE (subfamilia Protohamitermitinae). La especie fue descrita por Ahmad en 1976; la localidad tipo es Malaysia: Sarawak: Sabal Tapang. Distribución según la fuente: Brunei, Malaysia.
+***Orientotermes emersoni*** es la única especie viviente del género *Orientotermes*, en la familia Termitidae (subfamilia Protohamitermitinae). La especie fue descrita por Ahmad en 1976; la localidad tipo es Malaysia: Sarawak: Sabal Tapang. Distribución según la fuente: Brunei, Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *emersoni*: En honor del taxónomo de termitas A. E. Emerso
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Protohamitermitinae]({{ site.base_url }}/es/subfamily/protohamitermitinae/) — 2 géneros, 2 especies
 - **Género**: [*Orientotermes*]({{ site.base_url }}/es/genus/orientotermes/) — monotípico, 1 especie
 

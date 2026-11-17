@@ -14,7 +14,7 @@ genus_zh: "疲白蚁属"
 genus_latin: "Apagotermes"
 genus_id: "apagotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Apagotermes stolidus*** es la única especie viviente del género *Apagotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: Democratic Republic of the Congo, Cameroon, Republic of the Congo, Nigeria.
+***Apagotermes stolidus*** es la única especie viviente del género *Apagotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: Democratic Republic of the Congo, Cameroon, Republic of the Congo, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *stolidus*: Latín stolidus (romo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Apagotermes*]({{ site.base_url }}/es/genus/apagotermes/) — monotípico, 1 especie
 

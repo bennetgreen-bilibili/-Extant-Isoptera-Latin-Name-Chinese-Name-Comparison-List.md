@@ -14,7 +14,7 @@ genus_zh: "沙白蚁属"
 genus_latin: "Psammotermes"
 genus_id: "psammotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Psammotermes senegalensis*** is a species of the genus *Psammotermes*, in the family PSAMMOTERMITIDAE. The species was described by Sjöstedt in 1924; the type locality is Senegal: Dakar. Distribution: Nigeria, Senegal.
+***Psammotermes senegalensis*** is a species of the genus *Psammotermes*, in the family Psammotermitidae. The species was described by Sjöstedt in 1924; the type locality is Senegal: Dakar. Distribution: Nigeria, Senegal.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *senegalensis*: Named after the locality Senegal
 
 ## Taxonomic position
 
-- **Family**: [PSAMMOTERMITIDAE]({{ site.base_url }}/en/family/psammotermitidae/) — 2 genera, 18 species
+- **Family**: [Psammotermitidae]({{ site.base_url }}/en/family/psammotermitidae/) — 2 genera, 18 species
 - **Genus**: [*Psammotermes*]({{ site.base_url }}/en/genus/psammotermes/) — 6 species
 - **Type species of the genus**: *Psammotermes hybostoma*
 

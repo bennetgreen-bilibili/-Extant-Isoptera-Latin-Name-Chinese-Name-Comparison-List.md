@@ -14,7 +14,7 @@ genus_zh: "棒鼻白蚁属"
 genus_latin: "Parrhinotermes"
 genus_id: "parrhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Parrhinotermes shamimi*** es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Bose en 1999; la localidad tipo es India: Arunachal Pradesh: natural forest ca. 1 km from Lake Ganga, Itangar. Distribución según la fuente: India.
+***Parrhinotermes shamimi*** es una especie del género *Parrhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Bose en 1999; la localidad tipo es India: Arunachal Pradesh: natural forest ca. 1 km from Lake Ganga, Itangar. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *shamimi*: En honor de una persona «Shamim» (identidad no
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Parrhinotermes*]({{ site.base_url }}/es/genus/parrhinotermes/) — 13 especies
 - **Especie tipo del género**: *Parrhinotermes aequalis*
 

@@ -14,7 +14,7 @@ genus_zh: "稀白蚁属"
 genus_latin: "Speculitermes"
 genus_id: "speculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Speculitermes sinhalensis*** is a species of the genus *Speculitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Roonwal & Sen-Sarma in 1960; the type locality is Sri Lanka: Vavuniya. Distribution: Sri Lanka, India.
+***Speculitermes sinhalensis*** is a species of the genus *Speculitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Roonwal & Sen-Sarma in 1960; the type locality is Sri Lanka: Vavuniya. Distribution: Sri Lanka, India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *sinhalensis*: Named after Sinhala (Sri Lanka)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Speculitermes*]({{ site.base_url }}/en/genus/speculitermes/) — 13 species
 - **Type species of the genus**: *Speculitermes cyclops*

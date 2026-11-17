@@ -12,7 +12,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**腓尼基木白蚁**（*Kalotermes phoeniciae*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种。本种由 Ghesini & Marini 于 2015 年描述，模式产地为 Lebanon: Benouaiti。分布记录包括地中海东岸、黎凡特。
+**腓尼基木白蚁**（*Kalotermes phoeniciae*）是木白蚁科（Kalotermitidae）木白蚁属（*Kalotermes*）的一种。本种由 Ghesini & Marini 于 2015 年描述，模式产地为 Lebanon: Benouaiti。分布记录包括地中海东岸、黎凡特。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/genus/kalotermes/) —— 共 21 种
 - **本属模式种**：*Kalotermes flavicollis*
 

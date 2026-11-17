@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Costa Rica: Cocos Island"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Prorhinotermes oceanicus*** is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE. The species was described by Wasmann in 1902; the type locality is Costa Rica: Cocos Island. Distribution: Costa Rica, Cocos Island, Costa Rica. This site records 1 junior synonym for the species.
+***Prorhinotermes oceanicus*** is a species of the genus *Prorhinotermes*, in the family Psammotermitidae. The species was described by Wasmann in 1902; the type locality is Costa Rica: Cocos Island. Distribution: Costa Rica, Cocos Island, Costa Rica. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *oceanicus*: Latin oceanus (ocean): oceanic
 
 ## Taxonomic position
 
-- **Family**: [PSAMMOTERMITIDAE]({{ site.base_url }}/en/family/psammotermitidae/) — 2 genera, 18 species
+- **Family**: [Psammotermitidae]({{ site.base_url }}/en/family/psammotermitidae/) — 2 genera, 18 species
 - **Genus**: [*Prorhinotermes*]({{ site.base_url }}/en/genus/prorhinotermes/) — 12 species
 - **Type species of the genus**: *Prorhinotermes inopinatus*
 

@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes ferrugineus*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Holmgren in 1911; the type locality is Papua New Guinea: Huon-Golf; Kela; Samoa-Hafen. Distribution: Papua New Guinea.
+***Neotermes ferrugineus*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Holmgren in 1911; the type locality is Papua New Guinea: Huon-Golf; Kela; Samoa-Hafen. Distribution: Papua New Guinea.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *ferrugineus*: Latin ferrugineus (rusty)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

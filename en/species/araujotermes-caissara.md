@@ -14,7 +14,7 @@ genus_zh: "阿劳若白蚁属"
 genus_latin: "Araujotermes"
 genus_id: "araujotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Araujotermes caissara*** is a species and the type species of the genus *Araujotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Fontes in 1982; the type locality is Brasil: Santa Catarina: Itapema \[27.0903S 48.6114W\]. Distribution: Brazil, Argentina.
+***Araujotermes caissara*** is a species and the type species of the genus *Araujotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Fontes in 1982; the type locality is Brasil: Santa Catarina: Itapema \[27.0903S 48.6114W\]. Distribution: Brazil, Argentina.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *caissara*: After the caiçara people (coastal Brazil)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Araujotermes*]({{ site.base_url }}/en/genus/araujotermes/) — 4 species
 

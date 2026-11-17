@@ -12,7 +12,7 @@ genus_zh: "锐尖白蚁属"
 genus_latin: "Mucrotermes"
 genus_id: "mucrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**奥斯本锐尖白蚁**（*Mucrotermes osborni*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）锐尖白蚁属（*Mucrotermes*）的一种，也是本属的模式种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括旧热带界、刚果民主共和国。
+**奥斯本锐尖白蚁**（*Mucrotermes osborni*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）锐尖白蚁属（*Mucrotermes*）的一种，也是本属的模式种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括旧热带界、刚果民主共和国。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[锐尖白蚁属 *Mucrotermes*]({{ site.base_url }}/genus/mucrotermes/) —— 共 2 种
 

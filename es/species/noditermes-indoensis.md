@@ -14,7 +14,7 @@ genus_zh: "节白蚁属"
 genus_latin: "Noditermes"
 genus_id: "noditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Noditermes indoensis*** es una especie del género *Noditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Congo: Indo. Distribución según la fuente: Central Africa, Gabon, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Tanzania.
+***Noditermes indoensis*** es una especie del género *Noditermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Congo: Indo. Distribución según la fuente: Central Africa, Gabon, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Tanzania.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *indoensis*: Por la localidad de Indo
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Noditermes*]({{ site.base_url }}/es/genus/noditermes/) — 7 especies
 - **Especie tipo del género**: *Noditermes lamanianus*

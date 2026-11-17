@@ -14,7 +14,7 @@ genus_zh: "凸白蚁属"
 genus_latin: "Convexitermes"
 genus_id: "convexitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Convexitermes convexifrons*** is a species and the type species of the genus *Convexitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, Colombia, Bolivia, Ecuador, Peru, Paraguay, Trinidad.
+***Convexitermes convexifrons*** is a species and the type species of the genus *Convexitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, Colombia, Bolivia, Ecuador, Peru, Paraguay, Trinidad.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *convexifrons*: From convexi + frons
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Convexitermes*]({{ site.base_url }}/en/genus/convexitermes/) — 2 species
 

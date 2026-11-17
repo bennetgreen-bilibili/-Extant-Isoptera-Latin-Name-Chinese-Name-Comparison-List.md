@@ -20,6 +20,6 @@ back_label: "新白蚁属 Neotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
 ---

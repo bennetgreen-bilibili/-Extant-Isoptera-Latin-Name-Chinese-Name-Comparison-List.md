@@ -14,7 +14,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Promirotermes holmgreni*** is a species and the type species of the genus *Promirotermes*, in the family TERMITIDAE (subfamily Promirotermitinae). The species was described by Silvestri in 1912; the type locality is Guinea Bissau: Bolama. Distribution: Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon. This site records 1 junior synonym for the species.
+***Promirotermes holmgreni*** is a species and the type species of the genus *Promirotermes*, in the family Termitidae (subfamily Promirotermitinae). The species was described by Silvestri in 1912; the type locality is Guinea Bissau: Bolama. Distribution: Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Promirotermitinae]({{ site.base_url }}/en/subfamily/promirotermitinae/) — 2 genera, 39 species
 - **Genus**: [*Promirotermes*]({{ site.base_url }}/en/genus/promirotermes/) — 10 species
 

@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes assamensis*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Maiti & Saha in 2000; the type locality is India: Assam: Dibrugarh. Distribution: India, Assam.
+***Neotermes assamensis*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Maiti & Saha in 2000; the type locality is India: Assam: Dibrugarh. Distribution: India, Assam.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *assamensis*: Named after the locality Assam
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

@@ -14,7 +14,7 @@ genus_zh: "杆白蚁属"
 genus_latin: "Stylotermes"
 genus_id: "stylotermes"
 family_zh: "杆白蚁科"
-family_latin: "STYLOTERMITIDAE"
+family_latin: "Stylotermitidae"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Stylotermes tsaii*** es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Gao, Zhu, Yang, Ji & Ma en 1982; la localidad tipo es China: Sichuan Province: Langzhong. Distribución según la fuente: China.
+***Stylotermes tsaii*** es una especie del género *Stylotermes*, en la familia Stylotermitidae. La especie fue descrita por Gao, Zhu, Yang, Ji & Ma en 1982; la localidad tipo es China: Sichuan Province: Langzhong. Distribución según la fuente: China.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *tsaii*: En honor de Pang-hwa Tsai (1902–1983), taxónomo
 
 ## Posición taxonómica
 
-- **Familia**: [STYLOTERMITIDAE]({{ site.base_url }}/es/family/stylotermitidae/) — 1 género, 45 especies
+- **Familia**: [Stylotermitidae]({{ site.base_url }}/es/family/stylotermitidae/) — 1 género, 45 especies
 - **Género**: [*Stylotermes*]({{ site.base_url }}/es/genus/stylotermes/) — 45 especies
 - **Especie tipo del género**: *Stylotermes fletcheri*
 

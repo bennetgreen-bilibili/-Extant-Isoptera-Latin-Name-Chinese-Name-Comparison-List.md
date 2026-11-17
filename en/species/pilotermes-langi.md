@@ -14,7 +14,7 @@ genus_zh: "棘白蚁属"
 genus_latin: "Pilotermes"
 genus_id: "pilotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pilotermes langi*** is the only extant species of the genus *Pilotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Emerson in 1960; the type locality is Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribution: Democratic Republic of the Congo.
+***Pilotermes langi*** is the only extant species of the genus *Pilotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Emerson in 1960; the type locality is Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribution: Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *langi*: Named after Lang
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Pilotermes*]({{ site.base_url }}/en/genus/pilotermes/) — monotypic, 1 species
 

@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Indonesia: Sulawesi; Solomon Islands: Ugi Island"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Schedorhinotermes translucens*** es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
+***Schedorhinotermes translucens*** es una especie del género *Schedorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *translucens*: Del término descriptivo «transluc» (trans
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Schedorhinotermes*]({{ site.base_url }}/es/genus/schedorhinotermes/) — 35 especies
 - **Especie tipo del género**: *Schedorhinotermes intermedius*
 

@@ -52,7 +52,6 @@
   function nameParts(node, zhMode) {
     var zh = node.zh || '';
     var latin = node.latin || '';
-    if (node.type === 'family' && latin) latin = latin.toUpperCase();
     if (zhMode === 'zh' || !latin) return zh ? [{ t: zh, cls: 'zh' }] : [{ t: latin, cls: 'lat' }];
     if (zhMode === 'latin' || !zh) return [{ t: latin, cls: 'lat' }];
     return [{ t: zh, cls: 'zh' }, { t: ' ' + latin, cls: 'lat' }];

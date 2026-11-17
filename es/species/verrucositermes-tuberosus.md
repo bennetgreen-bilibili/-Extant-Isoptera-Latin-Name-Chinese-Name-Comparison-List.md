@@ -14,7 +14,7 @@ genus_zh: "疣白蚁属"
 genus_latin: "Verrucositermes"
 genus_id: "verrucositermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Verrucositermes tuberosus*** es una especie y la especie tipo del género *Verrucositermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kalina Point at the Congo River, Kinshasa. Distribución según la fuente: Cameroon, Congo (Kinshasa), Democratic Republic of the Congo, Gabon.
+***Verrucositermes tuberosus*** es una especie y la especie tipo del género *Verrucositermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kalina Point at the Congo River, Kinshasa. Distribución según la fuente: Cameroon, Congo (Kinshasa), Democratic Republic of the Congo, Gabon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tuberosus*: De tuber (tubérculo) + osus (abundante, lleno
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Verrucositermes*]({{ site.base_url }}/es/genus/verrucositermes/) — 2 especies
 

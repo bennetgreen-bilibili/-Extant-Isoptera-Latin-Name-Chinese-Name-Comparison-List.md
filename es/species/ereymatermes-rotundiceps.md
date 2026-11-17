@@ -14,7 +14,7 @@ genus_zh: "无名白蚁属"
 genus_latin: "Ereymatermes"
 genus_id: "ereymatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ereymatermes rotundiceps*** es una especie y la especie tipo del género *Ereymatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amazonas: Maraã, Ilha Jaraqui, varzea forest \[1.854S 65.528W\]. Distribución según la fuente: South America, Brazil, Colombia, Ecuador.
+***Ereymatermes rotundiceps*** es una especie y la especie tipo del género *Ereymatermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amazonas: Maraã, Ilha Jaraqui, varzea forest \[1.854S 65.528W\]. Distribución según la fuente: South America, Brazil, Colombia, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *rotundiceps*: Del latín rotundus (redondo) + -ceps (cabez
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ereymatermes*]({{ site.base_url }}/es/genus/ereymatermes/) — 3 especies
 

@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]; Colombia: ?"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes guayanae*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Suriname: ?. Distribución según la fuente: Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago. Este sitio registra 2 sinónimos junior para la especie.
+***Nasutitermes guayanae*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Suriname: ?. Distribución según la fuente: Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *guayanae*: Por la Guayana
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

@@ -12,7 +12,7 @@ genus_zh: "新扭白蚁属"
 genus_latin: "Neocapritermes"
 genus_id: "neocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乌蒂亚里蒂新扭白蚁**（*Neocapritermes utiariti*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Krishna & Araujo 于 1968 年描述，模式产地为 Brasil: Mato Grosso: Utiariti (waterfall) \[ 13.027S 58.283W \]。分布记录包括巴西、哥伦比亚、秘鲁。
+**乌蒂亚里蒂新扭白蚁**（*Neocapritermes utiariti*）是白蚁科（Termitidae）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Krishna & Araujo 于 1968 年描述，模式产地为 Brasil: Mato Grosso: Utiariti (waterfall) \[ 13.027S 58.283W \]。分布记录包括巴西、哥伦比亚、秘鲁。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/subfamily/neocapritermitinae/) —— 本站收录 3 属 20 种
 - **属**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/genus/neocapritermes/) —— 共 17 种
 - **本属模式种**：*Neocapritermes opacus*

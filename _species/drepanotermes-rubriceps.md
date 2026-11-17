@@ -12,7 +12,7 @@ genus_zh: "镰白蚁属"
 genus_latin: "Drepanotermes"
 genus_id: "drepanotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland: Townsville"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**红头镰白蚁**（*Drepanotermes rubriceps*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）镰白蚁属（*Drepanotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Northern Territory, near Alice Springs。分布记录包括澳大利亚。本种有 1 个次异名。
+**红头镰白蚁**（*Drepanotermes rubriceps*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）镰白蚁属（*Drepanotermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Northern Territory, near Alice Springs。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Australia: Queensland: Townsville"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[镰白蚁属 *Drepanotermes*]({{ site.base_url }}/genus/drepanotermes/) —— 共 24 种
 - **本属模式种**：*Drepanotermes perniger*

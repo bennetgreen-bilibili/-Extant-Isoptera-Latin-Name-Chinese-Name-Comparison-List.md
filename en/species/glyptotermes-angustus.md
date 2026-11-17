@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Panama: Barro Colorado Island"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Glyptotermes angustus*** is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1925; the type locality is Panama: Rio Chinilla. Distribution: Costa Rica, Belize, Honduras, Nicaragua, Panama. This site records 1 junior synonym for the species.
+***Glyptotermes angustus*** is a species of the genus *Glyptotermes*, in the family Kalotermitidae. The species was described by Snyder in 1925; the type locality is Panama: Rio Chinilla. Distribution: Costa Rica, Belize, Honduras, Nicaragua, Panama. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *angustus*: Latin angustus (narrow)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Glyptotermes*]({{ site.base_url }}/en/genus/glyptotermes/) — 131 species
 - **Type species of the genus**: *Glyptotermes tuberculatus*
 

@@ -14,7 +14,7 @@ genus_zh: "凋落白蚁属"
 genus_latin: "Ngauratermes"
 genus_id: "ngauratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ngauratermes arue*** is the only extant species of the genus *Ngauratermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Constantino & Acioli in 2009; the type locality is Brasil: Amazonas: Benjamin Constant, Nova Aliança \[4.35S 69.6W\]. Distribution: Brazil, Peru.
+***Ngauratermes arue*** is the only extant species of the genus *Ngauratermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Constantino & Acioli in 2009; the type locality is Brasil: Amazonas: Benjamin Constant, Nova Aliança \[4.35S 69.6W\]. Distribution: Brazil, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *arue*: Named after the locality Arué
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Ngauratermes*]({{ site.base_url }}/en/genus/ngauratermes/) — monotypic, 1 species
 

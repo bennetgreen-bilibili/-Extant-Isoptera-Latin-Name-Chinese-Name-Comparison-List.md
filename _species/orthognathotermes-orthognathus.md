@@ -12,7 +12,7 @@ genus_zh: "直颚白蚁属"
 genus_latin: "Orthognathotermes"
 genus_id: "orthognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**直颚直颚白蚁**（*Orthognathotermes orthognathus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）直颚白蚁属（*Orthognathotermes*）的一种。本种由 Silvestri 于 1903 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]。分布记录包括巴西、巴拉圭。
+**直颚直颚白蚁**（*Orthognathotermes orthognathus*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）直颚白蚁属（*Orthognathotermes*）的一种。本种由 Silvestri 于 1903 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]。分布记录包括巴西、巴拉圭。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[直颚白蚁属 *Orthognathotermes*]({{ site.base_url }}/genus/orthognathotermes/) —— 共 15 种
 - **本属模式种**：*Orthognathotermes macrocephalus*

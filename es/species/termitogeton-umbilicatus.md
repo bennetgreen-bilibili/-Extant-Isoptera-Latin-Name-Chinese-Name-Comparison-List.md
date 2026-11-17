@@ -14,7 +14,7 @@ genus_zh: "寡脉白蚁属"
 genus_latin: "Termitogeton"
 genus_id: "termitogeton"
 family_zh: "寡脉白蚁科"
-family_latin: "TERMITOGETONIDAE"
+family_latin: "Termitogetonidae"
 family_id: "termitogetonidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Termitogeton umbilicatus*** es una especie del género *Termitogeton*, en la familia TERMITOGETONIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Sri Lanka: Rambodde. Distribución según la fuente: Sri Lanka.
+***Termitogeton umbilicatus*** es una especie del género *Termitogeton*, en la familia Termitogetonidae. La especie fue descrita por Hagen en 1858; la localidad tipo es Sri Lanka: Rambodde. Distribución según la fuente: Sri Lanka.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *umbilicatus*: Del latín umbilicatus (umbilicado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITOGETONIDAE]({{ site.base_url }}/es/family/termitogetonidae/) — 1 género, 2 especies
+- **Familia**: [Termitogetonidae]({{ site.base_url }}/es/family/termitogetonidae/) — 1 género, 2 especies
 - **Género**: [*Termitogeton*]({{ site.base_url }}/es/genus/termitogeton/) — 2 especies
 - **Especie tipo del género**: *Termitogeton planus*
 

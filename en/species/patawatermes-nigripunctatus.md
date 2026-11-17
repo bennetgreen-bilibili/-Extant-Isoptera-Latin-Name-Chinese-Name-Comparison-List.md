@@ -14,7 +14,7 @@ genus_zh: "帕塔瓦白蚁属"
 genus_latin: "Patawatermes"
 genus_id: "patawatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Patawatermes nigripunctatus*** is a species of the genus *Patawatermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Colombia, French Guiana, Ecuador, Brazil, Bolivia, Peru, Trinidad and Tobago.
+***Patawatermes nigripunctatus*** is a species of the genus *Patawatermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Colombia, French Guiana, Ecuador, Brazil, Bolivia, Peru, Trinidad and Tobago.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *nigripunctatus*: From nigripunct + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Patawatermes*]({{ site.base_url }}/en/genus/patawatermes/) — 2 species
 - **Type species of the genus**: *Patawatermes turricola*

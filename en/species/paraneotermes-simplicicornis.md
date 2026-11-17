@@ -14,7 +14,7 @@ genus_zh: "近新白蚁属"
 genus_latin: "Paraneotermes"
 genus_id: "paraneotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "United States: Texas: Cotula"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Paraneotermes simplicicornis*** is the only extant species of the genus *Paraneotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1920; the type locality is United States: Texas: Laguna, on the Neuces River. Distribution: North America, United States, Mexico. This site records 1 junior synonym for the species.
+***Paraneotermes simplicicornis*** is the only extant species of the genus *Paraneotermes*, in the family Kalotermitidae. The species was described by Banks in 1920; the type locality is United States: Texas: Laguna, on the Neuces River. Distribution: North America, United States, Mexico. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *simplicicornis*: Latin simplex (simple) + cornu (horn), simple
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Paraneotermes*]({{ site.base_url }}/en/genus/paraneotermes/) — monotypic, 1 species
 
 ## Distribution

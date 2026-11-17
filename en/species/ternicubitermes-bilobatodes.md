@@ -14,7 +14,7 @@ genus_zh: "三方白蚁属"
 genus_latin: "Ternicubitermes"
 genus_id: "ternicubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ternicubitermes bilobatodes*** is a species and the type species of the genus *Ternicubitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1912; the type locality is Guinea Bissau: Bolama. Distribution: Gambia, Guinea-Bissau, Senegal.
+***Ternicubitermes bilobatodes*** is a species and the type species of the genus *Ternicubitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Silvestri in 1912; the type locality is Guinea Bissau: Bolama. Distribution: Gambia, Guinea-Bissau, Senegal.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *bilobatodes*: Latin bi- (two) + lobatus (lobed) + Greek -odes 
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Ternicubitermes*]({{ site.base_url }}/en/genus/ternicubitermes/) — 13 species
 

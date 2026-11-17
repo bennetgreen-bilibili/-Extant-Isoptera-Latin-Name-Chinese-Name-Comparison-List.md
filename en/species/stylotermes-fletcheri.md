@@ -14,7 +14,7 @@ genus_zh: "杆白蚁属"
 genus_latin: "Stylotermes"
 genus_id: "stylotermes"
 family_zh: "杆白蚁科"
-family_latin: "STYLOTERMITIDAE"
+family_latin: "Stylotermitidae"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Stylotermes fletcheri*** is a species and the type species of the genus *Stylotermes*, in the family STYLOTERMITIDAE. The species was described by Holmgren & Holmgren in 1917; the type locality is India: Shevaroy Hills; Tamil Nadu: Coimbatore. Distribution: India.
+***Stylotermes fletcheri*** is a species and the type species of the genus *Stylotermes*, in the family Stylotermitidae. The species was described by Holmgren & Holmgren in 1917; the type locality is India: Shevaroy Hills; Tamil Nadu: Coimbatore. Distribution: India.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *fletcheri*: Named after Fletcher
 
 ## Taxonomic position
 
-- **Family**: [STYLOTERMITIDAE]({{ site.base_url }}/en/family/stylotermitidae/) — 1 genus, 45 species
+- **Family**: [Stylotermitidae]({{ site.base_url }}/en/family/stylotermitidae/) — 1 genus, 45 species
 - **Genus**: [*Stylotermes*]({{ site.base_url }}/en/genus/stylotermes/) — 45 species
 
 ## Distribution

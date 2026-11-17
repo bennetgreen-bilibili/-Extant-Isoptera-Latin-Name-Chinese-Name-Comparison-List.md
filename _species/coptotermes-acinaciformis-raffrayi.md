@@ -12,7 +12,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -27,7 +27,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拉夫雷亚种**（*Coptotermes acinaciformis raffrayi*）是短刀乳白蚁（*Coptotermes acinaciformis*）的一个亚种，隶属异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）。本亚种由 Wasmann 于 1900 年描述，模式产地为 Australia: Western Australia: Swan River。本页暂无单列的分布记录，母种 *Coptotermes acinaciformis* 的分布见下文「分布」一节。
+**拉夫雷亚种**（*Coptotermes acinaciformis raffrayi*）是短刀乳白蚁（*Coptotermes acinaciformis*）的一个亚种，隶属异白蚁科（Heterotermitidae）乳白蚁属（*Coptotermes*）。本亚种由 Wasmann 于 1900 年描述，模式产地为 Australia: Western Australia: Swan River。本页暂无单列的分布记录，母种 *Coptotermes acinaciformis* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -39,7 +39,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
 - **种**：[短刀乳白蚁 *Coptotermes acinaciformis*]({{ site.base_url }}/species/coptotermes-acinaciformis/)
 - **亚种**：本页（*Coptotermes acinaciformis raffrayi*）

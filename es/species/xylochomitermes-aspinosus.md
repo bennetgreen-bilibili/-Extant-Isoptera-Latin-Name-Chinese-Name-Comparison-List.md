@@ -14,7 +14,7 @@ genus_zh: "木堆白蚁属"
 genus_latin: "Xylochomitermes"
 genus_id: "xylochomitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Xylochomitermes aspinosus*** es una especie del género *Xylochomitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Western Australia: Kununurra. Distribución según la fuente: Australia.
+***Xylochomitermes aspinosus*** es una especie del género *Xylochomitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Western Australia: Kununurra. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *aspinosus*: De a- (sin) + spinosus (muy espinoso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Xylochomitermes*]({{ site.base_url }}/es/genus/xylochomitermes/) — 6 especies
 - **Especie tipo del género**: *Xylochomitermes occidualis*

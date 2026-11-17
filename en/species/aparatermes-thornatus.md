@@ -14,7 +14,7 @@ genus_zh: "弯肠白蚁属"
 genus_latin: "Aparatermes"
 genus_id: "aparatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Aparatermes thornatus*** is a species of the genus *Aparatermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Pinzon & Scheffrahn in 2019; the type locality is Ecuador: Orellana: Yasuni National Park \[ 0.6717S 76.3979W \]. Distribution: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, Central America and Caribbean.
+***Aparatermes thornatus*** is a species of the genus *Aparatermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Pinzon & Scheffrahn in 2019; the type locality is Ecuador: Orellana: Yasuni National Park \[ 0.6717S 76.3979W \]. Distribution: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, Central America and Caribbean.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *thornatus*: Named after Thorn, or from thorn + -atus (spiny)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Aparatermes*]({{ site.base_url }}/en/genus/aparatermes/) — 3 species
 - **Type species of the genus**: *Aparatermes abbreviatus*

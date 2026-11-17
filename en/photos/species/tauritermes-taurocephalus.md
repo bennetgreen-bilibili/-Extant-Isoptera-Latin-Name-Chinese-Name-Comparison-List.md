@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Tauritermes_taurocep
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
   - name: "Tauritermes"
     url: "/en/genus/tauritermes/"

@@ -14,7 +14,7 @@ genus_zh: "无名白蚁属"
 genus_latin: "Ereymatermes"
 genus_id: "ereymatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ereymatermes piquira*** es una especie del género *Ereymatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cancello & Cuezzo en 2007; la localidad tipo es Brasil: Bahia: Ilhéus \[14.7972S 39.073W\]. Distribución según la fuente: South America, Brazil, Peru.
+***Ereymatermes piquira*** es una especie del género *Ereymatermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Cancello & Cuezzo en 2007; la localidad tipo es Brasil: Bahia: Ilhéus \[14.7972S 39.073W\]. Distribución según la fuente: South America, Brazil, Peru.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *piquira*: Del tupí piquira (pequeño)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ereymatermes*]({{ site.base_url }}/es/genus/ereymatermes/) — 3 especies
 - **Especie tipo del género**: *Ereymatermes rotundiceps*

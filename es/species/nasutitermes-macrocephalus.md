@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes macrocephalus*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]. Distribución según la fuente: Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela.
+***Nasutitermes macrocephalus*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]. Distribución según la fuente: Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *macrocephalus*: Del griego makros (grande) + kephalē (cab
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

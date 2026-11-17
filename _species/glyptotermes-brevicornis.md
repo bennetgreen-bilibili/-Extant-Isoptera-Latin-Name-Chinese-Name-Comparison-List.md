@@ -12,7 +12,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Australia: Queensland: Mt. Tambourine; Australia: Queenslan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短角树白蚁**（*Glyptotermes brevicornis*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括澳大利亚、斐济、新西兰。本种有 6 个次异名。
+**短角树白蚁**（*Glyptotermes brevicornis*）是木白蚁科（Kalotermitidae）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Queensland: Mackay。分布记录包括澳大利亚、斐济、新西兰。本种有 6 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Australia: Queensland: Mt. Tambourine; Australia: Queenslan
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种
 - **本属模式种**：*Glyptotermes tuberculatus*
 

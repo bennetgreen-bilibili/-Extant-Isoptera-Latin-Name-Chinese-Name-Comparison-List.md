@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Indonesia: Java: Bogor"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes cynocephalus*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Light in 1921; the type locality is Philippines: Luzon: Manila. Distribution: Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka. This site records 1 junior synonym for the species.
+***Cryptotermes cynocephalus*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Light in 1921; the type locality is Philippines: Luzon: Manila. Distribution: Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *cynocephalus*: Greek kyōn (dog) + kephalē (head), dog-headed
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

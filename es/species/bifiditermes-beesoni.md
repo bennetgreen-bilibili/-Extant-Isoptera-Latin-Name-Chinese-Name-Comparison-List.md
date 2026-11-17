@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bifiditermes beesoni*** es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gardner en 1945; la localidad tipo es India: Uttarakhand: Haldwani. Distribución según la fuente: India, Pakistan.
+***Bifiditermes beesoni*** es una especie del género *Bifiditermes*, en la familia Kalotermitidae. La especie fue descrita por Gardner en 1945; la localidad tipo es India: Uttarakhand: Haldwani. Distribución según la fuente: India, Pakistan.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *beesoni*: En honor del entomólogo forestal C. F. C. Beeso
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Bifiditermes*]({{ site.base_url }}/es/genus/bifiditermes/) — 12 especies
 - **Especie tipo del género**: *Bifiditermes madagascariensis*
 

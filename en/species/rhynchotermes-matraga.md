@@ -14,7 +14,7 @@ genus_zh: "喙白蚁属"
 genus_latin: "Rhynchotermes"
 genus_id: "rhynchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rhynchotermes matraga*** is a species of the genus *Rhynchotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Constantini & Cancello in 2016; the type locality is Brasil: Minas Gerais: Conceição do Mato Dentro, Serra da Serpentina \[19.0502S 43.3635W\]. Distribution: Brazil.
+***Rhynchotermes matraga*** is a species of the genus *Rhynchotermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Constantini & Cancello in 2016; the type locality is Brasil: Minas Gerais: Conceição do Mato Dentro, Serra da Serpentina \[19.0502S 43.3635W\]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *matraga*: Named after Augusto Matraga, character in Guimarães
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Rhynchotermes*]({{ site.base_url }}/en/genus/rhynchotermes/) — 8 species
 - **Type species of the genus**: *Rhynchotermes nasutissimus*

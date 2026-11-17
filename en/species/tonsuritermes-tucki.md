@@ -14,7 +14,7 @@ genus_zh: "奇囟白蚁属"
 genus_latin: "Tonsuritermes"
 genus_id: "tonsuritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Tonsuritermes tucki*** is a species and the type species of the genus *Tonsuritermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Constantini & Cancello in 2018; the type locality is Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]. Distribution: South America, Brazil, Colombia, French Guiana, Paraguay, Peru.
+***Tonsuritermes tucki*** is a species and the type species of the genus *Tonsuritermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Constantini & Cancello in 2018; the type locality is Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]. Distribution: South America, Brazil, Colombia, French Guiana, Paraguay, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *tucki*: In reference to the character Friar Tuck, the supposed
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Tonsuritermes*]({{ site.base_url }}/en/genus/tonsuritermes/) — 2 species
 

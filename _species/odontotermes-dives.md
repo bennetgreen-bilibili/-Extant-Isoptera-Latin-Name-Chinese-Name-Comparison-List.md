@@ -12,7 +12,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Philippines: Luzon: Laguna Province: Paete; Philippines: Pa
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多产土白蚁**（*Odontotermes dives*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括东南亚印度尼西亚、菲律宾、马来西亚。本种有 2 个次异名。
+**多产土白蚁**（*Odontotermes dives*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括东南亚印度尼西亚、菲律宾、马来西亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Philippines: Luzon: Laguna Province: Paete; Philippines: Pa
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/genus/odontotermes/) —— 共 198 种
 - **本属模式种**：*Odontotermes vulgaris*

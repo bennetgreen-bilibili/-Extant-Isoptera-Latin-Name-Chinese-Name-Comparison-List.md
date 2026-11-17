@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schedorhinotermes lamanianus*** is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
+***Schedorhinotermes lamanianus*** is a species of the genus *Schedorhinotermes*, in the family Rhinotermitidae. The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *lamanianus*: Named after Laman
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Schedorhinotermes*]({{ site.base_url }}/en/genus/schedorhinotermes/) — 35 species
 - **Type species of the genus**: *Schedorhinotermes intermedius*
 

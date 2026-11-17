@@ -14,7 +14,7 @@ genus_zh: "唇白蚁属"
 genus_latin: "Labritermes"
 genus_id: "labritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "孔白蚁亚科"
 subfamily_latin: "Foraminitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Labritermes buttelreepeni*** es una especie y la especie tipo del género *Labritermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat. Distribución según la fuente: Indonesia, Malaysia.
+***Labritermes buttelreepeni*** es una especie y la especie tipo del género *Labritermes*, en la familia Termitidae (subfamilia Foraminitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat. Distribución según la fuente: Indonesia, Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *buttelreepeni*: En honor del entomólogo H. von Buttel-Ree
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Foraminitermitinae]({{ site.base_url }}/es/subfamily/foraminitermitinae/) — 3 géneros, 10 especies
 - **Género**: [*Labritermes*]({{ site.base_url }}/es/genus/labritermes/) — 3 especies
 

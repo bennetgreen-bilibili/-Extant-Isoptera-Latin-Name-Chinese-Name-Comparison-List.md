@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Termitidae_%2810.389
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Apicotermitinae"
     url: "/en/subfamily/apicotermitinae/"

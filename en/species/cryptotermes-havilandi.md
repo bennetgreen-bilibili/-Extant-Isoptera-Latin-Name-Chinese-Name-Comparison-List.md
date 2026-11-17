@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Senegal: Thi�
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes havilandi*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Sjöstedt in 1900; the type locality is Equatorial Guinea: Bioko. Distribution: southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands. This site records 2 junior synonyms for the species.
+***Cryptotermes havilandi*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Sjöstedt in 1900; the type locality is Equatorial Guinea: Bioko. Distribution: southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *havilandi*: Named after the entomologist G. D. Haviland
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

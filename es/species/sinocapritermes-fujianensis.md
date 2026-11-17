@@ -14,7 +14,7 @@ genus_zh: "华扭白蚁属"
 genus_latin: "Sinocapritermes"
 genus_id: "sinocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Sinocapritermes fujianensis*** es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ping & Xu en 1986; la localidad tipo es China: Fujian Province: Jian'ou. Distribución según la fuente: China.
+***Sinocapritermes fujianensis*** es una especie del género *Sinocapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Ping & Xu en 1986; la localidad tipo es China: Fujian Province: Jian'ou. Distribución según la fuente: China.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *fujianensis*: Por la localidad de Fujian
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Sinocapritermes*]({{ site.base_url }}/es/genus/sinocapritermes/) — 16 especies
 - **Especie tipo del género**: *Sinocapritermes sinensis*

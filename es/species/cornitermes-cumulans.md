@@ -14,7 +14,7 @@ genus_zh: "角象白蚁属"
 genus_latin: "Cornitermes"
 genus_id: "cornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Paraguay: ?; Brasil: ?; Brasil: Minas Gerais: Congonhas [20
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cornitermes cumulans*** es una especie y la especie tipo del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Kollar en 1832; la localidad tipo es Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]. Distribución según la fuente: Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador. Este sitio registra 4 sinónimos junior para la especie.
+***Cornitermes cumulans*** es una especie y la especie tipo del género *Cornitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Kollar en 1832; la localidad tipo es Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]. Distribución según la fuente: Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador. Este sitio registra 4 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *cumulans*: Del latín cumulans (que acumula)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Cornitermes*]({{ site.base_url }}/es/genus/cornitermes/) — 14 especies
 

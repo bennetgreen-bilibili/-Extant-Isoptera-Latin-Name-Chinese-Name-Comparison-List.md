@@ -14,7 +14,7 @@ genus_zh: "地白蚁属"
 genus_latin: "Hypotermes"
 genus_id: "hypotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hypotermes meiziensis*** es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Huang & Zhu en 1990; la localidad tipo es China: Yunnan Province: Baoshan City: Meizi village. Distribución según la fuente: China (Yunnan).
+***Hypotermes meiziensis*** es una especie del género *Hypotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Huang & Zhu en 1990; la localidad tipo es China: Yunnan Province: Baoshan City: Meizi village. Distribución según la fuente: China (Yunnan).
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *meiziensis*: Por Meizi, Ninger, Yunnan, China
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Hypotermes*]({{ site.base_url }}/es/genus/hypotermes/) — 13 especies
 - **Especie tipo del género**: *Hypotermes obscuriceps*

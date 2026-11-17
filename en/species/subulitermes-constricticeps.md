@@ -14,7 +14,7 @@ genus_zh: "锥白蚁属"
 genus_latin: "Subulitermes"
 genus_id: "subulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Subulitermes constricticeps*** is a species of the genus *Subulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribution: Brazil, French Guiana, Colombia.
+***Subulitermes constricticeps*** is a species of the genus *Subulitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribution: Brazil, French Guiana, Colombia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *constricticeps*: From constricti + ceps
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Subulitermes*]({{ site.base_url }}/en/genus/subulitermes/) — 6 species
 - **Type species of the genus**: *Subulitermes microsoma*

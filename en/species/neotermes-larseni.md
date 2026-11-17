@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes larseni*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Light in 1935; the type locality is Costa Rica: Cocos Island. Distribution: Costa Rica, Mexico.
+***Neotermes larseni*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Light in 1935; the type locality is Costa Rica: Cocos Island. Distribution: Costa Rica, Mexico.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *larseni*: Named after Larsen
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

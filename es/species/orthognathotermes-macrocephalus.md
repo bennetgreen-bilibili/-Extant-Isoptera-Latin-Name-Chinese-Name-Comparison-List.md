@@ -14,7 +14,7 @@ genus_zh: "直颚白蚁属"
 genus_latin: "Orthognathotermes"
 genus_id: "orthognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Orthognathotermes macrocephalus*** es una especie y la especie tipo del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]. Distribución según la fuente: Brazil, Bolivia.
+***Orthognathotermes macrocephalus*** es una especie y la especie tipo del género *Orthognathotermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]. Distribución según la fuente: Brazil, Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *macrocephalus*: Del griego makros (grande) + kephalē (cab
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Orthognathotermes*]({{ site.base_url }}/es/genus/orthognathotermes/) — 15 especies
 

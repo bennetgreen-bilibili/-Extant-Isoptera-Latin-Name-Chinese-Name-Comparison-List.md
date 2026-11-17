@@ -14,7 +14,7 @@ genus_zh: "弯钩白蚁属"
 genus_latin: "Uncitermes"
 genus_id: "uncitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Uncitermes almeriae*** es una especie del género *Uncitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Carrijo en 2016; la localidad tipo es Ecuador: Orellana: Yasuni National Park \[0.6717S 76.3979W\]. Distribución según la fuente: Peru, Ecuador.
+***Uncitermes almeriae*** es una especie del género *Uncitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Carrijo en 2016; la localidad tipo es Ecuador: Orellana: Yasuni National Park \[0.6717S 76.3979W\]. Distribución según la fuente: Peru, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *almeriae*: Por Almería
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Uncitermes*]({{ site.base_url }}/es/genus/uncitermes/) — 2 especies
 - **Especie tipo del género**: *Uncitermes teevani*

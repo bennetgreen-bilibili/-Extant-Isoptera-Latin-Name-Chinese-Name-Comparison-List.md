@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Glyptotermes sepilokensis*** es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan South District: Sepilok Forest Reserve. Distribución según la fuente: Malaysia, Indonesia.
+***Glyptotermes sepilokensis*** es una especie del género *Glyptotermes*, en la familia Kalotermitidae. La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan South District: Sepilok Forest Reserve. Distribución según la fuente: Malaysia, Indonesia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *sepilokensis*: Por la localidad de Sepilok
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Glyptotermes*]({{ site.base_url }}/es/genus/glyptotermes/) — 131 especies
 - **Especie tipo del género**: *Glyptotermes tuberculatus*
 

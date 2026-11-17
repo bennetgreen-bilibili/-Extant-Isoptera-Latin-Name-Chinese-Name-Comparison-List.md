@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Prorhinotermes canalifrons*** is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE. The species was described by Sjöstedt in 1904; the type locality is Madagascar: Toamasina (Tamatave). Distribution: Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles.
+***Prorhinotermes canalifrons*** is a species of the genus *Prorhinotermes*, in the family Psammotermitidae. The species was described by Sjöstedt in 1904; the type locality is Madagascar: Toamasina (Tamatave). Distribution: Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *canalifrons*: Latin canalis (groove) + frons (front), grooved-
 
 ## Taxonomic position
 
-- **Family**: [PSAMMOTERMITIDAE]({{ site.base_url }}/en/family/psammotermitidae/) — 2 genera, 18 species
+- **Family**: [Psammotermitidae]({{ site.base_url }}/en/family/psammotermitidae/) — 2 genera, 18 species
 - **Genus**: [*Prorhinotermes*]({{ site.base_url }}/en/genus/prorhinotermes/) — 12 species
 - **Type species of the genus**: *Prorhinotermes inopinatus*
 

@@ -14,7 +14,7 @@ genus_zh: "马库希白蚁属"
 genus_latin: "Macuxitermes"
 genus_id: "macuxitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macuxitermes triceratops*** es una especie y la especie tipo del género *Macuxitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Cancello & Bandeira en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[3.4N 61.65W\]. Distribución según la fuente: Brazil.
+***Macuxitermes triceratops*** es una especie y la especie tipo del género *Macuxitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Cancello & Bandeira en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[3.4N 61.65W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *triceratops*: Del griego tri- (tres) + keras (cuerno) + ō
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Macuxitermes*]({{ site.base_url }}/es/genus/macuxitermes/) — 2 especies
 

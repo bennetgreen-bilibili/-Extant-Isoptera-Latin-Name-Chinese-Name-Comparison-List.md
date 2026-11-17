@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "China: Guangdong Province: Zengeheng County"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Coptotermes chaoxianensis*** is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Huang & Li in 1985; the type locality is China: Anhui Province: Chaoxian County. Distribution: Anhui, China. This site records 1 junior synonym for the species.
+***Coptotermes chaoxianensis*** is a species of the genus *Coptotermes*, in the family Heterotermitidae. The species was described by Huang & Li in 1985; the type locality is China: Anhui Province: Chaoxian County. Distribution: Anhui, China. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *chaoxianensis*: Named after the locality Chaoxian
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Coptotermes*]({{ site.base_url }}/en/genus/coptotermes/) — 58 species
 - **Type species of the genus**: *Coptotermes gestroi*
 

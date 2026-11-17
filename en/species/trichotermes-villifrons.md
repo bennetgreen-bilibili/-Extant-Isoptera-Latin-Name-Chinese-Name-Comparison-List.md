@@ -14,7 +14,7 @@ genus_zh: "发白蚁属"
 genus_latin: "Trichotermes"
 genus_id: "trichotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Trichotermes villifrons*** is a species and the type species of the genus *Trichotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Africa, Democratic Republic of the Congo, Central Africa, Republic of the Congo.
+***Trichotermes villifrons*** is a species and the type species of the genus *Trichotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Africa, Democratic Republic of the Congo, Central Africa, Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *villifrons*: From villi + frons
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Trichotermes*]({{ site.base_url }}/en/genus/trichotermes/) — 3 species
 

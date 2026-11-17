@@ -14,7 +14,7 @@ genus_zh: "小白蚁属"
 genus_latin: "Microtermes"
 genus_id: "microtermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Gujarat: Anand; India: Maharashtra: Mumbai"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microtermes obesi*** es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es India: Maharashtra: Khandala. Distribución según la fuente: South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran. Este sitio registra 2 sinónimos junior para la especie.
+***Microtermes obesi*** es una especie del género *Microtermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es India: Maharashtra: Khandala. Distribución según la fuente: South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *obesi*: Del latín obesus (gordo, rollizo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Microtermes*]({{ site.base_url }}/es/genus/microtermes/) — 69 especies
 - **Especie tipo del género**: *Microtermes incertus*

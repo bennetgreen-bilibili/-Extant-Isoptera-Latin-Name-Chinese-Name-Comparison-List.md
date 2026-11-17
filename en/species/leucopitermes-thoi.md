@@ -14,7 +14,7 @@ genus_zh: "白脸白蚁属"
 genus_latin: "Leucopitermes"
 genus_id: "leucopitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Leucopitermes thoi*** is a species of the genus *Leucopitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Gathorne-Hardy in 2004; the type locality is Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribution: Indonesia, Malaysia.
+***Leucopitermes thoi*** is a species of the genus *Leucopitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Gathorne-Hardy in 2004; the type locality is Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribution: Indonesia, Malaysia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *thoi*: Named after Y. P. Tho (Vietnamese termitologist)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Leucopitermes*]({{ site.base_url }}/en/genus/leucopitermes/) — 4 species
 - **Type species of the genus**: *Leucopitermes leucops*

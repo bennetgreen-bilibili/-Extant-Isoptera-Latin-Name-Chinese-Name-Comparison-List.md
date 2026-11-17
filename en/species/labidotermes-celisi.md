@@ -14,7 +14,7 @@ genus_zh: "钳白蚁属"
 genus_latin: "Labidotermes"
 genus_id: "labidotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Labidotermes celisi*** is the only extant species of the genus *Labidotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Deligne & Pasteels in 1969; the type locality is Democratic Republic of the Congo: Butembo. Distribution: Central African Republic, Cameroon.
+***Labidotermes celisi*** is the only extant species of the genus *Labidotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Deligne & Pasteels in 1969; the type locality is Democratic Republic of the Congo: Butembo. Distribution: Central African Republic, Cameroon.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *celisi*: Named after Celis
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Labidotermes*]({{ site.base_url }}/en/genus/labidotermes/) — monotypic, 1 species
 

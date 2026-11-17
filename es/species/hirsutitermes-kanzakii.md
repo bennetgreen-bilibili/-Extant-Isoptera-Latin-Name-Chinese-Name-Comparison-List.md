@@ -14,7 +14,7 @@ genus_zh: "毛糙白蚁属"
 genus_latin: "Hirsutitermes"
 genus_id: "hirsutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hirsutitermes kanzakii*** es la única especie viviente del género *Hirsutitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución según la fuente: Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela.
+***Hirsutitermes kanzakii*** es la única especie viviente del género *Hirsutitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución según la fuente: Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *kanzakii*: En honor de Kanzaki
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Hirsutitermes*]({{ site.base_url }}/es/genus/hirsutitermes/) — monotípico, 1 especie
 

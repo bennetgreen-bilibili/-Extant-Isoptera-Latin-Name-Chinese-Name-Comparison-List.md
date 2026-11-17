@@ -14,7 +14,7 @@ genus_zh: "腹爆白蚁属"
 genus_latin: "Ruptitermes"
 genus_id: "ruptitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ruptitermes franciscoi*** es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1959; la localidad tipo es Venezuela: Bolivar: El Pilar \[ 7.38333N 61.7333W \]. Distribución según la fuente: South America, Brazil, French Guiana, Venezuela, Bolivia, Colombia.
+***Ruptitermes franciscoi*** es una especie del género *Ruptitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1959; la localidad tipo es Venezuela: Bolivar: El Pilar \[ 7.38333N 61.7333W \]. Distribución según la fuente: South America, Brazil, French Guiana, Venezuela, Bolivia, Colombia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *franciscoi*: En honor de Francisco
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Ruptitermes*]({{ site.base_url }}/es/genus/ruptitermes/) — 13 especies
 - **Especie tipo del género**: *Ruptitermes xanthochiton*

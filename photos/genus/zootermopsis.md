@@ -20,6 +20,6 @@ back_label: "动白蚁属 Zootermopsis"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "古白蚁科 ARCHOTERMOPSIDAE"
+  - name: "古白蚁科 Archotermopsidae"
     url: "/family/archotermopsidae/"
 ---

@@ -14,7 +14,7 @@ genus_zh: "前新白蚁属"
 genus_latin: "Proneotermes"
 genus_id: "proneotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Proneotermes perezi*** is a species and the type species of the genus *Proneotermes*, in the family KALOTERMITIDAE. The species was described by Holmgren in 1911; the type locality is Costa Rica: San José. Distribution: Costa Rica, Guatemala, Honduras, Panama.
+***Proneotermes perezi*** is a species and the type species of the genus *Proneotermes*, in the family Kalotermitidae. The species was described by Holmgren in 1911; the type locality is Costa Rica: San José. Distribution: Costa Rica, Guatemala, Honduras, Panama.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *perezi*: Named after Perez
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Proneotermes*]({{ site.base_url }}/en/genus/proneotermes/) — 4 species
 
 ## Distribution

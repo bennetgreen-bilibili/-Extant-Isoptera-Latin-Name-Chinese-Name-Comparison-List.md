@@ -14,7 +14,7 @@ genus_zh: "腐殖白蚁属"
 genus_latin: "Humutermes"
 genus_id: "humutermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Humutermes noiroti*** es una especie del género *Humutermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es Panama: Barro Colorado Island. Distribución según la fuente: Neotropics.
+***Humutermes noiroti*** es una especie del género *Humutermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es Panama: Barro Colorado Island. Distribución según la fuente: Neotropics.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *noiroti*: En honor de C. Noirot (biólogo francés de term
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Humutermes*]({{ site.base_url }}/es/genus/humutermes/) — 2 especies
 - **Especie tipo del género**: *Humutermes krishnai*

@@ -14,7 +14,7 @@ genus_zh: "寡脉白蚁属"
 genus_latin: "Termitogeton"
 genus_id: "termitogeton"
 family_zh: "寡脉白蚁科"
-family_latin: "TERMITOGETONIDAE"
+family_latin: "Termitogetonidae"
 family_id: "termitogetonidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Malaysia: Sabah: Lamag District: Pin"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Termitogeton planus*** es una especie y la especie tipo del género *Termitogeton*, en la familia TERMITOGETONIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
+***Termitogeton planus*** es una especie y la especie tipo del género *Termitogeton*, en la familia Termitogetonidae. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *planus*: Del latín planus (plano)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITOGETONIDAE]({{ site.base_url }}/es/family/termitogetonidae/) — 1 género, 2 especies
+- **Familia**: [Termitogetonidae]({{ site.base_url }}/es/family/termitogetonidae/) — 1 género, 2 especies
 - **Género**: [*Termitogeton*]({{ site.base_url }}/es/genus/termitogeton/) — 2 especies
 
 ## Distribución

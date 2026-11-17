@@ -14,7 +14,7 @@ genus_zh: "生白蚁属"
 genus_latin: "Embiratermes"
 genus_id: "embiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Embiratermes neotenicus*** is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. This site records 1 junior synonym for the species.
+***Embiratermes neotenicus*** is a species of the genus *Embiratermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *neotenicus*: From neoteny: Greek neos (young) + teinein (to ex
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Embiratermes*]({{ site.base_url }}/en/genus/embiratermes/) — 9 species
 - **Type species of the genus**: *Embiratermes festivellus*

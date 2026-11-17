@@ -14,7 +14,7 @@ genus_zh: "印扭白蚁属"
 genus_latin: "Indocapritermes"
 genus_id: "indocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Indocapritermes aruni*** es la única especie viviente del género *Indocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Kerala: Silent Valley. Distribución según la fuente: South Asia, India.
+***Indocapritermes aruni*** es la única especie viviente del género *Indocapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Kerala: Silent Valley. Distribución según la fuente: South Asia, India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *aruni*: En honor de Arun
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Indocapritermes*]({{ site.base_url }}/es/genus/indocapritermes/) — monotípico, 1 especie
 

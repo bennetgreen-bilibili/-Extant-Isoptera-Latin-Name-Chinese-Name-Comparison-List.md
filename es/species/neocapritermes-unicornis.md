@@ -14,7 +14,7 @@ genus_zh: "新扭白蚁属"
 genus_latin: "Neocapritermes"
 genus_id: "neocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neocapritermes unicornis*** es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]. Distribución según la fuente: Brazil.
+***Neocapritermes unicornis*** es una especie del género *Neocapritermes*, en la familia Termitidae (subfamilia Neocapritermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *unicornis*: De uni (uno) + cornis (cuerno)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Neocapritermitinae]({{ site.base_url }}/es/subfamily/neocapritermitinae/) — 3 géneros, 20 especies
 - **Género**: [*Neocapritermes*]({{ site.base_url }}/es/genus/neocapritermes/) — 17 especies
 - **Especie tipo del género**: *Neocapritermes opacus*

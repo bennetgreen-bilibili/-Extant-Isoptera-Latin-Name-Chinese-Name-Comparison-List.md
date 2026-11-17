@@ -12,7 +12,7 @@ genus_zh: "慢白蚁属"
 genus_latin: "Tarditermes"
 genus_id: "tarditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**反色慢白蚁**（*Tarditermes contracolor*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）慢白蚁属（*Tarditermes*）的现存唯一种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括刚果（金）、刚果民主共和国。
+**反色慢白蚁**（*Tarditermes contracolor*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）慢白蚁属（*Tarditermes*）的现存唯一种。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括刚果（金）、刚果民主共和国。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[慢白蚁属 *Tarditermes*]({{ site.base_url }}/genus/tarditermes/) —— 单型属，仅含 1 种
 

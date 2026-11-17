@@ -14,7 +14,7 @@ genus_zh: "阿特拉斯白蚁属"
 genus_latin: "Atlantitermes"
 genus_id: "atlantitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Atlantitermes osborni*** es una especie del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Bartica District, Cow Island \[6.43N 58.623W\]. Distribución según la fuente: Colombia, Brazil, French Guiana, Bolivia, Ecuador, Guyana, Venezuela.
+***Atlantitermes osborni*** es una especie del género *Atlantitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Bartica District, Cow Island \[6.43N 58.623W\]. Distribución según la fuente: Colombia, Brazil, French Guiana, Bolivia, Ecuador, Guyana, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *osborni*: En honor del entomólogo H. Osborn
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Atlantitermes*]({{ site.base_url }}/es/genus/atlantitermes/) — 8 especies
 - **Especie tipo del género**: *Atlantitermes guarinim*

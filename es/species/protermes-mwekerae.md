@@ -14,7 +14,7 @@ genus_zh: "前白蚁属"
 genus_latin: "Protermes"
 genus_id: "protermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Protermes mwekerae*** es una especie del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ruelle en 1971; la localidad tipo es Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve. Distribución según la fuente: Angola, Zambia.
+***Protermes mwekerae*** es una especie del género *Protermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Ruelle en 1971; la localidad tipo es Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve. Distribución según la fuente: Angola, Zambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mwekerae*: En honor de Mwekera, Zambia
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Protermes*]({{ site.base_url }}/es/genus/protermes/) — 5 especies
 - **Especie tipo del género**: *Protermes prorepens*

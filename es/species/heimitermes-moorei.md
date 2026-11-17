@@ -14,7 +14,7 @@ genus_zh: "埃姆白蚁属"
 genus_latin: "Heimitermes"
 genus_id: "heimitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heimitermes moorei*** es una especie del género *Heimitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Old World tropics.
+***Heimitermes moorei*** es una especie del género *Heimitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Old World tropics.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *moorei*: En honor de Moore
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Heimitermes*]({{ site.base_url }}/es/genus/heimitermes/) — 2 especies
 - **Especie tipo del género**: *Heimitermes laticeps*

@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/640481372/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "木白蚁科 KALOTERMITIDAE"
+  - name: "木白蚁科 Kalotermitidae"
     url: "/family/kalotermitidae/"
   - name: "树白蚁属 Glyptotermes"
     url: "/genus/glyptotermes/"

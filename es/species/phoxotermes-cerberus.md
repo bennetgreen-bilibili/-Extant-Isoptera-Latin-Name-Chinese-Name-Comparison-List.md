@@ -14,7 +14,7 @@ genus_zh: "锐白蚁属"
 genus_latin: "Phoxotermes"
 genus_id: "phoxotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Phoxotermes cerberus*** es la única especie viviente del género *Phoxotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Collins en 1977; la localidad tipo es Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo. Distribución según la fuente: Central Africa, Cameroon, Congo.
+***Phoxotermes cerberus*** es la única especie viviente del género *Phoxotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Collins en 1977; la localidad tipo es Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo. Distribución según la fuente: Central Africa, Cameroon, Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *cerberus*: Del griego Kerberos (Cerbero)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Phoxotermes*]({{ site.base_url }}/es/genus/phoxotermes/) — monotípico, 1 especie
 

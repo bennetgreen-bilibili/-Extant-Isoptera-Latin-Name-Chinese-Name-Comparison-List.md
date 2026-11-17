@@ -14,7 +14,7 @@ genus_zh: "腹爆白蚁属"
 genus_latin: "Ruptitermes"
 genus_id: "ruptitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Bolivia: La Paz: Mojos [ 14.5667S 68.8833W ]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ruptitermes reconditus*** es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Chaco: Resistencia \[ 27.45S 58.9833W \]; Misiones: Posadas \[ 27.37S 55.9W \]; Misiones: Santa Ana \[ 27.37S 55.58W \]; Salta: Salta \[ 24.7833S 65.4167W \]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: Guairá: Villa Rica \[ 25.75S 56.4333W \]. Distribución según la fuente: Neotropics, Panama, Brazil, Colombia, Venezuela, Bolivia, Ecuador, Argentina, French Guiana, Paraguay, Peru. Este sitio registra 1 sinónimo junior para la especie.
+***Ruptitermes reconditus*** es una especie del género *Ruptitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Chaco: Resistencia \[ 27.45S 58.9833W \]; Misiones: Posadas \[ 27.37S 55.9W \]; Misiones: Santa Ana \[ 27.37S 55.58W \]; Salta: Salta \[ 24.7833S 65.4167W \]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: Guairá: Villa Rica \[ 25.75S 56.4333W \]. Distribución según la fuente: Neotropics, Panama, Brazil, Colombia, Venezuela, Bolivia, Ecuador, Argentina, French Guiana, Paraguay, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *reconditus*: Del latín reconditus (oculto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Ruptitermes*]({{ site.base_url }}/es/genus/ruptitermes/) — 13 especies
 - **Especie tipo del género**: *Ruptitermes xanthochiton*

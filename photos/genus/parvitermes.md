@@ -20,7 +20,7 @@ back_label: "微白蚁属 Parvitermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "象白蚁亚科 Nasutitermitinae"
     url: "/subfamily/nasutitermitinae/"

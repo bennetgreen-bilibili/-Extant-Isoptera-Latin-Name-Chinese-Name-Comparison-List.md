@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Papua New Guinea: Friedrich-Wilhelmshafen"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Schedorhinotermes longirostris*** es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Brauer en 1866; la localidad tipo es India: Nicobar Islands: Kondul. Distribución según la fuente: India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States). Este sitio registra 1 sinónimo junior para la especie.
+***Schedorhinotermes longirostris*** es una especie del género *Schedorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Brauer en 1866; la localidad tipo es India: Nicobar Islands: Kondul. Distribución según la fuente: India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States). Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *longirostris*: De longi (largo) + rostris (pico)
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Schedorhinotermes*]({{ site.base_url }}/es/genus/schedorhinotermes/) — 35 especies
 - **Especie tipo del género**: *Schedorhinotermes intermedius*
 

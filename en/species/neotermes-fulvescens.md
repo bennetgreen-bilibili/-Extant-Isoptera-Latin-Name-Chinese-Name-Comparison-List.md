@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes fulvescens*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribution: Brazil, Argentina, Bolivia, Paraguay.
+***Neotermes fulvescens*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribution: Brazil, Argentina, Bolivia, Paraguay.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *fulvescens*: From fulv + escens
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

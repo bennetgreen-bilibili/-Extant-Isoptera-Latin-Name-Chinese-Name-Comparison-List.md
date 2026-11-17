@@ -20,6 +20,6 @@ back_label: "皱白蚁属 Rugitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
 ---

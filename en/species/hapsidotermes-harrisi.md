@@ -14,7 +14,7 @@ genus_zh: "络白蚁属"
 genus_latin: "Hapsidotermes"
 genus_id: "hapsidotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Australia: Queensland: Cape York Peninsula, near Coleman Ri
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Hapsidotermes harrisi*** is a species and the type species of the genus *Hapsidotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia. This site records 1 junior synonym for the species.
+***Hapsidotermes harrisi*** is a species and the type species of the genus *Hapsidotermes*, in the family Termitidae (subfamily Termitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *harrisi*: Named after Harris
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Hapsidotermes*]({{ site.base_url }}/en/genus/hapsidotermes/) — 5 species
 

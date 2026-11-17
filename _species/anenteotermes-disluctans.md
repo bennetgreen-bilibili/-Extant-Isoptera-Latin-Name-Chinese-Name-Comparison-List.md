@@ -12,7 +12,7 @@ genus_zh: "无甲白蚁属"
 genus_latin: "Anenteotermes"
 genus_id: "anenteotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**不斗无甲白蚁**（*Anenteotermes disluctans*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种，也是本属的模式种。本种由 Sands 于 1972 年描述，模式产地为 Uganda: Kawanda。分布记录包括刚果民主共和国、乌干达、赞比亚。
+**不斗无甲白蚁**（*Anenteotermes disluctans*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种，也是本属的模式种。本种由 Sands 于 1972 年描述，模式产地为 Uganda: Kawanda。分布记录包括刚果民主共和国、乌干达、赞比亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[无甲白蚁属 *Anenteotermes*]({{ site.base_url }}/genus/anenteotermes/) —— 共 11 种
 

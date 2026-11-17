@@ -14,7 +14,7 @@ genus_zh: "桑兹白蚁属"
 genus_latin: "Sandsitermes"
 genus_id: "sandsitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Sandsitermes robustus*** is the only extant species of the genus *Sandsitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribution: Peru, Brazil, Colombia.
+***Sandsitermes robustus*** is the only extant species of the genus *Sandsitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribution: Peru, Brazil, Colombia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *robustus*: Latin robustus (robust)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Sandsitermes*]({{ site.base_url }}/en/genus/sandsitermes/) — monotypic, 1 species
 

@@ -12,7 +12,7 @@ genus_zh: "圆筒白蚁属"
 genus_latin: "Cylindrotermes"
 genus_id: "cylindrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆筒白蚁亚科"
 subfamily_latin: "Cylindrotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**萨皮兰加圆筒白蚁**（*Cylindrotermes sapiranga*）是白蚁科（TERMITIDAE）圆筒白蚁亚科（Cylindrotermitinae）圆筒白蚁属（*Cylindrotermes*）的一种。本种由 Rocha & Cancello 于 2007 年描述，模式产地为 Brasil: Bahia: Mata de São João, Reserva da Sapiranga \[ 12.565S 38.032W \]。分布记录包括新热带界。
+**萨皮兰加圆筒白蚁**（*Cylindrotermes sapiranga*）是白蚁科（Termitidae）圆筒白蚁亚科（Cylindrotermitinae）圆筒白蚁属（*Cylindrotermes*）的一种。本种由 Rocha & Cancello 于 2007 年描述，模式产地为 Brasil: Bahia: Mata de São João, Reserva da Sapiranga \[ 12.565S 38.032W \]。分布记录包括新热带界。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[圆筒白蚁亚科 Cylindrotermitinae]({{ site.base_url }}/subfamily/cylindrotermitinae/) —— 本站收录 2 属 9 种
 - **属**：[圆筒白蚁属 *Cylindrotermes*]({{ site.base_url }}/genus/cylindrotermes/) —— 共 8 种
 - **本属模式种**：*Cylindrotermes nordenskioldi*

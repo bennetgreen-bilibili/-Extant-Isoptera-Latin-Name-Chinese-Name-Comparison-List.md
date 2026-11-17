@@ -12,7 +12,7 @@ genus_zh: "近曲白蚁属"
 genus_latin: "Paracurvitermes"
 genus_id: "paracurvitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曼近曲白蚁**（*Paracurvitermes manni*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）近曲白蚁属（*Paracurvitermes*）的现存唯一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]。分布记录包括巴西、玻利维亚。本种有 1 个次异名。
+**曼近曲白蚁**（*Paracurvitermes manni*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）近曲白蚁属（*Paracurvitermes*）的现存唯一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]。分布记录包括巴西、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[近曲白蚁属 *Paracurvitermes*]({{ site.base_url }}/genus/paracurvitermes/) —— 单型属，仅含 1 种
 

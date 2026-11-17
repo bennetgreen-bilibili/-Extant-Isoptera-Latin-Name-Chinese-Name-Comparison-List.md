@@ -12,7 +12,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莉萨楹白蚁**（*Incisitermes lisae*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Scheffrahn 于 2024 年描述，模式产地为 Mexico: Yucatan:Temozón \[ 20.82N 88.19W \]。分布记录包括伯利兹、危地马拉、墨西哥。
+**莉萨楹白蚁**（*Incisitermes lisae*）是木白蚁科（Kalotermitidae）楹白蚁属（*Incisitermes*）的一种。本种由 Scheffrahn 于 2024 年描述，模式产地为 Mexico: Yucatan:Temozón \[ 20.82N 88.19W \]。分布记录包括伯利兹、危地马拉、墨西哥。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
 - **本属模式种**：*Incisitermes schwarzi*
 

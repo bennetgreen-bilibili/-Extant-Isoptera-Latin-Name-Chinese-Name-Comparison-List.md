@@ -14,7 +14,7 @@ genus_zh: "齿尖白蚁属"
 genus_latin: "Dentispicotermes"
 genus_id: "dentispicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Dentispicotermes brevicarinatus*** is a species of the genus *Dentispicotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Emerson in 1950; the type locality is Guyana: East Berbice-Corentyne: Oronoque River \[ 2.7N 57.42W \]. Distribution: Guiana Shield, French Guiana/Guyana/Suriname, Brazil.
+***Dentispicotermes brevicarinatus*** is a species of the genus *Dentispicotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Emerson in 1950; the type locality is Guyana: East Berbice-Corentyne: Oronoque River \[ 2.7N 57.42W \]. Distribution: Guiana Shield, French Guiana/Guyana/Suriname, Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *brevicarinatus*: From brevicarin + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Dentispicotermes*]({{ site.base_url }}/en/genus/dentispicotermes/) — 6 species
 - **Type species of the genus**: *Dentispicotermes globicephalus*

@@ -12,7 +12,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Japan: Naha (Riu-kiu); Taiwan: Botel Tobago"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**恒春新白蚁**（*Neotermes koshunensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]。分布记录包括东亚、台湾、日本。本种有 1 个次异名。
+**恒春新白蚁**（*Neotermes koshunensis*）是木白蚁科（Kalotermitidae）新白蚁属（*Neotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]。分布记录包括东亚、台湾、日本。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Japan: Naha (Riu-kiu); Taiwan: Botel Tobago"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
 - **本属模式种**：*Neotermes castaneus*
 

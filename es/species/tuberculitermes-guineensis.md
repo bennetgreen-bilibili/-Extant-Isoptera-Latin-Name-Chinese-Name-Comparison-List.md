@@ -14,7 +14,7 @@ genus_zh: "小瘤白蚁属"
 genus_latin: "Tuberculitermes"
 genus_id: "tuberculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tuberculitermes guineensis*** es una especie del género *Tuberculitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia; Mamou. Distribución según la fuente: Cameroon, Ghana, Guinea, Nigeria, Sudan.
+***Tuberculitermes guineensis*** es una especie del género *Tuberculitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia; Mamou. Distribución según la fuente: Cameroon, Ghana, Guinea, Nigeria, Sudan.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *guineensis*: Por Guinea
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Tuberculitermes*]({{ site.base_url }}/es/genus/tuberculitermes/) — 3 especies
 - **Especie tipo del género**: *Tuberculitermes bycanistes*

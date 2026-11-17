@@ -12,7 +12,7 @@ genus_zh: "洞白蚁属"
 genus_latin: "Porotermes"
 genus_id: "porotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Cape Province"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**扁头洞白蚁**（*Porotermes planiceps*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 South Africa: Cape Province?。分布记录包括南非。本种有 1 个次异名。
+**扁头洞白蚁**（*Porotermes planiceps*）是胄白蚁科（Stolotermitidae）洞白蚁属（*Porotermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 South Africa: Cape Province?。分布记录包括南非。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "South Africa: Cape Province"
 
 ## 分类位置
 
-- **科**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种
+- **科**：[胄白蚁科 Stolotermitidae]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种
 - **属**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/genus/porotermes/) —— 共 3 种
 - **本属模式种**：*Porotermes quadricollis*
 

@@ -12,7 +12,7 @@ genus_zh: "圆球白蚁属"
 genus_latin: "Sphaerotermes"
 genus_id: "sphaerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆球白蚁亚科"
 subfamily_latin: "Sphaerotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**圆胸圆球白蚁**（*Sphaerotermes sphaerothorax*）是白蚁科（TERMITIDAE）圆球白蚁亚科（Sphaerotermitinae）圆球白蚁属（*Sphaerotermes*）的现存唯一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚、尼日利亚。
+**圆胸圆球白蚁**（*Sphaerotermes sphaerothorax*）是白蚁科（Termitidae）圆球白蚁亚科（Sphaerotermitinae）圆球白蚁属（*Sphaerotermes*）的现存唯一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚、尼日利亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[圆球白蚁亚科 Sphaerotermitinae]({{ site.base_url }}/subfamily/sphaerotermitinae/) —— 本站收录 1 属 1 种
 - **属**：[圆球白蚁属 *Sphaerotermes*]({{ site.base_url }}/genus/sphaerotermes/) —— 单型属，仅含 1 种
 

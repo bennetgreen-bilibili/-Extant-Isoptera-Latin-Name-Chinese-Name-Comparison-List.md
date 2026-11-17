@@ -14,7 +14,7 @@ genus_zh: "胄白蚁属"
 genus_latin: "Stolotermes"
 genus_id: "stolotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Stolotermes australicus*** is a species of the genus *Stolotermes*, in the family STOLOTERMITIDAE. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia.
+***Stolotermes australicus*** is a species of the genus *Stolotermes*, in the family Stolotermitidae. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *australicus*: Named after the locality Austral
 
 ## Taxonomic position
 
-- **Family**: [STOLOTERMITIDAE]({{ site.base_url }}/en/family/stolotermitidae/) — 2 genera, 10 species
+- **Family**: [Stolotermitidae]({{ site.base_url }}/en/family/stolotermitidae/) — 2 genera, 10 species
 - **Genus**: [*Stolotermes*]({{ site.base_url }}/en/genus/stolotermes/) — 7 species
 - **Type species of the genus**: *Stolotermes brunneicornis*
 

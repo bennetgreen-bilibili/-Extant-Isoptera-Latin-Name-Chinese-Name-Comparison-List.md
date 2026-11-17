@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/568030665/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "HETEROTERMITIDAE"
+  - name: "Heterotermitidae"
     url: "/es/family/heterotermitidae/"
   - name: "Heterotermes"
     url: "/es/genus/heterotermes/"

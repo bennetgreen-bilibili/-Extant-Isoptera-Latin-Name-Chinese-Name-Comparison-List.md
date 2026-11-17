@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes gestri*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1912; la localidad tipo es Sao Tome and Principe: Principe Island. Distribución según la fuente: Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe.
+***Neotermes gestri*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Silvestri en 1912; la localidad tipo es Sao Tome and Principe: Principe Island. Distribución según la fuente: Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *gestri*: En honor de Raffaello Gestro
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

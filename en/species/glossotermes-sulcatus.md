@@ -14,7 +14,7 @@ genus_zh: "舌白蚁属"
 genus_latin: "Glossotermes"
 genus_id: "glossotermes"
 family_zh: "齿白蚁科"
-family_latin: "SERRITERMITIDAE"
+family_latin: "Serritermitidae"
 family_id: "serritermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Glossotermes sulcatus*** is a species of the genus *Glossotermes*, in the family SERRITERMITIDAE. The species was described by Cancello & DeSouza in 2005; the type locality is Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribution: Brazil.
+***Glossotermes sulcatus*** is a species of the genus *Glossotermes*, in the family Serritermitidae. The species was described by Cancello & DeSouza in 2005; the type locality is Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribution: Brazil.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *sulcatus*: Latin sulcatus (grooved)
 
 ## Taxonomic position
 
-- **Family**: [SERRITERMITIDAE]({{ site.base_url }}/en/family/serritermitidae/) — 2 genera, 3 species
+- **Family**: [Serritermitidae]({{ site.base_url }}/en/family/serritermitidae/) — 2 genera, 3 species
 - **Genus**: [*Glossotermes*]({{ site.base_url }}/en/genus/glossotermes/) — 2 species
 - **Type species of the genus**: *Glossotermes oculatus*
 

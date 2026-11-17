@@ -16,22 +16,22 @@ lang_fallback_zh: "/list/"
 <p class="list-note">Aquí se reúne el texto en español de las familias y subfamilias, con sus ilustraciones. Esos mismos textos aparecen también en cada página de familia y subfamilia de la edición española; las listas de especies, en esas mismas páginas, y el índice en <a href="{{ site.base_url }}/es/list/">el índice taxonómico</a>.</p>
 
 <ul class="taxon-list">
-<li><a href="#mastotermitidae"><i>MASTOTERMITIDAE</i> 澳白蚁科</a></li>
-<li><a href="#archotermopsidae"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a></li>
-<li><a href="#hodotermitidae"><i>HODOTERMITIDAE</i> 草白蚁科</a></li>
-<li><a href="#hodotermopsidae"><i>HODOTERMOPSIDAE</i> 原白蚁科</a></li>
-<li><a href="#stolotermitidae"><i>STOLOTERMITIDAE</i> 胄白蚁科</a></li>
-<li><a href="#kalotermitidae"><i>KALOTERMITIDAE</i> 木白蚁科</a></li>
-<li><a href="#psammotermitidae"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a></li>
-<li><a href="#rhinotermitidae"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a></li>
-<li><a href="#serritermitidae"><i>SERRITERMITIDAE</i> 齿白蚁科</a></li>
-<li><a href="#stylotermitidae"><i>STYLOTERMITIDAE</i> 杆白蚁科</a></li>
-<li><a href="#termitogetonidae"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a></li>
-<li><a href="#heterotermitidae"><i>HETEROTERMITIDAE</i> 异白蚁科</a></li>
-<li><a href="#termitidae"><i>TERMITIDAE</i> 白蚁科</a></li>
+<li><a href="#mastotermitidae"><i>Mastotermitidae</i> 澳白蚁科</a></li>
+<li><a href="#archotermopsidae"><i>Archotermopsidae</i> 古白蚁科</a></li>
+<li><a href="#hodotermitidae"><i>Hodotermitidae</i> 草白蚁科</a></li>
+<li><a href="#hodotermopsidae"><i>Hodotermopsidae</i> 原白蚁科</a></li>
+<li><a href="#stolotermitidae"><i>Stolotermitidae</i> 胄白蚁科</a></li>
+<li><a href="#kalotermitidae"><i>Kalotermitidae</i> 木白蚁科</a></li>
+<li><a href="#psammotermitidae"><i>Psammotermitidae</i> 沙白蚁科</a></li>
+<li><a href="#rhinotermitidae"><i>Rhinotermitidae</i> 鼻白蚁科</a></li>
+<li><a href="#serritermitidae"><i>Serritermitidae</i> 齿白蚁科</a></li>
+<li><a href="#stylotermitidae"><i>Stylotermitidae</i> 杆白蚁科</a></li>
+<li><a href="#termitogetonidae"><i>Termitogetonidae</i> 寡脉白蚁科</a></li>
+<li><a href="#heterotermitidae"><i>Heterotermitidae</i> 异白蚁科</a></li>
+<li><a href="#termitidae"><i>Termitidae</i> 白蚁科</a></li>
 </ul>
 
-<h2 id="mastotermitidae"><i>MASTOTERMITIDAE</i> 澳白蚁科</h2>
+<h2 id="mastotermitidae"><i>Mastotermitidae</i> 澳白蚁科</h2>
 
 
 
@@ -44,7 +44,7 @@ lang_fallback_zh: "/list/"
   <figcaption><i>Mastotermes darwiniensis</i> 达尔文澳白蚁 · 摄影 <a href="https://www.inaturalist.org/photos/359464427">Reiner Richter</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
-<h2 id="archotermopsidae"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</h2>
+<h2 id="archotermopsidae"><i>Archotermopsidae</i> 古白蚁科</h2>
 
 
 
@@ -57,7 +57,7 @@ lang_fallback_zh: "/list/"
   <figcaption>Archotermopsis kuznetsovi 库兹涅佐夫古白蚁</figcaption>
 </figure>
 
-<h2 id="hodotermitidae"><i>HODOTERMITIDAE</i> 草白蚁科</h2>
+<h2 id="hodotermitidae"><i>Hodotermitidae</i> 草白蚁科</h2>
 
 
 
@@ -70,7 +70,7 @@ lang_fallback_zh: "/list/"
   <figcaption><i>Microhodotermes viator</i> 旅游小草白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/401934726">Sue Milton-Dean</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
-<h2 id="hodotermopsidae"><i>HODOTERMOPSIDAE</i> 原白蚁科</h2>
+<h2 id="hodotermopsidae"><i>Hodotermopsidae</i> 原白蚁科</h2>
 
 
 
@@ -83,7 +83,7 @@ lang_fallback_zh: "/list/"
   <figcaption>Hodotermopsis sjostedti 山林原白蚁</figcaption>
 </figure>
 
-<h2 id="stolotermitidae"><i>STOLOTERMITIDAE</i> 胄白蚁科</h2>
+<h2 id="stolotermitidae"><i>Stolotermitidae</i> 胄白蚁科</h2>
 
 
 
@@ -96,7 +96,7 @@ lang_fallback_zh: "/list/"
   <figcaption><i>Stolotermes victoriensis</i> 维多利亚胄白蚁 · 摄影 <a href="https://www.inaturalist.org/photos/109922908">Nick Porch</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
-<h2 id="kalotermitidae"><i>KALOTERMITIDAE</i> 木白蚁科</h2>
+<h2 id="kalotermitidae"><i>Kalotermitidae</i> 木白蚁科</h2>
 
 
 
@@ -109,7 +109,7 @@ lang_fallback_zh: "/list/"
   <figcaption>新白蚁 Neotermes sp.</figcaption>
 </figure>
 
-<h2 id="psammotermitidae"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</h2>
+<h2 id="psammotermitidae"><i>Psammotermitidae</i> 沙白蚁科</h2>
 
 
 
@@ -122,7 +122,7 @@ lang_fallback_zh: "/list/"
   <figcaption><i>Psammotermes sp.</i> 沙白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/338446969">Thijs Valkenburg</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
-<h2 id="rhinotermitidae"><i>RHINOTERMITIDAE</i> 鼻白蚁科</h2>
+<h2 id="rhinotermitidae"><i>Rhinotermitidae</i> 鼻白蚁科</h2>
 
 
 
@@ -135,7 +135,7 @@ lang_fallback_zh: "/list/"
   <figcaption><i>Schedorhinotermes sp.</i> 长鼻白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/339086630">Dave Holland</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
-<h2 id="serritermitidae"><i>SERRITERMITIDAE</i> 齿白蚁科</h2>
+<h2 id="serritermitidae"><i>Serritermitidae</i> 齿白蚁科</h2>
 
 
 
@@ -143,7 +143,7 @@ lang_fallback_zh: "/list/"
 
 <p>Esta familia es una familia pequeña endémica de la región neotropical, presente desde el norte de América del Sur (el escudo de las Guayanas) hasta Brasil. Carece de una casta de obreras verdadera. Los dos géneros difieren marcadamente en su modo de vida: Glossotermes es una termita que habita en la madera y vive dentro de troncos caídos secos y en descomposición, mientras que S. serrifer es un inquilino obligado raro entre las termitas, que pasa toda su vida dentro de los nidos-montículo epigeos de la termítido Cornitermes cumulans sin construir un nido propio; sus soldados tienen mandíbulas en forma de hoz con márgenes internos aserrados. En esta familia la cabeza del soldado es alargada, con márgenes laterales arqueados, y presenta una fontanela pequeña y de fondo ciego en la parte anterior de la cabeza que no se comunica con la glándula frontal; las antenas tienen 12–15 artejos (12–13 en Serritermes, 13–15 en Glossotermes). La glándula frontal del soldado está sumamente bien desarrollada, extendiéndose desde la cabeza hasta la mitad anterior del tórax y del abdomen; al defenderse, libera la secreción por la parte posterior del cuello mediante autorruptura (autotisis) (26).</p>
 
-<h2 id="stylotermitidae"><i>STYLOTERMITIDAE</i> 杆白蚁科</h2>
+<h2 id="stylotermitidae"><i>Stylotermitidae</i> 杆白蚁科</h2>
 
 
 
@@ -156,7 +156,7 @@ lang_fallback_zh: "/list/"
   <figcaption>杆白蚁 Stylotermes sp.</figcaption>
 </figure>
 
-<h2 id="termitogetonidae"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</h2>
+<h2 id="termitogetonidae"><i>Termitogetonidae</i> 寡脉白蚁科</h2>
 
 
 
@@ -169,7 +169,7 @@ lang_fallback_zh: "/list/"
   <figcaption><i>Termitogeton umbilicatus</i> 中凹寡脉白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/254743733">Jonghyun Park</a> · <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
-<h2 id="heterotermitidae"><i>HETEROTERMITIDAE</i> 异白蚁科</h2>
+<h2 id="heterotermitidae"><i>Heterotermitidae</i> 异白蚁科</h2>
 
 
 
@@ -184,7 +184,7 @@ lang_fallback_zh: "/list/"
   <figcaption>Coptotermes formosanus 台湾乳白蚁</figcaption>
 </figure>
 
-<h2 id="termitidae"><i>TERMITIDAE</i> 白蚁科</h2>
+<h2 id="termitidae"><i>Termitidae</i> 白蚁科</h2>
 
 
 

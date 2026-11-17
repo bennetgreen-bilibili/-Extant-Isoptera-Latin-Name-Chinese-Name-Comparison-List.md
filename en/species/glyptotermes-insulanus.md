@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Glyptotermes insulanus*** is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1912; the type locality is Sao Tome and Principe: Roça Infante D. Henrique. Distribution: São Tomé and Príncipe.
+***Glyptotermes insulanus*** is a species of the genus *Glyptotermes*, in the family Kalotermitidae. The species was described by Silvestri in 1912; the type locality is Sao Tome and Principe: Roça Infante D. Henrique. Distribution: São Tomé and Príncipe.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *insulanus*: From Latin insulanus, of islands
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Glyptotermes*]({{ site.base_url }}/en/genus/glyptotermes/) — 131 species
 - **Type species of the genus**: *Glyptotermes tuberculatus*
 

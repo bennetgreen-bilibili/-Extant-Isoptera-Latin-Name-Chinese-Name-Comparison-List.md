@@ -14,7 +14,7 @@ genus_zh: "马来白蚁属"
 genus_latin: "Malaysiotermes"
 genus_id: "malaysiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Malaysia: Selangor: Sungei Buloh; Malaysia: Sabah: Quoin Hi
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Malaysiotermes spinocephalus*** is a species and the type species of the genus *Malaysiotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ahmad in 1968; the type locality is Malaysia: Kedah: Sungai Lalang. Distribution: Indonesia, Malaysia. This site records 4 junior synonyms for the species.
+***Malaysiotermes spinocephalus*** is a species and the type species of the genus *Malaysiotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Ahmad in 1968; the type locality is Malaysia: Kedah: Sungai Lalang. Distribution: Indonesia, Malaysia. This site records 4 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *spinocephalus*: From the descriptive term 'spin' (spine)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Malaysiotermes*]({{ site.base_url }}/en/genus/malaysiotermes/) — 2 species
 

@@ -14,7 +14,7 @@ genus_zh: "后锥白蚁属"
 genus_latin: "Postsubulitermes"
 genus_id: "postsubulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Postsubulitermes parviconstrictus*** es la única especie viviente del género *Postsubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Yangambi. Distribución según la fuente: Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon.
+***Postsubulitermes parviconstrictus*** es la única especie viviente del género *Postsubulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Yangambi. Distribución según la fuente: Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *parviconstrictus*: Del término descriptivo «parv» (pequ
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Postsubulitermes*]({{ site.base_url }}/es/genus/postsubulitermes/) — monotípico, 1 especie
 

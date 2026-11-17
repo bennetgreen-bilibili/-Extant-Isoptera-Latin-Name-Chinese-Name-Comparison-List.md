@@ -14,7 +14,7 @@ genus_zh: "逃白蚁属"
 genus_latin: "Alyscotermes"
 genus_id: "alyscotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Alyscotermes kilimandjaricus*** is a species and the type species of the genus *Alyscotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
+***Alyscotermes kilimandjaricus*** is a species and the type species of the genus *Alyscotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *kilimandjaricus*: Named after Mount Kilimanjaro
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Alyscotermes*]({{ site.base_url }}/en/genus/alyscotermes/) — 2 species
 

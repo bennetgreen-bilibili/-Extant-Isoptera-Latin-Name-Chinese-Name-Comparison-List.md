@@ -14,7 +14,7 @@ genus_zh: "沙巴白蚁属"
 genus_latin: "Sabahitermes"
 genus_id: "sabahitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Sabahitermes malakuni*** es una especie y la especie tipo del género *Sabahitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Thapa en 1997; la localidad tipo es Malaysia: Sabah: Sipitang district, foothills of Gunung Lumaku Crocker Range. Distribución según la fuente: Malaysia.
+***Sabahitermes malakuni*** es una especie y la especie tipo del género *Sabahitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Thapa en 1997; la localidad tipo es Malaysia: Sabah: Sipitang district, foothills of Gunung Lumaku Crocker Range. Distribución según la fuente: Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *malakuni*: Por la localidad de Malakun
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Sabahitermes*]({{ site.base_url }}/es/genus/sabahitermes/) — 2 especies
 

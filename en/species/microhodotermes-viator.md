@@ -14,7 +14,7 @@ genus_zh: "小草白蚁属"
 genus_latin: "Microhodotermes"
 genus_id: "microhodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Microhodotermes viator*** is a species and the type species of the genus *Microhodotermes*, in the family HODOTERMITIDAE. The species was described by Latreille in 1804; the type locality is South Africa: Cape of Good Hope. Distribution: South Africa, Namibia. This site records 6 junior synonyms for the species.
+***Microhodotermes viator*** is a species and the type species of the genus *Microhodotermes*, in the family Hodotermitidae. The species was described by Latreille in 1804; the type locality is South Africa: Cape of Good Hope. Distribution: South Africa, Namibia. This site records 6 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *viator*: Latin viator (traveller)
 
 ## Taxonomic position
 
-- **Family**: [HODOTERMITIDAE]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
+- **Family**: [Hodotermitidae]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
 - **Genus**: [*Microhodotermes*]({{ site.base_url }}/en/genus/microhodotermes/) — 3 species
 
 ## Distribution

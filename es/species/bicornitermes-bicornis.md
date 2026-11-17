@@ -14,7 +14,7 @@ genus_zh: "双角白蚁属"
 genus_latin: "Bicornitermes"
 genus_id: "bicornitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bicornitermes bicornis*** es una especie y la especie tipo del género *Bicornitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna en 1961; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: Central African Republic, Democratic Republic of the Congo, Uganda.
+***Bicornitermes bicornis*** es una especie y la especie tipo del género *Bicornitermes*, en la familia Kalotermitidae. La especie fue descrita por Krishna en 1961; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: Central African Republic, Democratic Republic of the Congo, Uganda.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *bicornis*: De bi (dos) + cornis (cuerno)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Bicornitermes*]({{ site.base_url }}/es/genus/bicornitermes/) — 4 especies
 
 ## Distribución

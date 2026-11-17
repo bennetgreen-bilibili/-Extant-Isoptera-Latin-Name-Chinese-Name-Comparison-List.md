@@ -14,7 +14,7 @@ genus_zh: "解甲白蚁属"
 genus_latin: "Anoplotermes"
 genus_id: "anoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anoplotermes gracilis*** es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Panama: Ancon. Distribución según la fuente: French Guiana, Panama.
+***Anoplotermes gracilis*** es una especie del género *Anoplotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Panama: Ancon. Distribución según la fuente: French Guiana, Panama.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *gracilis*: Del latín gracilis (esbelto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Anoplotermes*]({{ site.base_url }}/es/genus/anoplotermes/) — 23 especies
 - **Especie tipo del género**: *Anoplotermes pacificus*

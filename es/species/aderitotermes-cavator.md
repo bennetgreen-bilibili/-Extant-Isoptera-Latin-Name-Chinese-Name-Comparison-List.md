@@ -14,7 +14,7 @@ genus_zh: "谐白蚁属"
 genus_latin: "Aderitotermes"
 genus_id: "aderitotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Aderitotermes cavator*** es una especie del género *Aderitotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: Northern Region: Samaru, near Zaria. Distribución según la fuente: West Africa, Cameroon, Gambia, Ivory Coast, Nigeria.
+***Aderitotermes cavator*** es una especie del género *Aderitotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: Northern Region: Samaru, near Zaria. Distribución según la fuente: West Africa, Cameroon, Gambia, Ivory Coast, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *cavator*: Del latín cavator (cavador)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Aderitotermes*]({{ site.base_url }}/es/genus/aderitotermes/) — 2 especies
 - **Especie tipo del género**: *Aderitotermes fossor*

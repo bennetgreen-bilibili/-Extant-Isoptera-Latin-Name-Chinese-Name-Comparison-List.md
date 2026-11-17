@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Comatermes perfectus","species_zh":"完美毛白蚁","slug":"comatermes-perfectus","rank":"species","type_species":true,"genus":"Comatermes","genus_zh":"毛白蚁属","genus_id":"comatermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":9779980,"records":48,"cells":12,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Comatermes perfectus","species_zh":"完美毛白蚁","slug":"comatermes-perfectus","rank":"species","type_species":true,"genus":"Comatermes","genus_zh":"毛白蚁属","genus_id":"comatermes","family":"Kalotermitidae","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":9779980,"records":48,"cells":12,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-63.5,-17.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-16.5]},"properties":{"n":2}},

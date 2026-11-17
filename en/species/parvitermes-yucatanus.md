@@ -14,7 +14,7 @@ genus_zh: "微白蚁属"
 genus_latin: "Parvitermes"
 genus_id: "parvitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Parvitermes yucatanus*** is a species of the genus *Parvitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Scheffrahn in 2016; the type locality is Mexico: 0.9 km N. gate of Punta Sam. Distribution: Guatemala, Mexico, Belize.
+***Parvitermes yucatanus*** is a species of the genus *Parvitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Scheffrahn in 2016; the type locality is Mexico: 0.9 km N. gate of Punta Sam. Distribution: Guatemala, Mexico, Belize.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *yucatanus*: Named after the locality Yucat
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Parvitermes*]({{ site.base_url }}/en/genus/parvitermes/) — 11 species
 - **Type species of the genus**: *Parvitermes brooksi*

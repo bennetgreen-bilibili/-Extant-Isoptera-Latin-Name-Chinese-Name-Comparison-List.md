@@ -12,7 +12,7 @@ genus_zh: "壶头白蚁属"
 genus_latin: "Cyrilliotermes"
 genus_id: "cyrilliotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Minas Gerais: Barbacena [21.23S 43.77W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**缩鼻壶头白蚁**（*Cyrilliotermes strictinasus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）壶头白蚁属（*Cyrilliotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括南美洲、巴西。本种有 1 个次异名。
+**缩鼻壶头白蚁**（*Cyrilliotermes strictinasus*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）壶头白蚁属（*Cyrilliotermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括南美洲、巴西。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Brasil: Minas Gerais: Barbacena [21.23S 43.77W]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[壶头白蚁属 *Cyrilliotermes*]({{ site.base_url }}/genus/cyrilliotermes/) —— 共 4 种
 - **本属模式种**：*Cyrilliotermes angulariceps*

@@ -14,7 +14,7 @@ genus_zh: "小草白蚁属"
 genus_latin: "Microhodotermes"
 genus_id: "microhodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microhodotermes wasmanni*** es una especie del género *Microhodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Libya: Uadi (Wadi) M’bellum. Distribución según la fuente: Libya, Egypt, Israel, Tunisia.
+***Microhodotermes wasmanni*** es una especie del género *Microhodotermes*, en la familia Hodotermitidae. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Libya: Uadi (Wadi) M’bellum. Distribución según la fuente: Libya, Egypt, Israel, Tunisia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *wasmanni*: En honor del entomólogo E. Wasmann
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMITIDAE]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
+- **Familia**: [Hodotermitidae]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
 - **Género**: [*Microhodotermes*]({{ site.base_url }}/es/genus/microhodotermes/) — 3 especies
 - **Especie tipo del género**: *Microhodotermes viator*
 

@@ -14,7 +14,7 @@ genus_zh: "无戟白蚁属"
 genus_latin: "Anaorotermes"
 genus_id: "anaorotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anaorotermes echinocolon*** es la única especie viviente del género *Anaorotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: 30 miles from Lokoja on Okene Road. Distribución según la fuente: Nigeria.
+***Anaorotermes echinocolon*** es la única especie viviente del género *Anaorotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: 30 miles from Lokoja on Okene Road. Distribución según la fuente: Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *echinocolon*: Del término descriptivo «echin» (espinoso
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Anaorotermes*]({{ site.base_url }}/es/genus/anaorotermes/) — monotípico, 1 especie
 

@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes canalensis*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es New Caledonia (French): Canala. Distribución según la fuente: New Caledonia.
+***Cryptotermes canalensis*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es New Caledonia (French): Canala. Distribución según la fuente: New Caledonia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *canalensis*: Por la Zona del Canal (Panamá)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

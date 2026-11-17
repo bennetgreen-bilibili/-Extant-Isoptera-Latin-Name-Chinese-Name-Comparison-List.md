@@ -14,7 +14,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Mali: Alahina; Chad: Chari-Chad; Central African Republic: 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Trinervitermes oeconomus*** es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Trägårdh en 1904; la localidad tipo es Sudan: Kaka. Distribución según la fuente: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. Este sitio registra 3 sinónimos junior para la especie.
+***Trinervitermes oeconomus*** es una especie del género *Trinervitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Trägårdh en 1904; la localidad tipo es Sudan: Kaka. Distribución según la fuente: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *oeconomus*: Del griego oikonomos (económico)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Trinervitermes*]({{ site.base_url }}/es/genus/trinervitermes/) — 21 especies
 - **Especie tipo del género**: *Trinervitermes trinervius*

@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cephalotermes_rectan
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Cylindrotermitinae"
     url: "/es/subfamily/cylindrotermitinae/"

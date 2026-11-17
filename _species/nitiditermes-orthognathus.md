@@ -12,7 +12,7 @@ genus_zh: "净白蚁属"
 genus_latin: "Nitiditermes"
 genus_id: "nitiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**直颚净白蚁**（*Nitiditermes orthognathus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Emerson 于 1928 年描述，模式产地为 Democratic Republic of the Congo: Faradje。分布记录包括刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、乌干达、赞比亚。
+**直颚净白蚁**（*Nitiditermes orthognathus*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Emerson 于 1928 年描述，模式产地为 Democratic Republic of the Congo: Faradje。分布记录包括刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、乌干达、赞比亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[净白蚁属 *Nitiditermes*]({{ site.base_url }}/genus/nitiditermes/) —— 共 15 种
 - **本属模式种**：*Nitiditermes berghei*

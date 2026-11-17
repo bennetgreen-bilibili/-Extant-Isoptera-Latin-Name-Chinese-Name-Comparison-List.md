@@ -14,7 +14,7 @@ genus_zh: "白蚁属"
 genus_latin: "Termes"
 genus_id: "termes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Termes hispaniolae*** es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Banks en 1918; la localidad tipo es Haiti: ?; Panama: ?. Distribución según la fuente: Neotropics, Central America and the Caribbean, widely distributed in northern South America, Belize, Bolivia, Brazil, Cayman Islands, Colombia, Costa Rica, Cuba, Dominican Republic, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Mexico, Montserrat, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Anguilla, Saint Lucia, Trinidad and Tobago, Venezuela, U.S. Virgin Islands, introduced: Bahamas.
+***Termes hispaniolae*** es una especie del género *Termes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Banks en 1918; la localidad tipo es Haiti: ?; Panama: ?. Distribución según la fuente: Neotropics, Central America and the Caribbean, widely distributed in northern South America, Belize, Bolivia, Brazil, Cayman Islands, Colombia, Costa Rica, Cuba, Dominican Republic, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Mexico, Montserrat, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Anguilla, Saint Lucia, Trinidad and Tobago, Venezuela, U.S. Virgin Islands, introduced: Bahamas.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hispaniolae*: En honor de La Española (Hispaniola)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Termes*]({{ site.base_url }}/es/genus/termes/) — 27 especies
 - **Especie tipo del género**: *Termes fatalis*

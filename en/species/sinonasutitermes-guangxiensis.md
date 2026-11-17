@@ -14,7 +14,7 @@ genus_zh: "华象白蚁属"
 genus_latin: "Sinonasutitermes"
 genus_id: "sinonasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Sinonasutitermes guangxiensis*** is a species of the genus *Sinonasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ping & Huang in 1991; the type locality is China: Guangxi Province: Liuzhou Shi. Distribution: China.
+***Sinonasutitermes guangxiensis*** is a species of the genus *Sinonasutitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Ping & Huang in 1991; the type locality is China: Guangxi Province: Liuzhou Shi. Distribution: China.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *guangxiensis*: Named after the locality Guangx
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Sinonasutitermes*]({{ site.base_url }}/en/genus/sinonasutitermes/) — 11 species
 - **Type species of the genus**: *Sinonasutitermes dimorphus*

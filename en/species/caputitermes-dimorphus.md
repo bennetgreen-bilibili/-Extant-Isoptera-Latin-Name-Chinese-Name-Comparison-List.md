@@ -14,7 +14,7 @@ genus_zh: "首白蚁属"
 genus_latin: "Caputitermes"
 genus_id: "caputitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Caputitermes dimorphus*** is the only extant species of the genus *Caputitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Almeida-Azevedo, Acioli, Morais & Azevedo in 2023; the type locality is Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[ 2.633S 60.1072W \]. Distribution: Brazil.
+***Caputitermes dimorphus*** is the only extant species of the genus *Caputitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Almeida-Azevedo, Acioli, Morais & Azevedo in 2023; the type locality is Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[ 2.633S 60.1072W \]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Caputitermes*]({{ site.base_url }}/en/genus/caputitermes/) — monotypic, 1 species
 

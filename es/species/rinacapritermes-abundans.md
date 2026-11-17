@@ -14,7 +14,7 @@ genus_zh: "丽娜扭白蚁属"
 genus_latin: "Rinacapritermes"
 genus_id: "rinacapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rinacapritermes abundans*** es una especie del género *Rinacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2022; la localidad tipo es India: Kerala: Kottayam, Changanasseri-Kadamanchira \[ 9.5914N 76.5219E \]. Distribución según la fuente: India.
+***Rinacapritermes abundans*** es una especie del género *Rinacapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2022; la localidad tipo es India: Kerala: Kottayam, Changanasseri-Kadamanchira \[ 9.5914N 76.5219E \]. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *abundans*: Del término descriptivo «abund» (abundante)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Rinacapritermes*]({{ site.base_url }}/es/genus/rinacapritermes/) — 2 especies
 - **Especie tipo del género**: *Rinacapritermes silvius*

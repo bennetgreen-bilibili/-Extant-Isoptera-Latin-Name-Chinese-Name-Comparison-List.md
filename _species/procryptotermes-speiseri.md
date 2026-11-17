@@ -12,7 +12,7 @@ genus_zh: "前砂白蚁属"
 genus_latin: "Procryptotermes"
 genus_id: "procryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**斯派泽前砂白蚁**（*Procryptotermes speiseri*）是木白蚁科（KALOTERMITIDAE）前砂白蚁属（*Procryptotermes*）的一种。本种由 Holmgren & Holmgren 于 1915 年描述，模式产地为 Vanuatu: Ambrym。分布记录包括瓦努阿图。
+**斯派泽前砂白蚁**（*Procryptotermes speiseri*）是木白蚁科（Kalotermitidae）前砂白蚁属（*Procryptotermes*）的一种。本种由 Holmgren & Holmgren 于 1915 年描述，模式产地为 Vanuatu: Ambrym。分布记录包括瓦努阿图。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/genus/procryptotermes/) —— 共 14 种
 - **本属模式种**：*Procryptotermes fryeri*
 

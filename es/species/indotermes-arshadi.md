@@ -14,7 +14,7 @@ genus_zh: "印白蚁属"
 genus_latin: "Indotermes"
 genus_id: "indotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Indotermes arshadi*** es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Adampur. Distribución según la fuente: Oriental region.
+***Indotermes arshadi*** es una especie del género *Indotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Adampur. Distribución según la fuente: Oriental region.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *arshadi*: En honor de Arshad
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Indotermes*]({{ site.base_url }}/es/genus/indotermes/) — 10 especies
 - **Especie tipo del género**: *Indotermes maymensis*

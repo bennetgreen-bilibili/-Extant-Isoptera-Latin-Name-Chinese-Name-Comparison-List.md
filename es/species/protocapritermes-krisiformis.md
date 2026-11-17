@@ -14,7 +14,7 @@ genus_zh: "始扭白蚁属"
 genus_latin: "Protocapritermes"
 genus_id: "protocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Protocapritermes krisiformis*** es una especie y la especie tipo del género *Protocapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: New South Wales: Sutherland, near Sydney. Distribución según la fuente: Australia.
+***Protocapritermes krisiformis*** es una especie y la especie tipo del género *Protocapritermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: New South Wales: Sutherland, near Sydney. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *krisiformis*: En honor de Krishna + del latín -formis (en
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Protocapritermes*]({{ site.base_url }}/es/genus/protocapritermes/) — 2 especies
 

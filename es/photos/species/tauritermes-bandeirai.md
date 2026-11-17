@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Tauritermes_bandeira
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
   - name: "Tauritermes"
     url: "/es/genus/tauritermes/"

@@ -14,7 +14,7 @@ genus_zh: "安的列斯白蚁属"
 genus_latin: "Antillitermes"
 genus_id: "antillitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Antillitermes subtilis*** is the only extant species of the genus *Antillitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Scheffrahn & Krecek in 1993; the type locality is Dominican Republic: Caracoles. Distribution: Cuba, Dominican Republic.
+***Antillitermes subtilis*** is the only extant species of the genus *Antillitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Scheffrahn & Krecek in 1993; the type locality is Dominican Republic: Caracoles. Distribution: Cuba, Dominican Republic.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *subtilis*: From subt + ilis
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Antillitermes*]({{ site.base_url }}/en/genus/antillitermes/) — monotypic, 1 species
 

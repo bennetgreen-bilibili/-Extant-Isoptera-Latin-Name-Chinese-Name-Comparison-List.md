@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "白蚁科 TERMITIDAE 分类名录"
-description: "白蚁科（TERMITIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 18 个亚科、280 个属、2144 个种、54 个亚种。本页按分类系统列出该科的全部亚科与属，并汇总各级物种数量。科的形态特征、分布格局与经济意义见本页上文。详见名录索引。按分类系统逐级排列。数据来自 CC BY 4.0 数据集。"
+title: "白蚁科 Termitidae 分类名录"
+description: "白蚁科（Termitidae）是现存等翅下目（Isoptera）下的一个科，本站收录 18 个亚科、280 个属、2144 个种、54 个亚种。本页按分类系统列出该科的全部亚科与属，并汇总各级物种数量。科的形态特征、分布格局与经济意义见本页上文。详见名录索引。按分类系统逐级排列。数据来自 CC BY 4.0 数据集。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林

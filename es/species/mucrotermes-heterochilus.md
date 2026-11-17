@@ -14,7 +14,7 @@ genus_zh: "锐尖白蚁属"
 genus_latin: "Mucrotermes"
 genus_id: "mucrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mucrotermes heterochilus*** es una especie del género *Mucrotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Benin: Segboroué. Distribución según la fuente: Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria.
+***Mucrotermes heterochilus*** es una especie del género *Mucrotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Benin: Segboroué. Distribución según la fuente: Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *heterochilus*: Del término descriptivo «heter» (distint
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Mucrotermes*]({{ site.base_url }}/es/genus/mucrotermes/) — 2 especies
 - **Especie tipo del género**: *Mucrotermes osborni*

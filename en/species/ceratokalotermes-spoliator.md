@@ -14,7 +14,7 @@ genus_zh: "角木白蚁属"
 genus_latin: "Ceratokalotermes"
 genus_id: "ceratokalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ceratokalotermes spoliator*** is the only extant species of the genus *Ceratokalotermes*, in the family KALOTERMITIDAE. The species was described by Hill in 1932; the type locality is Australia: Capital Territory: Uriarra. Distribution: Australia.
+***Ceratokalotermes spoliator*** is the only extant species of the genus *Ceratokalotermes*, in the family Kalotermitidae. The species was described by Hill in 1932; the type locality is Australia: Capital Territory: Uriarra. Distribution: Australia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *spoliator*: Latin spoliator (plunderer)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Ceratokalotermes*]({{ site.base_url }}/en/genus/ceratokalotermes/) — monotypic, 1 species
 
 ## Distribution

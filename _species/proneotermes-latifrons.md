@@ -12,7 +12,7 @@ genus_zh: "前新白蚁属"
 genus_latin: "Proneotermes"
 genus_id: "proneotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽额前新白蚁**（*Proneotermes latifrons*）是木白蚁科（KALOTERMITIDAE）前新白蚁属（*Proneotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括委内瑞拉。
+**宽额前新白蚁**（*Proneotermes latifrons*）是木白蚁科（Kalotermitidae）前新白蚁属（*Proneotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括委内瑞拉。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[前新白蚁属 *Proneotermes*]({{ site.base_url }}/genus/proneotermes/) —— 共 4 种
 - **本属模式种**：*Proneotermes perezi*
 

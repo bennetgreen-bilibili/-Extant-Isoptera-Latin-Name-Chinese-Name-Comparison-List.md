@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schedorhinotermes fortignathus*** is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Xia & He in 1980; the type locality is China: Yunnan Province: Simao. Distribution: Yunnan (Simao)..
+***Schedorhinotermes fortignathus*** is a species of the genus *Schedorhinotermes*, in the family Rhinotermitidae. The species was described by Xia & He in 1980; the type locality is China: Yunnan Province: Simao. Distribution: Yunnan (Simao)..
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *fortignathus*: Latin fortis (strong) + Greek gnathos (jaw), st
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Schedorhinotermes*]({{ site.base_url }}/en/genus/schedorhinotermes/) — 35 species
 - **Type species of the genus**: *Schedorhinotermes intermedius*
 

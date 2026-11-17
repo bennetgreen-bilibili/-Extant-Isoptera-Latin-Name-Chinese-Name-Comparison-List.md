@@ -14,7 +14,7 @@ genus_zh: "缩狭白蚁属"
 genus_latin: "Coarctotermes"
 genus_id: "coarctotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coarctotermes beharaensis*** es una especie del género *Coarctotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Behara. Distribución según la fuente: Madagascar.
+***Coarctotermes beharaensis*** es una especie del género *Coarctotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Behara. Distribución según la fuente: Madagascar.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *beharaensis*: Por la localidad de Behara
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Coarctotermes*]({{ site.base_url }}/es/genus/coarctotermes/) — 4 especies
 - **Especie tipo del género**: *Coarctotermes clepsydra*

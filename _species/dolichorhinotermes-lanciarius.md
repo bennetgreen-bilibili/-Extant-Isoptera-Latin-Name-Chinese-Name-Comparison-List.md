@@ -12,7 +12,7 @@ genus_zh: "狭鼻白蚁属"
 genus_latin: "Dolichorhinotermes"
 genus_id: "dolichorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**矛唇狭鼻白蚁**（*Dolichorhinotermes lanciarius*）是鼻白蚁科（RHINOTERMITIDAE）狭鼻白蚁属（*Dolichorhinotermes*）的一种。本种由 Engel & Krishna 于 2007 年描述，模式产地为 Ecuador: Morona-Santiago: Gualaquiza \[ 3.4S 78.55W \]。分布记录包括玻利维亚、厄瓜多尔、秘鲁。
+**矛唇狭鼻白蚁**（*Dolichorhinotermes lanciarius*）是鼻白蚁科（Rhinotermitidae）狭鼻白蚁属（*Dolichorhinotermes*）的一种。本种由 Engel & Krishna 于 2007 年描述，模式产地为 Ecuador: Morona-Santiago: Gualaquiza \[ 3.4S 78.55W \]。分布记录包括玻利维亚、厄瓜多尔、秘鲁。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[狭鼻白蚁属 *Dolichorhinotermes*]({{ site.base_url }}/genus/dolichorhinotermes/) —— 共 7 种
 - **本属模式种**：*Dolichorhinotermes longilabius*
 

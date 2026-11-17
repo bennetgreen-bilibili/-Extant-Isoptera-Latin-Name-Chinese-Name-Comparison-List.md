@@ -12,7 +12,7 @@ genus_zh: "腹爆白蚁属"
 genus_latin: "Ruptitermes"
 genus_id: "ruptitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阿劳若腹爆白蚁**（*Ruptitermes araujoi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种。本种由 Acioli & Constantino 于 2015 年描述，模式产地为 Brasil: São Paulo: Pitangueiras \[ 21.02S 48.22W \]。分布记录包括巴西。
+**阿劳若腹爆白蚁**（*Ruptitermes araujoi*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种。本种由 Acioli & Constantino 于 2015 年描述，模式产地为 Brasil: São Paulo: Pitangueiras \[ 21.02S 48.22W \]。分布记录包括巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[腹爆白蚁属 *Ruptitermes*]({{ site.base_url }}/genus/ruptitermes/) —— 共 13 种
 - **本属模式种**：*Ruptitermes xanthochiton*

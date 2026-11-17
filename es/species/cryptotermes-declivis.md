@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes declivis*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Guangdong: Chaochow. Distribución según la fuente: China.
+***Cryptotermes declivis*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Guangdong: Chaochow. Distribución según la fuente: China.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *declivis*: Del término descriptivo «decliv» (en declive
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

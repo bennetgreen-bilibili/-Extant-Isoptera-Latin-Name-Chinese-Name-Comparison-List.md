@@ -12,7 +12,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Gabon: ?; Benin: Cotonou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**树生象白蚁**（*Nasutitermes arborum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达。本种有 2 个次异名。
+**树生象白蚁**（*Nasutitermes arborum*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达。本种有 2 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Gabon: ?; Benin: Cotonou"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
 - **本属模式种**：*Nasutitermes corniger*

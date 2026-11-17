@@ -14,7 +14,7 @@ genus_zh: "善白蚁属"
 genus_latin: "Amicotermes"
 genus_id: "amicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Amicotermes camerunensis*** is a species of the genus *Amicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1999; the type locality is Cameroon: Mbalmayo Forest Reserve: Eboufek. Distribution: Cameroon.
+***Amicotermes camerunensis*** is a species of the genus *Amicotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sands in 1999; the type locality is Cameroon: Mbalmayo Forest Reserve: Eboufek. Distribution: Cameroon.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *camerunensis*: Named after the locality Camerun
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Amicotermes*]({{ site.base_url }}/en/genus/amicotermes/) — 12 species
 - **Type species of the genus**: *Amicotermes galenus*

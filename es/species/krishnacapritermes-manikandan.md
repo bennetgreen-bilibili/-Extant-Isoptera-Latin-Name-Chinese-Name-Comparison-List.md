@@ -14,7 +14,7 @@ genus_zh: "克里希纳扭白蚁属"
 genus_latin: "Krishnacapritermes"
 genus_id: "krishnacapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Krishnacapritermes manikandan*** es una especie del género *Krishnacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2019; la localidad tipo es India: Kerala: Idukki (Amar shola-Munnar). Distribución según la fuente: India, Kerala.
+***Krishnacapritermes manikandan*** es una especie del género *Krishnacapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2019; la localidad tipo es India: Kerala: Idukki (Amar shola-Munnar). Distribución según la fuente: India, Kerala.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *manikandan*: En honor de una persona (Manikandan)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Krishnacapritermes*]({{ site.base_url }}/es/genus/krishnacapritermes/) — 4 especies
 - **Especie tipo del género**: *Krishnacapritermes maitii*

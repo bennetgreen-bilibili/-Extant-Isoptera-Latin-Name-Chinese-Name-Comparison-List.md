@@ -12,7 +12,7 @@ genus_zh: "鼻白蚁属"
 genus_latin: "Rhinotermes"
 genus_id: "rhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**微小鼻白蚁**（*Rhinotermes marginalis*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括巴西、哥伦比亚、法属圭亚那、加勒比、玻利维亚、厄瓜多尔、秘鲁、苏里南、委内瑞拉。本种有 1 个次异名。
+**微小鼻白蚁**（*Rhinotermes marginalis*）是鼻白蚁科（Rhinotermitidae）鼻白蚁属（*Rhinotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括巴西、哥伦比亚、法属圭亚那、加勒比、玻利维亚、厄瓜多尔、秘鲁、苏里南、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[鼻白蚁属 *Rhinotermes*]({{ site.base_url }}/genus/rhinotermes/) —— 共 4 种
 - **本属模式种**：*Rhinotermes nasutus*
 

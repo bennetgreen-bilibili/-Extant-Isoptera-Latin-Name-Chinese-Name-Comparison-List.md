@@ -12,7 +12,7 @@ genus_zh: "澳白蚁属"
 genus_latin: "Mastotermes"
 genus_id: "mastotermes"
 family_zh: "澳白蚁科"
-family_latin: "MASTOTERMITIDAE"
+family_latin: "Mastotermitidae"
 family_id: "mastotermitidae"
 clade_zh: "现存等翅下目"
 clade_latin: "Extant Isoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Australia: Queensland: north Queensland"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**达尔文澳白蚁**（*Mastotermes darwiniensis*）是澳白蚁科（MASTOTERMITIDAE）澳白蚁属（*Mastotermes*）的现存唯一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚北部、热带北部地区。另有记录显示其已引入巴布亚新几内亚。本种有 1 个次异名。
+**达尔文澳白蚁**（*Mastotermes darwiniensis*）是澳白蚁科（Mastotermitidae）澳白蚁属（*Mastotermes*）的现存唯一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚北部、热带北部地区。另有记录显示其已引入巴布亚新几内亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Australia: Queensland: north Queensland"
 
 ## 分类位置
 
-- **科**：[澳白蚁科 MASTOTERMITIDAE]({{ site.base_url }}/family/mastotermitidae/) —— 本站收录 1 属 1 种
+- **科**：[澳白蚁科 Mastotermitidae]({{ site.base_url }}/family/mastotermitidae/) —— 本站收录 1 属 1 种
 - **属**：[澳白蚁属 *Mastotermes*]({{ site.base_url }}/genus/mastotermes/) —— 单型属，仅含 1 种
 
 ## 分布

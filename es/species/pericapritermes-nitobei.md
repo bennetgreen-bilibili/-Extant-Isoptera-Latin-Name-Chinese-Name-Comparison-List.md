@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Taiwan: ?; China: Jiangsu Province: Tschingkiang; China: Gu
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pericapritermes nitobei*** es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Maruyama. Distribución según la fuente: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
+***Pericapritermes nitobei*** es una especie del género *Pericapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Maruyama. Distribución según la fuente: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *nitobei*: En honor de Nitobe (agrónomo y educador japoné
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pericapritermes*]({{ site.base_url }}/es/genus/pericapritermes/) — 40 especies
 - **Especie tipo del género**: *Pericapritermes urgens*

@@ -14,7 +14,7 @@ genus_zh: "新几内亚白蚁属"
 genus_latin: "Niuginitermes"
 genus_id: "niuginitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Niuginitermes variratae*** is a species and the type species of the genus *Niuginitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Roisin & Pasteels in 1996; the type locality is Papua New Guinea: Central Province: Varirata National Park. Distribution: Papua New Guinea.
+***Niuginitermes variratae*** is a species and the type species of the genus *Niuginitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Roisin & Pasteels in 1996; the type locality is Papua New Guinea: Central Province: Varirata National Park. Distribution: Papua New Guinea.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *variratae*: Named after the locality Varirata (Papua New Guine
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Niuginitermes*]({{ site.base_url }}/en/genus/niuginitermes/) — 2 species
 

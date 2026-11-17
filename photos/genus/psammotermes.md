@@ -20,6 +20,6 @@ back_label: "沙白蚁属 Psammotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "沙白蚁科 PSAMMOTERMITIDAE"
+  - name: "沙白蚁科 Psammotermitidae"
     url: "/family/psammotermitidae/"
 ---

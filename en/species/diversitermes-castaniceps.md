@@ -14,7 +14,7 @@ genus_zh: "歧白蚁属"
 genus_latin: "Diversitermes"
 genus_id: "diversitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: São Paulo: São Vicente, Ilha Porchat [23.98S 46.3
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Diversitermes castaniceps*** is a species of the genus *Diversitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribution: Brazil, Paraguay, Bolivia. This site records 1 junior synonym for the species.
+***Diversitermes castaniceps*** is a species of the genus *Diversitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribution: Brazil, Paraguay, Bolivia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *castaniceps*: Latin castanea (chestnut) + -ceps (head), chestn
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Diversitermes*]({{ site.base_url }}/en/genus/diversitermes/) — 4 species
 - **Type species of the genus**: *Diversitermes diversimiles*

@@ -20,6 +20,6 @@ back_label: "乳白蚁属 Coptotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "异白蚁科 HETEROTERMITIDAE"
+  - name: "异白蚁科 Heterotermitidae"
     url: "/family/heterotermitidae/"
 ---

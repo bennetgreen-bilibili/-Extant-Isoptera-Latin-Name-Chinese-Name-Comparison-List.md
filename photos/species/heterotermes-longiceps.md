@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/204664976/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "异白蚁科 HETEROTERMITIDAE"
+  - name: "异白蚁科 Heterotermitidae"
     url: "/family/heterotermitidae/"
   - name: "异白蚁属 Heterotermes"
     url: "/genus/heterotermes/"

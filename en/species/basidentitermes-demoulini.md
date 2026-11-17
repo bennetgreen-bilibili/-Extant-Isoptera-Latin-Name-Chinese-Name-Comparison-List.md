@@ -14,7 +14,7 @@ genus_zh: "基齿白蚁属"
 genus_latin: "Basidentitermes"
 genus_id: "basidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Basidentitermes demoulini*** is a species of the genus *Basidentitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Harris in 1963; the type locality is Democratic Republic of the Congo: Garamba. Distribution: Old World tropics, Cameroon, Democratic Republic of the Congo, Tanzania.
+***Basidentitermes demoulini*** is a species of the genus *Basidentitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Harris in 1963; the type locality is Democratic Republic of the Congo: Garamba. Distribution: Old World tropics, Cameroon, Democratic Republic of the Congo, Tanzania.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *demoulini*: Named after Georges Demoulin
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Basidentitermes*]({{ site.base_url }}/en/genus/basidentitermes/) — 8 species
 - **Type species of the genus**: *Basidentitermes aurivillii*

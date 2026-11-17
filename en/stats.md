@@ -27,19 +27,19 @@ permalink: /en/stats/
 <table class="stats-table">
 <thead><tr><th>Chinese name</th><th>Latin name</th><th>Genera</th><th>Species</th><th>Subspecies</th></tr></thead>
 <tbody>
-<tr><td><a href="https://termite-extant-isoptera.org/family/mastotermitidae/">澳白蚁科</a></td><td>MASTOTERMITIDAE</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/archotermopsidae/">古白蚁科</a></td><td>ARCHOTERMOPSIDAE</td><td class="num">2</td><td class="num">5</td><td class="num">2</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/hodotermitidae/">草白蚁科</a></td><td>HODOTERMITIDAE</td><td class="num">3</td><td class="num">21</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/hodotermopsidae/">原白蚁科</a></td><td>HODOTERMOPSIDAE</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/stolotermitidae/">胄白蚁科</a></td><td>STOLOTERMITIDAE</td><td class="num">2</td><td class="num">10</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/kalotermitidae/">木白蚁科</a></td><td>KALOTERMITIDAE</td><td class="num">23</td><td class="num">480</td><td class="num">4</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/psammotermitidae/">沙白蚁科</a></td><td>PSAMMOTERMITIDAE</td><td class="num">2</td><td class="num">18</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/rhinotermitidae/">鼻白蚁科</a></td><td>RHINOTERMITIDAE</td><td class="num">5</td><td class="num">62</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/serritermitidae/">齿白蚁科</a></td><td>SERRITERMITIDAE</td><td class="num">2</td><td class="num">3</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/stylotermitidae/">杆白蚁科</a></td><td>STYLOTERMITIDAE</td><td class="num">1</td><td class="num">45</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/termitogetonidae/">寡脉白蚁科</a></td><td>TERMITOGETONIDAE</td><td class="num">1</td><td class="num">2</td><td class="num">0</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/heterotermitidae/">异白蚁科</a></td><td>HETEROTERMITIDAE</td><td class="num">3</td><td class="num">229</td><td class="num">8</td></tr>
-<tr><td><a href="https://termite-extant-isoptera.org/family/termitidae/">白蚁科</a></td><td>TERMITIDAE</td><td class="num">280</td><td class="num">2144</td><td class="num">54</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/mastotermitidae/">澳白蚁科</a></td><td>Mastotermitidae</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/archotermopsidae/">古白蚁科</a></td><td>Archotermopsidae</td><td class="num">2</td><td class="num">5</td><td class="num">2</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/hodotermitidae/">草白蚁科</a></td><td>Hodotermitidae</td><td class="num">3</td><td class="num">21</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/hodotermopsidae/">原白蚁科</a></td><td>Hodotermopsidae</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/stolotermitidae/">胄白蚁科</a></td><td>Stolotermitidae</td><td class="num">2</td><td class="num">10</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/kalotermitidae/">木白蚁科</a></td><td>Kalotermitidae</td><td class="num">23</td><td class="num">480</td><td class="num">4</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/psammotermitidae/">沙白蚁科</a></td><td>Psammotermitidae</td><td class="num">2</td><td class="num">18</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/rhinotermitidae/">鼻白蚁科</a></td><td>Rhinotermitidae</td><td class="num">5</td><td class="num">62</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/serritermitidae/">齿白蚁科</a></td><td>Serritermitidae</td><td class="num">2</td><td class="num">3</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/stylotermitidae/">杆白蚁科</a></td><td>Stylotermitidae</td><td class="num">1</td><td class="num">45</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/termitogetonidae/">寡脉白蚁科</a></td><td>Termitogetonidae</td><td class="num">1</td><td class="num">2</td><td class="num">0</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/heterotermitidae/">异白蚁科</a></td><td>Heterotermitidae</td><td class="num">3</td><td class="num">229</td><td class="num">8</td></tr>
+<tr><td><a href="https://termite-extant-isoptera.org/family/termitidae/">白蚁科</a></td><td>Termitidae</td><td class="num">280</td><td class="num">2144</td><td class="num">54</td></tr>
 </tbody>
 </table>
 

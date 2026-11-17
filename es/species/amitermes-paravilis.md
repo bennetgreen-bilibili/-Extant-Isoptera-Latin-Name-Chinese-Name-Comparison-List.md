@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Amitermes paravilis*** es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Dezful. Distribución según la fuente: Iran.
+***Amitermes paravilis*** es una especie del género *Amitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Dezful. Distribución según la fuente: Iran.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *paravilis*: De parav (al lado) + ilis (relativo a)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Amitermes*]({{ site.base_url }}/es/genus/amitermes/) — 113 especies
 - **Especie tipo del género**: *Amitermes amifer*

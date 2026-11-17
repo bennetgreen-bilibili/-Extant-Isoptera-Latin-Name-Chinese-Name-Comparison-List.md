@@ -14,7 +14,7 @@ genus_zh: "翅白蚁属"
 genus_latin: "Pterotermes"
 genus_id: "pterotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pterotermes occidentis*** is the only extant species of the genus *Pterotermes*, in the family KALOTERMITIDAE. The species was described by Walker in 1853; the type locality is (country unknown): "West Coast of America". Distribution: North America, United States, Mexico.
+***Pterotermes occidentis*** is the only extant species of the genus *Pterotermes*, in the family Kalotermitidae. The species was described by Walker in 1853; the type locality is (country unknown): "West Coast of America". Distribution: North America, United States, Mexico.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *occidentis*: From the descriptive term 'occident' (western)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Pterotermes*]({{ site.base_url }}/en/genus/pterotermes/) — monotypic, 1 species
 
 ## Distribution

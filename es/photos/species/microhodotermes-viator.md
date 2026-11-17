@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/732416783/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "HODOTERMITIDAE"
+  - name: "Hodotermitidae"
     url: "/es/family/hodotermitidae/"
   - name: "Microhodotermes"
     url: "/es/genus/microhodotermes/"

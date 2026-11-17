@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cephalotermes_rectan
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "圆筒白蚁亚科 Cylindrotermitinae"
     url: "/subfamily/cylindrotermitinae/"

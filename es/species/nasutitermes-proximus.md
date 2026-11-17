@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Santa Catarina: Jaraguá do Sul [26.4905S 49.0763W]
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes proximus*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Uruguay: Maldonado: La Sierra \[34.7667S 55.4167W\]. Distribución según la fuente: Brazil, Uruguay. Este sitio registra 1 sinónimo junior para la especie.
+***Nasutitermes proximus*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Uruguay: Maldonado: La Sierra \[34.7667S 55.4167W\]. Distribución según la fuente: Brazil, Uruguay. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *proximus*: Del latín proximus (el más cercano)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

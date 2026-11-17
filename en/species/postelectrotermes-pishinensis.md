@@ -14,7 +14,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Postelectrotermes pishinensis*** is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Ahmad in 1955; the type locality is Pakistan: Baluchistan: District Quetta: Pishin. Distribution: South Asia, Balochistan, Pakistan.
+***Postelectrotermes pishinensis*** is a species of the genus *Postelectrotermes*, in the family Kalotermitidae. The species was described by Ahmad in 1955; the type locality is Pakistan: Baluchistan: District Quetta: Pishin. Distribution: South Asia, Balochistan, Pakistan.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *pishinensis*: Named after Pishin, Balochistan, Pakistan
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Postelectrotermes*]({{ site.base_url }}/en/genus/postelectrotermes/) — 15 species
 - **Type species of the genus**: *Postelectrotermes praecox*
 

@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Brasil: Pará; Panama: Obispo"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heterotermes tenuis*** es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?. Distribución según la fuente: Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands. Este sitio registra 2 sinónimos junior para la especie.
+***Heterotermes tenuis*** es una especie del género *Heterotermes*, en la familia Heterotermitidae. La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?. Distribución según la fuente: Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *tenuis*: Latín tenuis (esbelto)
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Heterotermes*]({{ site.base_url }}/es/genus/heterotermes/) — 31 especies
 - **Especie tipo del género**: *Heterotermes platycephalus*
 

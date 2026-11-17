@@ -20,7 +20,7 @@ back_label: "角象白蚁属 Cornitermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Syntermitinae"
     url: "/en/subfamily/syntermitinae/"

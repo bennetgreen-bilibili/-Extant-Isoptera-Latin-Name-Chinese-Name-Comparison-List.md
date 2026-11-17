@@ -14,7 +14,7 @@ genus_zh: "生白蚁属"
 genus_latin: "Embiratermes"
 genus_id: "embiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Embiratermes benjamini*** es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución según la fuente: Bolivia, Venezuela.
+***Embiratermes benjamini*** es una especie del género *Embiratermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución según la fuente: Bolivia, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *benjamini*: En honor de Benjamin
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Embiratermes*]({{ site.base_url }}/es/genus/embiratermes/) — 9 especies
 - **Especie tipo del género**: *Embiratermes festivellus*

@@ -14,7 +14,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "(country unknown): Sary-Khodga desert, village Sarchaly; Tu
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anacanthotermes ahngerianus*** es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Jacobson en 1905; la localidad tipo es Turkmenistan: Jagly-olum on Atrek River. Distribución según la fuente: Middle East, Kazakhstan, Uzbekistan, Iran, Turkmenistan. Este sitio registra 1 sinónimo junior para la especie.
+***Anacanthotermes ahngerianus*** es una especie del género *Anacanthotermes*, en la familia Hodotermitidae. La especie fue descrita por Jacobson en 1905; la localidad tipo es Turkmenistan: Jagly-olum on Atrek River. Distribución según la fuente: Middle East, Kazakhstan, Uzbekistan, Iran, Turkmenistan. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *ahngerianus*: En honor de Ahnger
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMITIDAE]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
+- **Familia**: [Hodotermitidae]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
 - **Género**: [*Anacanthotermes*]({{ site.base_url }}/es/genus/anacanthotermes/) — 16 especies
 - **Especie tipo del género**: *Anacanthotermes ochraceus*
 

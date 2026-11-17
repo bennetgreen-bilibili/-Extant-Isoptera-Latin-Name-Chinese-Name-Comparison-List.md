@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Indonesia: Tarakan Island; Indonesia: Java: Bogor, Depok, n
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Schedorhinotermes medioobscurus*** es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat; Malaysia: Malacca: Trong, near Taiping. Distribución según la fuente: Southeast Asia, Indonesia, Thailand, Malaysia, Cambodia, Singapore, Vietnam, Philippines, China, India. Este sitio registra 2 sinónimos junior para la especie.
+***Schedorhinotermes medioobscurus*** es una especie del género *Schedorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat; Malaysia: Malacca: Trong, near Taiping. Distribución según la fuente: Southeast Asia, Indonesia, Thailand, Malaysia, Cambodia, Singapore, Vietnam, Philippines, China, India. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *medioobscurus*: De medioobsc (intermedio) + urus (cola)
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Schedorhinotermes*]({{ site.base_url }}/es/genus/schedorhinotermes/) — 35 especies
 - **Especie tipo del género**: *Schedorhinotermes intermedius*
 

@@ -14,7 +14,7 @@ genus_zh: "肠刺白蚁属"
 genus_latin: "Compositermes"
 genus_id: "compositermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Compositermes bani*** is a species of the genus *Compositermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Carrijo, Scheffrahn & Křeček in 2016; the type locality is Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]. Distribution: Bolivia, Brazil.
+***Compositermes bani*** is a species of the genus *Compositermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Carrijo, Scheffrahn & Křeček in 2016; the type locality is Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]. Distribution: Bolivia, Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *bani*: Named after Ban
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Compositermes*]({{ site.base_url }}/en/genus/compositermes/) — 2 species
 - **Type species of the genus**: *Compositermes vindai*

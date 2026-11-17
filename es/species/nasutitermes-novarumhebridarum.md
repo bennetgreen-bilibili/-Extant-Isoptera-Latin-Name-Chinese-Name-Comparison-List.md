@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Solomon Islands: Santa Cruz Archipelago: Graciosa Bay; Papu
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes novarumhebridarum*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es Vanuatu: Ambrym. Distribución según la fuente: Solomon Islands, New Caledonia (France), Papua New Guinea, Vanuatu. Este sitio registra 2 sinónimos junior para la especie.
+***Nasutitermes novarumhebridarum*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es Vanuatu: Ambrym. Distribución según la fuente: Solomon Islands, New Caledonia (France), Papua New Guinea, Vanuatu. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *novarumhebridarum*: Por las Nuevas Hébridas (Vanuatu)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

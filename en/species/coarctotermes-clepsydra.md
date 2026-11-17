@@ -14,7 +14,7 @@ genus_zh: "缩狭白蚁属"
 genus_latin: "Coarctotermes"
 genus_id: "coarctotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Coarctotermes clepsydra*** is a species and the type species of the genus *Coarctotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1904; the type locality is Madagascar: Fianarantsoa. Distribution: Madagascar.
+***Coarctotermes clepsydra*** is a species and the type species of the genus *Coarctotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1904; the type locality is Madagascar: Fianarantsoa. Distribution: Madagascar.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *clepsydra*: Greek klepsydra (water-clock)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Coarctotermes*]({{ site.base_url }}/en/genus/coarctotermes/) — 4 species
 

@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes mobydicki*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2025; la localidad tipo es French Guiana: Petit Saut \[ 5.07N 53.032W \]. Distribución según la fuente: French Guiana.
+***Cryptotermes mobydicki*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Scheffrahn en 2025; la localidad tipo es French Guiana: Petit Saut \[ 5.07N 53.032W \]. Distribución según la fuente: French Guiana.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *mobydicki*: En honor de Moby Dick, la ballena de Moby-Dick
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

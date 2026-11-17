@@ -14,7 +14,7 @@ genus_zh: "聚刺白蚁属"
 genus_latin: "Synacanthotermes"
 genus_id: "synacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Synacanthotermes heterodon*** es una especie y la especie tipo del género *Synacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: N’dian. Distribución según la fuente: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo.
+***Synacanthotermes heterodon*** es una especie y la especie tipo del género *Synacanthotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: N’dian. Distribución según la fuente: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *heterodon*: Del término descriptivo «heter» (distinto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Synacanthotermes*]({{ site.base_url }}/es/genus/synacanthotermes/) — 3 especies
 

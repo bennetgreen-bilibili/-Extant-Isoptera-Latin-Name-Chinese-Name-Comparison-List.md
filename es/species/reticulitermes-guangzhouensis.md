@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "China: Guangdong Province: Dinghu Mountain: Zhaoqing City"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Reticulitermes guangzhouensis*** es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping en 1985; la localidad tipo es China: Guangdong Province: Guangzhou. Distribución según la fuente: China. Este sitio registra 1 sinónimo junior para la especie.
+***Reticulitermes guangzhouensis*** es una especie del género *Reticulitermes*, en la familia Heterotermitidae. La especie fue descrita por Ping en 1985; la localidad tipo es China: Guangdong Province: Guangzhou. Distribución según la fuente: China. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *guangzhouensis*: Por la localidad de Guangzhou
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Reticulitermes*]({{ site.base_url }}/es/genus/reticulitermes/) — 140 especies
 - **Especie tipo del género**: *Reticulitermes flavipes*
 

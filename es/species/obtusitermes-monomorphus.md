@@ -14,7 +14,7 @@ genus_zh: "钝白蚁属"
 genus_latin: "Obtusitermes"
 genus_id: "obtusitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Obtusitermes monomorphus*** es una especie del género *Obtusitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn en 2025; la localidad tipo es Panama: Coclé: El Cope Natl. Park; 8.6790, -80.5972 \[8.679N 80.5972W\]. Distribución según la fuente: Panama.
+***Obtusitermes monomorphus*** es una especie del género *Obtusitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn en 2025; la localidad tipo es Panama: Coclé: El Cope Natl. Park; 8.6790, -80.5972 \[8.679N 80.5972W\]. Distribución según la fuente: Panama.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *monomorphus*: Del griego monos (uno) + morphē (forma), mo
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Obtusitermes*]({{ site.base_url }}/es/genus/obtusitermes/) — 4 especies
 - **Especie tipo del género**: *Obtusitermes panamae*

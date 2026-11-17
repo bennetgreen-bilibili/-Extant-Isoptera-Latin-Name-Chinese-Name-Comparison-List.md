@@ -14,7 +14,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: ?; Eritrea: Mt. Kullo; Democratic Republic of
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Trinervitermes dispar*** es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1902; la localidad tipo es Malawi: Zomba. Distribución según la fuente: Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. Este sitio registra 7 sinónimos junior para la especie.
+***Trinervitermes dispar*** es una especie del género *Trinervitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1902; la localidad tipo es Malawi: Zomba. Distribución según la fuente: Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. Este sitio registra 7 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *dispar*: Del término descriptivo «dispar» (desigual)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Trinervitermes*]({{ site.base_url }}/es/genus/trinervitermes/) — 21 especies
 - **Especie tipo del género**: *Trinervitermes trinervius*

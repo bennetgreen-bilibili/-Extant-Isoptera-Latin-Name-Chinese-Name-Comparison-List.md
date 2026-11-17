@@ -14,7 +14,7 @@ genus_zh: "锥白蚁属"
 genus_latin: "Subulitermes"
 genus_id: "subulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso do Sul: Corumbá, Santo Domingos [19.23
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Subulitermes microsoma*** es una especie y la especie tipo del género *Subulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución según la fuente: Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
+***Subulitermes microsoma*** es una especie y la especie tipo del género *Subulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución según la fuente: Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *microsoma*: Del griego mikros (pequeño) + sōma (cuerpo),
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Subulitermes*]({{ site.base_url }}/es/genus/subulitermes/) — 6 especies
 

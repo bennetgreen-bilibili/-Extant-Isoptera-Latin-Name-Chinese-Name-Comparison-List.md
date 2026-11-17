@@ -20,6 +20,6 @@ back_label: "洞白蚁属 Porotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "胄白蚁科 STOLOTERMITIDAE"
+  - name: "胄白蚁科 Stolotermitidae"
     url: "/family/stolotermitidae/"
 ---

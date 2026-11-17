@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes longicollis*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1918; the type locality is Panama: ?. Distribution: Central America, Panama, Honduras, Mexico, Dominican Republic, Haiti, Montserrat, Puerto Rico, Trinidad and Tobago.
+***Cryptotermes longicollis*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Banks in 1918; the type locality is Panama: ?. Distribution: Central America, Panama, Honduras, Mexico, Dominican Republic, Haiti, Montserrat, Puerto Rico, Trinidad and Tobago.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *longicollis*: From longi + collis
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

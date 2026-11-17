@@ -20,7 +20,7 @@ back_label: "厚唇白蚁属 Labiotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Syntermitinae"
     url: "/es/subfamily/syntermitinae/"

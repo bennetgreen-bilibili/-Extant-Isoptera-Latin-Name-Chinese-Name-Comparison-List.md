@@ -20,7 +20,7 @@ back_label: "头白蚁属 Cephalotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Cylindrotermitinae"
     url: "/es/subfamily/cylindrotermitinae/"

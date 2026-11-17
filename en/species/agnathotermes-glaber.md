@@ -14,7 +14,7 @@ genus_zh: "无颚白蚁属"
 genus_latin: "Agnathotermes"
 genus_id: "agnathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Agnathotermes glaber*** is a species and the type species of the genus *Agnathotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago.
+***Agnathotermes glaber*** is a species and the type species of the genus *Agnathotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *glaber*: Latin glaber (smooth, hairless)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Agnathotermes*]({{ site.base_url }}/en/genus/agnathotermes/) — 2 species
 

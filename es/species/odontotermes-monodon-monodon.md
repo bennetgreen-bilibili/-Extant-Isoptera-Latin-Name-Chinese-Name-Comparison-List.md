@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Odontotermes monodon monodon*** es una subespecie de *Odontotermes monodon*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Odontotermes*. La subespecie fue descrita por Gerstäcker en 1891; la localidad tipo es Mozambique: Quilimane, Kikengo. No se incluye un registro de distribución separado en esta página; véase la especie parental *Odontotermes monodon* más abajo.
+***Odontotermes monodon monodon*** es una subespecie de *Odontotermes monodon*, en la familia Termitidae (subfamilia Macrotermitinae), género *Odontotermes*. La subespecie fue descrita por Gerstäcker en 1891; la localidad tipo es Mozambique: Quilimane, Kikengo. No se incluye un registro de distribución separado en esta página; véase la especie parental *Odontotermes monodon* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *monodon*: Del griego monos (uno) + odous (diente), de un s
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Odontotermes*]({{ site.base_url }}/es/genus/odontotermes/) — 198 especies
 - **Especie**: [*Odontotermes monodon*]({{ site.base_url }}/es/species/odontotermes-monodon/)

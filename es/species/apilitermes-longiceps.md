@@ -14,7 +14,7 @@ genus_zh: "无毛白蚁属"
 genus_latin: "Apilitermes"
 genus_id: "apilitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Apilitermes longiceps*** es la única especie viviente del género *Apilitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Victoria. Distribución según la fuente: Old World tropics, Congo, Nigeria.
+***Apilitermes longiceps*** es la única especie viviente del género *Apilitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Victoria. Distribución según la fuente: Old World tropics, Congo, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *longiceps*: Del latín longus (largo) + -ceps (cabeza), de
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Apilitermes*]({{ site.base_url }}/es/genus/apilitermes/) — monotípico, 1 especie
 

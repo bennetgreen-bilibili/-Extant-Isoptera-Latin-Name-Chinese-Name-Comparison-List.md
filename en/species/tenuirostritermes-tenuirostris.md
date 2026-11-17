@@ -14,7 +14,7 @@ genus_zh: "薄嘴白蚁属"
 genus_latin: "Tenuirostritermes"
 genus_id: "tenuirostritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Tenuirostritermes tenuirostris*** is a species and the type species of the genus *Tenuirostritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Desneux in 1904; the type locality is Mexico: Jalisco; Veracruz: Orizaba. Distribution: United States, Mexico.
+***Tenuirostritermes tenuirostris*** is a species and the type species of the genus *Tenuirostritermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Desneux in 1904; the type locality is Mexico: Jalisco; Veracruz: Orizaba. Distribution: United States, Mexico.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *tenuirostris*: From tenui + rostris
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Tenuirostritermes*]({{ site.base_url }}/en/genus/tenuirostritermes/) — 5 species
 

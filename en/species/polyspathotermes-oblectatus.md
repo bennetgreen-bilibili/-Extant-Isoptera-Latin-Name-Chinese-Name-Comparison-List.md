@@ -14,7 +14,7 @@ genus_zh: "多铲白蚁属"
 genus_latin: "Polyspathotermes"
 genus_id: "polyspathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Polyspathotermes oblectatus*** is a species of the genus *Polyspathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Harris in 1958; the type locality is Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribution: Democratic Republic of the Congo, Malawi, Tanzania, Zambia.
+***Polyspathotermes oblectatus*** is a species of the genus *Polyspathotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Harris in 1958; the type locality is Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribution: Democratic Republic of the Congo, Malawi, Tanzania, Zambia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *oblectatus*: Latin oblectatus (delighted)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Polyspathotermes*]({{ site.base_url }}/en/genus/polyspathotermes/) — 8 species
 - **Type species of the genus**: *Polyspathotermes sulcifrons*

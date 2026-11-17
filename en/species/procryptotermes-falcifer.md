@@ -14,7 +14,7 @@ genus_zh: "前砂白蚁属"
 genus_latin: "Procryptotermes"
 genus_id: "procryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Procryptotermes falcifer*** is a species of the genus *Procryptotermes*, in the family KALOTERMITIDAE. The species was described by Krishna in 1962; the type locality is Reunion (French): 1.6 km E of Port de Galles. Distribution: Réunion, Mauritius, French Réunion.
+***Procryptotermes falcifer*** is a species of the genus *Procryptotermes*, in the family Kalotermitidae. The species was described by Krishna in 1962; the type locality is Reunion (French): 1.6 km E of Port de Galles. Distribution: Réunion, Mauritius, French Réunion.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *falcifer*: Latin falx (sickle) + -fer (bearing), sickle-bearin
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Procryptotermes*]({{ site.base_url }}/en/genus/procryptotermes/) — 14 species
 - **Type species of the genus**: *Procryptotermes fryeri*
 

@@ -14,7 +14,7 @@ genus_zh: "棒颚白蚁属"
 genus_latin: "Ephelotermes"
 genus_id: "ephelotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ephelotermes melachoma*** is a species and the type species of the genus *Ephelotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Northern Territory: 10 km NWN Mt. Bundey. Distribution: Australia.
+***Ephelotermes melachoma*** is a species and the type species of the genus *Ephelotermes*, in the family Termitidae (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Northern Territory: 10 km NWN Mt. Bundey. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *melachoma*: From the descriptive term 'mela' (black)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Ephelotermes*]({{ site.base_url }}/en/genus/ephelotermes/) — 6 species
 

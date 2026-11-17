@@ -14,7 +14,7 @@ genus_zh: "间断白蚁属"
 genus_latin: "Disjunctitermes"
 genus_id: "disjunctitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Disjunctitermes insularis*** is the only extant species of the genus *Disjunctitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn in 2017; the type locality is Guadeloupe (French): Basse-Terre: Trail Mamelles de Petite Bourg. Parc Nat. \[ 16.1778N 61.7321W \]. Distribution: Brazil, Amazon region, Central America and Caribbean.
+***Disjunctitermes insularis*** is the only extant species of the genus *Disjunctitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Scheffrahn in 2017; the type locality is Guadeloupe (French): Basse-Terre: Trail Mamelles de Petite Bourg. Parc Nat. \[ 16.1778N 61.7321W \]. Distribution: Brazil, Amazon region, Central America and Caribbean.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *insularis*: Latin insularis (of islands)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Disjunctitermes*]({{ site.base_url }}/en/genus/disjunctitermes/) — monotypic, 1 species
 

@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Cameroon: Ekundu; Congo: Brazzaville; Democratic Republic o
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Nasutitermes lujae*** is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Wasmann in 1911; the type locality is Democratic Republic of the Congo: Sankuru (Kassai). Distribution: Cameroon, Nigeria, Gabon, Uganda, Angola, Congo (Brazzaville), Democratic Republic of the Congo, Ghana, Côte d'Ivoire. This site records 5 junior synonyms for the species.
+***Nasutitermes lujae*** is a species of the genus *Nasutitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Wasmann in 1911; the type locality is Democratic Republic of the Congo: Sankuru (Kassai). Distribution: Cameroon, Nigeria, Gabon, Uganda, Angola, Congo (Brazzaville), Democratic Republic of the Congo, Ghana, Côte d'Ivoire. This site records 5 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *lujae*: Named after Luja (Luxembourg naturalist Édouard Luja)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Nasutitermes*]({{ site.base_url }}/en/genus/nasutitermes/) — 243 species
 - **Type species of the genus**: *Nasutitermes corniger*

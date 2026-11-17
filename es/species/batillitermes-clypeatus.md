@@ -14,7 +14,7 @@ genus_zh: "铲白蚁属"
 genus_latin: "Batillitermes"
 genus_id: "batillitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Batillitermes clypeatus*** es una especie del género *Batillitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Nigeria: 40 miles from Abjua on Bida road. Distribución según la fuente: southern Africa, South Africa, Nigeria.
+***Batillitermes clypeatus*** es una especie del género *Batillitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Nigeria: 40 miles from Abjua on Bida road. Distribución según la fuente: southern Africa, South Africa, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *clypeatus*: Del latín clypeatus (con escudo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Batillitermes*]({{ site.base_url }}/es/genus/batillitermes/) — 2 especies
 - **Especie tipo del género**: *Batillitermes monachus*

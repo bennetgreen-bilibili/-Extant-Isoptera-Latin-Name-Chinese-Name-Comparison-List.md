@@ -12,7 +12,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -32,7 +32,7 @@ synonym_localities: "(country unknown): ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Ancistrotermes crucifer crucifer*）是十字钩白蚁（*Ancistrotermes crucifer*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）。本亚种由 Sjöstedt 于 1897 年描述，模式产地为 Cameroon: Abo; Sierra Leone: ?。本页暂无单列的分布记录，母种 *Ancistrotermes crucifer* 的分布见下文「分布」一节。本亚种有 1 个次异名。
+**指名亚种**（*Ancistrotermes crucifer crucifer*）是十字钩白蚁（*Ancistrotermes crucifer*）的一个亚种，隶属白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）。本亚种由 Sjöstedt 于 1897 年描述，模式产地为 Cameroon: Abo; Sierra Leone: ?。本页暂无单列的分布记录，母种 *Ancistrotermes crucifer* 的分布见下文「分布」一节。本亚种有 1 个次异名。
 
 ## 词源
 
@@ -44,7 +44,7 @@ synonym_localities: "(country unknown): ?"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/genus/ancistrotermes/) —— 共 16 种
 - **种**：[十字钩白蚁 *Ancistrotermes crucifer*]({{ site.base_url }}/species/ancistrotermes-crucifer/)

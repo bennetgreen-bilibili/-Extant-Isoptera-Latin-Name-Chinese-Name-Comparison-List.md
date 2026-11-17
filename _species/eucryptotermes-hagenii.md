@@ -12,7 +12,7 @@ genus_zh: "真砂白蚁属"
 genus_latin: "Eucryptotermes"
 genus_id: "eucryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**哈根真砂白蚁**（*Eucryptotermes hagenii*）是木白蚁科（KALOTERMITIDAE）真砂白蚁属（*Eucryptotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]。分布记录包括南美洲、巴西、阿根廷。
+**哈根真砂白蚁**（*Eucryptotermes hagenii*）是木白蚁科（Kalotermitidae）真砂白蚁属（*Eucryptotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]。分布记录包括南美洲、巴西、阿根廷。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[真砂白蚁属 *Eucryptotermes*]({{ site.base_url }}/genus/eucryptotermes/) —— 共 2 种
 
 ## 分布

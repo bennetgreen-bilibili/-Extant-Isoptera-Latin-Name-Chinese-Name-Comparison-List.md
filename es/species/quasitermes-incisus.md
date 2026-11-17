@@ -14,7 +14,7 @@ genus_zh: "相似白蚁属"
 genus_latin: "Quasitermes"
 genus_id: "quasitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Madagascar: Manantantely, near Tolanaro"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Quasitermes incisus*** es la única especie viviente del género *Quasitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina. Distribución según la fuente: Madagascar. Este sitio registra 1 sinónimo junior para la especie.
+***Quasitermes incisus*** es la única especie viviente del género *Quasitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina. Distribución según la fuente: Madagascar. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *incisus*: Del latín incisus (inciso, escotado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Quasitermes*]({{ site.base_url }}/es/genus/quasitermes/) — monotípico, 1 especie
 

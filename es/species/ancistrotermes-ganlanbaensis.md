@@ -14,7 +14,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ancistrotermes ganlanbaensis*** es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Zhu & Huang en 1991; la localidad tipo es China: Yunnan Province: Jinghong County: Ganlanba. Distribución según la fuente: Yunnan (Jinghong 500m).
+***Ancistrotermes ganlanbaensis*** es una especie del género *Ancistrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Zhu & Huang en 1991; la localidad tipo es China: Yunnan Province: Jinghong County: Ganlanba. Distribución según la fuente: Yunnan (Jinghong 500m).
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *ganlanbaensis*: Por la localidad de Ganlanba
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Ancistrotermes*]({{ site.base_url }}/es/genus/ancistrotermes/) — 16 especies
 - **Especie tipo del género**: *Ancistrotermes crucifer*

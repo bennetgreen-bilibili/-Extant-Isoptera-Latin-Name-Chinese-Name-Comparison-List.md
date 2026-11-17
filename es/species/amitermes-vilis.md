@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Israel: Alonim; Turkmenistan: Kazanogukski Region, 37 km ro
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Amitermes vilis*** es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Iran: Shiraz. Distribución según la fuente: Middle East / Arabian Peninsula, Afghanistan, Turkmenistan. Este sitio registra 2 sinónimos junior para la especie.
+***Amitermes vilis*** es una especie del género *Amitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Iran: Shiraz. Distribución según la fuente: Middle East / Arabian Peninsula, Afghanistan, Turkmenistan. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *vilis*: Del latín vilis (barato, sin valor)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Amitermes*]({{ site.base_url }}/es/genus/amitermes/) — 113 especies
 - **Especie tipo del género**: *Amitermes amifer*

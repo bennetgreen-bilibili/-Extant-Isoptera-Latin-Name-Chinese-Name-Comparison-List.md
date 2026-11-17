@@ -14,7 +14,7 @@ genus_zh: "谢弗拉恩白蚁属"
 genus_latin: "Scheffrahnitermes"
 genus_id: "scheffrahnitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Scheffrahnitermes ubuntu*** es la única especie viviente del género *Scheffrahnitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Mellado et al. en 2026; la localidad tipo es South America. Distribución según la fuente: South America.
+***Scheffrahnitermes ubuntu*** es la única especie viviente del género *Scheffrahnitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Mellado et al. en 2026; la localidad tipo es South America. Distribución según la fuente: South America.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *ubuntu*: De ubuntu, una filosofía africana
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Scheffrahnitermes*]({{ site.base_url }}/es/genus/scheffrahnitermes/) — monotípico, 1 especie
 

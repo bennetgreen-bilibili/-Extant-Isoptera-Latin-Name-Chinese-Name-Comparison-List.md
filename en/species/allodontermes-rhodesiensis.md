@@ -14,7 +14,7 @@ genus_zh: "奇齿白蚁属"
 genus_latin: "Allodontermes"
 genus_id: "allodontermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Mozambique: Lourenço Marques, Delagoa Bay; South Africa: T
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Allodontermes rhodesiensis*** is a species of the genus *Allodontermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1914; the type locality is Zimbabwe: Harare (Salisbury). Distribution: Old World tropics (East Africa), southern Africa. This site records 2 junior synonyms for the species.
+***Allodontermes rhodesiensis*** is a species of the genus *Allodontermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Sjöstedt in 1914; the type locality is Zimbabwe: Harare (Salisbury). Distribution: Old World tropics (East Africa), southern Africa. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *rhodesiensis*: Named after the locality Rhodes
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Allodontermes*]({{ site.base_url }}/en/genus/allodontermes/) — 3 species
 - **Type species of the genus**: *Allodontermes schultzei*

@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Bifiditermes pintoi*** is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Kemner in 1932; the type locality is Sri Lanka: Talawila near Puttalam. Distribution: Sri Lanka, India.
+***Bifiditermes pintoi*** is a species of the genus *Bifiditermes*, in the family Kalotermitidae. The species was described by Kemner in 1932; the type locality is Sri Lanka: Talawila near Puttalam. Distribution: Sri Lanka, India.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *pintoi*: Named after Pinto
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Bifiditermes*]({{ site.base_url }}/en/genus/bifiditermes/) — 12 species
 - **Type species of the genus**: *Bifiditermes madagascariensis*
 

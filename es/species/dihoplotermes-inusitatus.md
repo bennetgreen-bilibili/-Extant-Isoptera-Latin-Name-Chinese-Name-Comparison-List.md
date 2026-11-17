@@ -14,7 +14,7 @@ genus_zh: "双戟白蚁属"
 genus_latin: "Dihoplotermes"
 genus_id: "dihoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Dihoplotermes inusitatus*** es una especie y la especie tipo del género *Dihoplotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Araujo en 1961; la localidad tipo es Brasil: São Paulo: São Paulo \[23.53S 46.62W\]. Distribución según la fuente: South America, Brazil, French Guiana, Argentina, Bolivia, Paraguay, Uruguay.
+***Dihoplotermes inusitatus*** es una especie y la especie tipo del género *Dihoplotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Araujo en 1961; la localidad tipo es Brasil: São Paulo: São Paulo \[23.53S 46.62W\]. Distribución según la fuente: South America, Brazil, French Guiana, Argentina, Bolivia, Paraguay, Uruguay.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *inusitatus*: Del latín inusitatus (inusual)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Dihoplotermes*]({{ site.base_url }}/es/genus/dihoplotermes/) — 2 especies
 

@@ -14,7 +14,7 @@ genus_zh: "弯肠白蚁属"
 genus_latin: "Aparatermes"
 genus_id: "aparatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N  58.7W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Aparatermes cingulatus*** is a species of the genus *Aparatermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Burmeister in 1839; the type locality is Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]. Distribution: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean. This site records 1 junior synonym for the species.
+***Aparatermes cingulatus*** is a species of the genus *Aparatermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Burmeister in 1839; the type locality is Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]. Distribution: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *cingulatus*: Latin cingulatus (banded, girdled)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Aparatermes*]({{ site.base_url }}/en/genus/aparatermes/) — 3 species
 - **Type species of the genus**: *Aparatermes abbreviatus*

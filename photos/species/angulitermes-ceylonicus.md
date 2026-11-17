@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Soldier_of_Anguliter
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "前奇白蚁亚科 Promirotermitinae"
     url: "/subfamily/promirotermitinae/"

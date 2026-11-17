@@ -14,7 +14,7 @@ genus_zh: "聚扭白蚁属"
 genus_latin: "Syncapritermes"
 genus_id: "syncapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Syncapritermes greeni*** es la única especie viviente del género *Syncapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por John en 1925; la localidad tipo es Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang. Distribución según la fuente: Indonesia, Malaysia.
+***Syncapritermes greeni*** es la única especie viviente del género *Syncapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por John en 1925; la localidad tipo es Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang. Distribución según la fuente: Indonesia, Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *greeni*: En honor de E. Ernest Green
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Syncapritermes*]({{ site.base_url }}/es/genus/syncapritermes/) — monotípico, 1 especie
 

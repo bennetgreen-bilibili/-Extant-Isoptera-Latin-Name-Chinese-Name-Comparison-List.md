@@ -14,7 +14,7 @@ genus_zh: "角扭白蚁属"
 genus_latin: "Cornicapritermes"
 genus_id: "cornicapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cornicapritermes mucronatus*** es la única especie viviente del género *Cornicapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Emerson en 1950; la localidad tipo es Guyana: Cuyuni-Mazaruni: Penal Settlement \[6.4N 58.658W\]. Distribución según la fuente: Brazil, French Guiana, Colombia.
+***Cornicapritermes mucronatus*** es la única especie viviente del género *Cornicapritermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Emerson en 1950; la localidad tipo es Guyana: Cuyuni-Mazaruni: Penal Settlement \[6.4N 58.658W\]. Distribución según la fuente: Brazil, French Guiana, Colombia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mucronatus*: De mucron (punta) + atus (provisto de)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Cornicapritermes*]({{ site.base_url }}/es/genus/cornicapritermes/) — monotípico, 1 especie
 

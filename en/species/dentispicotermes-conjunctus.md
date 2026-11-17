@@ -14,7 +14,7 @@ genus_zh: "齿尖白蚁属"
 genus_latin: "Dentispicotermes"
 genus_id: "dentispicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Dentispicotermes conjunctus*** is a species of the genus *Dentispicotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Araujo in 1969; the type locality is Brasil: Minas Gerais: Poços de Caldas \[ 21.7878S 46.5614W \]. Distribution: Brazil.
+***Dentispicotermes conjunctus*** is a species of the genus *Dentispicotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Araujo in 1969; the type locality is Brasil: Minas Gerais: Poços de Caldas \[ 21.7878S 46.5614W \]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *conjunctus*: Latin conjunctus (joined)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Dentispicotermes*]({{ site.base_url }}/en/genus/dentispicotermes/) — 6 species
 - **Type species of the genus**: *Dentispicotermes globicephalus*

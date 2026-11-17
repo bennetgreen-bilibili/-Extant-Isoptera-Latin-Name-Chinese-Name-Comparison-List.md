@@ -12,7 +12,7 @@ genus_zh: "直颚白蚁属"
 genus_latin: "Orthognathotermes"
 genus_id: "orthognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短毛直颚白蚁**（*Orthognathotermes brevipilosus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）直颚白蚁属（*Orthognathotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]。分布记录包括玻利维亚。
+**短毛直颚白蚁**（*Orthognathotermes brevipilosus*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）直颚白蚁属（*Orthognathotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]。分布记录包括玻利维亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[直颚白蚁属 *Orthognathotermes*]({{ site.base_url }}/genus/orthognathotermes/) —— 共 15 种
 - **本属模式种**：*Orthognathotermes macrocephalus*

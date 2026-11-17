@@ -14,7 +14,7 @@ genus_zh: "胄白蚁属"
 genus_latin: "Stolotermes"
 genus_id: "stolotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Stolotermes ruficeps*** es una especie del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Brauer en 1865; la localidad tipo es New Zealand: Patria. Distribución según la fuente: New Zealand.
+***Stolotermes ruficeps*** es una especie del género *Stolotermes*, en la familia Stolotermitidae. La especie fue descrita por Brauer en 1865; la localidad tipo es New Zealand: Patria. Distribución según la fuente: New Zealand.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *ruficeps*: De rufi (rojo) + ceps (cabeza)
 
 ## Posición taxonómica
 
-- **Familia**: [STOLOTERMITIDAE]({{ site.base_url }}/es/family/stolotermitidae/) — 2 géneros, 10 especies
+- **Familia**: [Stolotermitidae]({{ site.base_url }}/es/family/stolotermitidae/) — 2 géneros, 10 especies
 - **Género**: [*Stolotermes*]({{ site.base_url }}/es/genus/stolotermes/) — 7 especies
 - **Especie tipo del género**: *Stolotermes brunneicornis*
 

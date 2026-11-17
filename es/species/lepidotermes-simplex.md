@@ -14,7 +14,7 @@ genus_zh: "鳞白蚁属"
 genus_latin: "Lepidotermes"
 genus_id: "lepidotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Natal: Haviland Rail"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Lepidotermes simplex*** es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Natal: Amanzimtoti. Distribución según la fuente: southern Africa, South Africa. Este sitio registra 1 sinónimo junior para la especie.
+***Lepidotermes simplex*** es una especie del género *Lepidotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Natal: Amanzimtoti. Distribución según la fuente: southern Africa, South Africa. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *simplex*: Del latín simplex (simple)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Lepidotermes*]({{ site.base_url }}/es/genus/lepidotermes/) — 9 especies
 - **Especie tipo del género**: *Lepidotermes pretoriensis*

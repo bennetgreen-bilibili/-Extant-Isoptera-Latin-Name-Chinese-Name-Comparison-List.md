@@ -14,7 +14,7 @@ genus_zh: "薄喙白蚁属"
 genus_latin: "Leptomyxotermes"
 genus_id: "leptomyxotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Leptomyxotermes doriae*** is the only extant species of the genus *Leptomyxotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1912; the type locality is Equatorial Guinea: Bioko Island: Basilé. Distribution: Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone.
+***Leptomyxotermes doriae*** is the only extant species of the genus *Leptomyxotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Silvestri in 1912; the type locality is Equatorial Guinea: Bioko Island: Basilé. Distribution: Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *doriae*: Named after Giacomo Doria
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Leptomyxotermes*]({{ site.base_url }}/en/genus/leptomyxotermes/) — monotypic, 1 species
 

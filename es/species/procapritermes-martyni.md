@@ -14,7 +14,7 @@ genus_zh: "前扭白蚁属"
 genus_latin: "Procapritermes"
 genus_id: "procapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Procapritermes martyni*** es una especie del género *Procapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan: North District, Labuk Road, mile 43. Distribución según la fuente: Malaysia.
+***Procapritermes martyni*** es una especie del género *Procapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan: North District, Labuk Road, mile 43. Distribución según la fuente: Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *martyni*: En honor de Martyn (probablemente el entomólogo
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Procapritermes*]({{ site.base_url }}/es/genus/procapritermes/) — 13 especies
 - **Especie tipo del género**: *Procapritermes setiger*

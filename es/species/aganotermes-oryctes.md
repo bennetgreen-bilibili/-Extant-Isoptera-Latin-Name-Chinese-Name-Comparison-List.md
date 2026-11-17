@@ -14,7 +14,7 @@ genus_zh: "雅白蚁属"
 genus_latin: "Aganotermes"
 genus_id: "aganotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Aganotermes oryctes*** es la única especie viviente del género *Aganotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es South Africa: Transvaal: Letaba. Distribución según la fuente: South Africa, Zambia, Zimbabwe.
+***Aganotermes oryctes*** es la única especie viviente del género *Aganotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es South Africa: Transvaal: Letaba. Distribución según la fuente: South Africa, Zambia, Zimbabwe.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *oryctes*: Del griego oryktēs (excavador)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Aganotermes*]({{ site.base_url }}/es/genus/aganotermes/) — monotípico, 1 especie
 

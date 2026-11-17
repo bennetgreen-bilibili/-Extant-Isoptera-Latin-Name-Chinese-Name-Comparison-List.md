@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Syntermes obtusus*** is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1911; the type locality is Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]. Distribution: Brazil, Paraguay, Argentina, Bolivia. This site records 1 junior synonym for the species.
+***Syntermes obtusus*** is a species of the genus *Syntermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Holmgren in 1911; the type locality is Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]. Distribution: Brazil, Paraguay, Argentina, Bolivia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *obtusus*: Latin obtusus (blunt)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Syntermes*]({{ site.base_url }}/en/genus/syntermes/) — 23 species
 - **Type species of the genus**: *Syntermes dirus*

@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Microcerotermes_pera
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Microcerotermitinae"
     url: "/es/subfamily/microcerotermitinae/"

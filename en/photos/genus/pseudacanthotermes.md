@@ -20,7 +20,7 @@ back_label: "伪刺白蚁属 Pseudacanthotermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Macrotermitinae"
     url: "/en/subfamily/macrotermitinae/"

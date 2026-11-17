@@ -14,7 +14,7 @@ genus_zh: "缩白蚁属"
 genus_latin: "Constrictotermes"
 genus_id: "constrictotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Constrictotermes rupestris*** is a species of the genus *Constrictotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Constantino in 1997; the type locality is Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]. Distribution: Brazil.
+***Constrictotermes rupestris*** is a species of the genus *Constrictotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Constantino in 1997; the type locality is Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *rupestris*: From the descriptive term 'rupes' (rock)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Constrictotermes*]({{ site.base_url }}/en/genus/constrictotermes/) — 6 species
 - **Type species of the genus**: *Constrictotermes cyphergaster*

@@ -14,7 +14,7 @@ genus_zh: "颚钩白蚁属"
 genus_latin: "Gnathamitermes"
 genus_id: "gnathamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "United States: Arizona: Oracle; United States: California: 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Gnathamitermes perplexus*** es una especie y la especie tipo del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Victoria. Distribución según la fuente: United States, Mexico. Este sitio registra 6 sinónimos junior para la especie.
+***Gnathamitermes perplexus*** es una especie y la especie tipo del género *Gnathamitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Victoria. Distribución según la fuente: United States, Mexico. Este sitio registra 6 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *perplexus*: Del término descriptivo «perplex» (desconce
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Gnathamitermes*]({{ site.base_url }}/es/genus/gnathamitermes/) — 4 especies
 

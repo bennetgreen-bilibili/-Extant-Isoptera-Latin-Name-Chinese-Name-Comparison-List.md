@@ -14,7 +14,7 @@ genus_zh: "罗伊辛白蚁属"
 genus_latin: "Roisinitermes"
 genus_id: "roisinitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Roisinitermes ebogoensis*** es la única especie viviente del género *Roisinitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución según la fuente: Cameroon.
+***Roisinitermes ebogoensis*** es la única especie viviente del género *Roisinitermes*, en la familia Kalotermitidae. La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución según la fuente: Cameroon.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *ebogoensis*: Por la localidad de Ebogo
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Roisinitermes*]({{ site.base_url }}/es/genus/roisinitermes/) — monotípico, 1 especie
 
 ## Distribución

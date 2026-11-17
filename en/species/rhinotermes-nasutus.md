@@ -14,7 +14,7 @@ genus_zh: "鼻白蚁属"
 genus_latin: "Rhinotermes"
 genus_id: "rhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Suriname: ?"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rhinotermes nasutus*** is a species and the type species of the genus *Rhinotermes*, in the family RHINOTERMITIDAE. The species was described by Perty in 1833; the type locality is Brasil: ?. Distribution: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. This site records 1 junior synonym for the species.
+***Rhinotermes nasutus*** is a species and the type species of the genus *Rhinotermes*, in the family Rhinotermitidae. The species was described by Perty in 1833; the type locality is Brasil: ?. Distribution: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *nasutus*: Latin nasutus (large-nosed)
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Rhinotermes*]({{ site.base_url }}/en/genus/rhinotermes/) — 4 species
 
 ## Distribution

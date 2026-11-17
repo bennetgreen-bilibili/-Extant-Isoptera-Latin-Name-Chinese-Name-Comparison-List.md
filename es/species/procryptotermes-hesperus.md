@@ -14,7 +14,7 @@ genus_zh: "前砂白蚁属"
 genus_latin: "Procryptotermes"
 genus_id: "procryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Procryptotermes hesperus*** es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 2001; la localidad tipo es Bahamas: North Andros Island, 3 km SE Coakley Town. Distribución según la fuente: Bahamas, Cuba, Mexico.
+***Procryptotermes hesperus*** es una especie del género *Procryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Scheffrahn & Krecek en 2001; la localidad tipo es Bahamas: North Andros Island, 3 km SE Coakley Town. Distribución según la fuente: Bahamas, Cuba, Mexico.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *hesperus*: Del griego hesperos (occidental, vespertino)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Procryptotermes*]({{ site.base_url }}/es/genus/procryptotermes/) — 14 especies
 - **Especie tipo del género**: *Procryptotermes fryeri*
 

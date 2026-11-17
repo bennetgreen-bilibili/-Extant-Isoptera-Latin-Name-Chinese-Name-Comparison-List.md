@@ -14,7 +14,7 @@ genus_zh: "象牙白蚁属"
 genus_latin: "Eburnitermes"
 genus_id: "eburnitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eburnitermes grassei*** es la única especie viviente del género *Eburnitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Noirot en 1966; la localidad tipo es Ivory Coast: Adiopodoumé, 17 km E of Abidjan. Distribución según la fuente: Cameroon, Ivory Coast, Nigeria.
+***Eburnitermes grassei*** es la única especie viviente del género *Eburnitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Noirot en 1966; la localidad tipo es Ivory Coast: Adiopodoumé, 17 km E of Abidjan. Distribución según la fuente: Cameroon, Ivory Coast, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *grassei*: En honor del zoólogo P.-P. Grassé
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Eburnitermes*]({{ site.base_url }}/es/genus/eburnitermes/) — monotípico, 1 especie
 

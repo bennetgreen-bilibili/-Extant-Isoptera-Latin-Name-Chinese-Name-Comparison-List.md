@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "原白蚁属 Hodotermopsis 物种名录"
-description: "原白蚁属（Hodotermopsis）是原白蚁科（HODOTERMOPSIDAE）下的一个属，本站收录 1 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。详见名录索引。按分类系统逐级排列。"
+description: "原白蚁属（Hodotermopsis）是原白蚁科（Hodotermopsidae）下的一个属，本站收录 1 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。详见名录索引。按分类系统逐级排列。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -26,7 +26,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/hodotermopsidae/">原白蚁科</a> › <a href="{{ site.base_url }}/genus/hodotermopsis/">原白蚁属 <i>Hodotermopsis</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>原白蚁属 <i>Hodotermopsis</i></h1>
-<p class="taxon-meta">原白蚁科 HODOTERMOPSIDAE · 1 种</p>
+<p class="taxon-meta">原白蚁科 Hodotermopsidae · 1 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="hodotermopsis" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本属范围内全文检索（1 个种与亚种）：名字、分布、模式产地与研究记述</label>

@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Australia: Queensland: Rockhampton; Australia: Queensland: 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microcerotermes turneri*** es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Queensland: Mackay. Distribución según la fuente: Oceania, Australia. Este sitio registra 2 sinónimos junior para la especie.
+***Microcerotermes turneri*** es una especie del género *Microcerotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Queensland: Mackay. Distribución según la fuente: Oceania, Australia. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *turneri*: En honor de Turner
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Microcerotermes*]({{ site.base_url }}/es/genus/microcerotermes/) — 148 especies
 - **Especie tipo del género**: *Microcerotermes strunckii*

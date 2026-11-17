@@ -12,7 +12,7 @@ genus_zh: "前新白蚁属"
 genus_latin: "Proneotermes"
 genus_id: "proneotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**佩雷斯前新白蚁**（*Proneotermes perezi*）是木白蚁科（KALOTERMITIDAE）前新白蚁属（*Proneotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1911 年描述，模式产地为 Costa Rica: San José。分布记录包括哥斯达黎加、危地马拉、洪都拉斯、巴拿马。
+**佩雷斯前新白蚁**（*Proneotermes perezi*）是木白蚁科（Kalotermitidae）前新白蚁属（*Proneotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1911 年描述，模式产地为 Costa Rica: San José。分布记录包括哥斯达黎加、危地马拉、洪都拉斯、巴拿马。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[前新白蚁属 *Proneotermes*]({{ site.base_url }}/genus/proneotermes/) —— 共 4 种
 
 ## 分布

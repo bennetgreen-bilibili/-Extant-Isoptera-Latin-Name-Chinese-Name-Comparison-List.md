@@ -14,7 +14,7 @@ genus_zh: "草白蚁属"
 genus_latin: "Hodotermes"
 genus_id: "hodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hodotermes mossambicus*** es una especie y la especie tipo del género *Hodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución según la fuente: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
+***Hodotermes mossambicus*** es una especie y la especie tipo del género *Hodotermes*, en la familia Hodotermitidae. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución según la fuente: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *mossambicus*: Por la localidad de Mossamb
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMITIDAE]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
+- **Familia**: [Hodotermitidae]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
 - **Género**: [*Hodotermes*]({{ site.base_url }}/es/genus/hodotermes/) — 2 especies
 
 ## Distribución

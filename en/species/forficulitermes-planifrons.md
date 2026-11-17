@@ -14,7 +14,7 @@ genus_zh: "剪白蚁属"
 genus_latin: "Forficulitermes"
 genus_id: "forficulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "剪白蚁亚科"
 subfamily_latin: "Forficulitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Forficulitermes planifrons*** is the only extant species of the genus *Forficulitermes*, in the family TERMITIDAE (subfamily Forficulitermitinae). The species was described by Emerson in 1960; the type locality is Democratic Republic of the Congo: Sona Mpangu. Distribution: Central Africa, Cameroon.
+***Forficulitermes planifrons*** is the only extant species of the genus *Forficulitermes*, in the family Termitidae (subfamily Forficulitermitinae). The species was described by Emerson in 1960; the type locality is Democratic Republic of the Congo: Sona Mpangu. Distribution: Central Africa, Cameroon.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Forficulitermitinae]({{ site.base_url }}/en/subfamily/forficulitermitinae/) — 1 genus, 1 species
 - **Genus**: [*Forficulitermes*]({{ site.base_url }}/en/genus/forficulitermes/) — monotypic, 1 species
 

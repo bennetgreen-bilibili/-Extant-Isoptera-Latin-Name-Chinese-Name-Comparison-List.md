@@ -14,7 +14,7 @@ genus_zh: "红懒白蚁属"
 genus_latin: "Mapinguaritermes"
 genus_id: "mapinguaritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mapinguaritermes peruanus*** es una especie y la especie tipo del género *Mapinguaritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribución según la fuente: Peru, Neotropics, Ecuador.
+***Mapinguaritermes peruanus*** es una especie y la especie tipo del género *Mapinguaritermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribución según la fuente: Peru, Neotropics, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *peruanus*: Por la localidad del Perú
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Mapinguaritermes*]({{ site.base_url }}/es/genus/mapinguaritermes/) — 3 especies
 

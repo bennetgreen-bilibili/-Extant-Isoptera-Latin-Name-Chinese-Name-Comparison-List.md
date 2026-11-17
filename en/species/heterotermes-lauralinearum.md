@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Heterotermes lauralinearum*** is a species of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Carrijo in 2020; the type locality is Paraguay: Presidente Hayes: NW Rio Verde \[ 22.8358S 59.5608W \]. Distribution: Argentina, Bolivia, Paraguay.
+***Heterotermes lauralinearum*** is a species of the genus *Heterotermes*, in the family Heterotermitidae. The species was described by Carrijo in 2020; the type locality is Paraguay: Presidente Hayes: NW Rio Verde \[ 22.8358S 59.5608W \]. Distribution: Argentina, Bolivia, Paraguay.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *lauralinearum*: Etymology uncertain; laura (perhaps personal n
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Heterotermes*]({{ site.base_url }}/en/genus/heterotermes/) — 31 species
 - **Type species of the genus**: *Heterotermes platycephalus*
 

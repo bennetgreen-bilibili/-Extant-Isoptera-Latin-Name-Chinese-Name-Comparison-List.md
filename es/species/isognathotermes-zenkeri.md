@@ -14,7 +14,7 @@ genus_zh: "等颚白蚁属"
 genus_latin: "Isognathotermes"
 genus_id: "isognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Cameroon: Bipindi"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Isognathotermes zenkeri*** es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Cameroon: ?. Distribución según la fuente: Cameroon, Democratic Republic of the Congo. Este sitio registra 1 sinónimo junior para la especie.
+***Isognathotermes zenkeri*** es una especie del género *Isognathotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Cameroon: ?. Distribución según la fuente: Cameroon, Democratic Republic of the Congo. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *zenkeri*: En honor de Georg Zenker (alemán)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Isognathotermes*]({{ site.base_url }}/es/genus/isognathotermes/) — 16 especies
 - **Especie tipo del género**: *Isognathotermes minitabundus*

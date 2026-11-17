@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Hodotermopsis_sjoste
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "原白蚁科 HODOTERMOPSIDAE"
+  - name: "原白蚁科 Hodotermopsidae"
     url: "/family/hodotermopsidae/"
   - name: "原白蚁属 Hodotermopsis"
     url: "/genus/hodotermopsis/"

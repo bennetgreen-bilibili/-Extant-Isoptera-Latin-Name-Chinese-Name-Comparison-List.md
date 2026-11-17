@@ -20,7 +20,7 @@ back_label: "长足白蚁属 Longipeditermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Nasutitermitinae"
     url: "/es/subfamily/nasutitermitinae/"

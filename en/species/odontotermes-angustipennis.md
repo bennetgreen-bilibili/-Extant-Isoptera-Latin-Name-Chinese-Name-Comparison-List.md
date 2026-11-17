@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Odontotermes angustipennis*** is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1900; the type locality is Democratic Republic of the Congo: Kinshasa (Leopoldville). Distribution: Old World tropics, Central Africa, East Africa, Democratic Republic of the Congo.
+***Odontotermes angustipennis*** is a species of the genus *Odontotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Sjöstedt in 1900; the type locality is Democratic Republic of the Congo: Kinshasa (Leopoldville). Distribution: Old World tropics, Central Africa, East Africa, Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *angustipennis*: From angusti + pennis
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Odontotermes*]({{ site.base_url }}/en/genus/odontotermes/) — 198 species
 - **Type species of the genus**: *Odontotermes vulgaris*

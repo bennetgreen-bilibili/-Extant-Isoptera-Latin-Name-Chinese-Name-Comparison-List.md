@@ -20,6 +20,6 @@ back_label: "瘤白蚁亚科 Mirocapritermitinae"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
 ---

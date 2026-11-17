@@ -14,7 +14,7 @@ genus_zh: "菱角白蚁属"
 genus_latin: "Trapellitermes"
 genus_id: "trapellitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Trapellitermes loxomastax*** es la única especie viviente del género *Trapellitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Gambia: near Daranka on Madinari road. Distribución según la fuente: West Africa, Côte d'Ivoire.
+***Trapellitermes loxomastax*** es la única especie viviente del género *Trapellitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Gambia: near Daranka on Madinari road. Distribución según la fuente: West Africa, Côte d'Ivoire.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *loxomastax*: Del griego loxos (oblicuo) + mastax (mandíbu
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Trapellitermes*]({{ site.base_url }}/es/genus/trapellitermes/) — monotípico, 1 especie
 

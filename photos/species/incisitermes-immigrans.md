@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/347279843/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "木白蚁科 KALOTERMITIDAE"
+  - name: "木白蚁科 Kalotermitidae"
     url: "/family/kalotermitidae/"
   - name: "楹白蚁属 Incisitermes"
     url: "/genus/incisitermes/"

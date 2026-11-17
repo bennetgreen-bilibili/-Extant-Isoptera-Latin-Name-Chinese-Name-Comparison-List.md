@@ -14,7 +14,7 @@ genus_zh: "埃默森白蚁属"
 genus_latin: "Emersonitermes"
 genus_id: "emersonitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Emersonitermes thekadensis*** es la única especie viviente del género *Emersonitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathur & Sen-Sarma en 1959; la localidad tipo es India: Kerala (Travancore): Thekaday. Distribución según la fuente: India.
+***Emersonitermes thekadensis*** es la única especie viviente del género *Emersonitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Mathur & Sen-Sarma en 1959; la localidad tipo es India: Kerala (Travancore): Thekaday. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *thekadensis*: Por la localidad de Thekadi (India)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Emersonitermes*]({{ site.base_url }}/es/genus/emersonitermes/) — monotípico, 1 especie
 

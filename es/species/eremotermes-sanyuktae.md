@@ -14,7 +14,7 @@ genus_zh: "漠白蚁属"
 genus_latin: "Eremotermes"
 genus_id: "eremotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eremotermes sanyuktae*** es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Thakur en 1989; la localidad tipo es India: Gujarat: Surat district: Magdall port area. Distribución según la fuente: India.
+***Eremotermes sanyuktae*** es una especie del género *Eremotermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Thakur en 1989; la localidad tipo es India: Gujarat: Surat district: Magdall port area. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *sanyuktae*: En honor de una persona «Sanyukta» (nombre f
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Eremotermes*]({{ site.base_url }}/es/genus/eremotermes/) — 10 especies
 - **Especie tipo del género**: *Eremotermes indicatus*

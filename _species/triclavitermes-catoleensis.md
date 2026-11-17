@@ -12,7 +12,7 @@ genus_zh: "三棒白蚁属"
 genus_latin: "Triclavitermes"
 genus_id: "triclavitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**卡托莱三棒白蚁**（*Triclavitermes catoleensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）三棒白蚁属（*Triclavitermes*）的现存唯一种。本种由 Ferreira, Carvalho & Vasconcellos 于 2025 年描述，模式产地为 Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]。分布记录包括巴西、巴伊亚。
+**卡托莱三棒白蚁**（*Triclavitermes catoleensis*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）三棒白蚁属（*Triclavitermes*）的现存唯一种。本种由 Ferreira, Carvalho & Vasconcellos 于 2025 年描述，模式产地为 Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]。分布记录包括巴西、巴伊亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[三棒白蚁属 *Triclavitermes*]({{ site.base_url }}/genus/triclavitermes/) —— 单型属，仅含 1 种
 

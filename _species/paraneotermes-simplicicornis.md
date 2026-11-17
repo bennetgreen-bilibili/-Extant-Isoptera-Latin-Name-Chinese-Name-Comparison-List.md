@@ -12,7 +12,7 @@ genus_zh: "近新白蚁属"
 genus_latin: "Paraneotermes"
 genus_id: "paraneotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "United States: Texas: Cotula"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**简角近新白蚁**（*Paraneotermes simplicicornis*）是木白蚁科（KALOTERMITIDAE）近新白蚁属（*Paraneotermes*）的现存唯一种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Laguna, on the Neuces River。分布记录包括北美、美国、墨西哥。本种有 1 个次异名。
+**简角近新白蚁**（*Paraneotermes simplicicornis*）是木白蚁科（Kalotermitidae）近新白蚁属（*Paraneotermes*）的现存唯一种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Laguna, on the Neuces River。分布记录包括北美、美国、墨西哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "United States: Texas: Cotula"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[近新白蚁属 *Paraneotermes*]({{ site.base_url }}/genus/paraneotermes/) —— 单型属，仅含 1 种
 
 ## 分布

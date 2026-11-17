@@ -14,7 +14,7 @@ genus_zh: "倒钩白蚁属"
 genus_latin: "Onkotermes"
 genus_id: "onkotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Onkotermes brevicorniger*** es una especie y la especie tipo del género *Onkotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribución según la fuente: Argentina, Brazil, Chile.
+***Onkotermes brevicorniger*** es una especie y la especie tipo del género *Onkotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribución según la fuente: Argentina, Brazil, Chile.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *brevicorniger*: Del latín brevi- (corto) + corni- (cuerno
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Onkotermes*]({{ site.base_url }}/es/genus/onkotermes/) — 2 especies
 

@@ -12,7 +12,7 @@ genus_zh: "锐颚白蚁属"
 genus_latin: "Hoplognathotermes"
 genus_id: "hoplognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Guinea: Mamou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**土栖锐颚白蚁**（*Hoplognathotermes subterraneus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）锐颚白蚁属（*Hoplognathotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Conakry; Kakoulima。分布记录包括西非、科特迪瓦。本种有 1 个次异名。
+**土栖锐颚白蚁**（*Hoplognathotermes subterraneus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）锐颚白蚁属（*Hoplognathotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Conakry; Kakoulima。分布记录包括西非、科特迪瓦。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Guinea: Mamou"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[锐颚白蚁属 *Hoplognathotermes*]({{ site.base_url }}/genus/hoplognathotermes/) —— 共 3 种
 

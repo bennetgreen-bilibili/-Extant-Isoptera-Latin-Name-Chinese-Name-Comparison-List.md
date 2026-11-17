@@ -14,7 +14,7 @@ genus_zh: "肠棘白蚁属"
 genus_latin: "Ekueitermes"
 genus_id: "ekueitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ekueitermes alerosinus*** es la única especie viviente del género *Ekueitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Duran-Bautista & Celis-Daza en 2026; la localidad tipo es Colombia: Caquetá: Florencia: La Viciosa, Centro de Investigaciones Amazónicas CIMAZ, Macagual \[ 1.4969N 75.6661W \]. Distribución según la fuente: Colombia.
+***Ekueitermes alerosinus*** es la única especie viviente del género *Ekueitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Duran-Bautista & Celis-Daza en 2026; la localidad tipo es Colombia: Caquetá: Florencia: La Viciosa, Centro de Investigaciones Amazónicas CIMAZ, Macagual \[ 1.4969N 75.6661W \]. Distribución según la fuente: Colombia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *alerosinus*: En honor de Alero, combinando los nombres de 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Ekueitermes*]({{ site.base_url }}/es/genus/ekueitermes/) — monotípico, 1 especie
 

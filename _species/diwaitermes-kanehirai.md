@@ -12,7 +12,7 @@ genus_zh: "木象白蚁属"
 genus_latin: "Diwaitermes"
 genus_id: "diwaitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Vanuatu: Nendo Islan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凯恩希拉木象白蚁**（*Diwaitermes kanehirai*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）木象白蚁属（*Diwaitermes*）的一种，也是本属的模式种。本种由 Oshima 于 1914 年描述，模式产地为 Indonesia: Maluku: Aru Island: Dobo。分布记录包括印度尼西亚、所罗门群岛、澳大利亚、巴布亚新几内亚、瓦努阿图。本种有 6 个次异名。
+**凯恩希拉木象白蚁**（*Diwaitermes kanehirai*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）木象白蚁属（*Diwaitermes*）的一种，也是本属的模式种。本种由 Oshima 于 1914 年描述，模式产地为 Indonesia: Maluku: Aru Island: Dobo。分布记录包括印度尼西亚、所罗门群岛、澳大利亚、巴布亚新几内亚、瓦努阿图。本种有 6 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Vanuatu: Nendo Islan
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[木象白蚁属 *Diwaitermes*]({{ site.base_url }}/genus/diwaitermes/) —— 共 3 种
 

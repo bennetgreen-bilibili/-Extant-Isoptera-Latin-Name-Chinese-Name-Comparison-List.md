@@ -14,7 +14,7 @@ genus_zh: "瘤突白蚁属"
 genus_latin: "Ekphysotermes"
 genus_id: "ekphysotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ekphysotermes ocellaris*** es una especie del género *Ekphysotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Kimberley region, near Oscar Range. Distribución según la fuente: Australia.
+***Ekphysotermes ocellaris*** es una especie del género *Ekphysotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Kimberley region, near Oscar Range. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *ocellaris*: De ocell (que posee ocelos) + aris (relativo a
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Ekphysotermes*]({{ site.base_url }}/es/genus/ekphysotermes/) — 5 especies
 - **Especie tipo del género**: *Ekphysotermes kalgoorliensis*

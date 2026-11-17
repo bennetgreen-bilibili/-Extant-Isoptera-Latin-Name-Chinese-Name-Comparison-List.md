@@ -12,7 +12,7 @@ genus_zh: "西尔韦斯特里白蚁属"
 genus_latin: "Silvestritermes"
 genus_id: "silvestritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本种有 1 个次异名。
+**海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[西尔韦斯特里白蚁属 *Silvestritermes*]({{ site.base_url }}/genus/silvestritermes/) —— 共 7 种
 - **本属模式种**：*Silvestritermes euamignathus*

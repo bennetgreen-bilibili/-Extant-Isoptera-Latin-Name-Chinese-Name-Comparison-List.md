@@ -14,7 +14,7 @@ genus_zh: "似锥白蚁属"
 genus_latin: "Subulioiditermes"
 genus_id: "subulioiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Malaysia: Sabah: Beaufort District: Beaufort"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Subulioiditermes subulioides*** es una especie y la especie tipo del género *Subulioiditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Pahang: Fraser’s Hill. Distribución según la fuente: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
+***Subulioiditermes subulioides*** es una especie y la especie tipo del género *Subulioiditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Pahang: Fraser’s Hill. Distribución según la fuente: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *subulioides*: De subuli (abajo, cerca) + oides (semejante 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Subulioiditermes*]({{ site.base_url }}/es/genus/subulioiditermes/) — 3 especies
 

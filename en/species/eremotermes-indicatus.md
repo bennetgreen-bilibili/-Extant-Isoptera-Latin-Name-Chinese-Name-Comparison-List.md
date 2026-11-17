@@ -14,7 +14,7 @@ genus_zh: "漠白蚁属"
 genus_latin: "Eremotermes"
 genus_id: "eremotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Eremotermes indicatus*** is a species and the type species of the genus *Eremotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Silvestri in 1911; the type locality is Tunisia: Kairouan. Distribution: Libya, Tunisia.
+***Eremotermes indicatus*** is a species and the type species of the genus *Eremotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Silvestri in 1911; the type locality is Tunisia: Kairouan. Distribution: Libya, Tunisia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *indicatus*: Latin indicatus (marked)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Eremotermes*]({{ site.base_url }}/en/genus/eremotermes/) — 10 species
 

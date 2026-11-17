@@ -14,7 +14,7 @@ genus_zh: "厚唇白蚁属"
 genus_latin: "Labiotermes"
 genus_id: "labiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Labiotermes labralis*** is a species and the type species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia. This site records 1 junior synonym for the species.
+***Labiotermes labralis*** is a species and the type species of the genus *Labiotermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *labralis*: Latin labralis (of the labrum)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Labiotermes*]({{ site.base_url }}/en/genus/labiotermes/) — 10 species
 

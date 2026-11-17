@@ -14,7 +14,7 @@ genus_zh: "地白蚁属"
 genus_latin: "Hypotermes"
 genus_id: "hypotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Hypotermes manyunensis*** is a species of the genus *Hypotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Zhu & Huang in 1990; the type locality is China: Yunnan Province: Yingjiang County: Manyun. Distribution: China (Yunnan).
+***Hypotermes manyunensis*** is a species of the genus *Hypotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Zhu & Huang in 1990; the type locality is China: Yunnan Province: Yingjiang County: Manyun. Distribution: China (Yunnan).
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *manyunensis*: Named after Manyun, Yingjiang, Yunnan, China
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Hypotermes*]({{ site.base_url }}/en/genus/hypotermes/) — 13 species
 - **Type species of the genus**: *Hypotermes obscuriceps*

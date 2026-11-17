@@ -12,7 +12,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**厚壳乳白蚁**（*Coptotermes testaceus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括新热带界、中美洲至南美北部。本种有 5 个次异名。
+**厚壳乳白蚁**（*Coptotermes testaceus*）是异白蚁科（Heterotermitidae）乳白蚁属（*Coptotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括新热带界、中美洲至南美北部。本种有 5 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
 - **本属模式种**：*Coptotermes gestroi*
 

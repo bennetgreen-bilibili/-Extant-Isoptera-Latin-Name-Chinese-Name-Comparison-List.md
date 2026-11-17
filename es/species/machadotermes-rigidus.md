@@ -14,7 +14,7 @@ genus_zh: "剑白蚁属"
 genus_latin: "Machadotermes"
 genus_id: "machadotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Machadotermes rigidus*** es una especie del género *Machadotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Collins en 1977; la localidad tipo es Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo. Distribución según la fuente: Old World tropics.
+***Machadotermes rigidus*** es una especie del género *Machadotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Collins en 1977; la localidad tipo es Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo. Distribución según la fuente: Old World tropics.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *rigidus*: Del latín rigidus (rígido)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Machadotermes*]({{ site.base_url }}/es/genus/machadotermes/) — 3 especies
 - **Especie tipo del género**: *Machadotermes inflatus*

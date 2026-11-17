@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes nordenskioldi*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Jujuy: Quinta, near Laguna la Brea \[23.8589S 64.4377W\]; Santiago del Estero: Icaño \[28.68S 62.885W\]. Distribución según la fuente: Argentina, Paraguay, Bolivia.
+***Nasutitermes nordenskioldi*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Jujuy: Quinta, near Laguna la Brea \[23.8589S 64.4377W\]; Santiago del Estero: Icaño \[28.68S 62.885W\]. Distribución según la fuente: Argentina, Paraguay, Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *nordenskioldi*: En honor de Nordenskiöld (explorador suec
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

@@ -12,7 +12,7 @@ genus_zh: "逃白蚁属"
 genus_latin: "Alyscotermes"
 genus_id: "alyscotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本种有 4 个次异名。
+**乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本种有 4 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[逃白蚁属 *Alyscotermes*]({{ site.base_url }}/genus/alyscotermes/) —— 共 2 种
 

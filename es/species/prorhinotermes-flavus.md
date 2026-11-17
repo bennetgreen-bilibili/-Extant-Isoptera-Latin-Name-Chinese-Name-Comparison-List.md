@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Prorhinotermes flavus*** es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Bugnion & Popoff en 1910; la localidad tipo es Sri Lanka: Ambalangoda. Distribución según la fuente: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. Este sitio registra 9 sinónimos junior para la especie.
+***Prorhinotermes flavus*** es una especie del género *Prorhinotermes*, en la familia Psammotermitidae. La especie fue descrita por Bugnion & Popoff en 1910; la localidad tipo es Sri Lanka: Ambalangoda. Distribución según la fuente: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. Este sitio registra 9 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *flavus*: Del latín flavus (amarillo)
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Prorhinotermes*]({{ site.base_url }}/es/genus/prorhinotermes/) — 12 especies
 - **Especie tipo del género**: *Prorhinotermes inopinatus*
 

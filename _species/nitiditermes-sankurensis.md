@@ -12,7 +12,7 @@ genus_zh: "净白蚁属"
 genus_latin: "Nitiditermes"
 genus_id: "nitiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg; Congo: Indo, 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**桑库鲁净白蚁**（*Nitiditermes sankurensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦。本种有 3 个次异名。
+**桑库鲁净白蚁**（*Nitiditermes sankurensis*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦。本种有 3 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg; Congo: Indo, 
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[净白蚁属 *Nitiditermes*]({{ site.base_url }}/genus/nitiditermes/) —— 共 15 种
 - **本属模式种**：*Nitiditermes berghei*

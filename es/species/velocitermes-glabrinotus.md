@@ -14,7 +14,7 @@ genus_zh: "快白蚁属"
 genus_latin: "Velocitermes"
 genus_id: "velocitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Velocitermes glabrinotus*** es una especie del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución según la fuente: Brazil, Colombia.
+***Velocitermes glabrinotus*** es una especie del género *Velocitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución según la fuente: Brazil, Colombia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *glabrinotus*: De glabri (liso) + notus (dorso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Velocitermes*]({{ site.base_url }}/es/genus/velocitermes/) — 9 especies
 - **Especie tipo del género**: *Velocitermes heteropterus*

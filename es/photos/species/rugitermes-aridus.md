@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Rugitermes_aridus_%2
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/es/family/kalotermitidae/"
   - name: "Rugitermes"
     url: "/es/genus/rugitermes/"

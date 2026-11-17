@@ -12,7 +12,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Malaysia: Sabah: Darvel Bay; Philippines: Luzon: Los Banos"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曲颚乳白蚁**（*Coptotermes curvignathus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak; Myanmar: ?; Singapore: ?。分布记录包括东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非。另有记录显示其已引入中国。本种有 2 个次异名。
+**曲颚乳白蚁**（*Coptotermes curvignathus*）是异白蚁科（Heterotermitidae）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak; Myanmar: ?; Singapore: ?。分布记录包括东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非。另有记录显示其已引入中国。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Malaysia: Sabah: Darvel Bay; Philippines: Luzon: Los Banos"
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
 - **本属模式种**：*Coptotermes gestroi*
 

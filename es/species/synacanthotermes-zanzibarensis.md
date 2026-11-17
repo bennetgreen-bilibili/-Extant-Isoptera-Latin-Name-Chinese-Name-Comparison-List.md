@@ -14,7 +14,7 @@ genus_zh: "聚刺白蚁属"
 genus_latin: "Synacanthotermes"
 genus_id: "synacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Synacanthotermes zanzibarensis*** es una especie del género *Synacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1915; la localidad tipo es Tanzania: Zanzibar Island: Haïtajawa Hill. Distribución según la fuente: East Africa, Tanzania, Ethiopia, Kenya.
+***Synacanthotermes zanzibarensis*** es una especie del género *Synacanthotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1915; la localidad tipo es Tanzania: Zanzibar Island: Haïtajawa Hill. Distribución según la fuente: East Africa, Tanzania, Ethiopia, Kenya.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *zanzibarensis*: Por la localidad de Zanzíbar
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Synacanthotermes*]({{ site.base_url }}/es/genus/synacanthotermes/) — 3 especies
 - **Especie tipo del género**: *Synacanthotermes heterodon*

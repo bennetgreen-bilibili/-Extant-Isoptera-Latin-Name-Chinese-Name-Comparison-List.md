@@ -12,7 +12,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**悬垂距白蚁**（*Calcaritermes imminens*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种，也是本属的模式种。本种由 Snyder 于 1925 年描述，模式产地为 Colombia: Magdalena: Cincinnati (plantation) \[ 11.1N 74.0833W \]。分布记录包括哥伦比亚。
+**悬垂距白蚁**（*Calcaritermes imminens*）是木白蚁科（Kalotermitidae）距白蚁属（*Calcaritermes*）的一种，也是本属的模式种。本种由 Snyder 于 1925 年描述，模式产地为 Colombia: Magdalena: Cincinnati (plantation) \[ 11.1N 74.0833W \]。分布记录包括哥伦比亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种
 
 ## 分布

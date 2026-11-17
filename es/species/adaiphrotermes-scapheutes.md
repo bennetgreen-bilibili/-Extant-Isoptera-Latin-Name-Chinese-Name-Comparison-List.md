@@ -14,7 +14,7 @@ genus_zh: "和白蚁属"
 genus_latin: "Adaiphrotermes"
 genus_id: "adaiphrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Adaiphrotermes scapheutes*** es una especie del género *Adaiphrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Zambia: Kitwe. Distribución según la fuente: Malawi, Zambia.
+***Adaiphrotermes scapheutes*** es una especie del género *Adaiphrotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Zambia: Kitwe. Distribución según la fuente: Malawi, Zambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *scapheutes*: Del griego skapheus (excavador)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Adaiphrotermes*]({{ site.base_url }}/es/genus/adaiphrotermes/) — 3 especies
 - **Especie tipo del género**: *Adaiphrotermes cuniculator*

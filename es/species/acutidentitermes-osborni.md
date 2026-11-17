@@ -14,7 +14,7 @@ genus_zh: "尖齿白蚁属"
 genus_latin: "Acutidentitermes"
 genus_id: "acutidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Acutidentitermes osborni*** es la única especie viviente del género *Acutidentitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Democratic Republic of the Congo.
+***Acutidentitermes osborni*** es la única especie viviente del género *Acutidentitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *osborni*: En honor del entomólogo H. Osborn
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Acutidentitermes*]({{ site.base_url }}/es/genus/acutidentitermes/) — monotípico, 1 especie
 

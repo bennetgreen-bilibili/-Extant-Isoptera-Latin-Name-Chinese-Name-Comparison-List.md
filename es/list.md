@@ -46,19 +46,19 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <p>Cada una de las 13 familias tiene su página con todos los enlaces a subfamilias, géneros y especies, con sus recuentos:</p>
 
 <ul class="taxon-list family-browse">
-<li><a href="{{ site.base_url }}/es/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a> <span class="taxon-count">2 géneros · 5 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a> <span class="taxon-count">3 géneros · 21 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a> <span class="taxon-count">2 géneros · 10 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a> <span class="taxon-count">23 géneros · 480 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a> <span class="taxon-count">2 géneros · 18 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a> <span class="taxon-count">5 géneros · 62 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a> <span class="taxon-count">2 géneros · 3 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/stylotermitidae/"><i>STYLOTERMITIDAE</i> 杆白蚁科</a> <span class="taxon-count">1 géneros · 45 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a> <span class="taxon-count">1 géneros · 2 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a> <span class="taxon-count">3 géneros · 229 especies</span></li>
-<li><a href="{{ site.base_url }}/es/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a> <span class="taxon-count">280 géneros · 2144 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/mastotermitidae/"><i>Mastotermitidae</i> 澳白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>Archotermopsidae</i> 古白蚁科</a> <span class="taxon-count">2 géneros · 5 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/hodotermitidae/"><i>Hodotermitidae</i> 草白蚁科</a> <span class="taxon-count">3 géneros · 21 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/hodotermopsidae/"><i>Hodotermopsidae</i> 原白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/stolotermitidae/"><i>Stolotermitidae</i> 胄白蚁科</a> <span class="taxon-count">2 géneros · 10 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> <span class="taxon-count">23 géneros · 480 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/psammotermitidae/"><i>Psammotermitidae</i> 沙白蚁科</a> <span class="taxon-count">2 géneros · 18 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>Rhinotermitidae</i> 鼻白蚁科</a> <span class="taxon-count">5 géneros · 62 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/serritermitidae/"><i>Serritermitidae</i> 齿白蚁科</a> <span class="taxon-count">2 géneros · 3 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/stylotermitidae/"><i>Stylotermitidae</i> 杆白蚁科</a> <span class="taxon-count">1 géneros · 45 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>Termitogetonidae</i> 寡脉白蚁科</a> <span class="taxon-count">1 géneros · 2 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/heterotermitidae/"><i>Heterotermitidae</i> 异白蚁科</a> <span class="taxon-count">3 géneros · 229 especies</span></li>
+<li><a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a> <span class="taxon-count">280 géneros · 2144 especies</span></li>
 </ul>
 
 <p class="list-note">Esta página es solo un índice: aquí están el marco taxonómico, el navegador por familia y las referencias; cada página de familia, subfamilia y género contiene su texto de morfología, biología y distribución, además de las entradas de especies (nombre científico, nombre chino, autor y año, localidad típica, distribución).</p>
@@ -68,7 +68,7 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <ul class="toc-tree">
 <li data-kind="clade"><a href="#isoptera"><i>Extant Isoptera</i> 现存等翅下目</a>
 <ul>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/mastotermitidae/"><i>Mastotermitidae</i> 澳白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/mastotermes/"><i>Mastotermes</i> 澳白蚁属</a></li>
 </ul>
@@ -77,25 +77,25 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <ul>
 <li data-kind="clade"><a href="#teletisoptera"><i>Teletisoptera</i> 远等翅类</a>
 <ul>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>Archotermopsidae</i> 古白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/archotermopsis/"><i>Archotermopsis</i> 古白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/zootermopsis/"><i>Zootermopsis</i> 动白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/hodotermitidae/"><i>Hodotermitidae</i> 草白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/anacanthotermes/"><i>Anacanthotermes</i> 无刺白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/hodotermes/"><i>Hodotermes</i> 草白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/microhodotermes/"><i>Microhodotermes</i> 小草白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/hodotermopsidae/"><i>Hodotermopsidae</i> 原白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/hodotermopsis/"><i>Hodotermopsis</i> 原白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/stolotermitidae/"><i>Stolotermitidae</i> 胄白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/porotermes/"><i>Porotermes</i> 洞白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/stolotermes/"><i>Stolotermes</i> 胄白蚁属</a></li>
@@ -105,7 +105,7 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 </li>
 <li data-kind="clade"><a href="#icoisoptera"><i>Icoisoptera</i> 近等翅类</a>
 <ul>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/allotermes/"><i>Allotermes</i> 奇白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/bicornitermes/"><i>Bicornitermes</i> 双角白蚁属</a></li>
@@ -134,13 +134,13 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 </li>
 <li data-kind="clade"><a href="#neoisoptera"><i>Neoisoptera</i> 新等翅类</a>
 <ul>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/psammotermitidae/"><i>Psammotermitidae</i> 沙白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/prorhinotermes/"><i>Prorhinotermes</i> 原鼻白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/psammotermes/"><i>Psammotermes</i> 沙白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>Rhinotermitidae</i> 鼻白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/acorhinotermes/"><i>Acorhinotermes</i> 尖鼻白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/dolichorhinotermes/"><i>Dolichorhinotermes</i> 狭鼻白蚁属</a></li>
@@ -149,32 +149,32 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/schedorhinotermes/"><i>Schedorhinotermes</i> 长鼻白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/serritermitidae/"><i>Serritermitidae</i> 齿白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/glossotermes/"><i>Glossotermes</i> 舌白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/serritermes/"><i>Serritermes</i> 齿白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/stylotermitidae/"><i>STYLOTERMITIDAE</i> 杆白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/stylotermitidae/"><i>Stylotermitidae</i> 杆白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/stylotermes/"><i>Stylotermes</i> 杆白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>Termitogetonidae</i> 寡脉白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/termitogeton/"><i>Termitogeton</i> 寡脉白蚁属</a></li>
 </ul>
 </li>
 <li data-kind="clade"><a href="#geoisoptera"><i>Geoisoptera</i> 土栖等翅类</a>
 <ul>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/heterotermitidae/"><i>Heterotermitidae</i> 异白蚁科</a>
 <ul>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/coptotermes/"><i>Coptotermes</i> 乳白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/heterotermes/"><i>Heterotermes</i> 异白蚁属</a></li>
 <li data-kind="genus"><a href="{{ site.base_url }}/es/genus/reticulitermes/"><i>Reticulitermes</i> 散白蚁属</a></li>
 </ul>
 </li>
-<li data-kind="family"><a href="{{ site.base_url }}/es/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a>
+<li data-kind="family"><a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>
 <ul>
 <li data-kind="subfamily"><a href="{{ site.base_url }}/es/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a>
 <ul>
@@ -549,7 +549,7 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <p class="clade-sub clade-lvl-1">Se divide en <a href="#euisoptera">Euisoptera</a> (abajo). Las familias asignadas directamente a él se listan a continuación:</p>
 
 <ul class="taxon-list clade-lvl-1">
-<li><a href="{{ site.base_url }}/es/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a> <span class="taxon-count">1 género · 1 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/mastotermitidae/"><i>Mastotermitidae</i> 澳白蚁科</a> <span class="taxon-count">1 género · 1 especie</span></li>
 </ul>
 
 <h3 id="euisoptera" class="clade-h clade-lvl-2">Euisoptera</h3>
@@ -562,10 +562,10 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <p class="clade-count clade-lvl-3">4 familia · 8 género · 37 especie · 2 subespecie</p>
 
 <ul class="taxon-list clade-lvl-3">
-<li><a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a> <span class="taxon-count">2 género · 5 especie · 2 subespecie</span></li>
-<li><a href="{{ site.base_url }}/es/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a> <span class="taxon-count">3 género · 21 especie</span></li>
-<li><a href="{{ site.base_url }}/es/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a> <span class="taxon-count">1 género · 1 especie</span></li>
-<li><a href="{{ site.base_url }}/es/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a> <span class="taxon-count">2 género · 10 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>Archotermopsidae</i> 古白蚁科</a> <span class="taxon-count">2 género · 5 especie · 2 subespecie</span></li>
+<li><a href="{{ site.base_url }}/es/family/hodotermitidae/"><i>Hodotermitidae</i> 草白蚁科</a> <span class="taxon-count">3 género · 21 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/hodotermopsidae/"><i>Hodotermopsidae</i> 原白蚁科</a> <span class="taxon-count">1 género · 1 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/stolotermitidae/"><i>Stolotermitidae</i> 胄白蚁科</a> <span class="taxon-count">2 género · 10 especie</span></li>
 </ul>
 
 <h4 id="icoisoptera" class="clade-h clade-lvl-3">Icoisoptera</h4>
@@ -574,7 +574,7 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <p class="clade-sub clade-lvl-3">Se divide en <a href="#neoisoptera">Neoisoptera</a> (abajo). Las familias asignadas directamente a él se listan a continuación:</p>
 
 <ul class="taxon-list clade-lvl-3">
-<li><a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a> <span class="taxon-count">23 género · 480 especie · 4 subespecie</span></li>
+<li><a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> <span class="taxon-count">23 género · 480 especie · 4 subespecie</span></li>
 </ul>
 
 <h5 id="neoisoptera" class="clade-h clade-lvl-4">Neoisoptera</h5>
@@ -583,11 +583,11 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <p class="clade-sub clade-lvl-4">Se divide en <a href="#geoisoptera">Geoisoptera</a> (abajo). Las familias asignadas directamente a él se listan a continuación:</p>
 
 <ul class="taxon-list clade-lvl-4">
-<li><a href="{{ site.base_url }}/es/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a> <span class="taxon-count">2 género · 18 especie</span></li>
-<li><a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a> <span class="taxon-count">5 género · 62 especie</span></li>
-<li><a href="{{ site.base_url }}/es/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a> <span class="taxon-count">2 género · 3 especie</span></li>
-<li><a href="{{ site.base_url }}/es/family/stylotermitidae/"><i>STYLOTERMITIDAE</i> 杆白蚁科</a> <span class="taxon-count">1 género · 45 especie</span></li>
-<li><a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a> <span class="taxon-count">1 género · 2 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/psammotermitidae/"><i>Psammotermitidae</i> 沙白蚁科</a> <span class="taxon-count">2 género · 18 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>Rhinotermitidae</i> 鼻白蚁科</a> <span class="taxon-count">5 género · 62 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/serritermitidae/"><i>Serritermitidae</i> 齿白蚁科</a> <span class="taxon-count">2 género · 3 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/stylotermitidae/"><i>Stylotermitidae</i> 杆白蚁科</a> <span class="taxon-count">1 género · 45 especie</span></li>
+<li><a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>Termitogetonidae</i> 寡脉白蚁科</a> <span class="taxon-count">1 género · 2 especie</span></li>
 </ul>
 
 <h6 id="geoisoptera" class="clade-h clade-lvl-5">Geoisoptera</h6>
@@ -595,8 +595,8 @@ Por encima del nivel de familia hay varios clados sin rango, anidados unos en ot
 <p class="clade-count clade-lvl-5">2 familia · 18 subfamilia · 283 género · 2373 especie · 62 subespecie</p>
 
 <ul class="taxon-list clade-lvl-5">
-<li><a href="{{ site.base_url }}/es/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a> <span class="taxon-count">3 género · 229 especie · 8 subespecie</span></li>
-<li><a href="{{ site.base_url }}/es/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a> <span class="taxon-count">280 género · 2144 especie · 54 subespecie</span></li>
+<li><a href="{{ site.base_url }}/es/family/heterotermitidae/"><i>Heterotermitidae</i> 异白蚁科</a> <span class="taxon-count">3 género · 229 especie · 8 subespecie</span></li>
+<li><a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a> <span class="taxon-count">280 género · 2144 especie · 54 subespecie</span></li>
 </ul>
 
 <p>Cada página de familia incluye su propio texto en español; la colección completa de los textos de familias y subfamilias está en <a href="{{ site.base_url }}/es/list/sections/">textos en español</a>.</p>

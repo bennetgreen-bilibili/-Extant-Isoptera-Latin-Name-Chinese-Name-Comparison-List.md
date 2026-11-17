@@ -14,7 +14,7 @@ genus_zh: "净白蚁属"
 genus_latin: "Nitiditermes"
 genus_id: "nitiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nitiditermes schereri*** es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Rosen en 1912; la localidad tipo es Liberia: Cape Mesurado. Distribución según la fuente: Democratic Republic of the Congo, Guinea, Côte d'Ivoire, Liberia, Sierra Leone, Tanzania.
+***Nitiditermes schereri*** es una especie del género *Nitiditermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Rosen en 1912; la localidad tipo es Liberia: Cape Mesurado. Distribución según la fuente: Democratic Republic of the Congo, Guinea, Côte d'Ivoire, Liberia, Sierra Leone, Tanzania.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *schereri*: En honor de una persona «Scherer» (identidad 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Nitiditermes*]({{ site.base_url }}/es/genus/nitiditermes/) — 15 especies
 - **Especie tipo del género**: *Nitiditermes berghei*

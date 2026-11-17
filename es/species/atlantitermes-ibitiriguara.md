@@ -14,7 +14,7 @@ genus_zh: "阿特拉斯白蚁属"
 genus_latin: "Atlantitermes"
 genus_id: "atlantitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Atlantitermes ibitiriguara*** es una especie del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribución según la fuente: Brazil.
+***Atlantitermes ibitiriguara*** es una especie del género *Atlantitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *ibitiriguara*: Del tupí ibiti «montaña» (tupí antiguo
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Atlantitermes*]({{ site.base_url }}/es/genus/atlantitermes/) — 8 especies
 - **Especie tipo del género**: *Atlantitermes guarinim*

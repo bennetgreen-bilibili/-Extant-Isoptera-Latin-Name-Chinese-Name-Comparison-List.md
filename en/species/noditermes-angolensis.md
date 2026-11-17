@@ -14,7 +14,7 @@ genus_zh: "节白蚁属"
 genus_latin: "Noditermes"
 genus_id: "noditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Noditermes angolensis*** is a species of the genus *Noditermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Weidner in 1974; the type locality is Angola: Alto Chicapa. Distribution: Angola.
+***Noditermes angolensis*** is a species of the genus *Noditermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Weidner in 1974; the type locality is Angola: Alto Chicapa. Distribution: Angola.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *angolensis*: Named after the locality Angol
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Noditermes*]({{ site.base_url }}/en/genus/noditermes/) — 7 species
 - **Type species of the genus**: *Noditermes lamanianus*

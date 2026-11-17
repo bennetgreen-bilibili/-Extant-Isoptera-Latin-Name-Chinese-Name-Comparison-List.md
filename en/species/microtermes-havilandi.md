@@ -14,7 +14,7 @@ genus_zh: "小白蚁属"
 genus_latin: "Microtermes"
 genus_id: "microtermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Orange Free State: Bloemfontein"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Microtermes havilandi*** is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Natal: Amanzimtoti; Natal: Stanford Hill; Zululand: Mfolozi Junction; Zululand: Somkele; Zululand: Umhlazinga. Distribution: southern Africa, South Africa. This site records 1 junior synonym for the species.
+***Microtermes havilandi*** is a species of the genus *Microtermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Natal: Amanzimtoti; Natal: Stanford Hill; Zululand: Mfolozi Junction; Zululand: Somkele; Zululand: Umhlazinga. Distribution: southern Africa, South Africa. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *havilandi*: Named after the entomologist G. D. Haviland
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Microtermes*]({{ site.base_url }}/en/genus/microtermes/) — 69 species
 - **Type species of the genus**: *Microtermes incertus*

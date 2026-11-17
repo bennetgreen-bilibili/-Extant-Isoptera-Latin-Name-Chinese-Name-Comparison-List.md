@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Guyana: Demerara-Mahaica: Georgetown [ 6.8N 58.1667W ]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes holmgreni*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1918; la localidad tipo es Panama: Taboga Island. Distribución según la fuente: Central America, Panama, Costa Rica, Guatemala, Mexico, South America, Colombia, Venezuela, Guyana, Caribbean, Grenada, Martinique, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
+***Neotermes holmgreni*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Banks en 1918; la localidad tipo es Panama: Taboga Island. Distribución según la fuente: Central America, Panama, Costa Rica, Guatemala, Mexico, South America, Colombia, Venezuela, Guyana, Caribbean, Grenada, Martinique, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

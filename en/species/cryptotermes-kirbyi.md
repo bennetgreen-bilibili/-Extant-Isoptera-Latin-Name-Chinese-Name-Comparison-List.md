@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes kirbyi*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Moszkowski in 1955; the type locality is Madagascar: 21 km N of Ambovombe. Distribution: Madagascar.
+***Cryptotermes kirbyi*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Moszkowski in 1955; the type locality is Madagascar: 21 km N of Ambovombe. Distribution: Madagascar.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *kirbyi*: Named after the entomologist W. F. Kirby
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

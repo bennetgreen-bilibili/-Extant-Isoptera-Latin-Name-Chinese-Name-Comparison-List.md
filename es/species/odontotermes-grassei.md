@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Odontotermes grassei*** es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Ivory Coast: ?. Distribución según la fuente: Côte d'Ivoire.
+***Odontotermes grassei*** es una especie del género *Odontotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Ivory Coast: ?. Distribución según la fuente: Côte d'Ivoire.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *grassei*: En honor del zoólogo P.-P. Grassé
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Odontotermes*]({{ site.base_url }}/es/genus/odontotermes/) — 198 especies
 - **Especie tipo del género**: *Odontotermes vulgaris*

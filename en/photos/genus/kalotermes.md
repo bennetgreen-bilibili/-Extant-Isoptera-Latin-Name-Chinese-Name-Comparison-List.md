@@ -20,6 +20,6 @@ back_label: "木白蚁属 Kalotermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
 ---

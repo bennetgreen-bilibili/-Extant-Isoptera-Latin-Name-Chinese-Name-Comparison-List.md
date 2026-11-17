@@ -14,7 +14,7 @@ genus_zh: "左转白蚁属"
 genus_latin: "Euscaiotermes"
 genus_id: "euscaiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Euscaiotermes primus*** is the only extant species of the genus *Euscaiotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Silvestri in 1923; the type locality is India: Orissa: Chilka Lake: Barkuda Island. Distribution: Afrotropics, India.
+***Euscaiotermes primus*** is the only extant species of the genus *Euscaiotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Silvestri in 1923; the type locality is India: Orissa: Chilka Lake: Barkuda Island. Distribution: Afrotropics, India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *primus*: Latin primus (first)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Euscaiotermes*]({{ site.base_url }}/en/genus/euscaiotermes/) — monotypic, 1 species
 

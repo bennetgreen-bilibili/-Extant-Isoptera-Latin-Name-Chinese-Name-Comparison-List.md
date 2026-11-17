@@ -14,7 +14,7 @@ genus_zh: "木象白蚁属"
 genus_latin: "Diwaitermes"
 genus_id: "diwaitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Diwaitermes castanopsis*** es una especie del género *Diwaitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Manki Ridge: Bulolo. Distribución según la fuente: Papua New Guinea.
+***Diwaitermes castanopsis*** es una especie del género *Diwaitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Manki Ridge: Bulolo. Distribución según la fuente: Papua New Guinea.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *castanopsis*: Del latín castanea (castaña) + griego -ops
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Diwaitermes*]({{ site.base_url }}/es/genus/diwaitermes/) — 3 especies
 - **Especie tipo del género**: *Diwaitermes kanehirai*

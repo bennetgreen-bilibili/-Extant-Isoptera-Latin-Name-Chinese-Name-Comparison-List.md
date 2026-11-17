@@ -14,7 +14,7 @@ genus_zh: "仿白蚁属"
 genus_latin: "Mimeutermes"
 genus_id: "mimeutermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mimeutermes binghami*** es una especie del género *Mimeutermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1968; la localidad tipo es Zambia: Lusaka: Roma. Distribución según la fuente: Kenya, Zambia.
+***Mimeutermes binghami*** es una especie del género *Mimeutermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1968; la localidad tipo es Zambia: Lusaka: Roma. Distribución según la fuente: Kenya, Zambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *binghami*: En honor de C. T. Bingham (entomólogo británi
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Mimeutermes*]({{ site.base_url }}/es/genus/mimeutermes/) — 6 especies
 - **Especie tipo del género**: *Mimeutermes giffardii*

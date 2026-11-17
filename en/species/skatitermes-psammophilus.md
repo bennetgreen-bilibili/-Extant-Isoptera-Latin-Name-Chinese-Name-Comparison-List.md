@@ -14,7 +14,7 @@ genus_zh: "洁白蚁属"
 genus_latin: "Skatitermes"
 genus_id: "skatitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Skatitermes psammophilus*** is a species and the type species of the genus *Skatitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Coaton in 1971; the type locality is Namibia: 64.3 km ex Gobabis-Epukiro. Distribution: southern Africa (South Africa).
+***Skatitermes psammophilus*** is a species and the type species of the genus *Skatitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Coaton in 1971; the type locality is Namibia: 64.3 km ex Gobabis-Epukiro. Distribution: southern Africa (South Africa).
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *psammophilus*: Greek psammos (sand) + philos (loving), sand-lo
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Skatitermes*]({{ site.base_url }}/en/genus/skatitermes/) — 2 species
 

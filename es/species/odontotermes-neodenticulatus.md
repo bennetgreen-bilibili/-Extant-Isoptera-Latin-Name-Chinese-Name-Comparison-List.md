@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Odontotermes neodenticulatus*** es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Keningau District: Biah Forest, mile 6. Distribución según la fuente: Indonesia, Malaysia.
+***Odontotermes neodenticulatus*** es una especie del género *Odontotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Keningau District: Biah Forest, mile 6. Distribución según la fuente: Indonesia, Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *neodenticulatus*: De neodenticul (nuevo) + atus (que posee
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Odontotermes*]({{ site.base_url }}/es/genus/odontotermes/) — 198 especies
 - **Especie tipo del género**: *Odontotermes vulgaris*

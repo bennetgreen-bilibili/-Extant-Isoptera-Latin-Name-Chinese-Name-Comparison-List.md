@@ -12,7 +12,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**伯斯尼后琥珀白蚁**（*Postelectrotermes pasniensis*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Akhtar 于 1974 年描述，模式产地为 Pakistan: Baluchistan: Pasni。分布记录包括南亚、巴基斯坦、伊朗。
+**伯斯尼后琥珀白蚁**（*Postelectrotermes pasniensis*）是木白蚁科（Kalotermitidae）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Akhtar 于 1974 年描述，模式产地为 Pakistan: Baluchistan: Pasni。分布记录包括南亚、巴基斯坦、伊朗。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/genus/postelectrotermes/) —— 共 15 种
 - **本属模式种**：*Postelectrotermes praecox*
 

@@ -14,7 +14,7 @@ genus_zh: "前角白蚁属"
 genus_latin: "Procornitermes"
 genus_id: "procornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaqu
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Procornitermes lespesii*** is a species of the genus *Procornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Müller in 1873; the type locality is Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]. Distribution: Brazil, Bolivia, Paraguay, Argentina. This site records 2 junior synonyms for the species.
+***Procornitermes lespesii*** is a species of the genus *Procornitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Müller in 1873; the type locality is Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]. Distribution: Brazil, Bolivia, Paraguay, Argentina. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *lespesii*: Named after Lespès (French entomologist Charles Le
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Procornitermes*]({{ site.base_url }}/en/genus/procornitermes/) — 5 species
 - **Type species of the genus**: *Procornitermes triacifer*

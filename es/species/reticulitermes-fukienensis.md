@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Reticulitermes fukienensis*** es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Light en 1924; la localidad tipo es China: Fujian Province: Baekliang; Fujian Province: Fuzhou (Foochow); Fujian Province: Muiwha, near Foochow; Fujian Province: in mountains back of Foochow; Fujian Province: in mountains back of Foochow, 1200 ft, near Kuliang. Distribución según la fuente: China.
+***Reticulitermes fukienensis*** es una especie del género *Reticulitermes*, en la familia Heterotermitidae. La especie fue descrita por Light en 1924; la localidad tipo es China: Fujian Province: Baekliang; Fujian Province: Fuzhou (Foochow); Fujian Province: Muiwha, near Foochow; Fujian Province: in mountains back of Foochow; Fujian Province: in mountains back of Foochow, 1200 ft, near Kuliang. Distribución según la fuente: China.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *fukienensis*: Por la localidad de Fukien
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Reticulitermes*]({{ site.base_url }}/es/genus/reticulitermes/) — 140 especies
 - **Especie tipo del género**: *Reticulitermes flavipes*
 

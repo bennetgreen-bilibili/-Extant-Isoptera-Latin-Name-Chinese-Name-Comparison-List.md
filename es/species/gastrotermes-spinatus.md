@@ -14,7 +14,7 @@ genus_zh: "胃白蚁属"
 genus_latin: "Gastrotermes"
 genus_id: "gastrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Gastrotermes spinatus*** es la única especie viviente del género *Gastrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Cameroon: Korup National Park. Distribución según la fuente: West/Central Africa, Cameroon.
+***Gastrotermes spinatus*** es la única especie viviente del género *Gastrotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Cameroon: Korup National Park. Distribución según la fuente: West/Central Africa, Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *spinatus*: De spin (espina) + atus (que posee)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Gastrotermes*]({{ site.base_url }}/es/genus/gastrotermes/) — monotípico, 1 especie
 

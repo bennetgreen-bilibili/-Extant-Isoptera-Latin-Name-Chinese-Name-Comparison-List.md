@@ -14,7 +14,7 @@ genus_zh: "富勒白蚁属"
 genus_latin: "Fulleritermes"
 genus_id: "fulleritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Fulleritermes mallyi*** is a species of the genus *Fulleritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Fuller in 1922; the type locality is South Africa: Cape Province: Malmesbury. Distribution: South Africa.
+***Fulleritermes mallyi*** is a species of the genus *Fulleritermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Fuller in 1922; the type locality is South Africa: Cape Province: Malmesbury. Distribution: South Africa.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *mallyi*: Named after Mally
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Fulleritermes*]({{ site.base_url }}/en/genus/fulleritermes/) — 4 species
 - **Type species of the genus**: *Fulleritermes contractus*

@@ -20,6 +20,6 @@ back_label: "近新白蚁属 Paraneotermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
 ---

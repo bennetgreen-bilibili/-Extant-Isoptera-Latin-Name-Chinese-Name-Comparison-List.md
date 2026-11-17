@@ -14,7 +14,7 @@ genus_zh: "牛白蚁属"
 genus_latin: "Tauritermes"
 genus_id: "tauritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Tauritermes triceromegas*** is a species of the genus *Tauritermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribution: Paraguay, Argentina, Brazil.
+***Tauritermes triceromegas*** is a species of the genus *Tauritermes*, in the family Kalotermitidae. The species was described by Silvestri in 1901; the type locality is Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribution: Paraguay, Argentina, Brazil.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *triceromegas*: Greek tri- (three) + keras (horn) + megas (larg
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Tauritermes*]({{ site.base_url }}/en/genus/tauritermes/) — 4 species
 - **Type species of the genus**: *Tauritermes taurocephalus*
 

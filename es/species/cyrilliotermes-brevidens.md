@@ -14,7 +14,7 @@ genus_zh: "壶头白蚁属"
 genus_latin: "Cyrilliotermes"
 genus_id: "cyrilliotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cyrilliotermes brevidens*** es una especie del género *Cyrilliotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino & Carvalho en 2012; la localidad tipo es Brasil: Minas Gerais: Lagoa Santa \[19.63S 43.88W\]. Distribución según la fuente: Brazil.
+***Cyrilliotermes brevidens*** es una especie del género *Cyrilliotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Constantino & Carvalho en 2012; la localidad tipo es Brasil: Minas Gerais: Lagoa Santa \[19.63S 43.88W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *brevidens*: Del término descriptivo «brev» (corto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Cyrilliotermes*]({{ site.base_url }}/es/genus/cyrilliotermes/) — 4 especies
 - **Especie tipo del género**: *Cyrilliotermes angulariceps*

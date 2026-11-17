@@ -14,7 +14,7 @@ genus_zh: "快白蚁属"
 genus_latin: "Velocitermes"
 genus_id: "velocitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: São Paulo: Guatapará, Horto Florestal de Guarani 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Velocitermes heteropterus*** es una especie y la especie tipo del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución según la fuente: Brazil, Colombia, Paraguay, Argentina, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+***Velocitermes heteropterus*** es una especie y la especie tipo del género *Velocitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución según la fuente: Brazil, Colombia, Paraguay, Argentina, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *heteropterus*: De hetero (distinto) + pterus (ala)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Velocitermes*]({{ site.base_url }}/es/genus/velocitermes/) — 9 especies
 

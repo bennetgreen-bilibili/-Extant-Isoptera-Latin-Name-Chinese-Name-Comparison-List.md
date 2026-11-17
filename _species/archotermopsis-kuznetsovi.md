@@ -12,7 +12,7 @@ genus_zh: "古白蚁属"
 genus_latin: "Archotermopsis"
 genus_id: "archotermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**库兹涅佐夫古白蚁**（*Archotermopsis kuznetsovi*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种。本种由 Belyaeva 于 2004 年描述，模式产地为 Vietnam: 8 km. SE Shapa Mt。分布记录包括中国、越南。
+**库兹涅佐夫古白蚁**（*Archotermopsis kuznetsovi*）是古白蚁科（Archotermopsidae）古白蚁属（*Archotermopsis*）的一种。本种由 Belyaeva 于 2004 年描述，模式产地为 Vietnam: 8 km. SE Shapa Mt。分布记录包括中国、越南。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
+- **科**：[古白蚁科 Archotermopsidae]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
 - **属**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/genus/archotermopsis/) —— 共 2 种
 - **本属模式种**：*Archotermopsis wroughtoni*
 

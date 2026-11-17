@@ -12,7 +12,7 @@ genus_zh: "尖鼻白蚁属"
 genus_latin: "Acorhinotermes"
 genus_id: "acorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**棕头尖鼻白蚁**（*Acorhinotermes subfusciceps*）是鼻白蚁科（RHINOTERMITIDAE）尖鼻白蚁属（*Acorhinotermes*）的一种，也是本属的模式种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉。
+**棕头尖鼻白蚁**（*Acorhinotermes subfusciceps*）是鼻白蚁科（Rhinotermitidae）尖鼻白蚁属（*Acorhinotermes*）的一种，也是本属的模式种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/genus/acorhinotermes/) —— 共 3 种
 
 ## 分布

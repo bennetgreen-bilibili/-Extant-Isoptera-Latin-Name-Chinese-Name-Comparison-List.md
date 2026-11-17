@@ -14,7 +14,7 @@ genus_zh: "库塔巴白蚁属"
 genus_latin: "Koutabatermes"
 genus_id: "koutabatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Koutabatermes spinifer*** es la única especie viviente del género *Koutabatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]. Distribución según la fuente: Neotropics (specific countries not verified), Cameroon.
+***Koutabatermes spinifer*** es la única especie viviente del género *Koutabatermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Ouest, near Koutaba, Koumaja village (5.6244, 10.7542) \[ 5.6244N 10.7542E \]. Distribución según la fuente: Neotropics (specific countries not verified), Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *spinifer*: Del latín spina (espina) + -fer (que lleva), e
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Koutabatermes*]({{ site.base_url }}/es/genus/koutabatermes/) — monotípico, 1 especie
 

@@ -12,7 +12,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具角象白蚁**（*Nasutitermes corniger*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，也是本属的模式种。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。另有记录显示其已引入巴哈马、帕劳、巴布亚新几内亚、美国。本种有 14 个次异名。
+**具角象白蚁**（*Nasutitermes corniger*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，也是本属的模式种。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴西、哥斯达黎加、墨西哥、巴拿马、波多黎各、哥伦比亚、安提瓜和巴布达、阿根廷、巴巴多斯、伯利兹、玻利维亚、开曼群岛、古巴、多米尼克、多米尼加、厄瓜多尔、法属圭亚那、格林纳达、瓜德罗普（法）、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克（法）、蒙特塞拉特、荷属安的列斯、尼加拉瓜、巴拉圭、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣马丁（法）、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。另有记录显示其已引入巴哈马、帕劳、巴布亚新几内亚、美国。本种有 14 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
 

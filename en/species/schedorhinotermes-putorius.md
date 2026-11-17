@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Equatorial Guinea: Bioko"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schedorhinotermes putorius*** is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Sjöstedt in 1896; the type locality is Cameroon: Kitta. Distribution: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. This site records 1 junior synonym for the species.
+***Schedorhinotermes putorius*** is a species of the genus *Schedorhinotermes*, in the family Rhinotermitidae. The species was described by Sjöstedt in 1896; the type locality is Cameroon: Kitta. Distribution: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *putorius*: Latin putorius (of a polecat, stinking)
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Schedorhinotermes*]({{ site.base_url }}/en/genus/schedorhinotermes/) — 35 species
 - **Type species of the genus**: *Schedorhinotermes intermedius*
 

@@ -14,7 +14,7 @@ genus_zh: "无刃白蚁属"
 genus_latin: "Astratotermes"
 genus_id: "astratotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Congo: Brazzaville"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Astratotermes pacatus*** es una especie del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. Distribución según la fuente: tropical Africa. Este sitio registra 1 sinónimo junior para la especie.
+***Astratotermes pacatus*** es una especie del género *Astratotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. Distribución según la fuente: tropical Africa. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *pacatus*: Del latín pacatus (pacífico)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Astratotermes*]({{ site.base_url }}/es/genus/astratotermes/) — 6 especies
 - **Especie tipo del género**: *Astratotermes prosenus*

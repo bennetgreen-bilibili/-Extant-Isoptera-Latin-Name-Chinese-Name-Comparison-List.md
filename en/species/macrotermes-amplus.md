@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Gabon: Agoncho"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Macrotermes amplus*** is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1899; the type locality is Democratic Republic of the Congo: Umangi. Distribution: Central Africa, Republic of the Congo, Democratic Republic of the Congo, Cameroon, Central African Republic, Angola, Gabon, Nigeria, Sudan. This site records 1 junior synonym for the species.
+***Macrotermes amplus*** is a species of the genus *Macrotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Sjöstedt in 1899; the type locality is Democratic Republic of the Congo: Umangi. Distribution: Central Africa, Republic of the Congo, Democratic Republic of the Congo, Cameroon, Central African Republic, Angola, Gabon, Nigeria, Sudan. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *amplus*: Latin amplus (ample, large)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Macrotermes*]({{ site.base_url }}/en/genus/macrotermes/) — 57 species
 - **Type species of the genus**: *Macrotermes lilljeborgi*

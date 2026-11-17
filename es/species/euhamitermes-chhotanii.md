@@ -14,7 +14,7 @@ genus_zh: "亮白蚁属"
 genus_latin: "Euhamitermes"
 genus_id: "euhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Euhamitermes chhotanii*** es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Maiti en 1983; la localidad tipo es India: West Bengal: Cooch Behar District: Cooch Behar Forest Range: Atiamochar Forest Beat. Distribución según la fuente: South Asia, India.
+***Euhamitermes chhotanii*** es una especie del género *Euhamitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Maiti en 1983; la localidad tipo es India: West Bengal: Cooch Behar District: Cooch Behar Forest Range: Atiamochar Forest Beat. Distribución según la fuente: South Asia, India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *chhotanii*: En honor de O.B. Chhotani
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Euhamitermes*]({{ site.base_url }}/es/genus/euhamitermes/) — 24 especies
 - **Especie tipo del género**: *Euhamitermes hamatus*

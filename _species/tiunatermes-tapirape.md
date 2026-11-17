@@ -12,7 +12,7 @@ genus_zh: "暗鼻白蚁属"
 genus_latin: "Tiunatermes"
 genus_id: "tiunatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**塔皮拉佩暗鼻白蚁**（*Tiunatermes tapirape*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）暗鼻白蚁属（*Tiunatermes*）的一种。本种由 Oliveira 于 2026 年描述，模式产地为 Brasil: Goiás: Chapada dos Veadeiros \[14.1924S 47.8349W\]。分布记录包括南美洲、巴西。
+**塔皮拉佩暗鼻白蚁**（*Tiunatermes tapirape*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）暗鼻白蚁属（*Tiunatermes*）的一种。本种由 Oliveira 于 2026 年描述，模式产地为 Brasil: Goiás: Chapada dos Veadeiros \[14.1924S 47.8349W\]。分布记录包括南美洲、巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[暗鼻白蚁属 *Tiunatermes*]({{ site.base_url }}/genus/tiunatermes/) —— 共 2 种
 - **本属模式种**：*Tiunatermes mariuzani*

@@ -56,10 +56,10 @@
 
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
-| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1374319 | `0d4688268fd0356b…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530514 | `2fefeebcd7bbbe0d…` |
+| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1374319 | `04db399063895b89…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530514 | `968caaf4e8274b55…` |
 | `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 148261 | `b8f4c57b9de98ff2…` |
-| `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `76fce47f5eedeaa0…` |
+| `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `98771ea03f265251…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 
 统计 Counts：6 支系 · 13 科 · 18 亚科 · 326 属 · 3021 种 · 68 亚种，合计 3089 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。

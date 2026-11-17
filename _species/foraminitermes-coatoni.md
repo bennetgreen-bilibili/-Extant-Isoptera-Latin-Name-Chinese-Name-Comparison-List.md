@@ -12,7 +12,7 @@ genus_zh: "孔白蚁属"
 genus_latin: "Foraminitermes"
 genus_id: "foraminitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "孔白蚁亚科"
 subfamily_latin: "Foraminitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**科顿孔白蚁**（*Foraminitermes coatoni*）是白蚁科（TERMITIDAE）孔白蚁亚科（Foraminitermitinae）孔白蚁属（*Foraminitermes*）的一种。本种由 Krishna 于 1963 年描述，模式产地为 Democratic Republic of the Congo: Kinshasa (Leopoldville): Kalina Woods。分布记录包括安哥拉、刚果民主共和国。
+**科顿孔白蚁**（*Foraminitermes coatoni*）是白蚁科（Termitidae）孔白蚁亚科（Foraminitermitinae）孔白蚁属（*Foraminitermes*）的一种。本种由 Krishna 于 1963 年描述，模式产地为 Democratic Republic of the Congo: Kinshasa (Leopoldville): Kalina Woods。分布记录包括安哥拉、刚果民主共和国。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/subfamily/foraminitermitinae/) —— 本站收录 3 属 10 种
 - **属**：[孔白蚁属 *Foraminitermes*]({{ site.base_url }}/genus/foraminitermes/) —— 共 6 种
 - **本属模式种**：*Foraminitermes tubifrons*

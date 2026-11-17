@@ -20,6 +20,6 @@ back_label: "异白蚁属 Heterotermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "HETEROTERMITIDAE"
+  - name: "Heterotermitidae"
     url: "/en/family/heterotermitidae/"
 ---

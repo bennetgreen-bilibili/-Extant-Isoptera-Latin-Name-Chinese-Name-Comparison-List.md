@@ -12,7 +12,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Panama: Barro Colorado Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**变狭树白蚁**（*Glyptotermes angustus*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Rio Chinilla。分布记录包括哥斯达黎加、伯利兹、洪都拉斯、尼加拉瓜、巴拿马。本种有 1 个次异名。
+**变狭树白蚁**（*Glyptotermes angustus*）是木白蚁科（Kalotermitidae）树白蚁属（*Glyptotermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Rio Chinilla。分布记录包括哥斯达黎加、伯利兹、洪都拉斯、尼加拉瓜、巴拿马。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Panama: Barro Colorado Island"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种
 - **本属模式种**：*Glyptotermes tuberculatus*
 

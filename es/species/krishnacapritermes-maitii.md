@@ -14,7 +14,7 @@ genus_zh: "克里希纳扭白蚁属"
 genus_latin: "Krishnacapritermes"
 genus_id: "krishnacapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Krishnacapritermes maitii*** es una especie y la especie tipo del género *Krishnacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Tamil Nadu: Pumbarai: Palni Hills. Distribución según la fuente: India, Western Ghats.
+***Krishnacapritermes maitii*** es una especie y la especie tipo del género *Krishnacapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Tamil Nadu: Pumbarai: Palni Hills. Distribución según la fuente: India, Western Ghats.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *maitii*: En honor de P. K. Maiti
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Krishnacapritermes*]({{ site.base_url }}/es/genus/krishnacapritermes/) — 4 especies
 

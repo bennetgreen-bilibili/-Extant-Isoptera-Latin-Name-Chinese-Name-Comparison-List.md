@@ -12,7 +12,7 @@ genus_zh: "毛白蚁属"
 genus_latin: "Comatermes"
 genus_id: "comatermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**完美毛白蚁**（*Comatermes perfectus*）是木白蚁科（KALOTERMITIDAE）毛白蚁属（*Comatermes*）的现存唯一种。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥。本种有 1 个次异名。
+**完美毛白蚁**（*Comatermes perfectus*）是木白蚁科（Kalotermitidae）毛白蚁属（*Comatermes*）的现存唯一种。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[毛白蚁属 *Comatermes*]({{ site.base_url }}/genus/comatermes/) —— 单型属，仅含 1 种
 
 ## 分布

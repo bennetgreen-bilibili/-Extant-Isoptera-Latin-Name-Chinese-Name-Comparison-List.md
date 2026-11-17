@@ -20,7 +20,7 @@ back_label: "拉斯特白蚁属 Rustitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Apicotermitinae"
     url: "/es/subfamily/apicotermitinae/"

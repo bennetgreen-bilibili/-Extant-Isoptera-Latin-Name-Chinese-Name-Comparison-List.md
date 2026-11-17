@@ -14,7 +14,7 @@ genus_zh: "印白蚁属"
 genus_latin: "Indotermes"
 genus_id: "indotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Indotermes luxiensis*** is a species of the genus *Indotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Huang & Zhu in 1984; the type locality is China: Yunnan Province: Luxi County. Distribution: China, Yunnan.
+***Indotermes luxiensis*** is a species of the genus *Indotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Huang & Zhu in 1984; the type locality is China: Yunnan Province: Luxi County. Distribution: China, Yunnan.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *luxiensis*: Named after the locality Lux
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Indotermes*]({{ site.base_url }}/en/genus/indotermes/) — 10 species
 - **Type species of the genus**: *Indotermes maymensis*

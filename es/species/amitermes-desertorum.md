@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Tunisia: Kairouan"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Amitermes desertorum*** es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Desneux en 1902; la localidad tipo es Algeria: "dans le Souf, entre Maouiet-Fezan et Tougourt.". Distribución según la fuente: Algeria, Egypt, Libya, Tunisia. Este sitio registra 1 sinónimo junior para la especie.
+***Amitermes desertorum*** es una especie del género *Amitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Desneux en 1902; la localidad tipo es Algeria: "dans le Souf, entre Maouiet-Fezan et Tougourt.". Distribución según la fuente: Algeria, Egypt, Libya, Tunisia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *desertorum*: Del latín desertum (desierto), de los desier
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Amitermes*]({{ site.base_url }}/es/genus/amitermes/) — 113 especies
 - **Especie tipo del género**: *Amitermes amifer*

@@ -14,7 +14,7 @@ genus_zh: "皱白蚁属"
 genus_latin: "Rugitermes"
 genus_id: "rugitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rugitermes costaricensis*** is a species of the genus *Rugitermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1926; the type locality is Costa Rica: Santa Clara: Hamburg Farm. Distribution: Costa Rica.
+***Rugitermes costaricensis*** is a species of the genus *Rugitermes*, in the family Kalotermitidae. The species was described by Snyder in 1926; the type locality is Costa Rica: Santa Clara: Hamburg Farm. Distribution: Costa Rica.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *costaricensis*: Named after the locality Costaric
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Rugitermes*]({{ site.base_url }}/en/genus/rugitermes/) — 18 species
 - **Type species of the genus**: *Rugitermes nodulosus*
 

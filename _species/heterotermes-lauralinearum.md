@@ -12,7 +12,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**劳拉利纳异白蚁**（*Heterotermes lauralinearum*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Carrijo 于 2020 年描述，模式产地为 Paraguay: Presidente Hayes: NW Rio Verde \[ 22.8358S 59.5608W \]。分布记录包括阿根廷、玻利维亚、巴拉圭。
+**劳拉利纳异白蚁**（*Heterotermes lauralinearum*）是异白蚁科（Heterotermitidae）异白蚁属（*Heterotermes*）的一种。本种由 Carrijo 于 2020 年描述，模式产地为 Paraguay: Presidente Hayes: NW Rio Verde \[ 22.8358S 59.5608W \]。分布记录包括阿根廷、玻利维亚、巴拉圭。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种
 - **本属模式种**：*Heterotermes platycephalus*
 

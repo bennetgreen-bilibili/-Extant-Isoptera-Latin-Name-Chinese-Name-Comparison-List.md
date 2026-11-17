@@ -14,7 +14,7 @@ genus_zh: "皱白蚁属"
 genus_latin: "Rugitermes"
 genus_id: "rugitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Panama: Barro Colorado Island"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rugitermes panamae*** es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Rio Chinilla. Distribución según la fuente: Panama. Este sitio registra 1 sinónimo junior para la especie.
+***Rugitermes panamae*** es una especie del género *Rugitermes*, en la familia Kalotermitidae. La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Rio Chinilla. Distribución según la fuente: Panama. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *panamae*: Por Panamá
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Rugitermes*]({{ site.base_url }}/es/genus/rugitermes/) — 18 especies
 - **Especie tipo del género**: *Rugitermes nodulosus*
 

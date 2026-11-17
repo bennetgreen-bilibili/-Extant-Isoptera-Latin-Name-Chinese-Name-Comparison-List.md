@@ -12,7 +12,7 @@ genus_zh: "薄嘴白蚁属"
 genus_latin: "Tenuirostritermes"
 genus_id: "tenuirostritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**活跃薄嘴白蚁**（*Tenuirostritermes strenuus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）薄嘴白蚁属（*Tenuirostritermes*）的一种。本种由 Hagen 于 1860 年描述，模式产地为 Mexico: Veracruz。分布记录包括墨西哥。
+**活跃薄嘴白蚁**（*Tenuirostritermes strenuus*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）薄嘴白蚁属（*Tenuirostritermes*）的一种。本种由 Hagen 于 1860 年描述，模式产地为 Mexico: Veracruz。分布记录包括墨西哥。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[薄嘴白蚁属 *Tenuirostritermes*]({{ site.base_url }}/genus/tenuirostritermes/) —— 共 5 种
 - **本属模式种**：*Tenuirostritermes tenuirostris*

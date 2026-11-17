@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Panama: Taboga Island"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes schwarzi*** is a species and the type species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1919; the type locality is Cuba: ?; Jamaica: Bog River; United States: Florida: Adam Key; Florida: Miami Beach; Florida: Paradise Key; Florida: Pensacola. Distribution: Mexico, United States, Antigua and Barbuda, Aruba, Bahamas, Belize, Bonaire, Cayman Islands, Colombia, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, French Guadeloupe, Guatemala, Honduras, Jamaica, French Martinique, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, Venezuela. This site records 1 junior synonym for the species.
+***Incisitermes schwarzi*** is a species and the type species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Banks in 1919; the type locality is Cuba: ?; Jamaica: Bog River; United States: Florida: Adam Key; Florida: Miami Beach; Florida: Paradise Key; Florida: Pensacola. Distribution: Mexico, United States, Antigua and Barbuda, Aruba, Bahamas, Belize, Bonaire, Cayman Islands, Colombia, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, French Guadeloupe, Guatemala, Honduras, Jamaica, French Martinique, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, Venezuela. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *schwarzi*: Named after E. A. Schwarz (American entomologist)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 
 ## Distribution

@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"genus","genus":"Hydrecotermes","genus_zh":"海德瑞克白蚁属","genus_id":"hydrecotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10785102,"records":61,"cells":14,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Hydrecotermes","genus_zh":"海德瑞克白蚁属","genus_id":"hydrecotermes","family":"Termitidae","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10785102,"records":61,"cells":14,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-55.5,-22.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-65.5,-17.5]},"properties":{"n":2}},

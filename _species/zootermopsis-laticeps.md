@@ -12,7 +12,7 @@ genus_zh: "动白蚁属"
 genus_latin: "Zootermopsis"
 genus_id: "zootermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽头动白蚁**（*Zootermopsis laticeps*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种。本种由 Banks 于 1906 年描述，模式产地为 United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch。分布记录包括北美西南部、美国、墨西哥。
+**宽头动白蚁**（*Zootermopsis laticeps*）是古白蚁科（Archotermopsidae）动白蚁属（*Zootermopsis*）的一种。本种由 Banks 于 1906 年描述，模式产地为 United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch。分布记录包括北美西南部、美国、墨西哥。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
+- **科**：[古白蚁科 Archotermopsidae]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
 - **属**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种
 - **本属模式种**：*Zootermopsis angusticollis*
 

@@ -14,7 +14,7 @@ genus_zh: "古白蚁属"
 genus_latin: "Archotermopsis"
 genus_id: "archotermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Archotermopsis wroughtoni*** is a species and the type species of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Desneux in 1904; the type locality is India: Kashmir valley. Distribution: South Asia. This site records 2 junior synonyms for the species.
+***Archotermopsis wroughtoni*** is a species and the type species of the genus *Archotermopsis*, in the family Archotermopsidae. The species was described by Desneux in 1904; the type locality is India: Kashmir valley. Distribution: South Asia. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *wroughtoni*: Named after R. C. Wroughton (British naturalist)
 
 ## Taxonomic position
 
-- **Family**: [ARCHOTERMOPSIDAE]({{ site.base_url }}/en/family/archotermopsidae/) — 2 genera, 5 species
+- **Family**: [Archotermopsidae]({{ site.base_url }}/en/family/archotermopsidae/) — 2 genera, 5 species
 - **Genus**: [*Archotermopsis*]({{ site.base_url }}/en/genus/archotermopsis/) — 2 species
 
 ## Distribution

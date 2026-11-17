@@ -14,7 +14,7 @@ genus_zh: "东方白蚁属"
 genus_latin: "Orientotermes"
 genus_id: "orientotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "始钩白蚁亚科"
 subfamily_latin: "Protohamitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Orientotermes emersoni*** is the only extant species of the genus *Orientotermes*, in the family TERMITIDAE (subfamily Protohamitermitinae). The species was described by Ahmad in 1976; the type locality is Malaysia: Sarawak: Sabal Tapang. Distribution: Brunei, Malaysia.
+***Orientotermes emersoni*** is the only extant species of the genus *Orientotermes*, in the family Termitidae (subfamily Protohamitermitinae). The species was described by Ahmad in 1976; the type locality is Malaysia: Sarawak: Sabal Tapang. Distribution: Brunei, Malaysia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Protohamitermitinae]({{ site.base_url }}/en/subfamily/protohamitermitinae/) — 2 genera, 2 species
 - **Genus**: [*Orientotermes*]({{ site.base_url }}/en/genus/orientotermes/) — monotypic, 1 species
 

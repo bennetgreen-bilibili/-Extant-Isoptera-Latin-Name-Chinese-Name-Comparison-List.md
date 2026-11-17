@@ -12,7 +12,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Liberia: ?; Central African Republic: Fort de Possel; Democ
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三脉三脉白蚁**（*Trinervitermes trinervius*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，也是本属的模式种。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达。本种有 3 个次异名。
+**三脉三脉白蚁**（*Trinervitermes trinervius*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，也是本属的模式种。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达。本种有 3 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Liberia: ?; Central African Republic: Fort de Possel; Democ
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种
 

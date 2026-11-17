@@ -14,7 +14,7 @@ genus_zh: "刻痕白蚁属"
 genus_latin: "Crenetermes"
 genus_id: "crenetermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Crenetermes mixtus*** is a species of the genus *Crenetermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Williams in 1962; the type locality is Tanzania: Usambara, Daluni. Distribution: Old World tropics.
+***Crenetermes mixtus*** is a species of the genus *Crenetermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Williams in 1962; the type locality is Tanzania: Usambara, Daluni. Distribution: Old World tropics.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *mixtus*: Latin mixtus (mixed)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Crenetermes*]({{ site.base_url }}/en/genus/crenetermes/) — 5 species
 - **Type species of the genus**: *Crenetermes albotarsalis*

@@ -14,7 +14,7 @@ genus_zh: "钝白蚁属"
 genus_latin: "Obtusitermes"
 genus_id: "obtusitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Obtusitermes panamae*** is a species and the type species of the genus *Obtusitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Snyder in 1925; the type locality is Panama: Quipo. Distribution: Panama, Costa Rica, Colombia.
+***Obtusitermes panamae*** is a species and the type species of the genus *Obtusitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Snyder in 1925; the type locality is Panama: Quipo. Distribution: Panama, Costa Rica, Colombia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *panamae*: Named after Panama
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Obtusitermes*]({{ site.base_url }}/en/genus/obtusitermes/) — 4 species
 

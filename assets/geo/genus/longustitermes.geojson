@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"genus","genus":"Longustitermes","genus_zh":"长工白蚁属","genus_id":"longustitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9343683,"records":394,"cells":18,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Longustitermes","genus_zh":"长工白蚁属","genus_id":"longustitermes","family":"Termitidae","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9343683,"records":394,"cells":18,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-54.5,-16.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-45.5,-15.5]},"properties":{"n":1}},

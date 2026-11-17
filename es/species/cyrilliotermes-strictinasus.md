@@ -14,7 +14,7 @@ genus_zh: "壶头白蚁属"
 genus_latin: "Cyrilliotermes"
 genus_id: "cyrilliotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Minas Gerais: Barbacena [21.23S 43.77W]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cyrilliotermes strictinasus*** es una especie del género *Cyrilliotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución según la fuente: South America, Brazil. Este sitio registra 1 sinónimo junior para la especie.
+***Cyrilliotermes strictinasus*** es una especie del género *Cyrilliotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución según la fuente: South America, Brazil. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *strictinasus*: Latín strictus (apretado) + nasus (nariz),
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Cyrilliotermes*]({{ site.base_url }}/es/genus/cyrilliotermes/) — 4 especies
 - **Especie tipo del género**: *Cyrilliotermes angulariceps*

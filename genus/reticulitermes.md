@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "散白蚁属 Reticulitermes 物种名录"
-description: "散白蚁属（Reticulitermes）是异白蚁科（HETEROTERMITIDAE）下的一个属，本站收录 140 种、6 亚种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。"
+description: "散白蚁属（Reticulitermes）是异白蚁科（Heterotermitidae）下的一个属，本站收录 140 种、6 亚种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -26,7 +26,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/heterotermitidae/">异白蚁科</a> › <a href="{{ site.base_url }}/genus/reticulitermes/">散白蚁属 <i>Reticulitermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>散白蚁属 <i>Reticulitermes</i></h1>
-<p class="taxon-meta">异白蚁科 HETEROTERMITIDAE · 140 种、6 亚种</p>
+<p class="taxon-meta">异白蚁科 Heterotermitidae · 140 种、6 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="reticulitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本属范围内全文检索（146 个种与亚种）：名字、分布、模式产地与研究记述</label>

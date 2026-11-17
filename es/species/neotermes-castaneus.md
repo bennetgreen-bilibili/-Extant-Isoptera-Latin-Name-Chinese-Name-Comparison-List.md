@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Honduras: ?; Guatemala: ?; Dominica: Laudat; United States:
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes castaneus*** es una especie y la especie tipo del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución según la fuente: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
+***Neotermes castaneus*** es una especie y la especie tipo del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución según la fuente: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *castaneus*: Del latín castaneus (castaño)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 
 ## Distribución

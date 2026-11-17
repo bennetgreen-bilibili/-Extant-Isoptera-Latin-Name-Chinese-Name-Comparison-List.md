@@ -12,7 +12,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "India: Jammu and Kashmir: Jammu, near River Tavi"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**古普塔土白蚁**（*Odontotermes guptai*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Roonwal & Bose 于 1961 年描述，模式产地为 India: Rajasthan: Nagaur District, near Gudha Village, near Sambhar Lake。分布记录包括南亚巴基斯坦、印度、孟加拉国。本种有 1 个次异名。
+**古普塔土白蚁**（*Odontotermes guptai*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Roonwal & Bose 于 1961 年描述，模式产地为 India: Rajasthan: Nagaur District, near Gudha Village, near Sambhar Lake。分布记录包括南亚巴基斯坦、印度、孟加拉国。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "India: Jammu and Kashmir: Jammu, near River Tavi"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/genus/odontotermes/) —— 共 198 种
 - **本属模式种**：*Odontotermes vulgaris*

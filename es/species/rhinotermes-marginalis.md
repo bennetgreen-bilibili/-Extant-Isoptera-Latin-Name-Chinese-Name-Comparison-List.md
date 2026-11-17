@@ -14,7 +14,7 @@ genus_zh: "鼻白蚁属"
 genus_latin: "Rhinotermes"
 genus_id: "rhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rhinotermes marginalis*** es una especie del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Linnaeus en 1758; la localidad tipo es Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribución según la fuente: Brazil, Colombia, French Guiana, Caribbean, Bolivia, Ecuador, Peru, Suriname, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+***Rhinotermes marginalis*** es una especie del género *Rhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Linnaeus en 1758; la localidad tipo es Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribución según la fuente: Brazil, Colombia, French Guiana, Caribbean, Bolivia, Ecuador, Peru, Suriname, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *marginalis*: Del latín marginalis (marginal)
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Rhinotermes*]({{ site.base_url }}/es/genus/rhinotermes/) — 4 especies
 - **Especie tipo del género**: *Rhinotermes nasutus*
 

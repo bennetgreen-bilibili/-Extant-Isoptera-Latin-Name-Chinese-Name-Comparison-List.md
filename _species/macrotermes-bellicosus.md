@@ -12,7 +12,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Nigeria: Yaba; Democratic Republic of the Congo: Yambata; I
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**勇猛大白蚁**（*Macrotermes bellicosus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括旧热带界、科特迪瓦、塞内加尔、多哥、贝宁、加纳、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、厄立特里亚、埃塞俄比亚、几内亚、几内亚比绍、肯尼亚、利比里亚、马拉维、毛里塔尼亚、莫桑比克、尼日尔、尼日利亚、塞拉利昂、索马里、苏丹、坦桑尼亚、乌干达、也门。本种有 3 个次异名。
+**勇猛大白蚁**（*Macrotermes bellicosus*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括旧热带界、科特迪瓦、塞内加尔、多哥、贝宁、加纳、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、厄立特里亚、埃塞俄比亚、几内亚、几内亚比绍、肯尼亚、利比里亚、马拉维、毛里塔尼亚、莫桑比克、尼日尔、尼日利亚、塞拉利昂、索马里、苏丹、坦桑尼亚、乌干达、也门。本种有 3 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Nigeria: Yaba; Democratic Republic of the Congo: Yambata; I
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
 - **本属模式种**：*Macrotermes lilljeborgi*

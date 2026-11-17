@@ -12,7 +12,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凹胸钩白蚁**（*Ancistrotermes cavithorax*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Cameroon: Victoria。分布记录包括西非、科特迪瓦、塞内加尔、贝宁、冈比亚、喀麦隆、中非、刚果民主共和国、加纳、几内亚、尼日利亚、塞拉利昂、乌干达。本种有 1 个次异名。
+**凹胸钩白蚁**（*Ancistrotermes cavithorax*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Cameroon: Victoria。分布记录包括西非、科特迪瓦、塞内加尔、贝宁、冈比亚、喀麦隆、中非、刚果民主共和国、加纳、几内亚、尼日利亚、塞拉利昂、乌干达。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Ghana: Accra"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/genus/ancistrotermes/) —— 共 16 种
 - **本属模式种**：*Ancistrotermes crucifer*

@@ -12,7 +12,7 @@ genus_zh: "棒颚白蚁属"
 genus_latin: "Ephelotermes"
 genus_id: "ephelotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Australia: Queensland, near Cooktown; Australia: Queensland
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**奇尔棒颚白蚁**（*Ephelotermes cheeli*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）棒颚白蚁属（*Ephelotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cape York: Hann Creek。分布记录包括澳大利亚、巴布亚新几内亚。本种有 2 个次异名。
+**奇尔棒颚白蚁**（*Ephelotermes cheeli*）是白蚁科（Termitidae）白蚁亚科（Termitinae）棒颚白蚁属（*Ephelotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cape York: Hann Creek。分布记录包括澳大利亚、巴布亚新几内亚。本种有 2 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Australia: Queensland, near Cooktown; Australia: Queensland
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[棒颚白蚁属 *Ephelotermes*]({{ site.base_url }}/genus/ephelotermes/) —— 共 6 种
 - **本属模式种**：*Ephelotermes melachoma*

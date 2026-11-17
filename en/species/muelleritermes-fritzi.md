@@ -14,7 +14,7 @@ genus_zh: "米勒白蚁属"
 genus_latin: "Muelleritermes"
 genus_id: "muelleritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Muelleritermes fritzi*** is a species and the type species of the genus *Muelleritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Cancello, Oliveira & Rocha in 2015; the type locality is Brasil: São Paulo: Salesópolis, Estação Biológica de Boraceia \[23.63S 45.86W\]. Distribution: Brazil.
+***Muelleritermes fritzi*** is a species and the type species of the genus *Muelleritermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Cancello, Oliveira & Rocha in 2015; the type locality is Brasil: São Paulo: Salesópolis, Estação Biológica de Boraceia \[23.63S 45.86W\]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *fritzi*: Named after Fritz
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Muelleritermes*]({{ site.base_url }}/en/genus/muelleritermes/) — 2 species
 

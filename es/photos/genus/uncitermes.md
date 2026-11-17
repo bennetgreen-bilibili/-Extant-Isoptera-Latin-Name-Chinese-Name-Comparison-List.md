@@ -20,7 +20,7 @@ back_label: "弯钩白蚁属 Uncitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Syntermitinae"
     url: "/es/subfamily/syntermitinae/"

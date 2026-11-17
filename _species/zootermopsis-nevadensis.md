@@ -12,7 +12,7 @@ genus_zh: "动白蚁属"
 genus_latin: "Zootermopsis"
 genus_id: "zootermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**内华达动白蚁**（*Zootermopsis nevadensis*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种。本种由 Hagen 于 1874 年描述，模式产地为 United States: Nevada: Truckee。分布记录包括北美西部、美国西部、加拿大西部、墨西哥。另有记录显示其已引入日本。
+**内华达动白蚁**（*Zootermopsis nevadensis*）是古白蚁科（Archotermopsidae）动白蚁属（*Zootermopsis*）的一种。本种由 Hagen 于 1874 年描述，模式产地为 United States: Nevada: Truckee。分布记录包括北美西部、美国西部、加拿大西部、墨西哥。另有记录显示其已引入日本。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
+- **科**：[古白蚁科 Archotermopsidae]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种
 - **属**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种
 - **本属模式种**：*Zootermopsis angusticollis*
 

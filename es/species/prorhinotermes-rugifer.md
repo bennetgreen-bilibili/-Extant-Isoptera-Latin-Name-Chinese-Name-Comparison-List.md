@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Prorhinotermes rugifer*** es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Kemner en 1931; la localidad tipo es Indonesia: Maluku: Ambon. Distribución según la fuente: Indonesia, Indonesia.
+***Prorhinotermes rugifer*** es una especie del género *Prorhinotermes*, en la familia Psammotermitidae. La especie fue descrita por Kemner en 1931; la localidad tipo es Indonesia: Maluku: Ambon. Distribución según la fuente: Indonesia, Indonesia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *rugifer*: De rugi (arruga) + fer (que posee)
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Prorhinotermes*]({{ site.base_url }}/es/genus/prorhinotermes/) — 12 especies
 - **Especie tipo del género**: *Prorhinotermes inopinatus*
 

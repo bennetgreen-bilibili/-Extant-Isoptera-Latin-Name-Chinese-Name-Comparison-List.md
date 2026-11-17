@@ -12,7 +12,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -30,7 +30,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**下亚种**（*Promirotermes holmgreni infera*）是霍姆格伦前奇白蚁（*Promirotermes holmgreni*）的一个亚种，隶属白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Senegal: Thiès。本页暂无单列的分布记录，母种 *Promirotermes holmgreni* 的分布见下文「分布」一节。
+**下亚种**（*Promirotermes holmgreni infera*）是霍姆格伦前奇白蚁（*Promirotermes holmgreni*）的一个亚种，隶属白蚁科（Termitidae）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Senegal: Thiès。本页暂无单列的分布记录，母种 *Promirotermes holmgreni* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -42,7 +42,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/subfamily/promirotermitinae/) —— 本站收录 2 属 39 种
 - **属**：[前奇白蚁属 *Promirotermes*]({{ site.base_url }}/genus/promirotermes/) —— 共 10 种
 - **种**：[霍姆格伦前奇白蚁 *Promirotermes holmgreni*]({{ site.base_url }}/species/promirotermes-holmgreni/)

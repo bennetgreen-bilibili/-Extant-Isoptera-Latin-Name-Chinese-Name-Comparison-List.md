@@ -14,7 +14,7 @@ genus_zh: "伪刺白蚁属"
 genus_latin: "Pseudacanthotermes"
 genus_id: "pseudacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pseudacanthotermes grandiceps*** is a species of the genus *Pseudacanthotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1915; the type locality is Kenya: Kimusu (Victoria Nyanzu, Golf Kavirondo). Distribution: Kenya, Tanzania, Uganda.
+***Pseudacanthotermes grandiceps*** is a species of the genus *Pseudacanthotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Sjöstedt in 1915; the type locality is Kenya: Kimusu (Victoria Nyanzu, Golf Kavirondo). Distribution: Kenya, Tanzania, Uganda.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *grandiceps*: From grandi + ceps
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Pseudacanthotermes*]({{ site.base_url }}/en/genus/pseudacanthotermes/) — 6 species
 - **Type species of the genus**: *Pseudacanthotermes militaris*

@@ -14,7 +14,7 @@ genus_zh: "和白蚁属"
 genus_latin: "Adaiphrotermes"
 genus_id: "adaiphrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Adaiphrotermes cuniculator*** es una especie y la especie tipo del género *Adaiphrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Ghana: 40 mi from Tumu on Lawra Road. Distribución según la fuente: West Africa.
+***Adaiphrotermes cuniculator*** es una especie y la especie tipo del género *Adaiphrotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Ghana: 40 mi from Tumu on Lawra Road. Distribución según la fuente: West Africa.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *cuniculator*: Del latín cuniculator (excavador de galerí
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Adaiphrotermes*]({{ site.base_url }}/es/genus/adaiphrotermes/) — 3 especies
 

@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pericapritermes appellans metata*** is a subspecies of *Pericapritermes appellans*, in the family TERMITIDAE (subfamily Mirocapritermitinae), genus *Pericapritermes*. The subspecies was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima; Kindia. No separate distribution record is listed on this page; see the parent species *Pericapritermes appellans* below.
+***Pericapritermes appellans metata*** is a subspecies of *Pericapritermes appellans*, in the family Termitidae (subfamily Mirocapritermitinae), genus *Pericapritermes*. The subspecies was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima; Kindia. No separate distribution record is listed on this page; see the parent species *Pericapritermes appellans* below.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *metata*: Latin metatus (measured out)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Pericapritermes*]({{ site.base_url }}/en/genus/pericapritermes/) — 40 species
 - **Species**: [*Pericapritermes appellans*]({{ site.base_url }}/en/species/pericapritermes-appellans/)

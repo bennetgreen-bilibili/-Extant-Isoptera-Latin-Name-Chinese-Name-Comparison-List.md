@@ -14,7 +14,7 @@ genus_zh: "锡兰白蚁属"
 genus_latin: "Ceylonitermes"
 genus_id: "ceylonitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ceylonitermes nivedita*** is a species of the genus *Ceylonitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Basak, Sengupta, Rajmohana & Baraik in 2020; the type locality is India: Manipur: Tamenglong, Zeilad Wildlife Sanctuary \[24.9109N 93.3842E\]. Distribution: India.
+***Ceylonitermes nivedita*** is a species of the genus *Ceylonitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Basak, Sengupta, Rajmohana & Baraik in 2020; the type locality is India: Manipur: Tamenglong, Zeilad Wildlife Sanctuary \[24.9109N 93.3842E\]. Distribution: India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *nivedita*: From the descriptive term 'nive' (snowy)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Ceylonitermes*]({{ site.base_url }}/en/genus/ceylonitermes/) — 4 species
 - **Type species of the genus**: *Ceylonitermes escherichi*

@@ -14,7 +14,7 @@ genus_zh: "瓢白蚁属"
 genus_latin: "Bulbitermes"
 genus_id: "bulbitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bulbitermes debadiliporum*** es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Das & Choudhury en 2023; la localidad tipo es India: Meghalaya: Mawlynnong, East Khasi Hills \[25.2047N 91.9112E\]. Distribución según la fuente: Southeast Asia, Indonesia, Malaysia, Singapore, Philippines, Vietnam.
+***Bulbitermes debadiliporum*** es una especie del género *Bulbitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Das & Choudhury en 2023; la localidad tipo es India: Meghalaya: Mawlynnong, East Khasi Hills \[25.2047N 91.9112E\]. Distribución según la fuente: Southeast Asia, Indonesia, Malaysia, Singapore, Philippines, Vietnam.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *debadiliporum*: En honor de Debadili (y otros)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Bulbitermes*]({{ site.base_url }}/es/genus/bulbitermes/) — 34 especies
 - **Especie tipo del género**: *Bulbitermes constrictus*

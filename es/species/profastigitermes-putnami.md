@@ -14,7 +14,7 @@ genus_zh: "前峰白蚁属"
 genus_latin: "Profastigitermes"
 genus_id: "profastigitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Profastigitermes putnami*** es la única especie viviente del género *Profastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: Cameroon, Democratic Republic of the Congo.
+***Profastigitermes putnami*** es la única especie viviente del género *Profastigitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: Cameroon, Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *putnami*: En honor del difunto Sr. Patrick Putnam quien, c
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Profastigitermes*]({{ site.base_url }}/es/genus/profastigitermes/) — monotípico, 1 especie
 

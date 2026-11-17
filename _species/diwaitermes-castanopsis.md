@@ -12,7 +12,7 @@ genus_zh: "木象白蚁属"
 genus_latin: "Diwaitermes"
 genus_id: "diwaitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**锥栗木象白蚁**（*Diwaitermes castanopsis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）木象白蚁属（*Diwaitermes*）的一种。本种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: Manki Ridge: Bulolo。分布记录包括巴布亚新几内亚。
+**锥栗木象白蚁**（*Diwaitermes castanopsis*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）木象白蚁属（*Diwaitermes*）的一种。本种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: Manki Ridge: Bulolo。分布记录包括巴布亚新几内亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[木象白蚁属 *Diwaitermes*]({{ site.base_url }}/genus/diwaitermes/) —— 共 3 种
 - **本属模式种**：*Diwaitermes kanehirai*

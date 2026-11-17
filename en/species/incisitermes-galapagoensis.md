@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes galapagoensis*** is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1901; the type locality is Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribution: Ecuador.
+***Incisitermes galapagoensis*** is a species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Banks in 1901; the type locality is Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribution: Ecuador.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *galapagoensis*: Named after the Galápagos Islands
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 - **Type species of the genus**: *Incisitermes schwarzi*
 

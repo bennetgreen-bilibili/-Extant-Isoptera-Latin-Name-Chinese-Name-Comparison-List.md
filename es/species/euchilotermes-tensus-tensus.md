@@ -14,7 +14,7 @@ genus_zh: "真唇白蚁属"
 genus_latin: "Euchilotermes"
 genus_id: "euchilotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Euchilotermes tensus tensus*** es una subespecie de *Euchilotermes tensus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Euchilotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. No se incluye un registro de distribución separado en esta página; véase la especie parental *Euchilotermes tensus* más abajo.
+***Euchilotermes tensus tensus*** es una subespecie de *Euchilotermes tensus*, en la familia Termitidae (subfamilia Cubitermitinae), género *Euchilotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. No se incluye un registro de distribución separado en esta página; véase la especie parental *Euchilotermes tensus* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *tensus*: Latín tensus (tenso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Euchilotermes*]({{ site.base_url }}/es/genus/euchilotermes/) — 4 especies
 - **Especie**: [*Euchilotermes tensus*]({{ site.base_url }}/es/species/euchilotermes-tensus/)

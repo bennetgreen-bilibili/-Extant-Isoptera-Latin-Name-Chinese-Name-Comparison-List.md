@@ -12,7 +12,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Sri Lanka: Bogawantalawa"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**好斗后琥珀白蚁**（*Postelectrotermes militaris*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Sri Lanka: Bogawantalawa。分布记录包括斯里兰卡。本种有 1 个次异名。
+**好斗后琥珀白蚁**（*Postelectrotermes militaris*）是木白蚁科（Kalotermitidae）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Sri Lanka: Bogawantalawa。分布记录包括斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Sri Lanka: Bogawantalawa"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/genus/postelectrotermes/) —— 共 15 种
 - **本属模式种**：*Postelectrotermes praecox*
 

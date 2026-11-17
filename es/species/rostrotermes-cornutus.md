@@ -14,7 +14,7 @@ genus_zh: "突吻白蚁属"
 genus_latin: "Rostrotermes"
 genus_id: "rostrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rostrotermes cornutus*** es la única especie viviente del género *Rostrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Grassé en 1943; la localidad tipo es Guinea: Mont Nimba; Ivory Coast: Danané. Distribución según la fuente: West Africa, Ivory Coast, Guinea, Liberia, Nigeria, Sierra Leone.
+***Rostrotermes cornutus*** es la única especie viviente del género *Rostrotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Grassé en 1943; la localidad tipo es Guinea: Mont Nimba; Ivory Coast: Danané. Distribución según la fuente: West Africa, Ivory Coast, Guinea, Liberia, Nigeria, Sierra Leone.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *cornutus*: Del término descriptivo «corn» (cuerno)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Rostrotermes*]({{ site.base_url }}/es/genus/rostrotermes/) — monotípico, 1 especie
 

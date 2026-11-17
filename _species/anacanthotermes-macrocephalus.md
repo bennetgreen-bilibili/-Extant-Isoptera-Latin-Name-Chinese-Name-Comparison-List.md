@@ -12,7 +12,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Pakistan: Peshawar"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大头无刺白蚁**（*Anacanthotermes macrocephalus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 Pakistan: Sind: Karachi。分布记录包括印度、阿富汗、伊朗、巴基斯坦。本种有 1 个次异名。
+**大头无刺白蚁**（*Anacanthotermes macrocephalus*）是草白蚁科（Hodotermitidae）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 Pakistan: Sind: Karachi。分布记录包括印度、阿富汗、伊朗、巴基斯坦。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Pakistan: Peshawar"
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种
 - **本属模式种**：*Anacanthotermes ochraceus*
 

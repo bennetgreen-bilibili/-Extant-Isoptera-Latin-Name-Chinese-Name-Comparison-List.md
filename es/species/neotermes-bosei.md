@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "India: Uttarakhand: Dehra Dun"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes bosei*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1933; la localidad tipo es India: Uttarakhand: Dehra Dun: Mathranwala. Distribución según la fuente: India, Bhutan. Este sitio registra 1 sinónimo junior para la especie.
+***Neotermes bosei*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Snyder en 1933; la localidad tipo es India: Uttarakhand: Dehra Dun: Mathranwala. Distribución según la fuente: India, Bhutan. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *bosei*: En honor de G. Bose
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

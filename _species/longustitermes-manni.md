@@ -12,7 +12,7 @@ genus_zh: "长工白蚁属"
 genus_latin: "Longustitermes"
 genus_id: "longustitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曼长工白蚁**（*Longustitermes manni*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）长工白蚁属（*Longustitermes*）的现存唯一种。本种由 Snyder 于 1922 年描述，模式产地为 Honduras: Lombardia。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、玻利维亚、哥斯达黎加、洪都拉斯、巴拿马。本种有 1 个次异名。
+**曼长工白蚁**（*Longustitermes manni*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）长工白蚁属（*Longustitermes*）的现存唯一种。本种由 Snyder 于 1922 年描述，模式产地为 Honduras: Lombardia。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、玻利维亚、哥斯达黎加、洪都拉斯、巴拿马。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[长工白蚁属 *Longustitermes*]({{ site.base_url }}/genus/longustitermes/) —— 单型属，仅含 1 种
 

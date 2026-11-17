@@ -14,7 +14,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -34,7 +34,7 @@ synonym_localities: "(country unknown): ?"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ancistrotermes crucifer crucifer*** es una subespecie de *Ancistrotermes crucifer*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Ancistrotermes*. La subespecie fue descrita por Sjöstedt en 1897; la localidad tipo es Cameroon: Abo; Sierra Leone: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Ancistrotermes crucifer* más abajo. Este sitio registra 1 sinónimo junior para la subespecie.
+***Ancistrotermes crucifer crucifer*** es una subespecie de *Ancistrotermes crucifer*, en la familia Termitidae (subfamilia Macrotermitinae), género *Ancistrotermes*. La subespecie fue descrita por Sjöstedt en 1897; la localidad tipo es Cameroon: Abo; Sierra Leone: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Ancistrotermes crucifer* más abajo. Este sitio registra 1 sinónimo junior para la subespecie.
 
 ## Etimología
 
@@ -46,7 +46,7 @@ Epíteto específico *crucifer*: Del latín crux (cruz) + -fer (portador), que l
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Ancistrotermes*]({{ site.base_url }}/es/genus/ancistrotermes/) — 16 especies
 - **Especie**: [*Ancistrotermes crucifer*]({{ site.base_url }}/es/species/ancistrotermes-crucifer/)

@@ -14,7 +14,7 @@ genus_zh: "夏氏白蚁属"
 genus_latin: "Xiaitermes"
 genus_id: "xiaitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -32,7 +32,7 @@ synonyms: "Xiaitermes tiantaiensis Gao & He, 1994"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Xiaitermes yinxianensis*** es la única especie viviente del género *Xiaitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gao & He en 1994; la localidad tipo es China: Zhejiang Province: Yinxia. Distribución según la fuente: China. Este sitio registra 1 sinónimo junior para la especie.
+***Xiaitermes yinxianensis*** es la única especie viviente del género *Xiaitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Gao & He en 1994; la localidad tipo es China: Zhejiang Province: Yinxia. Distribución según la fuente: China. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *yinxianensis*: Por la localidad de Yinxian (Zhejiang, Chin
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Xiaitermes*]({{ site.base_url }}/es/genus/xiaitermes/) — monotípico, 1 especie
 

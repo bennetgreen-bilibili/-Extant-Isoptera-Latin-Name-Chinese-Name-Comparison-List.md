@@ -14,7 +14,7 @@ genus_zh: "草白蚁属"
 genus_latin: "Hodotermes"
 genus_id: "hodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Hodotermes erithreensis*** is a species of the genus *Hodotermes*, in the family HODOTERMITIDAE. The species was described by Sjöstedt in 1912; the type locality is Eritrea: Assab. Distribution: Eritrea, Ethiopia, Somalia. This site records 1 junior synonym for the species.
+***Hodotermes erithreensis*** is a species of the genus *Hodotermes*, in the family Hodotermitidae. The species was described by Sjöstedt in 1912; the type locality is Eritrea: Assab. Distribution: Eritrea, Ethiopia, Somalia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *erithreensis*: Named after the locality Erithre
 
 ## Taxonomic position
 
-- **Family**: [HODOTERMITIDAE]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
+- **Family**: [Hodotermitidae]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
 - **Genus**: [*Hodotermes*]({{ site.base_url }}/en/genus/hodotermes/) — 2 species
 - **Type species of the genus**: *Hodotermes mossambicus*
 

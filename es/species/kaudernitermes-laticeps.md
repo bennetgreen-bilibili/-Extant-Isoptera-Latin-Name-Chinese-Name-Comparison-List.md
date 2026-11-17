@@ -14,7 +14,7 @@ genus_zh: "考登白蚁属"
 genus_latin: "Kaudernitermes"
 genus_id: "kaudernitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Madagascar: Andrangoloaka; Nosy Be; Madagascar: ?"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Kaudernitermes laticeps*** es una especie del género *Kaudernitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Nosy Be. Distribución según la fuente: Madagascar, Mayotte. Este sitio registra 2 sinónimos junior para la especie.
+***Kaudernitermes laticeps*** es una especie del género *Kaudernitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Nosy Be. Distribución según la fuente: Madagascar, Mayotte. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de c
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Kaudernitermes*]({{ site.base_url }}/es/genus/kaudernitermes/) — 4 especies
 - **Especie tipo del género**: *Kaudernitermes kaudernianus*

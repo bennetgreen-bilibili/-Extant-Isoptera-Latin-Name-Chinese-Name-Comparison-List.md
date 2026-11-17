@@ -14,7 +14,7 @@ genus_zh: "直颚白蚁属"
 genus_latin: "Orthognathotermes"
 genus_id: "orthognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Orthognathotermes orthognathus*** is a species of the genus *Orthognathotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Silvestri in 1903; the type locality is Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]. Distribution: Brazil, Paraguay.
+***Orthognathotermes orthognathus*** is a species of the genus *Orthognathotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Silvestri in 1903; the type locality is Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]. Distribution: Brazil, Paraguay.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straig
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Orthognathotermes*]({{ site.base_url }}/en/genus/orthognathotermes/) — 15 species
 - **Type species of the genus**: *Orthognathotermes macrocephalus*

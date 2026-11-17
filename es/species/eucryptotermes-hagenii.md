@@ -14,7 +14,7 @@ genus_zh: "真砂白蚁属"
 genus_latin: "Eucryptotermes"
 genus_id: "eucryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eucryptotermes hagenii*** es una especie y la especie tipo del género *Eucryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]. Distribución según la fuente: South America, Brazil, Argentina.
+***Eucryptotermes hagenii*** es una especie y la especie tipo del género *Eucryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]. Distribución según la fuente: South America, Brazil, Argentina.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *hagenii*: En honor del entomólogo alemán H. A. Hagen
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Eucryptotermes*]({{ site.base_url }}/es/genus/eucryptotermes/) — 2 especies
 
 ## Distribución

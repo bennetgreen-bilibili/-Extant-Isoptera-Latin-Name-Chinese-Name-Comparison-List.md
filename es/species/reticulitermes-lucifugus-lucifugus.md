@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -31,7 +31,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Reticulitermes lucifugus lucifugus*** es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus* más abajo. Este sitio registra 5 sinónimos junior para la subespecie.
+***Reticulitermes lucifugus lucifugus*** es una subespecie de *Reticulitermes lucifugus*, en la familia Heterotermitidae, género *Reticulitermes*. La subespecie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus* más abajo. Este sitio registra 5 sinónimos junior para la subespecie.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *lucifugus*: Del latín lux (luz) + fugus (que huye), que r
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Reticulitermes*]({{ site.base_url }}/es/genus/reticulitermes/) — 140 especies
 - **Especie**: [*Reticulitermes lucifugus*]({{ site.base_url }}/es/species/reticulitermes-lucifugus/)
 - **Subespecie**: esta página (*Reticulitermes lucifugus lucifugus*)

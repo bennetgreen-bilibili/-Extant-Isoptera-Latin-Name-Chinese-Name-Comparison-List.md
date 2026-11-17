@@ -14,7 +14,7 @@ genus_zh: "西尔韦斯特里白蚁属"
 genus_latin: "Silvestritermes"
 genus_id: "silvestritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Silvestritermes euamignathus*** es una especie y la especie tipo del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]; Central: Asunción \[25.2667S 57.6667W\]; Guairá: Villa Rica \[25.75S 56.4333W\]. Distribución según la fuente: Brazil, Colombia, Venezuela, Bolivia, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
+***Silvestritermes euamignathus*** es una especie y la especie tipo del género *Silvestritermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]; Central: Asunción \[25.2667S 57.6667W\]; Guairá: Villa Rica \[25.75S 56.4333W\]. Distribución según la fuente: Brazil, Colombia, Venezuela, Bolivia, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *euamignathus*: Del griego eu- (bien) + gnathos (mandíbula
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Silvestritermes*]({{ site.base_url }}/es/genus/silvestritermes/) — 7 especies
 

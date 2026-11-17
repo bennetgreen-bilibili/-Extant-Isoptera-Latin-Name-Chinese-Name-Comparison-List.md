@@ -14,7 +14,7 @@ genus_zh: "班代拉白蚁属"
 genus_latin: "Bandeiratermes"
 genus_id: "bandeiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Bandeiratermes silvestrii*** is a species and the type species of the genus *Bandeiratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1949; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Bolivia, Paraguay.
+***Bandeiratermes silvestrii*** is a species and the type species of the genus *Bandeiratermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Emerson in 1949; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Bolivia, Paraguay.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *silvestrii*: Named after the entomologist F. Silvestri
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Bandeiratermes*]({{ site.base_url }}/en/genus/bandeiratermes/) — 2 species
 

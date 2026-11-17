@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Western Australia, near Condon; Australia: Victo
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Bifiditermes improbus*** is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Hagen in 1858; the type locality is Australia: Tasmania. Distribution: Australia, New Zealand. This site records 3 junior synonyms for the species.
+***Bifiditermes improbus*** is a species of the genus *Bifiditermes*, in the family Kalotermitidae. The species was described by Hagen in 1858; the type locality is Australia: Tasmania. Distribution: Australia, New Zealand. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *improbus*: From im- (without) + probus
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Bifiditermes*]({{ site.base_url }}/en/genus/bifiditermes/) — 12 species
 - **Type species of the genus**: *Bifiditermes madagascariensis*
 

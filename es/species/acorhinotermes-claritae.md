@@ -14,7 +14,7 @@ genus_zh: "尖鼻白蚁属"
 genus_latin: "Acorhinotermes"
 genus_id: "acorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Acorhinotermes claritae*** es una especie del género *Acorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Castro & Scheffrahn en 2019; la localidad tipo es Colombia: Amazonas, Leticia \[ 4.21528S 69.9406W \]. Distribución según la fuente: Colombia, Brazil, Venezuela.
+***Acorhinotermes claritae*** es una especie del género *Acorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Castro & Scheffrahn en 2019; la localidad tipo es Colombia: Amazonas, Leticia \[ 4.21528S 69.9406W \]. Distribución según la fuente: Colombia, Brazil, Venezuela.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *claritae*: En honor de Clarita
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Acorhinotermes*]({{ site.base_url }}/es/genus/acorhinotermes/) — 3 especies
 - **Especie tipo del género**: *Acorhinotermes subfusciceps*
 

@@ -14,7 +14,7 @@ genus_zh: "多铲白蚁属"
 genus_latin: "Polyspathotermes"
 genus_id: "polyspathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Polyspathotermes sulcifrons*** es una especie y la especie tipo del género *Polyspathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Cameroon: Lolodorf. Distribución según la fuente: Cameroon, Democratic Republic of the Congo, Nigeria, Tanzania.
+***Polyspathotermes sulcifrons*** es una especie y la especie tipo del género *Polyspathotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Cameroon: Lolodorf. Distribución según la fuente: Cameroon, Democratic Republic of the Congo, Nigeria, Tanzania.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *sulcifrons*: Latín sulcus (surco) + frons (frente), de fr
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Polyspathotermes*]({{ site.base_url }}/es/genus/polyspathotermes/) — 8 especies
 

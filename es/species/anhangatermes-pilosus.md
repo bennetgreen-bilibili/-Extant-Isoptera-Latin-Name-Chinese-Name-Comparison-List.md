@@ -14,7 +14,7 @@ genus_zh: "魔白蚁属"
 genus_latin: "Anhangatermes"
 genus_id: "anhangatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anhangatermes pilosus*** es una especie del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2014; la localidad tipo es Brasil: Mato Grosso: Parque Estadual do Araguaia \[12.575S 50.918W\]. Distribución según la fuente: Brazil.
+***Anhangatermes pilosus*** es una especie del género *Anhangatermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2014; la localidad tipo es Brasil: Mato Grosso: Parque Estadual do Araguaia \[12.575S 50.918W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *pilosus*: Del latín pilosus (peludo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Anhangatermes*]({{ site.base_url }}/es/genus/anhangatermes/) — 5 especies
 - **Especie tipo del género**: *Anhangatermes macarthuri*

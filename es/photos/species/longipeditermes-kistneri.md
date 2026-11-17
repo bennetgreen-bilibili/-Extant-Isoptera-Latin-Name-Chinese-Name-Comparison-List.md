@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Longipeditermes_kist
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Nasutitermitinae"
     url: "/es/subfamily/nasutitermitinae/"

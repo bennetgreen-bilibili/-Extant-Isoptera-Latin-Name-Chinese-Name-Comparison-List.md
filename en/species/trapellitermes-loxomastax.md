@@ -14,7 +14,7 @@ genus_zh: "菱角白蚁属"
 genus_latin: "Trapellitermes"
 genus_id: "trapellitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Trapellitermes loxomastax*** is the only extant species of the genus *Trapellitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Sands in 1995; the type locality is Gambia: near Daranka on Madinari road. Distribution: West Africa, Côte d'Ivoire.
+***Trapellitermes loxomastax*** is the only extant species of the genus *Trapellitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Sands in 1995; the type locality is Gambia: near Daranka on Madinari road. Distribution: West Africa, Côte d'Ivoire.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *loxomastax*: Greek loxos (oblique) + mastax (jaw), oblique-jaw
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Trapellitermes*]({{ site.base_url }}/en/genus/trapellitermes/) — monotypic, 1 species
 

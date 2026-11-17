@@ -14,7 +14,7 @@ genus_zh: "似锥白蚁属"
 genus_latin: "Subulioiditermes"
 genus_id: "subulioiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Subulioiditermes borneensis*** is a species of the genus *Subulioiditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ahmad in 1968; the type locality is Malaysia: Sarawak: Sabal Tapang. Distribution: Malaysia.
+***Subulioiditermes borneensis*** is a species of the genus *Subulioiditermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Ahmad in 1968; the type locality is Malaysia: Sarawak: Sabal Tapang. Distribution: Malaysia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *borneensis*: After Borneo
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Subulioiditermes*]({{ site.base_url }}/en/genus/subulioiditermes/) — 3 species
 - **Type species of the genus**: *Subulioiditermes subulioides*

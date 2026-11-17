@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Glyptotermes albofemoralis*** es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wu, Tsai & Li en 2024; la localidad tipo es Taiwan: Fushan Botanical Garden, Yilan Co. \[ 24.7569N 121.594E \]. Distribución según la fuente: China (Taiwan).
+***Glyptotermes albofemoralis*** es una especie del género *Glyptotermes*, en la familia Kalotermitidae. La especie fue descrita por Wu, Tsai & Li en 2024; la localidad tipo es Taiwan: Fushan Botanical Garden, Yilan Co. \[ 24.7569N 121.594E \]. Distribución según la fuente: China (Taiwan).
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *albofemoralis*: De albo (blanco) + femoralis (fémur)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Glyptotermes*]({{ site.base_url }}/es/genus/glyptotermes/) — 131 especies
 - **Especie tipo del género**: *Glyptotermes tuberculatus*
 

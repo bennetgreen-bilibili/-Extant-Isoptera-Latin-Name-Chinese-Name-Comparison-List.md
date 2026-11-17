@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Schedorhinotermes holmgreni*** es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Emerson en 1949; la localidad tipo es Indonesia: Sumatra: Bahsoemboe; Sumatra: Pajacombo; Sumatra: Tandjong Slamat. Distribución según la fuente: Indonesia.
+***Schedorhinotermes holmgreni*** es una especie del género *Schedorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Emerson en 1949; la localidad tipo es Indonesia: Sumatra: Bahsoemboe; Sumatra: Pajacombo; Sumatra: Tandjong Slamat. Distribución según la fuente: Indonesia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Schedorhinotermes*]({{ site.base_url }}/es/genus/schedorhinotermes/) — 35 especies
 - **Especie tipo del género**: *Schedorhinotermes intermedius*
 

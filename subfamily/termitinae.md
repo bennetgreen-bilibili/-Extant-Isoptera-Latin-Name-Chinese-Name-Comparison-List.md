@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "白蚁亚科 Termitinae 属与物种名录"
-description: "白蚁亚科（Termitinae）是白蚁科（TERMITIDAE）下的一个亚科，本站收录 23 个属、107 个种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。亚科的形态、分布与经济意义见本页上文。"
+description: "白蚁亚科（Termitinae）是白蚁科（Termitidae）下的一个亚科，本站收录 23 个属、107 个种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。亚科的形态、分布与经济意义见本页上文。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -26,7 +26,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/termitinae/">白蚁亚科</a> › <span>本亚科</span></nav>
 <header class="taxon-header">
 <h1>白蚁亚科 <i>Termitinae</i></h1>
-<p class="taxon-meta">白蚁科 TERMITIDAE · 23 属 · 107 种</p>
+<p class="taxon-meta">白蚁科 Termitidae · 23 属 · 107 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="termitinae,apsenterotermes,capritermes,cavitermes,cornicapritermes,cristatitermes,dihoplotermes,divinotermes,ekphysotermes,ephelotermes,hapsidotermes,hesperotermes,inquilinitermes,lophotermes,macrognathotermes,palmitermes,paracapritermes,protocapritermes,quasitermes,saxatilitermes,spinitermes,termes,tuberculitermes,xylochomitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本亚科范围内全文检索（107 个种与亚种）：名字、分布、模式产地与研究记述</label>

@@ -14,7 +14,7 @@ genus_zh: "长颚白蚁属"
 genus_latin: "Macrognathotermes"
 genus_id: "macrognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrognathotermes errator*** es una especie y la especie tipo del género *Macrognathotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Milingimbi. Distribución según la fuente: Australia, Papua New Guinea.
+***Macrognathotermes errator*** es una especie y la especie tipo del género *Macrognathotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Milingimbi. Distribución según la fuente: Australia, Papua New Guinea.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *errator*: Del latín errator (errante)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Macrognathotermes*]({{ site.base_url }}/es/genus/macrognathotermes/) — 4 especies
 

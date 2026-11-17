@@ -14,7 +14,7 @@ genus_zh: "冢白蚁属"
 genus_latin: "Tumulitermes"
 genus_id: "tumulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tumulitermes mareebensis*** es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1922; la localidad tipo es Australia: Queensland: Mareeba. Distribución según la fuente: Australia.
+***Tumulitermes mareebensis*** es una especie del género *Tumulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1922; la localidad tipo es Australia: Queensland: Mareeba. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mareebensis*: Por Mareeba, Queensland, Australia
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Tumulitermes*]({{ site.base_url }}/es/genus/tumulitermes/) — 17 especies
 - **Especie tipo del género**: *Tumulitermes tumuli*

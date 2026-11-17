@@ -14,7 +14,7 @@ genus_zh: "上木白蚁属"
 genus_latin: "Epicalotermes"
 genus_id: "epicalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Epicalotermes pakistanicus*** es una especie del género *Epicalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Baluchistan: Gwadar. Distribución según la fuente: Pakistan.
+***Epicalotermes pakistanicus*** es una especie del género *Epicalotermes*, en la familia Kalotermitidae. La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Baluchistan: Gwadar. Distribución según la fuente: Pakistan.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *pakistanicus*: Por Pakistán
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Epicalotermes*]({{ site.base_url }}/es/genus/epicalotermes/) — 6 especies
 - **Especie tipo del género**: *Epicalotermes aethiopicus*
 

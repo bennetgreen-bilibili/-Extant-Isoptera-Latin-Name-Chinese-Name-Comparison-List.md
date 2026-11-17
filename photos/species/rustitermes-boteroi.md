@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Rustitermes_boteroi_
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "尖白蚁亚科 Apicotermitinae"
     url: "/subfamily/apicotermitinae/"

@@ -14,7 +14,7 @@ genus_zh: "华象白蚁属"
 genus_latin: "Sinonasutitermes"
 genus_id: "sinonasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Sinonasutitermes yui*** es una especie del género *Sinonasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ping & Xu en 1991; la localidad tipo es China: Hainan Province: Baisha County. Distribución según la fuente: China.
+***Sinonasutitermes yui*** es una especie del género *Sinonasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Ping & Xu en 1991; la localidad tipo es China: Hainan Province: Baisha County. Distribución según la fuente: China.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *yui*: En honor de Qiwei You, taxónomo chino de termitas.
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Sinonasutitermes*]({{ site.base_url }}/es/genus/sinonasutitermes/) — 11 especies
 - **Especie tipo del género**: *Sinonasutitermes dimorphus*

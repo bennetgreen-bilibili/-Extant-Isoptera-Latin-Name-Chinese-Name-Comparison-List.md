@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/670064009/large.jp
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/es/family/rhinotermitidae/"
   - name: "Schedorhinotermes"
     url: "/es/genus/schedorhinotermes/"

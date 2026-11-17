@@ -12,7 +12,7 @@ genus_zh: "生白蚁属"
 genus_latin: "Embiratermes"
 genus_id: "embiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本种有 1 个次异名。
+**幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/genus/embiratermes/) —— 共 9 种
 - **本属模式种**：*Embiratermes festivellus*

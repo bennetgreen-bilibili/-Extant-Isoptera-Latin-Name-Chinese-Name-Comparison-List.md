@@ -12,7 +12,7 @@ genus_zh: "阿特拉斯白蚁属"
 genus_latin: "Atlantitermes"
 genus_id: "atlantitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**柯比阿特拉斯白蚁**（*Atlantitermes kirbyi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿特拉斯白蚁属（*Atlantitermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括尼加拉瓜、巴拿马。
+**柯比阿特拉斯白蚁**（*Atlantitermes kirbyi*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）阿特拉斯白蚁属（*Atlantitermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括尼加拉瓜、巴拿马。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[阿特拉斯白蚁属 *Atlantitermes*]({{ site.base_url }}/genus/atlantitermes/) —— 共 8 种
 - **本属模式种**：*Atlantitermes guarinim*

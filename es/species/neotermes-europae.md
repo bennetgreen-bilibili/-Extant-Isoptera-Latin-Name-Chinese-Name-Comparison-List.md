@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Madagascar: Station Forestière de l’Ankarafantsika"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes europae*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wasmann en 1910; la localidad tipo es Europa Island (France): ?; Reunion (French): ?. Distribución según la fuente: Europa Island, Madagascar, Réunion. Este sitio registra 1 sinónimo junior para la especie.
+***Neotermes europae*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Wasmann en 1910; la localidad tipo es Europa Island (France): ?; Reunion (French): ?. Distribución según la fuente: Europa Island, Madagascar, Réunion. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *europae*: Por Europa
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

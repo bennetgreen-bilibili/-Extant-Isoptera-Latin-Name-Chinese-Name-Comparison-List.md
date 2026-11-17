@@ -14,7 +14,7 @@ genus_zh: "棕榈白蚁属"
 genus_latin: "Palmitermes"
 genus_id: "palmitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Palmitermes impostor*** es la única especie viviente del género *Palmitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hellemans & Roisin en 2017; la localidad tipo es French Guiana: Petit Saut \[5.07N 53.032W\]. Distribución según la fuente: Australia, Brazil, French Guiana.
+***Palmitermes impostor*** es la única especie viviente del género *Palmitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Hellemans & Roisin en 2017; la localidad tipo es French Guiana: Petit Saut \[5.07N 53.032W\]. Distribución según la fuente: Australia, Brazil, French Guiana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *impostor*: De im- (sin) + postor (detrás)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Palmitermes*]({{ site.base_url }}/es/genus/palmitermes/) — monotípico, 1 especie
 

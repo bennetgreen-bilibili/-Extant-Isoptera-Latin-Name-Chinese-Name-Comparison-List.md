@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/607990528/large.jp
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "MASTOTERMITIDAE"
+  - name: "Mastotermitidae"
     url: "/en/family/mastotermitidae/"
   - name: "Mastotermes"
     url: "/en/genus/mastotermes/"

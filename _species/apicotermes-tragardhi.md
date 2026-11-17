@@ -12,7 +12,7 @@ genus_zh: "尖白蚁属"
 genus_latin: "Apicotermes"
 genus_id: "apicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**特雷高尖白蚁**（*Apicotermes tragardhi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）尖白蚁属（*Apicotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1912 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括莫桑比克、南非、坦桑尼亚、津巴布韦。
+**特雷高尖白蚁**（*Apicotermes tragardhi*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）尖白蚁属（*Apicotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1912 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括莫桑比克、南非、坦桑尼亚、津巴布韦。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[尖白蚁属 *Apicotermes*]({{ site.base_url }}/genus/apicotermes/) —— 共 13 种
 

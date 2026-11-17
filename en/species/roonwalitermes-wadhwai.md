@@ -14,7 +14,7 @@ genus_zh: "鲁恩沃白蚁属"
 genus_latin: "Roonwalitermes"
 genus_id: "roonwalitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Roonwalitermes wadhwai*** is the only extant species of the genus *Roonwalitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Bose in 1997; the type locality is India: Meghalaya: Mawphlang. Distribution: India.
+***Roonwalitermes wadhwai*** is the only extant species of the genus *Roonwalitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Bose in 1997; the type locality is India: Meghalaya: Mawphlang. Distribution: India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *wadhwai*: Named after Wadhwa
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Roonwalitermes*]({{ site.base_url }}/en/genus/roonwalitermes/) — monotypic, 1 species
 

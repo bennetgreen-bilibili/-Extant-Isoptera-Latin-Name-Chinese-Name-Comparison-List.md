@@ -14,7 +14,7 @@ genus_zh: "缩狭白蚁属"
 genus_latin: "Coarctotermes"
 genus_id: "coarctotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Coarctotermes nasonovi*** is a species of the genus *Coarctotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Czerwinski in 1901; the type locality is Madagascar: ?. Distribution: Madagascar.
+***Coarctotermes nasonovi*** is a species of the genus *Coarctotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Czerwinski in 1901; the type locality is Madagascar: ?. Distribution: Madagascar.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *nasonovi*: Named after N. V. Nasonov
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Coarctotermes*]({{ site.base_url }}/en/genus/coarctotermes/) — 4 species
 - **Type species of the genus**: *Coarctotermes clepsydra*

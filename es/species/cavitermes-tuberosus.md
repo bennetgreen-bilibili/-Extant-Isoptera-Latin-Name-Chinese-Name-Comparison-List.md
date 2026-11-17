@@ -14,7 +14,7 @@ genus_zh: "腔白蚁属"
 genus_latin: "Cavitermes"
 genus_id: "cavitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cavitermes tuberosus*** es una especie y la especie tipo del género *Cavitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Barakara \[6.3833N 58.6667W\]. Distribución según la fuente: Brazil, French Guiana, Colombia, Trinidad and Tobago, Bolivia, Guyana, Ecuador, Venezuela.
+***Cavitermes tuberosus*** es una especie y la especie tipo del género *Cavitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Barakara \[6.3833N 58.6667W\]. Distribución según la fuente: Brazil, French Guiana, Colombia, Trinidad and Tobago, Bolivia, Guyana, Ecuador, Venezuela.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tuberosus*: De tuber (tubérculo) + osus (abundante, lleno
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Cavitermes*]({{ site.base_url }}/es/genus/cavitermes/) — 5 especies
 

@@ -14,7 +14,7 @@ genus_zh: "无刃白蚁属"
 genus_latin: "Astratotermes"
 genus_id: "astratotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Astratotermes mansuetus*** is a species of the genus *Astratotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Kenya: 4 miles from Kaptagat on Eldoret Road. Distribution: tropical Africa.
+***Astratotermes mansuetus*** is a species of the genus *Astratotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Kenya: 4 miles from Kaptagat on Eldoret Road. Distribution: tropical Africa.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *mansuetus*: Latin mansuetus (tame, gentle)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Astratotermes*]({{ site.base_url }}/en/genus/astratotermes/) — 6 species
 - **Type species of the genus**: *Astratotermes prosenus*

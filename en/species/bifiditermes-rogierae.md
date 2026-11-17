@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Bifiditermes rogierae*** is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Hollande in 1982; the type locality is Canary Islands (Spain): Tenerife, Punta de Teno. Distribution: Spain.
+***Bifiditermes rogierae*** is a species of the genus *Bifiditermes*, in the family Kalotermitidae. The species was described by Hollande in 1982; the type locality is Canary Islands (Spain): Tenerife, Punta de Teno. Distribution: Spain.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *rogierae*: Named after a person "Rogier(e)" (female, identity 
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Bifiditermes*]({{ site.base_url }}/en/genus/bifiditermes/) — 12 species
 - **Type species of the genus**: *Bifiditermes madagascariensis*
 

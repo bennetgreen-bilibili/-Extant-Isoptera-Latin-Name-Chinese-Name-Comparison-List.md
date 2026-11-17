@@ -14,7 +14,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Calcaritermes colei*** is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Krishna in 1962; the type locality is Mexico: San Luis Potosi, above El Naranjo. Distribution: Mexico, Belize, Guatemala, Honduras.
+***Calcaritermes colei*** is a species of the genus *Calcaritermes*, in the family Kalotermitidae. The species was described by Krishna in 1962; the type locality is Mexico: San Luis Potosi, above El Naranjo. Distribution: Mexico, Belize, Guatemala, Honduras.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *colei*: Named after Cole
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Calcaritermes*]({{ site.base_url }}/en/genus/calcaritermes/) — 12 species
 - **Type species of the genus**: *Calcaritermes imminens*
 

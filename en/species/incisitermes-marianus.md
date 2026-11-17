@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes marianus*** is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Holmgren in 1912; the type locality is Northern Mariana Islands: Mariana Islands \[ 16.61N 145.62E \]. Distribution: Northern Mariana Islands.
+***Incisitermes marianus*** is a species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Holmgren in 1912; the type locality is Northern Mariana Islands: Mariana Islands \[ 16.61N 145.62E \]. Distribution: Northern Mariana Islands.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *marianus*: Named after the Marianas
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 - **Type species of the genus**: *Incisitermes schwarzi*
 

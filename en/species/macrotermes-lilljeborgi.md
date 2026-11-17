@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Macrotermes lilljeborgi*** is a species and the type species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1896; the type locality is Cameroon: Kitta. Distribution: Central Africa, Cameroon, Republic of the Congo, Gabon, Democratic Republic of the Congo, Nigeria, Tanzania.
+***Macrotermes lilljeborgi*** is a species and the type species of the genus *Macrotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Sjöstedt in 1896; the type locality is Cameroon: Kitta. Distribution: Central Africa, Cameroon, Republic of the Congo, Gabon, Democratic Republic of the Congo, Nigeria, Tanzania.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *lilljeborgi*: Named after Lilljeborg (Swedish zoologist Wilhel
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Macrotermes*]({{ site.base_url }}/en/genus/macrotermes/) — 57 species
 

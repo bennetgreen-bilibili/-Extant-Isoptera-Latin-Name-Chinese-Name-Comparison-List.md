@@ -14,7 +14,7 @@ genus_zh: "白蚁属"
 genus_latin: "Termes"
 genus_id: "termes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Termes atlanticus*** es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Fontaine en 2026; la localidad tipo es Colombia: La Guajira: Palomino El Matuy \[11.2461N 73.5462W\]. Distribución según la fuente: Colombia.
+***Termes atlanticus*** es una especie del género *Termes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Fontaine en 2026; la localidad tipo es Colombia: La Guajira: Palomino El Matuy \[11.2461N 73.5462W\]. Distribución según la fuente: Colombia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *atlanticus*: Del latín atlanticus, del Atlántico
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Termes*]({{ site.base_url }}/es/genus/termes/) — 27 especies
 - **Especie tipo del género**: *Termes fatalis*

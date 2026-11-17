@@ -14,7 +14,7 @@ genus_zh: "微白蚁属"
 genus_latin: "Parvitermes"
 genus_id: "parvitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Parvitermes dominicanae*** is a species of the genus *Parvitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Scheffrahn, Roisin & Su in 1998; the type locality is Dominican Republic: Distrito Nacional: Bomba de Gaunuma. Distribution: Dominican Republic.
+***Parvitermes dominicanae*** is a species of the genus *Parvitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Scheffrahn, Roisin & Su in 1998; the type locality is Dominican Republic: Distrito Nacional: Bomba de Gaunuma. Distribution: Dominican Republic.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *dominicanae*: Named after Dominica
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Parvitermes*]({{ site.base_url }}/en/genus/parvitermes/) — 11 species
 - **Type species of the genus**: *Parvitermes brooksi*

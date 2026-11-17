@@ -12,7 +12,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: La Paz: Río Tuichi [14.28S 68.54W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**查基马约象白蚁**（*Nasutitermes chaquimayensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括巴西、秘鲁、玻利维亚、巴拉圭。本种有 1 个次异名。
+**查基马约象白蚁**（*Nasutitermes chaquimayensis*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括巴西、秘鲁、玻利维亚、巴拉圭。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Bolivia: La Paz: Río Tuichi [14.28S 68.54W]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
 - **本属模式种**：*Nasutitermes corniger*

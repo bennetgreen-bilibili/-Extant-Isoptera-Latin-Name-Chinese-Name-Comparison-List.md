@@ -14,7 +14,7 @@ genus_zh: "灰白蚁属"
 genus_latin: "Grigiotermes"
 genus_id: "grigiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Grigiotermes hageni*** es una especie y la especie tipo del género *Grigiotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Argentina: Chaco: Colonia Benítez \[ 27.3333S 58.9333W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]. Distribución según la fuente: Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
+***Grigiotermes hageni*** es una especie y la especie tipo del género *Grigiotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Argentina: Chaco: Colonia Benítez \[ 27.3333S 58.9333W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]. Distribución según la fuente: Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *hageni*: En honor del entomólogo alemán H. A. Hagen
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Grigiotermes*]({{ site.base_url }}/es/genus/grigiotermes/) — 2 especies
 

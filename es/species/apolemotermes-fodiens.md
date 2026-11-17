@@ -14,7 +14,7 @@ genus_zh: "和平白蚁属"
 genus_latin: "Apolemotermes"
 genus_id: "apolemotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Apolemotermes fodiens*** es la única especie viviente del género *Apolemotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribución según la fuente: Cameroon.
+***Apolemotermes fodiens*** es la única especie viviente del género *Apolemotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribución según la fuente: Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *fodiens*: Del latín fodiens (que cava)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Apolemotermes*]({{ site.base_url }}/es/genus/apolemotermes/) — monotípico, 1 especie
 

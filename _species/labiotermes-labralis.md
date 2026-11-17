@@ -12,7 +12,7 @@ genus_zh: "厚唇白蚁属"
 genus_latin: "Labiotermes"
 genus_id: "labiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**细唇厚唇白蚁**（*Labiotermes labralis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚。本种有 1 个次异名。
+**细唇厚唇白蚁**（*Labiotermes labralis*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种
 

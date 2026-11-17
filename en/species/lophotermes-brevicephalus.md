@@ -14,7 +14,7 @@ genus_zh: "小脊突白蚁属"
 genus_latin: "Lophotermes"
 genus_id: "lophotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Lophotermes brevicephalus*** is a species of the genus *Lophotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Queensland: Weipa. Distribution: Australia, Papua New Guinea.
+***Lophotermes brevicephalus*** is a species of the genus *Lophotermes*, in the family Termitidae (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Queensland: Weipa. Distribution: Australia, Papua New Guinea.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *brevicephalus*: From the descriptive term 'brev' (short)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Lophotermes*]({{ site.base_url }}/en/genus/lophotermes/) — 9 species
 - **Type species of the genus**: *Lophotermes pectinatus*

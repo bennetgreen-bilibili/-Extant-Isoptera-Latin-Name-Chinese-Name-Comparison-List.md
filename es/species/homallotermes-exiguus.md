@@ -14,7 +14,7 @@ genus_zh: "平白蚁属"
 genus_latin: "Homallotermes"
 genus_id: "homallotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Homallotermes exiguus*** es una especie del género *Homallotermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Krishna en 1972; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Indonesia, Malaysia.
+***Homallotermes exiguus*** es una especie del género *Homallotermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Krishna en 1972; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Indonesia, Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *exiguus*: Del término descriptivo «exigu» (diminuto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Homallotermes*]({{ site.base_url }}/es/genus/homallotermes/) — 4 especies
 - **Especie tipo del género**: *Homallotermes foraminifer*

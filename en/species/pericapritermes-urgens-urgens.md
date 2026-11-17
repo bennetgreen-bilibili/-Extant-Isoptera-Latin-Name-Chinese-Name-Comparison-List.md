@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pericapritermes urgens urgens*** is a subspecies of *Pericapritermes urgens*, in the family TERMITIDAE (subfamily Mirocapritermitinae), genus *Pericapritermes*. The subspecies was described by Silvestri in 1914; the type locality is Cameroon: Victoria; Ghana: ?; Guinea: Mamou. No separate distribution record is listed on this page; see the parent species *Pericapritermes urgens* below.
+***Pericapritermes urgens urgens*** is a subspecies of *Pericapritermes urgens*, in the family Termitidae (subfamily Mirocapritermitinae), genus *Pericapritermes*. The subspecies was described by Silvestri in 1914; the type locality is Cameroon: Victoria; Ghana: ?; Guinea: Mamou. No separate distribution record is listed on this page; see the parent species *Pericapritermes urgens* below.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *urgens*: Latin urgens (urgent)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Pericapritermes*]({{ site.base_url }}/en/genus/pericapritermes/) — 40 species
 - **Species**: [*Pericapritermes urgens*]({{ site.base_url }}/en/species/pericapritermes-urgens/)

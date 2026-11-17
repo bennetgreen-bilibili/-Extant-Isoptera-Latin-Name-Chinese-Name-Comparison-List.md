@@ -14,7 +14,7 @@ genus_zh: "黄汁白蚁属"
 genus_latin: "Tucupitermes"
 genus_id: "tucupitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tucupitermes ubixaba*** es la única especie viviente del género *Tucupitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Almeida-Azevedo, Acioli & Azevedo en 2025; la localidad tipo es Brasil: Pará: Santarém \[ 2.43917S 54.705W \]. Distribución según la fuente: Brazil.
+***Tucupitermes ubixaba*** es la única especie viviente del género *Tucupitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Almeida-Azevedo, Acioli & Azevedo en 2025; la localidad tipo es Brasil: Pará: Santarém \[ 2.43917S 54.705W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *ubixaba*: De la palabra tupí ubixaba «jefe, líder».
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Tucupitermes*]({{ site.base_url }}/es/genus/tucupitermes/) — monotípico, 1 especie
 

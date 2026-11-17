@@ -12,7 +12,7 @@ genus_zh: "杆白蚁属"
 genus_latin: "Stylotermes"
 genus_id: "stylotermes"
 family_zh: "杆白蚁科"
-family_latin: "STYLOTERMITIDAE"
+family_latin: "Stylotermitidae"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多毛杆白蚁**（*Stylotermes crinis*）是杆白蚁科（STYLOTERMITIDAE）杆白蚁属（*Stylotermes*）的一种。本种由 Gao, Zhu & Gong 于 1981 年描述，模式产地为 China: Sichuan Province: Chengdu。分布记录包括中国。
+**多毛杆白蚁**（*Stylotermes crinis*）是杆白蚁科（Stylotermitidae）杆白蚁属（*Stylotermes*）的一种。本种由 Gao, Zhu & Gong 于 1981 年描述，模式产地为 China: Sichuan Province: Chengdu。分布记录包括中国。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种
+- **科**：[杆白蚁科 Stylotermitidae]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种
 - **属**：[杆白蚁属 *Stylotermes*]({{ site.base_url }}/genus/stylotermes/) —— 共 45 种
 - **本属模式种**：*Stylotermes fletcheri*
 

@@ -14,7 +14,7 @@ genus_zh: "圆球白蚁属"
 genus_latin: "Sphaerotermes"
 genus_id: "sphaerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆球白蚁亚科"
 subfamily_latin: "Sphaerotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Sphaerotermes sphaerothorax*** is the only extant species of the genus *Sphaerotermes*, in the family TERMITIDAE (subfamily Sphaerotermitinae). The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria.
+***Sphaerotermes sphaerothorax*** is the only extant species of the genus *Sphaerotermes*, in the family Termitidae (subfamily Sphaerotermitinae). The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *sphaerothorax*: From sphaero + thorax
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Sphaerotermitinae]({{ site.base_url }}/en/subfamily/sphaerotermitinae/) — 1 genus, 1 species
 - **Genus**: [*Sphaerotermes*]({{ site.base_url }}/en/genus/sphaerotermes/) — monotypic, 1 species
 

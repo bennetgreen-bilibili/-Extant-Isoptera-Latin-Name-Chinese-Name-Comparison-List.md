@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bifiditermes madagascariensis*** es una especie y la especie tipo del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Nosy Be. Distribución según la fuente: Madagascar, Comoros.
+***Bifiditermes madagascariensis*** es una especie y la especie tipo del género *Bifiditermes*, en la familia Kalotermitidae. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Nosy Be. Distribución según la fuente: Madagascar, Comoros.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *madagascariensis*: Por la localidad de Madagascar
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Bifiditermes*]({{ site.base_url }}/es/genus/bifiditermes/) — 12 especies
 
 ## Distribución

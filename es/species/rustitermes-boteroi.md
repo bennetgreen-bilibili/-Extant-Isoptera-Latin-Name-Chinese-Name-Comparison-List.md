@@ -14,7 +14,7 @@ genus_zh: "拉斯特白蚁属"
 genus_latin: "Rustitermes"
 genus_id: "rustitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rustitermes boteroi*** es la única especie viviente del género *Rustitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Constantini, Castro & Scheffrahn en 2020; la localidad tipo es Peru: Ucayali, Nueva Requena \[ 8.37007S 74.8437W \]. Distribución según la fuente: South America, Colombia, French Guiana, Brazil, Trinidad and Tobago.
+***Rustitermes boteroi*** es la única especie viviente del género *Rustitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Constantini, Castro & Scheffrahn en 2020; la localidad tipo es Peru: Ucayali, Nueva Requena \[ 8.37007S 74.8437W \]. Distribución según la fuente: South America, Colombia, French Guiana, Brazil, Trinidad and Tobago.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *boteroi*: En honor de Botero
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Rustitermes*]({{ site.base_url }}/es/genus/rustitermes/) — monotípico, 1 especie
 

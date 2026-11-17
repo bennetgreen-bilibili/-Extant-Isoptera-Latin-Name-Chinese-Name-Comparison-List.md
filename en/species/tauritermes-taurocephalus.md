@@ -14,7 +14,7 @@ genus_zh: "牛白蚁属"
 genus_latin: "Tauritermes"
 genus_id: "tauritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Tauritermes taurocephalus*** is a species and the type species of the genus *Tauritermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribution: Brazil, Argentina, Bolivia.
+***Tauritermes taurocephalus*** is a species and the type species of the genus *Tauritermes*, in the family Kalotermitidae. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribution: Brazil, Argentina, Bolivia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *taurocephalus*: Greek tauros (bull) + kephalē (head), bull-he
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Tauritermes*]({{ site.base_url }}/en/genus/tauritermes/) — 4 species
 
 ## Distribution

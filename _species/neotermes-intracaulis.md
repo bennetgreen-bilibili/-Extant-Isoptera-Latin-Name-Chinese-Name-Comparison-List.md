@@ -12,7 +12,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**茎内新白蚁**（*Neotermes intracaulis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Scheffrahn & Krecek 于 2003 年描述，模式产地为 Virgin Islands (USA): St. Croix: Sion Hill。分布记录包括加勒比、圣巴泰勒米、瓜德罗普、阿鲁巴、巴巴多斯、博奈尔、法属圣马丁、美属维尔京群岛、哥伦比亚、委内瑞拉。
+**茎内新白蚁**（*Neotermes intracaulis*）是木白蚁科（Kalotermitidae）新白蚁属（*Neotermes*）的一种。本种由 Scheffrahn & Krecek 于 2003 年描述，模式产地为 Virgin Islands (USA): St. Croix: Sion Hill。分布记录包括加勒比、圣巴泰勒米、瓜德罗普、阿鲁巴、巴巴多斯、博奈尔、法属圣马丁、美属维尔京群岛、哥伦比亚、委内瑞拉。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
 - **本属模式种**：*Neotermes castaneus*
 

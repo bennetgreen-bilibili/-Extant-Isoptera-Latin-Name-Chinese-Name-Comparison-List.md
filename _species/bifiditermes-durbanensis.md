@@ -12,7 +12,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Cape South Coast: The Wilderness"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**德班双裂白蚁**（*Bifiditermes durbanensis*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Durban。分布记录包括南非、肯尼亚、坦桑尼亚。本种有 1 个次异名。
+**德班双裂白蚁**（*Bifiditermes durbanensis*）是木白蚁科（Kalotermitidae）双裂白蚁属（*Bifiditermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Durban。分布记录包括南非、肯尼亚、坦桑尼亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "South Africa: Cape South Coast: The Wilderness"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种
 - **本属模式种**：*Bifiditermes madagascariensis*
 

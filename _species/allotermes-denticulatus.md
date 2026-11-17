@@ -12,7 +12,7 @@ genus_zh: "奇白蚁属"
 genus_latin: "Allotermes"
 genus_id: "allotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小齿奇白蚁**（*Allotermes denticulatus*）是木白蚁科（KALOTERMITIDAE）奇白蚁属（*Allotermes*）的一种。本种由 Krishna 于 1962 年描述，模式产地为 Madagascar: 39 km E Tsihombe。分布记录包括马达加斯加。
+**小齿奇白蚁**（*Allotermes denticulatus*）是木白蚁科（Kalotermitidae）奇白蚁属（*Allotermes*）的一种。本种由 Krishna 于 1962 年描述，模式产地为 Madagascar: 39 km E Tsihombe。分布记录包括马达加斯加。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[奇白蚁属 *Allotermes*]({{ site.base_url }}/genus/allotermes/) —— 共 3 种
 - **本属模式种**：*Allotermes paradoxus*
 

@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Zululand"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Microcerotermes zuluensis*** is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele. Distribution: Old World tropics, West Africa, southern Africa. This site records 1 junior synonym for the species.
+***Microcerotermes zuluensis*** is a species of the genus *Microcerotermes*, in the family Termitidae (subfamily Microcerotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele. Distribution: Old World tropics, West Africa, southern Africa. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *zuluensis*: Named after the locality Zulu
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Microcerotermitinae]({{ site.base_url }}/en/subfamily/microcerotermitinae/) — 2 genera, 150 species
 - **Genus**: [*Microcerotermes*]({{ site.base_url }}/en/genus/microcerotermes/) — 148 species
 - **Type species of the genus**: *Microcerotermes strunckii*

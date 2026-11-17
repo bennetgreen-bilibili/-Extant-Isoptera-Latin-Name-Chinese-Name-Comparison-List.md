@@ -12,7 +12,7 @@ genus_zh: "鼻白蚁属"
 genus_latin: "Rhinotermes"
 genus_id: "rhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曼鼻白蚁**（*Rhinotermes manni*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]。分布记录包括玻利维亚。
+**曼鼻白蚁**（*Rhinotermes manni*）是鼻白蚁科（Rhinotermitidae）鼻白蚁属（*Rhinotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]。分布记录包括玻利维亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[鼻白蚁属 *Rhinotermes*]({{ site.base_url }}/genus/rhinotermes/) —— 共 4 种
 - **本属模式种**：*Rhinotermes nasutus*
 

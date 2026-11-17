@@ -12,7 +12,7 @@ genus_zh: "齿白蚁属"
 genus_latin: "Serritermes"
 genus_id: "serritermes"
 family_zh: "齿白蚁科"
-family_latin: "SERRITERMITIDAE"
+family_latin: "Serritermitidae"
 family_id: "serritermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**锯齿白蚁**（*Serritermes serrifer*）是齿白蚁科（SERRITERMITIDAE）齿白蚁属（*Serritermes*）的现存唯一种。本种由 Hagen & Bates 于 1858 年描述，模式产地为 Brasil: Pará: Santarém \[ 2.43917S 54.705W \]。分布记录包括巴西。
+**锯齿白蚁**（*Serritermes serrifer*）是齿白蚁科（Serritermitidae）齿白蚁属（*Serritermes*）的现存唯一种。本种由 Hagen & Bates 于 1858 年描述，模式产地为 Brasil: Pará: Santarém \[ 2.43917S 54.705W \]。分布记录包括巴西。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种
+- **科**：[齿白蚁科 Serritermitidae]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种
 - **属**：[齿白蚁属 *Serritermes*]({{ site.base_url }}/genus/serritermes/) —— 单型属，仅含 1 种
 
 ## 分布

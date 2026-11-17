@@ -12,7 +12,7 @@ genus_zh: "齿尖白蚁属"
 genus_latin: "Dentispicotermes"
 genus_id: "dentispicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短脊齿尖白蚁**（*Dentispicotermes brevicarinatus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）齿尖白蚁属（*Dentispicotermes*）的一种。本种由 Emerson 于 1950 年描述，模式产地为 Guyana: East Berbice-Corentyne: Oronoque River \[ 2.7N 57.42W \]。分布记录包括圭亚那地盾、法属圭亚那/圭亚那/苏里南、巴西。
+**短脊齿尖白蚁**（*Dentispicotermes brevicarinatus*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）齿尖白蚁属（*Dentispicotermes*）的一种。本种由 Emerson 于 1950 年描述，模式产地为 Guyana: East Berbice-Corentyne: Oronoque River \[ 2.7N 57.42W \]。分布记录包括圭亚那地盾、法属圭亚那/圭亚那/苏里南、巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[齿尖白蚁属 *Dentispicotermes*]({{ site.base_url }}/genus/dentispicotermes/) —— 共 6 种
 - **本属模式种**：*Dentispicotermes globicephalus*

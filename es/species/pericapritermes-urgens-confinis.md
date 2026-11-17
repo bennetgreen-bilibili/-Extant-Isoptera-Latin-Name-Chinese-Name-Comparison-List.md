@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pericapritermes urgens confinis*** es una subespecie de *Pericapritermes urgens*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), género *Pericapritermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pericapritermes urgens* más abajo.
+***Pericapritermes urgens confinis*** es una subespecie de *Pericapritermes urgens*, en la familia Termitidae (subfamilia Mirocapritermitinae), género *Pericapritermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pericapritermes urgens* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *confinis*: Del latín confinis (colindante, vecino)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pericapritermes*]({{ site.base_url }}/es/genus/pericapritermes/) — 40 especies
 - **Especie**: [*Pericapritermes urgens*]({{ site.base_url }}/es/species/pericapritermes-urgens/)

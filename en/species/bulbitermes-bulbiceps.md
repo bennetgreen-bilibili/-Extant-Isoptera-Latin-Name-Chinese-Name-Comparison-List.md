@@ -14,7 +14,7 @@ genus_zh: "瓢白蚁属"
 genus_latin: "Bulbitermes"
 genus_id: "bulbitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Bulbitermes bulbiceps*** is a species of the genus *Bulbitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Maiti & Saha in 2000; the type locality is India: Assam: Jorhat District, ca. 20 km SW of Jorhat towards Colaghat. Distribution: South Asia, India, Assam.
+***Bulbitermes bulbiceps*** is a species of the genus *Bulbitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Maiti & Saha in 2000; the type locality is India: Assam: Jorhat District, ca. 20 km SW of Jorhat towards Colaghat. Distribution: South Asia, India, Assam.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *bulbiceps*: Latin bulbus (bulb) + -ceps (head), bulb-headed
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Bulbitermes*]({{ site.base_url }}/en/genus/bulbitermes/) — 34 species
 - **Type species of the genus**: *Bulbitermes constrictus*

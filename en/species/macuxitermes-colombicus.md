@@ -14,7 +14,7 @@ genus_zh: "马库希白蚁属"
 genus_latin: "Macuxitermes"
 genus_id: "macuxitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Macuxitermes colombicus*** is a species of the genus *Macuxitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Postle & Scheffrahn in 2016; the type locality is Colombia: Magdalena: Ciénaga de Ortiz \[10.1518N 75.0436W\]. Distribution: Neotropics, Colombia.
+***Macuxitermes colombicus*** is a species of the genus *Macuxitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Postle & Scheffrahn in 2016; the type locality is Colombia: Magdalena: Ciénaga de Ortiz \[10.1518N 75.0436W\]. Distribution: Neotropics, Colombia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *colombicus*: Named after the locality Colomb
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Macuxitermes*]({{ site.base_url }}/en/genus/macuxitermes/) — 2 species
 - **Type species of the genus**: *Macuxitermes triceratops*

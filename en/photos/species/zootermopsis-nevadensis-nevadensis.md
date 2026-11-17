@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Zootermopsis_nevaden
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "ARCHOTERMOPSIDAE"
+  - name: "Archotermopsidae"
     url: "/en/family/archotermopsidae/"
   - name: "Zootermopsis"
     url: "/en/genus/zootermopsis/"

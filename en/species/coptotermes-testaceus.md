@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Coptotermes testaceus*** is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Linnaeus in 1758; the type locality is Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribution: Neotropics, Central America to northern South America. This site records 5 junior synonyms for the species.
+***Coptotermes testaceus*** is a species of the genus *Coptotermes*, in the family Heterotermitidae. The species was described by Linnaeus in 1758; the type locality is Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribution: Neotropics, Central America to northern South America. This site records 5 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *testaceus*: Latin testaceus (brick-coloured)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Coptotermes*]({{ site.base_url }}/en/genus/coptotermes/) — 58 species
 - **Type species of the genus**: *Coptotermes gestroi*
 

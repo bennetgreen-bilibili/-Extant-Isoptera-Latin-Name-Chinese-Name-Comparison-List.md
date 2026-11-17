@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Reticulitermes_virgi
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "HETEROTERMITIDAE"
+  - name: "Heterotermitidae"
     url: "/es/family/heterotermitidae/"
   - name: "Reticulitermes"
     url: "/es/genus/reticulitermes/"

@@ -14,7 +14,7 @@ genus_zh: "锥形白蚁属"
 genus_latin: "Rhadinotermes"
 genus_id: "rhadinotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rhadinotermes coarctatus*** is the only extant species of the genus *Rhadinotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1902; the type locality is Malawi: Zomba. Distribution: Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia.
+***Rhadinotermes coarctatus*** is the only extant species of the genus *Rhadinotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1902; the type locality is Malawi: Zomba. Distribution: Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *coarctatus*: From coarct + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Rhadinotermes*]({{ site.base_url }}/en/genus/rhadinotermes/) — monotypic, 1 species
 

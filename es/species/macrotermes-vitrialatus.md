@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; South 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrotermes vitrialatus*** es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Democratic Republic of the Congo: "an Bord" (at the border). Distribución según la fuente: Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. Este sitio registra 5 sinónimos junior para la especie.
+***Macrotermes vitrialatus*** es una especie del género *Macrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Democratic Republic of the Congo: "an Bord" (at the border). Distribución según la fuente: Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. Este sitio registra 5 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *vitrialatus*: Del latín vitrum (vidrio) + latus (lado/ala
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Macrotermes*]({{ site.base_url }}/es/genus/macrotermes/) — 57 especies
 - **Especie tipo del género**: *Macrotermes lilljeborgi*

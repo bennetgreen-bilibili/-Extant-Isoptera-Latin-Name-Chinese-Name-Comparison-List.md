@@ -14,7 +14,7 @@ genus_zh: "瓢白蚁属"
 genus_latin: "Bulbitermes"
 genus_id: "bulbitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Indonesia: Sumatra: Bandar Baroe"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bulbitermes constrictiformis*** es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Bahsoemboe; Malaysia: Taiping: Gunong Hijau; Taiping: Maxwell’s Hill. Distribución según la fuente: Southeast Asia, Indonesia, Sumatra, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
+***Bulbitermes constrictiformis*** es una especie del género *Bulbitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Bahsoemboe; Malaysia: Taiping: Gunong Hijau; Taiping: Maxwell’s Hill. Distribución según la fuente: Southeast Asia, Indonesia, Sumatra, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *constrictiformis*: De constricti (constreñido) + formis (
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Bulbitermes*]({{ site.base_url }}/es/genus/bulbitermes/) — 34 especies
 - **Especie tipo del género**: *Bulbitermes constrictus*

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "草白蚁属 Hodotermes 物种名录"
-description: "草白蚁属（Hodotermes）是草白蚁科（HODOTERMITIDAE）下的一个属，本站收录 2 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。属的分类位置见名录索引与上级科、亚科页面。"
+description: "草白蚁属（Hodotermes）是草白蚁科（Hodotermitidae）下的一个属，本站收录 2 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。属的分类位置见名录索引与上级科、亚科页面。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -26,7 +26,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/hodotermitidae/">草白蚁科</a> › <a href="{{ site.base_url }}/genus/hodotermes/">草白蚁属 <i>Hodotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>草白蚁属 <i>Hodotermes</i></h1>
-<p class="taxon-meta">草白蚁科 HODOTERMITIDAE · 2 种</p>
+<p class="taxon-meta">草白蚁科 Hodotermitidae · 2 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="hodotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本属范围内全文检索（2 个种与亚种）：名字、分布、模式产地与研究记述</label>

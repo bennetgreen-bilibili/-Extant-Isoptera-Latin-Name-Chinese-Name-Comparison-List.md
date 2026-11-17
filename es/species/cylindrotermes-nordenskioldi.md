@@ -14,7 +14,7 @@ genus_zh: "圆筒白蚁属"
 genus_latin: "Cylindrotermes"
 genus_id: "cylindrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "圆筒白蚁亚科"
 subfamily_latin: "Cylindrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cylindrotermes nordenskioldi*** es una especie y la especie tipo del género *Cylindrotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Río Tuichi \[ 14.28S 68.54W \]. Distribución según la fuente: Neotropics.
+***Cylindrotermes nordenskioldi*** es una especie y la especie tipo del género *Cylindrotermes*, en la familia Termitidae (subfamilia Cylindrotermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Río Tuichi \[ 14.28S 68.54W \]. Distribución según la fuente: Neotropics.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *nordenskioldi*: En honor de Nordenskiöld (explorador suec
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cylindrotermitinae]({{ site.base_url }}/es/subfamily/cylindrotermitinae/) — 2 géneros, 9 especies
 - **Género**: [*Cylindrotermes*]({{ site.base_url }}/es/genus/cylindrotermes/) — 8 especies
 

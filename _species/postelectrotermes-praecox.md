@@ -12,7 +12,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Madeira Island (Portugal): Serra d’Agua"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**早熟后琥珀白蚁**（*Postelectrotermes praecox*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Madeira Island (Portugal): ?。分布记录包括马德拉群岛（葡）。本种有 1 个次异名。
+**早熟后琥珀白蚁**（*Postelectrotermes praecox*）是木白蚁科（Kalotermitidae）后琥珀白蚁属（*Postelectrotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Madeira Island (Portugal): ?。分布记录包括马德拉群岛（葡）。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Madeira Island (Portugal): Serra d’Agua"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/genus/postelectrotermes/) —— 共 15 种
 
 ## 分布

@@ -14,7 +14,7 @@ genus_zh: "原方白蚁属"
 genus_latin: "Procubitermes"
 genus_id: "procubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Procubitermes sjostedti*** is a species of the genus *Procubitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Rosen in 1912; the type locality is Liberia: ?. Distribution: West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Guinea, Liberia.
+***Procubitermes sjostedti*** is a species of the genus *Procubitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Rosen in 1912; the type locality is Liberia: ?. Distribution: West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Guinea, Liberia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Procubitermes*]({{ site.base_url }}/en/genus/procubitermes/) — 9 species
 - **Type species of the genus**: *Procubitermes arboricola*

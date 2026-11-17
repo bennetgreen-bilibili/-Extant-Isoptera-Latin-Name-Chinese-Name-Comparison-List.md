@@ -12,7 +12,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莫纳新白蚁**（*Neotermes mona*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1919 年描述，模式产地为 Puerto Rico: Mona Island。分布记录包括加勒比、波多黎各、巴哈马、特克斯和凯科斯群岛、多米尼加、海地、英属维尔京群岛、美属维尔京群岛、墨西哥。
+**莫纳新白蚁**（*Neotermes mona*）是木白蚁科（Kalotermitidae）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1919 年描述，模式产地为 Puerto Rico: Mona Island。分布记录包括加勒比、波多黎各、巴哈马、特克斯和凯科斯群岛、多米尼加、海地、英属维尔京群岛、美属维尔京群岛、墨西哥。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
 - **本属模式种**：*Neotermes castaneus*
 

@@ -14,7 +14,7 @@ genus_zh: "澳白蚁属"
 genus_latin: "Mastotermes"
 genus_id: "mastotermes"
 family_zh: "澳白蚁科"
-family_latin: "MASTOTERMITIDAE"
+family_latin: "Mastotermitidae"
 family_id: "mastotermitidae"
 clade_zh: "现存等翅下目"
 clade_latin: "Extant Isoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Queensland: north Queensland"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mastotermes darwiniensis*** es la única especie viviente del género *Mastotermes*, en la familia MASTOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Northern Territory: Darwin. Distribución según la fuente: northern Australia, tropical northern region, introduced: Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
+***Mastotermes darwiniensis*** es la única especie viviente del género *Mastotermes*, en la familia Mastotermitidae. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Northern Territory: Darwin. Distribución según la fuente: northern Australia, tropical northern region, introduced: Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *darwiniensis*: Por la localidad de Darwin
 
 ## Posición taxonómica
 
-- **Familia**: [MASTOTERMITIDAE]({{ site.base_url }}/es/family/mastotermitidae/) — 1 género, 1 especie
+- **Familia**: [Mastotermitidae]({{ site.base_url }}/es/family/mastotermitidae/) — 1 género, 1 especie
 - **Género**: [*Mastotermes*]({{ site.base_url }}/es/genus/mastotermes/) — monotípico, 1 especie
 
 ## Distribución

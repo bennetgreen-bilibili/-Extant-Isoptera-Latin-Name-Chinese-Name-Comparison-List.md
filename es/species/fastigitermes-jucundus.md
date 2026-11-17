@@ -14,7 +14,7 @@ genus_zh: "峰白蚁属"
 genus_latin: "Fastigitermes"
 genus_id: "fastigitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Fastigitermes jucundus*** es la única especie viviente del género *Fastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución según la fuente: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
+***Fastigitermes jucundus*** es la única especie viviente del género *Fastigitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución según la fuente: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *jucundus*: Del latín jucundus (agradable)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Fastigitermes*]({{ site.base_url }}/es/genus/fastigitermes/) — monotípico, 1 especie
 

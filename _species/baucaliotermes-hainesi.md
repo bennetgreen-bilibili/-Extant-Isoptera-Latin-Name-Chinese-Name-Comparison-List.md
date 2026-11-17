@@ -12,7 +12,7 @@ genus_zh: "细颈白蚁属"
 genus_latin: "Baucaliotermes"
 genus_id: "baucaliotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海恩斯细颈白蚁**（*Baucaliotermes hainesi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）细颈白蚁属（*Baucaliotermes*）的现存唯一种。本种由 Fuller 于 1922 年描述，模式产地为 South Africa: Cape Province: Wolftoon, Namaqualand。分布记录包括南非、纳米比亚。
+**海恩斯细颈白蚁**（*Baucaliotermes hainesi*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）细颈白蚁属（*Baucaliotermes*）的现存唯一种。本种由 Fuller 于 1922 年描述，模式产地为 South Africa: Cape Province: Wolftoon, Namaqualand。分布记录包括南非、纳米比亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[细颈白蚁属 *Baucaliotermes*]({{ site.base_url }}/genus/baucaliotermes/) —— 单型属，仅含 1 种
 

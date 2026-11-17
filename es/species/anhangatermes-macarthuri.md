@@ -14,7 +14,7 @@ genus_zh: "魔白蚁属"
 genus_latin: "Anhangatermes"
 genus_id: "anhangatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anhangatermes macarthuri*** es una especie y la especie tipo del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amapá: Serra do Navio \[0.8955N 52.0022W\]. Distribución según la fuente: Brazil, French Guiana.
+***Anhangatermes macarthuri*** es una especie y la especie tipo del género *Anhangatermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amapá: Serra do Navio \[0.8955N 52.0022W\]. Distribución según la fuente: Brazil, French Guiana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *macarthuri*: En honor de MacArthur
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Anhangatermes*]({{ site.base_url }}/es/genus/anhangatermes/) — 5 especies
 

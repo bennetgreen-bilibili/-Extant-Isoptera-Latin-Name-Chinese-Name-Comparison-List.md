@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coptotermes amanii*** es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Tanzania: Usambara: Amani. Distribución según la fuente: Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe.
+***Coptotermes amanii*** es una especie del género *Coptotermes*, en la familia Heterotermitidae. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Tanzania: Usambara: Amani. Distribución según la fuente: Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *amanii*: Por la localidad de Amani
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
 - **Especie tipo del género**: *Coptotermes gestroi*
 

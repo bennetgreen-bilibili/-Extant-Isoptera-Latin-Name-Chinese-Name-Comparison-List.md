@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"genus","genus":"Rhinotermes","genus_zh":"鼻白蚁属","genus_id":"rhinotermes","family":"RHINOTERMITIDAE","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":4802761,"records":135,"cells":40,"species":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Rhinotermes","genus_zh":"鼻白蚁属","genus_id":"rhinotermes","family":"Rhinotermitidae","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":4802761,"records":135,"cells":40,"species":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[31.5,-29.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-40.5,-19.5]},"properties":{"n":1}},

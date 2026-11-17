@@ -12,7 +12,7 @@ genus_zh: "头长白蚁属"
 genus_latin: "Longicaputermes"
 genus_id: "longicaputermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西奈头长白蚁**（*Longicaputermes sinaicus*）是木白蚁科（KALOTERMITIDAE）头长白蚁属（*Longicaputermes*）的现存唯一种。本种由 Kemner 于 1932 年描述，模式产地为 Egypt: Sinai Peninsula: Gabr. Amir。分布记录包括埃及西奈半岛、以色列。
+**西奈头长白蚁**（*Longicaputermes sinaicus*）是木白蚁科（Kalotermitidae）头长白蚁属（*Longicaputermes*）的现存唯一种。本种由 Kemner 于 1932 年描述，模式产地为 Egypt: Sinai Peninsula: Gabr. Amir。分布记录包括埃及西奈半岛、以色列。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[头长白蚁属 *Longicaputermes*]({{ site.base_url }}/genus/longicaputermes/) —— 单型属，仅含 1 种
 
 ## 分布

@@ -14,7 +14,7 @@ genus_zh: "白蚁属"
 genus_latin: "Termes"
 genus_id: "termes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Ghana: Aburi; Aburi; Guinea: Camayenne; Camayenne; Democrat
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Termes hospes*** is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Sjöstedt in 1900; the type locality is Cameroon: Bonge. Distribution: Old World tropics, Democratic Republic of the Congo, Senegal, Cameroon, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Uganda. This site records 2 junior synonyms for the species.
+***Termes hospes*** is a species of the genus *Termes*, in the family Termitidae (subfamily Termitinae). The species was described by Sjöstedt in 1900; the type locality is Cameroon: Bonge. Distribution: Old World tropics, Democratic Republic of the Congo, Senegal, Cameroon, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Uganda. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *hospes*: Latin hospes (host, guest)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Termes*]({{ site.base_url }}/en/genus/termes/) — 27 species
 - **Type species of the genus**: *Termes fatalis*

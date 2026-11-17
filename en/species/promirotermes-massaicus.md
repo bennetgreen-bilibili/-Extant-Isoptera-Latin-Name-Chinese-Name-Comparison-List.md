@@ -14,7 +14,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Promirotermes massaicus*** is a species of the genus *Promirotermes*, in the family TERMITIDAE (subfamily Promirotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Kenya, Tanzania, Uganda, Zambia.
+***Promirotermes massaicus*** is a species of the genus *Promirotermes*, in the family Termitidae (subfamily Promirotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Kenya, Tanzania, Uganda, Zambia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *massaicus*: Named after the locality Massa
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Promirotermitinae]({{ site.base_url }}/en/subfamily/promirotermitinae/) — 2 genera, 39 species
 - **Genus**: [*Promirotermes*]({{ site.base_url }}/en/genus/promirotermes/) — 10 species
 - **Type species of the genus**: *Promirotermes holmgreni*

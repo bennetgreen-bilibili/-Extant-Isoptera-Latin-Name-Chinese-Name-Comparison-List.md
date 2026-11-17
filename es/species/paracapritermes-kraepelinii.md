@@ -14,7 +14,7 @@ genus_zh: "旁扭白蚁属"
 genus_latin: "Paracapritermes"
 genus_id: "paracapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Australia: Western Australia: 3.2 km S Yornup"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Paracapritermes kraepelinii*** es una especie del género *Paracapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Silvestri en 1909; la localidad tipo es Australia: Western Australia: Mundaring. Distribución según la fuente: Australia. Este sitio registra 1 sinónimo junior para la especie.
+***Paracapritermes kraepelinii*** es una especie del género *Paracapritermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Silvestri en 1909; la localidad tipo es Australia: Western Australia: Mundaring. Distribución según la fuente: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *kraepelinii*: En honor de K. Kraepelin (zoólogo alemán)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Paracapritermes*]({{ site.base_url }}/es/genus/paracapritermes/) — 4 especies
 - **Especie tipo del género**: *Paracapritermes primus*

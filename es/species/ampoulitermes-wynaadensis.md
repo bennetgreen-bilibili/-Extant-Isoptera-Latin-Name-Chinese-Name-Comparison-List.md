@@ -14,7 +14,7 @@ genus_zh: "安瓿白蚁属"
 genus_latin: "Ampoulitermes"
 genus_id: "ampoulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ampoulitermes wynaadensis*** es una especie y la especie tipo del género *Ampoulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathur & Thapa en 1962; la localidad tipo es India: Kerala: Wynaad, Periyar Forest Range. Distribución según la fuente: India.
+***Ampoulitermes wynaadensis*** es una especie y la especie tipo del género *Ampoulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Mathur & Thapa en 1962; la localidad tipo es India: Kerala: Wynaad, Periyar Forest Range. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *wynaadensis*: Por la localidad de Wynaad
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ampoulitermes*]({{ site.base_url }}/es/genus/ampoulitermes/) — 2 especies
 

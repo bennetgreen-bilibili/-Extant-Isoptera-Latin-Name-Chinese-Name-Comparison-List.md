@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Soldier_of_Anguliter
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Promirotermitinae"
     url: "/es/subfamily/promirotermitinae/"

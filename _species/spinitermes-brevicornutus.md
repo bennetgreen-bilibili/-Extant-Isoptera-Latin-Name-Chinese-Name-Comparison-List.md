@@ -12,7 +12,7 @@ genus_zh: "针刺白蚁属"
 genus_latin: "Spinitermes"
 genus_id: "spinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短角针刺白蚁**（*Spinitermes brevicornutus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括法属圭亚那、哥伦比亚、阿根廷、玻利维亚、巴西、巴拉圭。
+**短角针刺白蚁**（*Spinitermes brevicornutus*）是白蚁科（Termitidae）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括法属圭亚那、哥伦比亚、阿根廷、玻利维亚、巴西、巴拉圭。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[针刺白蚁属 *Spinitermes*]({{ site.base_url }}/genus/spinitermes/) —— 共 5 种
 - **本属模式种**：*Spinitermes trispinosus*

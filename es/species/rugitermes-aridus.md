@@ -14,7 +14,7 @@ genus_zh: "皱白蚁属"
 genus_latin: "Rugitermes"
 genus_id: "rugitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rugitermes aridus*** es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Peru: Huánuco: Huánuco city \[ 9.877S 76.1641W \]. Distribución según la fuente: Peru.
+***Rugitermes aridus*** es una especie del género *Rugitermes*, en la familia Kalotermitidae. La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Peru: Huánuco: Huánuco city \[ 9.877S 76.1641W \]. Distribución según la fuente: Peru.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *aridus*: Del latín aridus (árido, seco)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Rugitermes*]({{ site.base_url }}/es/genus/rugitermes/) — 18 especies
 - **Especie tipo del género**: *Rugitermes nodulosus*
 

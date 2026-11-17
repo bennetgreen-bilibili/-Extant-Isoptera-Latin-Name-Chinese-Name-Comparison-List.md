@@ -20,7 +20,7 @@ back_label: "近扭白蚁属 Pericapritermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Mirocapritermitinae"
     url: "/es/subfamily/mirocapritermitinae/"

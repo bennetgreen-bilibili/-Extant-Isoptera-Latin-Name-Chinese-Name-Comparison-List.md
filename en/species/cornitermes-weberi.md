@@ -14,7 +14,7 @@ genus_zh: "角象白蚁属"
 genus_latin: "Cornitermes"
 genus_id: "cornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cornitermes weberi*** is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1952; the type locality is Guyana: East Berbice-Corentyne: Oronoque River \[2.7N 57.42W\]. Distribution: Brazil, French Guiana, Guyana, Suriname.
+***Cornitermes weberi*** is a species of the genus *Cornitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Emerson in 1952; the type locality is Guyana: East Berbice-Corentyne: Oronoque River \[2.7N 57.42W\]. Distribution: Brazil, French Guiana, Guyana, Suriname.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *weberi*: Named after a person; probably honors the American my
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Cornitermes*]({{ site.base_url }}/en/genus/cornitermes/) — 14 species
 - **Type species of the genus**: *Cornitermes cumulans*

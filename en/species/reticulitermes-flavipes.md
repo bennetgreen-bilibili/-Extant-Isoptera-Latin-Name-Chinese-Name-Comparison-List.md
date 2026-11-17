@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "United States: Pennsylvania; United States: Texas: Beaumont
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Reticulitermes flavipes*** is a species and the type species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Kollar in 1837; the type locality is Austria: Schönbrunn. Distribution: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. This site records 3 junior synonyms for the species.
+***Reticulitermes flavipes*** is a species and the type species of the genus *Reticulitermes*, in the family Heterotermitidae. The species was described by Kollar in 1837; the type locality is Austria: Schönbrunn. Distribution: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *flavipes*: From flavi + pes
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Reticulitermes*]({{ site.base_url }}/en/genus/reticulitermes/) — 140 species
 
 ## Distribution

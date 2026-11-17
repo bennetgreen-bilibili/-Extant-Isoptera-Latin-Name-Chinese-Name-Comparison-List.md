@@ -14,7 +14,7 @@ genus_zh: "蔡斯白蚁属"
 genus_latin: "Chasitermes"
 genus_id: "chasitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Chasitermes pax*** es una especie y la especie tipo del género *Chasitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn & Carrijo en 2023; la localidad tipo es Trinidad and Tobago: Tunapuna \[ 10.667N 61.396W \]. Distribución según la fuente: Trinidad and Tobago.
+***Chasitermes pax*** es una especie y la especie tipo del género *Chasitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn & Carrijo en 2023; la localidad tipo es Trinidad and Tobago: Tunapuna \[ 10.667N 61.396W \]. Distribución según la fuente: Trinidad and Tobago.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *pax*: Del latín pax (paz)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Chasitermes*]({{ site.base_url }}/es/genus/chasitermes/) — 2 especies
 

@@ -14,7 +14,7 @@ genus_zh: "真唇白蚁属"
 genus_latin: "Euchilotermes"
 genus_id: "euchilotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Euchilotermes quadriceps*** is a species of the genus *Euchilotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Emerson in 1928; the type locality is Democratic Republic of the Congo: Yakuluku. Distribution: Old World tropics.
+***Euchilotermes quadriceps*** is a species of the genus *Euchilotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Emerson in 1928; the type locality is Democratic Republic of the Congo: Yakuluku. Distribution: Old World tropics.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *quadriceps*: From quadri + ceps
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Euchilotermes*]({{ site.base_url }}/en/genus/euchilotermes/) — 4 species
 - **Type species of the genus**: *Euchilotermes tensus*

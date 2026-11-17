@@ -14,7 +14,7 @@ genus_zh: "小草白蚁属"
 genus_latin: "Microhodotermes"
 genus_id: "microhodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Microhodotermes maroccanus*** is a species of the genus *Microhodotermes*, in the family HODOTERMITIDAE. The species was described by Sjöstedt in 1926; the type locality is Morocco: Dar Kaïd; Dar Kaïd Enbarck Imi; M’tougui; N’takandout. Distribution: Morocco, Algeria.
+***Microhodotermes maroccanus*** is a species of the genus *Microhodotermes*, in the family Hodotermitidae. The species was described by Sjöstedt in 1926; the type locality is Morocco: Dar Kaïd; Dar Kaïd Enbarck Imi; M’tougui; N’takandout. Distribution: Morocco, Algeria.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *maroccanus*: Named after the locality Marocc
 
 ## Taxonomic position
 
-- **Family**: [HODOTERMITIDAE]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
+- **Family**: [Hodotermitidae]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
 - **Genus**: [*Microhodotermes*]({{ site.base_url }}/en/genus/microhodotermes/) — 3 species
 - **Type species of the genus**: *Microhodotermes viator*
 

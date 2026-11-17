@@ -12,7 +12,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Australia: Western Australia, near Condon; Australia: Victo
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**不诚双裂白蚁**（*Bifiditermes improbus*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Australia: Tasmania。分布记录包括澳大利亚、新西兰。本种有 3 个次异名。
+**不诚双裂白蚁**（*Bifiditermes improbus*）是木白蚁科（Kalotermitidae）双裂白蚁属（*Bifiditermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Australia: Tasmania。分布记录包括澳大利亚、新西兰。本种有 3 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Australia: Western Australia, near Condon; Australia: Victo
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种
 - **本属模式种**：*Bifiditermes madagascariensis*
 

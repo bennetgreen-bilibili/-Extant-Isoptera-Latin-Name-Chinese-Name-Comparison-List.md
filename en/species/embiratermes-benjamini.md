@@ -14,7 +14,7 @@ genus_zh: "生白蚁属"
 genus_latin: "Embiratermes"
 genus_id: "embiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Embiratermes benjamini*** is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Bolivia, Venezuela.
+***Embiratermes benjamini*** is a species of the genus *Embiratermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Bolivia, Venezuela.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *benjamini*: Named after Benjamin
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Embiratermes*]({{ site.base_url }}/en/genus/embiratermes/) — 9 species
 - **Type species of the genus**: *Embiratermes festivellus*

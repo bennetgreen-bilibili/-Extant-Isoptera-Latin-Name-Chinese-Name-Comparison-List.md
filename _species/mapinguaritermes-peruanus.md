@@ -12,7 +12,7 @@ genus_zh: "红懒白蚁属"
 genus_latin: "Mapinguaritermes"
 genus_id: "mapinguaritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**秘鲁红懒白蚁**（*Mapinguaritermes peruanus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）红懒白蚁属（*Mapinguaritermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括秘鲁、新热带界、厄瓜多尔。
+**秘鲁红懒白蚁**（*Mapinguaritermes peruanus*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）红懒白蚁属（*Mapinguaritermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]。分布记录包括秘鲁、新热带界、厄瓜多尔。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[红懒白蚁属 *Mapinguaritermes*]({{ site.base_url }}/genus/mapinguaritermes/) —— 共 3 种
 

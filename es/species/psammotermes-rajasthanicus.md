@@ -14,7 +14,7 @@ genus_zh: "沙白蚁属"
 genus_latin: "Psammotermes"
 genus_id: "psammotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Psammotermes rajasthanicus*** es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Roonwal & Bose en 1960; la localidad tipo es India: Rajasthan: Jaisalmer District, about 20 miles east of Mohangarh, Balana. Distribución según la fuente: northwestern India, Pakistan, Iran.
+***Psammotermes rajasthanicus*** es una especie del género *Psammotermes*, en la familia Psammotermitidae. La especie fue descrita por Roonwal & Bose en 1960; la localidad tipo es India: Rajasthan: Jaisalmer District, about 20 miles east of Mohangarh, Balana. Distribución según la fuente: northwestern India, Pakistan, Iran.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *rajasthanicus*: Por Rajastán, India
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Psammotermes*]({{ site.base_url }}/es/genus/psammotermes/) — 6 especies
 - **Especie tipo del género**: *Psammotermes hybostoma*
 

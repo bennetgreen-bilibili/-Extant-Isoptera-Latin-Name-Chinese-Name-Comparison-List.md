@@ -12,7 +12,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Senegal: Thiès; Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**中间乳白蚁**（*Coptotermes intermedius*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama: Rio Cassine。分布记录包括西非、科特迪瓦、塞内加尔、塞拉利昂、布基纳法索、加纳、几内亚比绍、尼日利亚、阿曼。本种有 2 个次异名。
+**中间乳白蚁**（*Coptotermes intermedius*）是异白蚁科（Heterotermitidae）乳白蚁属（*Coptotermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama: Rio Cassine。分布记录包括西非、科特迪瓦、塞内加尔、塞拉利昂、布基纳法索、加纳、几内亚比绍、尼日利亚、阿曼。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Senegal: Thiès; Ghana: Accra"
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种
 - **本属模式种**：*Coptotermes gestroi*
 

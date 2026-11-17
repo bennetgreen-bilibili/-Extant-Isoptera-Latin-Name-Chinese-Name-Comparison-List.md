@@ -14,7 +14,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Natal: Lake Sibayi; Natal: Pietermaritzburg, 
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Trinervitermes trinervoides*** es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es South Africa: Cape Province: Laingsburg. Distribución según la fuente: South Africa, Namibia, Democratic Republic of the Congo (Kinshasa), Democratic Republic of the Congo (Kinshasa), Lesotho, Mozambique, Eswatini, Zimbabwe. Este sitio registra 10 sinónimos junior para la especie.
+***Trinervitermes trinervoides*** es una especie del género *Trinervitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es South Africa: Cape Province: Laingsburg. Distribución según la fuente: South Africa, Namibia, Democratic Republic of the Congo (Kinshasa), Democratic Republic of the Congo (Kinshasa), Lesotho, Mozambique, Eswatini, Zimbabwe. Este sitio registra 10 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *trinervoides*: Del latín tri- (tres) + nervus (nervio) + 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Trinervitermes*]({{ site.base_url }}/es/genus/trinervitermes/) — 21 especies
 - **Especie tipo del género**: *Trinervitermes trinervius*

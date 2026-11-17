@@ -14,7 +14,7 @@ genus_zh: "加勒比白蚁属"
 genus_latin: "Caribitermes"
 genus_id: "caribitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Caribitermes discolor*** es la única especie viviente del género *Caribitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Puerto Rico: Adjuntas; Culebra Island; El Yunque; Manati. Distribución según la fuente: Dominican Republic, Puerto Rico, Cuba, Haiti, Jamaica.
+***Caribitermes discolor*** es la única especie viviente del género *Caribitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Puerto Rico: Adjuntas; Culebra Island; El Yunque; Manati. Distribución según la fuente: Dominican Republic, Puerto Rico, Cuba, Haiti, Jamaica.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *discolor*: Del latín discolor (de color diferente)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Caribitermes*]({{ site.base_url }}/es/genus/caribitermes/) — monotípico, 1 especie
 

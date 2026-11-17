@@ -14,7 +14,7 @@ genus_zh: "伪刺白蚁属"
 genus_latin: "Pseudacanthotermes"
 genus_id: "pseudacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pseudacanthotermes militaris laticeps*** es una subespecie de *Pseudacanthotermes militaris*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Pseudacanthotermes*. La subespecie fue descrita por Sjöstedt en 1905; la localidad tipo es Sierra Leone: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pseudacanthotermes militaris* más abajo.
+***Pseudacanthotermes militaris laticeps*** es una subespecie de *Pseudacanthotermes militaris*, en la familia Termitidae (subfamilia Macrotermitinae), género *Pseudacanthotermes*. La subespecie fue descrita por Sjöstedt en 1905; la localidad tipo es Sierra Leone: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pseudacanthotermes militaris* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *laticeps*: Del latín latus (ancho) + -ceps (cabeza), de c
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Pseudacanthotermes*]({{ site.base_url }}/es/genus/pseudacanthotermes/) — 6 especies
 - **Especie**: [*Pseudacanthotermes militaris*]({{ site.base_url }}/es/species/pseudacanthotermes-militaris/)

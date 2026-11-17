@@ -12,7 +12,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**茹泰尔新白蚁**（*Neotermes jouteli*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1919 年描述，模式产地为 Bahamas: Andros, Big Wood Key; Cuba: 14 km north of Vinales; Cayamas, Woodfred Inn, Pinares; Mexico: Veracruz: Tampico; United States: Florida: Adam Key。分布记录包括北美、美国、墨西哥、加勒比、巴哈马、古巴、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、澳大利亚。
+**茹泰尔新白蚁**（*Neotermes jouteli*）是木白蚁科（Kalotermitidae）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1919 年描述，模式产地为 Bahamas: Andros, Big Wood Key; Cuba: 14 km north of Vinales; Cayamas, Woodfred Inn, Pinares; Mexico: Veracruz: Tampico; United States: Florida: Adam Key。分布记录包括北美、美国、墨西哥、加勒比、巴哈马、古巴、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、澳大利亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
 - **本属模式种**：*Neotermes castaneus*
 

@@ -14,7 +14,7 @@ genus_zh: "歧白蚁属"
 genus_latin: "Diversitermes"
 genus_id: "diversitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso do Sul: Corumbá, Santo Domingos [19.23
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Diversitermes diversimiles*** is a species and the type species of the genus *Diversitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1901; the type locality is Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribution: Brazil, Argentina, French Guiana, Bolivia, Paraguay. This site records 1 junior synonym for the species.
+***Diversitermes diversimiles*** is a species and the type species of the genus *Diversitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Silvestri in 1901; the type locality is Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribution: Brazil, Argentina, French Guiana, Bolivia, Paraguay. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *diversimiles*: Latin diversus (diverse) + similis (similar), d
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Diversitermes*]({{ site.base_url }}/en/genus/diversitermes/) — 4 species
 

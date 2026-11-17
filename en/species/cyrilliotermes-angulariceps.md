@@ -14,7 +14,7 @@ genus_zh: "壶头白蚁属"
 genus_latin: "Cyrilliotermes"
 genus_id: "cyrilliotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Suriname: Para: Jodensavanne [5.418N 54.969W]; Suriname: Pa
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cyrilliotermes angulariceps*** is a species and the type species of the genus *Cyrilliotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador. This site records 2 junior synonyms for the species.
+***Cyrilliotermes angulariceps*** is a species and the type species of the genus *Cyrilliotermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *angulariceps*: From angulari + ceps
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Cyrilliotermes*]({{ site.base_url }}/en/genus/cyrilliotermes/) — 4 species
 

@@ -14,7 +14,7 @@ genus_zh: "发白蚁属"
 genus_latin: "Trichotermes"
 genus_id: "trichotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Trichotermes machadoi*** is a species of the genus *Trichotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Weidner in 1974; the type locality is Angola: Dundo: Caieno, "affl. du Canzololo, rive dr. du Luachimo.". Distribution: Old World tropics.
+***Trichotermes machadoi*** is a species of the genus *Trichotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Weidner in 1974; the type locality is Angola: Dundo: Caieno, "affl. du Canzololo, rive dr. du Luachimo.". Distribution: Old World tropics.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *machadoi*: Named after Machado (Portuguese entomologist A. de 
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Trichotermes*]({{ site.base_url }}/en/genus/trichotermes/) — 3 species
 - **Type species of the genus**: *Trichotermes villifrons*

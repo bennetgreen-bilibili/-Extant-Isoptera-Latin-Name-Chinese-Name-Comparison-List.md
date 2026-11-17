@@ -12,7 +12,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Equatorial Guinea: Bioko"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**臭鼬长鼻白蚁**（*Schedorhinotermes putorius*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Kitta。分布记录包括西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达。本种有 1 个次异名。
+**臭鼬长鼻白蚁**（*Schedorhinotermes putorius*）是鼻白蚁科（Rhinotermitidae）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Kitta。分布记录包括西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Equatorial Guinea: Bioko"
 
 ## 分类位置
 
-- **科**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
+- **科**：[鼻白蚁科 Rhinotermitidae]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种
 - **属**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种
 - **本属模式种**：*Schedorhinotermes intermedius*
 

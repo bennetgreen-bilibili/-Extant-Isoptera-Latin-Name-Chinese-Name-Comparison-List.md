@@ -14,7 +14,7 @@ genus_zh: "圆白蚁属"
 genus_latin: "Rotunditermes"
 genus_id: "rotunditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rotunditermes bragantinus*** es una especie del género *Rotunditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roonwal & Rathore en 1976; la localidad tipo es Brasil: Pará: Região Bragantina \[1.25S 47.75W\]. Distribución según la fuente: Brazil, Colombia, French Guiana, Suriname, Ecuador, Peru.
+***Rotunditermes bragantinus*** es una especie del género *Rotunditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Roonwal & Rathore en 1976; la localidad tipo es Brasil: Pará: Região Bragantina \[1.25S 47.75W\]. Distribución según la fuente: Brazil, Colombia, French Guiana, Suriname, Ecuador, Peru.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *bragantinus*: Por Bragança (Brasil)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Rotunditermes*]({{ site.base_url }}/es/genus/rotunditermes/) — 2 especies
 - **Especie tipo del género**: *Rotunditermes rotundiceps*

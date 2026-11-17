@@ -20,6 +20,6 @@ back_label: "寡脉白蚁属 Termitogeton"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "寡脉白蚁科 TERMITOGETONIDAE"
+  - name: "寡脉白蚁科 Termitogetonidae"
     url: "/family/termitogetonidae/"
 ---

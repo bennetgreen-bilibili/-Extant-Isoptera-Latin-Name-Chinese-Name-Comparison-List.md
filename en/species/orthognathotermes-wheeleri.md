@@ -14,7 +14,7 @@ genus_zh: "直颚白蚁属"
 genus_latin: "Orthognathotermes"
 genus_id: "orthognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Orthognathotermes wheeleri*** is a species of the genus *Orthognathotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Snyder in 1923; the type locality is Panama: Barro Colorado Island. Distribution: Amazon region, Colombia, Panama.
+***Orthognathotermes wheeleri*** is a species of the genus *Orthognathotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Snyder in 1923; the type locality is Panama: Barro Colorado Island. Distribution: Amazon region, Colombia, Panama.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *wheeleri*: Named after the myrmecologist W. M. Wheeler
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Orthognathotermes*]({{ site.base_url }}/en/genus/orthognathotermes/) — 15 species
 - **Type species of the genus**: *Orthognathotermes macrocephalus*

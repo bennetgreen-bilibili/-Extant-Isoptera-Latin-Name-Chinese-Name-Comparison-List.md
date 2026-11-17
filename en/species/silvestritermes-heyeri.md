@@ -14,7 +14,7 @@ genus_zh: "西尔韦斯特里白蚁属"
 genus_latin: "Silvestritermes"
 genus_id: "silvestritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Silvestritermes heyeri*** is a species of the genus *Silvestritermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Wasmann in 1915; the type locality is Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribution: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. This site records 1 junior synonym for the species.
+***Silvestritermes heyeri*** is a species of the genus *Silvestritermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Wasmann in 1915; the type locality is Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribution: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *heyeri*: Named after Heyer
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Silvestritermes*]({{ site.base_url }}/en/genus/silvestritermes/) — 7 species
 - **Type species of the genus**: *Silvestritermes euamignathus*

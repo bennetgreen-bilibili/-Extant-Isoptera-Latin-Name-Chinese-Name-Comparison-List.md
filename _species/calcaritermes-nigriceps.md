@@ -12,7 +12,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.083
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑头距白蚁**（*Calcaritermes nigriceps*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本种有 1 个次异名。
+**黑头距白蚁**（*Calcaritermes nigriceps*）是木白蚁科（Kalotermitidae）距白蚁属（*Calcaritermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.083
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种
 - **本属模式种**：*Calcaritermes imminens*
 

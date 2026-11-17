@@ -14,7 +14,7 @@ genus_zh: "东锥白蚁属"
 genus_latin: "Oriensubulitermes"
 genus_id: "oriensubulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "(country unknown): \"Hinterindien\""
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Oriensubulitermes inanis*** is a species and the type species of the genus *Oriensubulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Perak. Distribution: Indonesia, Malaysia, Singapore. This site records 1 junior synonym for the species.
+***Oriensubulitermes inanis*** is a species and the type species of the genus *Oriensubulitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Perak. Distribution: Indonesia, Malaysia, Singapore. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *inanis*: Latin inanis (empty)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Oriensubulitermes*]({{ site.base_url }}/en/genus/oriensubulitermes/) — 2 species
 

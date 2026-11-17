@@ -14,7 +14,7 @@ genus_zh: "无甲白蚁属"
 genus_latin: "Anenteotermes"
 genus_id: "anenteotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anenteotermes disluctans*** es una especie y la especie tipo del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Uganda: Kawanda. Distribución según la fuente: Democratic Republic of the Congo, Uganda, Zambia.
+***Anenteotermes disluctans*** es una especie y la especie tipo del género *Anenteotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Uganda: Kawanda. Distribución según la fuente: Democratic Republic of the Congo, Uganda, Zambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *disluctans*: Del latín disluctans (que forcejea)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Anenteotermes*]({{ site.base_url }}/es/genus/anenteotermes/) — 11 especies
 

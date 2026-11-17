@@ -14,7 +14,7 @@ genus_zh: "针白蚁属"
 genus_latin: "Aciculitermes"
 genus_id: "aciculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Aciculitermes aciculatus*** is a species and the type species of the genus *Aciculitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Thailand, Indonesia, Malaysia, Singapore.
+***Aciculitermes aciculatus*** is a species and the type species of the genus *Aciculitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Thailand, Indonesia, Malaysia, Singapore.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *aciculatus*: From acicul + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Aciculitermes*]({{ site.base_url }}/en/genus/aciculitermes/) — 2 species
 

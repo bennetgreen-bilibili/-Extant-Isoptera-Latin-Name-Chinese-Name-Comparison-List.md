@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: L
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes dudleyi*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1918; the type locality is Panama: ?. Distribution: Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda. This site records 6 junior synonyms for the species.
+***Cryptotermes dudleyi*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Banks in 1918; the type locality is Panama: ?. Distribution: Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda. This site records 6 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *dudleyi*: Named after Dudley
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

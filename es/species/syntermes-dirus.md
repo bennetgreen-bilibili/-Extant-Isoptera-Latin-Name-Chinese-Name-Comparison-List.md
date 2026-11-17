@@ -14,7 +14,7 @@ genus_zh: "聚白蚁属"
 genus_latin: "Syntermes"
 genus_id: "syntermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]; Bras
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Syntermes dirus*** es una especie y la especie tipo del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribución según la fuente: Brazil. Este sitio registra 3 sinónimos junior para la especie.
+***Syntermes dirus*** es una especie y la especie tipo del género *Syntermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribución según la fuente: Brazil. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *dirus*: Del latín dirus (terrible)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Syntermes*]({{ site.base_url }}/es/genus/syntermes/) — 23 especies
 

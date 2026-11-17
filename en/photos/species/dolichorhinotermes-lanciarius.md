@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Rhinotermitinae_%281
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/en/family/rhinotermitidae/"
   - name: "Dolichorhinotermes"
     url: "/en/genus/dolichorhinotermes/"

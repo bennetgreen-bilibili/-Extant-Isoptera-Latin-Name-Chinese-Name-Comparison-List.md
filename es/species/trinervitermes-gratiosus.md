@@ -14,7 +14,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Trinervitermes gratiosus*** es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Luluabourg. Distribución según la fuente: Angola, Burundi, Democratic Republic of the Congo (Kinshasa), Kenya, Rwanda, Tanzania, Uganda, Zambia, Democratic Republic of the Congo (Kinshasa). Este sitio registra 1 sinónimo junior para la especie.
+***Trinervitermes gratiosus*** es una especie del género *Trinervitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Luluabourg. Distribución según la fuente: Angola, Burundi, Democratic Republic of the Congo (Kinshasa), Kenya, Rwanda, Tanzania, Uganda, Zambia, Democratic Republic of the Congo (Kinshasa). Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *gratiosus*: Del latín gratiosus (agraciado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Trinervitermes*]({{ site.base_url }}/es/genus/trinervitermes/) — 21 especies
 - **Especie tipo del género**: *Trinervitermes trinervius*

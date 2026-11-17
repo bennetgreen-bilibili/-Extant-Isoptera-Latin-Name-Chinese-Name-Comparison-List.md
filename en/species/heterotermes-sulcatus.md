@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Heterotermes sulcatus*** is a species of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribution: South America, Brazil, Venezuela, Suriname.
+***Heterotermes sulcatus*** is a species of the genus *Heterotermes*, in the family Heterotermitidae. The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribution: South America, Brazil, Venezuela, Suriname.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *sulcatus*: Latin sulcatus (grooved)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Heterotermes*]({{ site.base_url }}/en/genus/heterotermes/) — 31 species
 - **Type species of the genus**: *Heterotermes platycephalus*
 

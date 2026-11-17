@@ -14,7 +14,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Globitermes brachycerastes*** es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Han en 1987; la localidad tipo es China: Yunnan Province: Jinghong. Distribución según la fuente: Yunnan (Jinghong 500 m), China.
+***Globitermes brachycerastes*** es una especie del género *Globitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Han en 1987; la localidad tipo es China: Yunnan Province: Jinghong. Distribución según la fuente: Yunnan (Jinghong 500 m), China.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *brachycerastes*: Del griego brachys (corto) + keras (cuern
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Globitermes*]({{ site.base_url }}/es/genus/globitermes/) — 7 especies
 - **Especie tipo del género**: *Globitermes globosus*

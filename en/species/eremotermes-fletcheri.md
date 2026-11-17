@@ -14,7 +14,7 @@ genus_zh: "漠白蚁属"
 genus_latin: "Eremotermes"
 genus_id: "eremotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Pakistan: Loralai District: Duki"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Eremotermes fletcheri*** is a species of the genus *Eremotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Tamil Nadu: Coimbatore. Distribution: India, Pakistan. This site records 1 junior synonym for the species.
+***Eremotermes fletcheri*** is a species of the genus *Eremotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Tamil Nadu: Coimbatore. Distribution: India, Pakistan. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *fletcheri*: Named after Fletcher
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Eremotermes*]({{ site.base_url }}/en/genus/eremotermes/) — 10 species
 - **Type species of the genus**: *Eremotermes indicatus*

@@ -14,7 +14,7 @@ genus_zh: "鼻白蚁属"
 genus_latin: "Rhinotermes"
 genus_id: "rhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rhinotermes manni*** is a species of the genus *Rhinotermes*, in the family RHINOTERMITIDAE. The species was described by Snyder in 1924; the type locality is Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]. Distribution: Bolivia.
+***Rhinotermes manni*** is a species of the genus *Rhinotermes*, in the family Rhinotermitidae. The species was described by Snyder in 1924; the type locality is Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]. Distribution: Bolivia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *manni*: Named after the entomologist W. M. Mann
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Rhinotermes*]({{ site.base_url }}/en/genus/rhinotermes/) — 4 species
 - **Type species of the genus**: *Rhinotermes nasutus*
 

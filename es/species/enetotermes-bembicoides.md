@@ -14,7 +14,7 @@ genus_zh: "针筒白蚁属"
 genus_latin: "Enetotermes"
 genus_id: "enetotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Enetotermes bembicoides*** es la única especie viviente del género *Enetotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Zambia: Lusaka. Distribución según la fuente: Zambia.
+***Enetotermes bembicoides*** es la única especie viviente del género *Enetotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Zambia: Lusaka. Distribución según la fuente: Zambia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *bembicoides*: Del griego bembyx (abeja) + -oides (semejant
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Enetotermes*]({{ site.base_url }}/es/genus/enetotermes/) — monotípico, 1 especie
 

@@ -14,7 +14,7 @@ genus_zh: "缩白蚁属"
 genus_latin: "Constrictotermes"
 genus_id: "constrictotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Constrictotermes guantanamensis*** es una especie del género *Constrictotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Krecek, Scheffrahn & Roisin en 1996; la localidad tipo es Cuba: Guantanamo: Loma de Macambo. Distribución según la fuente: Caribbean, Cuba.
+***Constrictotermes guantanamensis*** es una especie del género *Constrictotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Krecek, Scheffrahn & Roisin en 1996; la localidad tipo es Cuba: Guantanamo: Loma de Macambo. Distribución según la fuente: Caribbean, Cuba.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *guantanamensis*: Por la localidad de Guantanam
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Constrictotermes*]({{ site.base_url }}/es/genus/constrictotermes/) — 6 especies
 - **Especie tipo del género**: *Constrictotermes cyphergaster*

@@ -14,7 +14,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Vanuatu: Nendo Island: Graciosa Bay; Solomon Islands: Malay
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Prorhinotermes inopinatus*** es una especie y la especie tipo del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Silvestri en 1909; la localidad tipo es (country unknown): "Insulae Samoa, Ninafoon". Distribución según la fuente: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. Este sitio registra 2 sinónimos junior para la especie.
+***Prorhinotermes inopinatus*** es una especie y la especie tipo del género *Prorhinotermes*, en la familia Psammotermitidae. La especie fue descrita por Silvestri en 1909; la localidad tipo es (country unknown): "Insulae Samoa, Ninafoon". Distribución según la fuente: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *inopinatus*: Del latín inopinatus (inesperado)
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Prorhinotermes*]({{ site.base_url }}/es/genus/prorhinotermes/) — 12 especies
 
 ## Distribución

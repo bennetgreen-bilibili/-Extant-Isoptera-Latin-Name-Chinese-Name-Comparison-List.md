@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Sierra Leone: ?; Ghana: Aburi"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coptotermes sjostedti*** es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Cameroon: Bonge; Cape Debubdscha. Distribución según la fuente: West Africa, Ivory Coast, Nigeria, Senegal, Angola, Burkina Faso, Cameroon, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Guinea, Mozambique, São Tomé and Príncipe, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda; introduced: Guadeloupe (France). Este sitio registra 2 sinónimos junior para la especie.
+***Coptotermes sjostedti*** es una especie del género *Coptotermes*, en la familia Heterotermitidae. La especie fue descrita por Holmgren en 1911; la localidad tipo es Cameroon: Bonge; Cape Debubdscha. Distribución según la fuente: West Africa, Ivory Coast, Nigeria, Senegal, Angola, Burkina Faso, Cameroon, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Guinea, Mozambique, São Tomé and Príncipe, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda; introduced: Guadeloupe (France). Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
 - **Especie tipo del género**: *Coptotermes gestroi*
 

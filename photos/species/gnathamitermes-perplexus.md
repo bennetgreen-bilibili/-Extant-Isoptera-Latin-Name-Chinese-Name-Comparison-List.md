@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Gnathamitermes_perpl
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "弓白蚁亚科 Amitermitinae"
     url: "/subfamily/amitermitinae/"

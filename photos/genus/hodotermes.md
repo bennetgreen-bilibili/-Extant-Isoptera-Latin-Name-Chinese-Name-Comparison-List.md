@@ -20,6 +20,6 @@ back_label: "草白蚁属 Hodotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "草白蚁科 HODOTERMITIDAE"
+  - name: "草白蚁科 Hodotermitidae"
     url: "/family/hodotermitidae/"
 ---

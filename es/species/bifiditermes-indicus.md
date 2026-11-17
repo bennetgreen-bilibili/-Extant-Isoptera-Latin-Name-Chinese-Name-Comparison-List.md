@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bifiditermes indicus*** es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Sulawesi: Ujung Pandang (Makassar); Thailand: Bangkok. Distribución según la fuente: India, Indonesia, Thailand.
+***Bifiditermes indicus*** es una especie del género *Bifiditermes*, en la familia Kalotermitidae. La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Sulawesi: Ujung Pandang (Makassar); Thailand: Bangkok. Distribución según la fuente: India, Indonesia, Thailand.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *indicus*: Por la India
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Bifiditermes*]({{ site.base_url }}/es/genus/bifiditermes/) — 12 especies
 - **Especie tipo del género**: *Bifiditermes madagascariensis*
 

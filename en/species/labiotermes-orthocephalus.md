@@ -14,7 +14,7 @@ genus_zh: "厚唇白蚁属"
 genus_latin: "Labiotermes"
 genus_id: "labiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Labiotermes orthocephalus*** is a species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Paraguay. This site records 2 junior synonyms for the species.
+***Labiotermes orthocephalus*** is a species of the genus *Labiotermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Paraguay. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *orthocephalus*: From the descriptive term 'orth' (straight)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Labiotermes*]({{ site.base_url }}/en/genus/labiotermes/) — 10 species
 - **Type species of the genus**: *Labiotermes labralis*

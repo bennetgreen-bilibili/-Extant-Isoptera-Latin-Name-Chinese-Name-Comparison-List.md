@@ -12,7 +12,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Natal: Lake Sibayi; Natal: Pietermaritzburg, 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似三脉三脉白蚁**（*Trinervitermes trinervoides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 South Africa: Cape Province: Laingsburg。分布记录包括南非、纳米比亚、刚果（金）、刚果民主共和国、莱索托、莫桑比克、斯威士兰、津巴布韦。本种有 10 个次异名。
+**似三脉三脉白蚁**（*Trinervitermes trinervoides*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 South Africa: Cape Province: Laingsburg。分布记录包括南非、纳米比亚、刚果（金）、刚果民主共和国、莱索托、莫桑比克、斯威士兰、津巴布韦。本种有 10 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "South Africa: Natal: Lake Sibayi; Natal: Pietermaritzburg, 
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种
 - **本属模式种**：*Trinervitermes trinervius*

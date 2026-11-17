@@ -14,7 +14,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Morocco: ?"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Kalotermes flavicollis*** es una especie y la especie tipo del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Fabricius en 1793; la localidad tipo es (country unknown): "Barbaria". Distribución según la fuente: Mediterranean region, Southern Europe, North Africa, West Asia. Este sitio registra 1 sinónimo junior para la especie.
+***Kalotermes flavicollis*** es una especie y la especie tipo del género *Kalotermes*, en la familia Kalotermitidae. La especie fue descrita por Fabricius en 1793; la localidad tipo es (country unknown): "Barbaria". Distribución según la fuente: Mediterranean region, Southern Europe, North Africa, West Asia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *flavicollis*: De flavi (amarillo) + collis (cuello)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Kalotermes*]({{ site.base_url }}/es/genus/kalotermes/) — 21 especies
 
 ## Distribución

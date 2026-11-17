@@ -14,7 +14,7 @@ genus_zh: "亮白蚁属"
 genus_latin: "Euhamitermes"
 genus_id: "euhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Euhamitermes zhejianensis*** is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by He & Xia in 1983; the type locality is China: Zhejiang Province: Quxian. Distribution: China, Zhejiang.
+***Euhamitermes zhejianensis*** is a species of the genus *Euhamitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by He & Xia in 1983; the type locality is China: Zhejiang Province: Quxian. Distribution: China, Zhejiang.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *zhejianensis*: Named after the locality Zhejian
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Euhamitermes*]({{ site.base_url }}/en/genus/euhamitermes/) — 24 species
 - **Type species of the genus**: *Euhamitermes hamatus*

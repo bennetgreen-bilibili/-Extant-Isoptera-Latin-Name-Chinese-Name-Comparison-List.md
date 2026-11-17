@@ -12,7 +12,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Mexico: Colima State: Colima; Colima State: Jala; Colima St
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凸背异白蚁**（*Heterotermes convexinotatus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Panama: Colón。分布记录包括加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马。本种有 2 个次异名。
+**凸背异白蚁**（*Heterotermes convexinotatus*）是异白蚁科（Heterotermitidae）异白蚁属（*Heterotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Panama: Colón。分布记录包括加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Mexico: Colima State: Colima; Colima State: Jala; Colima St
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种
 - **本属模式种**：*Heterotermes platycephalus*
 

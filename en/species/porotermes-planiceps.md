@@ -14,7 +14,7 @@ genus_zh: "洞白蚁属"
 genus_latin: "Porotermes"
 genus_id: "porotermes"
 family_zh: "胄白蚁科"
-family_latin: "STOLOTERMITIDAE"
+family_latin: "Stolotermitidae"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "South Africa: Cape Province"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Porotermes planiceps*** is a species of the genus *Porotermes*, in the family STOLOTERMITIDAE. The species was described by Sjöstedt in 1904; the type locality is South Africa: Cape Province?. Distribution: South Africa. This site records 1 junior synonym for the species.
+***Porotermes planiceps*** is a species of the genus *Porotermes*, in the family Stolotermitidae. The species was described by Sjöstedt in 1904; the type locality is South Africa: Cape Province?. Distribution: South Africa. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *planiceps*: Latin planus (flat) + -ceps (head), flat-headed
 
 ## Taxonomic position
 
-- **Family**: [STOLOTERMITIDAE]({{ site.base_url }}/en/family/stolotermitidae/) — 2 genera, 10 species
+- **Family**: [Stolotermitidae]({{ site.base_url }}/en/family/stolotermitidae/) — 2 genera, 10 species
 - **Genus**: [*Porotermes*]({{ site.base_url }}/en/genus/porotermes/) — 3 species
 - **Type species of the genus**: *Porotermes quadricollis*
 

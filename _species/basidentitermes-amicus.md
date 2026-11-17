@@ -12,7 +12,7 @@ genus_zh: "基齿白蚁属"
 genus_latin: "Basidentitermes"
 genus_id: "basidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**友善基齿白蚁**（*Basidentitermes amicus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*）的一种。本种由 Harris 于 1936 年描述，模式产地为 Tanzania: Songea。分布记录包括旧热带界、坦桑尼亚。
+**友善基齿白蚁**（*Basidentitermes amicus*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*）的一种。本种由 Harris 于 1936 年描述，模式产地为 Tanzania: Songea。分布记录包括旧热带界、坦桑尼亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[基齿白蚁属 *Basidentitermes*]({{ site.base_url }}/genus/basidentitermes/) —— 共 8 种
 - **本属模式种**：*Basidentitermes aurivillii*

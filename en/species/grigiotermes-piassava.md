@@ -14,7 +14,7 @@ genus_zh: "灰白蚁属"
 genus_latin: "Grigiotermes"
 genus_id: "grigiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Grigiotermes piassava*** is a species of the genus *Grigiotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Carvalho & Vasconcellos in 2024; the type locality is Brasil: Pernambuco, Biological Reserve of Saltinho \[ 8.727S 35.178W \]. Distribution: Brazil.
+***Grigiotermes piassava*** is a species of the genus *Grigiotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Carvalho & Vasconcellos in 2024; the type locality is Brasil: Pernambuco, Biological Reserve of Saltinho \[ 8.727S 35.178W \]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *piassava*: From piassava, palm fibre (Tupi)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Grigiotermes*]({{ site.base_url }}/en/genus/grigiotermes/) — 2 species
 - **Type species of the genus**: *Grigiotermes hageni*

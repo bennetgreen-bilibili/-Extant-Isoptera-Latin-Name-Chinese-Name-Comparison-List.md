@@ -12,7 +12,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**圆额前奇白蚁**（*Promirotermes rotundifrons*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）的一种。本种由 Silvestri 于 1908 年描述，模式产地为 Botswana: Kalahari: Kooa。分布记录包括博茨瓦纳、南非。
+**圆额前奇白蚁**（*Promirotermes rotundifrons*）是白蚁科（Termitidae）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）的一种。本种由 Silvestri 于 1908 年描述，模式产地为 Botswana: Kalahari: Kooa。分布记录包括博茨瓦纳、南非。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/subfamily/promirotermitinae/) —— 本站收录 2 属 39 种
 - **属**：[前奇白蚁属 *Promirotermes*]({{ site.base_url }}/genus/promirotermes/) —— 共 10 种
 - **本属模式种**：*Promirotermes holmgreni*

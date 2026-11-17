@@ -14,7 +14,7 @@ genus_zh: "客白蚁属"
 genus_latin: "Inquilinitermes"
 genus_id: "inquilinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Inquilinitermes johnchapmani*** es una especie del género *Inquilinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Scheffrahn en 2014; la localidad tipo es Bolivia: El Beni: Trinidad \[14.702S 64.89W\]. Distribución según la fuente: Bolivia.
+***Inquilinitermes johnchapmani*** es una especie del género *Inquilinitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Scheffrahn en 2014; la localidad tipo es Bolivia: El Beni: Trinidad \[14.702S 64.89W\]. Distribución según la fuente: Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *johnchapmani*: En honor de John Chapman
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Inquilinitermes*]({{ site.base_url }}/es/genus/inquilinitermes/) — 4 especies
 - **Especie tipo del género**: *Inquilinitermes fur*

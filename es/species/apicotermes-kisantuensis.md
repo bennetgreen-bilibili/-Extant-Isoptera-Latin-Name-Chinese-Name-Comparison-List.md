@@ -14,7 +14,7 @@ genus_zh: "尖白蚁属"
 genus_latin: "Apicotermes"
 genus_id: "apicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Apicotermes kisantuensis*** es una especie del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Inkisi-Kisantu. Distribución según la fuente: Democratic Republic of the Congo.
+***Apicotermes kisantuensis*** es una especie del género *Apicotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Inkisi-Kisantu. Distribución según la fuente: Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *kisantuensis*: Por la localidad de Kisantu
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Apicotermes*]({{ site.base_url }}/es/genus/apicotermes/) — 13 especies
 - **Especie tipo del género**: *Apicotermes tragardhi*

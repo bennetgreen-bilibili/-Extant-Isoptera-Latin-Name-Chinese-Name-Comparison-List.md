@@ -14,7 +14,7 @@ genus_zh: "凸白蚁属"
 genus_latin: "Convexitermes"
 genus_id: "convexitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Convexitermes manni*** is a species of the genus *Convexitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, French Guiana, Guyana, Paraguay, Suriname, Trinidad and Tobago.
+***Convexitermes manni*** is a species of the genus *Convexitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, French Guiana, Guyana, Paraguay, Suriname, Trinidad and Tobago.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *manni*: Named after the entomologist W. M. Mann
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Convexitermes*]({{ site.base_url }}/en/genus/convexitermes/) — 2 species
 - **Type species of the genus**: *Convexitermes convexifrons*

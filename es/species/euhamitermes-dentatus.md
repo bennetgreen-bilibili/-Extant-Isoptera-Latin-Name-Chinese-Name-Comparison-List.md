@@ -14,7 +14,7 @@ genus_zh: "亮白蚁属"
 genus_latin: "Euhamitermes"
 genus_id: "euhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Euhamitermes dentatus*** es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Thakur & Chatterjee en 1974; la localidad tipo es India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribución según la fuente: India, Andhra Pradesh.
+***Euhamitermes dentatus*** es una especie del género *Euhamitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Thakur & Chatterjee en 1974; la localidad tipo es India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribución según la fuente: India, Andhra Pradesh.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *dentatus*: Del latín dentatus (dentado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Euhamitermes*]({{ site.base_url }}/es/genus/euhamitermes/) — 24 especies
 - **Especie tipo del género**: *Euhamitermes hamatus*

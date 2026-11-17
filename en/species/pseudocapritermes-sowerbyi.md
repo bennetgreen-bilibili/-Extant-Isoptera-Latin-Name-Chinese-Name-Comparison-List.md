@@ -14,7 +14,7 @@ genus_zh: "伪扭白蚁属"
 genus_latin: "Pseudocapritermes"
 genus_id: "pseudocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "China: Meihuashan"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pseudocapritermes sowerbyi*** is a species of the genus *Pseudocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Light in 1924; the type locality is China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft.". Distribution: China. This site records 1 junior synonym for the species.
+***Pseudocapritermes sowerbyi*** is a species of the genus *Pseudocapritermes*, in the family Termitidae (subfamily Mirocapritermitinae). The species was described by Light in 1924; the type locality is China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft.". Distribution: China. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *sowerbyi*: Named after A. de C. Sowerby (British naturalist, c
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Pseudocapritermes*]({{ site.base_url }}/en/genus/pseudocapritermes/) — 19 species
 - **Type species of the genus**: *Pseudocapritermes silvaticus*

@@ -14,7 +14,7 @@ genus_zh: "奇囟白蚁属"
 genus_latin: "Tonsuritermes"
 genus_id: "tonsuritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tonsuritermes mathewsi*** es una especie del género *Tonsuritermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Constantini & Cancello en 2018; la localidad tipo es Brasil: Mato Grosso: Chapada dos Guimarães \[ 15.4606S 55.7497W \]. Distribución según la fuente: Brazil.
+***Tonsuritermes mathewsi*** es una especie del género *Tonsuritermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Constantini & Cancello en 2018; la localidad tipo es Brasil: Mato Grosso: Chapada dos Guimarães \[ 15.4606S 55.7497W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mathewsi*: En honor de Mathews
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Tonsuritermes*]({{ site.base_url }}/es/genus/tonsuritermes/) — 2 especies
 - **Especie tipo del género**: *Tonsuritermes tucki*

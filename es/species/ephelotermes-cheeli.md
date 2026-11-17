@@ -14,7 +14,7 @@ genus_zh: "棒颚白蚁属"
 genus_latin: "Ephelotermes"
 genus_id: "ephelotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Australia: Queensland, near Cooktown; Australia: Queensland
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ephelotermes cheeli*** es una especie del género *Ephelotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Cape York: Hann Creek. Distribución según la fuente: Australia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
+***Ephelotermes cheeli*** es una especie del género *Ephelotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Cape York: Hann Creek. Distribución según la fuente: Australia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *cheeli*: En honor de Cheel
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Ephelotermes*]({{ site.base_url }}/es/genus/ephelotermes/) — 6 especies
 - **Especie tipo del género**: *Ephelotermes melachoma*

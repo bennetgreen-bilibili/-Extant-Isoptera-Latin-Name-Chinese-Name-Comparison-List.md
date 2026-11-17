@@ -14,7 +14,7 @@ genus_zh: "近曲白蚁属"
 genus_latin: "Paracurvitermes"
 genus_id: "paracurvitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Paracurvitermes manni*** es la única especie viviente del género *Paracurvitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución según la fuente: Brazil, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
+***Paracurvitermes manni*** es la única especie viviente del género *Paracurvitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución según la fuente: Brazil, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *manni*: En honor del entomólogo W. M. Mann
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Paracurvitermes*]({{ site.base_url }}/es/genus/paracurvitermes/) — monotípico, 1 especie
 

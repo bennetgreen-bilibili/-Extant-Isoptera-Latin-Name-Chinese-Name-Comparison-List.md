@@ -12,7 +12,7 @@ genus_zh: "和白蚁属"
 genus_latin: "Adaiphrotermes"
 genus_id: "adaiphrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乔安和白蚁**（*Adaiphrotermes choanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和白蚁属（*Adaiphrotermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Pretoria: Arcadia。分布记录包括肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦。
+**乔安和白蚁**（*Adaiphrotermes choanensis*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）和白蚁属（*Adaiphrotermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Pretoria: Arcadia。分布记录包括肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[和白蚁属 *Adaiphrotermes*]({{ site.base_url }}/genus/adaiphrotermes/) —— 共 3 种
 - **本属模式种**：*Adaiphrotermes cuniculator*

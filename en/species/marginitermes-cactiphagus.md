@@ -14,7 +14,7 @@ genus_zh: "边白蚁属"
 genus_latin: "Marginitermes"
 genus_id: "marginitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Marginitermes cactiphagus*** is a species of the genus *Marginitermes*, in the family KALOTERMITIDAE. The species was described by Myles in 1997; the type locality is Mexico: Baja California Sur, five km east of Cabo San Lukas. Distribution: Mexico, Honduras, Guatemala, Nicaragua.
+***Marginitermes cactiphagus*** is a species of the genus *Marginitermes*, in the family Kalotermitidae. The species was described by Myles in 1997; the type locality is Mexico: Baja California Sur, five km east of Cabo San Lukas. Distribution: Mexico, Honduras, Guatemala, Nicaragua.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *cactiphagus*: Latin cactus (cactus) + Greek phagos (eating), c
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Marginitermes*]({{ site.base_url }}/en/genus/marginitermes/) — 3 species
 - **Type species of the genus**: *Marginitermes hubbardi*
 

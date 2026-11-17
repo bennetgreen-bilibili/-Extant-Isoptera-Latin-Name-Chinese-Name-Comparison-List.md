@@ -14,7 +14,7 @@ genus_zh: "瘤白蚁属"
 genus_latin: "Mirocapritermes"
 genus_id: "mirocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Mirocapritermes latignathus*** is a species of the genus *Mirocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Ahmad in 1965; the type locality is Thailand: Ka-Chong. Distribution: Thailand, Malaysia.
+***Mirocapritermes latignathus*** is a species of the genus *Mirocapritermes*, in the family Termitidae (subfamily Mirocapritermitinae). The species was described by Ahmad in 1965; the type locality is Thailand: Ka-Chong. Distribution: Thailand, Malaysia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *latignathus*: Latin latus (broad) + Greek gnathos (jaw), broad
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Mirocapritermes*]({{ site.base_url }}/en/genus/mirocapritermes/) — 8 species
 - **Type species of the genus**: *Mirocapritermes connectens*

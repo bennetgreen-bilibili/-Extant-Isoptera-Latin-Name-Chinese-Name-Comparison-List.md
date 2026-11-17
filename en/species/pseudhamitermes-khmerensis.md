@@ -14,7 +14,7 @@ genus_zh: "伪钩白蚁属"
 genus_latin: "Pseudhamitermes"
 genus_id: "pseudhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pseudhamitermes khmerensis*** is a species and the type species of the genus *Pseudhamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Noirot in 1966; the type locality is Vietnam: 35 km SW Phnom-Penh (route de Kampot). Distribution: Vietnam.
+***Pseudhamitermes khmerensis*** is a species and the type species of the genus *Pseudhamitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Noirot in 1966; the type locality is Vietnam: 35 km SW Phnom-Penh (route de Kampot). Distribution: Vietnam.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *khmerensis*: Named after Khmer (Cambodia)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Pseudhamitermes*]({{ site.base_url }}/en/genus/pseudhamitermes/) — 2 species
 

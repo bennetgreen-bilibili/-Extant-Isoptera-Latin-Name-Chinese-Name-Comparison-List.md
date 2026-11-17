@@ -12,7 +12,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Guatemala: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽头楹白蚁**（*Incisitermes platycephalus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Madrid, near Colima。分布记录包括墨西哥、危地马拉、洪都拉斯、尼加拉瓜。本种有 1 个次异名。
+**宽头楹白蚁**（*Incisitermes platycephalus*）是木白蚁科（Kalotermitidae）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Madrid, near Colima。分布记录包括墨西哥、危地马拉、洪都拉斯、尼加拉瓜。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Guatemala: ?"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
 - **本属模式种**：*Incisitermes schwarzi*
 

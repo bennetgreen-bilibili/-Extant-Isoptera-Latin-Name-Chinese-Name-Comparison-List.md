@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Argentina: Misiones: San Pedro [ 26.63S 54.11W ]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Glyptotermes canellae*** is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Müller in 1873; the type locality is Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribution: Brazil, Paraguay, Argentina. This site records 1 junior synonym for the species.
+***Glyptotermes canellae*** is a species of the genus *Glyptotermes*, in the family Kalotermitidae. The species was described by Müller in 1873; the type locality is Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribution: Brazil, Paraguay, Argentina. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *canellae*: Named after Canella
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Glyptotermes*]({{ site.base_url }}/en/genus/glyptotermes/) — 131 species
 - **Type species of the genus**: *Glyptotermes tuberculatus*
 

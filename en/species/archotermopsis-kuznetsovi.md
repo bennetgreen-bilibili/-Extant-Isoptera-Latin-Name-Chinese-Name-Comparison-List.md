@@ -14,7 +14,7 @@ genus_zh: "古白蚁属"
 genus_latin: "Archotermopsis"
 genus_id: "archotermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Archotermopsis kuznetsovi*** is a species of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Belyaeva in 2004; the type locality is Vietnam: 8 km. SE Shapa Mt. Distribution: China, Vietnam.
+***Archotermopsis kuznetsovi*** is a species of the genus *Archotermopsis*, in the family Archotermopsidae. The species was described by Belyaeva in 2004; the type locality is Vietnam: 8 km. SE Shapa Mt. Distribution: China, Vietnam.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *kuznetsovi*: Named after Kuznetsov
 
 ## Taxonomic position
 
-- **Family**: [ARCHOTERMOPSIDAE]({{ site.base_url }}/en/family/archotermopsidae/) — 2 genera, 5 species
+- **Family**: [Archotermopsidae]({{ site.base_url }}/en/family/archotermopsidae/) — 2 genera, 5 species
 - **Genus**: [*Archotermopsis*]({{ site.base_url }}/en/genus/archotermopsis/) — 2 species
 - **Type species of the genus**: *Archotermopsis wroughtoni*
 

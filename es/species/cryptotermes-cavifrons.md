@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes cavifrons*** es una especie y la especie tipo del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución según la fuente: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
+***Cryptotermes cavifrons*** es una especie y la especie tipo del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución según la fuente: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *cavifrons*: Del latín cavus (hueco) + frons (frente), de 
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 
 ## Distribución

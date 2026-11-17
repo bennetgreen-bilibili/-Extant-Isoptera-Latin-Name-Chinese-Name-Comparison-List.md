@@ -14,7 +14,7 @@ genus_zh: "净白蚁属"
 genus_latin: "Nitiditermes"
 genus_id: "nitiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg; Congo: Indo, 
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Nitiditermes sankurensis*** is a species of the genus *Nitiditermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Wasmann in 1911; the type locality is Democratic Republic of the Congo: Sankuru (Kassai). Distribution: Angola, Republic of the Congo, Democratic Republic of the Congo, Guinea, Kenya, Malawi, Mali, Nigeria, Senegal, Tanzania, Zambia, Zimbabwe. This site records 3 junior synonyms for the species.
+***Nitiditermes sankurensis*** is a species of the genus *Nitiditermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Wasmann in 1911; the type locality is Democratic Republic of the Congo: Sankuru (Kassai). Distribution: Angola, Republic of the Congo, Democratic Republic of the Congo, Guinea, Kenya, Malawi, Mali, Nigeria, Senegal, Tanzania, Zambia, Zimbabwe. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *sankurensis*: Named after Sankuru, Congo
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Nitiditermes*]({{ site.base_url }}/en/genus/nitiditermes/) — 15 species
 - **Type species of the genus**: *Nitiditermes berghei*

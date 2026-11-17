@@ -14,7 +14,7 @@ genus_zh: "无甲白蚁属"
 genus_latin: "Anenteotermes"
 genus_id: "anenteotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anenteotermes hemerus*** es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Sudan: Mount Bangenze. Distribución según la fuente: Sudan.
+***Anenteotermes hemerus*** es una especie del género *Anenteotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Sudan: Mount Bangenze. Distribución según la fuente: Sudan.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hemerus*: Del griego hēmeros (manso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Anenteotermes*]({{ site.base_url }}/es/genus/anenteotermes/) — 11 especies
 - **Especie tipo del género**: *Anenteotermes disluctans*

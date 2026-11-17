@@ -12,7 +12,7 @@ genus_zh: "凯姆勒白蚁属"
 genus_latin: "Kemneritermes"
 genus_id: "kemneritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**砂拉越凯姆勒白蚁**（*Kemneritermes sarawakensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）凯姆勒白蚁属（*Kemneritermes*）的现存唯一种。本种由 Ahmad & Akhtar 于 1981 年描述，模式产地为 Malaysia: Sarawak: Sabal Tapang。分布记录包括婆罗洲。
+**砂拉越凯姆勒白蚁**（*Kemneritermes sarawakensis*）是白蚁科（Termitidae）瘤白蚁亚科（Mirocapritermitinae）凯姆勒白蚁属（*Kemneritermes*）的现存唯一种。本种由 Ahmad & Akhtar 于 1981 年描述，模式产地为 Malaysia: Sarawak: Sabal Tapang。分布记录包括婆罗洲。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
 - **属**：[凯姆勒白蚁属 *Kemneritermes*]({{ site.base_url }}/genus/kemneritermes/) —— 单型属，仅含 1 种
 

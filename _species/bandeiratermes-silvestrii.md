@@ -12,7 +12,7 @@ genus_zh: "班代拉白蚁属"
 genus_latin: "Bandeiratermes"
 genus_id: "bandeiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西尔韦斯特里班代拉白蚁**（*Bandeiratermes silvestrii*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）班代拉白蚁属（*Bandeiratermes*）的一种，也是本属的模式种。本种由 Emerson 于 1949 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、玻利维亚、巴拉圭。
+**西尔韦斯特里班代拉白蚁**（*Bandeiratermes silvestrii*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）班代拉白蚁属（*Bandeiratermes*）的一种，也是本属的模式种。本种由 Emerson 于 1949 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、玻利维亚、巴拉圭。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[班代拉白蚁属 *Bandeiratermes*]({{ site.base_url }}/genus/bandeiratermes/) —— 共 2 种
 

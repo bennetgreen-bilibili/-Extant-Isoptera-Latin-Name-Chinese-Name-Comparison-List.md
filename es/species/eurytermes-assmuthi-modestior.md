@@ -14,7 +14,7 @@ genus_zh: "宽白蚁属"
 genus_latin: "Eurytermes"
 genus_id: "eurytermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eurytermes assmuthi modestior*** es una subespecie de *Eurytermes assmuthi*, en la familia TERMITIDAE (subfamilia Apicotermitinae), género *Eurytermes*. La subespecie fue descrita por Silvestri en 1923; la localidad tipo es India: Orissa: Chilka Lake: Barkuda Island. No se incluye un registro de distribución separado en esta página; véase la especie parental *Eurytermes assmuthi* más abajo.
+***Eurytermes assmuthi modestior*** es una subespecie de *Eurytermes assmuthi*, en la familia Termitidae (subfamilia Apicotermitinae), género *Eurytermes*. La subespecie fue descrita por Silvestri en 1923; la localidad tipo es India: Orissa: Chilka Lake: Barkuda Island. No se incluye un registro de distribución separado en esta página; véase la especie parental *Eurytermes assmuthi* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *modestior*: Del latín modestior (más modesto, comparativ
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Eurytermes*]({{ site.base_url }}/es/genus/eurytermes/) — 6 especies
 - **Especie**: [*Eurytermes assmuthi*]({{ site.base_url }}/es/species/eurytermes-assmuthi/)

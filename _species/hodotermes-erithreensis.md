@@ -12,7 +12,7 @@ genus_zh: "草白蚁属"
 genus_latin: "Hodotermes"
 genus_id: "hodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**厄立特里亚草白蚁**（*Hodotermes erithreensis*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种。本种由 Sjöstedt 于 1912 年描述，模式产地为 Eritrea: Assab。分布记录包括厄立特里亚、埃塞俄比亚、索马里。本种有 1 个次异名。
+**厄立特里亚草白蚁**（*Hodotermes erithreensis*）是草白蚁科（Hodotermitidae）草白蚁属（*Hodotermes*）的一种。本种由 Sjöstedt 于 1912 年描述，模式产地为 Eritrea: Assab。分布记录包括厄立特里亚、埃塞俄比亚、索马里。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/genus/hodotermes/) —— 共 2 种
 - **本属模式种**：*Hodotermes mossambicus*
 

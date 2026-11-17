@@ -14,7 +14,7 @@ genus_zh: "瓢白蚁属"
 genus_latin: "Bulbitermes"
 genus_id: "bulbitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bulbitermes johorensis*** es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Pervez en 1986; la localidad tipo es Malaysia: Johore: 20 km N of Mersing: Guong Arong Forest Reserve. Distribución según la fuente: Malaysia.
+***Bulbitermes johorensis*** es una especie del género *Bulbitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Pervez en 1986; la localidad tipo es Malaysia: Johore: 20 km N of Mersing: Guong Arong Forest Reserve. Distribución según la fuente: Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *johorensis*: Por la localidad de Johor
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Bulbitermes*]({{ site.base_url }}/es/genus/bulbitermes/) — 34 especies
 - **Especie tipo del género**: *Bulbitermes constrictus*

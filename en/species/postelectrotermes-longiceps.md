@@ -14,7 +14,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Madagascar: Lac Alaotrana [Manaloha]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Postelectrotermes longiceps*** is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Cachan in 1949; the type locality is Madagascar: La Mandaka. Distribution: Madagascar. This site records 1 junior synonym for the species.
+***Postelectrotermes longiceps*** is a species of the genus *Postelectrotermes*, in the family Kalotermitidae. The species was described by Cachan in 1949; the type locality is Madagascar: La Mandaka. Distribution: Madagascar. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Postelectrotermes*]({{ site.base_url }}/en/genus/postelectrotermes/) — 15 species
 - **Type species of the genus**: *Postelectrotermes praecox*
 

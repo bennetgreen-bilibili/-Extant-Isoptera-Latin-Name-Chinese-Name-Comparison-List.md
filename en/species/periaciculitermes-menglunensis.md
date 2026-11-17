@@ -14,7 +14,7 @@ genus_zh: "近针白蚁属"
 genus_latin: "Periaciculitermes"
 genus_id: "periaciculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Periaciculitermes menglunensis*** is the only extant species of the genus *Periaciculitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Li in 1986; the type locality is China: Yunnan Province: Banna Daizu, Menglun, Xishuang, Zizhizhou. Distribution: China.
+***Periaciculitermes menglunensis*** is the only extant species of the genus *Periaciculitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Li in 1986; the type locality is China: Yunnan Province: Banna Daizu, Menglun, Xishuang, Zizhizhou. Distribution: China.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *menglunensis*: Named after the locality Menglun
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Periaciculitermes*]({{ site.base_url }}/en/genus/periaciculitermes/) — monotypic, 1 species
 

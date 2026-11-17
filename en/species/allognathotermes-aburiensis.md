@@ -14,7 +14,7 @@ genus_zh: "异颚白蚁属"
 genus_latin: "Allognathotermes"
 genus_id: "allognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Allognathotermes aburiensis*** is a species of the genus *Allognathotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1926; the type locality is Ghana: Aburi. Distribution: Ghana, Guinea, Nigeria.
+***Allognathotermes aburiensis*** is a species of the genus *Allognathotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sjöstedt in 1926; the type locality is Ghana: Aburi. Distribution: Ghana, Guinea, Nigeria.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *aburiensis*: Named after the locality Abur
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Allognathotermes*]({{ site.base_url }}/en/genus/allognathotermes/) — 3 species
 - **Type species of the genus**: *Allognathotermes hypogeus*

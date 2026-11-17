@@ -12,7 +12,7 @@ genus_zh: "漏斗白蚁属"
 genus_latin: "Acangaobitermes"
 genus_id: "acangaobitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**克里希纳漏斗白蚁**（*Acangaobitermes krishnai*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）漏斗白蚁属（*Acangaobitermes*）的现存唯一种。本种由 Rocha, Cancello & Cuezzo 于 2011 年描述，模式产地为 Brasil: Goiás: Parque Nacional das Emas \[18.1S 52.91W\]。分布记录包括巴西。
+**克里希纳漏斗白蚁**（*Acangaobitermes krishnai*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）漏斗白蚁属（*Acangaobitermes*）的现存唯一种。本种由 Rocha, Cancello & Cuezzo 于 2011 年描述，模式产地为 Brasil: Goiás: Parque Nacional das Emas \[18.1S 52.91W\]。分布记录包括巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[漏斗白蚁属 *Acangaobitermes*]({{ site.base_url }}/genus/acangaobitermes/) —— 单型属，仅含 1 种
 

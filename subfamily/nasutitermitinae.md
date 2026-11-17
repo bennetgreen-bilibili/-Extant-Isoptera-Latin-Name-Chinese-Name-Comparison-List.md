@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "象白蚁亚科 Nasutitermitinae 属与物种名录"
-description: "象白蚁亚科（Nasutitermitinae）是白蚁科（TERMITIDAE）下的一个亚科，本站收录 81 个属、606 个种、10 个亚种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。"
+description: "象白蚁亚科（Nasutitermitinae）是白蚁科（Termitidae）下的一个亚科，本站收录 81 个属、606 个种、10 个亚种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -26,7 +26,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/nasutitermitinae/">象白蚁亚科</a> › <span>本亚科</span></nav>
 <header class="taxon-header">
 <h1>象白蚁亚科 <i>Nasutitermitinae</i></h1>
-<p class="taxon-meta">白蚁科 TERMITIDAE · 81 属 · 606 种、10 亚种</p>
+<p class="taxon-meta">白蚁科 Termitidae · 81 属 · 606 种、10 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="nasutitermitinae,aciculitermes,afrosubulitermes,agnathotermes,ahmaditermes,ampoulitermes,angularitermes,anhangatermes,antillitermes,araujotermes,arcotermes,atlantitermes,australitermes,baucaliotermes,bulbitermes,caetetermes,caribitermes,ceylonitermellus,ceylonitermes,coarctotermes,coatitermes,coendutermes,constrictotermes,convexitermes,cortaritermes,cucurbitermes,cyranotermes,diversitermes,diwaitermes,eleanoritermes,emersonitermes,enetotermes,ereymatermes,eutermellus,fulleritermes,grallatotermes,hirtitermes,hospitalitermes,hyleotermes,kaudernitermes,lacessititermes,leptomyxotermes,leucopitermes,longipeditermes,macrosubulitermes,malagasitermes,malaysiotermes,mimeutermes,muelleritermes,mycterotermes,nasopilotermes,nasutitermes,ngauratermes,niuginitermes,obtusitermes,occasitermes,occultitermes,oriensubulitermes,paraconvexitermes,parvitermes,periaciculitermes,postsubulitermes,rhadinotermes,roonwalitermes,rotunditermes,rounditermes,sabahitermes,sandsitermes,sinonasutitermes,sinqasapatermes,spatulitermes,subulioiditermes,subulitermes,tarditermes,tenuirostritermes,tiunatermes,triangularitermes,trinervitermes,tumulitermes,velocitermes,verrucositermes,xiaitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本亚科范围内全文检索（616 个种与亚种）：名字、分布、模式产地与研究记述</label>

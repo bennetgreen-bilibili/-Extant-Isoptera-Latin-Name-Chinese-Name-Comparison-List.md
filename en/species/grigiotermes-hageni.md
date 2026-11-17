@@ -14,7 +14,7 @@ genus_zh: "灰白蚁属"
 genus_latin: "Grigiotermes"
 genus_id: "grigiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Grigiotermes hageni*** is a species and the type species of the genus *Grigiotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Snyder & Emerson in 1949; the type locality is Argentina: Chaco: Colonia Benítez \[ 27.3333S 58.9333W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]. Distribution: Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago. This site records 1 junior synonym for the species.
+***Grigiotermes hageni*** is a species and the type species of the genus *Grigiotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Snyder & Emerson in 1949; the type locality is Argentina: Chaco: Colonia Benítez \[ 27.3333S 58.9333W \]; Brasil: Mato Grosso do Sul: Ladário, Urucum \[ 19.155S 57.631W \]; Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]. Distribution: Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *hageni*: Named after H. A. Hagen
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Grigiotermes*]({{ site.base_url }}/en/genus/grigiotermes/) — 2 species
 

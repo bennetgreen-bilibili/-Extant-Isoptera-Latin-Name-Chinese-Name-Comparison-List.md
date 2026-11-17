@@ -14,7 +14,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Kalotermes dispar*** es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Grassé en 1938; la localidad tipo es Canary Islands (Spain): La Palma. Distribución según la fuente: Spain.
+***Kalotermes dispar*** es una especie del género *Kalotermes*, en la familia Kalotermitidae. La especie fue descrita por Grassé en 1938; la localidad tipo es Canary Islands (Spain): La Palma. Distribución según la fuente: Spain.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *dispar*: Del término descriptivo «dispar» (desigual)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Kalotermes*]({{ site.base_url }}/es/genus/kalotermes/) — 21 especies
 - **Especie tipo del género**: *Kalotermes flavicollis*
 

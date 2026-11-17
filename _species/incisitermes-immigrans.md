@@ -12,7 +12,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "United States: Hawaii: Hilo; Panama: Ancon; Kiribati: Phoen
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**移境楹白蚁**（*Incisitermes immigrans*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1922 年描述，模式产地为 United States: Hawaii: Honolulu, Oahu。分布记录包括中美洲至波利尼西亚。本种有 3 个次异名。
+**移境楹白蚁**（*Incisitermes immigrans*）是木白蚁科（Kalotermitidae）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1922 年描述，模式产地为 United States: Hawaii: Honolulu, Oahu。分布记录包括中美洲至波利尼西亚。本种有 3 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "United States: Hawaii: Hilo; Panama: Ancon; Kiribati: Phoen
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
 - **本属模式种**：*Incisitermes schwarzi*
 

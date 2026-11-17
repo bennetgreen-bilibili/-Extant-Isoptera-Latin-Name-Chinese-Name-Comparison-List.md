@@ -12,7 +12,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凹额堆砂白蚁**（*Cryptotermes cavifrons*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，也是本属的模式种。本种由 Banks 于 1906 年描述，模式产地为 United States: Florida: Kissimee。分布记录包括北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛。
+**凹额堆砂白蚁**（*Cryptotermes cavifrons*）是木白蚁科（Kalotermitidae）堆砂白蚁属（*Cryptotermes*）的一种，也是本属的模式种。本种由 Banks 于 1906 年描述，模式产地为 United States: Florida: Kissimee。分布记录包括北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
 
 ## 分布

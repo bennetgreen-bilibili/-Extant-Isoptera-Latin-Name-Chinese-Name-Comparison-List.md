@@ -12,7 +12,7 @@ genus_zh: "颚钩白蚁属"
 genus_latin: "Gnathamitermes"
 genus_id: "gnathamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "United States: Arizona: Oracle; United States: California: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**复杂颚钩白蚁**（*Gnathamitermes perplexus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种，也是本属的模式种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Victoria。分布记录包括美国、墨西哥。本种有 6 个次异名。
+**复杂颚钩白蚁**（*Gnathamitermes perplexus*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种，也是本属的模式种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Victoria。分布记录包括美国、墨西哥。本种有 6 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "United States: Arizona: Oracle; United States: California: 
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[颚钩白蚁属 *Gnathamitermes*]({{ site.base_url }}/genus/gnathamitermes/) —— 共 4 种
 

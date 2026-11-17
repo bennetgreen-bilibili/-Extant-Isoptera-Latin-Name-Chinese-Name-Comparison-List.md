@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/189289948/large.jp
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "STOLOTERMITIDAE"
+  - name: "Stolotermitidae"
     url: "/en/family/stolotermitidae/"
   - name: "Porotermes"
     url: "/en/genus/porotermes/"

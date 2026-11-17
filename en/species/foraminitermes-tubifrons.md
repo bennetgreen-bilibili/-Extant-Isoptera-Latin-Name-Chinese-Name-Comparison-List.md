@@ -14,7 +14,7 @@ genus_zh: "孔白蚁属"
 genus_latin: "Foraminitermes"
 genus_id: "foraminitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "孔白蚁亚科"
 subfamily_latin: "Foraminitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Foraminitermes tubifrons*** is a species and the type species of the genus *Foraminitermes*, in the family TERMITIDAE (subfamily Foraminitermitinae). The species was described by Holmgren in 1912; the type locality is Cameroon: Lolodorf. Distribution: Cameroon, Guinea, Côte d'Ivoire, Nigeria.
+***Foraminitermes tubifrons*** is a species and the type species of the genus *Foraminitermes*, in the family Termitidae (subfamily Foraminitermitinae). The species was described by Holmgren in 1912; the type locality is Cameroon: Lolodorf. Distribution: Cameroon, Guinea, Côte d'Ivoire, Nigeria.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *tubifrons*: Latin tubus (tube) + frons (front), tube-fronted
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Foraminitermitinae]({{ site.base_url }}/en/subfamily/foraminitermitinae/) — 3 genera, 10 species
 - **Genus**: [*Foraminitermes*]({{ site.base_url }}/en/genus/foraminitermes/) — 6 species
 

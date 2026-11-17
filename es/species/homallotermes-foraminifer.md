@@ -14,7 +14,7 @@ genus_zh: "平白蚁属"
 genus_latin: "Homallotermes"
 genus_id: "homallotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Malaysia: Penang"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Homallotermes foraminifer*** es una especie y la especie tipo del género *Homallotermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak. Distribución según la fuente: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
+***Homallotermes foraminifer*** es una especie y la especie tipo del género *Homallotermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak. Distribución según la fuente: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *foraminifer*: Del latín foramen (abertura) + -fer (portad
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Homallotermes*]({{ site.base_url }}/es/genus/homallotermes/) — 4 especies
 

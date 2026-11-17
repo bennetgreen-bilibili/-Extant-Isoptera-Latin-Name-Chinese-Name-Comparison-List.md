@@ -14,7 +14,7 @@ genus_zh: "喙白蚁属"
 genus_latin: "Rhynchotermes"
 genus_id: "rhynchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rhynchotermes diphyes*** es una especie del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución según la fuente: Brazil. Este sitio registra 1 sinónimo junior para la especie.
+***Rhynchotermes diphyes*** es una especie del género *Rhynchotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución según la fuente: Brazil. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *diphyes*: Del griego di- (dos) + phyē (naturaleza), doble
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Rhynchotermes*]({{ site.base_url }}/es/genus/rhynchotermes/) — 8 especies
 - **Especie tipo del género**: *Rhynchotermes nasutissimus*

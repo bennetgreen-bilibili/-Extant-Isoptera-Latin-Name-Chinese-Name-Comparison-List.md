@@ -12,7 +12,7 @@ genus_zh: "小白蚁属"
 genus_latin: "Microtermes"
 genus_id: "microtermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大眼小白蚁**（*Microtermes magnoculus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Krishna 于 2013 年描述，模式产地为 Somalia: Villaggio Duca degli Abruzzi。分布记录包括索马里。
+**大眼小白蚁**（*Microtermes magnoculus*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Krishna 于 2013 年描述，模式产地为 Somalia: Villaggio Duca degli Abruzzi。分布记录包括索马里。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种
 - **本属模式种**：*Microtermes incertus*

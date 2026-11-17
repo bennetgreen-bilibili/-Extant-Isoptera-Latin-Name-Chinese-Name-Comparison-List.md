@@ -12,7 +12,7 @@ genus_zh: "宽白蚁属"
 genus_latin: "Eurytermes"
 genus_id: "eurytermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -30,7 +30,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**温和亚种**（*Eurytermes assmuthi modestior*）是阿斯穆斯宽白蚁（*Eurytermes assmuthi*）的一个亚种，隶属白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）。本亚种由 Silvestri 于 1923 年描述，模式产地为 India: Orissa: Chilka Lake: Barkuda Island。本页暂无单列的分布记录，母种 *Eurytermes assmuthi* 的分布见下文「分布」一节。
+**温和亚种**（*Eurytermes assmuthi modestior*）是阿斯穆斯宽白蚁（*Eurytermes assmuthi*）的一个亚种，隶属白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）。本亚种由 Silvestri 于 1923 年描述，模式产地为 India: Orissa: Chilka Lake: Barkuda Island。本页暂无单列的分布记录，母种 *Eurytermes assmuthi* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -42,7 +42,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[宽白蚁属 *Eurytermes*]({{ site.base_url }}/genus/eurytermes/) —— 共 6 种
 - **种**：[阿斯穆斯宽白蚁 *Eurytermes assmuthi*]({{ site.base_url }}/species/eurytermes-assmuthi/)

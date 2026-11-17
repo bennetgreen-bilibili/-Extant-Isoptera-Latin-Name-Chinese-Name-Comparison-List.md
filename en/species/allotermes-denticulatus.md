@@ -14,7 +14,7 @@ genus_zh: "奇白蚁属"
 genus_latin: "Allotermes"
 genus_id: "allotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Allotermes denticulatus*** is a species of the genus *Allotermes*, in the family KALOTERMITIDAE. The species was described by Krishna in 1962; the type locality is Madagascar: 39 km E Tsihombe. Distribution: Madagascar.
+***Allotermes denticulatus*** is a species of the genus *Allotermes*, in the family Kalotermitidae. The species was described by Krishna in 1962; the type locality is Madagascar: 39 km E Tsihombe. Distribution: Madagascar.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *denticulatus*: Latin denticulatus (finely toothed)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Allotermes*]({{ site.base_url }}/en/genus/allotermes/) — 3 species
 - **Type species of the genus**: *Allotermes paradoxus*
 

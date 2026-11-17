@@ -14,7 +14,7 @@ genus_zh: "戟白蚁属"
 genus_latin: "Armitermes"
 genus_id: "armitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Armitermes spininotus*** is a species of the genus *Armitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Rocha & Cancello in 2012; the type locality is Brasil: Minas Gerais: Montes Claros \[16.72S 43.87W\]. Distribution: Brazil.
+***Armitermes spininotus*** is a species of the genus *Armitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Rocha & Cancello in 2012; the type locality is Brasil: Minas Gerais: Montes Claros \[16.72S 43.87W\]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *spininotus*: From spini + notus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Armitermes*]({{ site.base_url }}/en/genus/armitermes/) — 3 species
 - **Type species of the genus**: *Armitermes armiger*

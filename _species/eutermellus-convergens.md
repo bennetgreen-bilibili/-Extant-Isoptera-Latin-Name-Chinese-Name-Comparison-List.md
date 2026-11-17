@@ -12,7 +12,7 @@ genus_zh: "小真白蚁属"
 genus_latin: "Eutermellus"
 genus_id: "eutermellus"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**收敛小真白蚁**（*Eutermellus convergens*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）小真白蚁属（*Eutermellus*）的一种，也是本属的模式种。本种由 Silvestri 于 1912 年描述，模式产地为 Equatorial Guinea: Bioko Island: Basilé。分布记录包括科特迪瓦、喀麦隆、刚果、赤道几内亚、加蓬、加纳、尼日利亚。
+**收敛小真白蚁**（*Eutermellus convergens*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）小真白蚁属（*Eutermellus*）的一种，也是本属的模式种。本种由 Silvestri 于 1912 年描述，模式产地为 Equatorial Guinea: Bioko Island: Basilé。分布记录包括科特迪瓦、喀麦隆、刚果、赤道几内亚、加蓬、加纳、尼日利亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[小真白蚁属 *Eutermellus*]({{ site.base_url }}/genus/eutermellus/) —— 共 5 种
 

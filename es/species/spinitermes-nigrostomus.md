@@ -14,7 +14,7 @@ genus_zh: "针刺白蚁属"
 genus_latin: "Spinitermes"
 genus_id: "spinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Spinitermes nigrostomus*** es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribución según la fuente: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
+***Spinitermes nigrostomus*** es una especie del género *Spinitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribución según la fuente: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *nigrostomus*: Del latín niger (negro) + griego stoma (boc
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Spinitermes*]({{ site.base_url }}/es/genus/spinitermes/) — 5 especies
 - **Especie tipo del género**: *Spinitermes trispinosus*

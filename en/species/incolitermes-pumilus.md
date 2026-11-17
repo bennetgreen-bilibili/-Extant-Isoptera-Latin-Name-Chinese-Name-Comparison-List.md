@@ -14,7 +14,7 @@ genus_zh: "子民白蚁属"
 genus_latin: "Incolitermes"
 genus_id: "incolitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incolitermes pumilus*** is the only extant species of the genus *Incolitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Hill in 1942; the type locality is Australia: New South Wales: Unumgar State Forest, near Mt Lindesay (as Lindsay), near Queensland border. Distribution: Australia.
+***Incolitermes pumilus*** is the only extant species of the genus *Incolitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Hill in 1942; the type locality is Australia: New South Wales: Unumgar State Forest, near Mt Lindesay (as Lindsay), near Queensland border. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *pumilus*: Latin pumilus (dwarf)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Incolitermes*]({{ site.base_url }}/en/genus/incolitermes/) — monotypic, 1 species
 

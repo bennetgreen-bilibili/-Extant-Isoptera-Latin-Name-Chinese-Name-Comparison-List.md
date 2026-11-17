@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes aburiensis*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Aburi. Distribución según la fuente: West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo.
+***Neotermes aburiensis*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Aburi. Distribución según la fuente: West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *aburiensis*: Por la localidad de Abur
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

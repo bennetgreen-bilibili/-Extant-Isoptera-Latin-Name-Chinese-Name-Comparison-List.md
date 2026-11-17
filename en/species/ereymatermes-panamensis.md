@@ -14,7 +14,7 @@ genus_zh: "无名白蚁属"
 genus_latin: "Ereymatermes"
 genus_id: "ereymatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ereymatermes panamensis*** is a species of the genus *Ereymatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Roisin in 1995; the type locality is Panama: Barro Colorado Island. Distribution: Central America, Panama.
+***Ereymatermes panamensis*** is a species of the genus *Ereymatermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Roisin in 1995; the type locality is Panama: Barro Colorado Island. Distribution: Central America, Panama.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *panamensis*: Named after the locality Panam
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Ereymatermes*]({{ site.base_url }}/en/genus/ereymatermes/) — 3 species
 - **Type species of the genus**: *Ereymatermes rotundiceps*

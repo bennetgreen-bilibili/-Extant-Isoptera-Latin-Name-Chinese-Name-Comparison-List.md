@@ -14,7 +14,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -34,7 +34,7 @@ synonym_localities: "Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Promirotermes holmgreni holmgreni*** es una subespecie de *Promirotermes holmgreni*, en la familia TERMITIDAE (subfamilia Promirotermitinae), género *Promirotermes*. La subespecie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama. No se incluye un registro de distribución separado en esta página; véase la especie parental *Promirotermes holmgreni* más abajo. Este sitio registra 1 sinónimo junior para la subespecie.
+***Promirotermes holmgreni holmgreni*** es una subespecie de *Promirotermes holmgreni*, en la familia Termitidae (subfamilia Promirotermitinae), género *Promirotermes*. La subespecie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama. No se incluye un registro de distribución separado en esta página; véase la especie parental *Promirotermes holmgreni* más abajo. Este sitio registra 1 sinónimo junior para la subespecie.
 
 ## Etimología
 
@@ -46,7 +46,7 @@ Epíteto específico *holmgreni*: En honor del taxónomo de termitas N. Holmgren
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Promirotermitinae]({{ site.base_url }}/es/subfamily/promirotermitinae/) — 2 géneros, 39 especies
 - **Género**: [*Promirotermes*]({{ site.base_url }}/es/genus/promirotermes/) — 10 especies
 - **Especie**: [*Promirotermes holmgreni*]({{ site.base_url }}/es/species/promirotermes-holmgreni/)

@@ -14,7 +14,7 @@ genus_zh: "喙白蚁属"
 genus_latin: "Rhynchotermes"
 genus_id: "rhynchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rhynchotermes armatus*** es una especie del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Scheffrahn en 2019; la localidad tipo es Colombia: Cundinamarca: Pandi \[4.19N 74.486W\]. Distribución según la fuente: Colombia.
+***Rhynchotermes armatus*** es una especie del género *Rhynchotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Scheffrahn en 2019; la localidad tipo es Colombia: Cundinamarca: Pandi \[4.19N 74.486W\]. Distribución según la fuente: Colombia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *armatus*: De arm (armado) + atus (que posee)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Rhynchotermes*]({{ site.base_url }}/es/genus/rhynchotermes/) — 8 especies
 - **Especie tipo del género**: *Rhynchotermes nasutissimus*

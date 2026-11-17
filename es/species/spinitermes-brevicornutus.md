@@ -14,7 +14,7 @@ genus_zh: "针刺白蚁属"
 genus_latin: "Spinitermes"
 genus_id: "spinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Spinitermes brevicornutus*** es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución según la fuente: French Guiana, Colombia, Argentina, Bolivia, Brazil, Paraguay.
+***Spinitermes brevicornutus*** es una especie del género *Spinitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución según la fuente: French Guiana, Colombia, Argentina, Bolivia, Brazil, Paraguay.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *brevicornutus*: Del término descriptivo «brev» (corto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Spinitermes*]({{ site.base_url }}/es/genus/spinitermes/) — 5 especies
 - **Especie tipo del género**: *Spinitermes trispinosus*

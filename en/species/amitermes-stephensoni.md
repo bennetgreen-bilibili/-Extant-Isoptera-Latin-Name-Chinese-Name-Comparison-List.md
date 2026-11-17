@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Amitermes stephensoni*** is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Harris in 1957; the type locality is Yemen: Hadhramaut; Seiyun (Saiun). Distribution: Guinea, Iran, Kenya, Nigeria, Oman, Saudi Arabia, Sudan, Yemen.
+***Amitermes stephensoni*** is a species of the genus *Amitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Harris in 1957; the type locality is Yemen: Hadhramaut; Seiyun (Saiun). Distribution: Guinea, Iran, Kenya, Nigeria, Oman, Saudi Arabia, Sudan, Yemen.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *stephensoni*: Named after a person "Stephenson" (identity unco
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Amitermes*]({{ site.base_url }}/en/genus/amitermes/) — 113 species
 - **Type species of the genus**: *Amitermes amifer*

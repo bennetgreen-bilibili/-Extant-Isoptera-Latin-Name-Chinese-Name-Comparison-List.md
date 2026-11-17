@@ -14,7 +14,7 @@ genus_zh: "解甲白蚁属"
 genus_latin: "Anoplotermes"
 genus_id: "anoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anoplotermes pacificus*** es una especie y la especie tipo del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribución según la fuente: Brazil, Amazon region. Este sitio registra 1 sinónimo junior para la especie.
+***Anoplotermes pacificus*** es una especie y la especie tipo del género *Anoplotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribución según la fuente: Brazil, Amazon region. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *pacificus*: Del latín pacificus, del Pacífico
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Anoplotermes*]({{ site.base_url }}/es/genus/anoplotermes/) — 23 especies
 

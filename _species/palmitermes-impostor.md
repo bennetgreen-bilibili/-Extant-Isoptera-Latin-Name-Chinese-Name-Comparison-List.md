@@ -12,7 +12,7 @@ genus_zh: "棕榈白蚁属"
 genus_latin: "Palmitermes"
 genus_id: "palmitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**骗子棕榈白蚁**（*Palmitermes impostor*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）棕榈白蚁属（*Palmitermes*）的现存唯一种。本种由 Hellemans & Roisin 于 2017 年描述，模式产地为 French Guiana: Petit Saut \[5.07N 53.032W\]。分布记录包括澳大利亚、巴西、法属圭亚那。
+**骗子棕榈白蚁**（*Palmitermes impostor*）是白蚁科（Termitidae）白蚁亚科（Termitinae）棕榈白蚁属（*Palmitermes*）的现存唯一种。本种由 Hellemans & Roisin 于 2017 年描述，模式产地为 French Guiana: Petit Saut \[5.07N 53.032W\]。分布记录包括澳大利亚、巴西、法属圭亚那。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[棕榈白蚁属 *Palmitermes*]({{ site.base_url }}/genus/palmitermes/) —— 单型属，仅含 1 种
 

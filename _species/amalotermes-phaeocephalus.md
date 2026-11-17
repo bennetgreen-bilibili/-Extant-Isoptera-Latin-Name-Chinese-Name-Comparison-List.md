@@ -12,7 +12,7 @@ genus_zh: "软白蚁属"
 genus_latin: "Amalotermes"
 genus_id: "amalotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**暗头软白蚁**（*Amalotermes phaeocephalus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）软白蚁属（*Amalotermes*）的现存唯一种。本种由 Sands 于 1972 年描述，模式产地为 Nigeria: Eastern Region: 40 mi from Port Harcourt on Owerri Road。分布记录包括中非、刚果盆地、喀麦隆、刚果（布）、刚果民主共和国、加蓬、尼日利亚。
+**暗头软白蚁**（*Amalotermes phaeocephalus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）软白蚁属（*Amalotermes*）的现存唯一种。本种由 Sands 于 1972 年描述，模式产地为 Nigeria: Eastern Region: 40 mi from Port Harcourt on Owerri Road。分布记录包括中非、刚果盆地、喀麦隆、刚果（布）、刚果民主共和国、加蓬、尼日利亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[软白蚁属 *Amalotermes*]({{ site.base_url }}/genus/amalotermes/) —— 单型属，仅含 1 种
 

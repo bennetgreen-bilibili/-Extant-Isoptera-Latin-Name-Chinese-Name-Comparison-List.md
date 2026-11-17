@@ -14,7 +14,7 @@ genus_zh: "客白蚁属"
 genus_latin: "Inquilinitermes"
 genus_id: "inquilinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Inquilinitermes inquilinus*** es una especie del género *Inquilinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución según la fuente: Brazil, French Guiana, Colombia, Guyana.
+***Inquilinitermes inquilinus*** es una especie del género *Inquilinitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución según la fuente: Brazil, French Guiana, Colombia, Guyana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *inquilinus*: Del latín inquilinus (inquilino)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Inquilinitermes*]({{ site.base_url }}/es/genus/inquilinitermes/) — 4 especies
 - **Especie tipo del género**: *Inquilinitermes fur*

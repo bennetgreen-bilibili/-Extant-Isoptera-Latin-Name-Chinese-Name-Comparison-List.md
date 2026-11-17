@@ -14,7 +14,7 @@ genus_zh: "棱角白蚁属"
 genus_latin: "Angularitermes"
 genus_id: "angularitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Angularitermes orestes*** es una especie del género *Angularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Araujo en 1970; la localidad tipo es Brasil: Minas Gerais: Serra do Curral \[19.9667S 43.9167W\]. Distribución según la fuente: Brazil.
+***Angularitermes orestes*** es una especie del género *Angularitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Araujo en 1970; la localidad tipo es Brasil: Minas Gerais: Serra do Curral \[19.9667S 43.9167W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *orestes*: Del griego Orestes (habitante de montañas, o el
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Angularitermes*]({{ site.base_url }}/es/genus/angularitermes/) — 6 especies
 - **Especie tipo del género**: *Angularitermes nasutissimus*

@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Rhinotermitinae_%281
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "鼻白蚁科 RHINOTERMITIDAE"
+  - name: "鼻白蚁科 Rhinotermitidae"
     url: "/family/rhinotermitidae/"
   - name: "鼻白蚁属 Rhinotermes"
     url: "/genus/rhinotermes/"

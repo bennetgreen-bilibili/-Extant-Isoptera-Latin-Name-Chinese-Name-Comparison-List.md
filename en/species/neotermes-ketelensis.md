@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes ketelensis*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Kemner in 1932; the type locality is Indonesia: Djampea Island, Poeloe Ketela, between Sulawesi and Flores. Distribution: Indonesia.
+***Neotermes ketelensis*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Kemner in 1932; the type locality is Indonesia: Djampea Island, Poeloe Ketela, between Sulawesi and Flores. Distribution: Indonesia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *ketelensis*: Named after the locality Ketel
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

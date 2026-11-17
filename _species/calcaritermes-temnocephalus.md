@@ -12,7 +12,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**切头距白蚁**（*Calcaritermes temnocephalus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本种有 1 个次异名。
+**切头距白蚁**（*Calcaritermes temnocephalus*）是木白蚁科（Kalotermitidae）距白蚁属（*Calcaritermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种
 - **本属模式种**：*Calcaritermes imminens*
 

@@ -14,7 +14,7 @@ genus_zh: "木象白蚁属"
 genus_latin: "Diwaitermes"
 genus_id: "diwaitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Solomon Islands: Malayta Island: Auki; Vanuatu: Nendo Islan
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Diwaitermes kanehirai*** is a species and the type species of the genus *Diwaitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Oshima in 1914; the type locality is Indonesia: Maluku: Aru Island: Dobo. Distribution: Indonesia, Solomon Islands, Australia, Papua New Guinea, Vanuatu. This site records 6 junior synonyms for the species.
+***Diwaitermes kanehirai*** is a species and the type species of the genus *Diwaitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Oshima in 1914; the type locality is Indonesia: Maluku: Aru Island: Dobo. Distribution: Indonesia, Solomon Islands, Australia, Papua New Guinea, Vanuatu. This site records 6 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *kanehirai*: Named after Ryōzō Kanehira
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Diwaitermes*]({{ site.base_url }}/en/genus/diwaitermes/) — 3 species
 

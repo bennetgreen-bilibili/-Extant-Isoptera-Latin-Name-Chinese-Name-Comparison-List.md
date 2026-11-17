@@ -12,7 +12,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Brasil: Pará; Panama: Obispo"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**细瘦异白蚁**（*Heterotermes tenuis*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?。分布记录包括新热带界、南美至中美洲、墨西哥、蒙特塞拉特、美国、巴哈马、巴巴多斯、古巴、多米尼克、多米尼加共和国、格林纳达、法属瓜德罗普、海地、牙买加、法属马提尼克、波多黎各、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛。本种有 2 个次异名。
+**细瘦异白蚁**（*Heterotermes tenuis*）是异白蚁科（Heterotermitidae）异白蚁属（*Heterotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?。分布记录包括新热带界、南美至中美洲、墨西哥、蒙特塞拉特、美国、巴哈马、巴巴多斯、古巴、多米尼克、多米尼加共和国、格林纳达、法属瓜德罗普、海地、牙买加、法属马提尼克、波多黎各、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Brasil: Pará; Panama: Obispo"
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种
 - **本属模式种**：*Heterotermes platycephalus*
 

@@ -14,7 +14,7 @@ genus_zh: "闯白蚁属"
 genus_latin: "Invasitermes"
 genus_id: "invasitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Invasitermes insitivus*** es una especie del género *Invasitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hill en 1929; la localidad tipo es Australia: Queensland: Townsville. Distribución según la fuente: Australia.
+***Invasitermes insitivus*** es una especie del género *Invasitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Hill en 1929; la localidad tipo es Australia: Queensland: Townsville. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *insitivus*: Del latín insitivus (injertado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Invasitermes*]({{ site.base_url }}/es/genus/invasitermes/) — 2 especies
 - **Especie tipo del género**: *Invasitermes inermis*

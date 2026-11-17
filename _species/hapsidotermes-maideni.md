@@ -12,7 +12,7 @@ genus_zh: "络白蚁属"
 genus_latin: "Hapsidotermes"
 genus_id: "hapsidotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**梅登络白蚁**（*Hapsidotermes maideni*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cooktown。分布记录包括澳大利亚。
+**梅登络白蚁**（*Hapsidotermes maideni*）是白蚁科（Termitidae）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cooktown。分布记录包括澳大利亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[络白蚁属 *Hapsidotermes*]({{ site.base_url }}/genus/hapsidotermes/) —— 共 5 种
 - **本属模式种**：*Hapsidotermes harrisi*

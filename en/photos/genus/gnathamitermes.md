@@ -20,7 +20,7 @@ back_label: "颚钩白蚁属 Gnathamitermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Amitermitinae"
     url: "/en/subfamily/amitermitinae/"

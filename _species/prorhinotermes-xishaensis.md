@@ -12,7 +12,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西沙原鼻白蚁**（*Prorhinotermes xishaensis*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Li & Tsai 于 1976 年描述，模式产地为 China: Xisha Island。分布记录包括中国、西沙群岛。
+**西沙原鼻白蚁**（*Prorhinotermes xishaensis*）是沙白蚁科（Psammotermitidae）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Li & Tsai 于 1976 年描述，模式产地为 China: Xisha Island。分布记录包括中国、西沙群岛。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **科**：[沙白蚁科 Psammotermitidae]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
 - **属**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种
 - **本属模式种**：*Prorhinotermes inopinatus*
 

@@ -14,7 +14,7 @@ genus_zh: "胖白蚁属"
 genus_latin: "Rounditermes"
 genus_id: "rounditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Rounditermes dechambrei*** is the only extant species of the genus *Rounditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ensaf, Ponchel & Nel in 2003; the type locality is French Guiana: Highway N1 between Kourou and Sinnamary \[5.2675N 52.8083W\]. Distribution: French Guiana.
+***Rounditermes dechambrei*** is the only extant species of the genus *Rounditermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Ensaf, Ponchel & Nel in 2003; the type locality is French Guiana: Highway N1 between Kourou and Sinnamary \[5.2675N 52.8083W\]. Distribution: French Guiana.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *dechambrei*: Named after Dechambre
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Rounditermes*]({{ site.base_url }}/en/genus/rounditermes/) — monotypic, 1 species
 

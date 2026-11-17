@@ -14,7 +14,7 @@ genus_zh: "锥白蚁属"
 genus_latin: "Subulitermes"
 genus_id: "subulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Mato Grosso do Sul: Corumbá, Santo Domingos [19.23
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Subulitermes microsoma*** is a species and the type species of the genus *Subulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1903; the type locality is Argentina: Misiones: Posadas \[27.37S 55.9W\]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribution: Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay. This site records 1 junior synonym for the species.
+***Subulitermes microsoma*** is a species and the type species of the genus *Subulitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Silvestri in 1903; the type locality is Argentina: Misiones: Posadas \[27.37S 55.9W\]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribution: Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *microsoma*: Greek mikros (small) + sōma (body), small-bodied
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Subulitermes*]({{ site.base_url }}/en/genus/subulitermes/) — 6 species
 

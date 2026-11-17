@@ -12,7 +12,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Taiwan: Botel Tobago, Lan Yü); Taiwan: Botel Tobago, Lan Y
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**截头堆砂白蚁**（*Cryptotermes domesticus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括东洋界至澳洲界、东南亚、中国南部至太平洋岛屿、厄瓜多尔、加拿大、哥斯达黎加、巴拿马、星期四岛（澳大利亚）、特立尼达和多巴哥、特罗梅林岛（法国）。本种有 11 个次异名。
+**截头堆砂白蚁**（*Cryptotermes domesticus*）是木白蚁科（Kalotermitidae）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括东洋界至澳洲界、东南亚、中国南部至太平洋岛屿、厄瓜多尔、加拿大、哥斯达黎加、巴拿马、星期四岛（澳大利亚）、特立尼达和多巴哥、特罗梅林岛（法国）。本种有 11 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Taiwan: Botel Tobago, Lan Yü); Taiwan: Botel Tobago, Lan Y
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
 - **本属模式种**：*Cryptotermes cavifrons*
 

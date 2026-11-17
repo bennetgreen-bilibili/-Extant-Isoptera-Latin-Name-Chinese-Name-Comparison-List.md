@@ -14,7 +14,7 @@ genus_zh: "突扭白蚁属"
 genus_latin: "Dicuspiditermes"
 genus_id: "dicuspiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Myanmar: Maymyo; Vietnam: Cau Da; India: Tripura: Tiliamura
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Dicuspiditermes laetus*** es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Myanmar: Lower Myanmar: east side of Dawna Hills, Sukli. Distribución según la fuente: Southeast Asia, Thailand, Bangladesh, Cambodia, China, India, Malaysia, Myanmar, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
+***Dicuspiditermes laetus*** es una especie del género *Dicuspiditermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Myanmar: Lower Myanmar: east side of Dawna Hills, Sukli. Distribución según la fuente: Southeast Asia, Thailand, Bangladesh, Cambodia, China, India, Malaysia, Myanmar, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *laetus*: Del latín laetus (alegre, vivo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Dicuspiditermes*]({{ site.base_url }}/es/genus/dicuspiditermes/) — 21 especies
 - **Especie tipo del género**: *Dicuspiditermes obtusus*

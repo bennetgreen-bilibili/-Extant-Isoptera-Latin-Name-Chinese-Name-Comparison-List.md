@@ -35,7 +35,7 @@
  "families": [
   {
    "zh": "古白蚁科",
-   "latin": "ARCHOTERMOPSIDAE",
+   "latin": "Archotermopsidae",
    "id": "archotermopsidae",
    "genera": [
     {
@@ -104,7 +104,7 @@
   },
   {
    "zh": "草白蚁科",
-   "latin": "HODOTERMITIDAE",
+   "latin": "Hodotermitidae",
    "id": "hodotermitidae",
    "genera": [
     {
@@ -285,7 +285,7 @@
   },
   {
    "zh": "原白蚁科",
-   "latin": "HODOTERMOPSIDAE",
+   "latin": "Hodotermopsidae",
    "id": "hodotermopsidae",
    "genera": [
     {
@@ -308,7 +308,7 @@
   },
   {
    "zh": "胄白蚁科",
-   "latin": "STOLOTERMITIDAE",
+   "latin": "Stolotermitidae",
    "id": "stolotermitidae",
    "genera": [
     {

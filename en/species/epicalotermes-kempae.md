@@ -14,7 +14,7 @@ genus_zh: "上木白蚁属"
 genus_latin: "Epicalotermes"
 genus_id: "epicalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Epicalotermes kempae*** is a species of the genus *Epicalotermes*, in the family KALOTERMITIDAE. The species was described by Wilkinson in 1954; the type locality is Tanzania: Tanga District: Mwakijembe. Distribution: Kenya, Tanzania.
+***Epicalotermes kempae*** is a species of the genus *Epicalotermes*, in the family Kalotermitidae. The species was described by Wilkinson in 1954; the type locality is Tanzania: Tanga District: Mwakijembe. Distribution: Kenya, Tanzania.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *kempae*: Named after Kemp
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Epicalotermes*]({{ site.base_url }}/en/genus/epicalotermes/) — 6 species
 - **Type species of the genus**: *Epicalotermes aethiopicus*
 

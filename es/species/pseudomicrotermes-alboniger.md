@@ -14,7 +14,7 @@ genus_zh: "伪小白蚁属"
 genus_latin: "Pseudomicrotermes"
 genus_id: "pseudomicrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "孔白蚁亚科"
 subfamily_latin: "Foraminitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pseudomicrotermes alboniger*** es la única especie viviente del género *Pseudomicrotermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Democratic Republic of the Congo: Sankuru. Distribución según la fuente: Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa).
+***Pseudomicrotermes alboniger*** es la única especie viviente del género *Pseudomicrotermes*, en la familia Termitidae (subfamilia Foraminitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Democratic Republic of the Congo: Sankuru. Distribución según la fuente: Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa).
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *alboniger*: De alboni (blanco) + ger (que lleva)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Foraminitermitinae]({{ site.base_url }}/es/subfamily/foraminitermitinae/) — 3 géneros, 10 especies
 - **Género**: [*Pseudomicrotermes*]({{ site.base_url }}/es/genus/pseudomicrotermes/) — monotípico, 1 especie
 

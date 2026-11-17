@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: "KALOTERMITIDAE 木白蚁科 — all photos (566, 44 species)"
-description: "Freely licensed photos of the 44 species in the family KALOTERMITIDAE (木白蚁科), 566 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
+title: "Kalotermitidae 木白蚁科 — all photos (566, 44 species)"
+description: "Freely licensed photos of the 44 species in the family Kalotermitidae (木白蚁科), 566 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
 lang: en
 single_lang: true
 author: 班奈特格林
@@ -11,12 +11,12 @@ permalink: "/en/family/kalotermitidae/photos/"
 sitemap: true
 photo_kind: family
 photo_id: "kalotermitidae"
-photo_latin: "KALOTERMITIDAE"
+photo_latin: "Kalotermitidae"
 photo_zh: "木白蚁科"
 photo_count: 566
 photo_species: 44
 back_url: "/family/kalotermitidae/"
-back_label: "木白蚁科 KALOTERMITIDAE"
+back_label: "木白蚁科 Kalotermitidae"
 breadcrumb:
   - name: "List"
     url: "/en/list/"

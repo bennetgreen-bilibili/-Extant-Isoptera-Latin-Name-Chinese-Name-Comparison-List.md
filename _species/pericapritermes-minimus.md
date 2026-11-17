@@ -12,7 +12,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Cameroon: River Nyong, 16 km south of Makak"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**最小近扭白蚁**（*Pericapritermes minimus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Weidner 于 1956 年描述，模式产地为 Angola: Dundo。分布记录包括安哥拉、喀麦隆、刚果民主共和国。本种有 1 个次异名。
+**最小近扭白蚁**（*Pericapritermes minimus*）是白蚁科（Termitidae）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Weidner 于 1956 年描述，模式产地为 Angola: Dundo。分布记录包括安哥拉、喀麦隆、刚果民主共和国。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Cameroon: River Nyong, 16 km south of Makak"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
 - **属**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种
 - **本属模式种**：*Pericapritermes urgens*

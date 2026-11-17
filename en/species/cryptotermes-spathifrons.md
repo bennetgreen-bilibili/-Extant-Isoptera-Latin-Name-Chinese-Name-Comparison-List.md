@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes spathifrons*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn & Krecek in 1999; the type locality is Cayman Islands: Little Cayman Island: Jackson’s Point. Distribution: Cayman Islands, Cuba, Dominican Republic.
+***Cryptotermes spathifrons*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Scheffrahn & Krecek in 1999; the type locality is Cayman Islands: Little Cayman Island: Jackson’s Point. Distribution: Cayman Islands, Cuba, Dominican Republic.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *spathifrons*: From spathi + frons
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes sanctaecrucis*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1925; la localidad tipo es Solomon Islands: Santa Cruz Archipelago: Graciosa Bay. Distribución según la fuente: Solomon Islands, Vanuatu.
+***Neotermes sanctaecrucis*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Snyder en 1925; la localidad tipo es Solomon Islands: Santa Cruz Archipelago: Graciosa Bay. Distribución según la fuente: Solomon Islands, Vanuatu.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *sanctaecrucis*: Del latín sancta (santa) + crux (cruz), s
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

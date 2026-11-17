@@ -12,7 +12,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**游荡无刺白蚁**（*Anacanthotermes vagans*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Iran: Shiraz, "Karak Island," Persian Gulf。分布记录包括中东、伊朗、阿富汗、伊拉克、科威特、巴基斯坦、沙特阿拉伯。
+**游荡无刺白蚁**（*Anacanthotermes vagans*）是草白蚁科（Hodotermitidae）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Iran: Shiraz, "Karak Island," Persian Gulf。分布记录包括中东、伊朗、阿富汗、伊拉克、科威特、巴基斯坦、沙特阿拉伯。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种
 - **本属模式种**：*Anacanthotermes ochraceus*
 

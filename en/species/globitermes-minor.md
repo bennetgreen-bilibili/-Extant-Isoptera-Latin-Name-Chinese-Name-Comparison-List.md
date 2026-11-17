@@ -14,7 +14,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Globitermes minor*** is a species of the genus *Globitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Han in 1987; the type locality is China: Yunnan Province: Damenglong. Distribution: Yunnan (Jinghong Damenglong), China.
+***Globitermes minor*** is a species of the genus *Globitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Han in 1987; the type locality is China: Yunnan Province: Damenglong. Distribution: Yunnan (Jinghong Damenglong), China.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *minor*: Latin minor (smaller)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Globitermes*]({{ site.base_url }}/en/genus/globitermes/) — 7 species
 - **Type species of the genus**: *Globitermes globosus*

@@ -12,7 +12,7 @@ genus_zh: "小瘤白蚁属"
 genus_latin: "Tuberculitermes"
 genus_id: "tuberculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**弯曲小瘤白蚁**（*Tuberculitermes flexuosus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）小瘤白蚁属（*Tuberculitermes*）的一种。本种由 Roy-Noël 于 1969 年描述，模式产地为 Senegal: Niokolo-Koba region, near pool of Siminti。分布记录包括西非、布基纳法索。
+**弯曲小瘤白蚁**（*Tuberculitermes flexuosus*）是白蚁科（Termitidae）白蚁亚科（Termitinae）小瘤白蚁属（*Tuberculitermes*）的一种。本种由 Roy-Noël 于 1969 年描述，模式产地为 Senegal: Niokolo-Koba region, near pool of Siminti。分布记录包括西非、布基纳法索。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[小瘤白蚁属 *Tuberculitermes*]({{ site.base_url }}/genus/tuberculitermes/) —— 共 3 种
 - **本属模式种**：*Tuberculitermes bycanistes*

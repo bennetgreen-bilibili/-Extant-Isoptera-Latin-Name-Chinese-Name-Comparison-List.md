@@ -12,7 +12,7 @@ genus_zh: "亮白蚁属"
 genus_latin: "Euhamitermes"
 genus_id: "euhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大围亮白蚁**（*Euhamitermes daweishanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种。本种由 Ping 于 1987 年描述，模式产地为 China: Yunnan Province: Dawei Mountain of Pingbian County。分布记录包括中国、云南。
+**大围亮白蚁**（*Euhamitermes daweishanensis*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种。本种由 Ping 于 1987 年描述，模式产地为 China: Yunnan Province: Dawei Mountain of Pingbian County。分布记录包括中国、云南。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[亮白蚁属 *Euhamitermes*]({{ site.base_url }}/genus/euhamitermes/) —— 共 24 种
 - **本属模式种**：*Euhamitermes hamatus*

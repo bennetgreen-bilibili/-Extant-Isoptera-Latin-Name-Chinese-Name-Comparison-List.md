@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: "沙白蚁科 PSAMMOTERMITIDAE 全部图片（10 张，1 种）"
-description: "沙白蚁科（PSAMMOTERMITIDAE）科下 1 个种的开放许可照片，共 10 张，来自 iNaturalist 与 Wikimedia Commons；按种分组，每个种可继续查看其全部照片。"
+title: "沙白蚁科 Psammotermitidae 全部图片（10 张，1 种）"
+description: "沙白蚁科（Psammotermitidae）科下 1 个种的开放许可照片，共 10 张，来自 iNaturalist 与 Wikimedia Commons；按种分组，每个种可继续查看其全部照片。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -11,12 +11,12 @@ permalink: "/family/psammotermitidae/photos/"
 sitemap: true
 photo_kind: family
 photo_id: "psammotermitidae"
-photo_latin: "PSAMMOTERMITIDAE"
+photo_latin: "Psammotermitidae"
 photo_zh: "沙白蚁科"
 photo_count: 10
 photo_species: 1
 back_url: "/family/psammotermitidae/"
-back_label: "沙白蚁科 PSAMMOTERMITIDAE"
+back_label: "沙白蚁科 Psammotermitidae"
 breadcrumb:
   - name: "名录"
     url: "/list/"

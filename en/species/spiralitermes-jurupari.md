@@ -14,7 +14,7 @@ genus_zh: "螺旋白蚁属"
 genus_latin: "Spiralitermes"
 genus_id: "spiralitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Spiralitermes jurupari*** is the only extant species of the genus *Spiralitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Almeida-Azevedo, Rocha, Morais & Azevedo in 2026; the type locality is Brazil: Amazon Rainforest. Distribution: Amazon Rainforest.
+***Spiralitermes jurupari*** is the only extant species of the genus *Spiralitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Almeida-Azevedo, Rocha, Morais & Azevedo in 2026; the type locality is Brazil: Amazon Rainforest. Distribution: Amazon Rainforest.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *jurupari*: Named after Jurupari (Amazonian mythological figure
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Spiralitermes*]({{ site.base_url }}/en/genus/spiralitermes/) — monotypic, 1 species
 

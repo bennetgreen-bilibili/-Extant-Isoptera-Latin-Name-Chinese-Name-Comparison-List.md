@@ -12,7 +12,7 @@ genus_zh: "无甲白蚁属"
 genus_latin: "Anenteotermes"
 genus_id: "anenteotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**侏儒无甲白蚁**（*Anenteotermes nanus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括喀麦隆、刚果共和国、刚果民主共和国。
+**侏儒无甲白蚁**（*Anenteotermes nanus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括喀麦隆、刚果共和国、刚果民主共和国。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[无甲白蚁属 *Anenteotermes*]({{ site.base_url }}/genus/anenteotermes/) —— 共 11 种
 - **本属模式种**：*Anenteotermes disluctans*

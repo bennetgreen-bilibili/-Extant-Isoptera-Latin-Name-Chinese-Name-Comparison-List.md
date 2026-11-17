@@ -14,7 +14,7 @@ genus_zh: "锐尖白蚁属"
 genus_latin: "Mucrotermes"
 genus_id: "mucrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mucrotermes osborni*** es una especie y la especie tipo del género *Mucrotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Old World tropics, Democratic Republic of the Congo.
+***Mucrotermes osborni*** es una especie y la especie tipo del género *Mucrotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Old World tropics, Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *osborni*: En honor del entomólogo H. Osborn
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Mucrotermes*]({{ site.base_url }}/es/genus/mucrotermes/) — 2 especies
 

@@ -12,7 +12,7 @@ genus_zh: "恩格尔白蚁属"
 genus_latin: "Engelitermes"
 genus_id: "engelitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "恩格尔白蚁亚科"
 subfamily_latin: "Engelitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**赞博恩格尔白蚁**（*Engelitermes zambo*）是白蚁科（TERMITIDAE）恩格尔白蚁亚科（Engelitermitinae）恩格尔白蚁属（*Engelitermes*）的现存唯一种。本种由 Romero-Arias, Roisin & Scheffrahn 于 2023 年描述，模式产地为 Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]。分布记录包括喀麦隆。
+**赞博恩格尔白蚁**（*Engelitermes zambo*）是白蚁科（Termitidae）恩格尔白蚁亚科（Engelitermitinae）恩格尔白蚁属（*Engelitermes*）的现存唯一种。本种由 Romero-Arias, Roisin & Scheffrahn 于 2023 年描述，模式产地为 Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]。分布记录包括喀麦隆。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[恩格尔白蚁亚科 Engelitermitinae]({{ site.base_url }}/subfamily/engelitermitinae/) —— 本站收录 1 属 1 种
 - **属**：[恩格尔白蚁属 *Engelitermes*]({{ site.base_url }}/genus/engelitermes/) —— 单型属，仅含 1 种
 

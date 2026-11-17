@@ -14,7 +14,7 @@ genus_zh: "稀白蚁属"
 genus_latin: "Speculitermes"
 genus_id: "speculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Speculitermes cyclops*** is a species and the type species of the genus *Speculitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Wasmann in 1902; the type locality is India: Maharashtra, near Bombay: Khandala. Distribution: South Asia, India.
+***Speculitermes cyclops*** is a species and the type species of the genus *Speculitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Wasmann in 1902; the type locality is India: Maharashtra, near Bombay: Khandala. Distribution: South Asia, India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *cyclops*: Greek kyklops (cyclops, round-eyed)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Speculitermes*]({{ site.base_url }}/en/genus/speculitermes/) — 13 species
 

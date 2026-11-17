@@ -14,7 +14,7 @@ genus_zh: "等颚白蚁属"
 genus_latin: "Isognathotermes"
 genus_id: "isognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ type_locality: "Malawi: Dowa-Lilongwe road [ 13.65S 33.85E ]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Isognathotermes ugandensis malawii*** is a subspecies of *Isognathotermes ugandensis*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Isognathotermes*. The subspecies was described by Josens & Deligne in 2025; the type locality is Malawi: Dowa-Lilongwe road \[ 13.65S 33.85E \]. No separate distribution record is listed on this page; see the parent species *Isognathotermes ugandensis* below.
+***Isognathotermes ugandensis malawii*** is a subspecies of *Isognathotermes ugandensis*, in the family Termitidae (subfamily Cubitermitinae), genus *Isognathotermes*. The subspecies was described by Josens & Deligne in 2025; the type locality is Malawi: Dowa-Lilongwe road \[ 13.65S 33.85E \]. No separate distribution record is listed on this page; see the parent species *Isognathotermes ugandensis* below.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *malawii*: Named after Malawi
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Isognathotermes*]({{ site.base_url }}/en/genus/isognathotermes/) — 16 species
 - **Species**: [*Isognathotermes ugandensis*]({{ site.base_url }}/en/species/isognathotermes-ugandensis/)

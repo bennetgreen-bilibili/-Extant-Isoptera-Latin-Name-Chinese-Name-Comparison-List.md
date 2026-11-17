@@ -14,7 +14,7 @@ genus_zh: "长足白蚁属"
 genus_latin: "Longipeditermes"
 genus_id: "longipeditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Longipeditermes kistneri*** es una especie del género *Longipeditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Ahmad en 1985; la localidad tipo es Indonesia: Java: Lengkong Forest Reserve. Distribución según la fuente: Malaysia, Indonesia.
+***Longipeditermes kistneri*** es una especie del género *Longipeditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Ahmad en 1985; la localidad tipo es Indonesia: Java: Lengkong Forest Reserve. Distribución según la fuente: Malaysia, Indonesia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *kistneri*: En honor del entomólogo D. H. Kistner
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Longipeditermes*]({{ site.base_url }}/es/genus/longipeditermes/) — 2 especies
 - **Especie tipo del género**: *Longipeditermes longipes*

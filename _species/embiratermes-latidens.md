@@ -12,7 +12,7 @@ genus_zh: "生白蚁属"
 genus_latin: "Embiratermes"
 genus_id: "embiratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽齿生白蚁**（*Embiratermes latidens*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Emerson & Banks 于 1957 年描述，模式产地为 Brasil: Amazonas: Autazes, Rio Autaz \[3.58S 59.125W\]。分布记录包括巴西、玻利维亚、哥伦比亚、巴拉圭、秘鲁、苏里南、委内瑞拉。
+**宽齿生白蚁**（*Embiratermes latidens*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Emerson & Banks 于 1957 年描述，模式产地为 Brasil: Amazonas: Autazes, Rio Autaz \[3.58S 59.125W\]。分布记录包括巴西、玻利维亚、哥伦比亚、巴拉圭、秘鲁、苏里南、委内瑞拉。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/genus/embiratermes/) —— 共 9 种
 - **本属模式种**：*Embiratermes festivellus*

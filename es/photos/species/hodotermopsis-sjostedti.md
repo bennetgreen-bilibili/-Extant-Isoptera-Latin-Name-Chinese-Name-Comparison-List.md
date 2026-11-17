@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Hodotermopsis_sjoste
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "HODOTERMOPSIDAE"
+  - name: "Hodotermopsidae"
     url: "/es/family/hodotermopsidae/"
   - name: "Hodotermopsis"
     url: "/es/genus/hodotermopsis/"

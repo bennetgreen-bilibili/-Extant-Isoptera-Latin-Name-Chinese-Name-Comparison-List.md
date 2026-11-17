@@ -43,7 +43,7 @@
  "families": [
   {
    "zh": "沙白蚁科",
-   "latin": "PSAMMOTERMITIDAE",
+   "latin": "Psammotermitidae",
    "id": "psammotermitidae",
    "genera": [
     {
@@ -194,7 +194,7 @@
   },
   {
    "zh": "鼻白蚁科",
-   "latin": "RHINOTERMITIDAE",
+   "latin": "Rhinotermitidae",
    "id": "rhinotermitidae",
    "genera": [
     {
@@ -680,7 +680,7 @@
   },
   {
    "zh": "齿白蚁科",
-   "latin": "SERRITERMITIDAE",
+   "latin": "Serritermitidae",
    "id": "serritermitidae",
    "genera": [
     {
@@ -726,7 +726,7 @@
   },
   {
    "zh": "杆白蚁科",
-   "latin": "STYLOTERMITIDAE",
+   "latin": "Stylotermitidae",
    "id": "stylotermitidae",
    "genera": [
     {
@@ -1057,7 +1057,7 @@
   },
   {
    "zh": "寡脉白蚁科",
-   "latin": "TERMITOGETONIDAE",
+   "latin": "Termitogetonidae",
    "id": "termitogetonidae",
    "genera": [
     {
@@ -1087,7 +1087,7 @@
   },
   {
    "zh": "异白蚁科",
-   "latin": "HETEROTERMITIDAE",
+   "latin": "Heterotermitidae",
    "id": "heterotermitidae",
    "genera": [
     {

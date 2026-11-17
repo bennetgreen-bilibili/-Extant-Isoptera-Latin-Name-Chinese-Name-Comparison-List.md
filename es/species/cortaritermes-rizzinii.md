@@ -14,7 +14,7 @@ genus_zh: "利颚白蚁属"
 genus_latin: "Cortaritermes"
 genus_id: "cortaritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cortaritermes rizzinii*** es una especie del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Araujo en 1971; la localidad tipo es Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]. Distribución según la fuente: Brazil.
+***Cortaritermes rizzinii*** es una especie del género *Cortaritermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Araujo en 1971; la localidad tipo es Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *rizzinii*: En honor de una persona «Rizzini» (identidad 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Cortaritermes*]({{ site.base_url }}/es/genus/cortaritermes/) — 5 especies
 - **Especie tipo del género**: *Cortaritermes silvestrii*

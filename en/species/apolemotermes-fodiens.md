@@ -14,7 +14,7 @@ genus_zh: "和平白蚁属"
 genus_latin: "Apolemotermes"
 genus_id: "apolemotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Apolemotermes fodiens*** is the only extant species of the genus *Apolemotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Romero-Arias & Roisin in 2021; the type locality is Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribution: Cameroon.
+***Apolemotermes fodiens*** is the only extant species of the genus *Apolemotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Romero-Arias & Roisin in 2021; the type locality is Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribution: Cameroon.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *fodiens*: Latin fodiens (digging)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Apolemotermes*]({{ site.base_url }}/en/genus/apolemotermes/) — monotypic, 1 species
 

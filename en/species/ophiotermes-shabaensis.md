@@ -14,7 +14,7 @@ genus_zh: "蛇白蚁属"
 genus_latin: "Ophiotermes"
 genus_id: "ophiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ophiotermes shabaensis*** is a species of the genus *Ophiotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Bouillon & Vincke in 1973; the type locality is Democratic Republic of the Congo: "70 km de Likasi sur la route de Lubumbashi; Ferme de St-Hubert, campus universitaire, Lubumbashi; Station INERA (INEAC), Kipopo, à 25 km de Lubumbashi; plaine de Mwadingusha entre Likasi et Lubumbashi. Distribution: Democratic Republic of the Congo.
+***Ophiotermes shabaensis*** is a species of the genus *Ophiotermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Bouillon & Vincke in 1973; the type locality is Democratic Republic of the Congo: "70 km de Likasi sur la route de Lubumbashi; Ferme de St-Hubert, campus universitaire, Lubumbashi; Station INERA (INEAC), Kipopo, à 25 km de Lubumbashi; plaine de Mwadingusha entre Likasi et Lubumbashi. Distribution: Democratic Republic of the Congo.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *shabaensis*: Named after Shaba (DR Congo)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Ophiotermes*]({{ site.base_url }}/en/genus/ophiotermes/) — 7 species
 - **Type species of the genus**: *Ophiotermes mandibularis*

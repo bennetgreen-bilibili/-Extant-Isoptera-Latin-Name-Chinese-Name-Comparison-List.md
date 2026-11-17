@@ -14,7 +14,7 @@ genus_zh: "方白蚁属"
 genus_latin: "Cubitermes"
 genus_id: "cubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "South Africa: Natal: Somkele"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cubitermes zulucola*** es una especie del género *Cubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es South Africa: Zululand: Mkosi. Distribución según la fuente: southern Africa, South Africa (Zululand). Este sitio registra 1 sinónimo junior para la especie.
+***Cubitermes zulucola*** es una especie del género *Cubitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es South Africa: Zululand: Mkosi. Distribución según la fuente: southern Africa, South Africa (Zululand). Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *zulucola*: Zulú (pueblo, Sudáfrica) + -cola (habitante):
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Cubitermes*]({{ site.base_url }}/es/genus/cubitermes/) — 11 especies
 - **Especie tipo del género**: *Cubitermes bilobatus*

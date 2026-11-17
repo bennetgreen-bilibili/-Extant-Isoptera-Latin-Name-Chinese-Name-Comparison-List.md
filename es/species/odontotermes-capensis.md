@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Odontotermes capensis*** es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por De Geer en 1778; la localidad tipo es South Africa: Cape of Good Hope (Kapland): Near Humansdorp on Seekoei River. Distribución según la fuente: Old World tropics, West Africa, southern Africa, South Africa.
+***Odontotermes capensis*** es una especie del género *Odontotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por De Geer en 1778; la localidad tipo es South Africa: Cape of Good Hope (Kapland): Near Humansdorp on Seekoei River. Distribución según la fuente: Old World tropics, West Africa, southern Africa, South Africa.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *capensis*: Del latín capensis, del Cabo (de Buena Esperan
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Odontotermes*]({{ site.base_url }}/es/genus/odontotermes/) — 198 especies
 - **Especie tipo del género**: *Odontotermes vulgaris*

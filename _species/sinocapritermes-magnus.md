@@ -12,7 +12,7 @@ genus_zh: "华扭白蚁属"
 genus_latin: "Sinocapritermes"
 genus_id: "sinocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大华扭白蚁**（*Sinocapritermes magnus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）华扭白蚁属（*Sinocapritermes*）的一种。本种由 Ping & Xu 于 1986 年描述，模式产地为 China: Sichuan Province: Chonquing Shi。分布记录包括中国、贵州、广西、江西、重庆。
+**大华扭白蚁**（*Sinocapritermes magnus*）是白蚁科（Termitidae）瘤白蚁亚科（Mirocapritermitinae）华扭白蚁属（*Sinocapritermes*）的一种。本种由 Ping & Xu 于 1986 年描述，模式产地为 China: Sichuan Province: Chonquing Shi。分布记录包括中国、贵州、广西、江西、重庆。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
 - **属**：[华扭白蚁属 *Sinocapritermes*]({{ site.base_url }}/genus/sinocapritermes/) —— 共 16 种
 - **本属模式种**：*Sinocapritermes sinensis*

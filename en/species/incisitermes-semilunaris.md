@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes semilunaris*** is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Holmgren & Holmgren in 1915; the type locality is New Caledonia (French): Loyalty Islands: Ouvéa. Distribution: New Caledonia.
+***Incisitermes semilunaris*** is a species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Holmgren & Holmgren in 1915; the type locality is New Caledonia (French): Loyalty Islands: Ouvéa. Distribution: New Caledonia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *semilunaris*: Latin semi- (half) + luna (moon), half-moon
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 - **Type species of the genus**: *Incisitermes schwarzi*
 

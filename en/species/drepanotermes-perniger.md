@@ -14,7 +14,7 @@ genus_zh: "镰白蚁属"
 genus_latin: "Drepanotermes"
 genus_id: "drepanotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Drepanotermes perniger*** is a species and the type species of the genus *Drepanotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Froggatt in 1898; the type locality is Australia: Western Australia: Kalgoorlie. Distribution: Australia.
+***Drepanotermes perniger*** is a species and the type species of the genus *Drepanotermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Froggatt in 1898; the type locality is Australia: Western Australia: Kalgoorlie. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *perniger*: Latin per- (very) + niger (black), very black
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Drepanotermes*]({{ site.base_url }}/en/genus/drepanotermes/) — 24 species
 

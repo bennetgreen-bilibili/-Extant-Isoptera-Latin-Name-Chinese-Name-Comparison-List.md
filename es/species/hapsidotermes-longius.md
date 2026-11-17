@@ -14,7 +14,7 @@ genus_zh: "络白蚁属"
 genus_latin: "Hapsidotermes"
 genus_id: "hapsidotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hapsidotermes longius*** es una especie del género *Hapsidotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Kakadu National Park, 30 km SSW of Jabiru. Distribución según la fuente: Australia.
+***Hapsidotermes longius*** es una especie del género *Hapsidotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Kakadu National Park, 30 km SSW of Jabiru. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *longius*: Del término descriptivo «long» (largo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Hapsidotermes*]({{ site.base_url }}/es/genus/hapsidotermes/) — 5 especies
 - **Especie tipo del género**: *Hapsidotermes harrisi*

@@ -12,7 +12,7 @@ genus_zh: "巨鼻白蚁属"
 genus_latin: "Cyranotermes"
 genus_id: "cyranotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**无毛巨鼻白蚁**（*Cyranotermes glaber*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）巨鼻白蚁属（*Cyranotermes*）的一种。本种由 Constantino 于 1990 年描述，模式产地为 Brasil: Amapá: Macapá, IEPA Fazendinha \[0.04N 51.1W\]。分布记录包括法属圭亚那、巴西。
+**无毛巨鼻白蚁**（*Cyranotermes glaber*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）巨鼻白蚁属（*Cyranotermes*）的一种。本种由 Constantino 于 1990 年描述，模式产地为 Brasil: Amapá: Macapá, IEPA Fazendinha \[0.04N 51.1W\]。分布记录包括法属圭亚那、巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[巨鼻白蚁属 *Cyranotermes*]({{ site.base_url }}/genus/cyranotermes/) —— 共 4 种
 - **本属模式种**：*Cyranotermes timuassu*

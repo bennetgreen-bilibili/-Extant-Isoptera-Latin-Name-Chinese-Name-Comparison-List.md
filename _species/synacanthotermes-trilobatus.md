@@ -12,7 +12,7 @@ genus_zh: "聚刺白蚁属"
 genus_latin: "Synacanthotermes"
 genus_id: "synacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Angola: Dundo"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三裂聚刺白蚁**（*Synacanthotermes trilobatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）聚刺白蚁属（*Synacanthotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Democratic Republic of the Congo: Kananga。分布记录包括安哥拉、刚果民主共和国、马拉维、赞比亚。本种有 1 个次异名。
+**三裂聚刺白蚁**（*Synacanthotermes trilobatus*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）聚刺白蚁属（*Synacanthotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Democratic Republic of the Congo: Kananga。分布记录包括安哥拉、刚果民主共和国、马拉维、赞比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Angola: Dundo"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[聚刺白蚁属 *Synacanthotermes*]({{ site.base_url }}/genus/synacanthotermes/) —— 共 3 种
 - **本属模式种**：*Synacanthotermes heterodon*

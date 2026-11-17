@@ -14,7 +14,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Promirotermes gracilipes*** es una especie del género *Promirotermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Schmitz en 1917; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución según la fuente: Democratic Republic of the Congo, Republic of the Congo, Kenya, Uganda.
+***Promirotermes gracilipes*** es una especie del género *Promirotermes*, en la familia Termitidae (subfamilia Promirotermitinae). La especie fue descrita por Schmitz en 1917; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución según la fuente: Democratic Republic of the Congo, Republic of the Congo, Kenya, Uganda.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *gracilipes*: De gracili (esbelto) + pes (pie)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Promirotermitinae]({{ site.base_url }}/es/subfamily/promirotermitinae/) — 2 géneros, 39 especies
 - **Género**: [*Promirotermes*]({{ site.base_url }}/es/genus/promirotermes/) — 10 especies
 - **Especie tipo del género**: *Promirotermes holmgreni*

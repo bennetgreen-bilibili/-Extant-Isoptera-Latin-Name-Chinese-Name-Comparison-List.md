@@ -14,7 +14,7 @@ genus_zh: "慢白蚁属"
 genus_latin: "Tarditermes"
 genus_id: "tarditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tarditermes contracolor*** es la única especie viviente del género *Tarditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Congo (Kinshasa), Democratic Republic of the Congo.
+***Tarditermes contracolor*** es la única especie viviente del género *Tarditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución según la fuente: Congo (Kinshasa), Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *contracolor*: Del latín contra (contra) + color (color), 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Tarditermes*]({{ site.base_url }}/es/genus/tarditermes/) — monotípico, 1 especie
 

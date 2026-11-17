@@ -14,7 +14,7 @@ genus_zh: "三棒白蚁属"
 genus_latin: "Triclavitermes"
 genus_id: "triclavitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Triclavitermes catoleensis*** es la única especie viviente del género *Triclavitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Ferreira, Carvalho & Vasconcellos en 2025; la localidad tipo es Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribución según la fuente: Brazil, Bahia.
+***Triclavitermes catoleensis*** es la única especie viviente del género *Triclavitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Ferreira, Carvalho & Vasconcellos en 2025; la localidad tipo es Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribución según la fuente: Brazil, Bahia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *catoleensis*: Por la localidad de Catolé
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Triclavitermes*]({{ site.base_url }}/es/genus/triclavitermes/) — monotípico, 1 especie
 

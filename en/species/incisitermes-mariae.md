@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes mariae*** is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn in 2024; the type locality is Trinidad and Tobago: Acono \[ 10.7N 61.4W \]. Distribution: Colombia, Trinidad and Tobago, Venezuela.
+***Incisitermes mariae*** is a species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Scheffrahn in 2024; the type locality is Trinidad and Tobago: Acono \[ 10.7N 61.4W \]. Distribution: Colombia, Trinidad and Tobago, Venezuela.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *mariae*: Named after a person (Maria)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 - **Type species of the genus**: *Incisitermes schwarzi*
 

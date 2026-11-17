@@ -14,7 +14,7 @@ genus_zh: "印白蚁属"
 genus_latin: "Indotermes"
 genus_id: "indotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Bangladesh: Ukhia; India: West Bengal: Buxa Forest Division
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Indotermes rongrensis*** es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam: Garo Hills District: Rongrengiri. Distribución según la fuente: Oriental region. Este sitio registra 2 sinónimos junior para la especie.
+***Indotermes rongrensis*** es una especie del género *Indotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam: Garo Hills District: Rongrengiri. Distribución según la fuente: Oriental region. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *rongrensis*: Por la localidad de Rongrengiri (Garo Hills, 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Indotermes*]({{ site.base_url }}/es/genus/indotermes/) — 10 especies
 - **Especie tipo del género**: *Indotermes maymensis*

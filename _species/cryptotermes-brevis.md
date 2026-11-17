@@ -12,7 +12,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Colombia: ?; South Africa: Natal: Durban; Peru: Lima: Lima 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**麻头堆砂白蚁**（*Cryptotermes brevis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 Jamaica: ?。分布记录包括加拿大、加那利群岛（西班牙）、埃及、以色列、意大利、马德拉群岛（葡萄牙）、葡萄牙、西班牙、美国。文献另注：原产秘鲁智利沿海，现泛热带广布。本种有 5 个次异名。
+**麻头堆砂白蚁**（*Cryptotermes brevis*）是木白蚁科（Kalotermitidae）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Walker 于 1853 年描述，模式产地为 Jamaica: ?。分布记录包括加拿大、加那利群岛（西班牙）、埃及、以色列、意大利、马德拉群岛（葡萄牙）、葡萄牙、西班牙、美国。文献另注：原产秘鲁智利沿海，现泛热带广布。本种有 5 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Colombia: ?; South Africa: Natal: Durban; Peru: Lima: Lima 
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
 - **本属模式种**：*Cryptotermes cavifrons*
 

@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Colombia: ?; South Africa: Natal: Durban; Peru: Lima: Lima 
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes brevis*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Walker in 1853; the type locality is Jamaica: ?. Distribution: native to the coasts of Peru and Chile, now pantropical; Canada, Canary Islands (Spain), Egypt, Israel, Italy, Madeira (Portugal), Portugal, Spain, United States. This site records 5 junior synonyms for the species.
+***Cryptotermes brevis*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Walker in 1853; the type locality is Jamaica: ?. Distribution: native to the coasts of Peru and Chile, now pantropical; Canada, Canary Islands (Spain), Egypt, Israel, Italy, Madeira (Portugal), Portugal, Spain, United States. This site records 5 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *brevis*: Latin brevis (short)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

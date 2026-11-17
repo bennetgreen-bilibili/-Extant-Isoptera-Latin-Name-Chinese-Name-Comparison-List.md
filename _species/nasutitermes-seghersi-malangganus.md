@@ -12,7 +12,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -30,7 +30,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**马兰干亚种**（*Nasutitermes seghersi malangganus*）是西格象白蚁（*Nasutitermes seghersi*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）。本亚种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: New Ireland: Kolonoboi。本页暂无单列的分布记录，母种 *Nasutitermes seghersi* 的分布见下文「分布」一节。
+**马兰干亚种**（*Nasutitermes seghersi malangganus*）是西格象白蚁（*Nasutitermes seghersi*）的一个亚种，隶属白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）。本亚种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: New Ireland: Kolonoboi。本页暂无单列的分布记录，母种 *Nasutitermes seghersi* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -42,7 +42,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种
 - **种**：[西格象白蚁 *Nasutitermes seghersi*]({{ site.base_url }}/species/nasutitermes-seghersi/)

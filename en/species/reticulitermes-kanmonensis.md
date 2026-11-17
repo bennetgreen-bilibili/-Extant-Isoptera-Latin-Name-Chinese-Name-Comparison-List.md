@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Reticulitermes kanmonensis*** is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Takematsu in 1999; the type locality is Japan: Yamaguchi Province: Atsugi. Distribution: Japan, Korean Peninsula, China, Taiwan, South Korea.
+***Reticulitermes kanmonensis*** is a species of the genus *Reticulitermes*, in the family Heterotermitidae. The species was described by Takematsu in 1999; the type locality is Japan: Yamaguchi Province: Atsugi. Distribution: Japan, Korean Peninsula, China, Taiwan, South Korea.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *kanmonensis*: Named after the Kanmon Strait (Japan)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Reticulitermes*]({{ site.base_url }}/en/genus/reticulitermes/) — 140 species
 - **Type species of the genus**: *Reticulitermes flavipes*
 

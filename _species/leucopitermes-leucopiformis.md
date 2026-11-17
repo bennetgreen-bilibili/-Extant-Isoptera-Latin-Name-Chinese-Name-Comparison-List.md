@@ -12,7 +12,7 @@ genus_zh: "白脸白蚁属"
 genus_latin: "Leucopitermes"
 genus_id: "leucopitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似白脸白脸白蚁**（*Leucopitermes leucopiformis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）白脸白蚁属（*Leucopitermes*）的一种。本种由 Akhtar & Pervez 于 1986 年描述，模式产地为 Malaysia: Kedah: Sungai Petani, Gunong Jerai。分布记录包括马来西亚。
+**似白脸白脸白蚁**（*Leucopitermes leucopiformis*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）白脸白蚁属（*Leucopitermes*）的一种。本种由 Akhtar & Pervez 于 1986 年描述，模式产地为 Malaysia: Kedah: Sungai Petani, Gunong Jerai。分布记录包括马来西亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[白脸白蚁属 *Leucopitermes*]({{ site.base_url }}/genus/leucopitermes/) —— 共 4 种
 - **本属模式种**：*Leucopitermes leucops*

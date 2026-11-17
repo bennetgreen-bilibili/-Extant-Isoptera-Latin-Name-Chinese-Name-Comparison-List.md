@@ -14,7 +14,7 @@ genus_zh: "前钩白蚁属"
 genus_latin: "Prohamitermes"
 genus_id: "prohamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Prohamitermes hosei minor*** is a subspecies of *Prohamitermes hosei*, in the family TERMITIDAE (subfamily Amitermitinae), genus *Prohamitermes*. The subspecies was described by Thapa in 1982; the type locality is Malaysia: Sabah: Keningau District: Tambunan. No separate distribution record is listed on this page; see the parent species *Prohamitermes hosei* below.
+***Prohamitermes hosei minor*** is a subspecies of *Prohamitermes hosei*, in the family Termitidae (subfamily Amitermitinae), genus *Prohamitermes*. The subspecies was described by Thapa in 1982; the type locality is Malaysia: Sabah: Keningau District: Tambunan. No separate distribution record is listed on this page; see the parent species *Prohamitermes hosei* below.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *minor*: Latin minor (smaller)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Prohamitermes*]({{ site.base_url }}/en/genus/prohamitermes/) — 2 species
 - **Species**: [*Prohamitermes hosei*]({{ site.base_url }}/en/species/prohamitermes-hosei/)

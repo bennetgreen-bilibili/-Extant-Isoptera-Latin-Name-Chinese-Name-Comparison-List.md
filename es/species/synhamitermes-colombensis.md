@@ -14,7 +14,7 @@ genus_zh: "同钩白蚁属"
 genus_latin: "Synhamitermes"
 genus_id: "synhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Synhamitermes colombensis*** es una especie del género *Synhamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Roonwal & Sen-Sarma en 1960; la localidad tipo es Sri Lanka: Western Province: Colombo. Distribución según la fuente: Sri Lanka.
+***Synhamitermes colombensis*** es una especie del género *Synhamitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Roonwal & Sen-Sarma en 1960; la localidad tipo es Sri Lanka: Western Province: Colombo. Distribución según la fuente: Sri Lanka.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *colombensis*: Por la localidad de Colomb
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Synhamitermes*]({{ site.base_url }}/es/genus/synhamitermes/) — 4 especies
 - **Especie tipo del género**: *Synhamitermes quadriceps*

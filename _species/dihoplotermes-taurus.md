@@ -12,7 +12,7 @@ genus_zh: "双戟白蚁属"
 genus_latin: "Dihoplotermes"
 genus_id: "dihoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**公牛双戟白蚁**（*Dihoplotermes taurus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）双戟白蚁属（*Dihoplotermes*）的一种。本种由 Azevedo, Dambros & Morais 于 2019 年描述，模式产地为 Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[2.633S 60.1072W\]。分布记录包括巴西。
+**公牛双戟白蚁**（*Dihoplotermes taurus*）是白蚁科（Termitidae）白蚁亚科（Termitinae）双戟白蚁属（*Dihoplotermes*）的一种。本种由 Azevedo, Dambros & Morais 于 2019 年描述，模式产地为 Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[2.633S 60.1072W\]。分布记录包括巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[双戟白蚁属 *Dihoplotermes*]({{ site.base_url }}/genus/dihoplotermes/) —— 共 2 种
 - **本属模式种**：*Dihoplotermes inusitatus*

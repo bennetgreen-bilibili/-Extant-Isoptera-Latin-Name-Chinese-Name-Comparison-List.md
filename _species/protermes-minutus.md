@@ -12,7 +12,7 @@ genus_zh: "前白蚁属"
 genus_latin: "Protermes"
 genus_id: "protermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小前白蚁**（*Protermes minutus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种。本种由 Grassé 于 1937 年描述，模式产地为 Ivory Coast: near Abidjan; near Bingerville。分布记录包括西非、科特迪瓦、安哥拉、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、塞拉利昂、赞比亚。
+**小前白蚁**（*Protermes minutus*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种。本种由 Grassé 于 1937 年描述，模式产地为 Ivory Coast: near Abidjan; near Bingerville。分布记录包括西非、科特迪瓦、安哥拉、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、塞拉利昂、赞比亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[前白蚁属 *Protermes*]({{ site.base_url }}/genus/protermes/) —— 共 5 种
 - **本属模式种**：*Protermes prorepens*

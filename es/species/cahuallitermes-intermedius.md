@@ -14,7 +14,7 @@ genus_zh: "弃白蚁属"
 genus_latin: "Cahuallitermes"
 genus_id: "cahuallitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cahuallitermes intermedius*** es una especie y la especie tipo del género *Cahuallitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: La Ceiba. Distribución según la fuente: Mexico, Guatemala, Honduras, Belize.
+***Cahuallitermes intermedius*** es una especie y la especie tipo del género *Cahuallitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: La Ceiba. Distribución según la fuente: Mexico, Guatemala, Honduras, Belize.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *intermedius*: Del latín intermedius (intermedio)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Cahuallitermes*]({{ site.base_url }}/es/genus/cahuallitermes/) — 2 especies
 

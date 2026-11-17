@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Queensland: Mt. Tambourine; Australia: Queenslan
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Glyptotermes brevicornis*** is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: Queensland: Mackay. Distribution: Australia, Fiji, New Zealand. This site records 6 junior synonyms for the species.
+***Glyptotermes brevicornis*** is a species of the genus *Glyptotermes*, in the family Kalotermitidae. The species was described by Froggatt in 1897; the type locality is Australia: Queensland: Mackay. Distribution: Australia, Fiji, New Zealand. This site records 6 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *brevicornis*: Latin brevis (short) + cornu (horn/antenna), sho
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Glyptotermes*]({{ site.base_url }}/en/genus/glyptotermes/) — 131 species
 - **Type species of the genus**: *Glyptotermes tuberculatus*
 

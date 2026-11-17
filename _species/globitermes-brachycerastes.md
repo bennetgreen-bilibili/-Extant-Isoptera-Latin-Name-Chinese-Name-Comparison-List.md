@@ -12,7 +12,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短角球白蚁**（*Globitermes brachycerastes*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种。本种由 Han 于 1987 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括云南（景洪 500 m）、中国。
+**短角球白蚁**（*Globitermes brachycerastes*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种。本种由 Han 于 1987 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括云南（景洪 500 m）、中国。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[球白蚁属 *Globitermes*]({{ site.base_url }}/genus/globitermes/) —— 共 7 种
 - **本属模式种**：*Globitermes globosus*

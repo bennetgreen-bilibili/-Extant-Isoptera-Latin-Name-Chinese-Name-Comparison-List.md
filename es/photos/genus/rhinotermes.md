@@ -20,6 +20,6 @@ back_label: "鼻白蚁属 Rhinotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/es/family/rhinotermitidae/"
 ---

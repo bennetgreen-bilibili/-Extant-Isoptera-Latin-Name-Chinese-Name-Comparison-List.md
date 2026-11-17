@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Reticulitermes_clype
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "异白蚁科 HETEROTERMITIDAE"
+  - name: "异白蚁科 Heterotermitidae"
     url: "/family/heterotermitidae/"
   - name: "散白蚁属 Reticulitermes"
     url: "/genus/reticulitermes/"

@@ -14,7 +14,7 @@ genus_zh: "倒钩白蚁属"
 genus_latin: "Onkotermes"
 genus_id: "onkotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Onkotermes brevicorniger*** is a species and the type species of the genus *Onkotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Silvestri in 1901; the type locality is Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribution: Argentina, Brazil, Chile.
+***Onkotermes brevicorniger*** is a species and the type species of the genus *Onkotermes*, in the family Termitidae (subfamily Microcerotermitinae). The species was described by Silvestri in 1901; the type locality is Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribution: Argentina, Brazil, Chile.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *brevicorniger*: Latin brevi- (short) + corni- (horn) + -ger (b
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Microcerotermitinae]({{ site.base_url }}/en/subfamily/microcerotermitinae/) — 2 genera, 150 species
 - **Genus**: [*Onkotermes*]({{ site.base_url }}/en/genus/onkotermes/) — 2 species
 

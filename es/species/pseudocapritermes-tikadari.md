@@ -14,7 +14,7 @@ genus_zh: "伪扭白蚁属"
 genus_latin: "Pseudocapritermes"
 genus_id: "pseudocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Assam: Sibsagar Range: Sola Reserve Forest"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pseudocapritermes tikadari*** es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam: Cherrapunji. Distribución según la fuente: India, Bhutan. Este sitio registra 1 sinónimo junior para la especie.
+***Pseudocapritermes tikadari*** es una especie del género *Pseudocapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam: Cherrapunji. Distribución según la fuente: India, Bhutan. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *tikadari*: En honor de B. K. Tikader (aracnólogo indio)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pseudocapritermes*]({{ site.base_url }}/es/genus/pseudocapritermes/) — 19 especies
 - **Especie tipo del género**: *Pseudocapritermes silvaticus*

@@ -14,7 +14,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anacanthotermes murgabicus*** es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Vasiljev en 1911; la localidad tipo es Turkmenistan: Kreise Merv von Transkaspien: River Murgab near Schleuse Kazyhly-Beut. Distribución según la fuente: Turkmenistan.
+***Anacanthotermes murgabicus*** es una especie del género *Anacanthotermes*, en la familia Hodotermitidae. La especie fue descrita por Vasiljev en 1911; la localidad tipo es Turkmenistan: Kreise Merv von Transkaspien: River Murgab near Schleuse Kazyhly-Beut. Distribución según la fuente: Turkmenistan.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *murgabicus*: En honor de Murgab (Murghab), Turkmenistán
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMITIDAE]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
+- **Familia**: [Hodotermitidae]({{ site.base_url }}/es/family/hodotermitidae/) — 3 géneros, 21 especies
 - **Género**: [*Anacanthotermes*]({{ site.base_url }}/es/genus/anacanthotermes/) — 16 especies
 - **Especie tipo del género**: *Anacanthotermes ochraceus*
 

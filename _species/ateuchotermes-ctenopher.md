@@ -12,7 +12,7 @@ genus_zh: "无锐白蚁属"
 genus_latin: "Ateuchotermes"
 genus_id: "ateuchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**梳肠无锐白蚁**（*Ateuchotermes ctenopher*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无锐白蚁属（*Ateuchotermes*）的一种。本种由 Sands 于 1972 年描述，模式产地为 Gabon: 18 km from Makokou。分布记录包括喀麦隆、刚果民主共和国、加蓬。
+**梳肠无锐白蚁**（*Ateuchotermes ctenopher*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）无锐白蚁属（*Ateuchotermes*）的一种。本种由 Sands 于 1972 年描述，模式产地为 Gabon: 18 km from Makokou。分布记录包括喀麦隆、刚果民主共和国、加蓬。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[无锐白蚁属 *Ateuchotermes*]({{ site.base_url }}/genus/ateuchotermes/) —— 共 8 种
 - **本属模式种**：*Ateuchotermes pectinatus*

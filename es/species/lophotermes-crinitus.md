@@ -14,7 +14,7 @@ genus_zh: "小脊突白蚁属"
 genus_latin: "Lophotermes"
 genus_id: "lophotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Lophotermes crinitus*** es una especie del género *Lophotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland: 37 km S by E of Cooktown. Distribución según la fuente: Australia.
+***Lophotermes crinitus*** es una especie del género *Lophotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland: 37 km S by E of Cooktown. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *crinitus*: Del latín crinitus (de pelo largo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Lophotermes*]({{ site.base_url }}/es/genus/lophotermes/) — 9 especies
 - **Especie tipo del género**: *Lophotermes pectinatus*

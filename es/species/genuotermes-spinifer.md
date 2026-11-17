@@ -14,7 +14,7 @@ genus_zh: "膝白蚁属"
 genus_latin: "Genuotermes"
 genus_id: "genuotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Genuotermes spinifer*** es la única especie viviente del género *Genuotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1950; la localidad tipo es Brasil: Mato Grosso do Sul: Ladário, Urucum \[19.155S 57.631W\]. Distribución según la fuente: Brazil.
+***Genuotermes spinifer*** es la única especie viviente del género *Genuotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1950; la localidad tipo es Brasil: Mato Grosso do Sul: Ladário, Urucum \[19.155S 57.631W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *spinifer*: Del latín spina (espina) + -fer (que lleva), e
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Genuotermes*]({{ site.base_url }}/es/genus/genuotermes/) — monotípico, 1 especie
 

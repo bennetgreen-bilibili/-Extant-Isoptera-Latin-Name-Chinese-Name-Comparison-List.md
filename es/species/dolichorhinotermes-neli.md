@@ -14,7 +14,7 @@ genus_zh: "狭鼻白蚁属"
 genus_latin: "Dolichorhinotermes"
 genus_id: "dolichorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Dolichorhinotermes neli*** es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Ensaf & Betsch en 2002; la localidad tipo es French Guiana: Route de Cacao, 1.2 km avant Bellevue \[ 4.548N 52.4915W \]. Distribución según la fuente: French Guiana.
+***Dolichorhinotermes neli*** es una especie del género *Dolichorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Ensaf & Betsch en 2002; la localidad tipo es French Guiana: Route de Cacao, 1.2 km avant Bellevue \[ 4.548N 52.4915W \]. Distribución según la fuente: French Guiana.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *neli*: En honor de Nel
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Dolichorhinotermes*]({{ site.base_url }}/es/genus/dolichorhinotermes/) — 7 especies
 - **Especie tipo del género**: *Dolichorhinotermes longilabius*
 

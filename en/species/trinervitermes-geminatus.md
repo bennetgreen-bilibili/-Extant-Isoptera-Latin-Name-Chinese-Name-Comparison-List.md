@@ -14,7 +14,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "(country unknown): \"Atlantic coast of Sahara\"; Nigeria: I
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Trinervitermes geminatus*** is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Wasmann in 1897; the type locality is Ghana: ?. Distribution: Côte d'Ivoire, Senegal, Togo, Ghana, Nigeria, Burkina Faso, Democratic Republic of the Congo, Ethiopia, Mali, Mauritania, Sierra Leone, Sudan, Uganda. This site records 3 junior synonyms for the species.
+***Trinervitermes geminatus*** is a species of the genus *Trinervitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Wasmann in 1897; the type locality is Ghana: ?. Distribution: Côte d'Ivoire, Senegal, Togo, Ghana, Nigeria, Burkina Faso, Democratic Republic of the Congo, Ethiopia, Mali, Mauritania, Sierra Leone, Sudan, Uganda. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *geminatus*: From gemin + atus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Trinervitermes*]({{ site.base_url }}/en/genus/trinervitermes/) — 21 species
 - **Type species of the genus**: *Trinervitermes trinervius*

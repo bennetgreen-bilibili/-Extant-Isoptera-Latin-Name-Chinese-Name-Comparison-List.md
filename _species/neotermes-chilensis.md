@@ -12,7 +12,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Chile: Valparaíso: Zapallar [ 34.05S 71.5333W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**智利新白蚁**（*Neotermes chilensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Blanchard 于 1851 年描述，模式产地为 Chile: ?。分布记录包括智利。本种有 1 个次异名。
+**智利新白蚁**（*Neotermes chilensis*）是木白蚁科（Kalotermitidae）新白蚁属（*Neotermes*）的一种。本种由 Blanchard 于 1851 年描述，模式产地为 Chile: ?。分布记录包括智利。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Chile: Valparaíso: Zapallar [ 34.05S 71.5333W ]"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
 - **本属模式种**：*Neotermes castaneus*
 

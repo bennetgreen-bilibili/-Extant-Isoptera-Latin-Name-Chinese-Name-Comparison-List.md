@@ -12,7 +12,7 @@ genus_zh: "象鼻白蚁属"
 genus_latin: "Proboscitermes"
 genus_id: "proboscitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具管象鼻白蚁**（*Proboscitermes tubuliferus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）象鼻白蚁属（*Proboscitermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括喀麦隆、刚果民主共和国、加蓬、尼日利亚。
+**具管象鼻白蚁**（*Proboscitermes tubuliferus*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）象鼻白蚁属（*Proboscitermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括喀麦隆、刚果民主共和国、加蓬、尼日利亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[象鼻白蚁属 *Proboscitermes*]({{ site.base_url }}/genus/proboscitermes/) —— 共 2 种
 

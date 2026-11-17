@@ -14,7 +14,7 @@ genus_zh: "怒白蚁属"
 genus_latin: "Lacessititermes"
 genus_id: "lacessititermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Lacessititermes kolapisensis*** es una especie del género *Lacessititermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan North District: Kolapis Forest, mile 4. Distribución según la fuente: Malaysia (Sabah).
+***Lacessititermes kolapisensis*** es una especie del género *Lacessititermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan North District: Kolapis Forest, mile 4. Distribución según la fuente: Malaysia (Sabah).
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *kolapisensis*: Por Kolapis (Sabah, Malasia)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Lacessititermes*]({{ site.base_url }}/es/genus/lacessititermes/) — 20 especies
 - **Especie tipo del género**: *Lacessititermes lacessitus*

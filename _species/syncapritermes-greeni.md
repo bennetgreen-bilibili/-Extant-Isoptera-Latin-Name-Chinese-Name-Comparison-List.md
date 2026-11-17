@@ -12,7 +12,7 @@ genus_zh: "聚扭白蚁属"
 genus_latin: "Syncapritermes"
 genus_id: "syncapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**格林聚扭白蚁**（*Syncapritermes greeni*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）聚扭白蚁属（*Syncapritermes*）的现存唯一种。本种由 John 于 1925 年描述，模式产地为 Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang。分布记录包括印度尼西亚、马来西亚。
+**格林聚扭白蚁**（*Syncapritermes greeni*）是白蚁科（Termitidae）瘤白蚁亚科（Mirocapritermitinae）聚扭白蚁属（*Syncapritermes*）的现存唯一种。本种由 John 于 1925 年描述，模式产地为 Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang。分布记录包括印度尼西亚、马来西亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
 - **属**：[聚扭白蚁属 *Syncapritermes*]({{ site.base_url }}/genus/syncapritermes/) —— 单型属，仅含 1 种
 

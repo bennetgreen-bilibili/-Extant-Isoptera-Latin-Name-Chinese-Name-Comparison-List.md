@@ -14,7 +14,7 @@ genus_zh: "怒白蚁属"
 genus_latin: "Lacessititermes"
 genus_id: "lacessititermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Philippines: Luzon: Balintauac, near Manila; Luzon: Laguna 
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Lacessititermes saraiensis*** is a species of the genus *Lacessititermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Oshima in 1916; the type locality is Philippines: Luzon: Laguna Province: Sarai near Paete. Distribution: China, Indonesia, Philippines. This site records 1 junior synonym for the species.
+***Lacessititermes saraiensis*** is a species of the genus *Lacessititermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Oshima in 1916; the type locality is Philippines: Luzon: Laguna Province: Sarai near Paete. Distribution: China, Indonesia, Philippines. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *saraiensis*: Named after the locality Sara
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Lacessititermes*]({{ site.base_url }}/en/genus/lacessititermes/) — 20 species
 - **Type species of the genus**: *Lacessititermes lacessitus*

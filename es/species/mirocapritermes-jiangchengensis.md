@@ -14,7 +14,7 @@ genus_zh: "瘤白蚁属"
 genus_latin: "Mirocapritermes"
 genus_id: "mirocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mirocapritermes jiangchengensis*** es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Yang, Zhu & Huang en 1995; la localidad tipo es China: Yunnan Province. Distribución según la fuente: China, Yunnan.
+***Mirocapritermes jiangchengensis*** es una especie del género *Mirocapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Yang, Zhu & Huang en 1995; la localidad tipo es China: Yunnan Province. Distribución según la fuente: China, Yunnan.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *jiangchengensis*: Por la localidad de Jiangcheng
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Mirocapritermes*]({{ site.base_url }}/es/genus/mirocapritermes/) — 8 especies
 - **Especie tipo del género**: *Mirocapritermes connectens*

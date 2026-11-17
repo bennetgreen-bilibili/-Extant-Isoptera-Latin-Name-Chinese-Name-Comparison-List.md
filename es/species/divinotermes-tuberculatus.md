@@ -14,7 +14,7 @@ genus_zh: "迪维努白蚁属"
 genus_latin: "Divinotermes"
 genus_id: "divinotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Divinotermes tuberculatus*** es una especie del género *Divinotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Carrijo & Cancello en 2011; la localidad tipo es Brasil: Rondônia: Vilhena \[12.8S 60.1W\]. Distribución según la fuente: Brazil, Bolivia.
+***Divinotermes tuberculatus*** es una especie del género *Divinotermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Carrijo & Cancello en 2011; la localidad tipo es Brasil: Rondônia: Vilhena \[12.8S 60.1W\]. Distribución según la fuente: Brazil, Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tuberculatus*: Del latín tuberculatus (tuberculado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Divinotermes*]({{ site.base_url }}/es/genus/divinotermes/) — 3 especies
 - **Especie tipo del género**: *Divinotermes allognathus*

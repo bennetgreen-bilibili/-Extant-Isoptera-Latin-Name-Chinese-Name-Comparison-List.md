@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Mozambique: ?; South Africa: Transvaal: Messina; Namibia: O
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrotermes michaelseni*** es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Namibia: Okahandja. Distribución según la fuente: Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
+***Macrotermes michaelseni*** es una especie del género *Macrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Namibia: Okahandja. Distribución según la fuente: Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *michaelseni*: En honor de W. Michaelsen (zoólogo alemán)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Macrotermes*]({{ site.base_url }}/es/genus/macrotermes/) — 57 especies
 - **Especie tipo del género**: *Macrotermes lilljeborgi*

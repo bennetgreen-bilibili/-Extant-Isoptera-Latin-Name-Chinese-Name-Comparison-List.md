@@ -12,7 +12,7 @@ genus_zh: "宽白蚁属"
 genus_latin: "Eurytermes"
 genus_id: "eurytermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Sri Lanka: Badulla"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**锡兰宽白蚁**（*Eurytermes ceylonicus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Sri Lanka: ?。分布记录包括斯里兰卡。本种有 1 个次异名。
+**锡兰宽白蚁**（*Eurytermes ceylonicus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Sri Lanka: ?。分布记录包括斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Sri Lanka: Badulla"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[宽白蚁属 *Eurytermes*]({{ site.base_url }}/genus/eurytermes/) —— 共 6 种
 - **本属模式种**：*Eurytermes assmuthi*

@@ -14,7 +14,7 @@ genus_zh: "足白蚁属"
 genus_latin: "Tetimatermes"
 genus_id: "tetimatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Tetimatermes oliveirae*** is the only extant species of the genus *Tetimatermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Fontes in 1986; the type locality is Brasil: São Paulo: Macatuba \[ 22.5022S 48.7114W \]. Distribution: Brazil.
+***Tetimatermes oliveirae*** is the only extant species of the genus *Tetimatermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Fontes in 1986; the type locality is Brasil: São Paulo: Macatuba \[ 22.5022S 48.7114W \]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *oliveirae*: Named after Oliveira
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Tetimatermes*]({{ site.base_url }}/en/genus/tetimatermes/) — monotypic, 1 species
 

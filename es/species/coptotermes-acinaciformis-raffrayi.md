@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coptotermes acinaciformis raffrayi*** es una subespecie de *Coptotermes acinaciformis*, en la familia HETEROTERMITIDAE, género *Coptotermes*. La subespecie fue descrita por Wasmann en 1900; la localidad tipo es Australia: Western Australia: Swan River. No se incluye un registro de distribución separado en esta página; véase la especie parental *Coptotermes acinaciformis* más abajo.
+***Coptotermes acinaciformis raffrayi*** es una subespecie de *Coptotermes acinaciformis*, en la familia Heterotermitidae, género *Coptotermes*. La subespecie fue descrita por Wasmann en 1900; la localidad tipo es Australia: Western Australia: Swan River. No se incluye un registro de distribución separado en esta página; véase la especie parental *Coptotermes acinaciformis* más abajo.
 
 ## Etimología
 
@@ -41,7 +41,7 @@ Epíteto específico *raffrayi*: En honor de A. Raffray (entomólogo francés)
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
 - **Especie**: [*Coptotermes acinaciformis*]({{ site.base_url }}/es/species/coptotermes-acinaciformis/)
 - **Subespecie**: esta página (*Coptotermes acinaciformis raffrayi*)

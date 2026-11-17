@@ -14,7 +14,7 @@ genus_zh: "颚钩白蚁属"
 genus_latin: "Gnathamitermes"
 genus_id: "gnathamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Gnathamitermes tubiformans*** es una especie del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Buckley en 1862; la localidad tipo es United States: Texas: Lapasas; Texas: San Saba. Distribución según la fuente: Mexico, United States.
+***Gnathamitermes tubiformans*** es una especie del género *Gnathamitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Buckley en 1862; la localidad tipo es United States: Texas: Lapasas; Texas: San Saba. Distribución según la fuente: Mexico, United States.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tubiformans*: Del latín tubus (tubo) + formans (que forma
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Gnathamitermes*]({{ site.base_url }}/es/genus/gnathamitermes/) — 4 especies
 - **Especie tipo del género**: *Gnathamitermes perplexus*

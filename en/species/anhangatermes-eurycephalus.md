@@ -14,7 +14,7 @@ genus_zh: "魔白蚁属"
 genus_latin: "Anhangatermes"
 genus_id: "anhangatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Anhangatermes eurycephalus*** is a species of the genus *Anhangatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Oliveira & Constantino in 2014; the type locality is Brasil: Amazonas: Rodovia ZF3 km 41 \[2.445S 59.7833W\]. Distribution: Brazil, Colombia, French Guiana.
+***Anhangatermes eurycephalus*** is a species of the genus *Anhangatermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Oliveira & Constantino in 2014; the type locality is Brasil: Amazonas: Rodovia ZF3 km 41 \[2.445S 59.7833W\]. Distribution: Brazil, Colombia, French Guiana.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *eurycephalus*: Greek eurys (broad) + kephalē (head), broad-he
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Anhangatermes*]({{ site.base_url }}/en/genus/anhangatermes/) — 5 species
 - **Type species of the genus**: *Anhangatermes macarthuri*

@@ -14,7 +14,7 @@ genus_zh: "棒鼻白蚁属"
 genus_latin: "Parrhinotermes"
 genus_id: "parrhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Parrhinotermes queenslandicus*** is a species of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Malanda. Distribution: Australia.
+***Parrhinotermes queenslandicus*** is a species of the genus *Parrhinotermes*, in the family Rhinotermitidae. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Malanda. Distribution: Australia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *queenslandicus*: Named after the locality Queensland
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Parrhinotermes*]({{ site.base_url }}/en/genus/parrhinotermes/) — 13 species
 - **Type species of the genus**: *Parrhinotermes aequalis*
 

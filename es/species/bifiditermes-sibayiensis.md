@@ -14,7 +14,7 @@ genus_zh: "双裂白蚁属"
 genus_latin: "Bifiditermes"
 genus_id: "bifiditermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Bifiditermes sibayiensis*** es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1949; la localidad tipo es South Africa: Diki Bush, 16 km. from Lake Sibayi. Distribución según la fuente: Namibia, South Africa, Tanzania, Zambia, Zimbabwe.
+***Bifiditermes sibayiensis*** es una especie del género *Bifiditermes*, en la familia Kalotermitidae. La especie fue descrita por Coaton en 1949; la localidad tipo es South Africa: Diki Bush, 16 km. from Lake Sibayi. Distribución según la fuente: Namibia, South Africa, Tanzania, Zambia, Zimbabwe.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *sibayiensis*: Por la localidad del lago Sibaya (KwaZulu-Na
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Bifiditermes*]({{ site.base_url }}/es/genus/bifiditermes/) — 12 especies
 - **Especie tipo del género**: *Bifiditermes madagascariensis*
 

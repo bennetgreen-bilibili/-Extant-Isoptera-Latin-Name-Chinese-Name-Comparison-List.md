@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rugitermes_%2810.389
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "木白蚁科 KALOTERMITIDAE"
+  - name: "木白蚁科 Kalotermitidae"
     url: "/family/kalotermitidae/"
   - name: "皱白蚁属 Rugitermes"
     url: "/genus/rugitermes/"

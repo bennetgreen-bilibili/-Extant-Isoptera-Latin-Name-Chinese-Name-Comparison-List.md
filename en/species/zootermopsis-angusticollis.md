@@ -14,7 +14,7 @@ genus_zh: "动白蚁属"
 genus_latin: "Zootermopsis"
 genus_id: "zootermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Zootermopsis angusticollis*** is a species and the type species of the genus *Zootermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Hagen in 1858; the type locality is United States: California; Louisiana. Distribution: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
+***Zootermopsis angusticollis*** is a species and the type species of the genus *Zootermopsis*, in the family Archotermopsidae. The species was described by Hagen in 1858; the type locality is United States: California; Louisiana. Distribution: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *angusticollis*: From angusti + collis
 
 ## Taxonomic position
 
-- **Family**: [ARCHOTERMOPSIDAE]({{ site.base_url }}/en/family/archotermopsidae/) — 2 genera, 5 species
+- **Family**: [Archotermopsidae]({{ site.base_url }}/en/family/archotermopsidae/) — 2 genera, 5 species
 - **Genus**: [*Zootermopsis*]({{ site.base_url }}/en/genus/zootermopsis/) — 3 species
 
 ## Distribution

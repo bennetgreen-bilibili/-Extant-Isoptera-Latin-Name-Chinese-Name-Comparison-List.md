@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heterotermes cardini*** es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Bahamas: Andros Island. Distribución según la fuente: Caribbean, Puerto Rico, Guadeloupe, Bahamas, Panama, United States.
+***Heterotermes cardini*** es una especie del género *Heterotermes*, en la familia Heterotermitidae. La especie fue descrita por Snyder en 1924; la localidad tipo es Bahamas: Andros Island. Distribución según la fuente: Caribbean, Puerto Rico, Guadeloupe, Bahamas, Panama, United States.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *cardini*: En honor de Cardin
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Heterotermes*]({{ site.base_url }}/es/genus/heterotermes/) — 31 especies
 - **Especie tipo del género**: *Heterotermes platycephalus*
 

@@ -14,7 +14,7 @@ genus_zh: "针刺白蚁属"
 genus_latin: "Spinitermes"
 genus_id: "spinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Spinitermes trispinosus*** is a species and the type species of the genus *Spinitermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Hagen in 1858; the type locality is Brasil: Pará: Santarém \[2.43917S 54.705W\]. Distribution: Brazil, Colombia, French Guiana, Paraguay, Peru, Venezuela.
+***Spinitermes trispinosus*** is a species and the type species of the genus *Spinitermes*, in the family Termitidae (subfamily Termitinae). The species was described by Hagen in 1858; the type locality is Brasil: Pará: Santarém \[2.43917S 54.705W\]. Distribution: Brazil, Colombia, French Guiana, Paraguay, Peru, Venezuela.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *trispinosus*: Latin tri- (three) + spinosus (spiny), three-spi
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Spinitermes*]({{ site.base_url }}/en/genus/spinitermes/) — 5 species
 

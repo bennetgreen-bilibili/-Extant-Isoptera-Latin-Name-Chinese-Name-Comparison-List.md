@@ -12,7 +12,7 @@ genus_zh: "上木白蚁属"
 genus_latin: "Epicalotermes"
 genus_id: "epicalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**埃塞俄比亚上木白蚁**（*Epicalotermes aethiopicus*）是木白蚁科（KALOTERMITIDAE）上木白蚁属（*Epicalotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1918 年描述，模式产地为 Eritrea: Mayabal, 8 km from Nefas。分布记录包括肯尼亚、厄立特里亚、埃塞俄比亚、沙特阿拉伯、也门。
+**埃塞俄比亚上木白蚁**（*Epicalotermes aethiopicus*）是木白蚁科（Kalotermitidae）上木白蚁属（*Epicalotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1918 年描述，模式产地为 Eritrea: Mayabal, 8 km from Nefas。分布记录包括肯尼亚、厄立特里亚、埃塞俄比亚、沙特阿拉伯、也门。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[上木白蚁属 *Epicalotermes*]({{ site.base_url }}/genus/epicalotermes/) —— 共 6 种
 
 ## 分布

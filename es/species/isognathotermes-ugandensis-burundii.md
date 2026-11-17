@@ -14,7 +14,7 @@ genus_zh: "等颚白蚁属"
 genus_latin: "Isognathotermes"
 genus_id: "isognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ type_locality: "Burundi: Ruvubu N.P. [ 2.945S 30.438E ]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Isognathotermes ugandensis burundii*** es una subespecie de *Isognathotermes ugandensis*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Isognathotermes*. La subespecie fue descrita por Josens & Deligne en 2025; la localidad tipo es Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]. No se incluye un registro de distribución separado en esta página; véase la especie parental *Isognathotermes ugandensis* más abajo.
+***Isognathotermes ugandensis burundii*** es una subespecie de *Isognathotermes ugandensis*, en la familia Termitidae (subfamilia Cubitermitinae), género *Isognathotermes*. La subespecie fue descrita por Josens & Deligne en 2025; la localidad tipo es Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]. No se incluye un registro de distribución separado en esta página; véase la especie parental *Isognathotermes ugandensis* más abajo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *burundii*: Por Burundi
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Isognathotermes*]({{ site.base_url }}/es/genus/isognathotermes/) — 16 especies
 - **Especie**: [*Isognathotermes ugandensis*]({{ site.base_url }}/es/species/isognathotermes-ugandensis/)

@@ -14,7 +14,7 @@ genus_zh: "小白蚁属"
 genus_latin: "Microtermes"
 genus_id: "microtermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microtermes congoensis comprehensa*** es una subespecie de *Microtermes congoensis*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Microtermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Microtermes congoensis* más abajo.
+***Microtermes congoensis comprehensa*** es una subespecie de *Microtermes congoensis*, en la familia Termitidae (subfamilia Macrotermitinae), género *Microtermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Microtermes congoensis* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *comprehensa*: Del latín comprehensus (abarcado, incluido)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Microtermes*]({{ site.base_url }}/es/genus/microtermes/) — 69 especies
 - **Especie**: [*Microtermes congoensis*]({{ site.base_url }}/es/species/microtermes-congoensis/)

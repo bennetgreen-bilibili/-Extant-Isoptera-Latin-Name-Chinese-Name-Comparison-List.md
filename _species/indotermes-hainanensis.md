@@ -12,7 +12,7 @@ genus_zh: "印白蚁属"
 genus_latin: "Indotermes"
 genus_id: "indotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海南印白蚁**（*Indotermes hainanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）印白蚁属（*Indotermes*）的一种。本种由 He & Xia 于 1981 年描述，模式产地为 China: Guangdong Province: Hainan Island。分布记录包括中国、海南。
+**海南印白蚁**（*Indotermes hainanensis*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）印白蚁属（*Indotermes*）的一种。本种由 He & Xia 于 1981 年描述，模式产地为 China: Guangdong Province: Hainan Island。分布记录包括中国、海南。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[印白蚁属 *Indotermes*]({{ site.base_url }}/genus/indotermes/) —— 共 10 种
 - **本属模式种**：*Indotermes maymensis*

@@ -14,7 +14,7 @@ genus_zh: "弯钩白蚁属"
 genus_latin: "Uncitermes"
 genus_id: "uncitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Uncitermes teevani*** is a species and the type species of the genus *Uncitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Venezuela, Ecuador.
+***Uncitermes teevani*** is a species and the type species of the genus *Uncitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Venezuela, Ecuador.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *teevani*: Named in honor of Mr. John Tee-Van, who collected th
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Uncitermes*]({{ site.base_url }}/en/genus/uncitermes/) — 2 species
 

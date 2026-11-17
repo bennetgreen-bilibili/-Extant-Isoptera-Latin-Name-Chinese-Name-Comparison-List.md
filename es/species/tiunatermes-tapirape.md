@@ -14,7 +14,7 @@ genus_zh: "暗鼻白蚁属"
 genus_latin: "Tiunatermes"
 genus_id: "tiunatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tiunatermes tapirape*** es una especie del género *Tiunatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira en 2026; la localidad tipo es Brasil: Goiás: Chapada dos Veadeiros \[14.1924S 47.8349W\]. Distribución según la fuente: South America, Brazil.
+***Tiunatermes tapirape*** es una especie del género *Tiunatermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira en 2026; la localidad tipo es Brasil: Goiás: Chapada dos Veadeiros \[14.1924S 47.8349W\]. Distribución según la fuente: South America, Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *tapirape*: Por el pueblo tapirapé (Brasil)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Tiunatermes*]({{ site.base_url }}/es/genus/tiunatermes/) — 2 especies
 - **Especie tipo del género**: *Tiunatermes mariuzani*

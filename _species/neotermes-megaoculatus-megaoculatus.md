@@ -12,7 +12,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -27,7 +27,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Neotermes megaoculatus megaoculatus*）是巨眼新白蚁（*Neotermes megaoculatus*）的一个亚种，隶属木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）。本亚种由 Roonwal & Sen-Sarma 于 1960 年描述，模式产地为 India: Uttarakhand: Dehra Dun。本页暂无单列的分布记录，母种 *Neotermes megaoculatus* 的分布见下文「分布」一节。
+**指名亚种**（*Neotermes megaoculatus megaoculatus*）是巨眼新白蚁（*Neotermes megaoculatus*）的一个亚种，隶属木白蚁科（Kalotermitidae）新白蚁属（*Neotermes*）。本亚种由 Roonwal & Sen-Sarma 于 1960 年描述，模式产地为 India: Uttarakhand: Dehra Dun。本页暂无单列的分布记录，母种 *Neotermes megaoculatus* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -39,7 +39,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种
 - **种**：[巨眼新白蚁 *Neotermes megaoculatus*]({{ site.base_url }}/species/neotermes-megaoculatus/)
 - **亚种**：本页（*Neotermes megaoculatus megaoculatus*）

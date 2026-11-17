@@ -12,7 +12,7 @@ genus_zh: "努瓦罗白蚁属"
 genus_latin: "Noirotitermes"
 genus_id: "noirotitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**努瓦罗努瓦罗白蚁**（*Noirotitermes noiroti*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）努瓦罗白蚁属（*Noirotitermes*）的现存唯一种。本种由 Cancello & Myles 于 2000 年描述，模式产地为 Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]。分布记录包括巴西。
+**努瓦罗努瓦罗白蚁**（*Noirotitermes noiroti*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）努瓦罗白蚁属（*Noirotitermes*）的现存唯一种。本种由 Cancello & Myles 于 2000 年描述，模式产地为 Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]。分布记录包括巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[努瓦罗白蚁属 *Noirotitermes*]({{ site.base_url }}/genus/noirotitermes/) —— 单型属，仅含 1 种
 

@@ -14,7 +14,7 @@ genus_zh: "鼻大白蚁属"
 genus_latin: "Sinqasapatermes"
 genus_id: "sinqasapatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Sinqasapatermes sachae*** es la única especie viviente del género *Sinqasapatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cuezzo & Nickle en 2011; la localidad tipo es Peru: Loreto: Arcadia \[1S 75.3W\]. Distribución según la fuente: Colombia, Ecuador, Peru.
+***Sinqasapatermes sachae*** es la única especie viviente del género *Sinqasapatermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Cuezzo & Nickle en 2011; la localidad tipo es Peru: Loreto: Arcadia \[1S 75.3W\]. Distribución según la fuente: Colombia, Ecuador, Peru.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *sachae*: Del quechua sacha (bosque), en referencia a su h�
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Sinqasapatermes*]({{ site.base_url }}/es/genus/sinqasapatermes/) — monotípico, 1 especie
 

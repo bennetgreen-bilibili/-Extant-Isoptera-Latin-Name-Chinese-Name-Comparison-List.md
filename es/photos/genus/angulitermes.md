@@ -20,7 +20,7 @@ back_label: "角白蚁属 Angulitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Promirotermitinae"
     url: "/es/subfamily/promirotermitinae/"

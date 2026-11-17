@@ -14,7 +14,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Globitermes globosus depilis*** es una subespecie de *Globitermes globosus*, en la familia TERMITIDAE (subfamilia Amitermitinae), género *Globitermes*. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak: Mt. Lambir. No se incluye un registro de distribución separado en esta página; véase la especie parental *Globitermes globosus* más abajo.
+***Globitermes globosus depilis*** es una subespecie de *Globitermes globosus*, en la familia Termitidae (subfamilia Amitermitinae), género *Globitermes*. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak: Mt. Lambir. No se incluye un registro de distribución separado en esta página; véase la especie parental *Globitermes globosus* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *depilis*: Del latín depilis (sin pelo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Globitermes*]({{ site.base_url }}/es/genus/globitermes/) — 7 especies
 - **Especie**: [*Globitermes globosus*]({{ site.base_url }}/es/species/globitermes-globosus/)

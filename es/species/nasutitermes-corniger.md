@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Trinidad and Tobago: Trinidad; French Guiana: Cayenne [4.93
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes corniger*** es una especie y la especie tipo del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución según la fuente: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States. Este sitio registra 14 sinónimos junior para la especie.
+***Nasutitermes corniger*** es una especie y la especie tipo del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución según la fuente: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States. Este sitio registra 14 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *corniger*: De corni (cuerno) + ger (portador)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 

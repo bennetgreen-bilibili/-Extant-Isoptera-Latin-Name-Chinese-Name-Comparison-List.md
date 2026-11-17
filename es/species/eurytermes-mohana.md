@@ -14,7 +14,7 @@ genus_zh: "宽白蚁属"
 genus_latin: "Eurytermes"
 genus_id: "eurytermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eurytermes mohana*** es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Rathore en 1995; la localidad tipo es India: Rajasthan: Mandal, 71 km E Bhilwara. Distribución según la fuente: Oriental region, India.
+***Eurytermes mohana*** es una especie del género *Eurytermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Rathore en 1995; la localidad tipo es India: Rajasthan: Mandal, 71 km E Bhilwara. Distribución según la fuente: Oriental region, India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mohana*: En honor de Mohana (persona o lugar)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Eurytermes*]({{ site.base_url }}/es/genus/eurytermes/) — 6 especies
 - **Especie tipo del género**: *Eurytermes assmuthi*

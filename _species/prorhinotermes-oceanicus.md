@@ -12,7 +12,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Costa Rica: Cocos Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海洋原鼻白蚁**（*Prorhinotermes oceanicus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Costa Rica: Cocos Island。分布记录包括哥斯达黎加、哥斯达黎加可可斯岛。本种有 1 个次异名。
+**海洋原鼻白蚁**（*Prorhinotermes oceanicus*）是沙白蚁科（Psammotermitidae）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Costa Rica: Cocos Island。分布记录包括哥斯达黎加、哥斯达黎加可可斯岛。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Costa Rica: Cocos Island"
 
 ## 分类位置
 
-- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **科**：[沙白蚁科 Psammotermitidae]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
 - **属**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种
 - **本属模式种**：*Prorhinotermes inopinatus*
 

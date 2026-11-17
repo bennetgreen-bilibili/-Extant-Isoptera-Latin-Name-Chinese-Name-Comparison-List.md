@@ -14,7 +14,7 @@ genus_zh: "曲白蚁属"
 genus_latin: "Curvitermes"
 genus_id: "curvitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Curvitermes odontognathus*** es una especie y la especie tipo del género *Curvitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]. Distribución según la fuente: Brazil, Colombia, Bolivia, Ecuador.
+***Curvitermes odontognathus*** es una especie y la especie tipo del género *Curvitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]. Distribución según la fuente: Brazil, Colombia, Bolivia, Ecuador.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *odontognathus*: Del griego odous (diente) + gnathos (mand�
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Curvitermes*]({{ site.base_url }}/es/genus/curvitermes/) — 2 especies
 

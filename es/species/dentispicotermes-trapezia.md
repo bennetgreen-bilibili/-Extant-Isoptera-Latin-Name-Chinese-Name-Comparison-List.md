@@ -14,7 +14,7 @@ genus_zh: "齿尖白蚁属"
 genus_latin: "Dentispicotermes"
 genus_id: "dentispicotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Dentispicotermes trapezia*** es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Scheffrahn en 2024; la localidad tipo es Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribución según la fuente: Bolivia, Paraguay, Pantanal–Chaco.
+***Dentispicotermes trapezia*** es una especie del género *Dentispicotermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Scheffrahn en 2024; la localidad tipo es Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribución según la fuente: Bolivia, Paraguay, Pantanal–Chaco.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *trapezia*: Del griego trapezion (trapecio)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Dentispicotermes*]({{ site.base_url }}/es/genus/dentispicotermes/) — 6 especies
 - **Especie tipo del género**: *Dentispicotermes globicephalus*

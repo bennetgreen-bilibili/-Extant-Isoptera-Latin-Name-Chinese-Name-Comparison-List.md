@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Kenya: Kamiti River, Athi River region"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Neotermes meruensis*** es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Meru region on river Ngare na nyuki. Distribución según la fuente: East/Central Africa, Kenya, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
+***Neotermes meruensis*** es una especie del género *Neotermes*, en la familia Kalotermitidae. La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Meru region on river Ngare na nyuki. Distribución según la fuente: East/Central Africa, Kenya, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *meruensis*: Por el monte Meru, Tanzania
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Neotermes*]({{ site.base_url }}/es/genus/neotermes/) — 121 especies
 - **Especie tipo del género**: *Neotermes castaneus*
 

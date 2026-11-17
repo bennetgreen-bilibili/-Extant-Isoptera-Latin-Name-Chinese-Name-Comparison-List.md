@@ -12,7 +12,7 @@ genus_zh: "马来白蚁属"
 genus_latin: "Malaysiotermes"
 genus_id: "malaysiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Malaysia: Selangor: Sungei Buloh; Malaysia: Sabah: Quoin Hi
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**刺头马来白蚁**（*Malaysiotermes spinocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）马来白蚁属（*Malaysiotermes*）的一种，也是本属的模式种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Kedah: Sungai Lalang。分布记录包括印度尼西亚、马来西亚。本种有 4 个次异名。
+**刺头马来白蚁**（*Malaysiotermes spinocephalus*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）马来白蚁属（*Malaysiotermes*）的一种，也是本属的模式种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Kedah: Sungai Lalang。分布记录包括印度尼西亚、马来西亚。本种有 4 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Malaysia: Selangor: Sungei Buloh; Malaysia: Sabah: Quoin Hi
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[马来白蚁属 *Malaysiotermes*]({{ site.base_url }}/genus/malaysiotermes/) —— 共 2 种
 

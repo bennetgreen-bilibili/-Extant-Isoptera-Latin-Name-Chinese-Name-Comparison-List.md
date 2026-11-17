@@ -12,7 +12,7 @@ genus_zh: "平扭白蚁属"
 genus_latin: "Planicapritermes"
 genus_id: "planicapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长唇平扭白蚁**（*Planicapritermes longilabrum*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）平扭白蚁属（*Planicapritermes*）的一种。本种由 Constantino 于 1998 年描述，模式产地为 Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]。分布记录包括巴西。
+**长唇平扭白蚁**（*Planicapritermes longilabrum*）是白蚁科（Termitidae）新扭白蚁亚科（Neocapritermitinae）平扭白蚁属（*Planicapritermes*）的一种。本种由 Constantino 于 1998 年描述，模式产地为 Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]。分布记录包括巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/subfamily/neocapritermitinae/) —— 本站收录 3 属 20 种
 - **属**：[平扭白蚁属 *Planicapritermes*]({{ site.base_url }}/genus/planicapritermes/) —— 共 2 种
 - **本属模式种**：*Planicapritermes planiceps*

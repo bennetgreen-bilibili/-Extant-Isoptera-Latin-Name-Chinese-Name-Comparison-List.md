@@ -14,7 +14,7 @@ genus_zh: "小瘤白蚁属"
 genus_latin: "Tuberculitermes"
 genus_id: "tuberculitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Tuberculitermes bycanistes*** es una especie y la especie tipo del género *Tuberculitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Cameroon: River Mungo. Distribución según la fuente: Old World tropics, Senegal, etc., West Africa.
+***Tuberculitermes bycanistes*** es una especie y la especie tipo del género *Tuberculitermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Cameroon: River Mungo. Distribución según la fuente: Old World tropics, Senegal, etc., West Africa.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *bycanistes*: Del griego bykanē (trompeta) + -istes (que s
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Tuberculitermes*]({{ site.base_url }}/es/genus/tuberculitermes/) — 3 especies
 

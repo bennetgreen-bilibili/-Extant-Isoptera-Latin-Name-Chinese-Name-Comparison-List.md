@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Guatemala: San José; Colombia: Cundinamarca: Bogotá [4.6N
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes nigriceps*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haldeman en 1854; la localidad tipo es Mexico: Western Mexico. Distribución según la fuente: Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands. Este sitio registra 4 sinónimos junior para la especie.
+***Nasutitermes nigriceps*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Haldeman en 1854; la localidad tipo es Mexico: Western Mexico. Distribución según la fuente: Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands. Este sitio registra 4 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *nigriceps*: Del latín niger (negro) + -ceps (cabeza), de 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

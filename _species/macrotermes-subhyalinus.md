@@ -12,7 +12,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Tanzania: Zanzibar: Kokotoni; Benin: Grand Popo; Kenya: Kal
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**近明大白蚁**（*Macrotermes subhyalinus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括旧热带界、肯尼亚、埃塞俄比亚、坦桑尼亚、塞内加尔、科特迪瓦、安哥拉、贝宁、博茨瓦纳、布隆迪、中非共和国、乍得、刚果民主共和国、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马拉维、马里、莫桑比克、纳米比亚、尼日利亚、阿曼、卢旺达、沙特阿拉伯、塞拉利昂、索马里、苏丹、多哥、乌干达、也门、赞比亚、津巴布韦。本种有 4 个次异名。
+**近明大白蚁**（*Macrotermes subhyalinus*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括旧热带界、肯尼亚、埃塞俄比亚、坦桑尼亚、塞内加尔、科特迪瓦、安哥拉、贝宁、博茨瓦纳、布隆迪、中非共和国、乍得、刚果民主共和国、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马拉维、马里、莫桑比克、纳米比亚、尼日利亚、阿曼、卢旺达、沙特阿拉伯、塞拉利昂、索马里、苏丹、多哥、乌干达、也门、赞比亚、津巴布韦。本种有 4 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Tanzania: Zanzibar: Kokotoni; Benin: Grand Popo; Kenya: Kal
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
 - **本属模式种**：*Macrotermes lilljeborgi*

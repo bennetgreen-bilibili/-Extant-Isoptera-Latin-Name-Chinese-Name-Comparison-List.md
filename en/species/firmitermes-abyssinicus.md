@@ -14,7 +14,7 @@ genus_zh: "坚白蚁属"
 genus_latin: "Firmitermes"
 genus_id: "firmitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Ethiopia: Monti Berrek, near Ancover, 15 km NE of Addis Aba
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Firmitermes abyssinicus*** is the only extant species of the genus *Firmitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1911; the type locality is Ethiopia: Hicka. Distribution: Old World tropics, Ethiopia. This site records 1 junior synonym for the species.
+***Firmitermes abyssinicus*** is the only extant species of the genus *Firmitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sjöstedt in 1911; the type locality is Ethiopia: Hicka. Distribution: Old World tropics, Ethiopia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *abyssinicus*: Named after Abyssinia (Ethiopia, former name)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Firmitermes*]({{ site.base_url }}/en/genus/firmitermes/) — monotypic, 1 species
 

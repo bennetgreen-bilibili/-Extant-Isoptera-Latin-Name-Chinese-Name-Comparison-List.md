@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Morphology_of_Cthyll
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "HETEROTERMITIDAE"
+  - name: "Heterotermitidae"
     url: "/en/family/heterotermitidae/"
   - name: "Heterotermes"
     url: "/en/genus/heterotermes/"

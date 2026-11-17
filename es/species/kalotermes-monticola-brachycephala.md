@@ -14,7 +14,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Kalotermes monticola brachycephala*** es una subespecie de *Kalotermes monticola*, en la familia KALOTERMITIDAE, género *Kalotermes*. La subespecie fue descrita por Sjöstedt en 1926; la localidad tipo es Algeria: Massif de l’Edough. No se incluye un registro de distribución separado en esta página; véase la especie parental *Kalotermes monticola* más abajo.
+***Kalotermes monticola brachycephala*** es una subespecie de *Kalotermes monticola*, en la familia Kalotermitidae, género *Kalotermes*. La subespecie fue descrita por Sjöstedt en 1926; la localidad tipo es Algeria: Massif de l’Edough. No se incluye un registro de distribución separado en esta página; véase la especie parental *Kalotermes monticola* más abajo.
 
 ## Etimología
 
@@ -41,7 +41,7 @@ Epíteto específico *brachycephala*: Del griego brachys (corto) + kephalē (cab
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Kalotermes*]({{ site.base_url }}/es/genus/kalotermes/) — 21 especies
 - **Especie**: [*Kalotermes monticola*]({{ site.base_url }}/es/species/kalotermes-monticola/)
 - **Subespecie**: esta página (*Kalotermes monticola brachycephala*)

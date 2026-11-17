@@ -14,7 +14,7 @@ genus_zh: "和白蚁属"
 genus_latin: "Adaiphrotermes"
 genus_id: "adaiphrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Adaiphrotermes cuniculator*** is a species and the type species of the genus *Adaiphrotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Ghana: 40 mi from Tumu on Lawra Road. Distribution: West Africa.
+***Adaiphrotermes cuniculator*** is a species and the type species of the genus *Adaiphrotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Ghana: 40 mi from Tumu on Lawra Road. Distribution: West Africa.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *cuniculator*: Latin cuniculator (tunneller)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Adaiphrotermes*]({{ site.base_url }}/en/genus/adaiphrotermes/) — 3 species
 

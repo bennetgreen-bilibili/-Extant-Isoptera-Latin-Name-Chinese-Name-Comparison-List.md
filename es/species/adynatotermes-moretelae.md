@@ -14,7 +14,7 @@ genus_zh: "弱白蚁属"
 genus_latin: "Adynatotermes"
 genus_id: "adynatotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Adynatotermes moretelae*** es la única especie viviente del género *Adynatotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Transvaal: the Moretele, Pienaars River. Distribución según la fuente: South Africa.
+***Adynatotermes moretelae*** es la única especie viviente del género *Adynatotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Transvaal: the Moretele, Pienaars River. Distribución según la fuente: South Africa.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *moretelae*: Por la localidad de Moretela
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Adynatotermes*]({{ site.base_url }}/es/genus/adynatotermes/) — monotípico, 1 especie
 

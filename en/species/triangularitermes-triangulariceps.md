@@ -14,7 +14,7 @@ genus_zh: "三角白蚁属"
 genus_latin: "Triangularitermes"
 genus_id: "triangularitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Triangularitermes triangulariceps*** is the only extant species of the genus *Triangularitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: Brazil, Colombia, Ecuador, Peru.
+***Triangularitermes triangulariceps*** is the only extant species of the genus *Triangularitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: Brazil, Colombia, Ecuador, Peru.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *triangulariceps*: From triangulari + ceps
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Triangularitermes*]({{ site.base_url }}/en/genus/triangularitermes/) — monotypic, 1 species
 

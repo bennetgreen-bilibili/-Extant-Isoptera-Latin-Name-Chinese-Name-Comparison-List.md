@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Schedorhinotermes lamanianus*** es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribución según la fuente: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
+***Schedorhinotermes lamanianus*** es una especie del género *Schedorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribución según la fuente: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *lamanianus*: En honor de Laman
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Schedorhinotermes*]({{ site.base_url }}/es/genus/schedorhinotermes/) — 35 especies
 - **Especie tipo del género**: *Schedorhinotermes intermedius*
 

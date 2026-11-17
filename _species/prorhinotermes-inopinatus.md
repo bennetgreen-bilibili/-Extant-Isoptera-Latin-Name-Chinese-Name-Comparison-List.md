@@ -12,7 +12,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Vanuatu: Nendo Island: Graciosa Bay; Solomon Islands: Malay
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**意外原鼻白蚁**（*Prorhinotermes inopinatus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1909 年描述，模式产地为 (country unknown): "Insulae Samoa, Ninafoon"。分布记录包括澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛。本种有 2 个次异名。
+**意外原鼻白蚁**（*Prorhinotermes inopinatus*）是沙白蚁科（Psammotermitidae）原鼻白蚁属（*Prorhinotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1909 年描述，模式产地为 (country unknown): "Insulae Samoa, Ninafoon"。分布记录包括澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Vanuatu: Nendo Island: Graciosa Bay; Solomon Islands: Malay
 
 ## 分类位置
 
-- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **科**：[沙白蚁科 Psammotermitidae]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
 - **属**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种
 
 ## 分布

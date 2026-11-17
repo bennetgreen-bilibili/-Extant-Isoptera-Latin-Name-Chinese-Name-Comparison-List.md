@@ -12,7 +12,7 @@ genus_zh: "厚唇白蚁属"
 genus_latin: "Labiotermes"
 genus_id: "labiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本种有 2 个次异名。
+**直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（Termitidae）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本种有 2 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种
 - **属**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种
 - **本属模式种**：*Labiotermes labralis*

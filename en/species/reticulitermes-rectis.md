@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Reticulitermes rectis*** is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Xia & Fan in 1981; the type locality is China: Hunan Province: Mangshan. Distribution: China.
+***Reticulitermes rectis*** is a species of the genus *Reticulitermes*, in the family Heterotermitidae. The species was described by Xia & Fan in 1981; the type locality is China: Hunan Province: Mangshan. Distribution: China.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *rectis*: From the descriptive term 'rect' (straight)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Reticulitermes*]({{ site.base_url }}/en/genus/reticulitermes/) — 140 species
 - **Type species of the genus**: *Reticulitermes flavipes*
 

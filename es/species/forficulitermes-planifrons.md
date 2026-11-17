@@ -14,7 +14,7 @@ genus_zh: "剪白蚁属"
 genus_latin: "Forficulitermes"
 genus_id: "forficulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "剪白蚁亚科"
 subfamily_latin: "Forficulitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Forficulitermes planifrons*** es la única especie viviente del género *Forficulitermes*, en la familia TERMITIDAE (subfamilia Forficulitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Sona Mpangu. Distribución según la fuente: Central Africa, Cameroon.
+***Forficulitermes planifrons*** es la única especie viviente del género *Forficulitermes*, en la familia Termitidae (subfamilia Forficulitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Sona Mpangu. Distribución según la fuente: Central Africa, Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *planifrons*: Del latín planus (plano) + frons (frente), d
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Forficulitermitinae]({{ site.base_url }}/es/subfamily/forficulitermitinae/) — 1 género, 1 especie
 - **Género**: [*Forficulitermes*]({{ site.base_url }}/es/genus/forficulitermes/) — monotípico, 1 especie
 

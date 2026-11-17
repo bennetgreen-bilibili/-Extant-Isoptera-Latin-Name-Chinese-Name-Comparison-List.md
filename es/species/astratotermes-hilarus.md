@@ -14,7 +14,7 @@ genus_zh: "无刃白蚁属"
 genus_latin: "Astratotermes"
 genus_id: "astratotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Astratotermes hilarus*** es una especie del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Katanga: Keyberg. Distribución según la fuente: Central African Congo Basin, East Africa, Cameroon, Democratic Republic of the Congo, Tanzania.
+***Astratotermes hilarus*** es una especie del género *Astratotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Katanga: Keyberg. Distribución según la fuente: Central African Congo Basin, East Africa, Cameroon, Democratic Republic of the Congo, Tanzania.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hilarus*: Del latín hilarus (alegre)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Astratotermes*]({{ site.base_url }}/es/genus/astratotermes/) — 6 especies
 - **Especie tipo del género**: *Astratotermes prosenus*

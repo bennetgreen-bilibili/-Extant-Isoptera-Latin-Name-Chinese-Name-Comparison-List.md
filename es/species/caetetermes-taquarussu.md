@@ -14,7 +14,7 @@ genus_zh: "林白蚁属"
 genus_latin: "Caetetermes"
 genus_id: "caetetermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Caetetermes taquarussu*** es una especie y la especie tipo del género *Caetetermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1981; la localidad tipo es Ecuador: Morona-Santiago: Los Tayos \[3.1S 78.2W\]. Distribución según la fuente: South America, Brazil, Colombia, French Guiana, Ecuador, Guyana.
+***Caetetermes taquarussu*** es una especie y la especie tipo del género *Caetetermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1981; la localidad tipo es Ecuador: Morona-Santiago: Los Tayos \[3.1S 78.2W\]. Distribución según la fuente: South America, Brazil, Colombia, French Guiana, Ecuador, Guyana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *taquarussu*: Tupí taquara (bambú) + -ussu (grande)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Caetetermes*]({{ site.base_url }}/es/genus/caetetermes/) — 2 especies
 

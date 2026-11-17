@@ -14,7 +14,7 @@ genus_zh: "原方白蚁属"
 genus_latin: "Procubitermes"
 genus_id: "procubitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Procubitermes aburiensis*** es una especie del género *Procubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Accra. Distribución según la fuente: West Africa, Côte d'Ivoire, Guinea, Togo, Ghana, Nigeria.
+***Procubitermes aburiensis*** es una especie del género *Procubitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Accra. Distribución según la fuente: West Africa, Côte d'Ivoire, Guinea, Togo, Ghana, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *aburiensis*: Por la localidad de Abur
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Procubitermes*]({{ site.base_url }}/es/genus/procubitermes/) — 9 especies
 - **Especie tipo del género**: *Procubitermes arboricola*

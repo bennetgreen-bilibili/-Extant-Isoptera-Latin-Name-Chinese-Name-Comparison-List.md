@@ -14,7 +14,7 @@ genus_zh: "颚钩白蚁属"
 genus_latin: "Gnathamitermes"
 genus_id: "gnathamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Gnathamitermes grandis*** is a species of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Light in 1930; the type locality is Mexico: Guadalajara. Distribution: Central America (Mexico).
+***Gnathamitermes grandis*** is a species of the genus *Gnathamitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Light in 1930; the type locality is Mexico: Guadalajara. Distribution: Central America (Mexico).
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *grandis*: Latin grandis (great)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Gnathamitermes*]({{ site.base_url }}/en/genus/gnathamitermes/) — 4 species
 - **Type species of the genus**: *Gnathamitermes perplexus*

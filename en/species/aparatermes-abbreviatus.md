@@ -14,7 +14,7 @@ genus_zh: "弯肠白蚁属"
 genus_latin: "Aparatermes"
 genus_id: "aparatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Aparatermes abbreviatus*** is a species and the type species of the genus *Aparatermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Silvestri in 1901; the type locality is Argentina: Santa Fé: Sunchales \[ 30.9333S 61.5667W \]. Distribution: Amazon region, northwestern South America, southeastern South America, Argentina/Paraguay/Uruguay, Bolivia.
+***Aparatermes abbreviatus*** is a species and the type species of the genus *Aparatermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Silvestri in 1901; the type locality is Argentina: Santa Fé: Sunchales \[ 30.9333S 61.5667W \]. Distribution: Amazon region, northwestern South America, southeastern South America, Argentina/Paraguay/Uruguay, Bolivia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *abbreviatus*: Latin abbreviatus (shortened)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Aparatermes*]({{ site.base_url }}/en/genus/aparatermes/) — 3 species
 

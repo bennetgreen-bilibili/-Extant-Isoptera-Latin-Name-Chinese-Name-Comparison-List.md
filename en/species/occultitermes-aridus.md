@@ -14,7 +14,7 @@ genus_zh: "隐白蚁属"
 genus_latin: "Occultitermes"
 genus_id: "occultitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Occultitermes aridus*** is a species of the genus *Occultitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Gay in 1977; the type locality is Australia: Queensland: Carnarvon Range. Distribution: Australia.
+***Occultitermes aridus*** is a species of the genus *Occultitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Gay in 1977; the type locality is Australia: Queensland: Carnarvon Range. Distribution: Australia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *aridus*: Latin aridus (arid, dry)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Occultitermes*]({{ site.base_url }}/en/genus/occultitermes/) — 2 species
 - **Type species of the genus**: *Occultitermes occultus*

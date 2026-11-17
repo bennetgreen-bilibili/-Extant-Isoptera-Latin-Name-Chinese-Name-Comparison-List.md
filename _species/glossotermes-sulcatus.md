@@ -12,7 +12,7 @@ genus_zh: "舌白蚁属"
 genus_latin: "Glossotermes"
 genus_id: "glossotermes"
 family_zh: "齿白蚁科"
-family_latin: "SERRITERMITIDAE"
+family_latin: "Serritermitidae"
 family_id: "serritermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具纹舌白蚁**（*Glossotermes sulcatus*）是齿白蚁科（SERRITERMITIDAE）舌白蚁属（*Glossotermes*）的一种。本种由 Cancello & DeSouza 于 2005 年描述，模式产地为 Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]。分布记录包括巴西。
+**具纹舌白蚁**（*Glossotermes sulcatus*）是齿白蚁科（Serritermitidae）舌白蚁属（*Glossotermes*）的一种。本种由 Cancello & DeSouza 于 2005 年描述，模式产地为 Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]。分布记录包括巴西。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种
+- **科**：[齿白蚁科 Serritermitidae]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种
 - **属**：[舌白蚁属 *Glossotermes*]({{ site.base_url }}/genus/glossotermes/) —— 共 2 种
 - **本属模式种**：*Glossotermes oculatus*
 

@@ -12,7 +12,7 @@ genus_zh: "解甲白蚁属"
 genus_latin: "Anoplotermes"
 genus_id: "anoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**门神解甲白蚁**（*Anoplotermes janus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Bourguignon & Roisin 于 2010 年描述，模式产地为 French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。
+**门神解甲白蚁**（*Anoplotermes janus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Bourguignon & Roisin 于 2010 年描述，模式产地为 French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种
 - **本属模式种**：*Anoplotermes pacificus*

@@ -14,7 +14,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Vietnam: ?; Myanmar: Moulmein; Myanmar: West Salween: Zibya
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Globitermes sulphureus*** es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Selangor: Perak. Distribución según la fuente: mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China. Este sitio registra 3 sinónimos junior para la especie.
+***Globitermes sulphureus*** es una especie del género *Globitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Selangor: Perak. Distribución según la fuente: mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *sulphureus*: Latín sulphureus (amarillo azufre)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Globitermes*]({{ site.base_url }}/es/genus/globitermes/) — 7 especies
 - **Especie tipo del género**: *Globitermes globosus*

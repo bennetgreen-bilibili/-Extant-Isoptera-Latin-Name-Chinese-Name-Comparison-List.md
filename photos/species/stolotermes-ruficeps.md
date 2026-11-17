@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/747186973/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "胄白蚁科 STOLOTERMITIDAE"
+  - name: "胄白蚁科 Stolotermitidae"
     url: "/family/stolotermitidae/"
   - name: "胄白蚁属 Stolotermes"
     url: "/genus/stolotermes/"

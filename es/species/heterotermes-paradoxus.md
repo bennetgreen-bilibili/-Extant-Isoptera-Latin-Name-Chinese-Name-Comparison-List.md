@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Queensland: Rockhampton"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heterotermes paradoxus*** es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Queensland: Mackay. Distribución según la fuente: Australia, Indonesia, Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
+***Heterotermes paradoxus*** es una especie del género *Heterotermes*, en la familia Heterotermitidae. La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Queensland: Mackay. Distribución según la fuente: Australia, Indonesia, Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *paradoxus*: Del griego paradoxos (paradójico, extraño)
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Heterotermes*]({{ site.base_url }}/es/genus/heterotermes/) — 31 especies
 - **Especie tipo del género**: *Heterotermes platycephalus*
 

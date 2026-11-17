@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Indonesia: Java: Bogor; Indonesia: Java: Tjiogrek near Bogo
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Odontotermes billitoni*** es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Belitung (Billiton). Distribución según la fuente: Southeast Asia (Indonesia, Malaysia). Este sitio registra 3 sinónimos junior para la especie.
+***Odontotermes billitoni*** es una especie del género *Odontotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Belitung (Billiton). Distribución según la fuente: Southeast Asia (Indonesia, Malaysia). Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *billitoni*: Por la localidad de Billiton (Belitung)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Odontotermes*]({{ site.base_url }}/es/genus/odontotermes/) — 198 especies
 - **Especie tipo del género**: *Odontotermes vulgaris*

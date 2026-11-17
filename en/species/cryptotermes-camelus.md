@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cryptotermes camelus*** is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn in 2021; the type locality is Bolivia: Santa Cruz: Pailón (-17.5899S, -62.4423W) \[ 17.5899S 62.4423W \]. Distribution: Bolivia.
+***Cryptotermes camelus*** is a species of the genus *Cryptotermes*, in the family Kalotermitidae. The species was described by Scheffrahn in 2021; the type locality is Bolivia: Santa Cruz: Pailón (-17.5899S, -62.4423W) \[ 17.5899S 62.4423W \]. Distribution: Bolivia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *camelus*: Latin camelus (camel)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Cryptotermes*]({{ site.base_url }}/en/genus/cryptotermes/) — 74 species
 - **Type species of the genus**: *Cryptotermes cavifrons*
 

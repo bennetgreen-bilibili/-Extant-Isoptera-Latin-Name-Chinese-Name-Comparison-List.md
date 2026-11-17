@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Soldier-and-worker-o
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Neocapritermitinae"
     url: "/es/subfamily/neocapritermitinae/"

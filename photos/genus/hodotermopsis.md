@@ -20,6 +20,6 @@ back_label: "原白蚁属 Hodotermopsis"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "原白蚁科 HODOTERMOPSIDAE"
+  - name: "原白蚁科 Hodotermopsidae"
     url: "/family/hodotermopsidae/"
 ---

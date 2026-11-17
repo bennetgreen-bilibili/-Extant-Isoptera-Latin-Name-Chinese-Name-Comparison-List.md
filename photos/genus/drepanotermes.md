@@ -20,7 +20,7 @@ back_label: "镰白蚁属 Drepanotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "弓白蚁亚科 Amitermitinae"
     url: "/subfamily/amitermitinae/"

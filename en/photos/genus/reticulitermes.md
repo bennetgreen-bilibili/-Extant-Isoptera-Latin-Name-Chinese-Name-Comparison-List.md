@@ -20,6 +20,6 @@ back_label: "散白蚁属 Reticulitermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "HETEROTERMITIDAE"
+  - name: "Heterotermitidae"
     url: "/en/family/heterotermitidae/"
 ---

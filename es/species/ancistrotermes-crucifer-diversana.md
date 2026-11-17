@@ -14,7 +14,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ancistrotermes crucifer diversana*** es una subespecie de *Ancistrotermes crucifer*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Ancistrotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Ancistrotermes crucifer* más abajo.
+***Ancistrotermes crucifer diversana*** es una subespecie de *Ancistrotermes crucifer*, en la familia Termitidae (subfamilia Macrotermitinae), género *Ancistrotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Ancistrotermes crucifer* más abajo.
 
 ## Etimología
 
@@ -44,7 +44,7 @@ Epíteto específico *diversana*: Del latín diversus (diverso, diferente)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Ancistrotermes*]({{ site.base_url }}/es/genus/ancistrotermes/) — 16 especies
 - **Especie**: [*Ancistrotermes crucifer*]({{ site.base_url }}/es/species/ancistrotermes-crucifer/)

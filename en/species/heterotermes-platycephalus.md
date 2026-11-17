@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Western Australia: Swan River"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Heterotermes platycephalus*** is a species and the type species of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: South Australia: Kangaroo Island. Distribution: Australia. This site records 1 junior synonym for the species.
+***Heterotermes platycephalus*** is a species and the type species of the genus *Heterotermes*, in the family Heterotermitidae. The species was described by Froggatt in 1897; the type locality is Australia: South Australia: Kangaroo Island. Distribution: Australia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *platycephalus*: From the descriptive term 'plat' (broad)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Heterotermes*]({{ site.base_url }}/en/genus/heterotermes/) — 31 species
 
 ## Distribution

@@ -14,7 +14,7 @@ genus_zh: "伪刺白蚁属"
 genus_latin: "Pseudacanthotermes"
 genus_id: "pseudacanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Democratic Republic of the Congo: Sankuru (Kassai); Democra
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pseudacanthotermes spiniger*** is a species of the genus *Pseudacanthotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1900; the type locality is Democratic Republic of the Congo: Umangi. Distribution: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. This site records 4 junior synonyms for the species.
+***Pseudacanthotermes spiniger*** is a species of the genus *Pseudacanthotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Sjöstedt in 1900; the type locality is Democratic Republic of the Congo: Umangi. Distribution: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. This site records 4 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *spiniger*: From spini + ger
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Pseudacanthotermes*]({{ site.base_url }}/en/genus/pseudacanthotermes/) — 6 species
 - **Type species of the genus**: *Pseudacanthotermes militaris*

@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Yemen: Abyan, in the Wadi Bana near Ga’ar"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Amitermes messinae*** es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Transvaal: Messina. Distribución según la fuente: South Africa, Egypt, Ethiopia, Iran, Kenya, Malawi, Saudi Arabia, Sudan, Tanzania, Yemen, Zambia. Este sitio registra 1 sinónimo junior para la especie.
+***Amitermes messinae*** es una especie del género *Amitermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Transvaal: Messina. Distribución según la fuente: South Africa, Egypt, Ethiopia, Iran, Kenya, Malawi, Saudi Arabia, Sudan, Tanzania, Yemen, Zambia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *messinae*: Por Messina (Musina), Sudáfrica
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Amitermes*]({{ site.base_url }}/es/genus/amitermes/) — 113 especies
 - **Especie tipo del género**: *Amitermes amifer*

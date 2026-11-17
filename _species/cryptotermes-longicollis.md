@@ -12,7 +12,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长颈堆砂白蚁**（*Cryptotermes longicollis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括中美洲、巴拿马、洪都拉斯、墨西哥、多米尼加、海地、蒙特塞拉特、波多黎各、特立尼达和多巴哥。
+**长颈堆砂白蚁**（*Cryptotermes longicollis*）是木白蚁科（Kalotermitidae）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括中美洲、巴拿马、洪都拉斯、墨西哥、多米尼加、海地、蒙特塞拉特、波多黎各、特立尼达和多巴哥。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
 - **本属模式种**：*Cryptotermes cavifrons*
 

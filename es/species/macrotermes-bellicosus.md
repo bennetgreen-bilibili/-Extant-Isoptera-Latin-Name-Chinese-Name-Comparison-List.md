@@ -14,7 +14,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Nigeria: Yaba; Democratic Republic of the Congo: Yambata; I
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Macrotermes bellicosus*** es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Smeathman en 1781; la localidad tipo es Sierra Leone: Njala. Distribución según la fuente: Old World tropics, Côte d'Ivoire, Senegal, Togo, Benin, Ghana, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Eritrea, Ethiopia, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mauritania, Mozambique, Niger, Nigeria, Sierra Leone, Somalia, Sudan, Tanzania, Uganda, Yemen. Este sitio registra 3 sinónimos junior para la especie.
+***Macrotermes bellicosus*** es una especie del género *Macrotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Smeathman en 1781; la localidad tipo es Sierra Leone: Njala. Distribución según la fuente: Old World tropics, Côte d'Ivoire, Senegal, Togo, Benin, Ghana, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Eritrea, Ethiopia, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mauritania, Mozambique, Niger, Nigeria, Sierra Leone, Somalia, Sudan, Tanzania, Uganda, Yemen. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *bellicosus*: Del latín bellicosus (belicoso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Macrotermes*]({{ site.base_url }}/es/genus/macrotermes/) — 57 especies
 - **Especie tipo del género**: *Macrotermes lilljeborgi*

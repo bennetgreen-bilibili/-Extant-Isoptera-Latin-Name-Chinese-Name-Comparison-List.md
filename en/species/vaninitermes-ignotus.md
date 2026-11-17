@@ -14,7 +14,7 @@ genus_zh: "瓦宁白蚁属"
 genus_latin: "Vaninitermes"
 genus_id: "vaninitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Amapá: Macapá, IEPA Fazendinha [0.04N 51.1W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Vaninitermes ignotus*** is a species and the type species of the genus *Vaninitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribution: Brazil, Colombia, French Guiana, Peru. This site records 1 junior synonym for the species.
+***Vaninitermes ignotus*** is a species and the type species of the genus *Vaninitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribution: Brazil, Colombia, French Guiana, Peru. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *ignotus*: Latin ignotus (unknown)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Vaninitermes*]({{ site.base_url }}/en/genus/vaninitermes/) — 2 species
 

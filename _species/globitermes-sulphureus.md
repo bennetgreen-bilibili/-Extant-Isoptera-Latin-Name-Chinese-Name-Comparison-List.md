@@ -12,7 +12,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Vietnam: ?; Myanmar: Moulmein; Myanmar: West Salween: Zibya
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄球白蚁**（*Globitermes sulphureus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Selangor: Perak。分布记录包括东南亚大陆、中南半岛、东南亚岛屿、南洋群岛、中国。本种有 3 个次异名。
+**黄球白蚁**（*Globitermes sulphureus*）是白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Selangor: Perak。分布记录包括东南亚大陆、中南半岛、东南亚岛屿、南洋群岛、中国。本种有 3 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Vietnam: ?; Myanmar: Moulmein; Myanmar: West Salween: Zibya
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[球白蚁属 *Globitermes*]({{ site.base_url }}/genus/globitermes/) —— 共 7 种
 - **本属模式种**：*Globitermes globosus*

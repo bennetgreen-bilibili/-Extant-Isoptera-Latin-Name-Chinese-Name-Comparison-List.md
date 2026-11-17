@@ -14,7 +14,7 @@ genus_zh: "双齿白蚁属"
 genus_latin: "Duplidentitermes"
 genus_id: "duplidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Duplidentitermes furcatidens*** is a species and the type species of the genus *Duplidentitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1924; the type locality is Central African Republic: Bania; Nola. Distribution: Cameroon, Central African Republic, Republic of the Congo (Brazzaville), Ghana, Côte d'Ivoire.
+***Duplidentitermes furcatidens*** is a species and the type species of the genus *Duplidentitermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sjöstedt in 1924; the type locality is Central African Republic: Bania; Nola. Distribution: Cameroon, Central African Republic, Republic of the Congo (Brazzaville), Ghana, Côte d'Ivoire.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *furcatidens*: Latin furca (fork) + dens (tooth), fork-toothed
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Duplidentitermes*]({{ site.base_url }}/en/genus/duplidentitermes/) — 3 species
 

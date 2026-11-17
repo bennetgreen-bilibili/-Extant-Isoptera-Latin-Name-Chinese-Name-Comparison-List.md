@@ -14,7 +14,7 @@ genus_zh: "高跷白蚁属"
 genus_latin: "Grallatotermes"
 genus_id: "grallatotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Grallatotermes splendidus*** is a species of the genus *Grallatotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Light & Wilson in 1936; the type locality is Philippines: Luzon: across Pampanga River from Arayat, SW shore of Lake Casili. Distribution: Philippines.
+***Grallatotermes splendidus*** is a species of the genus *Grallatotermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Light & Wilson in 1936; the type locality is Philippines: Luzon: across Pampanga River from Arayat, SW shore of Lake Casili. Distribution: Philippines.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *splendidus*: From the descriptive term 'splendid' (splendid)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Grallatotermes*]({{ site.base_url }}/en/genus/grallatotermes/) — 7 species
 - **Type species of the genus**: *Grallatotermes grallator*

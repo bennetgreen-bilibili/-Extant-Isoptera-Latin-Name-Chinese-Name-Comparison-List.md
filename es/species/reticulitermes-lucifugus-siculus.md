@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Reticulitermes lucifugus siculus*** es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Ghesini, Luchetti & Marini en 2024; la localidad tipo es Italy: Sicily. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus* más abajo.
+***Reticulitermes lucifugus siculus*** es una subespecie de *Reticulitermes lucifugus*, en la familia Heterotermitidae, género *Reticulitermes*. La subespecie fue descrita por Ghesini, Luchetti & Marini en 2024; la localidad tipo es Italy: Sicily. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus* más abajo.
 
 ## Etimología
 
@@ -41,7 +41,7 @@ Epíteto específico *siculus*: Del latín siculus (de Sicilia)
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Reticulitermes*]({{ site.base_url }}/es/genus/reticulitermes/) — 140 especies
 - **Especie**: [*Reticulitermes lucifugus*]({{ site.base_url }}/es/species/reticulitermes-lucifugus/)
 - **Subespecie**: esta página (*Reticulitermes lucifugus siculus*)

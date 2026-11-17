@@ -14,7 +14,7 @@ genus_zh: "钝颚白蚁属"
 genus_latin: "Ahmaditermes"
 genus_id: "ahmaditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ahmaditermes xiangyunensis*** es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gao & Gong en 1989; la localidad tipo es China: Yunnan Province: Xiangyun County. Distribución según la fuente: China (Yunnan).
+***Ahmaditermes xiangyunensis*** es una especie del género *Ahmaditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Gao & Gong en 1989; la localidad tipo es China: Yunnan Province: Xiangyun County. Distribución según la fuente: China (Yunnan).
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *xiangyunensis*: Por la localidad de Xiangyun
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ahmaditermes*]({{ site.base_url }}/es/genus/ahmaditermes/) — 21 especies
 - **Especie tipo del género**: *Ahmaditermes pyricephalus*

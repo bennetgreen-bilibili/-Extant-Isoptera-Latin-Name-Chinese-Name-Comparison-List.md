@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"family","family":"MASTOTERMITIDAE","family_zh":"澳白蚁科","family_id":"mastotermitidae","records":300,"cells":94,"genera":1,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"family","family":"Mastotermitidae","family_zh":"澳白蚁科","family_id":"mastotermitidae","records":300,"cells":94,"genera":1,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[151.5,-33.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[143.5,-25.5]},"properties":{"n":1}},

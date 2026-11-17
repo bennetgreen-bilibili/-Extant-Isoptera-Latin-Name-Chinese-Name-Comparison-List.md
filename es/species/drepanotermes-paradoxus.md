@@ -14,7 +14,7 @@ genus_zh: "镰白蚁属"
 genus_latin: "Drepanotermes"
 genus_id: "drepanotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Drepanotermes paradoxus*** es una especie del género *Drepanotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Watson & Perry en 1981; la localidad tipo es Australia: Western Australia: 10 mi (16 km) SE of Roebourne. Distribución según la fuente: Australia.
+***Drepanotermes paradoxus*** es una especie del género *Drepanotermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Watson & Perry en 1981; la localidad tipo es Australia: Western Australia: 10 mi (16 km) SE of Roebourne. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *paradoxus*: Del griego paradoxos (paradójico, extraño)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Drepanotermes*]({{ site.base_url }}/es/genus/drepanotermes/) — 24 especies
 - **Especie tipo del género**: *Drepanotermes perniger*

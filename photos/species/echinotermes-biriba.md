@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Echinotermes_biriba_
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
   - name: "尖白蚁亚科 Apicotermitinae"
     url: "/subfamily/apicotermitinae/"

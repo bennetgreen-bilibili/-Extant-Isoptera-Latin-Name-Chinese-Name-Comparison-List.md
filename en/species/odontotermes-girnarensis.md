@@ -14,7 +14,7 @@ genus_zh: "土白蚁属"
 genus_latin: "Odontotermes"
 genus_id: "odontotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Odontotermes girnarensis*** is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Thakur in 1989; the type locality is India: Gujarat: Junagarh district: Bordevi forest, near Girnar Hills, about 8 km from Bhavnath Panchayat Rest House. Distribution: South Asia, Gujarat, India.
+***Odontotermes girnarensis*** is a species of the genus *Odontotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Thakur in 1989; the type locality is India: Gujarat: Junagarh district: Bordevi forest, near Girnar Hills, about 8 km from Bhavnath Panchayat Rest House. Distribution: South Asia, Gujarat, India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *girnarensis*: Named after Girnar (Gujarat, India)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Odontotermes*]({{ site.base_url }}/en/genus/odontotermes/) — 198 species
 - **Type species of the genus**: *Odontotermes vulgaris*

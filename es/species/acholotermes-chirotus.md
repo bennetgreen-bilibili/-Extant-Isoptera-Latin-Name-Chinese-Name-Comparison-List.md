@@ -14,7 +14,7 @@ genus_zh: "顺白蚁属"
 genus_latin: "Acholotermes"
 genus_id: "acholotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Acholotermes chirotus*** es una especie del género *Acholotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: East Africa, Congo, Democratic Republic of the Congo.
+***Acholotermes chirotus*** es una especie del género *Acholotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución según la fuente: East Africa, Congo, Democratic Republic of the Congo.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *chirotus*: Del griego cheir (mano) + -otos (que tiene)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Acholotermes*]({{ site.base_url }}/es/genus/acholotermes/) — 5 especies
 - **Especie tipo del género**: *Acholotermes tithasus*

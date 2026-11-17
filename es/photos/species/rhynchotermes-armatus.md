@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rhynchotermes_armatu
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Syntermitinae"
     url: "/es/subfamily/syntermitinae/"

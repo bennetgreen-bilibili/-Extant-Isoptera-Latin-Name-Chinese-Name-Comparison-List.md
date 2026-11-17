@@ -14,7 +14,7 @@ genus_zh: "须白蚁属"
 genus_latin: "Hospitalitermes"
 genus_id: "hospitalitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hospitalitermes nemorosus*** es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ghidini en 1937; la localidad tipo es Indonesia: Sumatra: Batang Palupulz. Distribución según la fuente: Indonesia.
+***Hospitalitermes nemorosus*** es una especie del género *Hospitalitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Ghidini en 1937; la localidad tipo es Indonesia: Sumatra: Batang Palupulz. Distribución según la fuente: Indonesia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *nemorosus*: Del latín nemorosus (boscoso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Hospitalitermes*]({{ site.base_url }}/es/genus/hospitalitermes/) — 37 especies
 - **Especie tipo del género**: *Hospitalitermes hospitalis*

@@ -14,7 +14,7 @@ genus_zh: "暗鼻白蚁属"
 genus_latin: "Tiunatermes"
 genus_id: "tiunatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Tiunatermes mariuzani*** is a species and the type species of the genus *Tiunatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Carrijo, Cuezzo & Santos in 2015; the type locality is Brasil: Tocantins: Jalapão, Ponte Alta do Tocantins \[11.0269S 47.1417W\]. Distribution: South America, Brazil.
+***Tiunatermes mariuzani*** is a species and the type species of the genus *Tiunatermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Carrijo, Cuezzo & Santos in 2015; the type locality is Brasil: Tocantins: Jalapão, Ponte Alta do Tocantins \[11.0269S 47.1417W\]. Distribution: South America, Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *mariuzani*: Named after Mariuzan
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Tiunatermes*]({{ site.base_url }}/en/genus/tiunatermes/) — 2 species
 

@@ -12,7 +12,7 @@ genus_zh: "小白蚁属"
 genus_latin: "Microtermes"
 genus_id: "microtermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "India: Uttarakhand: Dehra Dun"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**单色小白蚁**（*Microtermes unicolor*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 India: Uttarakhand: Dehra Dun。分布记录包括南亚、巴基斯坦、印度。本种有 1 个次异名。
+**单色小白蚁**（*Microtermes unicolor*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 India: Uttarakhand: Dehra Dun。分布记录包括南亚、巴基斯坦、印度。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "India: Uttarakhand: Dehra Dun"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种
 - **本属模式种**：*Microtermes incertus*

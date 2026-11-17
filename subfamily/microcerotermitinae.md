@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "锯白蚁亚科 Microcerotermitinae 属与物种名录"
-description: "锯白蚁亚科（Microcerotermitinae）是白蚁科（TERMITIDAE）下的一个亚科，本站收录 2 个属、150 个种、7 个亚种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。"
+description: "锯白蚁亚科（Microcerotermitinae）是白蚁科（Termitidae）下的一个亚科，本站收录 2 个属、150 个种、7 个亚种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林
@@ -26,7 +26,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/microcerotermitinae/">锯白蚁亚科</a> › <span>本亚科</span></nav>
 <header class="taxon-header">
 <h1>锯白蚁亚科 <i>Microcerotermitinae</i></h1>
-<p class="taxon-meta">白蚁科 TERMITIDAE · 2 属 · 150 种、7 亚种</p>
+<p class="taxon-meta">白蚁科 Termitidae · 2 属 · 150 种、7 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-lang="zh-CN" data-lang-prefix="" data-anchors="microcerotermitinae,microcerotermes,onkotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本亚科范围内全文检索（157 个种与亚种）：名字、分布、模式产地与研究记述</label>

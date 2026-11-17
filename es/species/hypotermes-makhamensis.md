@@ -14,7 +14,7 @@ genus_zh: "地白蚁属"
 genus_latin: "Hypotermes"
 genus_id: "hypotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hypotermes makhamensis*** es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Makham. Distribución según la fuente: Thailand, Vietnam, Cambodia.
+***Hypotermes makhamensis*** es una especie del género *Hypotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Makham. Distribución según la fuente: Thailand, Vietnam, Cambodia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *makhamensis*: Por la localidad de Makham
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Hypotermes*]({{ site.base_url }}/es/genus/hypotermes/) — 13 especies
 - **Especie tipo del género**: *Hypotermes obscuriceps*

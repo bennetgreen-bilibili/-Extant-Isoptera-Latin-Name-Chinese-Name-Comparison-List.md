@@ -14,7 +14,7 @@ genus_zh: "始扭白蚁属"
 genus_latin: "Protocapritermes"
 genus_id: "protocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Protocapritermes odontomachus*** is a species of the genus *Protocapritermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Desneux in 1905; the type locality is Papua New Guinea: Sattelberg. Distribution: Australia, Papua New Guinea, Solomon Islands.
+***Protocapritermes odontomachus*** is a species of the genus *Protocapritermes*, in the family Termitidae (subfamily Termitinae). The species was described by Desneux in 1905; the type locality is Papua New Guinea: Sattelberg. Distribution: Australia, Papua New Guinea, Solomon Islands.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *odontomachus*: Greek odous (tooth) + machē (battle), tooth-wa
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Protocapritermes*]({{ site.base_url }}/en/genus/protocapritermes/) — 2 species
 - **Type species of the genus**: *Protocapritermes krisiformis*

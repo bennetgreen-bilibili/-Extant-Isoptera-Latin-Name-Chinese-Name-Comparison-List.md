@@ -14,7 +14,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Malaysia: Malacca; Singapore: ?; India: Assam: Khasi-Jainti
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ancistrotermes pakistanicus*** is a species of the genus *Ancistrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Ahmad in 1955; the type locality is Bangladesh: Chittagong Hills: Mainimukh. Distribution: South Asia, Southeast Asia, Pakistan, Thailand, Laos, Malaysia, Bangladesh, Cameroon, India, Indonesia, Myanmar, Singapore, Vietnam. This site records 2 junior synonyms for the species.
+***Ancistrotermes pakistanicus*** is a species of the genus *Ancistrotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Ahmad in 1955; the type locality is Bangladesh: Chittagong Hills: Mainimukh. Distribution: South Asia, Southeast Asia, Pakistan, Thailand, Laos, Malaysia, Bangladesh, Cameroon, India, Indonesia, Myanmar, Singapore, Vietnam. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *pakistanicus*: After Pakistan
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Ancistrotermes*]({{ site.base_url }}/en/genus/ancistrotermes/) — 16 species
 - **Type species of the genus**: *Ancistrotermes crucifer*

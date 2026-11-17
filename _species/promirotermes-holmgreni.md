@@ -12,7 +12,7 @@ genus_zh: "前奇白蚁属"
 genus_latin: "Promirotermes"
 genus_id: "promirotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "前奇白蚁亚科"
 subfamily_latin: "Promirotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Ghana: Accra"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍姆格伦前奇白蚁**（*Promirotermes holmgreni*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama。分布记录包括塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆。本种有 1 个次异名。
+**霍姆格伦前奇白蚁**（*Promirotermes holmgreni*）是白蚁科（Termitidae）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama。分布记录包括塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Ghana: Accra"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/subfamily/promirotermitinae/) —— 本站收录 2 属 39 种
 - **属**：[前奇白蚁属 *Promirotermes*]({{ site.base_url }}/genus/promirotermes/) —— 共 10 种
 

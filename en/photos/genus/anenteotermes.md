@@ -20,7 +20,7 @@ back_label: "无甲白蚁属 Anenteotermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Apicotermitinae"
     url: "/en/subfamily/apicotermitinae/"

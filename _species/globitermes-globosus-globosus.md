@@ -12,7 +12,7 @@ genus_zh: "球白蚁属"
 genus_latin: "Globitermes"
 genus_id: "globitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -30,7 +30,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Globitermes globosus globosus*）是球形球白蚁（*Globitermes globosus*）的一个亚种，隶属白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）。本亚种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Mt. Lambir。本页暂无单列的分布记录，母种 *Globitermes globosus* 的分布见下文「分布」一节。
+**指名亚种**（*Globitermes globosus globosus*）是球形球白蚁（*Globitermes globosus*）的一个亚种，隶属白蚁科（Termitidae）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）。本亚种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Mt. Lambir。本页暂无单列的分布记录，母种 *Globitermes globosus* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -42,7 +42,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种
 - **属**：[球白蚁属 *Globitermes*]({{ site.base_url }}/genus/globitermes/) —— 共 7 种
 - **种**：[球形球白蚁 *Globitermes globosus*]({{ site.base_url }}/species/globitermes-globosus/)

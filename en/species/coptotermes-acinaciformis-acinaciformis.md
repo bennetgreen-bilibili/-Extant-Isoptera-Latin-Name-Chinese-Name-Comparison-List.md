@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Coptotermes acinaciformis acinaciformis*** is a subspecies of *Coptotermes acinaciformis*, in the family HETEROTERMITIDAE, genus *Coptotermes*. The subspecies was described by Froggatt in 1898; the type locality is Australia: Western Australia: Halls Creek. No separate distribution record is listed on this page; see the parent species *Coptotermes acinaciformis* below.
+***Coptotermes acinaciformis acinaciformis*** is a subspecies of *Coptotermes acinaciformis*, in the family Heterotermitidae, genus *Coptotermes*. The subspecies was described by Froggatt in 1898; the type locality is Australia: Western Australia: Halls Creek. No separate distribution record is listed on this page; see the parent species *Coptotermes acinaciformis* below.
 
 ## Etymology
 
@@ -41,7 +41,7 @@ Specific epithet *acinaciformis*: From acinaci + formis
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Coptotermes*]({{ site.base_url }}/en/genus/coptotermes/) — 58 species
 - **Species**: [*Coptotermes acinaciformis*]({{ site.base_url }}/en/species/coptotermes-acinaciformis/)
 - **Subspecies**: this page (*Coptotermes acinaciformis acinaciformis*)

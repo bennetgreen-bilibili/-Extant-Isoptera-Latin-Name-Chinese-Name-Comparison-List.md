@@ -14,7 +14,7 @@ genus_zh: "怒白蚁属"
 genus_latin: "Lacessititermes"
 genus_id: "lacessititermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Lacessititermes piliferus*** is a species of the genus *Lacessititermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1913; the type locality is Malaysia: Sarawak: Kuching. Distribution: Indonesia, Sumatra, Malaysia.
+***Lacessititermes piliferus*** is a species of the genus *Lacessititermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1913; the type locality is Malaysia: Sarawak: Kuching. Distribution: Indonesia, Sumatra, Malaysia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *piliferus*: From the descriptive term 'pil' (hair)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Lacessititermes*]({{ site.base_url }}/en/genus/lacessititermes/) — 20 species
 - **Type species of the genus**: *Lacessititermes lacessitus*

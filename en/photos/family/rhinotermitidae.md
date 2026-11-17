@@ -1,7 +1,7 @@
 ---
 layout: photos
-title: "RHINOTERMITIDAE 鼻白蚁科 — all photos (71, 11 species)"
-description: "Freely licensed photos of the 11 species in the family RHINOTERMITIDAE (鼻白蚁科), 71 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
+title: "Rhinotermitidae 鼻白蚁科 — all photos (71, 11 species)"
+description: "Freely licensed photos of the 11 species in the family Rhinotermitidae (鼻白蚁科), 71 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set."
 lang: en
 single_lang: true
 author: 班奈特格林
@@ -11,12 +11,12 @@ permalink: "/en/family/rhinotermitidae/photos/"
 sitemap: true
 photo_kind: family
 photo_id: "rhinotermitidae"
-photo_latin: "RHINOTERMITIDAE"
+photo_latin: "Rhinotermitidae"
 photo_zh: "鼻白蚁科"
 photo_count: 71
 photo_species: 11
 back_url: "/family/rhinotermitidae/"
-back_label: "鼻白蚁科 RHINOTERMITIDAE"
+back_label: "鼻白蚁科 Rhinotermitidae"
 breadcrumb:
   - name: "List"
     url: "/en/list/"

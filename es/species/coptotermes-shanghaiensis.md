@@ -14,7 +14,7 @@ genus_zh: "乳白蚁属"
 genus_latin: "Coptotermes"
 genus_id: "coptotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Coptotermes shanghaiensis*** es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Xia & He en 1986; la localidad tipo es China: Shanghai. Distribución según la fuente: Shanghai, China.
+***Coptotermes shanghaiensis*** es una especie del género *Coptotermes*, en la familia Heterotermitidae. La especie fue descrita por Xia & He en 1986; la localidad tipo es China: Shanghai. Distribución según la fuente: Shanghai, China.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *shanghaiensis*: Por la localidad de Shanghái
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Coptotermes*]({{ site.base_url }}/es/genus/coptotermes/) — 58 especies
 - **Especie tipo del género**: *Coptotermes gestroi*
 

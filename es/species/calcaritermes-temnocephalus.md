@@ -14,7 +14,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Calcaritermes temnocephalus*** es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución según la fuente: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+***Calcaritermes temnocephalus*** es una especie del género *Calcaritermes*, en la familia Kalotermitidae. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución según la fuente: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *temnocephalus*: Griego temnō (cortar) + kephalē (cabeza)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Calcaritermes*]({{ site.base_url }}/es/genus/calcaritermes/) — 12 especies
 - **Especie tipo del género**: *Calcaritermes imminens*
 

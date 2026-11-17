@@ -14,7 +14,7 @@ genus_zh: "克雷切克白蚁属"
 genus_latin: "Krecekitermes"
 genus_id: "krecekitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Krecekitermes daironi*** es la única especie viviente del género *Krecekitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución según la fuente: South America, Colombia, French Guiana.
+***Krecekitermes daironi*** es la única especie viviente del género *Krecekitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución según la fuente: South America, Colombia, French Guiana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *daironi*: En honor de Dairon
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Krecekitermes*]({{ site.base_url }}/es/genus/krecekitermes/) — monotípico, 1 especie
 

@@ -14,7 +14,7 @@ genus_zh: "前砂白蚁属"
 genus_latin: "Procryptotermes"
 genus_id: "procryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Procryptotermes dhari*** es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roonwal & Chhotani en 1963; la localidad tipo es India: Tamil Nadu: Coimbatore, grounds of the Agricultural College \[approx. 11°00?N, 77°00?E\]. Distribución según la fuente: India.
+***Procryptotermes dhari*** es una especie del género *Procryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Roonwal & Chhotani en 1963; la localidad tipo es India: Tamil Nadu: Coimbatore, grounds of the Agricultural College \[approx. 11°00?N, 77°00?E\]. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *dhari*: Por la localidad de Dhar
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Procryptotermes*]({{ site.base_url }}/es/genus/procryptotermes/) — 14 especies
 - **Especie tipo del género**: *Procryptotermes fryeri*
 

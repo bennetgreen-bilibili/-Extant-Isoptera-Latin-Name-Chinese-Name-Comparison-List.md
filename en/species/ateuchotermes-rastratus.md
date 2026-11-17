@@ -14,7 +14,7 @@ genus_zh: "无锐白蚁属"
 genus_latin: "Ateuchotermes"
 genus_id: "ateuchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ateuchotermes rastratus*** is a species of the genus *Ateuchotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Kenya: Nyambeni Hills, 22 mi from Meru. Distribution: Cameroon, Ethiopia, Kenya, Tanzania.
+***Ateuchotermes rastratus*** is a species of the genus *Ateuchotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Kenya: Nyambeni Hills, 22 mi from Meru. Distribution: Cameroon, Ethiopia, Kenya, Tanzania.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *rastratus*: Latin rastratus (raked)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Ateuchotermes*]({{ site.base_url }}/en/genus/ateuchotermes/) — 8 species
 - **Type species of the genus**: *Ateuchotermes pectinatus*

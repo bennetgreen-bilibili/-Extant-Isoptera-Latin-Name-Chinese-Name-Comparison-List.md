@@ -12,7 +12,7 @@ genus_zh: "等颚白蚁属"
 genus_latin: "Isognathotermes"
 genus_id: "isognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Democratic Republic of the Congo: Haut Uélé: Moto"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乌干达等颚白蚁**（*Isognathotermes ugandensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Fuller 于 1923 年描述，模式产地为 Uganda: "Nkulukuku."。分布记录包括乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚。本种有 1 个次异名。
+**乌干达等颚白蚁**（*Isognathotermes ugandensis*）是白蚁科（Termitidae）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Fuller 于 1923 年描述，模式产地为 Uganda: "Nkulukuku."。分布记录包括乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Democratic Republic of the Congo: Haut Uélé: Moto"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种
 - **属**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/genus/isognathotermes/) —— 共 16 种
 - **本属模式种**：*Isognathotermes minitabundus*

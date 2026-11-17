@@ -14,7 +14,7 @@ genus_zh: "拜拉白蚁属"
 genus_latin: "Biratermes"
 genus_id: "biratermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Biratermes robustus*** is the only extant species of the genus *Biratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Constantino in 1993; the type locality is Brasil: Amapá: Serra do Navio \[0.8955N 52.0022W\]. Distribution: French Guiana, Brazil.
+***Biratermes robustus*** is the only extant species of the genus *Biratermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Constantino in 1993; the type locality is Brasil: Amapá: Serra do Navio \[0.8955N 52.0022W\]. Distribution: French Guiana, Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *robustus*: Latin robustus (robust)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Biratermes*]({{ site.base_url }}/en/genus/biratermes/) — monotypic, 1 species
 

@@ -12,7 +12,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Myanmar: Palon (Pegù); Malaysia: Sarawak: Baram; Singapore
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**暗黄大白蚁**（*Macrotermes gilvus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Indonesia: Java: Bogor。分布记录包括旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南。本种有 12 个次异名。
+**暗黄大白蚁**（*Macrotermes gilvus*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Indonesia: Java: Bogor。分布记录包括旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南。本种有 12 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Myanmar: Palon (Pegù); Malaysia: Sarawak: Baram; Singapore
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
 - **本属模式种**：*Macrotermes lilljeborgi*

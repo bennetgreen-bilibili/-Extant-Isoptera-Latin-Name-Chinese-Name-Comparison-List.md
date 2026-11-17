@@ -14,7 +14,7 @@ genus_zh: "象白蚁属"
 genus_latin: "Nasutitermes"
 genus_id: "nasutitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Gabon: ?; Benin: Cotonou"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Nasutitermes arborum*** es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Smeathman en 1781; la localidad tipo es Sierra Leone: Njala. Distribución según la fuente: Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda. Este sitio registra 2 sinónimos junior para la especie.
+***Nasutitermes arborum*** es una especie del género *Nasutitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Smeathman en 1781; la localidad tipo es Sierra Leone: Njala. Distribución según la fuente: Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *arborum*: Del latín arborum (de los árboles)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Nasutitermes*]({{ site.base_url }}/es/genus/nasutitermes/) — 243 especies
 - **Especie tipo del género**: *Nasutitermes corniger*

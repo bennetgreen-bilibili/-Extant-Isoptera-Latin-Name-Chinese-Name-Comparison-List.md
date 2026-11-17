@@ -12,7 +12,7 @@ genus_zh: "草白蚁属"
 genus_latin: "Hodotermes"
 genus_id: "hodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本种有 10 个次异名。
+**莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（Hodotermitidae）草白蚁属（*Hodotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本种有 10 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/genus/hodotermes/) —— 共 2 种
 
 ## 分布

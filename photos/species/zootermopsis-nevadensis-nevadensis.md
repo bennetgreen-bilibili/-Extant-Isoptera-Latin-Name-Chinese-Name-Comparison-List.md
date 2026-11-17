@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Zootermopsis_nevaden
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "古白蚁科 ARCHOTERMOPSIDAE"
+  - name: "古白蚁科 Archotermopsidae"
     url: "/family/archotermopsidae/"
   - name: "动白蚁属 Zootermopsis"
     url: "/genus/zootermopsis/"

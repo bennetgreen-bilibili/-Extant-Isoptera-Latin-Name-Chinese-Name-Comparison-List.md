@@ -14,7 +14,7 @@ genus_zh: "齿白蚁属"
 genus_latin: "Serritermes"
 genus_id: "serritermes"
 family_zh: "齿白蚁科"
-family_latin: "SERRITERMITIDAE"
+family_latin: "Serritermitidae"
 family_id: "serritermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Serritermes serrifer*** es la única especie viviente del género *Serritermes*, en la familia SERRITERMITIDAE. La especie fue descrita por Hagen & Bates en 1858; la localidad tipo es Brasil: Pará: Santarém \[ 2.43917S 54.705W \]. Distribución según la fuente: Brazil.
+***Serritermes serrifer*** es la única especie viviente del género *Serritermes*, en la familia Serritermitidae. La especie fue descrita por Hagen & Bates en 1858; la localidad tipo es Brasil: Pará: Santarém \[ 2.43917S 54.705W \]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *serrifer*: De serri (sierra) + fer (que lleva)
 
 ## Posición taxonómica
 
-- **Familia**: [SERRITERMITIDAE]({{ site.base_url }}/es/family/serritermitidae/) — 2 géneros, 3 especies
+- **Familia**: [Serritermitidae]({{ site.base_url }}/es/family/serritermitidae/) — 2 géneros, 3 especies
 - **Género**: [*Serritermes*]({{ site.base_url }}/es/genus/serritermes/) — monotípico, 1 especie
 
 ## Distribución

@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Myanmar: Maymyo"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pericapritermes tetraphilus*** es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1922; la localidad tipo es Bangladesh: Chittagong Hill Tracts: Rangamati. Distribución según la fuente: Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjinghong 500 m, Hekou 90 m, Pingbian, Jinping Mengla 370, 420, 450, 680 m, Mojiang 1400 m, Santaishan, Simao, Manyun); India; Bangladesh; Myanmar. Este sitio registra 1 sinónimo junior para la especie.
+***Pericapritermes tetraphilus*** es una especie del género *Pericapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1922; la localidad tipo es Bangladesh: Chittagong Hill Tracts: Rangamati. Distribución según la fuente: Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjinghong 500 m, Hekou 90 m, Pingbian, Jinping Mengla 370, 420, 450, 680 m, Mojiang 1400 m, Santaishan, Simao, Manyun); India; Bangladesh; Myanmar. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *tetraphilus*: Del término descriptivo «tetra» (cuatro)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pericapritermes*]({{ site.base_url }}/es/genus/pericapritermes/) — 40 especies
 - **Especie tipo del género**: *Pericapritermes urgens*

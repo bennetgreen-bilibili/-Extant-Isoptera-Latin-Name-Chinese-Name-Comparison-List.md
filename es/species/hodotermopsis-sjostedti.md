@@ -14,7 +14,7 @@ genus_zh: "原白蚁属"
 genus_latin: "Hodotermopsis"
 genus_id: "hodotermopsis"
 family_zh: "原白蚁科"
-family_latin: "HODOTERMOPSIDAE"
+family_latin: "Hodotermopsidae"
 family_id: "hodotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hodotermopsis sjostedti*** es la única especie viviente del género *Hodotermopsis*, en la familia HODOTERMOPSIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Vietnam: Tonkin: Montes Mauson. Distribución según la fuente: Japan, China (Taiwan), southern China, Vietnam. Este sitio registra 5 sinónimos junior para la especie.
+***Hodotermopsis sjostedti*** es la única especie viviente del género *Hodotermopsis*, en la familia Hodotermopsidae. La especie fue descrita por Holmgren en 1911; la localidad tipo es Vietnam: Tonkin: Montes Mauson. Distribución según la fuente: Japan, China (Taiwan), southern China, Vietnam. Este sitio registra 5 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *sjostedti*: En honor del entomólogo Y. Sjöstedt
 
 ## Posición taxonómica
 
-- **Familia**: [HODOTERMOPSIDAE]({{ site.base_url }}/es/family/hodotermopsidae/) — 1 género, 1 especie
+- **Familia**: [Hodotermopsidae]({{ site.base_url }}/es/family/hodotermopsidae/) — 1 género, 1 especie
 - **Género**: [*Hodotermopsis*]({{ site.base_url }}/es/genus/hodotermopsis/) — monotípico, 1 especie
 
 ## Distribución

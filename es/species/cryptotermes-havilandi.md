@@ -14,7 +14,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Senegal: Thi�
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Cryptotermes havilandi*** es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Equatorial Guinea: Bioko. Distribución según la fuente: southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands. Este sitio registra 2 sinónimos junior para la especie.
+***Cryptotermes havilandi*** es una especie del género *Cryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Equatorial Guinea: Bioko. Distribución según la fuente: southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *havilandi*: En honor del entomólogo G. D. Haviland
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Cryptotermes*]({{ site.base_url }}/es/genus/cryptotermes/) — 74 especies
 - **Especie tipo del género**: *Cryptotermes cavifrons*
 

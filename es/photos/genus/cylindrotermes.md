@@ -20,7 +20,7 @@ back_label: "圆筒白蚁属 Cylindrotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Cylindrotermitinae"
     url: "/es/subfamily/cylindrotermitinae/"

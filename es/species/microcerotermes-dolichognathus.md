@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microcerotermes dolichognathus*** es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama: Rio Cassine. Distribución según la fuente: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone.
+***Microcerotermes dolichognathus*** es una especie del género *Microcerotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama: Rio Cassine. Distribución según la fuente: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *dolichognathus*: De dolicho (largo) + gnathus (mandíbula)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Microcerotermes*]({{ site.base_url }}/es/genus/microcerotermes/) — 148 especies
 - **Especie tipo del género**: *Microcerotermes strunckii*

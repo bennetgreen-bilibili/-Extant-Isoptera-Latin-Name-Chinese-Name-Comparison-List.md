@@ -12,7 +12,7 @@ genus_zh: "堆砂白蚁属"
 genus_latin: "Cryptotermes"
 genus_id: "cryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Australia: Lord Howe Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**第一堆砂白蚁**（*Cryptotermes primus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Hill 于 1921 年描述，模式产地为 Australia: Queensland: Townsville。分布记录包括澳大利亚。本种有 1 个次异名。
+**第一堆砂白蚁**（*Cryptotermes primus*）是木白蚁科（Kalotermitidae）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Hill 于 1921 年描述，模式产地为 Australia: Queensland: Townsville。分布记录包括澳大利亚。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Australia: Lord Howe Island"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种
 - **本属模式种**：*Cryptotermes cavifrons*
 

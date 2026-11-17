@@ -14,7 +14,7 @@ genus_zh: "新白蚁属"
 genus_latin: "Neotermes"
 genus_id: "neotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Neotermes luykxi*** is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Nickle & Collins in 1989; the type locality is United States: Florida: Broward County: Dania. Distribution: Caribbean, Bahamas, Turks and Caicos Islands, United States.
+***Neotermes luykxi*** is a species of the genus *Neotermes*, in the family Kalotermitidae. The species was described by Nickle & Collins in 1989; the type locality is United States: Florida: Broward County: Dania. Distribution: Caribbean, Bahamas, Turks and Caicos Islands, United States.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *luykxi*: Named after Luykx
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Neotermes*]({{ site.base_url }}/en/genus/neotermes/) — 121 species
 - **Type species of the genus**: *Neotermes castaneus*
 

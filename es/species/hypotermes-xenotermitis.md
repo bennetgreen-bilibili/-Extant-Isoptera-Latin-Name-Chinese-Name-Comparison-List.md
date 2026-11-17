@@ -14,7 +14,7 @@ genus_zh: "地白蚁属"
 genus_latin: "Hypotermes"
 genus_id: "hypotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Assam: North-East Frontier Agency, Khasi Hills, on b
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hypotermes xenotermitis*** es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Palon (Pegù). Distribución según la fuente: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. Este sitio registra 1 sinónimo junior para la especie.
+***Hypotermes xenotermitis*** es una especie del género *Hypotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Palon (Pegù). Distribución según la fuente: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *xenotermitis*: Del griego xenos (extraño) + termes (termi
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Hypotermes*]({{ site.base_url }}/es/genus/hypotermes/) — 13 especies
 - **Especie tipo del género**: *Hypotermes obscuriceps*

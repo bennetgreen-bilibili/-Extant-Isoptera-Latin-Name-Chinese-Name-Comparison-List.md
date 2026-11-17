@@ -20,6 +20,6 @@ back_label: "无刺白蚁属 Anacanthotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "HODOTERMITIDAE"
+  - name: "Hodotermitidae"
     url: "/es/family/hodotermitidae/"
 ---

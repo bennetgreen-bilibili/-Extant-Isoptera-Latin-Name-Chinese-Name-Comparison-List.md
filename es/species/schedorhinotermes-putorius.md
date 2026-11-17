@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Equatorial Guinea: Bioko"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Schedorhinotermes putorius*** es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Kitta. Distribución según la fuente: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. Este sitio registra 1 sinónimo junior para la especie.
+***Schedorhinotermes putorius*** es una especie del género *Schedorhinotermes*, en la familia Rhinotermitidae. La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Kitta. Distribución según la fuente: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *putorius*: Del latín putorius (de turón, hediondo)
 
 ## Posición taxonómica
 
-- **Familia**: [RHINOTERMITIDAE]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
+- **Familia**: [Rhinotermitidae]({{ site.base_url }}/es/family/rhinotermitidae/) — 5 géneros, 62 especies
 - **Género**: [*Schedorhinotermes*]({{ site.base_url }}/es/genus/schedorhinotermes/) — 35 especies
 - **Especie tipo del género**: *Schedorhinotermes intermedius*
 

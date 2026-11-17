@@ -14,7 +14,7 @@ genus_zh: "角象白蚁属"
 genus_latin: "Cornitermes"
 genus_id: "cornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Cornitermes walkeri*** is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Snyder in 1929; the type locality is Panama: Río Tapia. Distribution: Costa Rica, Panama, Colombia. This site records 1 junior synonym for the species.
+***Cornitermes walkeri*** is a species of the genus *Cornitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Snyder in 1929; the type locality is Panama: Río Tapia. Distribution: Costa Rica, Panama, Colombia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *walkeri*: Named after F. Walker
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Cornitermes*]({{ site.base_url }}/en/genus/cornitermes/) — 14 species
 - **Type species of the genus**: *Cornitermes cumulans*

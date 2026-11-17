@@ -14,7 +14,7 @@ genus_zh: "东锥白蚁属"
 genus_latin: "Oriensubulitermes"
 genus_id: "oriensubulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Oriensubulitermes kemneri*** es una especie del género *Oriensubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Sabah: Tapang; Sarawak. Distribución según la fuente: Malaysia.
+***Oriensubulitermes kemneri*** es una especie del género *Oriensubulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Sabah: Tapang; Sarawak. Distribución según la fuente: Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *kemneri*: En honor del entomólogo N. A. Kemner
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Oriensubulitermes*]({{ site.base_url }}/es/genus/oriensubulitermes/) — 2 especies
 - **Especie tipo del género**: *Oriensubulitermes inanis*

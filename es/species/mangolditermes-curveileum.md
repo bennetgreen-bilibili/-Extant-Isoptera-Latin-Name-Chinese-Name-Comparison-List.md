@@ -14,7 +14,7 @@ genus_zh: "曼戈尔德白蚁属"
 genus_latin: "Mangolditermes"
 genus_id: "mangolditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Mangolditermes curveileum*** es la única especie viviente del género *Mangolditermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribución según la fuente: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
+***Mangolditermes curveileum*** es la única especie viviente del género *Mangolditermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribución según la fuente: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *curveileum*: Del término descriptivo «curv» (curvo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Mangolditermes*]({{ site.base_url }}/es/genus/mangolditermes/) — monotípico, 1 especie
 

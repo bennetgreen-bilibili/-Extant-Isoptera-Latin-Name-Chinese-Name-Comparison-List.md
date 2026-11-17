@@ -14,7 +14,7 @@ genus_zh: "解甲白蚁属"
 genus_latin: "Anoplotermes"
 genus_id: "anoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Anoplotermes meridianus*** es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Argentina: Buenos Aires: Núñez \[ 34.55S 58.45W \]; Buenos Aires: Temperley \[ 34.7833S 58.4W \]; Buenos Aires: Villa Catalinas \[ 34.579S 58.4956W \]; Córdoba: Cernadas (old train station) \[ 34.2264S 62.878W \]; Entre Ríos: Chajarí \[ 30.7667S 57.9833W \]; Santa Fé: Sunchales \[ 30.9333S 61.5667W \]; Paraguay: Paraguari: Paraguari \[ 25.6333S 57.15W \]; Uruguay: Maldonado: La Sierra \[ 34.7667S 55.4167W \]. Distribución según la fuente: Brazil, Amazon region, southeastern South America, Central America and Caribbean.
+***Anoplotermes meridianus*** es una especie del género *Anoplotermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Argentina: Buenos Aires: Núñez \[ 34.55S 58.45W \]; Buenos Aires: Temperley \[ 34.7833S 58.4W \]; Buenos Aires: Villa Catalinas \[ 34.579S 58.4956W \]; Córdoba: Cernadas (old train station) \[ 34.2264S 62.878W \]; Entre Ríos: Chajarí \[ 30.7667S 57.9833W \]; Santa Fé: Sunchales \[ 30.9333S 61.5667W \]; Paraguay: Paraguari: Paraguari \[ 25.6333S 57.15W \]; Uruguay: Maldonado: La Sierra \[ 34.7667S 55.4167W \]. Distribución según la fuente: Brazil, Amazon region, southeastern South America, Central America and Caribbean.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *meridianus*: Del latín meridies (sur)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Anoplotermes*]({{ site.base_url }}/es/genus/anoplotermes/) — 23 especies
 - **Especie tipo del género**: *Anoplotermes pacificus*

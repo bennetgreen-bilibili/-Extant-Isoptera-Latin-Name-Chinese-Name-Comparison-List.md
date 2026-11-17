@@ -12,7 +12,7 @@ genus_zh: "东方白蚁属"
 genus_latin: "Orientotermes"
 genus_id: "orientotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "始钩白蚁亚科"
 subfamily_latin: "Protohamitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**埃默森东方白蚁**（*Orientotermes emersoni*）是白蚁科（TERMITIDAE）始钩白蚁亚科（Protohamitermitinae）东方白蚁属（*Orientotermes*）的现存唯一种。本种由 Ahmad 于 1976 年描述，模式产地为 Malaysia: Sarawak: Sabal Tapang。分布记录包括文莱、马来西亚。
+**埃默森东方白蚁**（*Orientotermes emersoni*）是白蚁科（Termitidae）始钩白蚁亚科（Protohamitermitinae）东方白蚁属（*Orientotermes*）的现存唯一种。本种由 Ahmad 于 1976 年描述，模式产地为 Malaysia: Sarawak: Sabal Tapang。分布记录包括文莱、马来西亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[始钩白蚁亚科 Protohamitermitinae]({{ site.base_url }}/subfamily/protohamitermitinae/) —— 本站收录 2 属 2 种
 - **属**：[东方白蚁属 *Orientotermes*]({{ site.base_url }}/genus/orientotermes/) —— 单型属，仅含 1 种
 

@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Indonesia: Borneo: Tandjong"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schedorhinotermes maximus*** is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Holmgren in 1913; the type locality is Indonesia: Borneo: Tandjong. Distribution: distribution to be verified. This site records 1 junior synonym for the species.
+***Schedorhinotermes maximus*** is a species of the genus *Schedorhinotermes*, in the family Rhinotermitidae. The species was described by Holmgren in 1913; the type locality is Indonesia: Borneo: Tandjong. Distribution: distribution to be verified. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *maximus*: Latin maximus (largest)
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Schedorhinotermes*]({{ site.base_url }}/en/genus/schedorhinotermes/) — 35 species
 - **Type species of the genus**: *Schedorhinotermes intermedius*
 

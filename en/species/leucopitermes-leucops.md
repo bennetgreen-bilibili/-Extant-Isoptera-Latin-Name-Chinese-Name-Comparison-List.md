@@ -14,7 +14,7 @@ genus_zh: "白脸白蚁属"
 genus_latin: "Leucopitermes"
 genus_id: "leucopitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Indonesia: Java: Bogor"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Leucopitermes leucops*** is a species and the type species of the genus *Leucopitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1914; the type locality is Indonesia: Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap; Taiping: Maxwell’s Hill. Distribution: Indonesia, Malaysia. This site records 1 junior synonym for the species.
+***Leucopitermes leucops*** is a species and the type species of the genus *Leucopitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Holmgren in 1914; the type locality is Indonesia: Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap; Taiping: Maxwell’s Hill. Distribution: Indonesia, Malaysia. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *leucops*: From the descriptive term 'leuc' (white)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Leucopitermes*]({{ site.base_url }}/en/genus/leucopitermes/) — 4 species
 

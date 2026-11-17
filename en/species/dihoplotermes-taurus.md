@@ -14,7 +14,7 @@ genus_zh: "双戟白蚁属"
 genus_latin: "Dihoplotermes"
 genus_id: "dihoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Dihoplotermes taurus*** is a species of the genus *Dihoplotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Azevedo, Dambros & Morais in 2019; the type locality is Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[2.633S 60.1072W\]. Distribution: Brazil.
+***Dihoplotermes taurus*** is a species of the genus *Dihoplotermes*, in the family Termitidae (subfamily Termitinae). The species was described by Azevedo, Dambros & Morais in 2019; the type locality is Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[2.633S 60.1072W\]. Distribution: Brazil.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *taurus*: Latin taurus (bull)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Termitinae]({{ site.base_url }}/en/subfamily/termitinae/) — 23 genera, 107 species
 - **Genus**: [*Dihoplotermes*]({{ site.base_url }}/en/genus/dihoplotermes/) — 2 species
 - **Type species of the genus**: *Dihoplotermes inusitatus*

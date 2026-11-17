@@ -20,6 +20,6 @@ back_label: "长鼻白蚁属 Schedorhinotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/es/family/rhinotermitidae/"
 ---

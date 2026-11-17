@@ -14,7 +14,7 @@ genus_zh: "基齿白蚁属"
 genus_latin: "Basidentitermes"
 genus_id: "basidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Cameroon: Victoria"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Basidentitermes mactus*** es una especie del género *Basidentitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Guinea: ?. Distribución según la fuente: West Africa, Guinea, Liberia, Ghana, Côte d'Ivoire, Nigeria, Cameroon, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
+***Basidentitermes mactus*** es una especie del género *Basidentitermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Guinea: ?. Distribución según la fuente: West Africa, Guinea, Liberia, Ghana, Côte d'Ivoire, Nigeria, Cameroon, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *mactus*: Del latín mactus (honrado)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Basidentitermes*]({{ site.base_url }}/es/genus/basidentitermes/) — 8 especies
 - **Especie tipo del género**: *Basidentitermes aurivillii*

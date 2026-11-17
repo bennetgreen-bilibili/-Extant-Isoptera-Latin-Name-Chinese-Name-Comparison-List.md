@@ -12,7 +12,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "United States: Arizona: Santa Catalina Mountains: Sabino Ca
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**金黄异白蚁**（*Heterotermes aureus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Snyder 于 1920 年描述，模式产地为 United States: Arizona: Santa Catalina Mountains: Sabino Canyon。分布记录包括北美西南部、美国西南部、墨西哥。本种有 2 个次异名。
+**金黄异白蚁**（*Heterotermes aureus*）是异白蚁科（Heterotermitidae）异白蚁属（*Heterotermes*）的一种。本种由 Snyder 于 1920 年描述，模式产地为 United States: Arizona: Santa Catalina Mountains: Sabino Canyon。分布记录包括北美西南部、美国西南部、墨西哥。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "United States: Arizona: Santa Catalina Mountains: Sabino Ca
 
 ## 分类位置
 
-- **科**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
+- **科**：[异白蚁科 Heterotermitidae]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种
 - **属**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种
 - **本属模式种**：*Heterotermes platycephalus*
 

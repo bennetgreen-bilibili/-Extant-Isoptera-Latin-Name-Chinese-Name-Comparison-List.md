@@ -12,7 +12,7 @@ genus_zh: "小草白蚁属"
 genus_latin: "Microhodotermes"
 genus_id: "microhodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**旅游小草白蚁**（*Microhodotermes viator*）是草白蚁科（HODOTERMITIDAE）小草白蚁属（*Microhodotermes*）的一种，也是本属的模式种。本种由 Latreille 于 1804 年描述，模式产地为 South Africa: Cape of Good Hope。分布记录包括南非、纳米比亚。本种有 6 个次异名。
+**旅游小草白蚁**（*Microhodotermes viator*）是草白蚁科（Hodotermitidae）小草白蚁属（*Microhodotermes*）的一种，也是本属的模式种。本种由 Latreille 于 1804 年描述，模式产地为 South Africa: Cape of Good Hope。分布记录包括南非、纳米比亚。本种有 6 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[小草白蚁属 *Microhodotermes*]({{ site.base_url }}/genus/microhodotermes/) —— 共 3 种
 
 ## 分布

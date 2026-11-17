@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "United States: Arizona: Santa Catalina Mountains: Sabino Ca
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Heterotermes aureus*** is a species of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Snyder in 1920; the type locality is United States: Arizona: Santa Catalina Mountains: Sabino Canyon. Distribution: southwestern North America, southwestern United States, Mexico. This site records 2 junior synonyms for the species.
+***Heterotermes aureus*** is a species of the genus *Heterotermes*, in the family Heterotermitidae. The species was described by Snyder in 1920; the type locality is United States: Arizona: Santa Catalina Mountains: Sabino Canyon. Distribution: southwestern North America, southwestern United States, Mexico. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *aureus*: Latin aureus (golden)
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Heterotermes*]({{ site.base_url }}/en/genus/heterotermes/) — 31 species
 - **Type species of the genus**: *Heterotermes platycephalus*
 

@@ -14,7 +14,7 @@ genus_zh: "疣白蚁属"
 genus_latin: "Verrucositermes"
 genus_id: "verrucositermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Verrucositermes hirtus*** is a species of the genus *Verrucositermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Deligne in 1983; the type locality is Cameroon: Lomé, near Kribi. Distribution: Cameroon.
+***Verrucositermes hirtus*** is a species of the genus *Verrucositermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Deligne in 1983; the type locality is Cameroon: Lomé, near Kribi. Distribution: Cameroon.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *hirtus*: Latin hirtus (hairy)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Verrucositermes*]({{ site.base_url }}/en/genus/verrucositermes/) — 2 species
 - **Type species of the genus**: *Verrucositermes tuberosus*

@@ -12,7 +12,7 @@ genus_zh: "木白蚁属"
 genus_latin: "Kalotermes"
 genus_id: "kalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -27,7 +27,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短头亚种**（*Kalotermes monticola brachycephala*）是山栖木白蚁（*Kalotermes monticola*）的一个亚种，隶属木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）。本亚种由 Sjöstedt 于 1926 年描述，模式产地为 Algeria: Massif de l’Edough。本页暂无单列的分布记录，母种 *Kalotermes monticola* 的分布见下文「分布」一节。
+**短头亚种**（*Kalotermes monticola brachycephala*）是山栖木白蚁（*Kalotermes monticola*）的一个亚种，隶属木白蚁科（Kalotermitidae）木白蚁属（*Kalotermes*）。本亚种由 Sjöstedt 于 1926 年描述，模式产地为 Algeria: Massif de l’Edough。本页暂无单列的分布记录，母种 *Kalotermes monticola* 的分布见下文「分布」一节。
 
 ## 词源
 
@@ -39,7 +39,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/genus/kalotermes/) —— 共 21 种
 - **种**：[山栖木白蚁 *Kalotermes monticola*]({{ site.base_url }}/species/kalotermes-monticola/)
 - **亚种**：本页（*Kalotermes monticola brachycephala*）

@@ -12,7 +12,7 @@ genus_zh: "角木白蚁属"
 genus_latin: "Ceratokalotermes"
 genus_id: "ceratokalotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**掠夺角木白蚁**（*Ceratokalotermes spoliator*）是木白蚁科（KALOTERMITIDAE）角木白蚁属（*Ceratokalotermes*）的现存唯一种。本种由 Hill 于 1932 年描述，模式产地为 Australia: Capital Territory: Uriarra。分布记录包括澳大利亚。
+**掠夺角木白蚁**（*Ceratokalotermes spoliator*）是木白蚁科（Kalotermitidae）角木白蚁属（*Ceratokalotermes*）的现存唯一种。本种由 Hill 于 1932 年描述，模式产地为 Australia: Capital Territory: Uriarra。分布记录包括澳大利亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[角木白蚁属 *Ceratokalotermes*]({{ site.base_url }}/genus/ceratokalotermes/) —— 单型属，仅含 1 种
 
 ## 分布

@@ -14,7 +14,7 @@ genus_zh: "锐颚白蚁属"
 genus_latin: "Hoplognathotermes"
 genus_id: "hoplognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Guinea: Mamou"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Hoplognathotermes subterraneus*** is a species and the type species of the genus *Hoplognathotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Conakry; Kakoulima. Distribution: West Africa, Côte d'Ivoire. This site records 1 junior synonym for the species.
+***Hoplognathotermes subterraneus*** is a species and the type species of the genus *Hoplognathotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Conakry; Kakoulima. Distribution: West Africa, Côte d'Ivoire. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *subterraneus*: Latin subterraneus (subterranean)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Hoplognathotermes*]({{ site.base_url }}/en/genus/hoplognathotermes/) — 3 species
 

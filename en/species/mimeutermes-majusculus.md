@@ -14,7 +14,7 @@ genus_zh: "仿白蚁属"
 genus_latin: "Mimeutermes"
 genus_id: "mimeutermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Mimeutermes majusculus*** is a species of the genus *Mimeutermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sands in 1965; the type locality is Tanzania: Mbeya. Distribution: Tanzania.
+***Mimeutermes majusculus*** is a species of the genus *Mimeutermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Sands in 1965; the type locality is Tanzania: Mbeya. Distribution: Tanzania.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *majusculus*: Latin majusculus (somewhat larger)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Mimeutermes*]({{ site.base_url }}/en/genus/mimeutermes/) — 6 species
 - **Type species of the genus**: *Mimeutermes giffardii*

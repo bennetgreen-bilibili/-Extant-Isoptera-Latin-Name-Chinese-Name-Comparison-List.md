@@ -20,7 +20,7 @@ back_label: "突扭白蚁属 Dicuspiditermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Mirocapritermitinae"
     url: "/es/subfamily/mirocapritermitinae/"

@@ -14,7 +14,7 @@ genus_zh: "旁扭白蚁属"
 genus_latin: "Paracapritermes"
 genus_id: "paracapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Paracapritermes primus*** es una especie y la especie tipo del género *Paracapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Mt. Molloy. Distribución según la fuente: Australia.
+***Paracapritermes primus*** es una especie y la especie tipo del género *Paracapritermes*, en la familia Termitidae (subfamilia Termitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Mt. Molloy. Distribución según la fuente: Australia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *primus*: Del latín primus (primero)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Termitinae]({{ site.base_url }}/es/subfamily/termitinae/) — 23 géneros, 107 especies
 - **Género**: [*Paracapritermes*]({{ site.base_url }}/es/genus/paracapritermes/) — 4 especies
 

@@ -20,6 +20,6 @@ back_label: "澳白蚁属 Mastotermes"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "澳白蚁科 MASTOTERMITIDAE"
+  - name: "澳白蚁科 Mastotermitidae"
     url: "/family/mastotermitidae/"
 ---

@@ -14,7 +14,7 @@ genus_zh: "弓白蚁属"
 genus_latin: "Amitermes"
 genus_id: "amitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Amitermes snyderi*** is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Light in 1930; the type locality is United States: California: Riverside Co.: Cabazon; California: San Bernardino Co.: Narrows; California: San Bernardino Co.: Rice; California: San Bernardino Co.: Victorville; California: San Diego Co.: San Felipe Ranch. Distribution: United States.
+***Amitermes snyderi*** is a species of the genus *Amitermes*, in the family Termitidae (subfamily Amitermitinae). The species was described by Light in 1930; the type locality is United States: California: Riverside Co.: Cabazon; California: San Bernardino Co.: Narrows; California: San Bernardino Co.: Rice; California: San Bernardino Co.: Victorville; California: San Diego Co.: San Felipe Ranch. Distribution: United States.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Amitermitinae]({{ site.base_url }}/en/subfamily/amitermitinae/) — 14 genera, 194 species
 - **Genus**: [*Amitermes*]({{ site.base_url }}/en/genus/amitermes/) — 113 species
 - **Type species of the genus**: *Amitermes amifer*

@@ -14,7 +14,7 @@ genus_zh: "瓢白蚁属"
 genus_latin: "Bulbitermes"
 genus_id: "bulbitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Bulbitermes salakensis*** is a species of the genus *Bulbitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Kemner in 1934; the type locality is Indonesia: Java: Depok, near Bogor; Kali Bata, near Bogor; Tjandjoer, Vada; near Tjidaho. Distribution: Indonesia.
+***Bulbitermes salakensis*** is a species of the genus *Bulbitermes*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Kemner in 1934; the type locality is Indonesia: Java: Depok, near Bogor; Kali Bata, near Bogor; Tjandjoer, Vada; near Tjidaho. Distribution: Indonesia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *salakensis*: Named after the locality Mount Salak (West Java, 
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Bulbitermes*]({{ site.base_url }}/en/genus/bulbitermes/) — 34 species
 - **Type species of the genus**: *Bulbitermes constrictus*

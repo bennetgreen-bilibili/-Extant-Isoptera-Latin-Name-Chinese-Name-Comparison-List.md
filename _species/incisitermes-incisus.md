@@ -12,7 +12,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**切割楹白蚁**（*Incisitermes incisus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]。分布记录包括瓜德罗普、巴巴多斯、蒙特塞拉特、安提瓜和巴布达、巴哈马、哥伦比亚、古巴、多米尼克、荷属安的列斯、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、法属圣马丁、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。
+**切割楹白蚁**（*Incisitermes incisus*）是木白蚁科（Kalotermitidae）楹白蚁属（*Incisitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]。分布记录包括瓜德罗普、巴巴多斯、蒙特塞拉特、安提瓜和巴布达、巴哈马、哥伦比亚、古巴、多米尼克、荷属安的列斯、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、法属圣马丁、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
 - **本属模式种**：*Incisitermes schwarzi*
 

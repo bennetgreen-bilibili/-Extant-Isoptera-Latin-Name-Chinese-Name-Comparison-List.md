@@ -14,7 +14,7 @@ genus_zh: "刺白蚁属"
 genus_latin: "Acanthotermes"
 genus_id: "acanthotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Acanthotermes acanthothorax*** es la única especie viviente del género *Acanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1898; la localidad tipo es Cameroon: Ekundu; Kitta. Distribución según la fuente: Old World tropics, West Africa, Central Africa, East Africa.
+***Acanthotermes acanthothorax*** es la única especie viviente del género *Acanthotermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1898; la localidad tipo es Cameroon: Ekundu; Kitta. Distribución según la fuente: Old World tropics, West Africa, Central Africa, East Africa.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *acanthothorax*: De acantho (espina) + thorax (tórax)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Acanthotermes*]({{ site.base_url }}/es/genus/acanthotermes/) — monotípico, 1 especie
 

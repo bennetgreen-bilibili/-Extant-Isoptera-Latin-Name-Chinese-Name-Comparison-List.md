@@ -14,7 +14,7 @@ genus_zh: "真砂白蚁属"
 genus_latin: "Eucryptotermes"
 genus_id: "eucryptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Eucryptotermes breviceps*** es una especie del género *Eucryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Constantino en 1997; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución según la fuente: South America, Brazil, French Guiana.
+***Eucryptotermes breviceps*** es una especie del género *Eucryptotermes*, en la familia Kalotermitidae. La especie fue descrita por Constantino en 1997; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución según la fuente: South America, Brazil, French Guiana.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *breviceps*: De brevi (corto) + ceps (cabeza)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Eucryptotermes*]({{ site.base_url }}/es/genus/eucryptotermes/) — 2 especies
 - **Especie tipo del género**: *Eucryptotermes hagenii*
 

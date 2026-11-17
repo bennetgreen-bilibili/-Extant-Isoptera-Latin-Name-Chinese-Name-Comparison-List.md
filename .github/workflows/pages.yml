@@ -337,7 +337,7 @@ jobs:
               ("/changelog.atom", None),
               ("/changelog/", "2026.10.30"),
               ("/list/name-issues/", "ni-row"),
-              ("/family/termitidae/", "TERMITIDAE"),
+              ("/family/termitidae/", "Termitidae"),
               ("/subfamily/macrotermitinae/", "Macrotermitinae"),
               ("/genus/mastotermes/", "Mastotermes darwiniensis"),
           ]

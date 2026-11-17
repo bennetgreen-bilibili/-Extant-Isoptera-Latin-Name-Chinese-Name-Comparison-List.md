@@ -12,7 +12,7 @@ genus_zh: "双齿白蚁属"
 genus_latin: "Duplidentitermes"
 genus_id: "duplidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽颏双齿白蚁**（*Duplidentitermes latimentonis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）双齿白蚁属（*Duplidentitermes*）的一种。本种由 Emerson 于 1959 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括刚果民主共和国。
+**宽颏双齿白蚁**（*Duplidentitermes latimentonis*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）双齿白蚁属（*Duplidentitermes*）的一种。本种由 Emerson 于 1959 年描述，模式产地为 Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River。分布记录包括刚果民主共和国。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[双齿白蚁属 *Duplidentitermes*]({{ site.base_url }}/genus/duplidentitermes/) —— 共 3 种
 - **本属模式种**：*Duplidentitermes furcatidens*

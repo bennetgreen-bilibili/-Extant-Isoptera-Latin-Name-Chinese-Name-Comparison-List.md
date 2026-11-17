@@ -12,7 +12,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Panama: Taboga Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**施瓦茨楹白蚁**（*Incisitermes schwarzi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，也是本属的模式种。本种由 Banks 于 1919 年描述，模式产地为 Cuba: ?; Jamaica: Bog River; United States: Florida: Adam Key; Florida: Miami Beach; Florida: Paradise Key; Florida: Pensacola。分布记录包括墨西哥、美国、安提瓜和巴布达、阿鲁巴、巴哈马、伯利兹、博奈尔、开曼群岛、哥伦比亚、古巴、库拉索、多米尼克、多米尼加、格林纳达、法属瓜德罗普、危地马拉、洪都拉斯、牙买加、法属马提尼克、尼加拉瓜、巴拿马、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉。本种有 1 个次异名。
+**施瓦茨楹白蚁**（*Incisitermes schwarzi*）是木白蚁科（Kalotermitidae）楹白蚁属（*Incisitermes*）的一种，也是本属的模式种。本种由 Banks 于 1919 年描述，模式产地为 Cuba: ?; Jamaica: Bog River; United States: Florida: Adam Key; Florida: Miami Beach; Florida: Paradise Key; Florida: Pensacola。分布记录包括墨西哥、美国、安提瓜和巴布达、阿鲁巴、巴哈马、伯利兹、博奈尔、开曼群岛、哥伦比亚、古巴、库拉索、多米尼克、多米尼加、格林纳达、法属瓜德罗普、危地马拉、洪都拉斯、牙买加、法属马提尼克、尼加拉瓜、巴拿马、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉。本种有 1 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Panama: Taboga Island"
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
 
 ## 分布

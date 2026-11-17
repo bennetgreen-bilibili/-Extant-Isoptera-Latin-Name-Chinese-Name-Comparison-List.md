@@ -20,6 +20,6 @@ back_label: "狭鼻白蚁属 Dolichorhinotermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/es/family/rhinotermitidae/"
 ---

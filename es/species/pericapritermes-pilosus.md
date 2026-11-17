@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pericapritermes pilosus*** es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Bourguignon & Roisin en 2008; la localidad tipo es Papua New Guinea: Southern Highlands: Pimaga. Distribución según la fuente: Papua New Guinea.
+***Pericapritermes pilosus*** es una especie del género *Pericapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Bourguignon & Roisin en 2008; la localidad tipo es Papua New Guinea: Southern Highlands: Pimaga. Distribución según la fuente: Papua New Guinea.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *pilosus*: Del latín pilosus (peludo)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pericapritermes*]({{ site.base_url }}/es/genus/pericapritermes/) — 40 especies
 - **Especie tipo del género**: *Pericapritermes urgens*

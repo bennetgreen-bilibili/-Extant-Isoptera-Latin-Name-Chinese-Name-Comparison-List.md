@@ -12,7 +12,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**斯奈德楹白蚁**（*Incisitermes snyderi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 United States: Texas: Cameron County: Brownsville: Fort Brown。分布记录包括美国、墨西哥、巴哈马、百慕大、哥斯达黎加、古巴、巴拿马、波多黎各、特克斯和凯科斯群岛、英属维尔京群岛、美属维尔京群岛。
+**斯奈德楹白蚁**（*Incisitermes snyderi*）是木白蚁科（Kalotermitidae）楹白蚁属（*Incisitermes*）的一种。本种由 Light 于 1933 年描述，模式产地为 United States: Texas: Cameron County: Brownsville: Fort Brown。分布记录包括美国、墨西哥、巴哈马、百慕大、哥斯达黎加、古巴、巴拿马、波多黎各、特克斯和凯科斯群岛、英属维尔京群岛、美属维尔京群岛。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种
 - **本属模式种**：*Incisitermes schwarzi*
 

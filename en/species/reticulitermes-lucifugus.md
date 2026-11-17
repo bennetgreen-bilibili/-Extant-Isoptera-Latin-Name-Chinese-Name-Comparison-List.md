@@ -14,7 +14,7 @@ genus_zh: "散白蚁属"
 genus_latin: "Reticulitermes"
 genus_id: "reticulitermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Reticulitermes lucifugus*** is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Rossi in 1792; the type locality is (country unknown): "Shores of Mediterranean". Distribution: Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia). This site records 5 junior synonyms for the species.
+***Reticulitermes lucifugus*** is a species of the genus *Reticulitermes*, in the family Heterotermitidae. The species was described by Rossi in 1792; the type locality is (country unknown): "Shores of Mediterranean". Distribution: Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia). This site records 5 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *lucifugus*: Latin lux (light) + fugus (fleeing), light-avoidin
 
 ## Taxonomic position
 
-- **Family**: [HETEROTERMITIDAE]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
+- **Family**: [Heterotermitidae]({{ site.base_url }}/en/family/heterotermitidae/) — 3 genera, 229 species
 - **Genus**: [*Reticulitermes*]({{ site.base_url }}/en/genus/reticulitermes/) — 140 species
 - **Type species of the genus**: *Reticulitermes flavipes*
 

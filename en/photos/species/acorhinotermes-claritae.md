@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Acorhinotermes_clari
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "RHINOTERMITIDAE"
+  - name: "Rhinotermitidae"
     url: "/en/family/rhinotermitidae/"
   - name: "Acorhinotermes"
     url: "/en/genus/acorhinotermes/"

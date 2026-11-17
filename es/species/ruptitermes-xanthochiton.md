@@ -14,7 +14,7 @@ genus_zh: "腹爆白蚁属"
 genus_latin: "Ruptitermes"
 genus_id: "ruptitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ruptitermes xanthochiton*** es una especie y la especie tipo del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución según la fuente: South America, Brazil, Paraguay, French Guiana, Bolivia.
+***Ruptitermes xanthochiton*** es una especie y la especie tipo del género *Ruptitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución según la fuente: South America, Brazil, Paraguay, French Guiana, Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *xanthochiton*: Del griego xanthos (amarillo) + chitōn (co
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Ruptitermes*]({{ site.base_url }}/es/genus/ruptitermes/) — 13 especies
 

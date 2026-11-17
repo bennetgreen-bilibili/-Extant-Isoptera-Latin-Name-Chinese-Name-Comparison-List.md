@@ -14,7 +14,7 @@ genus_zh: "努瓦罗白蚁属"
 genus_latin: "Noirotitermes"
 genus_id: "noirotitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Noirotitermes noiroti*** es la única especie viviente del género *Noirotitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Cancello & Myles en 2000; la localidad tipo es Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribución según la fuente: Brazil.
+***Noirotitermes noiroti*** es la única especie viviente del género *Noirotitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Cancello & Myles en 2000; la localidad tipo es Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribución según la fuente: Brazil.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *noiroti*: En honor de C. Noirot (biólogo francés de term
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Noirotitermes*]({{ site.base_url }}/es/genus/noirotitermes/) — monotípico, 1 especie
 

@@ -14,7 +14,7 @@ genus_zh: "前角白蚁属"
 genus_latin: "Procornitermes"
 genus_id: "procornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Procornitermes triacifer*** es una especie y la especie tipo del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Corumbá \[19.017S 57.65W\]. Distribución según la fuente: Brazil, Argentina, Bolivia, Paraguay.
+***Procornitermes triacifer*** es una especie y la especie tipo del género *Procornitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Corumbá \[19.017S 57.65W\]. Distribución según la fuente: Brazil, Argentina, Bolivia, Paraguay.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *triacifer*: De triaci (tres) + fer (portador)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Procornitermes*]({{ site.base_url }}/es/genus/procornitermes/) — 5 especies
 

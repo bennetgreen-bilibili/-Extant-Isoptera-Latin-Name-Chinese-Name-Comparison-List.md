@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "United States: Texas: Chalk Bluff; United States: Arizona: 
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Incisitermes banksi*** is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1920; the type locality is United States: Arizona: Santa Catalina Mountains: Sabino Canyon. Distribution: United States, Mexico. This site records 2 junior synonyms for the species.
+***Incisitermes banksi*** is a species of the genus *Incisitermes*, in the family Kalotermitidae. The species was described by Snyder in 1920; the type locality is United States: Arizona: Santa Catalina Mountains: Sabino Canyon. Distribution: United States, Mexico. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *banksi*: Named after N. Banks
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Incisitermes*]({{ site.base_url }}/en/genus/incisitermes/) — 30 species
 - **Type species of the genus**: *Incisitermes schwarzi*
 

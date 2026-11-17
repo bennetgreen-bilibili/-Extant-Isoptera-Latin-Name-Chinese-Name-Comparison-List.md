@@ -14,7 +14,7 @@ genus_zh: "边白蚁属"
 genus_latin: "Marginitermes"
 genus_id: "marginitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Marginitermes hubbardi*** es una especie y la especie tipo del género *Marginitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Arizona: Tucson. Distribución según la fuente: North America, United States, Mexico.
+***Marginitermes hubbardi*** es una especie y la especie tipo del género *Marginitermes*, en la familia Kalotermitidae. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Arizona: Tucson. Distribución según la fuente: North America, United States, Mexico.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *hubbardi*: En honor de Henry G. Hubbard
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Marginitermes*]({{ site.base_url }}/es/genus/marginitermes/) — 3 especies
 
 ## Distribución

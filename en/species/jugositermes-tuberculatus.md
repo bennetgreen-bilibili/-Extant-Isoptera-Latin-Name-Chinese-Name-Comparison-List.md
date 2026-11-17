@@ -14,7 +14,7 @@ genus_zh: "岗白蚁属"
 genus_latin: "Jugositermes"
 genus_id: "jugositermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Jugositermes tuberculatus*** is the only extant species of the genus *Jugositermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Emerson in 1928; the type locality is Cameroon: Bipindi. Distribution: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
+***Jugositermes tuberculatus*** is the only extant species of the genus *Jugositermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Emerson in 1928; the type locality is Cameroon: Bipindi. Distribution: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *tuberculatus*: Latin tuberculatus (tuberculate)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Jugositermes*]({{ site.base_url }}/en/genus/jugositermes/) — monotypic, 1 species
 

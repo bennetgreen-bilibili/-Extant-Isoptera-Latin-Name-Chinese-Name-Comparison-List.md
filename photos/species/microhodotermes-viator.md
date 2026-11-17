@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/732416783/large.jp
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "草白蚁科 HODOTERMITIDAE"
+  - name: "草白蚁科 Hodotermitidae"
     url: "/family/hodotermitidae/"
   - name: "小草白蚁属 Microhodotermes"
     url: "/genus/microhodotermes/"

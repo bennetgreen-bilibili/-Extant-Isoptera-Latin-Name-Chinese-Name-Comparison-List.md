@@ -12,7 +12,7 @@ genus_zh: "锐白蚁属"
 genus_latin: "Phoxotermes"
 genus_id: "phoxotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三头犬锐白蚁**（*Phoxotermes cerberus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）锐白蚁属（*Phoxotermes*）的现存唯一种。本种由 Collins 于 1977 年描述，模式产地为 Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo。分布记录包括中非、喀麦隆、刚果。
+**三头犬锐白蚁**（*Phoxotermes cerberus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）锐白蚁属（*Phoxotermes*）的现存唯一种。本种由 Collins 于 1977 年描述，模式产地为 Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo。分布记录包括中非、喀麦隆、刚果。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[锐白蚁属 *Phoxotermes*]({{ site.base_url }}/genus/phoxotermes/) —— 单型属，仅含 1 种
 

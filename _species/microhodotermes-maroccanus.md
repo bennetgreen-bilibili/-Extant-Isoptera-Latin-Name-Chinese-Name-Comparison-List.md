@@ -12,7 +12,7 @@ genus_zh: "小草白蚁属"
 genus_latin: "Microhodotermes"
 genus_id: "microhodotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**摩洛哥小草白蚁**（*Microhodotermes maroccanus*）是草白蚁科（HODOTERMITIDAE）小草白蚁属（*Microhodotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Morocco: Dar Kaïd; Dar Kaïd Enbarck Imi; M’tougui; N’takandout。分布记录包括摩洛哥、阿尔及利亚。
+**摩洛哥小草白蚁**（*Microhodotermes maroccanus*）是草白蚁科（Hodotermitidae）小草白蚁属（*Microhodotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Morocco: Dar Kaïd; Dar Kaïd Enbarck Imi; M’tougui; N’takandout。分布记录包括摩洛哥、阿尔及利亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
+- **科**：[草白蚁科 Hodotermitidae]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种
 - **属**：[小草白蚁属 *Microhodotermes*]({{ site.base_url }}/genus/microhodotermes/) —— 共 3 种
 - **本属模式种**：*Microhodotermes viator*
 

@@ -14,7 +14,7 @@ genus_zh: "后琥珀白蚁属"
 genus_latin: "Postelectrotermes"
 genus_id: "postelectrotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Madeira Island (Portugal): Serra d’Agua"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Postelectrotermes praecox*** is a species and the type species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Hagen in 1858; the type locality is Madeira Island (Portugal): ?. Distribution: Madeira (Portugal). This site records 1 junior synonym for the species.
+***Postelectrotermes praecox*** is a species and the type species of the genus *Postelectrotermes*, in the family Kalotermitidae. The species was described by Hagen in 1858; the type locality is Madeira Island (Portugal): ?. Distribution: Madeira (Portugal). This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *praecox*: Latin praecox (precocious)
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Postelectrotermes*]({{ site.base_url }}/en/genus/postelectrotermes/) — 15 species
 
 ## Distribution

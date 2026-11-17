@@ -20,6 +20,6 @@ back_label: "弓白蚁亚科 Amitermitinae"
 breadcrumb:
   - name: "名录"
     url: "/list/"
-  - name: "白蚁科 TERMITIDAE"
+  - name: "白蚁科 Termitidae"
     url: "/family/termitidae/"
 ---

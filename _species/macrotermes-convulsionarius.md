@@ -12,7 +12,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "India: Karnataka: Huvin Hippargi; Karnataka: Kaladgi; Karna
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**震撼大白蚁**（*Macrotermes convulsionarius*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 König 于 1779 年描述，模式产地为 India: Tamil Nadu: Tanjore (Tranqueba)。分布记录包括南亚、印度、斯里兰卡。本种有 1 个次异名。
+**震撼大白蚁**（*Macrotermes convulsionarius*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 König 于 1779 年描述，模式产地为 India: Tamil Nadu: Tanjore (Tranqueba)。分布记录包括南亚、印度、斯里兰卡。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "India: Karnataka: Huvin Hippargi; Karnataka: Kaladgi; Karna
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
 - **本属模式种**：*Macrotermes lilljeborgi*

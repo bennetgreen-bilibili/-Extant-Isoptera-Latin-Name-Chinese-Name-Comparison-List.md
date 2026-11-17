@@ -14,7 +14,7 @@ genus_zh: "海胆白蚁属"
 genus_latin: "Ourissotermes"
 genus_id: "ourissotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ourissotermes giblinorum*** is the only extant species of the genus *Ourissotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn, Carrijo & Castro in 2023; the type locality is Brasil: Rondônia: Porto Velho, Jaci Paraná \[ 8.76194S 63.9039W \]. Distribution: South America.
+***Ourissotermes giblinorum*** is the only extant species of the genus *Ourissotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Scheffrahn, Carrijo & Castro in 2023; the type locality is Brasil: Rondônia: Porto Velho, Jaci Paraná \[ 8.76194S 63.9039W \]. Distribution: South America.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *giblinorum*: Named after the Giblins
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Ourissotermes*]({{ site.base_url }}/en/genus/ourissotermes/) — monotypic, 1 species
 

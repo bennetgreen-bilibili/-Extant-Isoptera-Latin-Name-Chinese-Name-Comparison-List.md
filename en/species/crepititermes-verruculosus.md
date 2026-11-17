@@ -14,7 +14,7 @@ genus_zh: "响白蚁属"
 genus_latin: "Crepititermes"
 genus_id: "crepititermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "响白蚁亚科"
 subfamily_latin: "Crepititermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Crepititermes verruculosus*** is the only extant species of the genus *Crepititermes*, in the family TERMITIDAE (subfamily Crepititermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago.
+***Crepititermes verruculosus*** is the only extant species of the genus *Crepititermes*, in the family Termitidae (subfamily Crepititermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *verruculosus*: From verrucul + osus
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Crepititermitinae]({{ site.base_url }}/en/subfamily/crepititermitinae/) — 1 genus, 1 species
 - **Genus**: [*Crepititermes*]({{ site.base_url }}/en/genus/crepititermes/) — monotypic, 1 species
 

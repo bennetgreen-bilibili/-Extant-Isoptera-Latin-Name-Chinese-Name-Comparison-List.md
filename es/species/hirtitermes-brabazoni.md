@@ -14,7 +14,7 @@ genus_zh: "多毛白蚁属"
 genus_latin: "Hirtitermes"
 genus_id: "hirtitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Hirtitermes brabazoni*** es una especie del género *Hirtitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gathorne-Hardy en 2001; la localidad tipo es Indonesia: Sulawesi: Dumoga-Bone National Park. Distribución según la fuente: Indonesia.
+***Hirtitermes brabazoni*** es una especie del género *Hirtitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Gathorne-Hardy en 2001; la localidad tipo es Indonesia: Sulawesi: Dumoga-Bone National Park. Distribución según la fuente: Indonesia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *brabazoni*: En honor de Brabazon
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Hirtitermes*]({{ site.base_url }}/es/genus/hirtitermes/) — 3 especies
 - **Especie tipo del género**: *Hirtitermes hirtiventris*

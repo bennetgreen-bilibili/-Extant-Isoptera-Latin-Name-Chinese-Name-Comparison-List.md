@@ -14,7 +14,7 @@ genus_zh: "奇齿白蚁属"
 genus_latin: "Allodontermes"
 genus_id: "allodontermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Allodontermes schultzei*** is a species and the type species of the genus *Allodontermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Silvestri in 1908; the type locality is Botswana: Kalahari: Severelela (Kang-Kgokong). Distribution: southern Africa, Namibia, Botswana, South Africa, Eswatini, Zambia, Zimbabwe.
+***Allodontermes schultzei*** is a species and the type species of the genus *Allodontermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Silvestri in 1908; the type locality is Botswana: Kalahari: Severelela (Kang-Kgokong). Distribution: southern Africa, Namibia, Botswana, South Africa, Eswatini, Zambia, Zimbabwe.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *schultzei*: Named after L. Schultze
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Allodontermes*]({{ site.base_url }}/en/genus/allodontermes/) — 3 species
 

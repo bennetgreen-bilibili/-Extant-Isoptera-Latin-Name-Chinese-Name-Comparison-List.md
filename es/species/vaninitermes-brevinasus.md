@@ -14,7 +14,7 @@ genus_zh: "瓦宁白蚁属"
 genus_latin: "Vaninitermes"
 genus_id: "vaninitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Vaninitermes brevinasus*** es una especie del género *Vaninitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1957; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[1.7N 57.9167W\]. Distribución según la fuente: French Guiana, Brazil, Guyana.
+***Vaninitermes brevinasus*** es una especie del género *Vaninitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1957; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[1.7N 57.9167W\]. Distribución según la fuente: French Guiana, Brazil, Guyana.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *brevinasus*: Del término descriptivo «brev» (corto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Vaninitermes*]({{ site.base_url }}/es/genus/vaninitermes/) — 2 especies
 - **Especie tipo del género**: *Vaninitermes ignotus*

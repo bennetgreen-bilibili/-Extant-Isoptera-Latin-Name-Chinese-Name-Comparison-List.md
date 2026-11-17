@@ -14,7 +14,7 @@ genus_zh: "直颚白蚁属"
 genus_latin: "Orthognathotermes"
 genus_id: "orthognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "弓白蚁亚科"
 subfamily_latin: "Amitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Orthognathotermes orthognathus*** es una especie del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]. Distribución según la fuente: Brazil, Paraguay.
+***Orthognathotermes orthognathus*** es una especie del género *Orthognathotermes*, en la familia Termitidae (subfamilia Amitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]. Distribución según la fuente: Brazil, Paraguay.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *orthognathus*: Del griego orthos (recto) + gnathos (mandí
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Amitermitinae]({{ site.base_url }}/es/subfamily/amitermitinae/) — 14 géneros, 194 especies
 - **Género**: [*Orthognathotermes*]({{ site.base_url }}/es/genus/orthognathotermes/) — 15 especies
 - **Especie tipo del género**: *Orthognathotermes macrocephalus*

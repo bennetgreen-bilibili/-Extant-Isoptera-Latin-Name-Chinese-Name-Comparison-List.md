@@ -14,7 +14,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.083
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Calcaritermes nigriceps*** is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
+***Calcaritermes nigriceps*** is a species of the genus *Calcaritermes*, in the family Kalotermitidae. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
 
 ## Taxonomic position
 
-- **Family**: [KALOTERMITIDAE]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
+- **Family**: [Kalotermitidae]({{ site.base_url }}/en/family/kalotermitidae/) — 23 genera, 480 species
 - **Genus**: [*Calcaritermes*]({{ site.base_url }}/en/genus/calcaritermes/) — 12 species
 - **Type species of the genus**: *Calcaritermes imminens*
 

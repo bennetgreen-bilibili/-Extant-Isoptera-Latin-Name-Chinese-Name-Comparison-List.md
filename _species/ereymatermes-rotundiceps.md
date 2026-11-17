@@ -12,7 +12,7 @@ genus_zh: "无名白蚁属"
 genus_latin: "Ereymatermes"
 genus_id: "ereymatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**圆头无名白蚁**（*Ereymatermes rotundiceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）无名白蚁属（*Ereymatermes*）的一种，也是本属的模式种。本种由 Constantino 于 1991 年描述，模式产地为 Brasil: Amazonas: Maraã, Ilha Jaraqui, varzea forest \[1.854S 65.528W\]。分布记录包括南美洲、巴西、哥伦比亚、厄瓜多尔。
+**圆头无名白蚁**（*Ereymatermes rotundiceps*）是白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae）无名白蚁属（*Ereymatermes*）的一种，也是本属的模式种。本种由 Constantino 于 1991 年描述，模式产地为 Brasil: Amazonas: Maraã, Ilha Jaraqui, varzea forest \[1.854S 65.528W\]。分布记录包括南美洲、巴西、哥伦比亚、厄瓜多尔。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种
 - **属**：[无名白蚁属 *Ereymatermes*]({{ site.base_url }}/genus/ereymatermes/) —— 共 3 种
 

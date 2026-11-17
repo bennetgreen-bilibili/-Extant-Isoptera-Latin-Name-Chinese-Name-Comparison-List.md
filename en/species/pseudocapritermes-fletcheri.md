@@ -14,7 +14,7 @@ genus_zh: "伪扭白蚁属"
 genus_latin: "Pseudocapritermes"
 genus_id: "pseudocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "India: Tamil Nadu: Topslip; India: Goa: South Goa Forest Di
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pseudocapritermes fletcheri*** is a species of the genus *Pseudocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Tamil Nadu: Anamalai Hills. Distribution: India. This site records 3 junior synonyms for the species.
+***Pseudocapritermes fletcheri*** is a species of the genus *Pseudocapritermes*, in the family Termitidae (subfamily Mirocapritermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Tamil Nadu: Anamalai Hills. Distribution: India. This site records 3 junior synonyms for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *fletcheri*: Named after Fletcher
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Pseudocapritermes*]({{ site.base_url }}/en/genus/pseudocapritermes/) — 19 species
 - **Type species of the genus**: *Pseudocapritermes silvaticus*

@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Cameroon: Mungo River; Ghana: Aburi"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Pericapritermes nigerianus*** is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Silvestri in 1914; the type locality is Nigeria: Ibadan; Lagos; Olokemeji. Distribution: Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria. This site records 1 junior synonym for the species.
+***Pericapritermes nigerianus*** is a species of the genus *Pericapritermes*, in the family Termitidae (subfamily Mirocapritermitinae). The species was described by Silvestri in 1914; the type locality is Nigeria: Ibadan; Lagos; Olokemeji. Distribution: Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *nigerianus*: Named after Nigeria
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Mirocapritermitinae]({{ site.base_url }}/en/subfamily/mirocapritermitinae/) — 14 genera, 135 species
 - **Genus**: [*Pericapritermes*]({{ site.base_url }}/en/genus/pericapritermes/) — 40 species
 - **Type species of the genus**: *Pericapritermes urgens*

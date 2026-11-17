@@ -14,7 +14,7 @@ genus_zh: "钝颚白蚁属"
 genus_latin: "Ahmaditermes"
 genus_id: "ahmaditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ahmaditermes pingnanensis*** es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li en 1979; la localidad tipo es China: Zhejiang Province: Longquan County: Pingnan Commune, Luomuqiao. Distribución según la fuente: Zhejiang (Longquan), Fujian (Pingnan850m).
+***Ahmaditermes pingnanensis*** es una especie del género *Ahmaditermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Li en 1979; la localidad tipo es China: Zhejiang Province: Longquan County: Pingnan Commune, Luomuqiao. Distribución según la fuente: Zhejiang (Longquan), Fujian (Pingnan850m).
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *pingnanensis*: Por la localidad de Pingnan
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Ahmaditermes*]({{ site.base_url }}/es/genus/ahmaditermes/) — 21 especies
 - **Especie tipo del género**: *Ahmaditermes pyricephalus*

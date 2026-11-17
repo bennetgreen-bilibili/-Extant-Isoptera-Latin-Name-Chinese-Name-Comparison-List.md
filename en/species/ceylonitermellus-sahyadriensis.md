@@ -14,7 +14,7 @@ genus_zh: "小锡兰白蚁属"
 genus_latin: "Ceylonitermellus"
 genus_id: "ceylonitermellus"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ceylonitermellus sahyadriensis*** is a species of the genus *Ceylonitermellus*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ranjith & Kalleshwaraswamy in 2022; the type locality is India: Kerala, Wayanad, Meppadi \[11.5647N 76.1256E\]. Distribution: India.
+***Ceylonitermellus sahyadriensis*** is a species of the genus *Ceylonitermellus*, in the family Termitidae (subfamily Nasutitermitinae). The species was described by Ranjith & Kalleshwaraswamy in 2022; the type locality is India: Kerala, Wayanad, Meppadi \[11.5647N 76.1256E\]. Distribution: India.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *sahyadriensis*: Named after the locality Sahyadr
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Nasutitermitinae]({{ site.base_url }}/en/subfamily/nasutitermitinae/) — 81 genera, 606 species
 - **Genus**: [*Ceylonitermellus*]({{ site.base_url }}/en/genus/ceylonitermellus/) — 3 species
 - **Type species of the genus**: *Ceylonitermellus hantanae*

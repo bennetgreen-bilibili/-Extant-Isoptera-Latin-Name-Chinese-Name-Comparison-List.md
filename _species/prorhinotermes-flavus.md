@@ -12,7 +12,7 @@ genus_zh: "原鼻白蚁属"
 genus_latin: "Prorhinotermes"
 genus_id: "prorhinotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本种有 9 个次异名。
+**黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（Psammotermitidae）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本种有 9 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 
 ## 分类位置
 
-- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **科**：[沙白蚁科 Psammotermitidae]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
 - **属**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种
 - **本属模式种**：*Prorhinotermes inopinatus*
 

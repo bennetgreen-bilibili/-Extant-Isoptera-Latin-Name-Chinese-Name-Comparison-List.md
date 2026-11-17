@@ -14,7 +14,7 @@ genus_zh: "舌白蚁属"
 genus_latin: "Glossotermes"
 genus_id: "glossotermes"
 family_zh: "齿白蚁科"
-family_latin: "SERRITERMITIDAE"
+family_latin: "Serritermitidae"
 family_id: "serritermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Glossotermes oculatus*** es una especie y la especie tipo del género *Glossotermes*, en la familia SERRITERMITIDAE. La especie fue descrita por Emerson en 1950; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[ 1.7N 57.9167W \]. Distribución según la fuente: French Guiana, Guyana.
+***Glossotermes oculatus*** es una especie y la especie tipo del género *Glossotermes*, en la familia Serritermitidae. La especie fue descrita por Emerson en 1950; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[ 1.7N 57.9167W \]. Distribución según la fuente: French Guiana, Guyana.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *oculatus*: De ocul (ojo) + atus (que posee)
 
 ## Posición taxonómica
 
-- **Familia**: [SERRITERMITIDAE]({{ site.base_url }}/es/family/serritermitidae/) — 2 géneros, 3 especies
+- **Familia**: [Serritermitidae]({{ site.base_url }}/es/family/serritermitidae/) — 2 géneros, 3 especies
 - **Género**: [*Glossotermes*]({{ site.base_url }}/es/genus/glossotermes/) — 2 especies
 
 ## Distribución

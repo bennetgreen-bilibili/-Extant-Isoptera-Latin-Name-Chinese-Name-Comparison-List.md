@@ -14,7 +14,7 @@ genus_zh: "等颚白蚁属"
 genus_latin: "Isognathotermes"
 genus_id: "isognathotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Isognathotermes phallicaecalis*** es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Congo Republic: Loundoungou \[ 2.3804N 17.0704E \]. Distribución según la fuente: Congo Republic, Cameroon.
+***Isognathotermes phallicaecalis*** es una especie del género *Isognathotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Congo Republic: Loundoungou \[ 2.3804N 17.0704E \]. Distribución según la fuente: Congo Republic, Cameroon.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *phallicaecalis*: Del griego phallos (falo) + latín caecum
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Isognathotermes*]({{ site.base_url }}/es/genus/isognathotermes/) — 16 especies
 - **Especie tipo del género**: *Isognathotermes minitabundus*

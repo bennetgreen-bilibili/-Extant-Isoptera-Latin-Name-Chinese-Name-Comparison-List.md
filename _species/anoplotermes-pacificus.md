@@ -12,7 +12,7 @@ genus_zh: "解甲白蚁属"
 genus_latin: "Anoplotermes"
 genus_id: "anoplotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**太平洋解甲白蚁**（*Anoplotermes pacificus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]。分布记录包括巴西、亚马孙地区。本种有 1 个次异名。
+**太平洋解甲白蚁**（*Anoplotermes pacificus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，也是本属的模式种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]。分布记录包括巴西、亚马孙地区。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/genus/anoplotermes/) —— 共 23 种
 

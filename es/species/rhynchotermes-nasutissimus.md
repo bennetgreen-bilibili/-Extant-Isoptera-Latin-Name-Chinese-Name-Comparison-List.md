@@ -14,7 +14,7 @@ genus_zh: "喙白蚁属"
 genus_latin: "Rhynchotermes"
 genus_id: "rhynchotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Goiás: Alto Paraíso de Goiás [14.1325S 47.51W]"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Rhynchotermes nasutissimus*** es una especie y la especie tipo del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]; Paraguay: Central: Areguá \[25.3S 57.4167W\]. Distribución según la fuente: Brazil, Bolivia, Paraguay, Argentina, Peru. Este sitio registra 1 sinónimo junior para la especie.
+***Rhynchotermes nasutissimus*** es una especie y la especie tipo del género *Rhynchotermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]; Paraguay: Central: Areguá \[25.3S 57.4167W\]. Distribución según la fuente: Brazil, Bolivia, Paraguay, Argentina, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *nasutissimus*: Del latín nasutus (nasuto) + -issimus (muy
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Rhynchotermes*]({{ site.base_url }}/es/genus/rhynchotermes/) — 8 especies
 

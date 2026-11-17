@@ -14,7 +14,7 @@ genus_zh: "异白蚁属"
 genus_latin: "Heterotermes"
 genus_id: "heterotermes"
 family_zh: "异白蚁科"
-family_latin: "HETEROTERMITIDAE"
+family_latin: "Heterotermitidae"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Heterotermes longiceps*** es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]. Distribución según la fuente: South America, Brazil, Bolivia.
+***Heterotermes longiceps*** es una especie del género *Heterotermes*, en la familia Heterotermitidae. La especie fue descrita por Snyder en 1924; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]. Distribución según la fuente: South America, Brazil, Bolivia.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *longiceps*: Del latín longus (largo) + -ceps (cabeza), de
 
 ## Posición taxonómica
 
-- **Familia**: [HETEROTERMITIDAE]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
+- **Familia**: [Heterotermitidae]({{ site.base_url }}/es/family/heterotermitidae/) — 3 géneros, 229 especies
 - **Género**: [*Heterotermes*]({{ site.base_url }}/es/genus/heterotermes/) — 31 especies
 - **Especie tipo del género**: *Heterotermes platycephalus*
 

@@ -14,7 +14,7 @@ genus_zh: "沙白蚁属"
 genus_latin: "Psammotermes"
 genus_id: "psammotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Psammotermes prohybostoma*** es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Chabahar (Tees). Distribución según la fuente: Iran.
+***Psammotermes prohybostoma*** es una especie del género *Psammotermes*, en la familia Psammotermitidae. La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Chabahar (Tees). Distribución según la fuente: Iran.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *prohybostoma*: Del griego pro- (delante) + hybos (joroba) 
 
 ## Posición taxonómica
 
-- **Familia**: [PSAMMOTERMITIDAE]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
+- **Familia**: [Psammotermitidae]({{ site.base_url }}/es/family/psammotermitidae/) — 2 géneros, 18 especies
 - **Género**: [*Psammotermes*]({{ site.base_url }}/es/genus/psammotermes/) — 6 especies
 - **Especie tipo del género**: *Psammotermes hybostoma*
 

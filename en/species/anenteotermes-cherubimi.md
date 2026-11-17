@@ -14,7 +14,7 @@ genus_zh: "无甲白蚁属"
 genus_latin: "Anenteotermes"
 genus_id: "anenteotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Anenteotermes cherubimi*** is a species of the genus *Anenteotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn in 2018; the type locality is Cameroon: Korup National Park. Distribution: Republic of the Congo, Cameroon.
+***Anenteotermes cherubimi*** is a species of the genus *Anenteotermes*, in the family Termitidae (subfamily Apicotermitinae). The species was described by Scheffrahn in 2018; the type locality is Cameroon: Korup National Park. Distribution: Republic of the Congo, Cameroon.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *cherubimi*: From Latin cherubim (cherub), referring to tiny si
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Apicotermitinae]({{ site.base_url }}/en/subfamily/apicotermitinae/) — 68 genera, 241 species
 - **Genus**: [*Anenteotermes*]({{ site.base_url }}/en/genus/anenteotermes/) — 11 species
 - **Type species of the genus**: *Anenteotermes disluctans*

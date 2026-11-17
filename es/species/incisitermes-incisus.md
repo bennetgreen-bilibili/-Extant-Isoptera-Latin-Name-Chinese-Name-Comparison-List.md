@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Incisitermes incisus*** es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribución según la fuente: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
+***Incisitermes incisus*** es una especie del género *Incisitermes*, en la familia Kalotermitidae. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribución según la fuente: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
 
 ## Etimología
 
@@ -40,7 +40,7 @@ Epíteto específico *incisus*: Del latín incisus (inciso, escotado)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Incisitermes*]({{ site.base_url }}/es/genus/incisitermes/) — 30 especies
 - **Especie tipo del género**: *Incisitermes schwarzi*
 

@@ -14,7 +14,7 @@ genus_zh: "前白蚁属"
 genus_latin: "Protermes"
 genus_id: "protermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Protermes minutus*** is a species of the genus *Protermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Grassé in 1937; the type locality is Ivory Coast: near Abidjan; near Bingerville. Distribution: West Africa, Côte d'Ivoire, Angola, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Sierra Leone, Zambia.
+***Protermes minutus*** is a species of the genus *Protermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Grassé in 1937; the type locality is Ivory Coast: near Abidjan; near Bingerville. Distribution: West Africa, Côte d'Ivoire, Angola, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Sierra Leone, Zambia.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *minutus*: Latin minutus (tiny)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Protermes*]({{ site.base_url }}/en/genus/protermes/) — 5 species
 - **Type species of the genus**: *Protermes prorepens*

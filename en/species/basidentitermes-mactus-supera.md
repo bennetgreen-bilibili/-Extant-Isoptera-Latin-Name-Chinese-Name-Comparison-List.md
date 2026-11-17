@@ -14,7 +14,7 @@ genus_zh: "基齿白蚁属"
 genus_latin: "Basidentitermes"
 genus_id: "basidentitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -32,7 +32,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Basidentitermes mactus supera*** is a subspecies of *Basidentitermes mactus*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Basidentitermes*. The subspecies was described by Silvestri in 1914; the type locality is Nigeria: Olokemeji. No separate distribution record is listed on this page; see the parent species *Basidentitermes mactus* below.
+***Basidentitermes mactus supera*** is a subspecies of *Basidentitermes mactus*, in the family Termitidae (subfamily Cubitermitinae), genus *Basidentitermes*. The subspecies was described by Silvestri in 1914; the type locality is Nigeria: Olokemeji. No separate distribution record is listed on this page; see the parent species *Basidentitermes mactus* below.
 
 ## Etymology
 
@@ -44,7 +44,7 @@ Specific epithet *supera*: Latin supera (upper, higher)
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Basidentitermes*]({{ site.base_url }}/en/genus/basidentitermes/) — 8 species
 - **Species**: [*Basidentitermes mactus*]({{ site.base_url }}/en/species/basidentitermes-mactus/)

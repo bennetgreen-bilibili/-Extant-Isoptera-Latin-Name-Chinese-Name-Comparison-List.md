@@ -12,7 +12,7 @@ genus_zh: "弯肠白蚁属"
 genus_latin: "Aparatermes"
 genus_id: "aparatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N  58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**环带弯肠白蚁**（*Aparatermes cingulatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）弯肠白蚁属（*Aparatermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]。分布记录包括巴西、圭亚那地盾、法属圭亚那/圭亚那/苏里南、亚马孙地区、哥伦比亚/秘鲁/玻利维亚/厄瓜多尔、南美东南部、阿根廷/巴拉圭/乌拉圭、中美洲及加勒比。本种有 1 个次异名。
+**环带弯肠白蚁**（*Aparatermes cingulatus*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）弯肠白蚁属（*Aparatermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]。分布记录包括巴西、圭亚那地盾、法属圭亚那/圭亚那/苏里南、亚马孙地区、哥伦比亚/秘鲁/玻利维亚/厄瓜多尔、南美东南部、阿根廷/巴拉圭/乌拉圭、中美洲及加勒比。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N  58.7W]"
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[弯肠白蚁属 *Aparatermes*]({{ site.base_url }}/genus/aparatermes/) —— 共 3 种
 - **本属模式种**：*Aparatermes abbreviatus*

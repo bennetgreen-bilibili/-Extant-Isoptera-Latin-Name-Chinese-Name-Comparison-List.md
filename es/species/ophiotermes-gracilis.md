@@ -14,7 +14,7 @@ genus_zh: "蛇白蚁属"
 genus_latin: "Ophiotermes"
 genus_id: "ophiotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ophiotermes gracilis*** es una especie del género *Ophiotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Weidner en 1974; la localidad tipo es Angola: "Alto Chicapa, à 10 km du poste, rives du Cuango Muqué, à côté de la route.". Distribución según la fuente: Angola.
+***Ophiotermes gracilis*** es una especie del género *Ophiotermes*, en la familia Termitidae (subfamilia Cubitermitinae). La especie fue descrita por Weidner en 1974; la localidad tipo es Angola: "Alto Chicapa, à 10 km du poste, rives du Cuango Muqué, à côté de la route.". Distribución según la fuente: Angola.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *gracilis*: Del latín gracilis (esbelto)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Cubitermitinae]({{ site.base_url }}/es/subfamily/cubitermitinae/) — 28 géneros, 149 especies
 - **Género**: [*Ophiotermes*]({{ site.base_url }}/es/genus/ophiotermes/) — 7 especies
 - **Especie tipo del género**: *Ophiotermes mandibularis*

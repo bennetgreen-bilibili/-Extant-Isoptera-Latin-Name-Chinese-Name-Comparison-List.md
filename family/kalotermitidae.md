@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "木白蚁科 KALOTERMITIDAE 分类名录"
-description: "木白蚁科（KALOTERMITIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 23 个属、480 个种、4 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
+title: "木白蚁科 Kalotermitidae 分类名录"
+description: "木白蚁科（Kalotermitidae）是现存等翅下目（Isoptera）下的一个科，本站收录 23 个属、480 个种、4 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
 lang: zh-CN
 single_lang: true
 author: 班奈特格林

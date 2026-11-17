@@ -12,7 +12,7 @@ genus_zh: "奇囟白蚁属"
 genus_latin: "Tonsuritermes"
 genus_id: "tonsuritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**塔克奇囟白蚁**（*Tonsuritermes tucki*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）奇囟白蚁属（*Tonsuritermes*）的一种，也是本属的模式种。本种由 Constantini & Cancello 于 2018 年描述，模式产地为 Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁。
+**塔克奇囟白蚁**（*Tonsuritermes tucki*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）奇囟白蚁属（*Tonsuritermes*）的一种，也是本属的模式种。本种由 Constantini & Cancello 于 2018 年描述，模式产地为 Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[奇囟白蚁属 *Tonsuritermes*]({{ site.base_url }}/genus/tonsuritermes/) —— 共 2 种
 

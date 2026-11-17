@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microcerotermes laxmi*** es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Roonwal & Bose en 1964; la localidad tipo es India: Rajasthan: Bikaner District, ca. 50 km w of Bikaner: Kolayat. Distribución según la fuente: India.
+***Microcerotermes laxmi*** es una especie del género *Microcerotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Roonwal & Bose en 1964; la localidad tipo es India: Rajasthan: Bikaner District, ca. 50 km w of Bikaner: Kolayat. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *laxmi*: En honor de Laxmi (también la diosa Lakshmi)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Microcerotermes*]({{ site.base_url }}/es/genus/microcerotermes/) — 148 especies
 - **Especie tipo del género**: *Microcerotermes strunckii*

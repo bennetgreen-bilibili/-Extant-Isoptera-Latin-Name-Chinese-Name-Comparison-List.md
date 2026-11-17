@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Gnathamitermes_perpl
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Amitermitinae"
     url: "/es/subfamily/amitermitinae/"

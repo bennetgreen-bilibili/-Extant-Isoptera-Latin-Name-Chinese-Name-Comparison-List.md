@@ -14,7 +14,7 @@ genus_zh: "亮白蚁属"
 genus_latin: "Euhamitermes"
 genus_id: "euhamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Euhamitermes mengdingensis*** es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Zhu & Li en 1987; la localidad tipo es China: Yunnan Province: Autonomous County of Gengma, Dai-Va. Distribución según la fuente: China, Yunnan.
+***Euhamitermes mengdingensis*** es una especie del género *Euhamitermes*, en la familia Termitidae (subfamilia Apicotermitinae). La especie fue descrita por Zhu & Li en 1987; la localidad tipo es China: Yunnan Province: Autonomous County of Gengma, Dai-Va. Distribución según la fuente: China, Yunnan.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *mengdingensis*: Por la localidad de Mengding
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Apicotermitinae]({{ site.base_url }}/es/subfamily/apicotermitinae/) — 68 géneros, 241 especies
 - **Género**: [*Euhamitermes*]({{ site.base_url }}/es/genus/euhamitermes/) — 24 especies
 - **Especie tipo del género**: *Euhamitermes hamatus*

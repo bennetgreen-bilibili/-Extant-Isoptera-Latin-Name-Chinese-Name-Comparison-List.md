@@ -20,7 +20,7 @@ back_label: "始扭白蚁属 Protocapritermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Termitinae"
     url: "/es/subfamily/termitinae/"

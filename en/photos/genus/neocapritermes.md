@@ -20,7 +20,7 @@ back_label: "新扭白蚁属 Neocapritermes"
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/en/family/termitidae/"
   - name: "Neocapritermitinae"
     url: "/en/subfamily/neocapritermitinae/"

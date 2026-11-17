@@ -14,7 +14,7 @@ genus_zh: "动白蚁属"
 genus_latin: "Zootermopsis"
 genus_id: "zootermopsis"
 family_zh: "古白蚁科"
-family_latin: "ARCHOTERMOPSIDAE"
+family_latin: "Archotermopsidae"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Zootermopsis nevadensis nevadensis*** es una subespecie de *Zootermopsis nevadensis*, en la familia ARCHOTERMOPSIDAE, género *Zootermopsis*. La subespecie fue descrita por Hagen en 1874; la localidad tipo es United States: Nevada: Truckee. No se incluye un registro de distribución separado en esta página; véase la especie parental *Zootermopsis nevadensis* más abajo.
+***Zootermopsis nevadensis nevadensis*** es una subespecie de *Zootermopsis nevadensis*, en la familia Archotermopsidae, género *Zootermopsis*. La subespecie fue descrita por Hagen en 1874; la localidad tipo es United States: Nevada: Truckee. No se incluye un registro de distribución separado en esta página; véase la especie parental *Zootermopsis nevadensis* más abajo.
 
 ## Etimología
 
@@ -41,7 +41,7 @@ Epíteto específico *nevadensis*: Por Nevada (EE. UU.)
 
 ## Posición taxonómica
 
-- **Familia**: [ARCHOTERMOPSIDAE]({{ site.base_url }}/es/family/archotermopsidae/) — 2 géneros, 5 especies
+- **Familia**: [Archotermopsidae]({{ site.base_url }}/es/family/archotermopsidae/) — 2 géneros, 5 especies
 - **Género**: [*Zootermopsis*]({{ site.base_url }}/es/genus/zootermopsis/) — 3 especies
 - **Especie**: [*Zootermopsis nevadensis*]({{ site.base_url }}/es/species/zootermopsis-nevadensis/)
 - **Subespecie**: esta página (*Zootermopsis nevadensis nevadensis*)

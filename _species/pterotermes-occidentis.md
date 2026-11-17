@@ -12,7 +12,7 @@ genus_zh: "翅白蚁属"
 genus_latin: "Pterotermes"
 genus_id: "pterotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西部翅白蚁**（*Pterotermes occidentis*）是木白蚁科（KALOTERMITIDAE）翅白蚁属（*Pterotermes*）的现存唯一种。本种由 Walker 于 1853 年描述，模式产地为 (country unknown): "West Coast of America"。分布记录包括北美、美国、墨西哥。
+**西部翅白蚁**（*Pterotermes occidentis*）是木白蚁科（Kalotermitidae）翅白蚁属（*Pterotermes*）的现存唯一种。本种由 Walker 于 1853 年描述，模式产地为 (country unknown): "West Coast of America"。分布记录包括北美、美国、墨西哥。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[翅白蚁属 *Pterotermes*]({{ site.base_url }}/genus/pterotermes/) —— 单型属，仅含 1 种
 
 ## 分布

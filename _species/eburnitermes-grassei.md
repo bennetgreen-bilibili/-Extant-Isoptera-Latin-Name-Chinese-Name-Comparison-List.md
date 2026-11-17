@@ -12,7 +12,7 @@ genus_zh: "象牙白蚁属"
 genus_latin: "Eburnitermes"
 genus_id: "eburnitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**格拉塞象牙白蚁**（*Eburnitermes grassei*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）象牙白蚁属（*Eburnitermes*）的现存唯一种。本种由 Noirot 于 1966 年描述，模式产地为 Ivory Coast: Adiopodoumé, 17 km E of Abidjan。分布记录包括喀麦隆、科特迪瓦、尼日利亚。
+**格拉塞象牙白蚁**（*Eburnitermes grassei*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）象牙白蚁属（*Eburnitermes*）的现存唯一种。本种由 Noirot 于 1966 年描述，模式产地为 Ivory Coast: Adiopodoumé, 17 km E of Abidjan。分布记录包括喀麦隆、科特迪瓦、尼日利亚。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[象牙白蚁属 *Eburnitermes*]({{ site.base_url }}/genus/eburnitermes/) —— 单型属，仅含 1 种
 

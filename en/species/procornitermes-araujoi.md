@@ -14,7 +14,7 @@ genus_zh: "前角白蚁属"
 genus_latin: "Procornitermes"
 genus_id: "procornitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Brasil: Minas Gerais: Congonhas [20.4997S 43.8578W]"
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Procornitermes araujoi*** is a species of the genus *Procornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1952; the type locality is Brasil: São Paulo: Leme, Taquarí (district) \[22.1856S 47.3903W\]. Distribution: Brazil. This site records 1 junior synonym for the species.
+***Procornitermes araujoi*** is a species of the genus *Procornitermes*, in the family Termitidae (subfamily Syntermitinae). The species was described by Emerson in 1952; the type locality is Brasil: São Paulo: Leme, Taquarí (district) \[22.1856S 47.3903W\]. Distribution: Brazil. This site records 1 junior synonym for the species.
 
 ## Etymology
 
@@ -45,7 +45,7 @@ Specific epithet *araujoi*: Named after R. L. Araujo
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Syntermitinae]({{ site.base_url }}/en/subfamily/syntermitinae/) — 22 genera, 105 species
 - **Genus**: [*Procornitermes*]({{ site.base_url }}/en/genus/procornitermes/) — 5 species
 - **Type species of the genus**: *Procornitermes triacifer*

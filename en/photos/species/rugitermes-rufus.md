@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Rugitermes_rufus_%28
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "KALOTERMITIDAE"
+  - name: "Kalotermitidae"
     url: "/en/family/kalotermitidae/"
   - name: "Rugitermes"
     url: "/en/genus/rugitermes/"

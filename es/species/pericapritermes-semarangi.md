@@ -14,7 +14,7 @@ genus_zh: "近扭白蚁属"
 genus_latin: "Pericapritermes"
 genus_id: "pericapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Indonesia: Java: Semarang; Indonesia: Sumatra: Kota Bahru"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Pericapritermes semarangi*** es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Java: Semarang. Distribución según la fuente: India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand. Este sitio registra 2 sinónimos junior para la especie.
+***Pericapritermes semarangi*** es una especie del género *Pericapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Java: Semarang. Distribución según la fuente: India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *semarangi*: Por la localidad de Semarang (Java Central, In
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Pericapritermes*]({{ site.base_url }}/es/genus/pericapritermes/) — 40 especies
 - **Especie tipo del género**: *Pericapritermes urgens*

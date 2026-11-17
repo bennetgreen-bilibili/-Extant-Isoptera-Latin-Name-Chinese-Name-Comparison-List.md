@@ -14,7 +14,7 @@ genus_zh: "唇扭白蚁属"
 genus_latin: "Labiocapritermes"
 genus_id: "labiocapritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Labiocapritermes ghatensis*** es una especie del género *Labiocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Aiswarya & Sudhikumar en 2026; la localidad tipo es India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribución según la fuente: India.
+***Labiocapritermes ghatensis*** es una especie del género *Labiocapritermes*, en la familia Termitidae (subfamilia Mirocapritermitinae). La especie fue descrita por Aiswarya & Sudhikumar en 2026; la localidad tipo es India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *ghatensis*: Por la localidad de Ghat
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Mirocapritermitinae]({{ site.base_url }}/es/subfamily/mirocapritermitinae/) — 14 géneros, 135 especies
 - **Género**: [*Labiocapritermes*]({{ site.base_url }}/es/genus/labiocapritermes/) — 4 especies
 - **Especie tipo del género**: *Labiocapritermes distortus*

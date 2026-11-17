@@ -14,7 +14,7 @@ genus_zh: "前白蚁属"
 genus_latin: "Protermes"
 genus_id: "protermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Protermes hirticeps*** es una especie del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución según la fuente: East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria.
+***Protermes hirticeps*** es una especie del género *Protermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución según la fuente: East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *hirticeps*: Del latín hirtus (hirsuto) + -ceps (cabeza), 
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Protermes*]({{ site.base_url }}/es/genus/protermes/) — 5 especies
 - **Especie tipo del género**: *Protermes prorepens*

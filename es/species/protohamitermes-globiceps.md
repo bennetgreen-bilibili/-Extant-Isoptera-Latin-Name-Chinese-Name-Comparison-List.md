@@ -14,7 +14,7 @@ genus_zh: "始钩白蚁属"
 genus_latin: "Protohamitermes"
 genus_id: "protohamitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "始钩白蚁亚科"
 subfamily_latin: "Protohamitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Protohamitermes globiceps*** es la única especie viviente del género *Protohamitermes*, en la familia TERMITIDAE (subfamilia Protohamitermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Brunei, Indonesia, Malaysia.
+***Protohamitermes globiceps*** es la única especie viviente del género *Protohamitermes*, en la familia Termitidae (subfamilia Protohamitermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Malaysia: Sarawak. Distribución según la fuente: Brunei, Indonesia, Malaysia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *globiceps*: De globi (globo) + ceps (cabeza)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Protohamitermitinae]({{ site.base_url }}/es/subfamily/protohamitermitinae/) — 2 géneros, 2 especies
 - **Género**: [*Protohamitermes*]({{ site.base_url }}/es/genus/protohamitermes/) — monotípico, 1 especie
 

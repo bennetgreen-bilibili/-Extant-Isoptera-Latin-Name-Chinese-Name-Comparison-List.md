@@ -14,7 +14,7 @@ genus_zh: "楹白蚁属"
 genus_latin: "Incisitermes"
 genus_id: "incisitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "United States: Arizona: Copper Butte Canyon: Ray; United St
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Incisitermes minor*** es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California: San Diego. Distribución según la fuente: western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan. Este sitio registra 2 sinónimos junior para la especie.
+***Incisitermes minor*** es una especie del género *Incisitermes*, en la familia Kalotermitidae. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California: San Diego. Distribución según la fuente: western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan. Este sitio registra 2 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *minor*: Del latín minor (menor)
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Incisitermes*]({{ site.base_url }}/es/genus/incisitermes/) — 30 especies
 - **Especie tipo del género**: *Incisitermes schwarzi*
 

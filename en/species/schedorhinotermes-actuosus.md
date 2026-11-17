@@ -14,7 +14,7 @@ genus_zh: "长鼻白蚁属"
 genus_latin: "Schedorhinotermes"
 genus_id: "schedorhinotermes"
 family_zh: "鼻白蚁科"
-family_latin: "RHINOTERMITIDAE"
+family_latin: "Rhinotermitidae"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schedorhinotermes actuosus*** is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Hill in 1933; the type locality is Australia: Northern Territory: Darwin. Distribution: Australia.
+***Schedorhinotermes actuosus*** is a species of the genus *Schedorhinotermes*, in the family Rhinotermitidae. The species was described by Hill in 1933; the type locality is Australia: Northern Territory: Darwin. Distribution: Australia.
 
 ## Etymology
 
@@ -40,7 +40,7 @@ Specific epithet *actuosus*: Latin actuosus (active)
 
 ## Taxonomic position
 
-- **Family**: [RHINOTERMITIDAE]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
+- **Family**: [Rhinotermitidae]({{ site.base_url }}/en/family/rhinotermitidae/) — 5 genera, 62 species
 - **Genus**: [*Schedorhinotermes*]({{ site.base_url }}/en/genus/schedorhinotermes/) — 35 species
 - **Type species of the genus**: *Schedorhinotermes intermedius*
 

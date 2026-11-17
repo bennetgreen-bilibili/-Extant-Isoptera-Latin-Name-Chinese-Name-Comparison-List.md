@@ -12,7 +12,7 @@ genus_zh: "沙白蚁属"
 genus_latin: "Psammotermes"
 genus_id: "psammotermes"
 family_zh: "沙白蚁科"
-family_latin: "PSAMMOTERMITIDAE"
+family_latin: "Psammotermitidae"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
@@ -28,7 +28,7 @@ synonym_localities: "(country unknown): \"Rotes Meer\"; Egypt: Aswân (Assuan)"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**弯嘴沙白蚁**（*Psammotermes hybostoma*）是沙白蚁科（PSAMMOTERMITIDAE）沙白蚁属（*Psammotermes*）的一种，也是本属的模式种。本种由 Desneux 于 1902 年描述，模式产地为 Algeria: Biskra; Touggourt。分布记录包括西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门。本种有 2 个次异名。
+**弯嘴沙白蚁**（*Psammotermes hybostoma*）是沙白蚁科（Psammotermitidae）沙白蚁属（*Psammotermes*）的一种，也是本属的模式种。本种由 Desneux 于 1902 年描述，模式产地为 Algeria: Biskra; Touggourt。分布记录包括西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门。本种有 2 个次异名。
 
 ## 词源
 
@@ -40,7 +40,7 @@ synonym_localities: "(country unknown): \"Rotes Meer\"; Egypt: Aswân (Assuan)"
 
 ## 分类位置
 
-- **科**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
+- **科**：[沙白蚁科 Psammotermitidae]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种
 - **属**：[沙白蚁属 *Psammotermes*]({{ site.base_url }}/genus/psammotermes/) —— 共 6 种
 
 ## 分布

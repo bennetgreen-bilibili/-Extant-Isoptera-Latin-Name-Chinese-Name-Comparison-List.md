@@ -14,7 +14,7 @@ genus_zh: "三脉白蚁属"
 genus_latin: "Trinervitermes"
 genus_id: "trinervitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Liberia: ?; Central African Republic: Fort de Possel; Democ
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Trinervitermes trinervius*** es una especie y la especie tipo del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es Senegal: ?. Distribución según la fuente: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. Este sitio registra 3 sinónimos junior para la especie.
+***Trinervitermes trinervius*** es una especie y la especie tipo del género *Trinervitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es Senegal: ?. Distribución según la fuente: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *trinervius*: Del latín tri- (tres) + nervus (nervio), con
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Trinervitermes*]({{ site.base_url }}/es/genus/trinervitermes/) — 21 especies
 

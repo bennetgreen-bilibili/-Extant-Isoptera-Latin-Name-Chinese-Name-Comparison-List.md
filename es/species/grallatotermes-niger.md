@@ -14,7 +14,7 @@ genus_zh: "高跷白蚁属"
 genus_latin: "Grallatotermes"
 genus_id: "grallatotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Grallatotermes niger*** es una especie del género *Grallatotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Chatterjee & Thapa en 1964; la localidad tipo es India: Tamil Nadu (Madras): Tunacadur Range, Topslip, Mt. Stuart Block. Distribución según la fuente: India.
+***Grallatotermes niger*** es una especie del género *Grallatotermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Chatterjee & Thapa en 1964; la localidad tipo es India: Tamil Nadu (Madras): Tunacadur Range, Topslip, Mt. Stuart Block. Distribución según la fuente: India.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *niger*: Del latín niger (negro)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Grallatotermes*]({{ site.base_url }}/es/genus/grallatotermes/) — 7 especies
 - **Especie tipo del género**: *Grallatotermes grallator*

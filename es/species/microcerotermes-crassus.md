@@ -14,7 +14,7 @@ genus_zh: "锯白蚁属"
 genus_latin: "Microcerotermes"
 genus_id: "microcerotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "锯白蚁亚科"
 subfamily_latin: "Microcerotermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Myanmar: Rangoon: Pagan Road"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microcerotermes crassus*** es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es Myanmar: Meitkyina. Distribución según la fuente: Southeast Asia, Philippines, Thailand, Myanmar, Singapore, Bangladesh, China, India, Malaysia, Vietnam. Este sitio registra 1 sinónimo junior para la especie.
+***Microcerotermes crassus*** es una especie del género *Microcerotermes*, en la familia Termitidae (subfamilia Microcerotermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es Myanmar: Meitkyina. Distribución según la fuente: Southeast Asia, Philippines, Thailand, Myanmar, Singapore, Bangladesh, China, India, Malaysia, Vietnam. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *crassus*: Del término descriptivo «crass» (grueso)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Microcerotermitinae]({{ site.base_url }}/es/subfamily/microcerotermitinae/) — 2 géneros, 150 especies
 - **Género**: [*Microcerotermes*]({{ site.base_url }}/es/genus/microcerotermes/) — 148 especies
 - **Especie tipo del género**: *Microcerotermes strunckii*

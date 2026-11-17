@@ -20,7 +20,7 @@ back_label: "间断白蚁属 Disjunctitermes"
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"
-  - name: "TERMITIDAE"
+  - name: "Termitidae"
     url: "/es/family/termitidae/"
   - name: "Apicotermitinae"
     url: "/es/subfamily/apicotermitinae/"

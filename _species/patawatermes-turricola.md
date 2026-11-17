@@ -12,7 +12,7 @@ genus_zh: "帕塔瓦白蚁属"
 genus_latin: "Patawatermes"
 genus_id: "patawatermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "Argentina: Misiones: Santa Ana [ 27.37S 55.58W ]; Paraguay:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**土栖帕塔瓦白蚁**（*Patawatermes turricola*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）帕塔瓦白蚁属（*Patawatermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]。分布记录包括南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥。本种有 1 个次异名。
+**土栖帕塔瓦白蚁**（*Patawatermes turricola*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）帕塔瓦白蚁属（*Patawatermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]。分布记录包括南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥。本种有 1 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "Argentina: Misiones: Santa Ana [ 27.37S 55.58W ]; Paraguay:
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[帕塔瓦白蚁属 *Patawatermes*]({{ site.base_url }}/genus/patawatermes/) —— 共 2 种
 

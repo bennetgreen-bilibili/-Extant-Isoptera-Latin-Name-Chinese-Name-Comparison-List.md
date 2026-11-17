@@ -12,7 +12,7 @@ genus_zh: "皱白蚁属"
 genus_latin: "Rugitermes"
 genus_id: "rugitermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小熊皱白蚁**（*Rugitermes ursulae*）是木白蚁科（KALOTERMITIDAE）皱白蚁属（*Rugitermes*）的一种。本种由 Casalla, Scheffrahn & Korb 于 2021 年描述，模式产地为 Colombia: Sucre: Colosó \[ 9.5435N 75.3488W \]。分布记录包括哥伦比亚。
+**小熊皱白蚁**（*Rugitermes ursulae*）是木白蚁科（Kalotermitidae）皱白蚁属（*Rugitermes*）的一种。本种由 Casalla, Scheffrahn & Korb 于 2021 年描述，模式产地为 Colombia: Sucre: Colosó \[ 9.5435N 75.3488W \]。分布记录包括哥伦比亚。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[皱白蚁属 *Rugitermes*]({{ site.base_url }}/genus/rugitermes/) —— 共 18 种
 - **本属模式种**：*Rugitermes nodulosus*
 

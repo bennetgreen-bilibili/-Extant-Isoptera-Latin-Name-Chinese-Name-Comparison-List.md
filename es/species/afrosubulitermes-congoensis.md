@@ -14,7 +14,7 @@ genus_zh: "非锥白蚁属"
 genus_latin: "Afrosubulitermes"
 genus_id: "afrosubulitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Afrosubulitermes congoensis*** es la única especie viviente del género *Afrosubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución según la fuente: Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda.
+***Afrosubulitermes congoensis*** es la única especie viviente del género *Afrosubulitermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución según la fuente: Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *congoensis*: Por el Congo
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Afrosubulitermes*]({{ site.base_url }}/es/genus/afrosubulitermes/) — monotípico, 1 especie
 

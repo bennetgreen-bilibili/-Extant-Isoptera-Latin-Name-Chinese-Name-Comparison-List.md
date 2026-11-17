@@ -14,7 +14,7 @@ genus_zh: "不对称白蚁属"
 genus_latin: "Schievitermes"
 genus_id: "schievitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "新扭白蚁亚科"
 subfamily_latin: "Neocapritermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Schievitermes globicornis*** is the only extant species of the genus *Schievitermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Roisin in 2022; the type locality is French Guiana: Petit Saut Dam Road, Carbet Maman Lézard \[ 5.0672N 52.9992W \]. Distribution: French Guiana.
+***Schievitermes globicornis*** is the only extant species of the genus *Schievitermes*, in the family Termitidae (subfamily Neocapritermitinae). The species was described by Roisin in 2022; the type locality is French Guiana: Petit Saut Dam Road, Carbet Maman Lézard \[ 5.0672N 52.9992W \]. Distribution: French Guiana.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *globicornis*: From globi + cornis
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Neocapritermitinae]({{ site.base_url }}/en/subfamily/neocapritermitinae/) — 3 genera, 20 species
 - **Genus**: [*Schievitermes*]({{ site.base_url }}/en/genus/schievitermes/) — monotypic, 1 species
 

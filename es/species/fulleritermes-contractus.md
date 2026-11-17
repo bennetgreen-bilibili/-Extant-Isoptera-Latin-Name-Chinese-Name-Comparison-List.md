@@ -14,7 +14,7 @@ genus_zh: "富勒白蚁属"
 genus_latin: "Fulleritermes"
 genus_id: "fulleritermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "象白蚁亚科"
 subfamily_latin: "Nasutitermitinae"
@@ -33,7 +33,7 @@ synonym_localities: "Angola: Leba, Humpata"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Fulleritermes contractus*** es una especie y la especie tipo del género *Fulleritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución según la fuente: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
+***Fulleritermes contractus*** es una especie y la especie tipo del género *Fulleritermes*, en la familia Termitidae (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución según la fuente: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -45,7 +45,7 @@ Epíteto específico *contractus*: Del latín contractus (contraído)
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Nasutitermitinae]({{ site.base_url }}/es/subfamily/nasutitermitinae/) — 81 géneros, 606 especies
 - **Género**: [*Fulleritermes*]({{ site.base_url }}/es/genus/fulleritermes/) — 4 especies
 

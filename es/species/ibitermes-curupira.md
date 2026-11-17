@@ -14,7 +14,7 @@ genus_zh: "地球白蚁属"
 genus_latin: "Ibitermes"
 genus_id: "ibitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "聚白蚁亚科"
 subfamily_latin: "Syntermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Ibitermes curupira*** es una especie del género *Ibitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Fontes en 1985; la localidad tipo es Brasil: Minas Gerais: Itabira \[19.6192S 43.2269W\]. Distribución según la fuente: Brazil, Bolivia.
+***Ibitermes curupira*** es una especie del género *Ibitermes*, en la familia Termitidae (subfamilia Syntermitinae). La especie fue descrita por Fontes en 1985; la localidad tipo es Brasil: Minas Gerais: Itabira \[19.6192S 43.2269W\]. Distribución según la fuente: Brazil, Bolivia.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *curupira*: Curupira, espíritu del bosque brasileño
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Syntermitinae]({{ site.base_url }}/es/subfamily/syntermitinae/) — 22 géneros, 105 especies
 - **Género**: [*Ibitermes*]({{ site.base_url }}/es/genus/ibitermes/) — 2 especies
 - **Especie tipo del género**: *Ibitermes inflatus*

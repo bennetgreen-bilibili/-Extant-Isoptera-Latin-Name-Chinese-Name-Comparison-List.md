@@ -14,7 +14,7 @@ genus_zh: "树白蚁属"
 genus_latin: "Glyptotermes"
 genus_id: "glyptotermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "Australia: Capital Territory: Black Mtn"
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Glyptotermes eucalypti*** es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Sydney. Distribución según la fuente: Australia. Este sitio registra 1 sinónimo junior para la especie.
+***Glyptotermes eucalypti*** es una especie del género *Glyptotermes*, en la familia Kalotermitidae. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Sydney. Distribución según la fuente: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## Etimología
 
@@ -42,7 +42,7 @@ Epíteto específico *eucalypti*: Por el género vegetal Eucalyptus
 
 ## Posición taxonómica
 
-- **Familia**: [KALOTERMITIDAE]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
+- **Familia**: [Kalotermitidae]({{ site.base_url }}/es/family/kalotermitidae/) — 23 géneros, 480 especies
 - **Género**: [*Glyptotermes*]({{ site.base_url }}/es/genus/glyptotermes/) — 131 especies
 - **Especie tipo del género**: *Glyptotermes tuberculatus*
 

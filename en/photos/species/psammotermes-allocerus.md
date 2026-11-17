@@ -20,7 +20,7 @@ image: "https://inaturalist-open-data.s3.amazonaws.com/photos/450637142/large.jp
 breadcrumb:
   - name: "List"
     url: "/en/list/"
-  - name: "PSAMMOTERMITIDAE"
+  - name: "Psammotermitidae"
     url: "/en/family/psammotermitidae/"
   - name: "Psammotermes"
     url: "/en/genus/psammotermes/"

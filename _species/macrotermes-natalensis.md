@@ -12,7 +12,7 @@ genus_zh: "大白蚁属"
 genus_latin: "Macrotermes"
 genus_id: "macrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_localities: "South Africa: Transvaal: Nylstroom; South Africa: Transvaal
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**纳塔尔大白蚁**（*Macrotermes natalensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Estcourt。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦。本种有 3 个次异名。
+**纳塔尔大白蚁**（*Macrotermes natalensis*）是白蚁科（Termitidae）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Estcourt。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦。本种有 3 个次异名。
 
 ## 词源
 
@@ -43,7 +43,7 @@ synonym_localities: "South Africa: Transvaal: Nylstroom; South Africa: Transvaal
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种
 - **属**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种
 - **本属模式种**：*Macrotermes lilljeborgi*

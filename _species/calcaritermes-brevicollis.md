@@ -12,7 +12,7 @@ genus_zh: "距白蚁属"
 genus_latin: "Calcaritermes"
 genus_id: "calcaritermes"
 family_zh: "木白蚁科"
-family_latin: "KALOTERMITIDAE"
+family_latin: "Kalotermitidae"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
@@ -26,7 +26,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短颈距白蚁**（*Calcaritermes brevicollis*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括巴拿马、伯利兹、哥伦比亚、哥斯达黎加、尼加拉瓜。
+**短颈距白蚁**（*Calcaritermes brevicollis*）是木白蚁科（Kalotermitidae）距白蚁属（*Calcaritermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括巴拿马、伯利兹、哥伦比亚、哥斯达黎加、尼加拉瓜。
 
 ## 词源
 
@@ -38,7 +38,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
+- **科**：[木白蚁科 Kalotermitidae]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种
 - **属**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种
 - **本属模式种**：*Calcaritermes imminens*
 

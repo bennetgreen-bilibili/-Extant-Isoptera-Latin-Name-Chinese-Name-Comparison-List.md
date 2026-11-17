@@ -14,7 +14,7 @@ genus_zh: "钩白蚁属"
 genus_latin: "Ancistrotermes"
 genus_id: "ancistrotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Ancistrotermes dimorphus*** is a species of the genus *Ancistrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China (Yunnan).
+***Ancistrotermes dimorphus*** is a species of the genus *Ancistrotermes*, in the family Termitidae (subfamily Macrotermitinae). The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China (Yunnan).
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Macrotermitinae]({{ site.base_url }}/en/subfamily/macrotermitinae/) — 12 genera, 373 species
 - **Genus**: [*Ancistrotermes*]({{ site.base_url }}/en/genus/ancistrotermes/) — 16 species
 - **Type species of the genus**: *Ancistrotermes crucifer*

@@ -14,7 +14,7 @@ genus_zh: "无刺白蚁属"
 genus_latin: "Anacanthotermes"
 genus_id: "anacanthotermes"
 family_zh: "草白蚁科"
-family_latin: "HODOTERMITIDAE"
+family_latin: "Hodotermitidae"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
@@ -30,7 +30,7 @@ synonym_localities: "India: Coimbatore; India: Tamil Nadu: Tinnevelly District: 
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Anacanthotermes viarum*** is a species of the genus *Anacanthotermes*, in the family HODOTERMITIDAE. The species was described by König in 1779; the type locality is India: Tamil Nadu: Coimbatore. Distribution: India, Sri Lanka. This site records 2 junior synonyms for the species.
+***Anacanthotermes viarum*** is a species of the genus *Anacanthotermes*, in the family Hodotermitidae. The species was described by König in 1779; the type locality is India: Tamil Nadu: Coimbatore. Distribution: India, Sri Lanka. This site records 2 junior synonyms for the species.
 
 ## Etymology
 
@@ -42,7 +42,7 @@ Specific epithet *viarum*: Latin viarum (of roads)
 
 ## Taxonomic position
 
-- **Family**: [HODOTERMITIDAE]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
+- **Family**: [Hodotermitidae]({{ site.base_url }}/en/family/hodotermitidae/) — 3 genera, 21 species
 - **Genus**: [*Anacanthotermes*]({{ site.base_url }}/en/genus/anacanthotermes/) — 16 species
 - **Type species of the genus**: *Anacanthotermes ochraceus*
 

@@ -14,7 +14,7 @@ genus_zh: "小白蚁属"
 genus_latin: "Microtermes"
 genus_id: "microtermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "大白蚁亚科"
 subfamily_latin: "Macrotermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Resumen
 
-***Microtermes subhyalinus*** es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kindia. Distribución según la fuente: West Africa, Côte d'Ivoire, Senegal, Gambia, Burkina Faso, Saudi Arabia, Yemen.
+***Microtermes subhyalinus*** es una especie del género *Microtermes*, en la familia Termitidae (subfamilia Macrotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kindia. Distribución según la fuente: West Africa, Côte d'Ivoire, Senegal, Gambia, Burkina Faso, Saudi Arabia, Yemen.
 
 ## Etimología
 
@@ -43,7 +43,7 @@ Epíteto específico *subhyalinus*: De subhyal (abajo, cerca) + inus (relativo a
 
 ## Posición taxonómica
 
-- **Familia**: [TERMITIDAE]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
+- **Familia**: [Termitidae]({{ site.base_url }}/es/family/termitidae/) — 280 géneros, 2144 especies
 - **Subfamilia**: [Macrotermitinae]({{ site.base_url }}/es/subfamily/macrotermitinae/) — 12 géneros, 373 especies
 - **Género**: [*Microtermes*]({{ site.base_url }}/es/genus/microtermes/) — 69 especies
 - **Especie tipo del género**: *Microtermes incertus*

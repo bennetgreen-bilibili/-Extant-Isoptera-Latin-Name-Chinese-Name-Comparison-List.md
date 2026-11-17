@@ -14,7 +14,7 @@ genus_zh: "象鼻白蚁属"
 genus_latin: "Proboscitermes"
 genus_id: "proboscitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "方白蚁亚科"
 subfamily_latin: "Cubitermitinae"
@@ -31,7 +31,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## Summary
 
-***Proboscitermes mcgrewi*** is a species of the genus *Proboscitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Scheffrahn in 2010; the type locality is Tanzania: Gombe Stream National Park. Distribution: Tanzania.
+***Proboscitermes mcgrewi*** is a species of the genus *Proboscitermes*, in the family Termitidae (subfamily Cubitermitinae). The species was described by Scheffrahn in 2010; the type locality is Tanzania: Gombe Stream National Park. Distribution: Tanzania.
 
 ## Etymology
 
@@ -43,7 +43,7 @@ Specific epithet *mcgrewi*: Named after McGrew
 
 ## Taxonomic position
 
-- **Family**: [TERMITIDAE]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
+- **Family**: [Termitidae]({{ site.base_url }}/en/family/termitidae/) — 280 genera, 2144 species
 - **Subfamily**: [Cubitermitinae]({{ site.base_url }}/en/subfamily/cubitermitinae/) — 28 genera, 149 species
 - **Genus**: [*Proboscitermes*]({{ site.base_url }}/en/genus/proboscitermes/) — 2 species
 - **Type species of the genus**: *Proboscitermes tubuliferus*

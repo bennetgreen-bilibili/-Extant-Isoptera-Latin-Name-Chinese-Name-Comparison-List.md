@@ -12,7 +12,7 @@ genus_zh: "客白蚁属"
 genus_latin: "Inquilinitermes"
 genus_id: "inquilinitermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "白蚁亚科"
 subfamily_latin: "Termitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**窃贼客白蚁**（*Inquilinitermes fur*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）客白蚁属（*Inquilinitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]。分布记录包括巴西。
+**窃贼客白蚁**（*Inquilinitermes fur*）是白蚁科（Termitidae）白蚁亚科（Termitinae）客白蚁属（*Inquilinitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]。分布记录包括巴西。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种
 - **属**：[客白蚁属 *Inquilinitermes*]({{ site.base_url }}/genus/inquilinitermes/) —— 共 4 种
 

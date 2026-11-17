@@ -12,7 +12,7 @@ genus_zh: "埃博戈白蚁属"
 genus_latin: "Ebogotermes"
 genus_id: "ebogotermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "尖白蚁亚科"
 subfamily_latin: "Apicotermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拉斐尔埃博戈白蚁**（*Ebogotermes raphaeli*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）埃博戈白蚁属（*Ebogotermes*）的现存唯一种。本种由 Scheffrahn & Roisin 于 2021 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
+**拉斐尔埃博戈白蚁**（*Ebogotermes raphaeli*）是白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae）埃博戈白蚁属（*Ebogotermes*）的现存唯一种。本种由 Scheffrahn & Roisin 于 2021 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种
 - **属**：[埃博戈白蚁属 *Ebogotermes*]({{ site.base_url }}/genus/ebogotermes/) —— 单型属，仅含 1 种
 

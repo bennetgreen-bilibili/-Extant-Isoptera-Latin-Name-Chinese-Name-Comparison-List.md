@@ -12,7 +12,7 @@ genus_zh: "突扭白蚁属"
 genus_latin: "Dicuspiditermes"
 genus_id: "dicuspiditermes"
 family_zh: "白蚁科"
-family_latin: "TERMITIDAE"
+family_latin: "Termitidae"
 family_id: "termitidae"
 subfamily_zh: "瘤白蚁亚科"
 subfamily_latin: "Mirocapritermitinae"
@@ -29,7 +29,7 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莱古加思突扭白蚁**（*Dicuspiditermes leghugathrae*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Amina & Rajmohana 于 2020 年描述，模式产地为 India: Kerala: Palakkad, Chulliyar Dam \[ 10.5906N 76.769E \]。分布记录包括印度。
+**莱古加思突扭白蚁**（*Dicuspiditermes leghugathrae*）是白蚁科（Termitidae）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Amina & Rajmohana 于 2020 年描述，模式产地为 India: Kerala: Palakkad, Chulliyar Dam \[ 10.5906N 76.769E \]。分布记录包括印度。
 
 ## 词源
 
@@ -41,7 +41,7 @@ synonym_count: 0
 
 ## 分类位置
 
-- **科**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
+- **科**：[白蚁科 Termitidae]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种
 - **亚科**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种
 - **属**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/genus/dicuspiditermes/) —— 共 21 种
 - **本属模式种**：*Dicuspiditermes obtusus*
