@@ -30,30 +30,28 @@
         ]
       }
     },
-    "updated": "2026-11-16",
+    "updated": "2026-11-17",
     "last_batch": {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "round": "daily",
-      "pages": 242,
+      "pages": 270,
       "batch_pages": 34,
       "units": 20,
       "chunks": 15,
       "abstracts": 5,
       "sources": [
-        "S0323",
-        "S0324",
-        "S0325",
-        "S0326",
-        "S0327",
-        "S0328",
-        "S0329",
-        "S0330",
-        "S0331",
-        "S0333",
-        "S0334",
-        "S0335",
-        "S0336",
-        "S0337"
+        "S0338",
+        "S0339",
+        "S0341",
+        "S0343",
+        "S0344",
+        "S0345",
+        "S0346",
+        "S0347",
+        "S0348",
+        "S0349",
+        "S0350",
+        "S0351"
       ]
     },
     "languages": [
@@ -1082,7 +1080,7 @@
     ]
   },
   "/species/hodotermopsis-sjostedti/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-17",
     "sections": [
       {
         "heading": "湖南的分布与别名",
@@ -1098,6 +1096,21 @@
         ],
         "heading_en": "Distribution in Hunan and alternative names",
         "heading_es": "Distribución y otros nombres en Hunan"
+      },
+      {
+        "heading": "体内鞭毛虫的系统位置",
+        "heading_en": "Phylogenetic position of its flagellate",
+        "heading_es": "Posición filogenética de su flagelado",
+        "paragraphs": [
+          {
+            "text": "根据 Mee 等（2019）研究，栖息于东南亚山地、属古白蚁科的山林原白蚁（<i>Hodotermopsis sjostedti</i>）体内有一种 <i>Hoplonympha</i> 鞭毛虫，它与简角近新白蚁（<i>Paraneotermes simplicicornis</i>）体内的 <i>Hoplonympha natator</i> 构成一枝；由于两个宿主在系统发育与地理上相距甚远，该分布可由古老转移或严格的垂直传递并在其他宿主中丢失来解释。（据摘要）",
+            "src": [
+              "S0347"
+            ],
+            "text_en": "In the study by Mee et al. (2019), <i>Hodotermopsis sjostedti</i>, which lives in the mountains of Southeast Asia in the family Archotermopsidae, harbours a species of <i>Hoplonympha</i> that forms a clade with <i>Hoplonympha natator</i> from <i>Paraneotermes simplicicornis</i>; because the two hosts are far apart both phylogenetically and geographically, the distribution may be explained by ancient transfer or by strict vertical inheritance with differential loss from other hosts. (According to the abstract.)",
+            "text_es": "En el estudio de Mee et al. (2019), <i>Hodotermopsis sjostedti</i>, que vive en las montañas del sudeste asiático en la familia Archotermopsidae, alberga una especie de <i>Hoplonympha</i> que forma un clado con <i>Hoplonympha natator</i> de <i>Paraneotermes simplicicornis</i>; como los dos hospedadores están muy separados filogenética y geográficamente, la distribución podría explicarse por transferencia antigua o por herencia vertical estricta con pérdida diferencial en otros hospedadores. (Según el resumen.)"
+          }
+        ]
       }
     ],
     "references": [
@@ -1105,6 +1118,11 @@
         "id": "S0109",
         "citation": "尹世才. 1982. 山林原白蚁的初步研究. 林业科学 18(1): 58–63.",
         "url": "https://www.linyekexue.net/CN/Y1982/V18/I1/58"
+      },
+      {
+        "id": "S0347",
+        "citation": "Mee, E. D.; Gaylor, M. G.; Jasso-Selles, D. E.; Mizumoto, N.; Gile, G. H. 2019. Molecular Phylogenetic Position of Hoplonympha natator (Trichonymphea, Parabasalia): Horizontal Symbiont Transfer or Differential Loss? Journal of Eukaryotic Microbiology.",
+        "doi": "10.1111/jeu.12765"
       }
     ]
   },
@@ -3764,7 +3782,7 @@
     ]
   },
   "/species/paraneotermes-simplicicornis/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-17",
     "sections": [
       {
         "heading": "天然木材偏好",
@@ -3780,6 +3798,21 @@
             "text_es": "Según el resumen, Haverty y Nutting (1975) estudiaron la alimentación natural en 69 cuadrantes aleatorios y hallaron que <i>Paraneotermes simplicicornis</i> prefiere mezquite, catclaw acacia y tocones muertos de cholla, mientras que en el mismo estudio <i>Heterotermes aureus</i> consume unas 13 especies de madera y prefiere el hackberry del desierto y los tallos muertos de cholla."
           }
         ]
+      },
+      {
+        "heading": "肠道共生鞭毛虫",
+        "heading_en": "Intestinal symbiotic flagellates",
+        "heading_es": "Flagelados simbióticos intestinales",
+        "paragraphs": [
+          {
+            "text": "根据 Mee 等（2019）研究，简角近新白蚁（<i>Paraneotermes simplicicornis</i>）分布于北美西南部，属木白蚁科，其肠道内栖息专性共生鞭毛虫 <i>Hoplonympha natator</i>；该研究基于 18S rRNA 的最大似然与贝叶斯分析显示，<i>Hoplonympha natator</i> 与栖息于山林原白蚁（<i>Hodotermopsis sjostedti</i>）体内的另一种 <i>Hoplonympha</i> 鞭毛虫构成一枝，节点较深，说明近期发生共生体转移的可能性不大；这种分布可由古老转移或严格的垂直传递并在其他宿主中丢失来解释。（据摘要）",
+            "src": [
+              "S0347"
+            ],
+            "text_en": "In the study by Mee et al. (2019), <i>Paraneotermes simplicicornis</i> occurs in southwestern North America in the family Kalotermitidae and harbours the obligate symbiotic flagellate <i>Hoplonympha natator</i> in its gut; maximum likelihood and Bayesian analyses of 18S rRNA show that <i>Hoplonympha natator</i> forms a clade with the other <i>Hoplonympha</i> species living in <i>Hodotermopsis sjostedti</i>, separated by a deep node that makes recent symbiont transfer unlikely; the distribution may be explained by ancient transfer or by strict vertical inheritance with differential loss from other hosts. (According to the abstract.)",
+            "text_es": "En el estudio de Mee et al. (2019), <i>Paraneotermes simplicicornis</i> se distribuye por el suroeste de Norteamérica en la familia Kalotermitidae y alberga en su intestino al flagelado simbiótico obligado <i>Hoplonympha natator</i>; los análisis de máxima verosimilitud y bayesianos de 18S ARNr muestran que <i>Hoplonympha natator</i> forma un clado con la otra especie de <i>Hoplonympha</i> que vive en <i>Hodotermopsis sjostedti</i>, separadas por un nodo profundo que hace improbable una transferencia reciente del simbionte; la distribución podría explicarse por transferencia antigua o por herencia vertical estricta con pérdida diferencial en otros hospedadores. (Según el resumen.)"
+          }
+        ]
       }
     ],
     "references": [
@@ -3787,6 +3820,11 @@
         "id": "S0208",
         "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
         "doi": "10.1093/aesa/68.3.533"
+      },
+      {
+        "id": "S0347",
+        "citation": "Mee, E. D.; Gaylor, M. G.; Jasso-Selles, D. E.; Mizumoto, N.; Gile, G. H. 2019. Molecular Phylogenetic Position of Hoplonympha natator (Trichonymphea, Parabasalia): Horizontal Symbiont Transfer or Differential Loss? Journal of Eukaryotic Microbiology.",
+        "doi": "10.1111/jeu.12765"
       }
     ]
   },
@@ -5366,7 +5404,7 @@
     ]
   },
   "/species/macrotermes-carbonarius/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-17",
     "sections": [
       {
         "heading": "四龄幼蚁的鉴别特征",
@@ -5382,6 +5420,21 @@
             "text_es": "Según el resumen de Neoh y Lee (2009), la larva de cuarto instar de <i>Macrotermes carbonarius</i>, aunque similar en apariencia a una obrera menor, es más pálida, tiene el abdomen distendido y ya presenta las mandíbulas y las estructuras meso- y metanotales de un presoldado, lo que la distingue de las larvas de obrera."
           }
         ]
+      },
+      {
+        "heading": "防御液产量与拒避效果",
+        "heading_en": "Defence-fluid yield and repellency",
+        "heading_es": "Rendimiento del fluido defensivo y repelencia",
+        "paragraphs": [
+          {
+            "text": "根据 Appalasamy 等（2021）研究，炭色大白蚁（<i>Macrotermes carbonarius</i>）兵蚁分大、小两型，每 100 头兵蚁可提取防御液 0.68 克，明显低于黄球白蚁（<i>Globitermes sulphureus</i>）的 2.93 克；其提取物对暗黄大白蚁（<i>Macrotermes gilvus</i>）工蚁的拒避等级为 IV–V 级，1 mg/ml 时拒避率 68.57%，20 mg/ml 时 98.00%，为两种白蚁中的最高值；气相色谱-质谱联用检出 6 种主要化合物，十八烷酸含量最高（20.95 mg/l），月桂酸甲酯最低（0.76 mg/l），薄层色谱呈 4 条带，Rf 值分别为 0.11、0.27、0.42 与 0.70。",
+            "src": [
+              "S0344"
+            ],
+            "text_en": "In the study by Appalasamy et al. (2021), <i>Macrotermes carbonarius</i> has dimorphic major and minor soldiers and yielded 0.68 g of defence fluid per 100 soldiers, clearly less than the 2.93 g obtained from <i>Globitermes sulphureus</i>; its extract was class IV-V repellent to workers of <i>Macrotermes gilvus</i>, with 68.57% repellency at 1 mg/ml and 98.00% at 20 mg/ml, the highest value of the two species; gas chromatography-mass spectrometry detected six major compounds, octadecanoic acid being the most abundant (20.95 mg/l) and lauric acid methyl ester the least (0.76 mg/l), and thin-layer chromatography gave four bands with Rf values of 0.11, 0.27, 0.42 and 0.70.",
+            "text_es": "En el estudio de Appalasamy et al. (2021), <i>Macrotermes carbonarius</i> presenta soldados mayores y menores dimórficos y rindió 0.68 g de fluido defensivo por cada 100 soldados, claramente menos que los 2.93 g obtenidos de <i>Globitermes sulphureus</i>; su extracto resultó repelente de clase IV-V para obreros de <i>Macrotermes gilvus</i>, con 68.57% de repelencia a 1 mg/ml y 98.00% a 20 mg/ml, el valor más alto de las dos especies; la cromatografía de gases-espectrometría de masas detectó seis compuestos principales, siendo el ácido octadecanoico el más abundante (20.95 mg/l) y el laurato de metilo el menos (0.76 mg/l), y la cromatografía en capa fina dio cuatro bandas con Rf de 0.11, 0.27, 0.42 y 0.70."
+          }
+        ]
       }
     ],
     "references": [
@@ -5389,11 +5442,16 @@
         "id": "S0214",
         "citation": "Neoh, K.-B.; Lee, C.-Y. 2009. Developmental Stages and Castes of Two Sympatric Subterranean Termites Macrotermes gilvus and Macrotermes carbonarius (Blattodea: Termitidae). Annals of the Entomological Society of America 102(6).",
         "doi": "10.1603/008.102.0617"
+      },
+      {
+        "id": "S0344",
+        "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+        "doi": "10.1038/s41598-020-80018-5"
       }
     ]
   },
   "/species/macrotermes-gilvus/": {
-    "updated": "2026-11-13",
+    "updated": "2026-11-17",
     "sections": [
       {
         "heading": "爪哇的土地利用记录",
@@ -5409,6 +5467,21 @@
             "text_es": "Según el muestreo de Pribadi et al. (2011) en cinco tipos de uso del suelo en la ladera oriental del monte Slamet, Java Central, <i>Macrotermes gilvus</i> se registró únicamente en asentamientos (unos 1001 m s.n.m.), con 5 individuos, y fue una de las siete especies de termitas halladas en el estudio; las termitas cultivadoras de hongos no se registraron en los otros cuatro tipos de uso del suelo."
           }
         ]
+      },
+      {
+        "heading": "作为拒避与致死试验的受试种",
+        "heading_en": "As the test species in repellency and toxicity assays",
+        "heading_es": "Como especie de ensayo en pruebas de repelencia y toxicidad",
+        "paragraphs": [
+          {
+            "text": "根据 Appalasamy 等（2021）研究，暗黄大白蚁（<i>Macrotermes gilvus</i>）工蚁被用作拒避与致死试验的受试对象，黄球白蚁（<i>Globitermes sulphureus</i>）与炭色大白蚁（<i>Macrotermes carbonarius</i>）两种白蚁的防御液提取物对其拒避等级均达 IV–V 级，20 mg/ml 时拒避率分别为 97.62% 与 98.00%；黄球白蚁（<i>Globitermes sulphureus</i>）提取物对暗黄大白蚁（<i>Macrotermes gilvus</i>）的 LC50 为 16.917 mg/ml，低于炭色大白蚁（<i>Macrotermes carbonarius</i>）提取物的对应值。",
+            "src": [
+              "S0344"
+            ],
+            "text_en": "In the study by Appalasamy et al. (2021), workers of <i>Macrotermes gilvus</i> served as the test insects for the repellency and toxicity assays: extracts of both <i>Globitermes sulphureus</i> and <i>Macrotermes carbonarius</i> were class IV-V repellent to them, with 97.62% and 98.00% repellency at 20 mg/ml; the LC50 of the <i>Globitermes sulphureus</i> extract against <i>Macrotermes gilvus</i> was 16.917 mg/ml, lower than the corresponding value for the <i>Macrotermes carbonarius</i> extract.",
+            "text_es": "En el estudio de Appalasamy et al. (2021), obreros de <i>Macrotermes gilvus</i> sirvieron como insectos de ensayo en las pruebas de repelencia y toxicidad: los extractos de <i>Globitermes sulphureus</i> y de <i>Macrotermes carbonarius</i> resultaron repelentes de clase IV-V para ellos, con 97.62% y 98.00% de repelencia a 20 mg/ml; la CL50 del extracto de <i>Globitermes sulphureus</i> frente a <i>Macrotermes gilvus</i> fue de 16.917 mg/ml, inferior al valor correspondiente del extracto de <i>Macrotermes carbonarius</i>."
+          }
+        ]
       }
     ],
     "references": [
@@ -5416,6 +5489,11 @@
         "id": "S0225",
         "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235–240.",
         "doi": "10.13057/biodiv/d120409"
+      },
+      {
+        "id": "S0344",
+        "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+        "doi": "10.1038/s41598-020-80018-5"
       }
     ]
   },
@@ -7538,7 +7616,7 @@
     ]
   },
   "/genus/microcerotermes/": {
-    "updated": "2026-11-15",
+    "updated": "2026-11-17",
     "sections": [
       {
         "heading": "新几内亚区系修订与生境分布",
@@ -7562,6 +7640,21 @@
             "text_es": "Según Kasseney et al. (2019), dos tipos de hábitat del Jardín Botánico de la Universidad de Lomé (Togo) comparten 10 de 17 especies (Jaccard 58,8%, Sørensen 74%); entre las especies exclusivas del área abierta figuran <i>Amitermes evuncifer</i>, <i>Trinervitermes geminatus</i> y <i>Trinervitermes togoensis</i>, y entre las exclusivas del área cubierta, una especie de <i>Microcerotermes</i> y <i>Basidentitermes mactus</i>, entre otras."
           }
         ]
+      },
+      {
+        "heading": "非洲种类的鉴定困难",
+        "heading_en": "Identification difficulties among African species",
+        "heading_es": "Dificultades de identificación entre las especies africanas",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，锯白蚁属（<i>Microcerotermes</i>）在非洲的鉴定长期存在困难：棕胫锯白蚁（<i>Microcerotermes fuscotibialis</i>）与同属小型种类在形态、体型与生态上区别细微，标本因此多次被误定；该研究引用多位作者的意见，认为非洲锯白蚁属（<i>Microcerotermes</i>）需要全面订正。冈比亚 3 处保护区的调查为该属增加了棕胫锯白蚁（<i>Microcerotermes fuscotibialis</i>）这一新记录，并采集到与已知小型种相近而未能定名的材料。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), identification of African <i>Microcerotermes</i> has long been difficult: <i>Microcerotermes fuscotibialis</i> and the smaller congeners differ only slightly in morphology, size and ecology, and specimens have therefore been repeatedly misidentified; citing several authors, the study holds that the African species of <i>Microcerotermes</i> need a full revision. The survey of three protected areas in The Gambia added <i>Microcerotermes fuscotibialis</i> as a new record for the genus in the country and yielded material close to the known small species that could not be named.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), la identificación de las <i>Microcerotermes</i> africanas ha sido difícil desde hace tiempo: <i>Microcerotermes fuscotibialis</i> y sus congéneres pequeños difieren poco en morfología, tamaño y ecología, por lo que los ejemplares se han identificado erróneamente en repetidas ocasiones; citando a varios autores, el estudio sostiene que las especies africanas de <i>Microcerotermes</i> necesitan una revisión completa. El muestreo de tres áreas protegidas de Gambia añadió a <i>Microcerotermes fuscotibialis</i> como nuevo registro del género en el país y rindió material cercano a las especies pequeñas conocidas que no pudo determinarse."
+          }
+        ]
       }
     ],
     "references": [
@@ -7574,6 +7667,11 @@
         "id": "S0305",
         "citation": "Roisin, Y.; Jacques M. Pasteéls. 2000. The genus Microcerotermes (Isoptera : Termitidae) in New Guinea and the Solomon Islands. Invertebrate Taxonomy.",
         "doi": "10.1071/it99005"
+      },
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
       }
     ]
   },
@@ -7932,7 +8030,7 @@
     ]
   },
   "/species/sinocapritermes-mushae/": {
-    "updated": "2026-11-15",
+    "updated": "2026-11-17",
     "sections": [
       {
         "heading": "肠道纤维素酶",
@@ -7948,6 +8046,21 @@
             "text_es": "Según Li et al. (2013), la especie geófaga <i>Sinocapritermes mushae</i> se recolectó en el monte Luofu; el grupo geófago en conjunto no mostró diferencias significativas entre los tres segmentos del intestino, pero en esta especie la actividad de β-glucosidasa (BG) fue relativamente alta en el intestino posterior, y su actividad celulásica se registra por primera vez."
           }
         ]
+      },
+      {
+        "heading": "种内变异与 16S 证据",
+        "heading_en": "Intraspecific variation and 16S evidence",
+        "heading_es": "Variación intraespecífica y evidencia de 16S",
+        "paragraphs": [
+          {
+            "text": "根据 Chiu、Yang 与 Li（2015）研究，台湾华扭白蚁（<i>Sinocapritermes mushae</i>）的线粒体 16S 部分序列证实台湾仅产该一种华扭白蚁属（<i>Sinocapritermes</i>）白蚁，但台湾群体形态变异幅度大；在证实如此大的种内变异之后，该研究认为用于区分中国大陆各种的多数定性特征无效，并据形态测量提议把 5 个描述自中国大陆的种作为本种的次异名。该研究据此强调，华扭白蚁属（<i>Sinocapritermes</i>）的种级划分需要更多标本与更全面的修订。（据摘要）",
+            "src": [
+              "S0350"
+            ],
+            "text_en": "In the study by Chiu, Yang and Li (2015), partial mitochondrial 16S sequences confirmed that <i>Sinocapritermes mushae</i> is the only species of <i>Sinocapritermes</i> in Taiwan, although Taiwanese populations vary widely in morphology; having demonstrated such large intraspecific variation, the study holds that most qualitative characters used to separate the mainland Chinese species are invalid and, on morphometric grounds, proposes five species described from mainland China as junior synonyms of <i>Sinocapritermes mushae</i>. The study therefore stresses that species delimitation in <i>Sinocapritermes</i> needs more specimens and a fuller revision. (According to the abstract.)",
+            "text_es": "En el estudio de Chiu, Yang y Li (2015), secuencias parciales del 16S mitocondrial confirmaron que <i>Sinocapritermes mushae</i> es la única especie de <i>Sinocapritermes</i> en Taiwán, aunque las poblaciones taiwanesas varían ampliamente en morfología; tras demostrar una variación intraespecífica tan grande, el estudio sostiene que la mayoría de los caracteres cualitativos usados para separar las especies de China continental son inválidos y, con base morfométrica, propone cinco especies descritas de China continental como sinónimos posteriores de <i>Sinocapritermes mushae</i>. El estudio subraya por ello que la delimitación de especies en <i>Sinocapritermes</i> requiere más ejemplares y una revisión más completa. (Según el resumen.)"
+          }
+        ]
       }
     ],
     "references": [
@@ -7955,6 +8068,11 @@
         "id": "S0276",
         "citation": "Li, Z.-Q.; Liu, B.-R.; Zeng, W.; Xiao, W.-L.; Li, Q.; Zhong, J. 2013. Character of Cellulase Activity in the Guts of Flagellate-Free Termites with Different Feeding Habits. Oxford University Press (OUP).",
         "doi": "10.1673/031.013.3701"
+      },
+      {
+        "id": "S0350",
+        "citation": "Chiu, C.-I.; Yang, M.-M.; Li, H.-F. 2015. Redescription of the Soil-Feeding Termite Sinocapritermes mushae (Isoptera: Termitidae: Termitinae): The First Step of Genus Revision. Annals of the Entomological Society of America.",
+        "doi": "10.1093/aesa/sav106"
       }
     ]
   },
@@ -9062,6 +9180,838 @@
         "id": "S0336",
         "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
         "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+      }
+    ]
+  },
+  "/genus/proneotermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "属的采样频率与系统位置",
+        "heading_en": "Sampling frequency and phylogenetic position of the genus",
+        "heading_es": "Frecuencia de muestreo y posición filogenética del género",
+        "paragraphs": [
+          {
+            "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，哥伦比亚加勒比海沿岸热带干林的调查中，前新白蚁属（<i>Proneotermes</i>）仅占 1102 份白蚁标本的 0.82%，野外遭遇稀少；线状样带长 1500 米、宽 2 米，标本均采自距海岸约 25 公里以内的干林。基于 COII、12S 与 16S 的联合数据，前新白蚁属（<i>Proneotermes</i>）三个单倍型之间差异约 2.5%（1488 bp 中 38 bp），单倍型间地理距离约 200 公里；该属以 87% 的贝叶斯后验概率呈单系，双裂白蚁属（<i>Bifiditermes</i>）为最近属，COII p 距离 0.153（标准误 0.015）。Krishna（1961）曾把前新白蚁属（<i>Proneotermes</i>）置于牛白蚁属（<i>Tauritermes</i>）、奇白蚁属（<i>Allotermes</i>）、边白蚁属（<i>Marginitermes</i>）与楹白蚁属（<i>Incisitermes</i>）所在分支的姊妹位置，该文的 COII 树不支持这一处理。",
+            "src": [
+              "S0348"
+            ],
+            "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), surveys of tropical dry forest along the Colombian Caribbean coast found that the genus <i>Proneotermes</i> made up only 0.82% of 1102 termite samples, so encounters in the field are scarce; the line transects were 1500 m long and 2 m wide, and all material came from dry forest within about 25 km of the coast. In the combined COII, 12S and 16S data the three <i>Proneotermes</i> haplotypes differed by about 2.5% (38 bp out of 1488 bp) and lay about 200 km apart; the genus was monophyletic with 87% Bayesian posterior probability, and <i>Bifiditermes</i> was its closest genus with a COII p-distance of 0.153 (SE 0.015). Krishna (1961) had placed <i>Proneotermes</i> as sister to the clade containing <i>Tauritermes</i>, <i>Allotermes</i>, <i>Marginitermes</i> and <i>Incisitermes</i>; the COII tree of this study does not support that treatment.",
+            "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), los muestreos en bosque seco tropical de la costa caribeña colombiana mostraron que el género <i>Proneotermes</i> representó sólo el 0.82% de 1102 muestras de termitas, por lo que los encuentros en el campo son escasos; los transectos lineales midieron 1500 m de largo y 2 m de ancho, y todo el material procedió de bosque seco a menos de unos 25 km de la costa. En los datos combinados de COII, 12S y 16S los tres haplotipos de <i>Proneotermes</i> difirieron en cerca del 2.5% (38 pb de 1488 pb) y estaban separados por unos 200 km; el género resultó monofilético con 87% de probabilidad posterior bayesiana, y <i>Bifiditermes</i> fue su género más cercano, con una distancia p de COII de 0.153 (EE 0.015). Krishna (1961) había situado a <i>Proneotermes</i> como hermano del clado que contiene a <i>Tauritermes</i>, <i>Allotermes</i>, <i>Marginitermes</i> e <i>Incisitermes</i>; el árbol de COII de este estudio no respalda ese tratamiento."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0348",
+        "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+        "doi": "10.3897/zookeys.623.9677"
+      }
+    ]
+  },
+  "/species/proneotermes-macondianus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "新种描述与量度",
+        "heading_en": "Description and measurements of the new species",
+        "heading_es": "Descripción y medidas de la nueva especie",
+        "paragraphs": [
+          {
+            "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，马康多前新白蚁（<i>Proneotermes macondianus</i>）作为新种描述自哥伦比亚加勒比海沿岸热带干林，正模产地为马格达莱纳省圣玛尔塔的 Parque Tayrona（11.3152°N，74.1032°W，海拔 6 米），正模群体号 COLPT4K1-206，采于 2015 年 6 月 27 日；另有两处产地，即玻利瓦尔省圣卡塔利娜的 El Ceibal（10.6336°N，75.2517°W，海拔 25 米）与苏克雷省科洛索的 Los Primates（9.5332°N，75.3479°W，海拔 223 米）；正模存于波哥大 MIAvH，副模存于美国自然历史博物馆。该种为前新白蚁属（<i>Proneotermes</i>）三种中体型最小者：兵蚁（n = 11）头长（至上颚端）2.50–2.95 毫米，均值 2.75 毫米；头宽最大 1.14–1.32 毫米，均值 1.23 毫米；颊角外缘跨距 1.02–1.19 毫米，均值 1.12 毫米；体长 5.43–6.98 毫米，均值 6.57 毫米。鉴别特征为颊角侧缘向外张开约 45°（另两种与头壳侧缘近平行）、上颚基部的颚瘤更明显而圆、额面皱褶较弱；有翅成虫（n = 10）前翅长 5.24 毫米、最大宽 1.63 毫米，去翅体长 5.45 毫米。",
+            "src": [
+              "S0348"
+            ],
+            "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), <i>Proneotermes macondianus</i> is described as a new species from tropical dry forest along the Colombian Caribbean coast; the holotype locality is Parque Tayrona, Santa Marta, Magdalena (11.3152°N, 74.1032°W, 6 m a.s.l.), holotype colony COLPT4K1-206, collected on 27 June 2015, with two further localities at El Ceibal, Santa Catalina, Bolívar (10.6336°N, 75.2517°W, 25 m) and Los Primates, Colosó, Sucre (9.5332°N, 75.3479°W, 223 m); the holotype is deposited in MIAvH, Bogotá, and paratypes in the American Museum of Natural History. The species is the smallest of the three known <i>Proneotermes</i> species: soldiers (n = 11) have head length to tip of mandibles 2.50-2.95 mm (mean 2.75), maximum head width 1.14-1.32 mm (mean 1.23), outer span of the genal horns 1.02-1.19 mm (mean 1.12) and total length 5.43-6.98 mm (mean 6.57). It is diagnosed by the lateral margins of the genal horns angling outward at about 45 degrees (in line with the head capsule in the other two species), more pronounced and rounded mandibular humps and a less rugose frons; imagoes (n = 10) have a fore wing 5.24 mm long and 1.63 mm wide at most, with a body length without wings of 5.45 mm.",
+            "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), <i>Proneotermes macondianus</i> se describe como especie nueva del bosque seco tropical de la costa caribeña colombiana; la localidad del holotipo es Parque Tayrona, Santa Marta, Magdalena (11.3152°N, 74.1032°W, 6 m s.n.m.), colonia holotipo COLPT4K1-206, recolectada el 27 de junio de 2015, con otras dos localidades en El Ceibal, Santa Catalina, Bolívar (10.6336°N, 75.2517°W, 25 m) y Los Primates, Colosó, Sucre (9.5332°N, 75.3479°W, 223 m); el holotipo se depositó en MIAvH, Bogotá, y los paratipos en el American Museum of Natural History. La especie es la menor de las tres conocidas de <i>Proneotermes</i>: los soldados (n = 11) tienen longitud de la cabeza hasta el ápice de las mandíbulas de 2.50-2.95 mm (media 2.75), anchura máxima de la cabeza 1.14-1.32 mm (media 1.23), amplitud externa de los cuernos genales 1.02-1.19 mm (media 1.12) y longitud total 5.43-6.98 mm (media 6.57). Se diagnostica por los márgenes laterales de los cuernos genales que se abren hacia fuera unos 45 grados (paralelos a la cápsula cefálica en las otras dos especies), tubérculos mandibulares más marcados y redondeados y frente menos rugosa; los imagos (n = 10) tienen ala anterior de 5.24 mm de largo y 1.63 mm de ancho máximo, con longitud corporal sin alas de 5.45 mm."
+          },
+          {
+            "text": "同一研究记载马康多前新白蚁（<i>Proneotermes macondianus</i>）栖于地面直径小于 2 厘米的细枯枝内，每枝不超过 20 头；粪便为六边形米色颗粒，长 0.92 ± 0.04 毫米；该种名取自加西亚·马尔克斯《百年孤独》中的地名马孔多（Macondo）。",
+            "src": [
+              "S0348"
+            ],
+            "text_en": "The same study records that <i>Proneotermes macondianus</i> lives in thin dry branches less than 2 cm in diameter lying on the ground, with no more than 20 individuals per branch; the faecal pellets are hexagonal and beige, 0.92 +/- 0.04 mm long; the specific name refers to Macondo, the town in Gabriel García Márquez's novel One Hundred Years of Solitude.",
+            "text_es": "El mismo estudio registra que <i>Proneotermes macondianus</i> vive en ramas secas delgadas de menos de 2 cm de diámetro sobre el suelo, con no más de 20 individuos por rama; los pellets fecales son hexagonales y de color beige, de 0.92 +/- 0.04 mm de largo; el nombre específico alude a Macondo, el pueblo de la novela Cien años de soledad de Gabriel García Márquez."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0348",
+        "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+        "doi": "10.3897/zookeys.623.9677"
+      }
+    ]
+  },
+  "/species/proneotermes-latifrons/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "补充描述与鉴别",
+        "heading_en": "Redescription and diagnosis",
+        "heading_es": "Redescripción y diagnosis",
+        "paragraphs": [
+          {
+            "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，宽额前新白蚁（<i>Proneotermes latifrons</i>）自 Silvestri 1901 年描述以来，兵蚁描述不完整，额面角度、颊角、后颏与量度均缺失，有翅成虫至今未知；该研究据委内瑞拉标本补测兵蚁（n = 11）头长（至上颚端）2.65–3.35 毫米，均值 2.96 毫米，头宽最大 1.46 毫米，颊角跨距 1.33 毫米，体长 7.38 毫米。材料来自玻利瓦尔州 El Pauji、法尔孔州 La Chapa、拉腊州 Copeyal 与亚拉奎州 Licua。在三种的检索中，宽额前新白蚁（<i>Proneotermes latifrons</i>）额面呈均匀弧线、后颏长约为宽的两倍、后缘呈锥形，可与佩雷斯前新白蚁（<i>Proneotermes perezi</i>）额面近乎直线折角、后颏长约为宽的 3/5、后缘凸出相区别。",
+            "src": [
+              "S0348"
+            ],
+            "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), the soldier of <i>Proneotermes latifrons</i> has remained incompletely described since Silvestri's 1901 account, lacking the angle of the frons, the genal horns, the postmentum and any measurements, and the imago is still unknown; using Venezuelan material the authors measured soldiers (n = 11) with head length to tip of mandibles 2.65-3.35 mm (mean 2.96), maximum head width 1.46 mm, span of the genal horns 1.33 mm and total length 7.38 mm. The material came from El Pauji in Bolívar, La Chapa in Falcón, Copeyal in Lara and Licua in Yaracuy. In the key to the three species, <i>Proneotermes latifrons</i> has an evenly curved frons, a postmentum about twice as long as wide and a conical posterior margin, whereas <i>Proneotermes perezi</i> has a rather straight-angled frons, a postmentum about three-fifths as long as wide and a convex posterior margin.",
+            "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), el soldado de <i>Proneotermes latifrons</i> seguía insuficientemente descrito desde el trabajo de Silvestri de 1901, sin el ángulo de la frente, los cuernos genales, el postmentón ni medidas, y el imago continúa desconocido; con material venezolano los autores midieron soldados (n = 11) con longitud de la cabeza hasta el ápice de las mandíbulas de 2.65-3.35 mm (media 2.96), anchura máxima de la cabeza 1.46 mm, amplitud de los cuernos genales 1.33 mm y longitud total 7.38 mm. El material procede de El Pauji en Bolívar, La Chapa en Falcón, Copeyal en Lara y Licua en Yaracuy. En la clave de las tres especies, <i>Proneotermes latifrons</i> presenta frente uniformemente curvada, postmentón unas dos veces más largo que ancho y margen posterior cónico, mientras que <i>Proneotermes perezi</i> tiene frente en ángulo casi recto, postmentón unas tres quintas partes más largo que ancho y margen posterior convexo."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0348",
+        "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+        "doi": "10.3897/zookeys.623.9677"
+      }
+    ]
+  },
+  "/species/proneotermes-perezi/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "量度与分布扩展",
+        "heading_en": "Measurements and expanded distribution",
+        "heading_es": "Medidas y distribución ampliada",
+        "paragraphs": [
+          {
+            "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，佩雷斯前新白蚁（<i>Proneotermes perezi</i>）此前由 Krishna（1961）描述有翅成虫与兵蚁但未给量度，该研究补测兵蚁（n = 10）头长（至上颚端）3.05–3.80 毫米，均值 3.36 毫米，头宽最大 1.52 毫米，触角 11–14 节；该种分布自危地马拉延至巴拿马，新增记录包括危地马拉的 San Jose La Arada、Ipala、Jutiapa 与 San José Acatempa，洪都拉斯的 P. N. Capiro 与 Amarateca，以及巴拿马的 Gamboa 与 Valle de las Minas。该种为前新白蚁属（<i>Proneotermes</i>）三种中体型最大者，其有翅成虫的翅较马康多前新白蚁（<i>Proneotermes macondianus</i>）更短、更宽、颜色更深且刻点更多。",
+            "src": [
+              "S0348"
+            ],
+            "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), <i>Proneotermes perezi</i> had been described by Krishna (1961) from alates and soldiers without measurements; the authors measured soldiers (n = 10) with head length to tip of mandibles 3.05-3.80 mm (mean 3.36), maximum head width 1.52 mm and 11-14 antennal articles. The species ranges from Guatemala to Panama, with new records from San Jose La Arada, Ipala, Jutiapa and San José Acatempa in Guatemala, P. N. Capiro and Amarateca in Honduras, and Gamboa and Valle de las Minas in Panama. It is the largest of the three <i>Proneotermes</i> species, and its imago has wings that are shorter, wider, darker and more punctate than those of <i>Proneotermes macondianus</i>.",
+            "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), <i>Proneotermes perezi</i> había sido descrita por Krishna (1961) a partir de alados y soldados sin medidas; los autores midieron soldados (n = 10) con longitud de la cabeza hasta el ápice de las mandíbulas de 3.05-3.80 mm (media 3.36), anchura máxima de la cabeza 1.52 mm y 11-14 artejos antenales. La especie se distribuye desde Guatemala hasta Panamá, con nuevos registros en San Jose La Arada, Ipala, Jutiapa y San José Acatempa en Guatemala, P. N. Capiro y Amarateca en Honduras, y Gamboa y Valle de las Minas en Panamá. Es la mayor de las tres especies de <i>Proneotermes</i>, y su imago tiene alas más cortas, más anchas, más oscuras y más punteadas que las de <i>Proneotermes macondianus</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0348",
+        "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+        "doi": "10.3897/zookeys.623.9677"
+      }
+    ]
+  },
+  "/genus/globitermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "兵蚁类型与害虫地位",
+        "heading_en": "Soldier types and pest status",
+        "heading_es": "Tipos de soldados y condición de plaga",
+        "paragraphs": [
+          {
+            "text": "根据 Appalasamy 等（2021）研究，球白蚁属（<i>Globitermes</i>）兵蚁不具有大兵蚁与小兵蚁的二型分化，与大白蚁属（<i>Macrotermes</i>）不同；其体型较小、头部前端具象鼻状额突（nasutoid）的兵蚁依靠大型额腺产生防御液，黄球白蚁（<i>Globitermes sulphureus</i>）每 100 头兵蚁可提取防御液 2.93 克，约为炭色大白蚁（<i>Macrotermes carbonarius</i>）0.68 克的 4 倍。该研究的材料采自马来西亚吉兰丹州 Rantau Panjang 与 Jeli 附近的蚁巢。",
+            "src": [
+              "S0344"
+            ],
+            "text_en": "In the study by Appalasamy et al. (2021), soldiers of <i>Globitermes</i> are not dimorphic into major and minor soldiers, unlike <i>Macrotermes</i>; the smaller nasutoid soldiers rely on a large frontal gland for their defence fluid, and <i>Globitermes sulphureus</i> yielded 2.93 g of defence fluid per 100 soldiers, about four times the 0.68 g obtained from <i>Macrotermes carbonarius</i>. The material was collected from mounds near Rantau Panjang and Jeli in Kelantan, Malaysia.",
+            "text_es": "En el estudio de Appalasamy et al. (2021), los soldados de <i>Globitermes</i> no presentan dimorfismo en soldados mayores y menores, a diferencia de <i>Macrotermes</i>; los soldados nasutoides más pequeños dependen de una glándula frontal grande para su fluido defensivo, y <i>Globitermes sulphureus</i> rindió 2.93 g de fluido por cada 100 soldados, unas cuatro veces los 0.68 g obtenidos de <i>Macrotermes carbonarius</i>. El material se recolectó en montículos cerca de Rantau Panjang y Jeli, Kelantan, Malasia."
+          },
+          {
+            "text": "根据 Khizam 与 Ab Majid（2021）研究，黄球白蚁（<i>Globitermes sulphureus</i>）在马来西亚半岛被视为次要害虫，在乳白蚁属（<i>Coptotermes</i>）等主要害虫被清除之后由自然生境进入城市区域为害；该研究在吉打与槟城取样的 8 个居群中，4 个位于自然生境（枯木、活树、蚁巢），4 个位于城市绿地。",
+            "src": [
+              "S0345"
+            ],
+            "text_en": "In the study by Khizam and Ab Majid (2021), <i>Globitermes sulphureus</i> is regarded as a secondary pest in Peninsular Malaysia that moves from natural habitat into urban areas after primary pests such as <i>Coptotermes</i> have been eliminated; of the eight populations sampled in Kedah and Penang, four came from natural habitats (dead logs, living trees, mounds) and four from urban green areas.",
+            "text_es": "En el estudio de Khizam y Ab Majid (2021), <i>Globitermes sulphureus</i> se considera una plaga secundaria en la península de Malasia que pasa del hábitat natural a las zonas urbanas tras la eliminación de plagas primarias como <i>Coptotermes</i>; de las ocho poblaciones muestreadas en Kedah y Penang, cuatro procedían de hábitats naturales (troncos muertos, árboles vivos, montículos) y cuatro de zonas verdes urbanas."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0344",
+        "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+        "doi": "10.1038/s41598-020-80018-5"
+      },
+      {
+        "id": "S0345",
+        "citation": "Khizam, N. A. N.; Ab Majid, A. H. 2021. Population Genetic Structure and Breeding Pattern of Higher Group Termite Globitermes sulphureus (Haviland) (Blattodea: Termitidae). Sociobiology 68(1): e5772.",
+        "doi": "10.13102/sociobiology.v68i1.5772"
+      }
+    ]
+  },
+  "/species/globitermes-sulphureus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "防御液的化学组成与拒避活性",
+        "heading_en": "Chemical composition and repellency of the defence fluid",
+        "heading_es": "Composición química y repelencia del fluido defensivo",
+        "paragraphs": [
+          {
+            "text": "根据 Appalasamy 等（2021）研究，黄球白蚁（<i>Globitermes sulphureus</i>）的防御液提取物对暗黄大白蚁（<i>Macrotermes gilvus</i>）工蚁的拒避等级为 IV–V 级，1 mg/ml 时拒避率 83.05%，20 mg/ml 时升至 97.62%；对暗黄大白蚁（<i>Macrotermes gilvus</i>）的半数致死浓度 LC50 为 16.917 mg/ml，低于炭色大白蚁（<i>Macrotermes carbonarius</i>）的提取物。气相色谱-质谱联用检出 8 种主要化合物，含量最高为十八烷酸 16.24 mg/l，最低为硬脂酸甲酯 0.67 mg/l；薄层色谱呈 2 条带，Rf 值 0.47 与 0.43，其中一条鉴定为十五烷酸。该研究认为十五烷酸、十六烷酸甲酯与十三烷是拒避成分，十八烷酸与硬脂酸贡献杀虫活性，而提取物对美洲大蠊（<i>Periplaneta americana</i>）没有杀虫活性。",
+            "src": [
+              "S0344"
+            ],
+            "text_en": "In the study by Appalasamy et al. (2021), the defence-fluid extract of <i>Globitermes sulphureus</i> was class IV-V repellent to workers of <i>Macrotermes gilvus</i>, with 83.05% repellency at 1 mg/ml rising to 97.62% at 20 mg/ml; its LC50 against <i>Macrotermes gilvus</i> was 16.917 mg/ml, lower than that of the <i>Macrotermes carbonarius</i> extract. Gas chromatography-mass spectrometry detected eight major compounds, the most abundant octadecanoic acid at 16.24 mg/l and the least abundant methyl stearate at 0.67 mg/l; thin-layer chromatography gave two bands with Rf 0.47 and 0.43, one of them identified as pentadecanoic acid. The authors consider pentadecanoic acid, hexadecanoic acid methyl ester and tridecane to be the repellent constituents and octadecanoic acid and stearic acid to contribute the insecticidal activity, while the extract showed no insecticidal activity against <i>Periplaneta americana</i>.",
+            "text_es": "En el estudio de Appalasamy et al. (2021), el extracto del fluido defensivo de <i>Globitermes sulphureus</i> resultó repelente de clase IV-V para obreros de <i>Macrotermes gilvus</i>, con 83.05% de repelencia a 1 mg/ml que subió a 97.62% a 20 mg/ml; su CL50 frente a <i>Macrotermes gilvus</i> fue de 16.917 mg/ml, inferior a la del extracto de <i>Macrotermes carbonarius</i>. La cromatografía de gases-espectrometría de masas detectó ocho compuestos principales, el más abundante el ácido octadecanoico con 16.24 mg/l y el menos abundante el estearato de metilo con 0.67 mg/l; la cromatografía en capa fina dio dos bandas con Rf 0.47 y 0.43, una identificada como ácido pentadecanoico. Los autores consideran que el ácido pentadecanoico, el éster metílico del ácido hexadecanoico y el tridecano son los componentes repelentes y que el ácido octadecanoico y el ácido esteárico aportan la actividad insecticida, mientras que el extracto no mostró actividad insecticida frente a <i>Periplaneta americana</i>."
+          }
+        ]
+      },
+      {
+        "heading": "种群遗传结构与家系组成",
+        "heading_en": "Population genetic structure and colony composition",
+        "heading_es": "Estructura genética poblacional y composición de colonias",
+        "paragraphs": [
+          {
+            "text": "根据 Khizam 与 Ab Majid（2021）研究，以 7 个种特异性微卫星位点检测马来西亚吉打与槟城 8 个黄球白蚁（<i>Globitermes sulphureus</i>）居群，60% 的群体为混合家系，其余为单一简单家系；简单家系与混合家系的平均亲缘度相近（r = 0.121），8 个居群整体 FST = 0.086，属中等分化，其中简单家系居群 FST = 0.090 高于混合家系居群 0.082；整体 FIT = 0.391、FIS = 0.333，近交水平不高；4 个居群偏离哈迪-温伯格平衡，5 个位点可能受选择作用；7 个位点共检出 363 个等位基因，每位点 2–9 个，均值 2.685；两个居群（Tikam Batu 与槟城国家公园）检出瓶颈效应，提示遗传漂变作用。",
+            "src": [
+              "S0345"
+            ],
+            "text_en": "In the study by Khizam and Ab Majid (2021), seven species-specific microsatellite loci were used to screen eight populations of <i>Globitermes sulphureus</i> in Kedah and Penang, Malaysia: 60% of the colonies were mixed families and the rest simple families; average relatedness was similar in simple and mixed colonies (r = 0.121), the overall FST across the eight populations was 0.086, indicating moderate differentiation, with FST = 0.090 in simple-family populations against 0.082 in mixed-family populations; overall FIT was 0.391 and FIS 0.333, so inbreeding was not high; four populations deviated from Hardy-Weinberg equilibrium and five loci may be under selection; the seven loci yielded 363 alleles, 2-9 per locus with a mean of 2.685; a bottleneck effect was detected in two populations (Tikam Batu and Penang National Park), indicating genetic drift.",
+            "text_es": "En el estudio de Khizam y Ab Majid (2021) se usaron siete loci microsatélites específicos para analizar ocho poblaciones de <i>Globitermes sulphureus</i> en Kedah y Penang, Malasia: el 60% de las colonias fueron de familias mixtas y el resto de familias simples; la parentesco medio fue similar en colonias simples y mixtas (r = 0.121), el FST global de las ocho poblaciones fue 0.086, lo que indica diferenciación moderada, con FST = 0.090 en poblaciones de familia simple frente a 0.082 en las de familia mixta; el FIT global fue 0.391 y el FIS 0.333, por lo que la endogamia no fue alta; cuatro poblaciones se desviaron del equilibrio de Hardy-Weinberg y cinco loci podrían estar bajo selección; los siete loci rindieron 363 alelos, 2-9 por locus con una media de 2.685; se detectó efecto cuello de botella en dos poblaciones (Tikam Batu y el Parque Nacional de Penang), lo que indica deriva genética."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0344",
+        "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+        "doi": "10.1038/s41598-020-80018-5"
+      },
+      {
+        "id": "S0345",
+        "citation": "Khizam, N. A. N.; Ab Majid, A. H. 2021. Population Genetic Structure and Breeding Pattern of Higher Group Termite Globitermes sulphureus (Haviland) (Blattodea: Termitidae). Sociobiology 68(1): e5772.",
+        "doi": "10.13102/sociobiology.v68i1.5772"
+      }
+    ]
+  },
+  "/genus/euchilotermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "属的分布与已知种",
+        "heading_en": "Distribution and known species of the genus",
+        "heading_es": "Distribución y especies conocidas del género",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，真唇白蚁属（<i>Euchilotermes</i>）仅分布于埃塞俄比亚区，已知 4 种：方头真唇白蚁（<i>Euchilotermes quadriceps</i>）见于刚果-扎伊尔（今刚果民主共和国）与马拉维，隐蔽真唇白蚁（<i>Euchilotermes umbraticola</i>）见于东非的肯尼亚与坦桑尼亚，另两个种由 Silvestri 描述为拉长真唇白蚁（<i>Euchilotermes tensus</i>）的尖齿变种与弓形变种，其中尖齿变种经 Emerson 依上颚与后颏差异提升为种，即尖齿真唇白蚁（<i>Euchilotermes acutidens</i>）。该研究在冈比亚 3 处保护区的调查中记录到拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>），为冈比亚新记录，属该研究新增的 3 种方白蚁亚科记录之一。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes</i> is confined to the Ethiopian region and has four described species: <i>Euchilotermes quadriceps</i> is known from Congo-Zaire (now the Democratic Republic of the Congo) and Malawi, <i>Euchilotermes umbraticola</i> from East Africa (Kenya and Tanzania), and two further species were described by Silvestri as varieties of <i>Euchilotermes tensus</i>, the acutidens and arcuata varieties; the acutidens variety was raised to species rank by Emerson on differences in the mandibles and gula, becoming <i>Euchilotermes acutidens</i>. The study recorded <i>Euchilotermes tensus arcuata</i> in three protected areas of The Gambia, a new record for the country and one of the three new Cubitermitinae records reported.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes</i> se limita a la región etiópica y tiene cuatro especies descritas: <i>Euchilotermes quadriceps</i> se conoce del Congo-Zaire (hoy República Democrática del Congo) y Malawi, <i>Euchilotermes umbraticola</i> de África oriental (Kenia y Tanzania), y otras dos especies fueron descritas por Silvestri como variedades de <i>Euchilotermes tensus</i>, las variedades acutidens y arcuata; la variedad acutidens fue elevada a especie por Emerson por diferencias en las mandíbulas y la gula, pasando a ser <i>Euchilotermes acutidens</i>. El estudio registró <i>Euchilotermes tensus arcuata</i> en tres áreas protegidas de Gambia, un registro nuevo para el país y uno de los tres nuevos registros de Cubitermitinae señalados."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/euchilotermes-tensus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "变种的记载与种级处理",
+        "heading_en": "Varieties and their species-level treatment",
+        "heading_es": "Variedades y su tratamiento a nivel de especie",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，拉长真唇白蚁（<i>Euchilotermes tensus</i>）由 Silvestri 描述时包含尖齿变种与弓形变种两个变种；其中尖齿变种经 Emerson 依据「上颚末端更长更弯、齿更小更尖、后颏更宽」提升为独立的尖齿真唇白蚁（<i>Euchilotermes acutidens</i>），而弓形变种在该研究中被认为应依属内各种所用鉴别特征提升为种，即拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>）宜按种级处理。该研究同时指出，拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>）在塞内加尔尚无分布记录。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes tensus</i> was described by Silvestri with two varieties, acutidens and arcuata; the acutidens variety was raised to species rank by Emerson on the grounds that its mandibles are more prolonged and curved at the apex, its teeth smaller and sharper and its gula wider, becoming <i>Euchilotermes acutidens</i>, while the arcuata variety is held in the same study to deserve species rank on the distinctive features used to describe species in the genus, so that <i>Euchilotermes tensus arcuata</i> should be treated at species level. The study also notes that <i>Euchilotermes tensus arcuata</i> is not yet known from Senegal.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes tensus</i> fue descrita por Silvestri con dos variedades, acutidens y arcuata; la variedad acutidens fue elevada a especie por Emerson porque sus mandíbulas son más prolongadas y curvadas en el ápice, sus dientes más pequeños y agudos y su gula más ancha, pasando a <i>Euchilotermes acutidens</i>, mientras que la variedad arcuata, según el mismo estudio, merece rango de especie por los caracteres distintivos empleados para describir las especies del género, de modo que <i>Euchilotermes tensus arcuata</i> debería tratarse a nivel de especie. El estudio señala además que <i>Euchilotermes tensus arcuata</i> aún no se conoce de Senegal."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/euchilotermes-tensus-arcuata/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "兵蚁形态与冈比亚新记录",
+        "heading_en": "Soldier morphology and the new record from The Gambia",
+        "heading_es": "Morfología del soldado y el nuevo registro de Gambia",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>）兵蚁头部明显呈长方形，黄色，上颚浅褐色且强烈弯曲，上唇长而宽、末端具 2 个大的圆形叶；量度（毫米，n = 6）为头长 1.76–1.85（均值 1.82）、头宽 1.16–1.24（均值 1.21）、左上颚长 1.15–1.19（均值 1.17）、后足胫节长 0.89–0.97（均值 0.91）；工蚁（n = 4）头长 0.75–0.84（均值 0.79）、头宽 0.81–0.88（均值 0.84）、后足胫节长 0.77–0.84（均值 0.81）。该亚种在冈比亚的 Abuko 自然保护区、Nyambai 森林公园与 Tanji 鸟类保护区被记录，为该国新记录，并作为客居者出现在方白蚁属（<i>Cubitermes</i>）蘑菇状蚁巢内。该研究认为，依属内各种所用的鉴别特征，该亚种应提升为种。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), soldiers of <i>Euchilotermes tensus arcuata</i> have a distinctly rectangular, yellowish head, light brown strongly curved mandibles and a long, wide labrum with two large rounded apical lobes; measurements (mm, n = 6) are head length 1.76-1.85 (mean 1.82), head width 1.16-1.24 (mean 1.21), left mandible length 1.15-1.19 (mean 1.17) and hind tibia length 0.89-0.97 (mean 0.91); workers (n = 4) have head length 0.75-0.84 (mean 0.79), head width 0.81-0.88 (mean 0.84) and hind tibia length 0.77-0.84 (mean 0.81). The subspecies was recorded in Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve in The Gambia, a new record for the country, and occurs as an inquiline in mushroom-shaped nests of <i>Cubitermes</i>. The study concludes that, on the distinctive features used for species in the genus, the subspecies should be elevated to species rank.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), los soldados de <i>Euchilotermes tensus arcuata</i> tienen cabeza claramente rectangular y amarillenta, mandíbulas castaño claro muy curvadas y labro largo y ancho con dos lóbulos apicales grandes y redondeados; las medidas (mm, n = 6) son longitud de la cabeza 1.76-1.85 (media 1.82), anchura de la cabeza 1.16-1.24 (media 1.21), longitud de la mandíbula izquierda 1.15-1.19 (media 1.17) y longitud de la tibia posterior 0.89-0.97 (media 0.91); los obreros (n = 4) tienen longitud de la cabeza 0.75-0.84 (media 0.79), anchura 0.81-0.88 (media 0.84) y tibia posterior 0.77-0.84 (media 0.81). La subespecie se registró en la Reserva Natural de Abuko, el Parque Forestal de Nyambai y la Reserva de Aves de Tanji, en Gambia, un registro nuevo para el país, y aparece como inquilina en nidos en forma de seta de <i>Cubitermes</i>. El estudio concluye que, según los caracteres distintivos usados para las especies del género, la subespecie debería elevarse a especie."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/euchilotermes-acutidens/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "由变种提升为种",
+        "heading_en": "Raised from variety to species",
+        "heading_es": "Elevada de variedad a especie",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，尖齿真唇白蚁（<i>Euchilotermes acutidens</i>）原为拉长真唇白蚁（<i>Euchilotermes tensus</i>）的尖齿变种，由 Emerson 提升为种，依据是上颚末端较拉长真唇白蚁（<i>Euchilotermes tensus</i>）更长、更弯，齿更小更尖，后颏更宽。该研究在综述真唇白蚁属（<i>Euchilotermes</i>）的 4 个已知种时采用这一处理，将其与方头真唇白蚁（<i>Euchilotermes quadriceps</i>）、隐蔽真唇白蚁（<i>Euchilotermes umbraticola</i>）并列为该属已知种。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes acutidens</i> was originally the acutidens variety of <i>Euchilotermes tensus</i> and was raised to species rank by Emerson because its mandibles are longer and more curved at the apex than in <i>Euchilotermes tensus</i>, its teeth smaller and sharper and its gula wider. Reviewing the four known species of <i>Euchilotermes</i>, the study adopts this treatment and lists it alongside <i>Euchilotermes quadriceps</i> and <i>Euchilotermes umbraticola</i>.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes acutidens</i> era originalmente la variedad acutidens de <i>Euchilotermes tensus</i> y fue elevada a especie por Emerson porque sus mandíbulas son más largas y curvadas en el ápice que en <i>Euchilotermes tensus</i>, sus dientes más pequeños y agudos y su gula más ancha. Al revisar las cuatro especies conocidas de <i>Euchilotermes</i>, el estudio adopta ese tratamiento y la sitúa junto a <i>Euchilotermes quadriceps</i> y <i>Euchilotermes umbraticola</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/euchilotermes-quadriceps/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "分布",
+        "heading_en": "Distribution",
+        "heading_es": "Distribución",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，方头真唇白蚁（<i>Euchilotermes quadriceps</i>）由 Emerson 描述，分布于刚果-扎伊尔（今刚果民主共和国）与马拉维；该研究在综述真唇白蚁属（<i>Euchilotermes</i>）时，将其列为该属 4 个已知种之一。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes quadriceps</i>, described by Emerson, is distributed in Congo-Zaire (now the Democratic Republic of the Congo) and Malawi; in their review of <i>Euchilotermes</i> the authors list it as one of the four known species of the genus.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes quadriceps</i>, descrita por Emerson, se distribuye en Congo-Zaire (hoy República Democrática del Congo) y Malawi; en su revisión de <i>Euchilotermes</i> los autores la incluyen entre las cuatro especies conocidas del género."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/euchilotermes-umbraticola/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "分布",
+        "heading_en": "Distribution",
+        "heading_es": "Distribución",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，隐蔽真唇白蚁（<i>Euchilotermes umbraticola</i>）由 Williams 描述，分布于东非的肯尼亚与坦桑尼亚；该研究在列举真唇白蚁属（<i>Euchilotermes</i>）已知种时，将其与方头真唇白蚁（<i>Euchilotermes quadriceps</i>）、尖齿真唇白蚁（<i>Euchilotermes acutidens</i>）及拉长真唇白蚁（<i>Euchilotermes tensus</i>）并列。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes umbraticola</i>, described by Williams, is distributed in Kenya and Tanzania in East Africa; when listing the known species of <i>Euchilotermes</i> the study places it alongside <i>Euchilotermes quadriceps</i>, <i>Euchilotermes acutidens</i> and <i>Euchilotermes tensus</i>.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes umbraticola</i>, descrita por Williams, se distribuye en Kenia y Tanzania, en África oriental; al enumerar las especies conocidas de <i>Euchilotermes</i>, el estudio la sitúa junto a <i>Euchilotermes quadriceps</i>, <i>Euchilotermes acutidens</i> y <i>Euchilotermes tensus</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/microtermes-hollandei/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "异名处理与模式材料",
+        "heading_en": "Synonymy and type material",
+        "heading_es": "Sinonimia y material tipo",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究引述 Krishna 等的意见，霍兰德小白蚁（<i>Microtermes hollandei</i>）被 Emerson 在未刊名录中作为可爱小白蚁（<i>Microtermes lepidus</i>）的异名处理，理由是两者「完全相似」；原描述霍兰德小白蚁（<i>Microtermes hollandei</i>）的 Grassé 曾认为两者差异微小、可用地理差异解释，而两个名称原描述所用的标本都采自塞内加尔达喀尔佛得角（Cap Vert）地区。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), citing Krishna et al., <i>Microtermes hollandei</i> is placed in synonymy with <i>Microtermes lepidus</i> by Emerson in an unpublished catalogue, on the grounds that the two are perfectly similar; Grassé, author of the original description of <i>Microtermes hollandei</i>, had considered the differences minor and geographically explicable, and the specimens used for the original descriptions of both names all came from the Cap Vert region of Dakar, Senegal.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), citando a Krishna et al., <i>Microtermes hollandei</i> se sitúa en sinonimia con <i>Microtermes lepidus</i> por Emerson en un catálogo inédito, porque ambas son perfectamente similares; Grassé, autor de la descripción original de <i>Microtermes hollandei</i>, había considerado las diferencias menores y explicables geográficamente, y los ejemplares usados para las descripciones originales de ambos nombres procedían todos de la región de Cap Vert, Dakar, Senegal."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/microtermes-lepidus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "异名与模式产地",
+        "heading_en": "Synonymy and type locality",
+        "heading_es": "Sinonimia y localidad tipo",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究引述，可爱小白蚁（<i>Microtermes lepidus</i>）由 Sjöstedt 描述，Emerson 在未刊名录中将霍兰德小白蚁（<i>Microtermes hollandei</i>）并入本种；两个名称原描述所用的标本都来自塞内加尔达喀尔佛得角（Cap Vert）地区，该研究据此认为这一合并「完全合理」。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Microtermes lepidus</i>, described by Sjöstedt, is the species into which Emerson placed <i>Microtermes hollandei</i> in an unpublished catalogue; the specimens used for the original descriptions of both names came from the Cap Vert region of Dakar, Senegal, which the study takes to make the synonymy fully justified.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Microtermes lepidus</i>, descrita por Sjöstedt, es la especie en la que Emerson incluyó <i>Microtermes hollandei</i> en un catálogo inédito; los ejemplares usados para las descripciones originales de ambos nombres procedían de la región de Cap Vert, Dakar, Senegal, lo que según el estudio justifica plenamente la sinonimia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/microcerotermes-fuscotibialis/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "取食招募行为",
+        "heading_en": "Recruitment to food",
+        "heading_es": "Reclutamiento hacia el alimento",
+        "paragraphs": [
+          {
+            "text": "根据 Olugbemi（2010）研究，棕胫锯白蚁（<i>Microcerotermes fuscotibialis</i>）为木食性，在树木、土墙与木结构上筑灰褐色狭窄的土质通道，内壁以粪粒衬里；虽为地下性生活，却在树上筑卵形或球形纸巢，并有覆盖通道通向地面。实验材料为尼日利亚拉各斯大学校园内半径 100 米范围内的 3 个树栖群体，筑于 <i>Mussaenda elegans</i> 树干，室内饲养温度 27 ± 3 ℃、相对湿度 70%。Y 形选择试验中，基线出巢流量为 4–5 头/分钟；食物源放入后，最初 4 分钟（第 31–34 分钟）出巢流量升至 7–12 头/分钟，第 35–50 分钟维持 15–23 头/分钟，至第 60 分钟为 15–25 头/分钟；食物移除后 4–7 分钟内活动显著下降；另加一处新食物源并不改变通往原有食物源的招募流量，出巢流量维持在 15–24 头/分钟。",
+            "src": [
+              "S0339"
+            ],
+            "text_en": "In the study by Olugbemi (2010), <i>Microcerotermes fuscotibialis</i> is wood-feeding and builds narrow greyish-brownish earthen runways lined with faecal deposits over trees, mud walls and wooden structures; although it lives underground, it builds an ovoid or spherical carton nest in trees with covered runways leading to the ground. The experimental material came from three arboreal colonies within a 100 m radius on the University of Lagos campus, Nigeria, nesting in trunks of <i>Mussaenda elegans</i>, kept at 27 +/- 3 C and 70% RH. In Y-maze choice tests, baseline outgoing traffic was 4-5 termites per minute; after food was offered it rose to 7-12 termites per minute in the first four minutes (minutes 31-34), held at 15-23 per minute in minutes 35-50 and reached 15-25 per minute by minute 60; activity dropped markedly within 4-7 minutes after the food was removed; adding a second food source did not change recruitment toward the original one, with outgoing traffic maintained at 15-24 termites per minute.",
+            "text_es": "En el estudio de Olugbemi (2010), <i>Microcerotermes fuscotibialis</i> es xilófaga y construye galerías de tierra estrechas, de color pardo grisáceo, revestidas de depósitos fecales sobre árboles, muros de barro y estructuras de madera; aunque vive bajo tierra, construye un nido de cartón ovoide o esférico en los árboles con galerías cubiertas hasta el suelo. El material experimental procedió de tres colonias arbóreas en un radio de 100 m en el campus de la Universidad de Lagos, Nigeria, anidadas en troncos de <i>Mussaenda elegans</i>, mantenidas a 27 +/- 3 C y 70% de HR. En pruebas de elección en laberinto en Y, el tráfico de salida basal fue de 4-5 termitas por minuto; tras ofrecer el alimento subió a 7-12 termitas por minuto en los primeros cuatro minutos (minutos 31-34), se mantuvo en 15-23 por minuto entre los minutos 35-50 y llegó a 15-25 por minuto hacia el minuto 60; la actividad cayó marcadamente entre 4 y 7 minutos después de retirarlo; añadir una segunda fuente de alimento no cambió el reclutamiento hacia la original, con un tráfico de salida mantenido en 15-24 termitas por minuto."
+          }
+        ]
+      },
+      {
+        "heading": "鉴别特征与西非新记录",
+        "heading_en": "Diagnosis and the new record from West Africa",
+        "heading_es": "Diagnosis y el nuevo registro de África occidental",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，棕胫锯白蚁（<i>Microcerotermes fuscotibialis</i>）在形态、体型与生态上可与同属体型较小的种类区别，但由于鉴定困难，非洲标本存在多次误定；该研究在冈比亚的 Abuko 自然保护区、Nyambai 森林公园与 Tanji 鸟类保护区记录到本种，为该国新记录，属该研究新增的 6 种白蚁亚科记录之一。该研究把本种与同属小型种的区别困难归因于锯白蚁属（<i>Microcerotermes</i>）非洲种类缺乏订正。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Microcerotermes fuscotibialis</i> can be distinguished by morphology, size and ecology from the smaller species of the genus, but difficulties of identification have led to repeated misidentifications of African material; the study recorded the species in Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve in The Gambia, a new record for the country and one of the six new Termitinae records reported. The study attributes the difficulty of separating it from the small congeners to the lack of a revision of the African species of <i>Microcerotermes</i>.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Microcerotermes fuscotibialis</i> se distingue por morfología, tamaño y ecología de las especies menores del género, pero las dificultades de identificación han provocado repetidas identificaciones erróneas del material africano; el estudio registró la especie en la Reserva Natural de Abuko, el Parque Forestal de Nyambai y la Reserva de Aves de Tanji, en Gambia, un registro nuevo para el país y uno de los seis nuevos registros de Termitinae señalados. El estudio atribuye la dificultad de separarla de sus congéneres pequeños a la falta de una revisión de las especies africanas de <i>Microcerotermes</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0339",
+        "citation": "Olugbemi, B. O. 2010. Influence of Food on Recruitment Pattern in the Termite, Microcerotermes fuscotibialis. Journal of Insect Science 10: 154.",
+        "doi": "10.1673/031.010.14114"
+      },
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/species/microcerotermes-parvulus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "分布记录与鉴定问题",
+        "heading_en": "Distribution records and identification problems",
+        "heading_es": "Registros de distribución y problemas de identificación",
+        "paragraphs": [
+          {
+            "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，细小锯白蚁（<i>Microcerotermes parvulus</i>）原描述自热带非洲，在非洲各区均有引用记录，并被记录于沙特阿拉伯；该研究认为这种广布记录更可能源于鉴定错误而非真实的强表型可塑性，并据此指出非洲锯白蚁属（<i>Microcerotermes</i>）亟需订正。该研究在冈比亚的样带中还采集到与细小锯白蚁（<i>Microcerotermes parvulus</i>）相近而未定名的类群。",
+            "src": [
+              "S0346"
+            ],
+            "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Microcerotermes parvulus</i> was described from tropical Africa, has been cited from every African region and has also been recorded from Saudi Arabia; the study considers such a wide range more likely to reflect misidentification than genuine strong phenotypic plasticity, and concludes that a revision of the African species of <i>Microcerotermes</i> is urgently needed. The transects in The Gambia also yielded unnamed material close to <i>Microcerotermes parvulus</i>.",
+            "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Microcerotermes parvulus</i> fue descrita del África tropical, se ha citado de todas las regiones africanas y también se ha registrado en Arabia Saudita; el estudio considera que una distribución tan amplia refleja más probablemente errores de identificación que una plasticidad fenotípica real, y concluye que se necesita con urgencia una revisión de las especies africanas de <i>Microcerotermes</i>. Los transectos en Gambia también rindieron material sin nombre cercano a <i>Microcerotermes parvulus</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0346",
+        "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+        "doi": "10.3390/insects10050122"
+      }
+    ]
+  },
+  "/genus/inquilinitermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "属的客居习性",
+        "heading_en": "Inquiline habits of the genus",
+        "heading_es": "Hábitos inquilinos del género",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2014）研究，客白蚁属（<i>Inquilinitermes</i>）的已知种多为缩白蚁属（<i>Constrictotermes</i>）巢内的客居者；新描述的约翰查普曼客白蚁（<i>Inquilinitermes johnchapmani</i>）是该属第 4 个种，也是该属体型最小的种，与同属其他种不同，它并不在缩白蚁属（<i>Constrictotermes</i>）巢内客居。（据摘要）",
+            "src": [
+              "S0351"
+            ],
+            "text_en": "In the study by Scheffrahn (2014), the known species of <i>Inquilinitermes</i> are mostly inquilines in nests of <i>Constrictotermes</i>; the newly described <i>Inquilinitermes johnchapmani</i> is the fourth and smallest species of the genus and, unlike its congeners, is not an inquiline in nests of <i>Constrictotermes</i>. (According to the abstract.)",
+            "text_es": "En el estudio de Scheffrahn (2014), las especies conocidas de <i>Inquilinitermes</i> son en su mayoría inquilinas en nidos de <i>Constrictotermes</i>; la recién descrita <i>Inquilinitermes johnchapmani</i> es la cuarta y menor especie del género y, a diferencia de sus congéneres, no es inquilina en nidos de <i>Constrictotermes</i>. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0351",
+        "citation": "Scheffrahn, R. H. 2014. Inquilinitermes johnchapmani, a New Termite (Isoptera: Termitidae: Termitinae) from the Llanos of North Central Bolivia. Sociobiology 61(1): 95-99.",
+        "doi": "10.13102/sociobiology.v61i1.95-99"
+      }
+    ]
+  },
+  "/species/inquilinitermes-johnchapmani/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "新种、产地与巢址",
+        "heading_en": "New species, locality and nesting site",
+        "heading_es": "Especie nueva, localidad y sitio de nidificación",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2014）研究，约翰查普曼客白蚁（<i>Inquilinitermes johnchapmani</i>）据采自玻利维亚中北部莫霍斯平原（Llanos de Mojos）的兵蚁与工蚁描述，为客白蚁属（<i>Inquilinitermes</i>）第 4 个种，也是该属体型最小的种；与同属其他种不同，它不在缩白蚁属（<i>Constrictotermes</i>）巢内客居，但其与斯奈德角象白蚁（<i>Cornitermes snyderi</i>）巢的关联较为可能。（据摘要）",
+            "src": [
+              "S0351"
+            ],
+            "text_en": "In the study by Scheffrahn (2014), <i>Inquilinitermes johnchapmani</i> is described from soldiers and workers collected in the Llanos de Mojos of north-central Bolivia; it is the fourth and smallest species of <i>Inquilinitermes</i> and, unlike its congeners, is not an inquiline in nests of <i>Constrictotermes</i>, although an association with nests of <i>Cornitermes snyderi</i> is likely. (According to the abstract.)",
+            "text_es": "En el estudio de Scheffrahn (2014), <i>Inquilinitermes johnchapmani</i> se describe a partir de soldados y obreros recolectados en los Llanos de Mojos del centro-norte de Bolivia; es la cuarta y menor especie de <i>Inquilinitermes</i> y, a diferencia de sus congéneres, no es inquilina en nidos de <i>Constrictotermes</i>, aunque es probable su asociación con nidos de <i>Cornitermes snyderi</i>. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0351",
+        "citation": "Scheffrahn, R. H. 2014. Inquilinitermes johnchapmani, a New Termite (Isoptera: Termitidae: Termitinae) from the Llanos of North Central Bolivia. Sociobiology 61(1): 95-99.",
+        "doi": "10.13102/sociobiology.v61i1.95-99"
+      }
+    ]
+  },
+  "/species/cornitermes-snyderi/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "与客白蚁的可能关系",
+        "heading_en": "Possible association with an inquiline",
+        "heading_es": "Posible asociación con un inquilino",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2014）研究，约翰查普曼客白蚁（<i>Inquilinitermes johnchapmani</i>）虽不在缩白蚁属（<i>Constrictotermes</i>）巢内客居，但其与斯奈德角象白蚁（<i>Cornitermes snyderi</i>）巢的关联被认为较为可能，提示该客白蚁可能寄居于斯奈德角象白蚁（<i>Cornitermes snyderi</i>）的巢内；这是该研究中关于本种巢址的唯一表述。（据摘要）",
+            "src": [
+              "S0351"
+            ],
+            "text_en": "In the study by Scheffrahn (2014), although <i>Inquilinitermes johnchapmani</i> is not an inquiline in nests of <i>Constrictotermes</i>, an association with nests of <i>Cornitermes snyderi</i> is considered likely, suggesting that this inquiline may live in nests of <i>Cornitermes snyderi</i>; this is the only statement in the study about the nesting site of the species. (According to the abstract.)",
+            "text_es": "En el estudio de Scheffrahn (2014), aunque <i>Inquilinitermes johnchapmani</i> no es inquilina en nidos de <i>Constrictotermes</i>, se considera probable su asociación con nidos de <i>Cornitermes snyderi</i>, lo que sugiere que este inquilino podría vivir en nidos de <i>Cornitermes snyderi</i>; es la única afirmación del estudio sobre el sitio de nidificación de la especie. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0351",
+        "citation": "Scheffrahn, R. H. 2014. Inquilinitermes johnchapmani, a New Termite (Isoptera: Termitidae: Termitinae) from the Llanos of North Central Bolivia. Sociobiology 61(1): 95-99.",
+        "doi": "10.13102/sociobiology.v61i1.95-99"
+      }
+    ]
+  },
+  "/genus/sinocapritermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "属的修订起点",
+        "heading_en": "Starting point of the genus revision",
+        "heading_es": "Punto de partida de la revisión del género",
+        "paragraphs": [
+          {
+            "text": "根据 Chiu、Yang 与 Li（2015）研究，华扭白蚁属（<i>Sinocapritermes</i>）以台湾华扭白蚁（<i>Sinocapritermes mushae</i>）为最早描述的种，该种 1919 年以日文简短发表，模式产地为台湾；其余 15 个种均描述自中国大陆，其中多数在与台湾华扭白蚁（<i>Sinocapritermes mushae</i>）比较的基础上建立。该研究以模式产地的多个群体标本，对台湾华扭白蚁（<i>Sinocapritermes mushae</i>）的兵蚁、有翅成虫与工蚁肠瓣重新描述，指出中国文献对原始兵蚁描述的解读不一致，而唯一一份采自中国的有翅成虫标本不足以代表形态变异，进一步造成混淆。（据摘要）",
+            "src": [
+              "S0350"
+            ],
+            "text_en": "In the study by Chiu, Yang and Li (2015), <i>Sinocapritermes</i> takes <i>Sinocapritermes mushae</i> as its first described species, published briefly in Japanese in 1919 with Taiwan as type locality; the other 15 species were all described from mainland China and most were established by comparison with <i>Sinocapritermes mushae</i>. Using samples from several colonies at the type locality, the study redescribes the soldier, the winged imago and the worker enteric valve of <i>Sinocapritermes mushae</i>, noting that the original soldier description has been interpreted inconsistently in the Chinese literature and that the single winged imago collected in China is insufficient to represent the morphological variation, adding further confusion. (According to the abstract.)",
+            "text_es": "En el estudio de Chiu, Yang y Li (2015), <i>Sinocapritermes</i> tiene como primera especie descrita a <i>Sinocapritermes mushae</i>, publicada brevemente en japonés en 1919 con Taiwán como localidad tipo; las otras 15 especies se describieron todas de China continental y la mayoría se establecieron por comparación con <i>Sinocapritermes mushae</i>. Con muestras de varias colonias de la localidad tipo, el estudio redescribe el soldado, el imago alado y la válvula entérica del obrero de <i>Sinocapritermes mushae</i>, y señala que la descripción original del soldado se ha interpretado de forma inconsistente en la literatura china y que el único imago alado recolectado en China es insuficiente para representar la variación morfológica, lo que añadió más confusión. (Según el resumen.)"
+          }
+        ]
+      },
+      {
+        "heading": "五个中国种的异名提议",
+        "heading_en": "Five Chinese species proposed as synonyms",
+        "heading_es": "Cinco especies chinas propuestas como sinónimos",
+        "paragraphs": [
+          {
+            "text": "同一研究以形态测量比较了中国大陆的 5 个种：中华华扭白蚁（<i>Sinocapritermes sinensis</i>，Ping 与 Xu 描述）、松桃华扭白蚁（<i>Sinocapritermes songtaoensis</i>，He 描述）、天目华扭白蚁（<i>Sinocapritermes tianmuensis</i>，Gao 描述）、滇华扭白蚁（<i>Sinocapritermes yunnanensis</i>，原文拼作 yuannensis，Ping 与 Xu 描述）与夏氏华扭白蚁（<i>Sinocapritermes xiai</i>，Gao 与 Lam 描述），认为这 5 个种与台湾华扭白蚁（<i>Sinocapritermes mushae</i>）无显著差异，据此提议将它们作为后者的次异名；该研究同时指出，区分中国大陆各种的多数定性特征因种内变异幅度大而无效，华扭白蚁属（<i>Sinocapritermes</i>）需要进一步修订。（据摘要）",
+            "src": [
+              "S0350"
+            ],
+            "text_en": "The same study compared morphometric data for five species described from mainland China: <i>Sinocapritermes sinensis</i> (Ping & Xu), <i>Sinocapritermes songtaoensis</i> (He), <i>Sinocapritermes tianmuensis</i> (Gao), <i>Sinocapritermes yunnanensis</i> (spelled yuannensis in the paper; Ping & Xu) and <i>Sinocapritermes xiai</i> (Gao & Lam), found no significant difference from <i>Sinocapritermes mushae</i> and therefore proposed all five as junior synonyms of the latter; the study also points out that most qualitative characters used to separate the Chinese species are invalid because intraspecific variation is large, and that a further revision of <i>Sinocapritermes</i> is needed. (According to the abstract.)",
+            "text_es": "El mismo estudio comparó datos morfométricos de cinco especies descritas de China continental: <i>Sinocapritermes sinensis</i> (Ping & Xu), <i>Sinocapritermes songtaoensis</i> (He), <i>Sinocapritermes tianmuensis</i> (Gao), <i>Sinocapritermes yunnanensis</i> (escrita yuannensis en el artículo; Ping & Xu) y <i>Sinocapritermes xiai</i> (Gao & Lam), no halló diferencias significativas con <i>Sinocapritermes mushae</i> y por ello propuso las cinco como sinónimos posteriores de ésta; el estudio señala además que la mayoría de los caracteres cualitativos usados para separar las especies chinas son inválidos porque la variación intraespecífica es amplia, y que se necesita una revisión adicional de <i>Sinocapritermes</i>. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0350",
+        "citation": "Chiu, C.-I.; Yang, M.-M.; Li, H.-F. 2015. Redescription of the Soil-Feeding Termite Sinocapritermes mushae (Isoptera: Termitidae: Termitinae): The First Step of Genus Revision. Annals of the Entomological Society of America.",
+        "doi": "10.1093/aesa/sav106"
+      }
+    ]
+  },
+  "/species/sinocapritermes-yunnanensis/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "拼写差异与异名提议",
+        "heading_en": "Spelling discrepancy and synonymy proposal",
+        "heading_es": "Discrepancia de grafía y propuesta de sinonimia",
+        "paragraphs": [
+          {
+            "text": "根据 Chiu、Yang 与 Li（2015）研究，滇华扭白蚁（<i>Sinocapritermes yunnanensis</i>）由 Ping 与 Xu 描述自中国大陆，该文将其种加词拼作 yuannensis；在比较形态测量后，该研究认为本种与台湾华扭白蚁（<i>Sinocapritermes mushae</i>）无显著差异，据此提议把本种作为后者的次异名。该处理属该文的分类意见，本站仍按独立种列示；本站页面采用 yunnanensis 拼写，与该文拼写不一致，待核。（据摘要）",
+            "src": [
+              "S0350"
+            ],
+            "text_en": "In the study by Chiu, Yang and Li (2015), <i>Sinocapritermes yunnanensis</i>, described from mainland China by Ping and Xu, is spelled yuannensis in that paper; after comparing morphometric data the study found no significant difference from <i>Sinocapritermes mushae</i> and therefore proposed the species as a junior synonym of the latter. That is the taxonomic opinion of the paper, while this site still lists it as a separate species; the page uses the spelling yunnanensis, which differs from the paper and remains to be checked. (According to the abstract.)",
+            "text_es": "En el estudio de Chiu, Yang y Li (2015), <i>Sinocapritermes yunnanensis</i>, descrita de China continental por Ping y Xu, aparece escrita yuannensis en ese artículo; tras comparar datos morfométricos, el estudio no halló diferencias significativas con <i>Sinocapritermes mushae</i> y por ello propuso la especie como sinónimo posterior de ésta. Esa es la opinión taxonómica del artículo, mientras que este sitio la sigue listando como especie separada; la página usa la grafía yunnanensis, distinta de la del artículo, que queda por verificar. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0350",
+        "citation": "Chiu, C.-I.; Yang, M.-M.; Li, H.-F. 2015. Redescription of the Soil-Feeding Termite Sinocapritermes mushae (Isoptera: Termitidae: Termitinae): The First Step of Genus Revision. Annals of the Entomological Society of America.",
+        "doi": "10.1093/aesa/sav106"
+      }
+    ]
+  },
+  "/genus/occasitermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "属的界定与系统位置",
+        "heading_en": "Definition and phylogenetic position of the genus",
+        "heading_es": "Definición y posición filogenética del género",
+        "paragraphs": [
+          {
+            "text": "根据 Gay（1974）研究，西部白蚁属（<i>Occasitermes</i>）由 Holmgren 建立，该研究界定了该属并讨论其系统位置；属的模式种为西部西部白蚁（<i>Occasitermes occasus</i>），该文对其分布与生物学作了记述，同时描述采自新南威尔士州的新种沃森西部白蚁（<i>Occasitermes watsoni</i>）。（据摘要）",
+            "src": [
+              "S0341"
+            ],
+            "text_en": "In the study by Gay (1974), the genus <i>Occasitermes</i>, erected by Holmgren, is defined and its phylogenetic position discussed; the type species is <i>Occasitermes occasus</i>, whose distribution and biology are described, and a new species, <i>Occasitermes watsoni</i>, is described from New South Wales. (According to the abstract.)",
+            "text_es": "En el estudio de Gay (1974) se define el género <i>Occasitermes</i>, erigido por Holmgren, y se discute su posición filogenética; la especie tipo es <i>Occasitermes occasus</i>, cuya distribución y biología se describen, y se describe una especie nueva, <i>Occasitermes watsoni</i>, de Nueva Gales del Sur. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0341",
+        "citation": "Gay, F. J. 1974. The Australian termite genus Occasitermes (Isoptera: Termitidae: Nasutitermitinae). Australian Journal of Entomology 13.",
+        "doi": "10.1111/j.1440-6055.1974.tb02208.x"
+      }
+    ]
+  },
+  "/species/occasitermes-occasus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "模式种的地位与记述",
+        "heading_en": "Status and account of the type species",
+        "heading_es": "Estatus y descripción de la especie tipo",
+        "paragraphs": [
+          {
+            "text": "根据 Gay（1974）研究，西部西部白蚁（<i>Occasitermes occasus</i>）由 Silvestri 描述，是西部白蚁属（<i>Occasitermes</i>）的模式种；该文对该种作了描述，并给出其分布与生物学资料。（据摘要）",
+            "src": [
+              "S0341"
+            ],
+            "text_en": "In the study by Gay (1974), <i>Occasitermes occasus</i>, described by Silvestri, is the type species of <i>Occasitermes</i>; the paper describes the species and gives details of its distribution and biology. (According to the abstract.)",
+            "text_es": "En el estudio de Gay (1974), <i>Occasitermes occasus</i>, descrita por Silvestri, es la especie tipo de <i>Occasitermes</i>; el artículo describe la especie y aporta datos sobre su distribución y biología. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0341",
+        "citation": "Gay, F. J. 1974. The Australian termite genus Occasitermes (Isoptera: Termitidae: Nasutitermitinae). Australian Journal of Entomology 13.",
+        "doi": "10.1111/j.1440-6055.1974.tb02208.x"
+      }
+    ]
+  },
+  "/species/occasitermes-watsoni/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "新种描述",
+        "heading_en": "Description of the new species",
+        "heading_es": "Descripción de la especie nueva",
+        "paragraphs": [
+          {
+            "text": "根据 Gay（1974）研究，沃森西部白蚁（<i>Occasitermes watsoni</i>）作为新种描述自澳大利亚新南威尔士州，是西部白蚁属（<i>Occasitermes</i>）在模式种西部西部白蚁（<i>Occasitermes occasus</i>）之外新增的种。（据摘要）",
+            "src": [
+              "S0341"
+            ],
+            "text_en": "In the study by Gay (1974), <i>Occasitermes watsoni</i> is described as a new species from New South Wales, Australia, adding a species to <i>Occasitermes</i> besides the type species <i>Occasitermes occasus</i>. (According to the abstract.)",
+            "text_es": "En el estudio de Gay (1974), <i>Occasitermes watsoni</i> se describe como especie nueva de Nueva Gales del Sur, Australia, añadiendo una especie a <i>Occasitermes</i> además de la especie tipo <i>Occasitermes occasus</i>. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0341",
+        "citation": "Gay, F. J. 1974. The Australian termite genus Occasitermes (Isoptera: Termitidae: Nasutitermitinae). Australian Journal of Entomology 13.",
+        "doi": "10.1111/j.1440-6055.1974.tb02208.x"
+      }
+    ]
+  },
+  "/species/silvestritermes-euamignathus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "品级分化途径",
+        "heading_en": "Caste differentiation pathways",
+        "heading_es": "Vías de diferenciación de castas",
+        "paragraphs": [
+          {
+            "text": "根据 Haifig 与 Costa-Leonardo（2016）研究，白蚁胚胎后发育分为两条途径：有翅（成虫）品级线包括有翅成虫及其前的若虫阶段，无翅品级线包括工蚁、兵蚁与其前体；对真弓颚西尔韦斯特里白蚁（<i>Silvestritermes euamignathus</i>）的品级分化分析显示，无翅品级线由雌、雄工蚁组成且无性二型，兵蚁全为雌性；有翅品级线经历 5 个若虫龄期，可发育为若虫型副王副后或有翅成虫；该种品级格局与同属另一近缘种相似，提示二者有共同的演化历史。（据摘要）",
+            "src": [
+              "S0338"
+            ],
+            "text_en": "In the study by Haifig and Costa-Leonardo (2016), post-embryonic development in termites is bifurcated: the nymphal-imaginal line comprises the alate reproductives and their preceding nymphal instars, while the apterous line comprises workers, soldiers and their precursors; analysis of caste differentiation in <i>Silvestritermes euamignathus</i> showed that the apterous line consists of male and female workers without sexual dimorphism and that soldiers are exclusively female, while the imaginal line passes through five nymphal instars that may develop into nymphoid neotenics or alates; the caste pattern resembles that of another closely related species of the genus, suggesting a shared evolutionary history. (According to the abstract.)",
+            "text_es": "En el estudio de Haifig y Costa-Leonardo (2016), el desarrollo postembrionario de las termitas es bifurcado: la línea ninfal-imaginal comprende los reproductores alados y sus estadios ninfales previos, mientras que la línea áptera comprende obreros, soldados y sus precursores; el análisis de la diferenciación de castas en <i>Silvestritermes euamignathus</i> mostró que la línea áptera está formada por obreros machos y hembras sin dimorfismo sexual y que los soldados son exclusivamente hembras, mientras que la línea imaginal pasa por cinco estadios ninfales que pueden dar neoténicos ninfoides o alados; el patrón de castas se asemeja al de otra especie cercana del género, lo que sugiere una historia evolutiva compartida. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0338",
+        "citation": "Haifig, I.; Costa-Leonardo, A. M. 2016. Caste differentiation pathways in the Neotropical termite Silvestritermes euamignathus (Isoptera: Termitidae). Entomological Science.",
+        "doi": "10.1111/ens.12201"
+      }
+    ]
+  },
+  "/species/microtermes-mycophagus/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "氟虫腈饵剂防除",
+        "heading_en": "Control with fipronil baits",
+        "heading_es": "Control con cebos de fipronil",
+        "paragraphs": [
+          {
+            "text": "根据 Iqbal 等（2015）研究，在巴基斯坦以含 10 ppm 与 30 ppm 氟虫腈的卫生纸饵剂防治食菌小白蚁（<i>Microtermes mycophagus</i>），饵剂浓度由实验室拒避试验选定；4 个群体在投饵前 1 个月以尼罗蓝 A 标记与攻击性试验绘制觅食范围，投饵前每个饵站平均有 782–1938 头工蚁与兵蚁；投饵后各群体被消灭，饵站内不再有工蚁，而对照群体每个饵站平均仍有 1142 头工蚁；3 个可能被消灭的群体在 45–90 天内消耗约 47 毫克饵剂，其中有效成分 4.7 毫克。（据摘要）",
+            "src": [
+              "S0349"
+            ],
+            "text_en": "In the study by Iqbal et al. (2015), baits of toilet paper containing 10 ppm and 30 ppm fipronil were evaluated against <i>Microtermes mycophagus</i> in Pakistan, the concentrations having been selected from laboratory repellency tests; four colonies were monitored for one month before baiting, their foraging territories mapped with Nile Blue A marking and agonistic tests, and before baiting each bait station averaged 782-1938 workers and soldiers; after baiting the colonies were eliminated, with no workers left at the bait stations, whereas the control colony still averaged 1142 workers per station; the three colonies considered possibly eliminated consumed about 47 mg of formulation, equivalent to 4.7 mg of active ingredient, in 45-90 days. (According to the abstract.)",
+            "text_es": "En el estudio de Iqbal et al. (2015), se evaluaron cebos de papel higiénico con 10 ppm y 30 ppm de fipronil contra <i>Microtermes mycophagus</i> en Pakistán, concentraciones seleccionadas a partir de pruebas de repelencia en laboratorio; cuatro colonias se monitorearon durante un mes antes del cebado, con sus territorios de forrajeo cartografiados mediante marcaje con azul de Nilo A y pruebas agonísticas, y antes del cebado cada estación de cebo promediaba 782-1938 obreros y soldados; tras el cebado las colonias fueron eliminadas, sin obreros en las estaciones, mientras que la colonia testigo seguía promediando 1142 obreros por estación; las tres colonias consideradas posiblemente eliminadas consumieron unos 47 mg de formulación, equivalentes a 4.7 mg de ingrediente activo, en 45-90 días. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0349",
+        "citation": "Iqbal, N.; Evans, T. A.; Saeed, S.; Khan, H. A. A. 2015. Evaluation of fipronil baits against Microtermes mycophagus (Blattodea: Termitidae). The Canadian Entomologist.",
+        "doi": "10.4039/tce.2015.56"
+      }
+    ]
+  },
+  "/genus/angulitermes/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "印度区种类沿革",
+        "heading_en": "Species history in the Indian region",
+        "heading_es": "Historia de las especies en la región india",
+        "paragraphs": [
+          {
+            "text": "根据 Roonwal 与 Chhotani（1965）研究，角白蚁属（<i>Angulitermes</i>）在印度区的记录始于 Ahmad（1958），当时把 3 个种归入该属，这些种原先多被置于白蚁属（<i>Termes</i>）或 <i>Mirotermes</i> 属；1961 年至 1965 年间，印度区又描述了 4 个新种，其中弗莱彻角白蚁（<i>Angulitermes fletcheri</i>）由 Mathur 与 Sen-Sarma（1961）及 Krishna（1965）从白蚁属（<i>Termes</i>）转入本属；至该文发表时，仍有 2 个原描述自印度区的种留在白蚁属（<i>Termes</i>）。该文另描述采自查谟-克什米尔邦乌达姆普尔县（District Udhampur）的 2 个新种，并给出印度区种类的检索表。（据摘要）",
+            "src": [
+              "S0343"
+            ],
+            "text_en": "In the study by Roonwal and Chhotani (1965), the record of <i>Angulitermes</i> in the Indian region begins with Ahmad (1958), who placed three species in the genus, most of them previously referred to <i>Termes</i> or <i>Mirotermes</i>; between 1961 and 1965 four more species were described from the Indian region, among them <i>Angulitermes fletcheri</i>, which Mathur and Sen-Sarma (1961) and Krishna (1965) transferred from <i>Termes</i>; at the time of publication two species originally described from the Indian region were still left in <i>Termes</i>. The paper describes two further new species from District Udhampur, Jammu and Kashmir State, and provides a key to the species of the Indian region. (According to the abstract.)",
+            "text_es": "En el estudio de Roonwal y Chhotani (1965), el registro de <i>Angulitermes</i> en la región india comienza con Ahmad (1958), quien situó tres especies en el género, la mayoría antes referidas a <i>Termes</i> o a <i>Mirotermes</i>; entre 1961 y 1965 se describieron cuatro especies más de la región india, entre ellas <i>Angulitermes fletcheri</i>, que Mathur y Sen-Sarma (1961) y Krishna (1965) transfirieron desde <i>Termes</i>; en el momento de la publicación dos especies descritas originalmente de la región india seguían en <i>Termes</i>. El artículo describe dos especies nuevas más del distrito de Udhampur, estado de Jammu y Cachemira, y ofrece una clave de las especies de la región india. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0343",
+        "citation": "Roonwal, M. L.; Chhotani, O. B. 1965. Two New Termites of Genus Angulitermes Sjostedt (Isoptera: Termitidae) from India, with a Key to Species of Indian Region. Records of the Zoological Survey of India 63(1-4).",
+        "doi": "10.26515/rzsi/v63/i1-4/1965/161567"
+      }
+    ]
+  },
+  "/species/angulitermes-fletcheri/": {
+    "updated": "2026-11-17",
+    "sections": [
+      {
+        "heading": "属级归属变迁",
+        "heading_en": "History of its generic placement",
+        "heading_es": "Historia de su ubicación genérica",
+        "paragraphs": [
+          {
+            "text": "根据 Roonwal 与 Chhotani（1965）研究，弗莱彻角白蚁（<i>Angulitermes fletcheri</i>）原由 Holmgren 与 Holmgren 描述为 <i>Mirotermes</i> 属的种，1949 年被 Snyder 置于白蚁属（<i>Termes</i>），1958 年 Ahmad 仍将其列在白蚁属（<i>Termes</i>）中；1961 年 Mathur 与 Sen-Sarma、1965 年 Krishna 先后将其转入角白蚁属（<i>Angulitermes</i>），该文采用后一处理。（据摘要）",
+            "src": [
+              "S0343"
+            ],
+            "text_en": "In the study by Roonwal and Chhotani (1965), <i>Angulitermes fletcheri</i> was originally described by Holmgren and Holmgren as a species of <i>Mirotermes</i>, was placed in <i>Termes</i> by Snyder in 1949 and was still listed in <i>Termes</i> by Ahmad in 1958; Mathur and Sen-Sarma in 1961 and Krishna in 1965 transferred it to <i>Angulitermes</i>, the treatment adopted by the paper. (According to the abstract.)",
+            "text_es": "En el estudio de Roonwal y Chhotani (1965), <i>Angulitermes fletcheri</i> fue descrita originalmente por Holmgren y Holmgren como especie de <i>Mirotermes</i>, fue situada en <i>Termes</i> por Snyder en 1949 y Ahmad la seguía listando en <i>Termes</i> en 1958; Mathur y Sen-Sarma en 1961 y Krishna en 1965 la transfirieron a <i>Angulitermes</i>, tratamiento que adopta el artículo. (Según el resumen.)"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0343",
+        "citation": "Roonwal, M. L.; Chhotani, O. B. 1965. Two New Termites of Genus Angulitermes Sjostedt (Isoptera: Termitidae) from India, with a Key to Species of Indian Region. Records of the Zoological Survey of India 63(1-4).",
+        "doi": "10.26515/rzsi/v63/i1-4/1965/161567"
       }
     ]
   }
