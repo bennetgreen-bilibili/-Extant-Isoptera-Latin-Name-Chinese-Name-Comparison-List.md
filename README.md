@@ -98,6 +98,16 @@
 - 浮层文案来自 `_data/i18n.yml` 的 `search_overlay_*` 三语 key，由 `_layouts/default.html` 以 data 属性传给脚本。
 - 物种页的 `<main>` 与 `<h1>` 带 `data-pagefind-filter`（科 / 阶元）与 `data-pagefind-meta`（拉丁名 / 中文名），索引里可据此过滤与展示。
 
+### 5.1 AI 语义搜索：Cloudflare AI Search（可选层，`assets/ai-search.js`）
+- 配置在 `_data/ai_search.yml`：`api_url`（实例地址）、`script_src`（官方 `search-modal-snippet` 的 ESM 包，当前 `v0.0.25`）、`max_results`。**`api_url` 留空即整层停用**——`_layouts/default.html` 与 `_includes/ai-search-block.html` 会连脚本、按钮、说明块一起不输出，页面不留死按钮。
+- 两个入口：全局搜索浮层底部的「AI 搜索」按钮（所有页面），以及 `/search/`、`/en/search/`、`/es/search/` 页顶的说明块（`data-pagefind-ignore`，避免三语同文页面重复进索引）。
+- 官方 ESM 包**只在访客第一次点击入口时**由 `assets/ai-search.js` 动态注入，随后创建 `<search-modal-snippet>` 并复用同一实例；首屏不请求任何第三方资源。
+- 键盘归属：`assets/search-widget.js` 在**捕获阶段**处理 Ctrl/⌘+K 并 `preventDefault() + stopImmediatePropagation()`，官方组件虽然也在 `document` 上监听同一组合键（`use-meta-key` 默认为真），但拿不到事件，所以不会两个弹窗同时打开；AI 弹窗开着时该组合键改为关闭它，Esc 与 `/` 在弹窗内交还官方组件处理。
+- 主题：站点浅色时给元素 `theme="light"`，深色时留 `auto`。v0.0.25 的深色变量只写在 `@media (prefers-color-scheme: dark)` 里，硬写 `theme="dark"` 在浅色系统上反而没有配色。
+- 文案：入口标题、占位、加载与失败提示走 `_data/i18n.yml` 的 `search_ai_*` 九个三语键；官方弹窗自身的界面文字在 shadow DOM 内、只有英文，无法随站点语言切换，故未翻译（也不改它的蓝色主色）。
+- 索引由 Cloudflare 爬虫按站点 sitemap 抓取建立，新发布的页面要等下一次抓取；站点若启用 WAF / Bot Management / Turnstile，需为 User-Agent `Cloudflare-AI-Search` 放行，否则抓取会被拦。
+- 隐私边界：本地 Pagefind 查询全程在浏览器内；AI 层把查询**直接发往 Cloudflare**（不经过本站服务器）。`search.md` / `en/search.md` / `es/search.md` 与 `llms.txt` 的措辞已按这条边界改写，改动时三语加 `llms.txt` 要一起改。
+
 ### 6. 搜索词回流（GoatCounter 事件，无 Cookie）
 - 名录检索框（`assets/search.js`）与全文搜索页（`assets/search-page.js`）在用户停手 1.5 秒、词长 ≥ 2 时上报一次 GoatCounter 事件（`path=/list?q=…` / `/search?q=…`, `event: true`），同词每次会话只报一次。
 - 用途：知道读者实际在找什么（缺哪些中文名 / 异名），指导数据补全；不需要新服务、不写 Cookie。
@@ -251,7 +261,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 11295 条）
 - `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 11295 条：三语各 3765 条 = 3295 个物种页（含 206 个 `/species/<slug>/photos/` 照片页）+ 470 个其他页面；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
-- `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
+- `assets/search.js`、`assets/search-page.js`、`assets/ai-search.js`、`assets/custom.css`：名录搜索框 / 全文搜索页 / AI 语义搜索入口脚本与样式
 
 ## 下载 / 留言
 - **下载页**（`download.md` / `en/download.md`）：把要提供下载的文件放进仓库 `downloads/` 文件夹即可，页面用 Jekyll `site.static_files` 自动列出，无需改页面。占位文件 `downloads/.gitkeep` 可删除。

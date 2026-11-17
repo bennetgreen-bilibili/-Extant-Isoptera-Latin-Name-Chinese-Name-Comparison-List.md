@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 456,
+    "count": 458,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-17T21:05:44+08:00",
+    "updated": "2026-11-17T21:09:52+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -24942,6 +24942,110 @@
       "accessed": "2026-11-17T21:00:14+08:00",
       "canonical_key": "url:https://www.sitelint.com/blog/favicon-issues-in-bing-search-results-and-how-to-fix-them",
       "id": "S0457"
+    },
+    {
+      "title": "search-snippet.es.js (v0.0.25)",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/assets/v0.0.25/search-snippet.es.js",
+      "publisher": "Cloudflare",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "node fetch + read（_tmp/search-snippet.es.js，115806 字节 / 3506 行）",
+      "evidence": [
+        {
+          "quote": "`, T = \"search-modal-snippet\";\nclass W extends HTMLElement {",
+          "locator": "line 3104-3105",
+          "note": "自定义元素名 T = \"search-modal-snippet\" 与类 W 的声明；本站 _includes/ai-search-block.html 与 assets/ai-search.js 创建的正是这个标签。"
+        },
+        {
+          "quote": "\"api-url\",\n      \"placeholder\",\n      \"max-results\",\n      \"theme\",\n      \"shortcut\",\n      \"use-meta-key\",\n      \"debounce-ms\",\n      \"hide-branding\",\n      \"show-url\"\n    ];",
+          "locator": "line 3134-3143",
+          "note": "observedAttributes 全集：本站只用到 api-url / theme / max-results / placeholder；其余属性（shortcut、use-meta-key、debounce-ms、hide-branding、show-url）保持默认。"
+        },
+        {
+          "quote": "attachGlobalKeyboardShortcut() {\n    const e = this.getProps(), t = e.shortcut?.toLowerCase() || \"k\";\n    this.handleGlobalKeydown = (s) => {\n      (e.useMetaKey && s.metaKey || s.ctrlKey) && s.key.toLowerCase() === t && !this.isOpen && (s.preventDefault(), this.open());\n    }, document.addEventListener(\"keydown\", this.handleGlobalKeydown);",
+          "locator": "line 3234-3238",
+          "note": "官方组件在 document 上注册 Ctrl/⌘+K 的全局监听（默认 shortcut=\"k\"、use-meta-key 非 false 时 metaKey 也生效）。这正是本站 assets/search-widget.js 必须在捕获阶段 preventDefault + stopImmediatePropagation 的原因：否则同一个组合键会同时弹出本站浮层与官方弹窗。"
+        },
+        {
+          "quote": "/* Dark Mode */\n@media (prefers-color-scheme: dark) {\n  :host(:not([theme=\"light\"])) {\n    --search-snippet-primary-color: #2563eb;",
+          "locator": "line 709-712",
+          "note": "深色变量只在 prefers-color-scheme: dark 且未设 theme=\"light\" 时生效——因此 theme=\"dark\" 在浅色系统上不会变深（变量未定义）。本站据此让 assets/ai-search.js 的 snippetTheme() 在站点浅色时传 \"light\"、深色时传 \"auto\"。"
+        },
+        {
+          "quote": "updateTheme(e) {\n    const t = e === \"light\" || e === \"dark\" || e === \"auto\" ? e : \"auto\";\n    t === \"auto\" ? this.removeAttribute(\"theme\") : this.setAttribute(\"theme\", t);\n  }",
+          "locator": "line 3433-3436",
+          "note": "updateTheme 的取值校验：只认 light/dark/auto，auto 会移除 theme 属性；对应本站 open() 每次重新 setAttribute(\"theme\", snippetTheme())。"
+        },
+        {
+          "quote": "lockBodyScroll() {\n    const e = window.scrollY;\n    this.savedBodyStyles = {\n      overflow: document.body.style.overflow,\n      position: document.body.style.position,\n      top: document.body.style.top,\n      width: document.body.style.width\n    }, this.savedHtmlOverflow = document.documentElement.style.overflow, document.documentElement.style.overflow = \"hidden\", document.body.style.overflow = \"hidden\", document.body.style.position = \"fixed\", document.body.style.top = `-${e}px`, document.body.style.width = \"100%\";",
+          "locator": "line 3437-3444",
+          "note": "open() 前会锁 body 滚动（html overflow hidden、body position fixed、记录 scrollY）。本站 assets/ai-search.js 的 fromOverlay() 先从浮层取查询词再点 #search-overlay-close，就是为了不让两套滚动锁叠加。"
+        },
+        {
+          "quote": "request(i = {}, e, t) {\n    const s = e === \"search\" ? \"snippet-search\" : \"snippet-chat-completions\";\n    return fetch(`${this.baseUrl}/${e}`, {\n      method: \"POST\",\n      body: JSON.stringify({\n        messages: [{ role: \"user\", content: i.query }],\n        stream: i.streaming,\n        max_results: i.maxResults,\n        ...e === \"search\" && {\n          ai_search_options: { retrieval: { metadata_only: !0 } }\n        }\n      }),\n      headers: {\n        \"Content-Type\": \"application/json\",\n        \"cf-ai-search-source\": s\n      },\n      signal: t\n    });",
+          "locator": "line 58-75",
+          "note": "真实请求路径是 `${baseUrl}/${e}`（search 时 e = \"search\"，即 POST /search），\"snippet-search\" 只作为 cf-ai-search-source 请求头；请求体带 ai_search_options.retrieval.metadata_only = true。用于核对探针 _tmp/ai-search-probe-out.json 的构造与官方一致。"
+        },
+        {
+          "quote": "if (c.success && c.result)\n        return c.result.chunks.slice(0, 10).map(\n          (l) => ({\n            type: \"result\",\n            id: l.id,\n            title: S(l.item.metadata.title),\n            description: l.item.metadata.description ? S(l.item.metadata.description) : \"\",\n            url: l.item.key,\n            image: l.item.metadata.image || void 0,\n            metadata: l.item.metadata\n          })\n        );",
+          "locator": "line 130-152",
+          "note": "官方弹窗每次取 30 条、再 slice(0,10) 交给界面，结果 URL 取 chunk.item.key，标题/描述/图取 chunk.item.metadata；因此本站 max_results 默认 10 与官方行为一致，无需另写映射。"
+        },
+        {
+          "quote": "customElements.get(T) || customElements.define(T, W);\nexport {\n  P as AISearchClient,\n  K as ChatBubbleSnippet,\n  U as ChatPageSnippet,\n  F as SearchBarSnippet,\n  W as SearchModalSnippet,\n  F as default\n};",
+          "locator": "line 3496-3504",
+          "note": "注册与导出：只有 customElements 未定义时才 define，重复注入脚本不会冲突；AISearchClient 同时被导出。本站 assets/ai-search.js 用 customElements.whenDefined 等待这个注册完成。"
+        }
+      ],
+      "used_in": [
+        "_data/ai_search.yml",
+        "_includes/ai-search-block.html",
+        "_layouts/default.html",
+        "assets/ai-search.js",
+        "assets/custom.css",
+        "assets/search-widget.js",
+        "dataset/CHANGELOG.md",
+        "en/search.md",
+        "es/search.md",
+        "llms.txt",
+        "search.md"
+      ],
+      "notes": "该文件是 Cloudflare AI Search 官方 search-snippet 的 ESM 包（v0.0.25），由 _data/ai_search.yml 的 script_src 引用；本地副本在 _tmp/search-snippet.es.js（未提交）。界面文案（\"Start typing to search\"、\"No results found\"、Esc/Close 等）在 shadow DOM 内且仅英文，浏览器语言无法替换；主色 #2563eb 与 z-index 1050 定义在 :host 变量里，浅色 DOM 覆盖需 !important，故本站未改其配色。",
+      "accessed": "2026-11-17T21:09:52+08:00",
+      "canonical_key": "url:https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/assets/v0.0.25/search-snippet.es.js",
+      "id": "S0458"
+    },
+    {
+      "title": "Cloudflare AI Search POST /search 响应（query: Coptotermes）",
+      "source_type": "dataset",
+      "reliability": "official",
+      "url": "https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/search",
+      "publisher": "Cloudflare",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "node fetch POST /search（请求体与官方弹窗相同：max_results=5、metadata_only=true；响应 7333 字节，存 _tmp/ai-search-probe-out.json）",
+      "evidence": [
+        {
+          "quote": "{\"success\":true,\"result\":{\"query_kind\":\"text\",\"search_query\":\"Coptotermes\",\"chunks\":[{\"id\":\"0629b6d822d8f47114d7050d029edb0b0fd710049a3271e6a1b46772457f4eff\",\"type\":\"text\",\"score\":1,\"text\":\"\",\"item\":{\"key\":\"https://termite-extant-isoptera.org/en/family/heterotermitidae/photos/\",\"timestamp\":1793318400000,\"metadata\":{\"description\":\"Freely licensed photos of the 23 species in the family HETEROTERMITIDAE (异白蚁科), 601 in total, from iNaturalist and Wikimedia Commons; grouped by species, each linking to its full photo set.\",\"image\":\"https://termite-extant-isoptera.org/assets/images/heterotermitidae.j",
+          "locator": "响应 JSON 开头 600 字符",
+          "note": "success=true、query_kind=text、search_query=Coptotermes，并已返回站点真实页面（family/heterotermitidae/photos/），item.timestamp = 1793318400000（2026-10-30 抓取）；证明该实例索引已建好、可检索。"
+        },
+        {
+          "quote": "\"key\":\"https://termite-extant-isoptera.org/en/genus/coptotermes/\",\"timestamp\":1793318400000,\"metadata\":{\"description\":\"The genus Coptotermes (乳白蚁属) belongs to the family Heterotermitidae (异白蚁科); the site records 58 species, 2 subspecies. See below. See the checklist index.\",\"image\":\"https://termite-extant-isoptera.org/assets/images/heterotermitidae.jpg\",\"title\":\"Genus Coptotermes (乳白蚁属) checklist — Termite Checklist\",\"chunk_modality\":\"text\"}},\"scoring_details\":{\"vector_score\":0.63337797,\"keyword_score\":6.778844447260328,\"vector_rank\":5,\"keyword_rank\":13,\"fusion_method\":\"rrf\"}},{\"id\":\"c3bcb513a4ff492218ef1c23237ae5c60b40a33132d8ba1b8983046df762bb6b\",\"type\":\"text\",\"score\":0.8467771012969887,\"t",
+          "locator": "响应中 key = .../en/genus/coptotermes/ 的 chunk",
+          "note": "属页与属照片页均命中，scoring_details 同时给出 vector_score 与 keyword_score，fusion_method=rrf（向量 + 关键词倒数排名融合）；CHANGELOG 里「索引已建好、返回带向量与关键词打分的站点页面」即据此。"
+        }
+      ],
+      "used_in": [
+        "_data/ai_search.yml",
+        "dataset/CHANGELOG.md"
+      ],
+      "notes": "这是运行时检索端点的实测响应，不是抓取到的网页；用于确认 Cloudflare 侧索引可用（无需 Cloudflare API token，本机也没有该 token，WAF/爬虫状态只能靠这个端点间接验证）。响应里的 title/description 原样来自站点页面元数据，未被本站任何数据文件采用。",
+      "accessed": "2026-11-17T21:09:52+08:00",
+      "canonical_key": "url:https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/search",
+      "id": "S0459"
     }
   ]
 }

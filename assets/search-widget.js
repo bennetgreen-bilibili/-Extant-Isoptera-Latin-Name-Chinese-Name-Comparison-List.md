@@ -197,13 +197,31 @@
     if (ev.key === 'Escape') close();
   });
 
+  // AI 搜索弹窗（Cloudflare search-modal-snippet，见 assets/ai-search.js）也可能
+  // 已经挂到页面上；它自己会锁 body 滚动，键盘入口仍只认本站浮层。
+  function aiModal() {
+    var node = document.querySelector('search-modal-snippet');
+    if (!node || typeof node.isModalOpen !== 'function' || !node.isModalOpen()) return null;
+    return node;
+  }
+
+  // Ctrl/⌘+K 在捕获阶段处理并截断：官方 AI 弹窗也监听 document 上的同一个组合键，
+  // 不截断就会同时打开两个界面（且哪一个盖在上面取决于 z-index）。截断后
+  // 只有本站浮层响应；浮层里的「AI 搜索」按钮再进入官方弹窗。
   document.addEventListener('keydown', function (ev) {
     var key = ev.key || '';
     if ((ev.ctrlKey || ev.metaKey) && (key === 'k' || key === 'K')) {
       ev.preventDefault();
+      ev.stopImmediatePropagation();
+      var ai = aiModal();
+      if (ai) { ai.close(); return; }  // AI 弹窗开着就关它，不叠开本站浮层
       toggle();
-      return;
     }
+  }, true);
+
+  document.addEventListener('keydown', function (ev) {
+    if (aiModal()) return;  // 焦点在 AI 弹窗里时，Esc / 「/」交还给官方组件自己处理
+    var key = ev.key || '';
     if (key === 'Escape' && !overlay.hidden) {
       close();
       return;

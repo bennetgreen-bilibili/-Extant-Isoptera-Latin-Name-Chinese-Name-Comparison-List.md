@@ -1,0 +1,15 @@
+{%- comment -%}
+  /search/ 三语页面顶部的 AI 语义搜索入口（Cloudflare AI Search）。
+  api_url 为空（_data/ai_search.yml）时整块不输出，页面不留死按钮。
+  文案见 _data/i18n.yml 的 search_ai_* 键；脚本见 assets/ai-search.js。
+{%- endcomment -%}
+{%- assign AIS = site.data.ai_search -%}
+{%- assign AIT = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- if AIS.api_url.size > 0 %}
+<section class="ai-search-block" aria-labelledby="ai-search-heading" data-pagefind-ignore>
+  <h2 class="ai-search-heading" id="ai-search-heading">{{ AIT.search_ai_heading }}</h2>
+  <p class="ai-search-lead">{{ AIT.search_ai_lead }}</p>
+  <p class="ai-search-actions"><button type="button" class="ai-search-cta" data-ai-search-open><span aria-hidden="true">✦</span> {{ AIT.search_ai_cta }}</button></p>
+  <p class="ai-search-status" data-ai-search-status role="status" aria-live="polite" hidden></p>
+</section>
+{%- endif %}

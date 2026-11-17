@@ -426,10 +426,30 @@ body.search-overlay-open{overflow:hidden}
 .search-overlay-results .so-excerpt{display:block;font-size:.84em;color:var(--muted);line-height:1.55;margin-top:2px}
 .search-overlay-results .so-excerpt mark{background:var(--accent-soft);color:var(--ink);padding:0 1px;border-radius:2px}
 .search-overlay-results .so-state{padding:10px;color:var(--muted);font-size:.9em}
-.search-overlay-foot{margin:10px 0 0;font-size:.85em}
+.search-overlay-foot{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-end;gap:6px 14px;margin:10px 0 0;font-size:.85em}
 .search-overlay-foot a{color:var(--accent-strong)}
+.search-ai-btn{display:inline-flex;align-items:center;gap:5px;font:inherit;font-size:1em;padding:3px 10px;border-radius:999px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-strong);cursor:pointer;white-space:nowrap}
+.search-ai-btn:hover{background:var(--accent-softer)}
+.search-ai-btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.search-ai-btn[aria-busy="true"]{opacity:.6;cursor:progress}
+.search-ai-status{margin:6px 0 0;font-size:.82em;color:var(--accent-strong);line-height:1.55}
 @media (max-width:640px){.search-overlay{padding:6vh 10px 10px}.search-overlay-panel{padding:13px}}
-@media print{.search-overlay{display:none!important}}
+@media print{.search-overlay,.search-ai-btn,.search-ai-status{display:none!important}}
+
+/* ===== AI 搜索（Cloudflare AI Search）：/search/ 页入口块 + 浮层按钮的说明与状态 =====
+   官方弹窗自带 shadow DOM 与深色/浅色变量，这里只管本站页面上的入口与状态行；
+   弹窗实例由 assets/ai-search.js 按需创建，_data/ai_search.yml 留空 api_url 时整块不渲染。 */
+.ai-search-block{margin:1.2em 0 2em;padding:16px 18px;background:var(--card);border:1px solid var(--accent-soft);border-left:4px solid var(--accent);border-radius:var(--radius);box-shadow:var(--shadow-sm)}
+.ai-search-heading{margin:0 0 .45em;font-size:1.02em;letter-spacing:.01em}
+.ai-search-lead{margin:0 0 .85em;font-size:.88em;line-height:1.7;color:var(--muted);max-width:860px}
+.ai-search-actions{margin:0}
+.ai-search-cta{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:.95em;font-weight:600;padding:8px 16px;border-radius:999px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-strong);cursor:pointer}
+.ai-search-cta:hover{background:var(--accent-softer)}
+.ai-search-cta:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.ai-search-cta[aria-busy="true"]{opacity:.6;cursor:progress}
+.ai-search-status{margin:.6em 0 0;font-size:.84em;color:var(--accent-strong);line-height:1.55}
+@media (max-width:640px){.ai-search-block{padding:13px 14px}.ai-search-lead{font-size:.85em}}
+@media print{.ai-search-block{display:none!important}}
 
 /* ===== 版本记录 /changelog/ 与文章标题备行 ===== */
 .page-title-alt{display:block;font-size:.52em;font-weight:400;color:var(--muted);margin-top:.3em}
