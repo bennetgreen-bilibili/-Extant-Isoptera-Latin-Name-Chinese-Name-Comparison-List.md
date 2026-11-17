@@ -149,7 +149,7 @@ core 表的列（与 `meta.xml` 的 `index` 一一对应）：`taxonID`、`scien
 
 **验证与发布**
 
-1. 本机自检：`python _tools/build_dwca.py --check`（列数、`taxonID` 唯一性、`parentNameUsageID` / `acceptedNameUsageID` / 扩展 `coreid` 的引用完整性、`taxonRank` 取值、计数与 `metadata.json` 的 `expectedCounts` 是否一致）。
+1. 本机自检：`python _tools/build_dwca.py --check`（列数、`taxonID` 唯一性、`parentNameUsageID` / `acceptedNameUsageID` / 扩展 `coreid` 的引用完整性、`taxonRank` 取值、计数与 `metadata.json` 的 `expectedCounts` 是否一致）。zip 那一条按**成员内容**比（成员名与各成员字节），不比对压缩后的字节——压缩字节取决于 zlib 版本与压缩级别，换个环境同一份数据也会差几 KB，比字节只会制造假红。
 2. 规范验证：把 zip 传到 <https://www.gbif.org/tools/data-validator>，它会检查 `meta.xml` 是否合规、术语是否在 GBIF registry、`eml.xml` 是否符合 GBIF profile、ID 引用是否完整。
 3. 发布：作为附加文件挂到对应 Zenodo 版本上（沿用该版本 DOI）；若要拿 GBIF 的 `10.15468` DOI，则需要一个已获 GBIF 节点背书的发布机构（publishing organization），走 IPT 或邮件 helpdesk@gbif.org 注册。
 

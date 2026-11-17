@@ -195,6 +195,33 @@ def csv_text(columns: list[str], rows: list[dict]) -> str:
     return buf.getvalue()
 
 
+ZIP_MEMBERS = ("eml.xml", "meta.xml", "taxon.csv", "vernacularname.csv")
+
+
+def zip_member_diff(target: Path, expected: dict[str, bytes]) -> str | None:
+    """按成员内容比对 zip，返回 None 表示一致，否则返回原因。
+
+    归档「是否过期」只看内容：成员齐、逐字节相等即一致。压缩后的字节不是内容的一部分——
+    它取决于压缩器（zlib 版本、级别），同一份成员数据换个环境就可能差几 KB。
+    2026-11-17 的部署红就是这个形态：成员全部相同，整包字节却对不上。
+    """
+    try:
+        with zipfile.ZipFile(target) as zf:
+            got = {name: zf.read(name) for name in zf.namelist()}
+    except (zipfile.BadZipFile, OSError) as exc:
+        return f"读不出来：{exc}"
+    missing = sorted(set(expected) - set(got))
+    if missing:
+        return "缺少成员 " + "、".join(missing)
+    extra = sorted(set(got) - set(expected))
+    if extra:
+        return "多出成员 " + "、".join(extra)
+    changed = sorted(name for name in expected if got[name] != expected[name])
+    if changed:
+        return "成员内容不一致：" + "、".join(changed)
+    return None
+
+
 def zip_bytes(files: dict[str, bytes]) -> bytes:
     """确定性 zip：成员名排序、时间戳归零，避免每次构建字节不同。"""
     buf = io.BytesIO()
@@ -799,30 +826,24 @@ def build_all(meta: dict, strict: bool) -> tuple[dict[str, bytes], dict[str, int
                     f"meta.xml 声明 {width} 列"
                 )
 
+    # 归档成员（ZIP_MEMBERS 是 --check 比对成员时的唯一清单，两边共用同一份）。
+    payloads = {
+        "eml.xml": eml_bytes,
+        "meta.xml": meta_bytes,
+        "taxon.csv": taxon_csv,
+        "vernacularname.csv": ext_csv,
+    }
+    members = {name: payloads[name] for name in ZIP_MEMBERS}
+    # CHECKSUMS 按固定的成员顺序写，保证内容不变时字节不变。
     checksums = "".join(
-        f"{hashlib.sha256(payload).hexdigest()}  {name}\n"
-        for name, payload in (
-            ("taxon.csv", taxon_csv),
-            ("vernacularname.csv", ext_csv),
-            ("meta.xml", meta_bytes),
-            ("eml.xml", eml_bytes),
-        )
+        f"{hashlib.sha256(members[name]).hexdigest()}  {name}\n"
+        for name in ("taxon.csv", "vernacularname.csv", "meta.xml", "eml.xml")
     ).encode("utf-8")
 
     files = {
-        "taxon.csv": taxon_csv,
-        "vernacularname.csv": ext_csv,
-        "meta.xml": meta_bytes,
-        "eml.xml": eml_bytes,
+        **members,
         "CHECKSUMS.sha256": checksums,
-        f"downloads/{zip_name_of(meta)}": zip_bytes(
-            {
-                "taxon.csv": taxon_csv,
-                "vernacularname.csv": ext_csv,
-                "meta.xml": meta_bytes,
-                "eml.xml": eml_bytes,
-            }
-        ),
+        f"downloads/{zip_name_of(meta)}": zip_bytes(members),
     }
     stats = {
         "core": len(rows),
@@ -843,7 +864,8 @@ def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description="生成 Darwin Core Archive（DwC-A）")
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--write", action="store_true", help="写入全部产物")
-    group.add_argument("--check", action="store_true", help="校验仓库内产物是否与生成结果一致")
+    group.add_argument("--check", action="store_true",
+                       help="校验仓库内产物是否与生成结果一致（zip 比成员内容，不比压缩字节）")
     parser.add_argument("--strict", action="store_true", help="计数与 metadata.json 不符时直接失败")
     args = parser.parse_args(argv)
 
@@ -881,11 +903,17 @@ def main(argv: list[str]) -> int:
         return 0
 
     if args.check:
+        zip_key = f"downloads/{zip_name_of(meta)}"
         stale = []
         for name, payload in files.items():
             target = target_path(name)
             if not target.exists():
                 stale.append(f"{name}（缺失）")
+            elif name == zip_key:
+                # zip 只比成员内容（见 zip_member_diff）；其余产物仍是逐字节比较。
+                reason = zip_member_diff(target, {k: files[k] for k in ZIP_MEMBERS})
+                if reason:
+                    stale.append(f"{name}（{reason}）")
             elif target.read_bytes() != payload:
                 stale.append(f"{name}（内容不一致）")
         if stale:
