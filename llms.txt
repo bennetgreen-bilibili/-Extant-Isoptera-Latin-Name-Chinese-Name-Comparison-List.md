@@ -11,7 +11,7 @@
 - [首页（简介 + 页面导航）](https://termite-extant-isoptera.org/)
 - [名录索引（分类框架说明 + 按科浏览 + 支系—科两层入口；逐条名录在科／亚科／属页面，科页与属页标题下方内嵌 GBIF 1° 网格分布图，页末附 77 条参考文献的 DOI / GB/T 7714 / APA 7 / Vancouver / BibTeX / RIS / CSL-JSON 增强视图）](https://termite-extant-isoptera.org/list/)
 - [基础知识（形态篇）：品级、头部、胸部与翅足、腹部、兵蚁、内部器官的中文名、拉丁/英文名与识别要点，末附命名、异名对照与文献出处](https://termite-extant-isoptera.org/basics/morphology/)
-- [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音；本地全文索引的查询不出浏览器，另有联网的 AI 语义搜索，查询直接发往 Cloudflare）](https://termite-extant-isoptera.org/search/)
+- [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音；本地全文索引的查询不出浏览器，另有联网的 AI 问答，问题直接发往 Cloudflare）](https://termite-extant-isoptera.org/search/)
 - [文献检索（按拉丁名 / 中文名 / 关键词查 OpenAlex + Crossref，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español（中英互译时学名与术语按本站名录/术语表校正），导出 GB/T 7714 / BibTeX / RIS）](https://termite-extant-isoptera.org/papers/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://termite-extant-isoptera.org/stats/)
 - [数据（机器可读结构化数据 JSON，按支系/科/亚科拆分，逐文件可访问）](https://termite-extant-isoptera.org/data/)
@@ -25,7 +25,7 @@
 - [Home (about + navigation)](https://termite-extant-isoptera.org/en/)
 - [List index (taxonomic framework + browse by family + clade–family entries; the per-genus checklist lives on the family / subfamily / genus pages, whose headings carry inline GBIF 1°-grid distribution maps, and the end of the page carries the enhanced 77-reference view with DOIs, GB/T 7714, APA 7, Vancouver, BibTeX, RIS and CSL-JSON)](https://termite-extant-isoptera.org/en/list/)
 - [Termite basics (morphology): castes, head, thorax with wings and legs, abdomen, soldiers and internal organs, with Chinese, Latin/English names and identification points, and a closing note on names, synonyms and sources](https://termite-extant-isoptera.org/en/basics/morphology/)
-- [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported; local queries stay in the browser, plus an optional AI semantic search whose queries go to Cloudflare)](https://termite-extant-isoptera.org/en/search/)
+- [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported; local queries stay in the browser, plus an optional online AI chat whose questions go to Cloudflare)](https://termite-extant-isoptera.org/en/search/)
 - [Literature search (OpenAlex + Crossref by Latin/Chinese name or keyword; synonyms merged; abstracts (machine-translatable into Chinese / English / Spanish; scientific names and terms aligned to this site's checklist/glossary when translating between Chinese and English); GB/T 7714 / BibTeX / RIS export)](https://termite-extant-isoptera.org/en/papers/)
 - [Statistics (species counts by family/subfamily/genus)](https://termite-extant-isoptera.org/en/stats/)
 - [Data (machine-readable structured data JSON, split by taxon)](https://termite-extant-isoptera.org/en/data/)
@@ -39,7 +39,7 @@
 - [Inicio (presentación + navegación)](https://termite-extant-isoptera.org/es/)
 - [Índice de la lista (marco taxonómico + navegación por familia + entradas clado–familia; el listado por género está en las páginas de familia / subfamilia / género, cuyos títulos llevan su mapa de distribución de GBIF en rejilla de 1°, y al final se incluye la vista enriquecida de las 77 referencias con DOI, GB/T 7714, APA 7, Vancouver, BibTeX, RIS y CSL-JSON)](https://termite-extant-isoptera.org/es/list/)
 - [Fundamentos de los termites (morfología): castas, cabeza, tórax con alas y patas, abdomen, soldados y órganos internos, con nombres chinos y latinos y puntos de identificación, y una nota final sobre nombres, sinónimos y fuentes](https://termite-extant-isoptera.org/es/basics/morphology/)
-- [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog; las consultas locales no salen del navegador y hay además una búsqueda semántica con IA opcional que las envía a Cloudflare)](https://termite-extant-isoptera.org/es/search/)
+- [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog; las consultas locales no salen del navegador y hay además un chat con IA opcional en línea que envía las preguntas a Cloudflare)](https://termite-extant-isoptera.org/es/search/)
 - [Búsqueda bibliográfica (OpenAlex + Crossref por nombre latino/chino o palabra clave; sinónimos; resúmenes (traducibles automáticamente al chino / inglés / español; al traducir entre chino e inglés, los nombres y términos se alinean con la lista/glosario del sitio); exportación GB/T 7714 / BibTeX / RIS)](https://termite-extant-isoptera.org/es/papers/)
 - [Estadísticas (número de especies por rango: familia/subfamilia/género)](https://termite-extant-isoptera.org/es/stats/)
 - [Datos (datos estructurados legibles por máquina, JSON, divididos por taxón)](https://termite-extant-isoptera.org/es/data/)
@@ -61,7 +61,7 @@
 - [文献缓存 papers-index.json（323 个属的论文元数据 + 完整摘要；/papers/ 断网兜底）](https://termite-extant-isoptera.org/papers-index.json)
 - [命名差异清单 data/name-issues.json（三类问题、外部记录链接、匹配置信度）](https://termite-extant-isoptera.org/data/name-issues.json)
 - 程序化访问与订阅（固定路径，均在站点根下）：feed.xml（Atom）、feed.json（JSON Feed）、changelog.atom（版本记录 Atom）、opensearch.xml（浏览器搜索描述文档，检索地址 /search/?q=…）、sitemap.txt（全站 URL 清单）
-- 站内任意页面可按 Ctrl/⌘+K（或点导航里的搜索按钮）打开全局搜索浮层，索引由 Pagefind 在构建时生成、查询全部在浏览器本地完成；浮层底部的「AI 搜索」与 /search/ 页顶部的入口另开 Cloudflare AI Search 的官方弹窗（语义检索，索引由其爬虫按本站 sitemap 抓取建立，查询直接发往 Cloudflare 而不是本站；脚本在访客第一次点开时才加载）。
+- 站内任意页面可按 Ctrl/⌘+K（或点导航里的搜索按钮）打开全局搜索浮层，索引由 Pagefind 在构建时生成、查询全部在浏览器本地完成；每个页面右下角还有一个浮动气泡，/search/ 页顶部的入口也指向它，那是 Cloudflare AI Search 的官方对话组件（回答依据其爬虫按本站 sitemap 抓取建立的内容，问题直接发往 Cloudflare 而不是本站，每次只发当前这一句、不携带对话历史；官方脚本在页面空闲时才加载，首屏不请求第三方资源）。
 
 ## 归档数据集（带 DOI）
 - 全部 3089 条记录已打包为可引用归档数据集（逐条 CSV / 分类树 JSON / 次异名长表 / 参考文献表 + DataCite 4.6 元数据 + CC BY 4.0 许可），见「数据」页的「归档数据集与 DOI」一节：https://termite-extant-isoptera.org/data/

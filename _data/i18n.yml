@@ -94,14 +94,12 @@ zh-CN:
   search_overlay_empty: 没有匹配的结果
   search_overlay_loading: 搜索中…
   search_overlay_close: 关闭
-  search_ai_button: AI 搜索
-  search_ai_hint: AI 语义搜索：用自然语言描述要找的内容；查询会发送到 Cloudflare（需联网）
-  search_ai_placeholder: 用自然语言描述要找的内容，如「乳白蚁属有哪些种」
-  search_ai_loading: 正在加载 AI 搜索…
-  search_ai_error: AI 搜索加载失败，请检查网络后重试；站内全文检索不受影响。
-  search_ai_heading: AI 语义搜索（联网）
-  search_ai_lead: 由 Cloudflare AI Search 提供：索引由其爬虫按本站 sitemap 抓取页面建立，按语义相关度返回页面链接，适合用自然语言描述的问题；刚发布、尚未被抓取的页面不在其中。点开后在弹窗里输入——查询内容会直接发送到 Cloudflare，不经过本站服务器。下面的站内检索完全在浏览器本地完成，更适合精确查学名、中文名与拼音。
-  search_ai_cta: 打开 AI 搜索
+  ai_chat_placeholder: 用中文提问，如「乳白蚁属有哪些种」
+  ai_chat_heading: AI 问答（联网）
+  ai_chat_lead: 右下角的浮动气泡由 Cloudflare AI Search 提供，可以像聊天一样提问，回答依据本站已被抓取的页面生成（索引由其爬虫按本站 sitemap 建立，刚发布、尚未被抓取的页面不在其中）。问题会直接发送到 Cloudflare，不经过本站服务器；本站的全文检索与名录检索仍然在浏览器内完成，更适合精确查学名、中文名与拼音。
+  ai_chat_cta: 打开 AI 对话
+  ai_chat_loading: 正在加载 AI 对话…
+  ai_chat_error: AI 对话加载失败，请检查网络后重试；站内全文检索不受影响。
   search_local_heading: 全文检索（本地索引，不上传查询）
 
   papers_heading: 文献检索
@@ -253,14 +251,12 @@ en:
   search_overlay_empty: No matching results
   search_overlay_loading: Searching…
   search_overlay_close: Close
-  search_ai_button: AI search
-  search_ai_hint: "AI semantic search: describe what you are looking for in plain language; queries are sent to Cloudflare (needs a network connection)"
-  search_ai_placeholder: "Describe what you are looking for, e.g. “which Coptotermes species are recorded here”"
-  search_ai_loading: Loading AI search…
-  search_ai_error: AI search could not be loaded. Check your connection and try again; the local full-text search still works.
-  search_ai_heading: AI semantic search (online)
-  search_ai_lead: "Provided by Cloudflare AI Search. Its crawler builds an index from this site's sitemap and returns pages ranked by semantic relevance, which suits questions written in plain language; pages published after the last crawl are not included. Opening it sends your query straight to Cloudflare — not through this site's server. The local search below runs entirely in your browser and is better for exact Latin names, Chinese names and pinyin."
-  search_ai_cta: Open AI search
+  ai_chat_placeholder: "Ask a question, e.g. “which Coptotermes species are recorded here”"
+  ai_chat_heading: AI chat (online)
+  ai_chat_lead: "The floating bubble in the bottom-right corner is powered by Cloudflare AI Search. Ask in plain language; answers are generated from the pages Cloudflare has already crawled from this site (its crawler follows this site's sitemap, so pages published after the last crawl are missing). Questions go straight to Cloudflare, not through this site's server. The full-text and checklist searches on this site still run entirely in your browser and are better for exact Latin names, Chinese names and pinyin."
+  ai_chat_cta: Open the AI chat
+  ai_chat_loading: Loading the AI chat…
+  ai_chat_error: The AI chat could not be loaded. Check your connection and try again; the local full-text search still works.
   search_local_heading: Full-text search (local index, queries never uploaded)
 
   papers_heading: Literature search
@@ -412,14 +408,12 @@ es:
   search_overlay_empty: Sin resultados
   search_overlay_loading: Buscando…
   search_overlay_close: Cerrar
-  search_ai_button: Búsqueda IA
-  search_ai_hint: "Búsqueda semántica con IA: describa lo que busca en lenguaje natural; las consultas se envían a Cloudflare (requiere conexión)"
-  search_ai_placeholder: "Describa lo que busca, p. ej. «qué especies de Coptotermes hay aquí»"
-  search_ai_loading: Cargando la búsqueda IA…
-  search_ai_error: No se pudo cargar la búsqueda IA. Compruebe la conexión e inténtelo de nuevo; la búsqueda local sigue funcionando.
-  search_ai_heading: Búsqueda semántica con IA (en línea)
-  search_ai_lead: "Ofrecida por Cloudflare AI Search. Su rastreador construye un índice a partir del sitemap de este sitio y devuelve páginas ordenadas por relevancia semántica, lo que sirve para preguntas en lenguaje natural; las páginas publicadas después del último rastreo no están incluidas. Al abrirla, la consulta se envía directamente a Cloudflare, no a través del servidor de este sitio. La búsqueda local de abajo se ejecuta por completo en su navegador y es mejor para nombres latinos, nombres chinos y pinyin exactos."
-  search_ai_cta: Abrir la búsqueda IA
+  ai_chat_placeholder: "Pregunte, p. ej. «qué especies de Coptotermes hay aquí»"
+  ai_chat_heading: Chat con IA (en línea)
+  ai_chat_lead: "El globo flotante de la esquina inferior derecha funciona con Cloudflare AI Search. Pregunte en lenguaje natural; las respuestas se generan a partir de las páginas que Cloudflare ya ha rastreado de este sitio (su rastreador sigue el sitemap, así que faltan las páginas publicadas después del último rastreo). Las preguntas se envían directamente a Cloudflare, no a través del servidor de este sitio. La búsqueda de texto completo y la del listado siguen ejecutándose por completo en su navegador y son mejores para nombres latinos, nombres chinos y pinyin exactos."
+  ai_chat_cta: Abrir el chat de IA
+  ai_chat_loading: Cargando el chat de IA…
+  ai_chat_error: No se pudo cargar el chat de IA. Compruebe la conexión e inténtelo de nuevo; la búsqueda local sigue funcionando.
   search_local_heading: Búsqueda de texto completo (índice local, sin enviar consultas)
 
   papers_heading: Búsqueda bibliográfica

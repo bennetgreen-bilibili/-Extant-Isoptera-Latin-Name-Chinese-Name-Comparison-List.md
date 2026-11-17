@@ -291,8 +291,7 @@
 
 <button class="back-top" id="back-top" aria-label="{{ T.back_top }}" title="{{ T.back_top }}" data-pagefind-ignore>↑</button>
 
-{%- comment -%} 全局搜索浮层：Ctrl/⌘+K 或点击导航里的搜索按钮；Pagefind 索引不存在时回退到 /search/；浮层底部的「AI 搜索」进入 Cloudflare AI Search 官方弹窗（assets/ai-search.js，_data/ai_search.yml 留空 api_url 即整体停用）{%- endcomment -%}
-{%- assign AIS = site.data.ai_search -%}
+{%- comment -%} 全局搜索浮层：Ctrl/⌘+K 或点击导航里的搜索按钮；Pagefind 索引不存在时回退到 /search/ {%- endcomment -%}
 <div class="search-overlay" id="search-overlay" hidden data-pagefind-ignore>
   <div class="search-overlay-backdrop" id="search-overlay-backdrop"></div>
   <div class="search-overlay-panel" role="dialog" aria-modal="true" aria-labelledby="search-overlay-title">
@@ -302,15 +301,16 @@
     </div>
     <input type="search" class="search-overlay-input" id="search-overlay-input" placeholder="{{ T.search_overlay_placeholder }}" aria-label="{{ T.search_overlay_placeholder }}" autocomplete="off" spellcheck="false">
     <ul class="search-overlay-results" id="search-overlay-results"></ul>
-    <p class="search-overlay-foot"><a id="search-overlay-all" href="{{ site.base_url }}{{ LANGP }}/search/">{{ T.search_overlay_all }} →</a>{% if AIS.api_url.size > 0 %}<button type="button" class="search-ai-btn" data-ai-search-open title="{{ T.search_ai_hint }}"><span aria-hidden="true">✦</span> {{ T.search_ai_button }}</button>{% endif %}</p>
-    {% if AIS.api_url.size > 0 %}<p class="search-ai-status" data-ai-search-status role="status" aria-live="polite" hidden></p>{% endif %}
+    <p class="search-overlay-foot"><a id="search-overlay-all" href="{{ site.base_url }}{{ LANGP }}/search/">{{ T.search_overlay_all }} →</a></p>
   </div>
 </div>
 <script src="{{ site.base_url }}/assets/search-widget.js?v={{ AV['search-widget.js'] | default: AV_FALLBACK }}" defer data-bundle="{{ site.base_url }}/pagefind/" data-base="{{ site.base_url }}" data-search-page="{{ site.base_url }}{{ LANGP }}/search/" data-text-empty="{{ T.search_overlay_empty }}" data-text-loading="{{ T.search_overlay_loading }}" data-text-all="{{ T.search_overlay_all }}" data-text-close="{{ T.search_overlay_close }}" data-text-shortcut="{{ T.search_shortcut }}"></script>
-{%- comment -%} Cloudflare AI Search（可选层）：首屏只发本站脚本，访客第一次点「AI 搜索」时才动态加载官方 search-snippet.es.js；api_url 留空则整段不输出 {%- endcomment -%}
-{% if AIS.api_url.size > 0 %}
-<script src="{{ site.base_url }}/assets/ai-search.js?v={{ AV['ai-search.js'] | default: AV_FALLBACK }}" defer data-api-url="{{ AIS.api_url }}" data-script-src="{{ AIS.script_src }}" data-max-results="{{ AIS.max_results | default: 10 }}" data-placeholder="{{ T.search_ai_placeholder | escape }}" data-loading="{{ T.search_ai_loading | escape }}" data-error="{{ T.search_ai_error | escape }}"></script>
+{%- comment -%} 站点 AI 对话（可选层）：气泡元素由 _includes/ai-chat.html 输出，官方 search-snippet.es.js 由 assets/ai-chat.js 在页面空闲时注入；_data/ai_chat.yml 的 api_url 留空则整段不输出 {%- endcomment -%}
+{% include ai-chat.html %}
+{% if site.data.ai_chat.api_url.size > 0 %}
+<script src="{{ site.base_url }}/assets/ai-chat.js?v={{ AV['ai-chat.js'] | default: AV_FALLBACK }}" defer data-api-url="{{ site.data.ai_chat.api_url }}" data-script-src="{{ site.data.ai_chat.script_src }}" data-loading="{{ T.ai_chat_loading | escape }}" data-error="{{ T.ai_chat_error | escape }}"></script>
 {% endif %}
+
 {% if page.pagefind %}
 <script src="{{ site.base_url }}/pagefind/pagefind-ui.js" defer></script>
 <script src="{{ site.base_url }}/assets/search-page.js?v={{ AV['search-page.js'] | default: AV_FALLBACK }}" defer></script>

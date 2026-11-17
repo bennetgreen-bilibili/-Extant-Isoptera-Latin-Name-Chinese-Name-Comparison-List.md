@@ -1,0 +1,12 @@
+# 站点 AI 对话（Cloudflare AI Search 的 chat-bubble-snippet Web Component）
+#
+# api_url   AI Search 实例地址；**留空即整体停用**——页面不输出气泡元素、不输出
+#           assets/ai-chat.js，也不加载任何第三方脚本。
+# script_src 官方 search-snippet.es.js 的地址；升级组件只改这一行（版本号在路径里）。
+#
+# 气泡由 assets/ai-chat.js 在页面空闲时才注入官方脚本（首屏不请求第三方），
+# 输入框占位符来自 _data/i18n.yml 的 ai_chat_placeholder，三语各自取用。
+
+api_url: "https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com"
+
+script_src: "https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/assets/v0.0.25/search-snippet.es.js"

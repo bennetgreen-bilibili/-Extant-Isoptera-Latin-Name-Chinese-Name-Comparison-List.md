@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 458,
+    "count": 459,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-17T21:09:52+08:00",
+    "updated": "2026-11-17T22:03:15+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -24997,15 +24997,81 @@
           "quote": "customElements.get(T) || customElements.define(T, W);\nexport {\n  P as AISearchClient,\n  K as ChatBubbleSnippet,\n  U as ChatPageSnippet,\n  F as SearchBarSnippet,\n  W as SearchModalSnippet,\n  F as default\n};",
           "locator": "line 3496-3504",
           "note": "注册与导出：只有 customElements 未定义时才 define，重复注入脚本不会冲突；AISearchClient 同时被导出。本站 assets/ai-search.js 用 customElements.whenDefined 等待这个注册完成。"
+        },
+        {
+          "quote": "const M = \"chat-bubble-snippet\";\nclass K extends HTMLElement {",
+          "locator": "第 1289–1290 行",
+          "note": "支撑：站内采用的浮动对话组件就是 chat-bubble-snippet 自定义元素（class K）。"
+        },
+        {
+          "quote": "static get observedAttributes() {\n    return [\"api-url\", \"placeholder\", \"theme\", \"hide-branding\"];\n  }\n  connectedCallback() {\n    this.render(), this.initializeClient(), this.dispatchEvent(g(\"ready\", void 0));\n  }",
+          "locator": "第 1306–1311 行",
+          "note": "支撑：气泡只认 api-url / placeholder / theme / hide-branding 四个属性，连接时自渲染并派发 ready。"
+        },
+        {
+          "quote": "getProps() {\n    return {\n      apiUrl: p(this.getAttribute(\"api-url\"), \"http://localhost:3000\"),\n      placeholder: p(this.getAttribute(\"placeholder\"), \"Type a message...\"),\n      theme: p(this.getAttribute(\"theme\"), \"auto\"),\n      hideBranding: m(this.getAttribute(\"hide-branding\"), !1)\n    };\n  }",
+          "locator": "第 1318–1325 行",
+          "note": "支撑：placeholder 默认 \"Type a message...\"、theme 默认 auto；本站据 placeholder 传 _data/i18n.yml 的三语问题示例。"
+        },
+        {
+          "quote": "async *chat(i, e) {\n    const t = new AbortController(), s = e?.signal || t.signal, r = await this.request(\n      {\n        query: i,\n        streaming: !1\n      },\n      \"chat/completions\",\n      s\n    );\n    if (!r.ok)\n      throw new Error(`HTTP error! status: ${r.status}`);\n    if (!r.body)\n      throw new Error(\"Response body is empty\");\n    yield {\n      type: \"text\",\n      message: (await r.json()).choices.map((c) => c.message.content).join(\"\")\n    };\n  }",
+          "locator": "第 193–210 行",
+          "note": "支撑：对话请求走 /chat/completions，只发当前这一句（query: i、streaming: !1），取 choices[].message.content 拼接为回答；返回的 chunks（来源页）不展示。"
+        },
+        {
+          "quote": "const t = E(\"msg\"), s = {\n      id: t,\n      role: \"assistant\",\n      content: \"\",\n      timestamp: Date.now()\n    };\n    this.addMessage(s), this.currentStreamingMessageId = t, this.renderMessages(!0);\n    try {\n      const r = this.client.chat(i);\n      let n = \"\";\n      for await (const l of r)\n        if (l.type === \"text\" && l.message)\n          n += l.message, this.updateStreamingMessage(t, n);",
+          "locator": "第 1146–1158 行",
+          "note": "支撑：sendMessage 每次都把当前输入字符串交给 client.chat(i)，不带任何会话历史，因此追问不会延续上下文。"
+        },
+        {
+          "quote": "toggleChat() {\n    this.isExpanded = !this.isExpanded;\n    const e = this.shadow.querySelector(\".bubble-button\"), t = this.shadow.querySelector(\".chat-window\");\n    this.isExpanded ? (e?.classList.add(\"hidden\"), t?.classList.add(\"expanded\"), this.initializeChatView()) : (e?.classList.remove(\"hidden\"), t?.classList.remove(\"expanded\"));\n  }",
+          "locator": "第 1533–1537 行",
+          "note": "支撑：assets/ai-chat.js 用 toggleChat() 打开气泡，isExpanded 反映展开状态。"
+        },
+        {
+          "quote": "updateTheme(e) {\n    (e === \"light\" || e === \"dark\" ? e : null) === null && this.hasAttribute(\"theme\") && this.getAttribute(\"theme\") !== \"auto\" && this.removeAttribute(\"theme\");\n  }",
+          "locator": "第 1555–1557 行",
+          "note": "支撑：theme 只接受 light / dark，其它值会被移除属性（= auto），所以站点浅色给 light、深色留 auto。"
+        },
+        {
+          "quote": "customElements.get(M) || customElements.define(M, K);",
+          "locator": "第 1572 行",
+          "note": "支撑：组件以 customElements.define 注册，assets/ai-chat.js 的 customElements.whenDefined(\"chat-bubble-snippet\") 因此可用。"
+        },
+        {
+          "quote": "--chat-bubble-button-size: 60px;\n  --chat-bubble-button-radius: 50%;\n  --chat-bubble-button-icon-size: 28px;\n  --chat-bubble-button-icon-color: white;\n  --chat-bubble-button-bottom: 20px;\n  --chat-bubble-button-right: 20px;\n  --chat-bubble-button-z-index: 9999;\n  --chat-bubble-position: fixed;",
+          "locator": "第 669–676 行",
+          "note": "支撑：气泡默认 60px、右下 20px、z-index 9999（高于本站搜索浮层的 1000），故 assets/custom.css 把 --chat-bubble-button-z-index 压到 900。"
+        },
+        {
+          "quote": ":host(:not([theme=\"dark\"])) {\n  /* Colors - Light Mode */\n  --search-snippet-primary-color: #2563eb;\n  --search-snippet-primary-hover: #0f51dfff;\n  --search-snippet-background: #ffffff;\n  --search-snippet-surface: #f8f9fa;\n  --search-snippet-text-color: #212529;\n  --search-snippet-text-secondary: #6c757d;\n  --search-snippet-text-description: #495057;\n  --search-snippet-border-color: #dee2e6;\n  --search-snippet-hover-background: #f1f3f5;\n  --search-snippet-focus-ring: #0066cc40;\n  --search-snippet-error-color: #dc3545;\n  --search-snippet-error-background: #f8d7da;\n  --search-snippet-success-color: #28a745;\n  --search-snippet-success-background: #d4edda;\n  --search-snippet-warning-color: #ffc107;\n  --search-snippet-warning-background: #fff3cd;\n  \n  /* Message Colors */\n  --search-snippet-user-message-bg: #0066cc;\n  --search-snippet-user-message-text: #ffffff;\n  --search-snippet-assistant-message-bg: #f1f3f5;\n  --search-snippet-assistant-message-text: #212529;\n  --search-snippet-system-message-bg: #fff3cd;\n  --search-snippet-system-message-text: #856404;\n}",
+          "locator": "第 681–707 行",
+          "note": "支撑：浅色变量定义在 :host(:not([theme=\"dark\"]))，本站用 --search-snippet-* 覆盖成站点配色（用户消息底色由 #0066cc 改为 --accent 系）。"
+        },
+        {
+          "quote": "/* Dark Mode */\n@media (prefers-color-scheme: dark) {\n  :host(:not([theme=\"light\"])) {\n    --search-snippet-primary-color: #2563eb;",
+          "locator": "第 709–712 行",
+          "note": "支撑：深色变量只写在 @media (prefers-color-scheme: dark) 内，theme=\"dark\" 不能在浅色系统上强制深色。"
+        },
+        {
+          "quote": "const L = \"chat-page-snippet\", I = \"chat-page-sessions\";\nclass U extends HTMLElement {",
+          "locator": "第 1573–1574 行",
+          "note": "支撑：另一个整页组件 chat-page-snippet 及其本地会话键 chat-page-sessions；本轮未采用整页组件。"
+        },
+        {
+          "quote": ":host {\n        display: block;\n        width: 100%;\n        height: 100vh;\n      }",
+          "locator": "第 1632–1636 行",
+          "note": "支撑：整页组件 :host 为 100vh 全窗口应用，与 Jekyll 页面骨架冲突，故只上浮气泡、不加 /chat/ 页。"
         }
       ],
       "used_in": [
-        "_data/ai_search.yml",
-        "_includes/ai-search-block.html",
+        "README.md",
+        "_data/ai_chat.yml",
+        "_includes/ai-chat-block.html",
+        "_includes/ai-chat.html",
         "_layouts/default.html",
-        "assets/ai-search.js",
+        "assets/ai-chat.js",
         "assets/custom.css",
-        "assets/search-widget.js",
         "dataset/CHANGELOG.md",
         "en/search.md",
         "es/search.md",
@@ -25013,7 +25079,7 @@
         "search.md"
       ],
       "notes": "该文件是 Cloudflare AI Search 官方 search-snippet 的 ESM 包（v0.0.25），由 _data/ai_search.yml 的 script_src 引用；本地副本在 _tmp/search-snippet.es.js（未提交）。界面文案（\"Start typing to search\"、\"No results found\"、Esc/Close 等）在 shadow DOM 内且仅英文，浏览器语言无法替换；主色 #2563eb 与 z-index 1050 定义在 :host 变量里，浅色 DOM 覆盖需 !important，故本站未改其配色。",
-      "accessed": "2026-11-17T21:09:52+08:00",
+      "accessed": "2026-11-17T22:03:09+08:00",
       "canonical_key": "url:https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/assets/v0.0.25/search-snippet.es.js",
       "id": "S0458"
     },
@@ -25039,13 +25105,43 @@
         }
       ],
       "used_in": [
-        "_data/ai_search.yml",
         "dataset/CHANGELOG.md"
       ],
       "notes": "这是运行时检索端点的实测响应，不是抓取到的网页；用于确认 Cloudflare 侧索引可用（无需 Cloudflare API token，本机也没有该 token，WAF/爬虫状态只能靠这个端点间接验证）。响应里的 title/description 原样来自站点页面元数据，未被本站任何数据文件采用。",
       "accessed": "2026-11-17T21:09:52+08:00",
       "canonical_key": "url:https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/search",
       "id": "S0459"
+    },
+    {
+      "title": "Cloudflare AI Search POST /chat/completions 响应（问：乳白蚁属在中国有哪些种）",
+      "source_type": "dataset",
+      "reliability": "official",
+      "url": "https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/chat/completions",
+      "publisher": "Cloudflare",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "node fetch POST /chat/completions（请求体与官方 chat-bubble-snippet 相同：messages 只有一条 user 消息、stream=false；响应 20804 字节，存 _tmp/ai-chat-probe-out.json）",
+      "evidence": [
+        {
+          "quote": "{\"id\":\"id-1794923933858\",\"object\":\"chat.completion\",\"created\":1794923933,\"model\":\"@cf/meta/llama-3.3-70b-instruct-fp8-fast\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"根据提供的文档，乳白蚁属（Coptotermes）在中国有以下几种：\\n- _Coptotermes shanghaiensis_ 上海乳白蚁\\n- _Coptotermes chaoxianensis_ 巢县乳白蚁\\n- _Coptotermes lacteus_ 乳色乳白蚁\\n- _Coptotermes dimorphus_ 二型乳白蚁\\n\\n然而，文档中提到该属下有58种，但并未列出所有种类。因此，以上列表可能并不完整。\",\"refusal\":null,\"annotations\":null,\"audio\":null,\"function_call\":null,\"reasoning\":null},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null,\"token_ids\":null,\"routed_experts\":null}],\"usage\":{\"",
+          "locator": "响应体开头 600 字符",
+          "note": "支撑：对话端点 200、模型为 @cf/meta/llama-3.3-70b-instruct-fp8-fast、usage.prompt_tokens 4304，回答基于站点已索引页面。"
+        },
+        {
+          "quote": "23933,\"model\":\"@cf/meta/llama-3.3-70b-instruct-fp8-fast\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"根据提供的文档，乳白蚁属（Coptotermes）在中国有以下几种：\\n- _Coptotermes shanghaiensis_ 上海乳白蚁\\n- _Coptotermes chaoxianensis_ 巢县乳白蚁\\n- _Coptotermes lacteus_ 乳色乳白蚁\\n- _Coptotermes dimorphus_ 二型乳白蚁\\n\\n然而，文档中提到该属下有58种，但并未列出所有种类。因此，以上列表可能并不完整。\",\"refusal\":null,\"annotations\":null,\"audio\":null,\"function_call\":null,\"reasoning\":null},\"logprobs\":null,\"finish_reason\":\"stop\",\"stop_reason\":null,\"token_ids\":null,\"routed_experts\":null}],\"usage\":{\"prompt_tokens\":4304,\"completion_tokens\":130,\"total_tokens\":4434,\"pr",
+          "locator": "choices[0].message.content",
+          "note": "支撑：中文提问得到中文回答并列出学名与中文名；chunks 携带站点页面，但组件不展示来源，README 据此写明「回答不给引用链接」。"
+        }
+      ],
+      "used_in": [
+        "README.md",
+        "_data/ai_chat.yml",
+        "dataset/CHANGELOG.md"
+      ],
+      "notes": "运行时端点实测响应，不是抓取到的页面；用于确认对话层可用、回答语言与单轮语义。另做一次追问（_tmp/ai-chat-probe-out2.json，25128 字节）返回了无关属名，说明每次请求不带历史。本机没有 Cloudflare API token，WAF / 爬虫状态只能靠端点间接验证；付费墙与授权不涉及此记录。",
+      "accessed": "2026-11-17T22:03:09+08:00",
+      "canonical_key": "url:https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/chat/completions",
+      "id": "S0460"
     }
   ]
 }

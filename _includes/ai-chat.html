@@ -1,0 +1,16 @@
+{%- comment -%}
+  AI 对话气泡（Cloudflare AI Search 的 chat-bubble-snippet）。
+  元素在这里先占位，官方 search-snippet.es.js 由 assets/ai-chat.js 在页面空闲时注入并升级；
+  _data/ai_chat.yml 的 api_url 留空则整段不输出。
+  组件的界面文字在 shadow DOM 内、只有英文，站点只负责占位符与入口文案（见 _data/i18n.yml）。
+{%- endcomment -%}
+{%- assign AIS = site.data.ai_chat -%}
+{%- assign AIT = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- if AIS.api_url.size > 0 -%}
+<chat-bubble-snippet
+  api-url="{{ AIS.api_url }}"
+  theme="auto"
+  placeholder="{{ AIT.ai_chat_placeholder | escape }}"
+  data-pagefind-ignore
+></chat-bubble-snippet>
+{%- endif -%}

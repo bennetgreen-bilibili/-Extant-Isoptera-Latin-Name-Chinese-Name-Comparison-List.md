@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Búsqueda en todo el sitio
-description: "Búsqueda de texto completo en el listado, las 3089 páginas de especies, estadísticas, datos y blog: chino (también tradicional), nombres latinos y pinyin. Las consultas locales no salen del navegador; la búsqueda semántica con IA, opcional, las envía a Cloudflare."
+description: "Búsqueda de texto completo en el listado, las 3089 páginas de especies, estadísticas, datos y blog: chino (también tradicional), nombres latinos y pinyin. Las consultas locales no salen del navegador; el chat con IA, opcional, envía las preguntas a Cloudflare."
 lang: es
 author: 班奈特格林
 date: 2026-10-17
 version: 2026.10.30
-keywords: [termitas, Isoptera, búsqueda, texto completo, Pagefind, búsqueda IA, Cloudflare]
+keywords: [termitas, Isoptera, búsqueda, texto completo, Pagefind, chat con IA, Cloudflare]
 permalink: /es/search/
 noindex: true
 sitemap: false
@@ -15,7 +15,7 @@ pagefind: true
 
 # Búsqueda en todo el sitio
 
-{% include ai-search-block.html %}
+{% include ai-chat-block.html %}
 
 <p>Para buscar un <strong>taxón</strong> (familia / subfamilia / género / especie / subespecie), el <a href="{{ site.base_url }}/es/list/">buscador del índice</a> es más rápido y lleva directamente a la página correspondiente; la búsqueda de abajo cubre el texto de todo el sitio.</p>
 

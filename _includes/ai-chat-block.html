@@ -1,0 +1,15 @@
+{%- comment -%}
+  /search/ 页顶部的 AI 对话入口。气泡本身由 _layouts/default.html 里的 _includes/ai-chat.html 输出
+  （全站常驻），这里只放标题、说明与一个按钮，按钮的 data-ai-chat-open 由 assets/ai-chat.js 接管。
+  _data/ai_chat.yml 的 api_url 留空则整段不输出。
+{%- endcomment -%}
+{%- assign AIS = site.data.ai_chat -%}
+{%- assign AIT = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- if AIS.api_url.size > 0 -%}
+<section class="ai-chat-block" aria-labelledby="ai-chat-heading" data-pagefind-ignore>
+  <h2 class="ai-chat-heading" id="ai-chat-heading">{{ AIT.ai_chat_heading }}</h2>
+  <p class="ai-chat-lead">{{ AIT.ai_chat_lead }}</p>
+  <p class="ai-chat-actions"><button type="button" class="ai-chat-cta" data-ai-chat-open><span aria-hidden="true">✦</span> {{ AIT.ai_chat_cta }}</button></p>
+  <p class="ai-chat-status" data-ai-chat-status role="status" aria-live="polite" hidden></p>
+</section>
+{%- endif -%}

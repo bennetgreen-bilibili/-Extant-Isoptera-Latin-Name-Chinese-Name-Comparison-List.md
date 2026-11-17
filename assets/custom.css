@@ -426,30 +426,54 @@ body.search-overlay-open{overflow:hidden}
 .search-overlay-results .so-excerpt{display:block;font-size:.84em;color:var(--muted);line-height:1.55;margin-top:2px}
 .search-overlay-results .so-excerpt mark{background:var(--accent-soft);color:var(--ink);padding:0 1px;border-radius:2px}
 .search-overlay-results .so-state{padding:10px;color:var(--muted);font-size:.9em}
-.search-overlay-foot{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-end;gap:6px 14px;margin:10px 0 0;font-size:.85em}
+.search-overlay-foot{margin:10px 0 0;font-size:.85em}
 .search-overlay-foot a{color:var(--accent-strong)}
-.search-ai-btn{display:inline-flex;align-items:center;gap:5px;font:inherit;font-size:1em;padding:3px 10px;border-radius:999px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-strong);cursor:pointer;white-space:nowrap}
-.search-ai-btn:hover{background:var(--accent-softer)}
-.search-ai-btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
-.search-ai-btn[aria-busy="true"]{opacity:.6;cursor:progress}
-.search-ai-status{margin:6px 0 0;font-size:.82em;color:var(--accent-strong);line-height:1.55}
 @media (max-width:640px){.search-overlay{padding:6vh 10px 10px}.search-overlay-panel{padding:13px}}
-@media print{.search-overlay,.search-ai-btn,.search-ai-status{display:none!important}}
+@media print{.search-overlay{display:none!important}}
 
-/* ===== AI 搜索（Cloudflare AI Search）：/search/ 页入口块 + 浮层按钮的说明与状态 =====
-   官方弹窗自带 shadow DOM 与深色/浅色变量，这里只管本站页面上的入口与状态行；
-   弹窗实例由 assets/ai-search.js 按需创建，_data/ai_search.yml 留空 api_url 时整块不渲染。 */
-.ai-search-block{margin:1.2em 0 2em;padding:16px 18px;background:var(--card);border:1px solid var(--accent-soft);border-left:4px solid var(--accent);border-radius:var(--radius);box-shadow:var(--shadow-sm)}
-.ai-search-heading{margin:0 0 .45em;font-size:1.02em;letter-spacing:.01em}
-.ai-search-lead{margin:0 0 .85em;font-size:.88em;line-height:1.7;color:var(--muted);max-width:860px}
-.ai-search-actions{margin:0}
-.ai-search-cta{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:.95em;font-weight:600;padding:8px 16px;border-radius:999px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-strong);cursor:pointer}
-.ai-search-cta:hover{background:var(--accent-softer)}
-.ai-search-cta:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.ai-search-cta[aria-busy="true"]{opacity:.6;cursor:progress}
-.ai-search-status{margin:.6em 0 0;font-size:.84em;color:var(--accent-strong);line-height:1.55}
-@media (max-width:640px){.ai-search-block{padding:13px 14px}.ai-search-lead{font-size:.85em}}
-@media print{.ai-search-block{display:none!important}}
+/* ===== AI 对话（Cloudflare AI Search 的 chat-bubble-snippet）：/search/ 页入口块 =====
+   气泡本体在 shadow DOM 里，界面文字只有英文；下面只管本站页面上的入口块与状态行，
+   并按本站主题变量重设气泡配色（见文件末尾的 chat-bubble-snippet 变量覆盖）。
+   _data/ai_chat.yml 留空 api_url 时，模板与样式都不生效。 */
+.ai-chat-block{margin:1.2em 0 2em;padding:16px 18px;background:var(--card);border:1px solid var(--accent-soft);border-left:4px solid var(--accent);border-radius:var(--radius);box-shadow:var(--shadow-sm)}
+.ai-chat-heading{margin:0 0 .45em;font-size:1.02em;letter-spacing:.01em}
+.ai-chat-lead{margin:0 0 .85em;font-size:.88em;line-height:1.7;color:var(--muted);max-width:860px}
+.ai-chat-actions{margin:0}
+.ai-chat-cta{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:.95em;font-weight:600;padding:8px 16px;border-radius:999px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-strong);cursor:pointer}
+.ai-chat-cta:hover{background:var(--accent-softer)}
+.ai-chat-cta:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.ai-chat-cta[aria-busy="true"]{opacity:.6;cursor:progress}
+.ai-chat-status{margin:.6em 0 0;font-size:.84em;color:var(--accent-strong);line-height:1.55}
+@media (max-width:640px){.ai-chat-block{padding:13px 14px}.ai-chat-lead{font-size:.85em}}
+@media print{.ai-chat-block{display:none!important}}
+
+/* ===== chat-bubble-snippet 配色与层级 =====
+   组件在 :host 与 :host(:not([theme="dark"])) 里定义 --search-snippet-*，外部覆盖必须 !important；
+   值引用本站 :root 变量，浅色/深色各取各的。层级压到 900，低于全局搜索浮层（1000）。 */
+chat-bubble-snippet[api-url]{
+  --chat-bubble-button-z-index:900;
+  /* 默认 20px 右下角会压住「回到顶部」按钮（.back-top：right 22px / bottom 24px / 44px 高），
+     抬高到 76px 让两者上下错开。 */
+  --chat-bubble-button-bottom:76px;
+  --search-snippet-background:var(--card)!important;
+  --search-snippet-surface:var(--paper)!important;
+  --search-snippet-focus-ring:color-mix(in srgb, var(--accent) 45%, transparent)!important;
+  --search-snippet-text-color:var(--ink)!important;
+  --search-snippet-text-secondary:var(--muted)!important;
+  --search-snippet-text-description:var(--muted)!important;
+  --search-snippet-border-color:var(--line)!important;
+  --search-snippet-hover-background:var(--line-soft)!important;
+  /* 主按钮（气泡按钮、发送按钮）在组件里固定用白字（.button{color:#fff}），
+     所以主色不能跟着夜间主题变浅（#62b78a 上白字对比度只有 ~1.7:1）；
+     这里固定用站点的深绿，浅色主题下与 --accent 同值，夜间仍然可读。 */
+  --search-snippet-primary-color:#2f6b4f!important;
+  --search-snippet-primary-hover:#265c44!important;
+  --search-snippet-user-message-bg:#2f6b4f!important;
+  --search-snippet-user-message-text:#fff!important;
+  --search-snippet-assistant-message-bg:var(--line-soft)!important;
+  --search-snippet-assistant-message-text:var(--ink)!important;
+}
+@media print{chat-bubble-snippet{display:none!important}}
 
 /* ===== 版本记录 /changelog/ 与文章标题备行 ===== */
 .page-title-alt{display:block;font-size:.52em;font-weight:400;color:var(--muted);margin-top:.3em}

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Full-site search
-description: "Full-text search across the checklist, 3089 species pages, statistics, data and blog: Chinese (traditional too), Latin names and pinyin. Local queries stay in the browser; the optional AI semantic search sends queries to Cloudflare."
+description: "Full-text search across the checklist, 3089 species pages, statistics, data and blog: Chinese (traditional too), Latin names and pinyin. Local queries stay in the browser; the optional AI chat sends questions to Cloudflare."
 lang: en
 author: 班奈特格林
 date: 2026-10-17
 version: 2026.10.30
-keywords: [termites, Isoptera, search, full-text, Pagefind, AI search, Cloudflare]
+keywords: [termites, Isoptera, search, full-text, Pagefind, AI chat, Cloudflare]
 permalink: /en/search/
 noindex: true
 sitemap: false
@@ -15,7 +15,7 @@ pagefind: true
 
 # Full-site search
 
-{% include ai-search-block.html %}
+{% include ai-chat-block.html %}
 
 <p>To look up a <strong>taxon</strong> (family / subfamily / genus / species / subspecies), the <a href="{{ site.base_url }}/en/list/">index search box</a> is faster and jumps straight to the matching family / subfamily / genus / species page; the search below covers the whole site's text.</p>
 
