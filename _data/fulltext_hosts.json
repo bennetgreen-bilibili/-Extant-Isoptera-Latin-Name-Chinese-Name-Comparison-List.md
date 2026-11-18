@@ -22,9 +22,10 @@
     "blocked_until": 1805175838.1562629
   },
   "www.biodiversitylibrary.org": {
-    "fails": 2,
-    "last": 1794807984.8457158,
-    "last_reason": "HTTP 403"
+    "fails": 3,
+    "last": 1795017487.6657317,
+    "last_reason": "HTTP 403",
+    "blocked_until": 1805385487.6657333
   },
   "www.sciencedirect.com": {
     "fails": 3,
@@ -47,6 +48,17 @@
   "www.tandfonline.com": {
     "fails": 1,
     "last": 1794807985.5717444,
+    "last_reason": "HTTP 403"
+  },
+  "zenodo.org": {
+    "fails": 0,
+    "blocked_until": 0,
+    "last": 1795016662.398041,
+    "last_reason": "ok"
+  },
+  "core.ac.uk": {
+    "fails": 1,
+    "last": 1795016094.9339578,
     "last_reason": "HTTP 403"
   }
 }

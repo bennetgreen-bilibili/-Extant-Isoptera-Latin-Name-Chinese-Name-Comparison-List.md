@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 459,
+    "count": 465,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-18T21:47:24+08:00",
+    "updated": "2026-11-18T23:44:26+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -1180,7 +1180,7 @@
       "publisher": "Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18",
       "reliability": "peer_reviewed",
       "lang": "en",
-      "accessed": "2026-11-18T21:47:24+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "evidence": [
         {
           "quote": "When molested by predators such as ants, or when grasped by forceps and placed in alcohol, the abdominal muscles contract convulsively and the abdomen ruptures across a line of weakness behind the first tergite. The intestines erupt through the gap and themselves tend to burst, scattering their slimy contents.",
@@ -1515,6 +1515,7 @@
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_data/morphology_species.json",
         "_data/taxon_literature.json",
         "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/06-sands-emerson.json",
@@ -3553,7 +3554,7 @@
       "file_path": "_unpublished/文库/emerson-1959-african-genera",
       "chars": 96320,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-15T03:23:49+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/emerson-1959-african-genera（96320 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；AMNH Novitates；OCR 文本。",
       "library": {
         "book": "emerson-1959-african-genera",
@@ -3581,6 +3582,7 @@
       "license": "unknown",
       "used_in": [
         "_data/morphology_genera.json",
+        "_data/morphology_species.json",
         "_data/taxon_literature.json"
       ],
       "evidence": [
@@ -6066,7 +6068,7 @@
       "file_path": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
       "chars": 583391,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-18T21:47:07+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)（583391 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
@@ -6113,6 +6115,7 @@
       "doi": "10.5962/p.192782",
       "used_in": [
         "_data/etymology.json",
+        "_data/morphology_species.json",
         "_reports/species-morphology-coverage.md"
       ],
       "evidence": [
@@ -6152,7 +6155,7 @@
       "file_path": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon",
       "chars": 391457,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-18T21:47:07+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。；archive.org 全文镜像：https://archive.org/details/bulletin-american-museum-natural-history-57-401-574",
       "library": {
         "book": "Termites-of-the-Belgian-Congo-and-the-Cameroon",
@@ -6190,6 +6193,7 @@
       "used_in": [
         "_data/etymology.json",
         "_data/morphology_genera.json",
+        "_data/morphology_species.json",
         "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/08-african.json",
         "_tools/fauna/morphology/descriptions/19-emerson1928-subgenera.json",
@@ -7818,7 +7822,7 @@
       "file_path": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
       "chars": 1491143,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-18T21:47:07+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa（1491143 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan; archive.org record year 1989 is wrong, title page cites April 1997.。",
       "library": {
         "book": "The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
@@ -7915,6 +7919,7 @@
       "lang": "en",
       "url": "https://archive.org/details/dli.zoological.fi.027",
       "used_in": [
+        "_data/morphology_species.json",
         "_data/taxon_literature.json",
         "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/10-zsi-books.json"
@@ -8105,7 +8110,7 @@
       "file_path": "_unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-",
       "chars": 32783,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T02:20:04+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-（32783 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-",
@@ -8131,6 +8136,7 @@
       "lang": "en",
       "doi": "10.3897/zookeys.617.10040",
       "used_in": [
+        "_data/morphology_species.json",
         "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/11-revisions.json"
       ],
@@ -8476,7 +8482,7 @@
       "file_path": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)",
       "chars": 1311241,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-18T21:47:07+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)（1311241 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；全卷扫描件的 archive.org OCR 文本（含 Mjoberg, E. 1920. Results of Dr. E. Mjobergs Swedish Scientific Expeditions to Australia 1910-1913. 19. Isoptera. Arkiv for Zoologi 12 (15): 1-128 + 6 pls.）。Ahamitermes 属级描述见 p. 89。OCR 有噪声（ae/oe 变音丢失、断行）。",
       "library": {
         "book": "Arkiv-for-zoologi.-Band-12-(1920)",
@@ -8559,6 +8565,7 @@
       "lang": "sv",
       "url": "https://archive.org/details/arkivfrzoologi12kung",
       "used_in": [
+        "_data/morphology_species.json",
         "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/14-hill1942.json"
       ],
@@ -8657,7 +8664,7 @@
       "file_path": "_unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
       "chars": 33450,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T02:20:04+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina（33450 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
@@ -8685,6 +8692,7 @@
       "lang": "en",
       "url": "https://digitallibrary.amnh.org/handle/2246/5290",
       "used_in": [
+        "_data/morphology_species.json",
         "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/18-labritermes1982.json"
       ],
@@ -8900,7 +8908,7 @@
       "file_path": "_unpublished/文库/Monographie-der-Termiten-Afrikas",
       "chars": 672490,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-18T21:47:07+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/Monographie-der-Termiten-Afrikas（672490 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；德文 Fraktur 老刊；archive.org 数字化本自带 OCR（djvu.txt），转写有 Fraktur 认读噪声（如 Hagen→Hägen/Hagks、Calotermes→CnUermes 等），引用须对照原书页影核实。Hodotermes 属级描述在 pp. 22–23（1900 年其为广义属，含今 Stolotermes/Porotermes 亚属）。",
       "library": {
         "book": "Monographie-der-Termiten-Afrikas",
@@ -8957,6 +8965,7 @@
       "lang": "de",
       "url": "https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
       "used_in": [
+        "_data/morphology_species.json",
         "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/22-sjostedt1900.json"
       ],
@@ -15468,7 +15477,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.596.9080",
       "chars": 31879,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:09:44+08:00",
+      "accessed": "2026-11-18T23:25:10+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.596.9080（31879 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.3897-zookeys.596.9080",
@@ -15498,8 +15507,16 @@
       "license": "cc-by",
       "doi": "10.3897/zookeys.596.9080",
       "url": "https://doi.org/10.3897/zookeys.596.9080",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Soldier. (Fig. 1C–F). Head in dorsal view with frontal flange and front horns very dark; 3/4 of anterior vertex almost black chestnut, grading to chestnut brown; posterior it turns ferruginous orange to pale yellow (Figure 1C).",
+          "locator": "soldier description, p. 2 (ZooKeys 596)",
+          "note": "支撑 /species/cryptotermes-colombianus/ 兵蚁头色描述"
+        }
+      ],
       "id": "S0251"
     },
     {
@@ -20508,7 +20525,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.623.9677",
       "chars": 36068,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-17T21:05:44+08:00",
+      "accessed": "2026-11-18T23:18:31+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.623.9677（36068 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.3897-zookeys.623.9677",
@@ -20539,6 +20556,7 @@
       "doi": "10.3897/zookeys.623.9677",
       "url": "https://zookeys.pensoft.net/article/9677/download/pdf/",
       "used_in": [
+        "_data/morphology_species.json",
         "_data/taxon_literature.json"
       ],
       "evidence": [
@@ -22178,24 +22196,24 @@
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1206/633.1",
       "file_path": "_unpublished/文库/10.1206-633.1",
-      "chars": 1404,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:42:09+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1206-633.1（1404 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1403 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "chars": 128058,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:34:26+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1206-633.1（48 页，128058 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1206-633.1",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:42:09",
+        "generated": "2026-11-18T23:34:26",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1206-633.1/full.txt",
-            "chars": 1404,
-            "paragraphs": 1,
+            "chunk": "0001-0048",
+            "txt": "_unpublished/文库/10.1206-633.1/0001-0048.txt",
+            "chars": 128058,
+            "paragraphs": 1710,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1206_633.1-abstract.txt",
-            "sha256": "e1c6170224126c93715776e3a2416cf24a5983ff8d30e010d0ce4a335678c2a2",
-            "bytes": 1410
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-zenodo\\fulltext.pdf",
+            "sha256": "a972d7313b3b777bb65e2ab94756cce9069f546010c30e07c9706b6581cf01fe",
+            "bytes": 128556
           }
         ]
       },
@@ -22207,10 +22225,11 @@
       "publisher": "American Museum Novitates",
       "lang": "en",
       "doi": "10.1206/633.1",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
-      "id": "S0382"
+      "id": "S0382",
+      "url": "https://bioone.org/journals/american-museum-novitates/volume-2009/issue-3640/633.1/Diverse-Rhinotermitidae-and-Termitidae-Isoptera-in-Dominican-Amber/10.1206/633.1.pdf",
+      "license": "cc-by-nc-sa"
     },
     {
       "title": "Caste morphology and development intermitogetonnr.planus(insecta, isoptera, rhinotermitidae)",
@@ -22710,24 +22729,24 @@
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1155/1966/59080",
       "file_path": "_unpublished/文库/10.1155-1966-59080",
-      "chars": 521,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:48:19+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1155-1966-59080（521 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（520 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "chars": 51127,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:40:34+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1966-59080（20 页，51127 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（html-meta PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1155-1966-59080",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:48:19",
+        "generated": "2026-11-18T23:40:34",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1155-1966-59080/full.txt",
-            "chars": 521,
-            "paragraphs": 1,
+            "chunk": "0001-0020",
+            "txt": "_unpublished/文库/10.1155-1966-59080/0001-0020.txt",
+            "chars": 51127,
+            "paragraphs": 788,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1155_1966_59080-abstract.txt",
-            "sha256": "96160d14753edba47e4e0ea85a080af89b55769716686eaa632c0a721de61082",
-            "bytes": 521
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-zenodo\\fulltext.pdf",
+            "sha256": "1c3b107fbd6b61c38de3fa9bb6b94d22e4dd2efba2294e2ebebb2a13987b23c3",
+            "bytes": 51368
           }
         ]
       },
@@ -22738,10 +22757,11 @@
       "publisher": "Psyche A Journal of Entomology",
       "lang": "en",
       "doi": "10.1155/1966/59080",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
-      "id": "S0395"
+      "id": "S0395",
+      "url": "https://downloads.hindawi.com/journals/psyche/1966/059080.pdf",
+      "license": "public-domain"
     },
     {
       "title": "Evaluation of chemical control measures for termites in maize",
@@ -22907,24 +22927,24 @@
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1155/1966/20139",
       "file_path": "_unpublished/文库/10.1155-1966-20139",
-      "chars": 1180,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:49:08+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1155-1966-20139（1180 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1179 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "chars": 41328,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:41:14+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1966-20139（16 页，41328 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1155-1966-20139",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:49:08",
+        "generated": "2026-11-18T23:41:14",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1155-1966-20139/full.txt",
-            "chars": 1180,
-            "paragraphs": 1,
+            "chunk": "0001-0016",
+            "txt": "_unpublished/文库/10.1155-1966-20139/0001-0016.txt",
+            "chars": 41328,
+            "paragraphs": 538,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1155_1966_20139-abstract.txt",
-            "sha256": "bc0c487bb73390a02a4e3a484a7df09c266e4783045a3aeb6602aec593d8cdda",
-            "bytes": 1180
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-zenodo\\fulltext.pdf",
+            "sha256": "114fe8f92f11edce107efe3b4f202db2312ee3f53329ec6927db69c2381995b3",
+            "bytes": 41451
           }
         ]
       },
@@ -22935,10 +22955,11 @@
       "publisher": "Psyche A Journal of Entomology",
       "lang": "ceb",
       "doi": "10.1155/1966/20139",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
-      "id": "S0400"
+      "id": "S0400",
+      "url": "https://downloads.hindawi.com/journals/psyche/1966/020139.pdf",
+      "license": "public-domain"
     },
     {
       "title": "Bacteriome-associatedWolbachiaof the parthenogenetic termiteCavitermes tuberosus",
@@ -23445,24 +23466,24 @@
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1653/024.102.0123",
       "file_path": "_unpublished/文库/10.1653-024.102.0123",
-      "chars": 740,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:52:33+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1653-024.102.0123（740 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（739 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "chars": 29118,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:42:23+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1653-024.102.0123（7 页，29118 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1653-024.102.0123",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:52:33",
+        "generated": "2026-11-18T23:42:23",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1653-024.102.0123/full.txt",
-            "chars": 740,
-            "paragraphs": 1,
+            "chunk": "0001-0007",
+            "txt": "_unpublished/文库/10.1653-024.102.0123/0001-0007.txt",
+            "chars": 29118,
+            "paragraphs": 303,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1653_024.102.0123-abstract.txt",
-            "sha256": "5eb49092bab2a97afee011107332e5b7023a946db5b40b9d2d19dca498bfc119",
-            "bytes": 747
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-zenodo\\fulltext.pdf",
+            "sha256": "261180538666f0675e6944b9ffd79ade4a85ab8e84438e498e3e06a7f51590f7",
+            "bytes": 29315
           }
         ]
       },
@@ -23475,10 +23496,11 @@
       "publisher": "Florida Entomologist",
       "lang": "en",
       "doi": "10.1653/024.102.0123",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
-      "id": "S0413"
+      "id": "S0413",
+      "url": "https://bioone.org/journals/Florida-Entomologist/volume-102/issue-1/024.102.0123/Aparatermes-thornatus-Isoptera--Termitidae--Apicotermitinae-a-New-Species/10.1653/024.102.0123.pdf",
+      "license": "cc-by"
     },
     {
       "title": "Termite (Insecta, Isoptera) fauna from natural parks of the northeast region of Argentina",
@@ -25542,6 +25564,257 @@
       "accessed": "2026-11-17T22:03:09+08:00",
       "canonical_key": "url:https://2804ca2a-1c83-41f9-9206-fc8b948772f6.search.ai.cloudflare.com/chat/completions",
       "id": "S0460"
+    },
+    {
+      "title": "Differences in Nest Architecture Between the Neotropical Arboreal Termites",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1155/1980/12305",
+      "file_path": "_unpublished/文库/10.1155-1980-12305",
+      "chars": 16420,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:26:01+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1980-12305（10 页，16420 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1155-1980-12305",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-18T23:26:01",
+        "chunks": [
+          {
+            "chunk": "0001-0010",
+            "txt": "_unpublished/文库/10.1155-1980-12305/0001-0010.txt",
+            "chars": 16420,
+            "paragraphs": 330,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-test\\fulltext.pdf",
+            "sha256": "e4501e32e09a9b0c3be54ef762852b0b04d6a870a81a9740ac65b1c65195db60",
+            "bytes": 16460
+          }
+        ]
+      },
+      "year": 1980,
+      "publisher": "Wiley",
+      "lang": "en",
+      "license": "public-domain",
+      "doi": "10.1155/1980/12305",
+      "url": "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0461"
+    },
+    {
+      "title": "A revision of the termites of the genus Macrotermes",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5962/bhl.part.1525",
+      "file_path": "_unpublished/文库/10.5962-bhl.part.1525",
+      "chars": 242750,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:28:33+08:00",
+      "notes": "全文存于 _unpublished/文库/10.5962-bhl.part.1525（83 页，242750 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.5962-bhl.part.1525",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-18T23:28:33",
+        "chunks": [
+          {
+            "chunk": "0001-0083",
+            "txt": "_unpublished/文库/10.5962-bhl.part.1525/0001-0083.txt",
+            "chars": 242750,
+            "paragraphs": 3157,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-test\\fulltext.pdf",
+            "sha256": "bb05dd95bd57a3aaf19eeb07f24246f2d77ceff59b6b43b842a34341cfd914ee",
+            "bytes": 243307
+          }
+        ]
+      },
+      "year": 1955,
+      "publisher": "Smithsonian Institution",
+      "lang": "en",
+      "license": "cc-by-nc-sa",
+      "doi": "10.5962/bhl.part.1525",
+      "url": "https://doi.org/10.5962/bhl.part.1525",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0462"
+    },
+    {
+      "title": "Новый вид термитов рода Archotermopsis Desneux из Северного Вьетнама (Isoptera, Hodotermitidae, Termopsinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "library:belyaeva-2004-archotermopsis-kuznetsovi",
+      "file_path": "_unpublished/文库/belyaeva-2004-archotermopsis-kuznetsovi",
+      "chars": 16916,
+      "retrieved_via": "文库（外部文本（--text））",
+      "accessed": "2026-11-18T23:34:58+08:00",
+      "notes": "全文存于 _unpublished/文库/belyaeva-2004-archotermopsis-kuznetsovi（16916 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；Энтомологическое обозрение 83(2): 369–377. 扫描 PDF（ABBYY FineReader）原有文字层，PyMuPDF 抽取；原件因 Windows 路径过长未复制，全文见 full.txt。种名原文拼作 kuznetzovi，站点采用 kuznetsovi。",
+      "library": {
+        "book": "belyaeva-2004-archotermopsis-kuznetsovi",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-18T23:34:14",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/belyaeva-2004-archotermopsis-kuznetsovi/full.txt",
+            "chars": 16916,
+            "paragraphs": 397,
+            "table_rows": 0,
+            "source_file": "E:\\TENXUN\\Tencent Files\\2175941791\\Новый вид термитов рода Archotermopsis Desneux из Северного Вьетнама (Isoptera, Hodotermitidae, Termopsinae).pdf",
+            "sha256": "1f5e0741fe246427aa14a8453350f6efdead85515ec5a662190ec63e7fbf24f7",
+            "bytes": 27437
+          }
+        ]
+      },
+      "authors": [
+        "Беляева Н. В."
+      ],
+      "year": 2004,
+      "publisher": "Энтомологическое обозрение",
+      "lang": "ru",
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Голова (рис. 8—10) прямоугольная, плоская, с параллельными боковыми краями, не суживающаяся впереди.",
+          "locator": "p. 373, Солдат",
+          "note": "支撑：兵蚁头方形、前部不收缩"
+        },
+        {
+          "quote": "Антенны 24-члениковые, расположены на небольшом возвышении.",
+          "locator": "p. 373, Солдат",
+          "note": "支撑：兵蚁触角 24 节"
+        },
+        {
+          "quote": "Имаго вновь описываемого вида не имеет крыльев (обломаны), а для А . deodarae имаго не известны вообще.",
+          "locator": "p. 374",
+          "note": "支撑：新种有翅成虫标本翅已折断，未记翅脉"
+        },
+        {
+          "quote": "Вид назван именем А. Н. Кузнецова, впервые собравшего этот новый вид термитов.",
+          "locator": "p. 373",
+          "note": "支撑：种名词源与模式产地信息"
+        }
+      ],
+      "id": "S0463"
+    },
+    {
+      "title": "Laboratory Evaluation of Within‐Species, Between‐Species, and ParthenogeneticReproduction in Reticulitermes Flavipes and Reticulitermes Virginicus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1155/1981/36030",
+      "file_path": "_unpublished/文库/10.1155-1981-36030",
+      "chars": 27838,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:44:26+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1981-36030（14 页，27838 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1155-1981-36030",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-18T23:44:26",
+        "chunks": [
+          {
+            "chunk": "0001-0014",
+            "txt": "_unpublished/文库/10.1155-1981-36030/0001-0014.txt",
+            "chars": 27838,
+            "paragraphs": 515,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-retry2\\fulltext.pdf",
+            "sha256": "5022a56b8c1e8813d47cc7d88524c6c287122e8ce066ec56f76cd71e7b059e5c",
+            "bytes": 27886
+          }
+        ]
+      },
+      "year": 1981,
+      "doi": "10.1155/1981/36030",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0464",
+      "url": "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
+      "publisher": "Cambridge Entomological Club",
+      "lang": "en",
+      "license": "public-domain",
+      "authors": [
+        "Ralph W. Howard",
+        "Eldon J. Mallette",
+        "Michael I. Haverty",
+        "Richard V. Smythe"
+      ]
+    },
+    {
+      "title": "Intercolonial Aggression in the Subterranean Termite Heterotermes Aureus (Isoptera: Rhinotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1155/1988/28452",
+      "file_path": "_unpublished/文库/10.1155-1988-28452",
+      "chars": 32509,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:37:07+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1988-28452（16 页，32509 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1155-1988-28452",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-18T23:37:07",
+        "chunks": [
+          {
+            "chunk": "0001-0016",
+            "txt": "_unpublished/文库/10.1155-1988-28452/0001-0016.txt",
+            "chars": 32509,
+            "paragraphs": 524,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-zenodo\\fulltext.pdf",
+            "sha256": "004c1502cbcb05f96c0097922d8b2c88bbfa6ea8b293db8c4102a924eea13115",
+            "bytes": 32585
+          }
+        ]
+      },
+      "year": 1988,
+      "publisher": "Wiley",
+      "lang": "en",
+      "license": "public-domain",
+      "doi": "10.1155/1988/28452",
+      "url": "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0465"
+    },
+    {
+      "title": "Pairing Behavior in Hodotermes Mossambicus (Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1155/1977/64060",
+      "file_path": "_unpublished/文库/10.1155-1977-64060",
+      "chars": 27403,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-18T23:38:15+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1977-64060（12 页，27403 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1155-1977-64060",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-18T23:38:15",
+        "chunks": [
+          {
+            "chunk": "0001-0012",
+            "txt": "_unpublished/文库/10.1155-1977-64060/0001-0012.txt",
+            "chars": 27403,
+            "paragraphs": 444,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-zenodo\\fulltext.pdf",
+            "sha256": "672343994233837997201394ed906711819093cf6035b353dfd892be7ccaa240",
+            "bytes": 27486
+          }
+        ]
+      },
+      "year": 1977,
+      "publisher": "Wiley",
+      "lang": "en",
+      "license": "public-domain",
+      "doi": "10.1155/1977/64060",
+      "url": "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0466"
     }
   ]
 }

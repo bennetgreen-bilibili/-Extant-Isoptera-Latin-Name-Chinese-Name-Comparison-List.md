@@ -5,6 +5,9 @@ name: Archive OA fulltext
 # 再重新打包加密备份 .library-vault/ 提交。只走合法 OA 通道，不绕过付费墙。
 # 需要 Secret：LIBRARY_VAULT_KEY（加密备份口令）、UNPAYWALL_EMAIL（Unpaywall 礼貌邮箱）。
 # OPENALEX_API_KEY 可选（OpenAlex 自己的额度）；OPENALEX_MAILTO / CROSSREF_MAILTO 可选（礼貌邮箱）。
+# CORE_API_KEY / BHL_API_KEY 可选：出版社站点按 IP 拦时（Wiley / Elsevier / BHL partpdf），
+# 仓储镜像（Zenodo 免 key、CORE、HAL）与 BHL API3 的 OCR 是主要来源；不配也能跑。
+# key 申请见 _tools/原文归档工作流说明.md §3.2。
 # 注意：CI 上的 _unpublished/文库 与 _tmp/ 缓存不持久化。每次运行先从 .library-vault/ 恢复文库，
 # 以文库 manifest 作为「已归档」的唯一真源，因此不会重复下载已归档论文；仅对先前失败的候选
 # 每周重新查一次 OA（带礼貌邮箱，无害）。归档只改 .library-vault/ 与 .sources/，不影响站点渲染，
@@ -100,6 +103,8 @@ jobs:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+          CORE_API_KEY: ${{ secrets.CORE_API_KEY }}
+          BHL_API_KEY: ${{ secrets.BHL_API_KEY }}
           DISCOVER: ${{ github.event.inputs.discover || '40' }}
           LIMIT: ${{ github.event.inputs.limit || '0' }}
           TIME_BUDGET: ${{ github.event.inputs['time-budget'] || '300' }}

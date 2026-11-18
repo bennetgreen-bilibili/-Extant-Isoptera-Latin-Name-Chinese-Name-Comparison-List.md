@@ -26,6 +26,8 @@ refetch.json（`_reports/library-reading/refetch.json`）由「每日文库研�
   OPENALEX_API_KEY  可选（OpenAlex 自己的额度）
   OPENALEX_MAILTO   可选（OpenAlex 礼貌邮箱）
   CROSSREF_MAILTO   可选（备用联系邮箱）
+  CORE_API_KEY      可选（CORE v3 全文直链需要；免费申请见文档 §3.1）
+  BHL_API_KEY       可选（BHL API3，10.5962/bhl.part.* 的 OCR 全文；免费申请）
 
 退出码：0 完成（含「部分条目无 OA / 失败」这类可重试情形）；2 用法 / 配置错误。
 """
@@ -87,6 +89,17 @@ HOSTS_REL = "_data/fulltext_hosts.json"
 HOST_BLOCK_AFTER = 3        # 同一 host 连续硬失败 N 次 → 冷却，不再逐篇撞墙
 HOST_COOLDOWN_DAYS = 120
 HARD_FAIL_CODES = (400, 401, 403, 404, 405, 410, 451)   # 站点级拒绝/资源失效，重试同一 host 无意义
+
+# --- 仓储镜像源：出版社站点按 IP/地区拦（Wiley / ScienceDirect / BioOne…），
+#     仓储副本通常不拦。Zenodo 上还有 BHL part 的镜像，是老分类学文献最有效的一条路。
+CORE_API = "https://api.core.ac.uk/v3/search/works"
+ZENODO_API = "https://zenodo.org/api/records"
+HAL_API = "https://api.archives-ouvertes.fr/search/"
+MIRROR_TIMEOUT = 10        # 单路镜像查询超时；查不到就当没有，不能拖垮整篇
+_NET_ERRORS = [0]          # 镜像查询到网络层的失败计数（st is None）；用来区分「镜像里没有」与「这轮没连上」
+BHL_API = "https://www.biodiversitylibrary.org/api3"
+BHL_PART_DOI = re.compile(r"^10\.5962/bhl\.part\.(\d+)", re.I)
+BHL_MAX_PAGES = 60         # 单篇最多取多少页 OCR（分类学文章通常 5–40 页）
 # 仅存摘要、全文仍可重试的标记（区别于已拿到全文的「已归档」）
 #   abstract-no-oa     ：查不到任何 OA 全文候选，或 OA 只给落地页、页面也没自报 PDF 直链
 #   abstract-blocked   ：有候选，但全部被站点拦截/资源已下架（换 IP 也多半无效，长冷却）
@@ -394,11 +407,14 @@ def _merge_queue(root: Path, queue_path: Path, cands: list) -> list:
     return merged
 
 
-def _http_get(url: str, mailto: str, accept=None, timeout: int = DOWNLOAD_TIMEOUT):
-    headers = {
+def _http_get(url: str, mailto: str, accept=None, timeout: int = DOWNLOAD_TIMEOUT, headers=None):
+    req_headers = {
         "User-Agent": "Mozilla/5.0 (compatible; termite-checklist-fulltext/1.0; mailto:" + mailto + ")",
         "Accept": accept or "*/*",
     }
+    if headers:
+        req_headers.update(headers)
+    headers = req_headers
     req = urllib.request.Request(url, headers=headers)
     for attempt in range(1, MAX_TRIES + 1):
         try:
@@ -571,8 +587,9 @@ def _pdf_link_from_html(body: bytes, base_url: str):
     return None
 
 
-_SOURCE_PRIORITY = {"europepmc": 0, "unpaywall": 1, "europepmc-pdf": 2, "openalex": 3, "s2": 4,
-                    "queue": 5, "html-meta": 6, "wiley-migrated": 7, "landing": 8}
+_SOURCE_PRIORITY = {"europepmc": 0, "unpaywall": 1, "unpaywall-repo": 2, "europepmc-pdf": 2,
+                    "openalex": 3, "s2": 4, "queue": 5, "html-meta": 6, "wiley-migrated": 7, "landing": 8,
+                    "bhl": 3, "zenodo": 4, "core": 5, "hal": 6}
 
 
 def _order_candidates(cands: list, hosts: dict) -> list:
@@ -607,6 +624,169 @@ def _s2_pdf(doi: str, mailto: str):
     return u or None
 
 
+def _http_json(url: str, mailto: str, timeout: int = MIRROR_TIMEOUT, headers=None):
+    st, body, _, _ = _http_get(url, mailto, accept="application/json", timeout=timeout, headers=headers)
+    if st is None:
+        _NET_ERRORS[0] += 1          # 网络异常 ≠ 镜像里没有，调用方据此把「拦截」降级成可重试
+    if st != 200 or not body:
+        return None
+    try:
+        return json.loads(body.decode("utf-8", "replace"))
+    except Exception:
+        return None
+
+
+# ---------------------------------------------------------------- 仓储镜像源
+# 只取「开放仓储 + 元数据里明写 DOI」的副本：Zenodo / CORE / HAL。
+# 出版社站点按 IP/地区拦（403 或 Cloudflare 挑战页），这三家不拦，而且大多直接给 PDF。
+
+def _core_lookup(doi: str, mailto: str, api_key: str = "") -> list:
+    """CORE v3：匿名也能搜，但 downloadUrl 常为空；有 CORE_API_KEY 才稳定给全文链接。"""
+    params = {"q": 'doi:"' + doi + '"', "limit": 5}
+    hdrs = {"Authorization": "Bearer " + api_key} if api_key else None
+    d = _http_json(CORE_API + "?" + urllib.parse.urlencode(params), mailto, headers=hdrs)
+    if not isinstance(d, dict):
+        return []
+    out = []
+    for it in (d.get("results") or []):
+        if not isinstance(it, dict):
+            continue
+        urls = [it.get("downloadUrl") or ""]
+        for l in (it.get("links") or []):
+            if not isinstance(l, dict):
+                continue
+            u = str(l.get("url") or "")
+            if l.get("type") in ("download", "fulltext") or u.lower().endswith(".pdf"):
+                urls.append(u)
+        for u in urls:
+            if u and u.lower().startswith("http"):
+                out.append(_cand(u, "xml" if _looks_xml(u) else "pdf", "core", "repository"))
+    return out
+
+
+def _zenodo_lookup(doi: str, mailto: str) -> list:
+    """Zenodo：BHL part 的镜像大量在这里（bhlpart*.pdf），老文献命中率最高的一路。
+
+    只认记录元数据里 DOI 完全一致的条目，避免同名 / 同作者 / 同系列的误配。
+    """
+    params = {"q": 'doi:"' + doi + '"', "size": 5}
+    d = _http_json(ZENODO_API + "?" + urllib.parse.urlencode(params), mailto)
+    if not isinstance(d, dict):
+        return []
+    out = []
+    for h in ((d.get("hits") or {}).get("hits") or []):
+        if not isinstance(h, dict):
+            continue
+        md = h.get("metadata") or {}
+        rid = _norm_doi(str(md.get("doi") or h.get("doi") or ""))
+        if rid and rid != doi:
+            continue
+        for f in (h.get("files") or []):
+            if not isinstance(f, dict):
+                continue
+            key = str(f.get("key") or "")
+            u = str((f.get("links") or {}).get("self") or "")
+            if not u or not key.lower().endswith((".pdf", ".xml", ".txt")):
+                continue
+            kind = "xml" if key.lower().endswith(".xml") else (
+                "text" if key.lower().endswith(".txt") else "pdf")
+            out.append(_cand(u, kind, "zenodo", "repository"))
+    return out
+
+
+def _hal_lookup(doi: str, mailto: str) -> list:
+    params = {"q": 'doiId_s:"' + doi + '"', "fl": "uri_s,fileMain_s,docType_s",
+              "wt": "json", "rows": 5}
+    d = _http_json(HAL_API + "?" + urllib.parse.urlencode(params), mailto)
+    if not isinstance(d, dict):
+        return []
+    out = []
+    for doc in (((d.get("response") or {}).get("docs")) or []):
+        if not isinstance(doc, dict):
+            continue
+        u = str(doc.get("fileMain_s") or "")
+        if u:
+            out.append(_cand(u, "pdf", "hal", "repository"))
+    return out
+
+
+def _repo_bundle(doi: str, mailto: str, core_key: str = "") -> list:
+    """三路仓储并行查（Zenodo / CORE / HAL），任何一路挂掉都不影响其它两路。"""
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        fs = [ex.submit(_core_lookup, doi, mailto, core_key),
+              ex.submit(_zenodo_lookup, doi, mailto),
+              ex.submit(_hal_lookup, doi, mailto)]
+        out = []
+        for f in fs:
+            try:
+                out.extend(f.result() or [])
+            except Exception:
+                pass
+    return out
+
+
+# ---------------------------------------------------------------- BHL（B 档）
+# 10.5962/bhl.part.<id> 的 partpdf 被 Cloudflare 拦；API3 走同一站点但不吃挑战页，
+# 用 part 的逐页 OCR 文本拼成全文（BHL 自己公开的 OCR，属合法 OA 副本）。
+
+def _bhl_candidates(doi: str, api_key: str) -> list:
+    m = BHL_PART_DOI.match(_norm_doi(doi))
+    if not (m and api_key):
+        return []
+    pid = m.group(1)
+    c = _cand("https://www.biodiversitylibrary.org/part/" + pid, "bhlpart", "bhl", "repository")
+    c["bhl_id"] = pid
+    return [c]
+
+
+def _bhl_part_text(part_id: str, api_key: str, dest: Path, mailto: str,
+                   max_pages: int = BHL_MAX_PAGES):
+    """取 BHL part 的逐页 OCR 文本，拼成 fulltext.txt。返回 (path, info)；失败 path=None。"""
+    if not api_key:
+        return None, "未设 BHL_API_KEY"
+    base = {"format": "json", "apikey": api_key}
+    params = dict(base, op="GetPartMetadata", id=part_id, pages="t")
+    d = _http_json(BHL_API + "?" + urllib.parse.urlencode(params), mailto)
+    if not isinstance(d, dict) or str(d.get("Status") or "").lower() != "ok":
+        return None, "BHL 元数据不可用（Status=" + str((d or {}).get("Status")) + "）"
+    res = d.get("Result")
+    # API3 的 Result 有时是 list（GetPartMetadata 返回 [ {part...} ]），有时是 dict
+    if isinstance(res, list):
+        parts = [p for p in res if isinstance(p, dict)]
+    elif isinstance(res, dict):
+        parts = (res.get("Parts") or []) if isinstance(res.get("Parts"), list) else [res]
+    else:
+        parts = []
+    if not parts:
+        return None, "BHL 查不到该 part"
+    page_ids = []
+    for p in (parts[0].get("Pages") or []):
+        pid = p.get("PageID") if isinstance(p, dict) else p
+        if pid:
+            page_ids.append(str(pid))
+    if not page_ids:
+        return None, "BHL 未返回页码"
+    chunks, failed = [], 0
+    for pid in page_ids[:max_pages]:
+        q = dict(base, op="GetPageOcrText", pageid=pid, ocr="t")
+        d2 = _http_json(BHL_API + "?" + urllib.parse.urlencode(q), mailto)
+        txt = ""
+        if isinstance(d2, dict) and str(d2.get("Status") or "").lower() == "ok":
+            r = d2.get("Result")
+            txt = r if isinstance(r, str) else (json.dumps(r, ensure_ascii=False) if r else "")
+        if txt.strip():
+            chunks.append(txt.strip())
+        else:
+            failed += 1
+        time.sleep(0.15)
+    text = "\n\n".join(chunks).strip()
+    if len(text) < 400:
+        return None, "OCR 文本过短（" + str(len(text)) + " 字，页数 " + str(len(page_ids)) + "）"
+    path = dest / "fulltext.txt"
+    path.write_text(text, encoding="utf-8", newline="\n")
+    return path, str(len(text)) + " 字 / " + str(len(chunks)) + " 页（失败 " + str(failed) + " 页）"
+
+
 def _metadata_bundle(doi: str, mailto: str, api_key: str):
     """四路元数据并行取（原先串行要 4 个往返，是最费时间预算的一环）。"""
     with ThreadPoolExecutor(max_workers=4) as ex:
@@ -626,8 +806,9 @@ def _metadata_bundle(doi: str, mailto: str, api_key: str):
     return out[0], out[1], out[2], out[3]
 
 
-def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget, hosts=None):
-    """返回候选 OA 全文清单（PDF / JATS XML，已排序），查不到任何合法 OA 全文返回 None。"""
+def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget, hosts=None, keys=None):
+    """返回候选 OA 全文清单（PDF / JATS XML / BHL OCR 文本，已排序），查不到任何合法 OA 全文返回 None。"""
+    keys = keys or {}
     d = _norm_doi(doi)
     meta = {
         "doi": doi,
@@ -644,19 +825,35 @@ def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget, hos
         "source": None,
         "kind": None,
         "url": None,
+        "mailto": mailto,
+        "bhl_key": keys.get("bhl") or "",
     }
     cands = []
     # 1. 队列里显式给的 URL
     if item.get("url"):
         cands.append(_cand(item["url"], "xml" if _looks_xml(item["url"]) else "pdf", "queue"))
-    # 2. 三路元数据（并行）：Unpaywall 全部 oa_locations / OpenAlex 全部 locations / Europe PMC
-    unp, oa, pmc, s2 = _metadata_bundle(doi, mailto, api_key)
+    # 2. 三路元数据 + 三路仓储镜像，同时发（7 个往返并行，别串行耗预算）
+    err0 = _NET_ERRORS[0]
+    with ThreadPoolExecutor(max_workers=2) as ex:
+        f_meta = ex.submit(_metadata_bundle, doi, mailto, api_key)
+        f_repo = ex.submit(_repo_bundle, doi, mailto, keys.get("core") or "")
+        unp, oa, pmc, s2 = f_meta.result()
+        repos = f_repo.result()
+    meta["mirror_net_error"] = _NET_ERRORS[0] > err0
     if unp and unp.get("is_oa"):
         best = unp.get("best_oa_location") or {}
         for loc in [best] + list(unp.get("oa_locations") or []):
             if isinstance(loc, dict) and loc.get("url_for_pdf"):
                 cands.append(_cand(loc["url_for_pdf"], "pdf", "unpaywall",
                                    loc.get("host_type") or "", loc.get("version") or ""))
+        # 仓库只给了落地页、没给 PDF 直链时，落地页本身常自带 citation_pdf_url
+        for loc in list(unp.get("oa_locations") or []):
+            if not isinstance(loc, dict):
+                continue
+            if ((loc.get("host_type") or "") == "repository"
+                    and not loc.get("url_for_pdf") and loc.get("url_for_landing_page")):
+                cands.append(_cand(loc["url_for_landing_page"], "landing", "unpaywall-repo",
+                                   "repository", loc.get("version") or ""))
         meta["title"] = meta["title"] or (unp.get("title") or "")
         meta["year"] = meta["year"] or _to_int(unp.get("year"))
         meta["genre"] = unp.get("genre")
@@ -709,6 +906,10 @@ def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget, hos
                                "pdf", "europepmc-pdf"))
             cands.append(_cand("https://www.ncbi.nlm.nih.gov/pmc/articles/" + pmcid + "/pdf/",
                                "pdf", "europepmc-pdf"))
+    # 4b. 仓储镜像（A 档）：Zenodo（含 BHL part 镜像）/ CORE / HAL —— 老分类学文献的主路
+    cands.extend(repos)
+    # 4c. BHL API（B 档）：part DOI 直接取逐页 OCR，绕开 partpdf 的 Cloudflare 拦截
+    cands.extend(_bhl_candidates(doi, keys.get("bhl") or ""))
     # 5. 站点迁移（Hindawi → Wiley）与 Semantic Scholar（补一条，落地页也能靠 citation_pdf_url 救回）
     cands.extend(_derived_candidates(doi, cands))
     if s2:
@@ -740,6 +941,8 @@ def _ext_from(url: str, ctype: str, hint: str) -> str:
         return ".pdf"
     if p.endswith(".xml"):
         return ".xml"
+    if p.endswith(".txt") or (hint == "text" and "html" not in c):
+        return ".txt"
     return ".xml" if hint == "xml" else ".pdf"
 
 
@@ -795,6 +998,20 @@ def _fetch_paper(meta: dict, mailto: str, dest: Path, hosts: dict, budget: Budge
             break
         tried += 1
         attempted.add(_norm_url(c["url"]))
+        if c["kind"] == "bhlpart":
+            # BHL 走 API3 逐页 OCR：一次要发几十个请求，独立处理，不计入 PDF 候选逻辑
+            path, info = _bhl_part_text(c.get("bhl_id") or "", meta.get("bhl_key") or "",
+                                        dest, mailto)
+            if path is not None:
+                _note_host_ok(hosts, c["host"])
+                report["tried"].append((c["url"], "BHL OCR " + info))
+                meta["url"] = c["url"]
+                meta["kind"] = c["kind"]
+                meta["source"] = c["source"]
+                return path, c["url"], "text/plain", report
+            report["tried"].append((c["url"], "BHL OCR 失败：" + info))
+            saw["transient"] = True
+            continue
         probe = c["kind"] == "landing"      # 落地页只探路，不落盘
         path, final_url, ctype, st, html_pdf = _download(c["url"], c["kind"], mailto, dest)
         if path is not None:
@@ -868,6 +1085,9 @@ def _reliability(meta: dict) -> str:
 def _notes(meta: dict) -> str:
     src = meta.get("source") or "oa"
     kind = str(meta.get("kind") or "").upper()
+    if kind in ("BHLPART", "TEXT"):
+        return ("BHL（Biodiversity Heritage Library）公开 OCR 全文自动归档；机器识别、未经人工校对，"
+                "引用前须核对原书页。全文只存本地文库供检索，不发布、不对外分发。")
     return ("OA 全文自动归档（" + src + " " + kind + "）；全文只存本地文库供检索，"
             "不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。")
 
@@ -1235,6 +1455,8 @@ def run_check(root: Path, args) -> int:
           + ("（--write 时加 --refetch 会先处理它们）" if pending else ""))
     print("[fulltext] papers.json 带 OA 标记的条目：" + str(len(oa_entries))
           + "；去重后未归档：" + str(len(unarchived)))
+    print("[fulltext] 仓储镜像：Zenodo 常开；CORE " + ("已配置 key" if (os.environ.get("CORE_API_KEY") or "").strip() else "未配置 key（只匿名检索）")
+          + "；BHL " + ("已配置 key" if (os.environ.get("BHL_API_KEY") or "").strip() else "未配置 key（跳过 OCR）"))
     qp = root / args.queue
     if qp.exists():
         q = _load_json(qp)
@@ -1278,6 +1500,14 @@ def run_write(root: Path, args) -> int:
     mailto = (os.environ.get("UNPAYWALL_EMAIL") or os.environ.get("OPENALEX_MAILTO")
               or os.environ.get("CROSSREF_MAILTO") or "").strip()
     api_key = (os.environ.get("OPENALEX_API_KEY") or "").strip()
+    keys = {"core": (os.environ.get("CORE_API_KEY") or "").strip(),
+            "bhl": (os.environ.get("BHL_API_KEY") or "").strip()}
+    if not keys["core"]:
+        print("[fulltext] 提示：未设 CORE_API_KEY，CORE 只做匿名检索（多半拿不到全文直链）",
+              file=sys.stderr)
+    if not keys["bhl"]:
+        print("[fulltext] 提示：未设 BHL_API_KEY，跳过 BHL 的 OCR 全文（partpdf 被 Cloudflare 拦）",
+              file=sys.stderr)
     if not mailto:
         print("[fulltext] 提示：未设 UNPAYWALL_EMAIL / OPENALEX_MAILTO，将跳过 Unpaywall"
               "（Europe PMC / OpenAlex 仍可用）", file=sys.stderr)
@@ -1343,7 +1573,7 @@ def run_write(root: Path, args) -> int:
         if rq:
             attempted_refetch.add(key)
         print("[fulltext] [" + str(processed) + "] doi:" + doi)
-        meta = resolve(doi, it, mailto, api_key, budget, hosts)
+        meta = resolve(doi, it, mailto, api_key, budget, hosts, keys)
         if not meta or not (meta.get("candidates") or []):
             if key in retryable:
                 skipped += 1
@@ -1394,9 +1624,16 @@ def run_write(root: Path, args) -> int:
         if tmpfile is None:
             reason = report.get("reason") or "transient"
             if reason in ("blocked", "html-page"):
-                status = "abstract-blocked"
-                blocked_n += 1
-                what = "站点拦截"
+                if meta.get("mirror_net_error"):
+                    # 站点确实在拦，但本轮仓储镜像根本没连上：不能因此锁 180 天，
+                    # 降级成可短周期重试，等镜像能连了再说。
+                    status = "abstract-download-failed"
+                    transient_n += 1
+                    what = "站点拦截（仓储镜像本轮网络异常）"
+                else:
+                    status = "abstract-blocked"
+                    blocked_n += 1
+                    what = "站点拦截"
             elif reason == "no-pdf-link":
                 status = "abstract-no-oa"
                 linkless_n += 1
@@ -1408,7 +1645,7 @@ def run_write(root: Path, args) -> int:
             days = NEXT_TRY_DAYS.get(status, 60)
             tried_txt = " / ".join((u.split("://")[-1][:70] + "→" + str(r))
                                    for u, r in (report.get("tried") or []))
-            if reason in ("blocked", "html-page", "no-pdf-link"):
+            if reason in ("blocked", "html-page", "no-pdf-link") and status != "abstract-download-failed":
                 # 这两类不是「再等等就好」的失败：出版方按 IP 拦、或 OA 只有落地页。
                 # 写进待人工获取清单，人照着取；站点已进冷却，不会再每周重撞。
                 manual_seen.append({
@@ -1460,6 +1697,10 @@ def run_write(root: Path, args) -> int:
             continue
         text_path = None
         ocr_note = None
+        if tmpfile.suffix.lower() == ".txt":
+            # BHL / 仓储直给的纯文本（如 Zenodo 的 .txt 副本）：已是文本，不再探 PDF 文字层
+            text_path = tmpfile
+            ocr_note = _notes(meta)
         if meta.get("kind") == "pdf":
             probed = _probe_pdf_text(tmpfile)
             garbled = (rq and probed >= OCR_MIN_CHARS

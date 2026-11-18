@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16 05:48",
-  "count": 44,
+  "updated_at": "2026-11-18 23:58",
+  "count": 35,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
     {
@@ -24,26 +24,6 @@
       "attempts": 1
     },
     {
-      "doi": "10.5962/bhl.part.1525",
-      "title": "A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera : Termitidae)",
-      "year": 1970,
-      "venue": "Bulletin of the British Museum (Natural History) Entomology",
-      "publisher": "Smithsonian Institution",
-      "cited_by": 102,
-      "landing": "https://doi.org/10.5962/bhl.part.1525",
-      "reason": "blocked",
-      "hosts": [
-        "doi.org"
-      ],
-      "tried": [
-        "https://doi.org/10.5962/bhl.part.1525"
-      ],
-      "last_result": "doi.org/10.5962/bhl.part.1525→HTTP 403",
-      "last_tried": 1794807774.6269305,
-      "first_seen": 1794808106.714615,
-      "attempts": 1
-    },
-    {
       "doi": "10.1111/j.1462-2920.2011.02648.x",
       "title": "Nitrate reduction, nitrous oxide formation, and anaerobic ammonia oxidation to nitrite in the gut of soil‐feeding termites ( Cubitermes and Ophiotermes spp.)",
       "year": 2011,
@@ -63,28 +43,6 @@
       "seeded": true,
       "first_seen": 1794399786.6055884,
       "attempts": 1
-    },
-    {
-      "doi": "10.1155/1980/12305",
-      "title": "Differences in Nest Architecture Between the Neotropical Arboreal Termites Nasutitermes Corniger and Nasutitermes Ephratae (Isoptera: Termitidae)",
-      "year": 1980,
-      "venue": "Psyche A Journal of Entomology",
-      "publisher": "Wiley",
-      "cited_by": 48,
-      "landing": "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
-      "reason": "blocked",
-      "hosts": [
-        "downloads.hindawi.com",
-        "onlinelibrary.wiley.com"
-      ],
-      "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
-        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1980/12305"
-      ],
-      "last_result": "downloads.hindawi.com/journals/psyche/1980/012305.pdf→HTTP 403 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1980/12305→HTTP 403",
-      "last_tried": 1794807831.224924,
-      "first_seen": 1794399786.6055884,
-      "attempts": 2
     },
     {
       "doi": "10.1098/rspb.2016.0196",
@@ -127,69 +85,6 @@
       "seeded": true,
       "first_seen": 1794399786.6055884,
       "attempts": 1
-    },
-    {
-      "doi": "10.1206/633.1",
-      "title": "Diverse Rhinotermitidae and Termitidae (Isoptera) in Dominican Amber",
-      "year": 2009,
-      "venue": "American Museum Novitates",
-      "publisher": "",
-      "cited_by": 43,
-      "landing": "https://doi.org/10.1206/633.1",
-      "reason": "blocked",
-      "hosts": [
-        "bioone.org"
-      ],
-      "tried": [
-        "https://bioone.org/journals/american-museum-novitates/volume-2009/issue-3640/633.1/Diverse-Rhinotermitidae-and-Termitidae-Isoptera-in-Dominican-Amber/10.1206/633.1.pdf"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
-    },
-    {
-      "doi": "10.5962/bhl.part.75218",
-      "title": "Beobachtungen beim Spritzakt der Nasutitermes-Soldaten",
-      "year": 1959,
-      "venue": "Revue suisse de zoologie",
-      "publisher": "Biodiversity Heritage Library",
-      "cited_by": 30,
-      "landing": "https://www.biodiversitylibrary.org/partpdf/75218",
-      "reason": "blocked",
-      "hosts": [
-        "www.biodiversitylibrary.org"
-      ],
-      "tried": [
-        "https://www.biodiversitylibrary.org/partpdf/75218"
-      ],
-      "last_result": "www.biodiversitylibrary.org/partpdf/75218→HTTP 403",
-      "last_tried": 1794807831.7196236,
-      "first_seen": 1794399786.6055884,
-      "attempts": 2
-    },
-    {
-      "doi": "10.1155/1981/36030",
-      "title": "Laboratory Evaluation of Within‐Species, Between‐Species, and ParthenogeneticReproduction in Reticulitermes Flavipes and Reticulitermes Virginicus",
-      "year": 1981,
-      "venue": "Psyche A Journal of Entomology",
-      "publisher": "Wiley",
-      "cited_by": 29,
-      "landing": "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
-      "reason": "blocked",
-      "hosts": [
-        "downloads.hindawi.com",
-        "onlinelibrary.wiley.com"
-      ],
-      "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
-        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1981/36030"
-      ],
-      "last_result": "downloads.hindawi.com/journals/psyche/1981/036030.pdf→HTTP 403 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1981/36030→HTTP 403",
-      "last_tried": 1794807836.9376583,
-      "first_seen": 1794399786.6055884,
-      "attempts": 2
     },
     {
       "doi": "10.1016/j.ygcen.2015.06.006",
@@ -254,28 +149,6 @@
       "attempts": 1
     },
     {
-      "doi": "10.1155/1988/28452",
-      "title": "Intercolonial Aggression in the Subterranean Termite Heterotermes Aureus (Isoptera: Rhinotermitidae)",
-      "year": 1988,
-      "venue": "Psyche A Journal of Entomology",
-      "publisher": "Wiley",
-      "cited_by": 25,
-      "landing": "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
-      "reason": "blocked",
-      "hosts": [
-        "downloads.hindawi.com",
-        "onlinelibrary.wiley.com"
-      ],
-      "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
-        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1988/28452"
-      ],
-      "last_result": "downloads.hindawi.com/journals/psyche/1988/028452.pdf→HTTP 403 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1988/28452→HTTP 403",
-      "last_tried": 1794807838.1563015,
-      "first_seen": 1794399786.6055884,
-      "attempts": 2
-    },
-    {
       "doi": "10.1007/s00284-018-1567-0",
       "title": "Microbial Communities of the Gut and Nest of the Humus- and Litter-Feeding Termite Procornitermes araujoi (Syntermitinae)",
       "year": 2018,
@@ -296,28 +169,6 @@
       "attempts": 2
     },
     {
-      "doi": "10.1155/1977/64060",
-      "title": "Pairing Behavior in Hodotermes Mossambicus (Isoptera)",
-      "year": 1977,
-      "venue": "Psyche A Journal of Entomology",
-      "publisher": "Wiley",
-      "cited_by": 21,
-      "landing": "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
-      "reason": "blocked",
-      "hosts": [
-        "downloads.hindawi.com",
-        "onlinelibrary.wiley.com"
-      ],
-      "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
-        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1977/64060"
-      ],
-      "last_result": "downloads.hindawi.com/journals/psyche/1977/064060.pdf→冷却中，跳过 / onlinelibrary.wiley.com/doi/pdfdirect/10.1155/1977/64060→冷却中，跳过",
-      "last_tried": 1794807841.4887724,
-      "first_seen": 1794399786.6055884,
-      "attempts": 2
-    },
-    {
       "doi": "10.1111/j.1752-4598.2008.00040.x",
       "title": "Genetic variability of the soil‐feeding termite Labiotermes labralis (Termitidae, Nasutitermitinae) in the Amazonian primary forest and remnant patches",
       "year": 2008,
@@ -331,27 +182,6 @@
       ],
       "tried": [
         "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1752-4598.2008.00040.x"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
-    },
-    {
-      "doi": "10.1155/1966/59080",
-      "title": "Colonizing Flights and Associated Activities of Termites. I. TheDesert Damp‐Wood Termite Paraneotermes Simplicicornis(Kalotermitidae)",
-      "year": 1966,
-      "venue": "Psyche A Journal of Entomology",
-      "publisher": "",
-      "cited_by": 20,
-      "landing": "https://doi.org/10.1155/1966/59080",
-      "reason": "blocked",
-      "hosts": [
-        "downloads.hindawi.com"
-      ],
-      "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1966/059080.pdf"
       ],
       "last_result": "下载失败，已存摘要（标记 OA 待重试）",
       "last_tried": 1762800000.0,
@@ -415,27 +245,6 @@
       ],
       "tried": [
         "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1979.tb00866.x"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
-    },
-    {
-      "doi": "10.1155/1966/20139",
-      "title": "Distribution and Biology of the Primitive Dry‐Wood TermitePterotermes Occidentis (Walker) (Kalotermitidae)",
-      "year": 1966,
-      "venue": "Psyche A Journal of Entomology",
-      "publisher": "",
-      "cited_by": 19,
-      "landing": "https://doi.org/10.1155/1966/20139",
-      "reason": "blocked",
-      "hosts": [
-        "downloads.hindawi.com"
-      ],
-      "tried": [
-        "https://downloads.hindawi.com/journals/psyche/1966/020139.pdf"
       ],
       "last_result": "下载失败，已存摘要（标记 OA 待重试）",
       "last_tried": 1762800000.0,
@@ -566,27 +375,6 @@
       "last_tried": 1794807912.5694375,
       "first_seen": 1794399786.6055884,
       "attempts": 2
-    },
-    {
-      "doi": "10.1653/024.102.0123",
-      "title": "Aparatermes thornatus (Isoptera: Termitidae: Apicotermitinae), a New Species of Soldierless Termite from Northern Amazonia",
-      "year": 2019,
-      "venue": "Florida Entomologist",
-      "publisher": "",
-      "cited_by": 11,
-      "landing": "https://doi.org/10.1653/024.102.0123",
-      "reason": "blocked",
-      "hosts": [
-        "bioone.org"
-      ],
-      "tried": [
-        "https://bioone.org/journals/Florida-Entomologist/volume-102/issue-1/024.102.0123/Aparatermes-thornatus-Isoptera--Termitidae--Apicotermitinae-a-New-Species/10.1653/024.102.0123.pdf"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
     },
     {
       "doi": "10.1016/j.envpol.2019.113064",
@@ -878,6 +666,27 @@
       "last_tried": 1794807986.2364335,
       "first_seen": 1794808106.714615,
       "attempts": 1
+    },
+    {
+      "doi": "10.5962/bhl.part.75218",
+      "title": "Beobachtungen beim Spritzakt der Nasutitermes-Soldaten",
+      "year": 1959,
+      "venue": "Revue suisse de zoologie",
+      "publisher": "Natural History Museum of Geneva",
+      "cited_by": 0,
+      "landing": "https://www.biodiversitylibrary.org/partpdf/75218",
+      "reason": "blocked",
+      "hosts": [
+        "www.biodiversitylibrary.org"
+      ],
+      "tried": [
+        "https://www.biodiversitylibrary.org/part/75218",
+        "https://www.biodiversitylibrary.org/partpdf/75218"
+      ],
+      "last_result": "www.biodiversitylibrary.org/part/75218→BHL OCR 失败：OCR 文本过短（0 字，页数 7） / www.biodiversitylibrary.org/partpdf/75218→HTTP 403",
+      "last_tried": 1795017487.665808,
+      "first_seen": 1794399786.6055884,
+      "attempts": 3
     },
     {
       "doi": "10.1016/j.jprot.2019.103622",

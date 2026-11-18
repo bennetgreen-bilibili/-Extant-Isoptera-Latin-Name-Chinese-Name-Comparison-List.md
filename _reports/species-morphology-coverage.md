@@ -92,4 +92,18 @@
 
 数据文件：`_reports/species-morphology-coverage.csv`（逐种，status = A / B-paper / B-only / C）；对不上号清单：`_reports/species-morphology-no-source.md`。
 
-<!-- src:S0104 --><!-- src:S0005 --><!-- src:S0118 --><!-- src:S0075 --><!-- src:S0113 -->
+## 实施结果（2026-11-18，第二轮）
+
+- A 类 326 种中 **295 种**已写成中文形态描述；另补 1 个 B-only 种（`archotermopsis-kuznetsovi`，S0463），新增共 **296 条**：`_data/morphology_species.json` 81 → **377**，站点待补 2573 → **2277**。
+- 已写条目分来源：S0104 198、S0005 46、S0074 4、S0118 19、S0075 15、S0113 4、S0106 2、S0251 1、S0034 2、S0115 2、S0348 2、S0463 1。
+- 抢救：原「原文不可用」16 种中重切出 9 种（pakistanicus、jurioni、topslipensis、pilosus、dunensis、kistneri、incertus、latifrons、tikadari）并写成条目；Archotermopsis 依据用户提供的俄文 PDF（Belyaeva 2004，Энтомологическое обозрение 83(2): 369–377）补写，原文拼作 kuznetzovi，站点从 GBIF 用 kuznetsovi。
+- en / es：`translations_en|es.morphology_species` 81 → **377**，与中文条目一一对应。
+- A 类余 **31 种**：错配 16、无账户 8、原文无品级描述 7。名单见下。
+
+### A 类余 31 种
+
+- 错配：ancistrotermes-crucifer-diversana、angulitermes-emersoni、angulitermes-fletcheri、eremotermes-neoparadoxalis、eurytermes-assmuthi-modestior、microcerotermes-annandalei、microcerotermes-fuscotibialis-libericus、microcerotermes-fuscotibialis-validior、microcerotermes-labioangulatus-wahkdaitensis、nasutitermes-ceylonicus、nasutitermes-matangensis-christmasensis、nasutitermes-matangensis-matangensioides、nasutitermes-matangensis-pyricephalus、odontotermes-latigula、odontotermes-paralatigula、speculitermes-emersoni。
+- 无账户：ancistrotermes-microdens、cryptotermes-sumatrensis、kaudernitermes-nigritus、macrotermes-falciger、nasutitermes-triodiae、oriensubulitermes-inanis、termes-fatalis、tumulitermes-pastinator。
+- 原文不可用：anacanthotermes-viarum、astalotermes-concilians、atlantitermes-guanim、hypotermes-makhamensis、labiotermes-labralis、pericapritermes-ceylonicus、proneotermes-perezi（最后三种所在论文实为甲虫，永不可用）。
+
+<!-- src:S0104 --><!-- src:S0005 --><!-- src:S0118 --><!-- src:S0075 --><!-- src:S0113 --><!-- src:S0463 -->
