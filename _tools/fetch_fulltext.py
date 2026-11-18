@@ -44,6 +44,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -739,53 +740,126 @@ def _bhl_candidates(doi: str, api_key: str) -> list:
     return [c]
 
 
+def _bhl_json(mailto: str, api_key: str, **params):
+    """调 BHL API3，返回 Result（Status 不为 ok 时返回 None）。"""
+    q = {"format": "json", "apikey": api_key}
+    q.update(params)
+    d = _http_json(BHL_API + "?" + urllib.parse.urlencode(q), mailto)
+    if not isinstance(d, dict) or str(d.get("Status") or "").lower() != "ok":
+        return None
+    return d.get("Result")
+
+
+def _bhl_rows(res):
+    """API3 的 Result 有时是 list（[{...}]），有时是 dict，统一成 dict 列表。"""
+    if isinstance(res, list):
+        return [x for x in res if isinstance(x, dict)]
+    if isinstance(res, dict):
+        return [res]
+    return []
+
+
+def _djvu_page_texts(body: bytes):
+    """把 IA 的 *_djvu.xml 拆成逐页文本：LINE 内按词拼，PARA 分段的段间空一行。"""
+    try:
+        root = ET.fromstring(body)
+    except Exception:
+        return []
+    out = []
+    for obj in root.iter("OBJECT"):
+        paras = []
+        for para in obj.iter("PARA"):
+            lines = []
+            for line in para.iter("LINE"):
+                words = [(w.text or "") for w in line.iter("WORD")]
+                s = " ".join(w for w in words if w)
+                if s:
+                    lines.append(s)
+            if lines:
+                paras.append("\n".join(lines))
+        if not paras:  # 少数扫描件没有 PARA/LINE 结构
+            words = [(w.text or "") for w in obj.iter("WORD")]
+            s = " ".join(w for w in words if w)
+            if s:
+                paras.append(s)
+        out.append("\n\n".join(paras))
+    return out
+
+
 def _bhl_part_text(part_id: str, api_key: str, dest: Path, mailto: str,
                    max_pages: int = BHL_MAX_PAGES):
-    """取 BHL part 的逐页 OCR 文本，拼成 fulltext.txt。返回 (path, info)；失败 path=None。"""
+    """BHL part 的 OCR 全文，取自该册在 Internet Archive 上的 djvu.xml。
+
+    BHL API3 没有可用的逐页 OCR 接口（GetPageOcrText 恒返回空），但 BHL 的每一册都来自
+    Internet Archive，同册 `<ident>_djvu.xml` 带逐页 OCR。按 part 首页的 BHL 页 ID 与册首页
+    页 ID 的差定位册内偏移（再用印刷页码复核），切出该 part 所覆盖的页。
+    返回 (path, info)；失败 path=None。
+    """
     if not api_key:
         return None, "未设 BHL_API_KEY"
-    base = {"format": "json", "apikey": api_key}
-    params = dict(base, op="GetPartMetadata", id=part_id, pages="t")
-    d = _http_json(BHL_API + "?" + urllib.parse.urlencode(params), mailto)
-    if not isinstance(d, dict) or str(d.get("Status") or "").lower() != "ok":
-        return None, "BHL 元数据不可用（Status=" + str((d or {}).get("Status")) + "）"
-    res = d.get("Result")
-    # API3 的 Result 有时是 list（GetPartMetadata 返回 [ {part...} ]），有时是 dict
-    if isinstance(res, list):
-        parts = [p for p in res if isinstance(p, dict)]
-    elif isinstance(res, dict):
-        parts = (res.get("Parts") or []) if isinstance(res.get("Parts"), list) else [res]
-    else:
-        parts = []
+    parts = _bhl_rows(_bhl_json(mailto, api_key, op="GetPartMetadata", id=part_id, pages="t"))
     if not parts:
         return None, "BHL 查不到该 part"
-    page_ids = []
-    for p in (parts[0].get("Pages") or []):
-        pid = p.get("PageID") if isinstance(p, dict) else p
-        if pid:
-            page_ids.append(str(pid))
-    if not page_ids:
+    part = parts[0]
+    pages = [p for p in (part.get("Pages") or []) if isinstance(p, dict) and p.get("PageID")]
+    if not pages:
         return None, "BHL 未返回页码"
-    chunks, failed = [], 0
-    for pid in page_ids[:max_pages]:
-        q = dict(base, op="GetPageOcrText", pageid=pid, ocr="t")
-        d2 = _http_json(BHL_API + "?" + urllib.parse.urlencode(q), mailto)
-        txt = ""
-        if isinstance(d2, dict) and str(d2.get("Status") or "").lower() == "ok":
-            r = d2.get("Result")
-            txt = r if isinstance(r, str) else (json.dumps(r, ensure_ascii=False) if r else "")
-        if txt.strip():
-            chunks.append(txt.strip())
-        else:
-            failed += 1
-        time.sleep(0.15)
+    pages = pages[:max_pages]
+    item_id = str(part.get("ItemID") or "")
+    if item_id in ("", "0"):
+        pm = _bhl_rows(_bhl_json(mailto, api_key, op="GetPageMetadata", pageid=pages[0]["PageID"]))
+        item_id = str((pm[0] if pm else {}).get("ItemID") or "")
+    if not item_id or item_id == "0":
+        return None, "BHL 查不到该 part 所在的册"
+    items = _bhl_rows(_bhl_json(mailto, api_key, op="GetItemMetadata", id=item_id))
+    item = items[0] if items else {}
+    ident = str(item.get("SourceIdentifier") or "")
+    if not ident:
+        return None, "BHL 该册没有 Internet Archive 副本"
+
+    xml_url = "https://archive.org/download/" + urllib.parse.quote(ident) + "/" \
+              + urllib.parse.quote(ident) + "_djvu.xml"
+    st, body, _, _ = _http_get(xml_url, mailto, timeout=DOWNLOAD_TIMEOUT * 2)
+    if st != 200 or not body:
+        return None, "IA 的 djvu.xml 取不到（HTTP " + str(st) + "）"
+    if len(body) > 160 * 1024 * 1024:
+        return None, "IA 的 djvu.xml 过大（" + str(len(body)) + " B）"
+    texts = _djvu_page_texts(body)
+    if not texts:
+        return None, "djvu.xml 解析不出正文"
+
+    def _first_number(p):
+        pn = p.get("PageNumbers") or []
+        if pn and isinstance(pn[0], dict):
+            return str(pn[0].get("Number") or "").strip()
+        return ""
+
+    offset = -1
+    try:
+        thumb = int(item.get("ThumbnailPageID") or 0)
+        if thumb:
+            offset = int(pages[0]["PageID"]) - thumb
+    except Exception:
+        offset = -1
+    if offset < 0 or offset + len(pages) > len(texts):
+        offset = -1
+        want = _first_number(pages[0])
+        if want:
+            for i, t in enumerate(texts):
+                if t.lstrip().startswith(want):
+                    offset = i
+                    break
+    if offset < 0:
+        return None, "定位不到该 part 在册内的页序（BHL 册 " + item_id + "，IA " + ident + "）"
+
+    chunks = [t.strip() for t in texts[offset:offset + len(pages)] if t.strip()]
     text = "\n\n".join(chunks).strip()
     if len(text) < 400:
-        return None, "OCR 文本过短（" + str(len(text)) + " 字，页数 " + str(len(page_ids)) + "）"
+        return None, "OCR 文本过短（" + str(len(text)) + " 字，页数 " + str(len(pages)) + "）"
     path = dest / "fulltext.txt"
     path.write_text(text, encoding="utf-8", newline="\n")
-    return path, str(len(text)) + " 字 / " + str(len(chunks)) + " 页（失败 " + str(failed) + " 页）"
-
+    return path, (str(len(text)) + " 字 / " + str(len(chunks)) + " 页（BHL 册 " + item_id
+                  + "，IA " + ident + "，BHL 公开 OCR，未经校对）")
 
 def _metadata_bundle(doi: str, mailto: str, api_key: str):
     """四路元数据并行取（原先串行要 4 个往返，是最费时间预算的一环）。"""

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18 23:58",
-  "count": 35,
+  "updated_at": "2026-11-19 00:01",
+  "count": 34,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
     {
@@ -666,27 +666,6 @@
       "last_tried": 1794807986.2364335,
       "first_seen": 1794808106.714615,
       "attempts": 1
-    },
-    {
-      "doi": "10.5962/bhl.part.75218",
-      "title": "Beobachtungen beim Spritzakt der Nasutitermes-Soldaten",
-      "year": 1959,
-      "venue": "Revue suisse de zoologie",
-      "publisher": "Natural History Museum of Geneva",
-      "cited_by": 0,
-      "landing": "https://www.biodiversitylibrary.org/partpdf/75218",
-      "reason": "blocked",
-      "hosts": [
-        "www.biodiversitylibrary.org"
-      ],
-      "tried": [
-        "https://www.biodiversitylibrary.org/part/75218",
-        "https://www.biodiversitylibrary.org/partpdf/75218"
-      ],
-      "last_result": "www.biodiversitylibrary.org/part/75218→BHL OCR 失败：OCR 文本过短（0 字，页数 7） / www.biodiversitylibrary.org/partpdf/75218→HTTP 403",
-      "last_tried": 1795017487.665808,
-      "first_seen": 1794399786.6055884,
-      "attempts": 3
     },
     {
       "doi": "10.1016/j.jprot.2019.103622",

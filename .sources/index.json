@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 465,
+    "count": 466,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-18T23:44:26+08:00",
+    "updated": "2026-11-19T00:01:32+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -25815,6 +25815,46 @@
       "used_in": [],
       "evidence": [],
       "id": "S0466"
+    },
+    {
+      "title": "Beobachtungen beim Spritzakt der Nasutitermes-Soldaten",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5962/bhl.part.75218",
+      "file_path": "_unpublished/文库/10.5962-bhl.part.75218",
+      "chars": 13479,
+      "retrieved_via": "文库（外部文本（--text））",
+      "accessed": "2026-11-19T00:01:32+08:00",
+      "notes": "全文存于 _unpublished/文库/10.5962-bhl.part.75218（13479 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；BHL（Biodiversity Heritage Library）公开 OCR 全文自动归档；机器识别、未经人工校对，引用前须核对原书页。全文只存本地文库供检索，不发布、不对外分发。",
+      "library": {
+        "book": "10.5962-bhl.part.75218",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:01:32",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.5962-bhl.part.75218/full.txt",
+            "chars": 13479,
+            "paragraphs": 13,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext-bhl\\fulltext.txt",
+            "sha256": "45fb48fbbc8c496d3f4eb1bf246407036fea1a192a4321504fbc731234e6eaa4",
+            "bytes": 13660
+          }
+        ]
+      },
+      "authors": [
+        "E Ernst"
+      ],
+      "year": 1959,
+      "publisher": "Natural History Museum of Geneva",
+      "lang": "de",
+      "license": "cc-by-nc-sa",
+      "doi": "10.5962/bhl.part.75218",
+      "url": "https://www.biodiversitylibrary.org/partpdf/75218",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0467"
     }
   ]
 }

@@ -6,8 +6,8 @@
 查不到任何 OA 全文的条目不在本表（那是「没有合法 OA」，只能走图书馆），
 它们的标记在 `.sources` 的 `fulltext_status = abstract-no-oa`。
 
-- 更新时间：2026-11-18 23:58（清单内容不变时不刷新）
-- 共 **35** 条：站点拦截 33 ／ 仅有落地页 2
+- 更新时间：2026-11-19 00:01（清单内容不变时不刷新）
+- 共 **34** 条：站点拦截 32 ／ 仅有落地页 2
 - 结构化版本：`_data/fulltext_manual.json`（同一次运行写出的同一份数据）
 
 | # | 引用 | 年 | 标题 | DOI | 上次撞到的站点 | 建议取法 |
@@ -44,9 +44,8 @@
 | 30 | 7 | 1999 | A review of the soldierless African termite genus Amicotermes Sands 1972 (Isoptera, Termitidae… | [10.5281/zenodo.16460267](https://doi.org/10.5281/zenodo.16460267) | BHL | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
 | 31 | 7 | 1997 | Key to the soldiers ofAtlantitermesFontes 1979, with a new species from Brazil (Isoptera Termi… | [10.1080/03946975.1997.10539337](https://doi.org/10.1080/03946975.1997.10539337) | Taylor & Francis | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
 | 32 | 7 | 1983 | THE OCCURRENCE IN AUSTRALIA OF PRORHINOTERMES INOPINATUS SILVESTRI (ISOPTERA: RHINOTERMITIDAE) | [10.1111/j.1440-6055.1983.tb01845.x](https://doi.org/10.1111/j.1440-6055.1983.tb01845.x) | Wiley | Wiley，需机构网络；分类学类可先试 BHL 的散见抽印本 |
-| 33 | 0 | 1959 | Beobachtungen beim Spritzakt der Nasutitermes-Soldaten | [10.5962/bhl.part.75218](https://doi.org/10.5962/bhl.part.75218) | BHL | BHL 条目页（biodiversitylibrary.org/item/…），同一册常在 archive.org 有扫描本 |
-| 34 | 8 | 2019 | Proteomic-components provide insights into the defensive secretion in termite workers of the s… | [10.1016/j.jprot.2019.103622](https://doi.org/10.1016/j.jprot.2019.103622) | handle.net 解析页 | Elsevier（ScienceDirect），需机构网络；可试作者主页 / 机构库 |
-| 35 | 7 | 2021 | Salivary glands in workers of Ruptitermes spp. (Blattaria, Isoptera, Termitidae, Apicotermitin… | [10.1007/s00441-021-03469-w](https://doi.org/10.1007/s00441-021-03469-w) | handle.net 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 33 | 8 | 2019 | Proteomic-components provide insights into the defensive secretion in termite workers of the s… | [10.1016/j.jprot.2019.103622](https://doi.org/10.1016/j.jprot.2019.103622) | handle.net 解析页 | Elsevier（ScienceDirect），需机构网络；可试作者主页 / 机构库 |
+| 34 | 7 | 2021 | Salivary glands in workers of Ruptitermes spp. (Blattaria, Isoptera, Termitidae, Apicotermitin… | [10.1007/s00441-021-03469-w](https://doi.org/10.1007/s00441-021-03469-w) | handle.net 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
 
 ## 怎么用这张表
 
