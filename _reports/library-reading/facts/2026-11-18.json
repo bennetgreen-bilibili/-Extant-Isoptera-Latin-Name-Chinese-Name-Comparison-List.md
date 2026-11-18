@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-18",
+  "work": "Enemy deterrence in the recruitment strategy of a termite: Soldier-organized foraging in Nasutitermes costalis (Traniello 1981, PNAS 78(3): 1976)",
+  "unit": "仅摘要记录 S0366",
+  "locator": "_unpublished/文库/10.1073-pnas.78.3.1976/full.txt（摘要全文，684 字符）",
+  "facts": [
+    {
+      "page": null,
+      "claim": "新热带象白蚁属的 Nasutitermes costalis 兵蚁承担侦察角色，先于工蚁探索新的取食地段，并以腹板腺信息素铺路调控取食活动；起初大量征召的是兵蚁，随后随信息素浓度升高工蚁才出现；作者认为这一取食组织方式在社会性昆虫的兵蚁品级中极不寻常，是控制采集者征召并有效威慑蚂蚁的取食—防御体系的一部分。",
+      "quote": "The nasute soldiers of the neotropical termite Nasutitermes costalis function as scouts by exploring new terrain for food in advance of the worker caste and regulate foraging activity by laying trails composed of sternal gland pheromone. Additional soldiers are at first recruited in large numbers, and subsequently workers appear as the pheromone concentration increases.",
+      "src": "S0366",
+      "blocked_because": "Nasutitermes costalis 站内无物种页，_data/species_by_genus.json 亦无该种中文正名，无法按「中文正名（拉丁名）」写物种页；属页 /genus/nasutitermes/ 已引 5 条来源（S0140、S0210、S0225、S0227、S0308），单条仅涉一个未收录种的行为学事实不足以写成属级段落。待该种入库或有中文正名后再写。"
+    }
+  ]
+}
