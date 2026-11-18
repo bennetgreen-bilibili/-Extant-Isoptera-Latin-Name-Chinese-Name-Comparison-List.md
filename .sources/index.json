@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 466,
+    "count": 480,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-19T00:01:32+08:00",
+    "updated": "2026-11-19T00:56:35+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -3962,7 +3962,7 @@
       "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1444）。"
     },
     {
-      "title": "A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers",
+      "title": "Castro Torres, D.; Scheffrahn, R. H. 2019. A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers. 10.3897/zookeys.891.37523",
       "source_type": "paper",
       "reliability": "peer_reviewed",
       "doi": "10.3897/zookeys.891.37523",
@@ -3983,16 +3983,42 @@
           "quote": "In dorsal view, fontanelle anterior to mandibular lobes (bases of mandibular points)",
           "locator": "Key to the species of Neotropical Rhinotermitinae, couplet 1",
           "note": "Acorhinotermes（尖鼻白蚁属）— 鉴别要点：小兵蚁 fontanelle 位于上颚基突之前，与 Dolichorhinotermes / Rhinotermes 相反"
+        },
+        {
+          "quote": "Acorhinotermes claritae Castro & Scheffrahn, sp. nov. http://zoobank.org/92519036-1333-4086-9485-BBF1D8A33B3E Type material.",
+          "locator": "species description (OA full text)",
+          "note": "支撑：Acorhinotermes claritae 的种级形态描述"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_data/morphology_species.json",
         "_tools/fauna/morphology/descriptions/02other-families.json"
       ],
-      "retrieved_via": "pdftotext / Europe PMC JATS 全文",
-      "accessed": "2026-11-07T03:49:34+08:00",
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:20:55+08:00",
       "canonical_key": "doi:10.3897/zookeys.891.37523",
-      "id": "S0041"
+      "id": "S0041",
+      "library": {
+        "book": "10.3897-zookeys.891.37523",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:10:52",
+        "chunks": [
+          {
+            "chunk": "0001-0010",
+            "txt": "_unpublished/文库/10.3897-zookeys.891.37523/0001-0010.txt",
+            "chars": 23192,
+            "paragraphs": 357,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.3897-zookeys.891.37523.pdf",
+            "sha256": "032f190a5116e7c62653c264a62aad36a6121ab18d82a1039749b07ec44cc00e",
+            "bytes": 23434
+          }
+        ]
+      },
+      "file_path": "_unpublished/文库/10.3897-zookeys.891.37523",
+      "chars": 23192,
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.891.37523（10 页，23192 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。"
     },
     {
       "title": "New Dolichorhinotermes from Ecuador and in Mexican amber (Isoptera: Rhinotermitidae)",
@@ -18616,12 +18642,12 @@
       "file_path": "_unpublished/文库/10.11606-1807-0205-2020.60.special-issue.21",
       "chars": 46811,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-16T00:30:09+08:00",
-      "notes": "全文存于 _unpublished/文库/10.11606-1807-0205-2020.60.special-issue.21（13 页，46811 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "accessed": "2026-11-19T00:11:05+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11606-1807-0205-2020.60.special-issue.21（13 页，46811 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
       "library": {
         "book": "10.11606-1807-0205-2020.60.special-issue.21",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-10T15:14:50",
+        "generated": "2026-11-19T00:11:05",
         "chunks": [
           {
             "chunk": "0001-0013",
@@ -18629,7 +18655,7 @@
             "chars": 46811,
             "paragraphs": 505,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.11606-1807-0205-2020.60.special-issue.21.pdf",
             "sha256": "2a83f8bf29d25f985cb96ea41cc53b0869f847b3f4f087be4df960756cb275c8",
             "bytes": 47255
           }
@@ -20523,24 +20549,24 @@
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.3897/zookeys.623.9677",
       "file_path": "_unpublished/文库/10.3897-zookeys.623.9677",
-      "chars": 36068,
-      "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-18T23:18:31+08:00",
-      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.623.9677（36068 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "chars": 45024,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:16:03+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.623.9677（18 页，45024 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
       "library": {
         "book": "10.3897-zookeys.623.9677",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-10T15:19:13",
+        "generated": "2026-11-19T00:16:03",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.3897-zookeys.623.9677/full.txt",
-            "chars": 36068,
-            "paragraphs": 1040,
+            "chunk": "0001-0018",
+            "txt": "_unpublished/文库/10.3897-zookeys.623.9677/0001-0018.txt",
+            "chars": 45024,
+            "paragraphs": 648,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.xml",
-            "sha256": "a4eac78d4df22b831b64f9e1fc2666d9c1056c9b2d6d4894eee0f70a036f7185",
-            "bytes": 36427
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.3897-zookeys.623.9677.pdf",
+            "sha256": "a17255585e3485591dfb698d3a0a365aacbb7015e6071680fae19539cf28d19c",
+            "bytes": 45457
           }
         ]
       },
@@ -25855,6 +25881,627 @@
       "used_in": [],
       "evidence": [],
       "id": "S0467"
+    },
+    {
+      "title": "A new termite species of the genus Bulbitermes (Blattodea: Isoptera: Termitidae) from Meghalaya, India",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11609/jott.7827.15.3.22850-22858",
+      "file_path": "_unpublished/文库/10.11609-jott.7827.15.3.22850-22858",
+      "chars": 67543,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:11:15+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11609-jott.7827.15.3.22850-22858（14 页，67543 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.11609-jott.7827.15.3.22850-22858",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:11:15",
+        "chunks": [
+          {
+            "chunk": "0001-0014",
+            "txt": "_unpublished/文库/10.11609-jott.7827.15.3.22850-22858/0001-0014.txt",
+            "chars": 67543,
+            "paragraphs": 621,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.11609-jott.7827.15.3.22850-22858.pdf",
+            "sha256": "4f534fe0b9bb59b18744690c2799c7b3b68f7017f8b653f22638ed6086b5855f",
+            "bytes": 68486
+          }
+        ]
+      },
+      "authors": [
+        "Khirod Sankar Das",
+        "Sudipta Choudhury"
+      ],
+      "year": 2023,
+      "lang": "en",
+      "doi": "10.11609/jott.7827.15.3.22850-22858",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0468"
+    },
+    {
+      "title": "Deskripsi ulang dan sarang Bulbitermes germanus (Haviland) (Isoptera: Termitidae) di Indonesia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5994/jei.14.1.44",
+      "file_path": "_unpublished/文库/10.5994-jei.14.1.44",
+      "chars": 28527,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:11:20+08:00",
+      "notes": "全文存于 _unpublished/文库/10.5994-jei.14.1.44（7 页，28527 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.5994-jei.14.1.44",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:11:20",
+        "chunks": [
+          {
+            "chunk": "0001-0007",
+            "txt": "_unpublished/文库/10.5994-jei.14.1.44/0001-0007.txt",
+            "chars": 28527,
+            "paragraphs": 345,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.5994-jei.14.1.44.pdf",
+            "sha256": "7449f3d7b635b60e0978ea0580b186ec0da77cf71f4659ece94a2edcca8b8564",
+            "bytes": 28618
+          }
+        ]
+      },
+      "authors": [
+        "Jurusan Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Syiah Kuala",
+        "Syaukani Syaukani"
+      ],
+      "year": 2017,
+      "lang": "id",
+      "doi": "10.5994/jei.14.1.44",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0469"
+    },
+    {
+      "title": "Caetetermes fontesi, a new nasutiform termite (Isoptera: Termitidae: Nasutitermitinae) from French Guiana",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11646/zootaxa.5219.6.6",
+      "file_path": "_unpublished/文库/10.11646-zootaxa.5219.6.6",
+      "chars": 21013,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:11:26+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.5219.6.6（8 页，21013 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.11646-zootaxa.5219.6.6",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:11:26",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/10.11646-zootaxa.5219.6.6/0001-0008.txt",
+            "chars": 21013,
+            "paragraphs": 279,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.11646-zootaxa.5219.6.6.pdf",
+            "sha256": "eedd21ea7a5507e8f1a797b3e78a7ab4116fa541c97123654026ae2bc9c26e90",
+            "bytes": 21133
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2022,
+      "lang": "en",
+      "doi": "10.11646/zootaxa.5219.6.6",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0470"
+    },
+    {
+      "title": "Molecular characterization of Ceylonitermellus sahyadriensis Emerson, 1960 (Termitidae, Nasutitermitinae) - a rare species from Kerala part of Western Ghats, India",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.33307/entomon.v50i1.1407",
+      "file_path": "_unpublished/文库/10.33307-entomon.v50i1.1407",
+      "chars": 22873,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:11:44+08:00",
+      "notes": "全文存于 _unpublished/文库/10.33307-entomon.v50i1.1407（6 页，22873 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.33307-entomon.v50i1.1407",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:11:44",
+        "chunks": [
+          {
+            "chunk": "0001-0006",
+            "txt": "_unpublished/文库/10.33307-entomon.v50i1.1407/0001-0006.txt",
+            "chars": 22873,
+            "paragraphs": 285,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.33307-entomon.v50i1.1407.pdf",
+            "sha256": "df69607608ebffc8617203af3dbb71bc6ca1e84a9a4ee728653231d502e702bc",
+            "bytes": 22924
+          }
+        ]
+      },
+      "authors": [
+        "Edwin Joseph",
+        "Jobin Mathew",
+        "C.P. Rayeefa Fathima",
+        "J. Kalyani",
+        "Jeeva Elizabeth Vince",
+        "Bristo Joby Mathews",
+        "T. Avyaya Babu"
+      ],
+      "year": 2025,
+      "lang": "en",
+      "doi": "10.33307/entomon.v50i1.1407",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0471"
+    },
+    {
+      "title": "Observation on Cyranotermes Araújo, with a description of C. Caete, new species. (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11606/0031-1049.1983.36.p251-255",
+      "file_path": "_unpublished/文库/10.11606-0031-1049.1983.36.p251-255",
+      "chars": 11659,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:13:33+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11606-0031-1049.1983.36.p251-255（6 页，11659 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.11606-0031-1049.1983.36.p251-255",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:13:33",
+        "chunks": [
+          {
+            "chunk": "0001-0006",
+            "txt": "_unpublished/文库/10.11606-0031-1049.1983.36.p251-255/0001-0006.txt",
+            "chars": 11659,
+            "paragraphs": 222,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.11606-0031-1049.1983.36.p251-255.pdf",
+            "sha256": "2041224b991031acbab056208be2d9ba6de32583a84c36d10e596061b0718154",
+            "bytes": 11726
+          }
+        ]
+      },
+      "authors": [
+        "Eliana M. Cancello"
+      ],
+      "year": 1985,
+      "lang": "en",
+      "doi": "10.11606/0031-1049.1983.36.p251-255",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0472"
+    },
+    {
+      "title": "Eremotermes neoparadoxalis Ahmad, 1955 (Isoptera: Termitidae: Amitermitinae) a new record from Haryana, India",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11609/jott.7776.14.8.21715-21719",
+      "file_path": "_unpublished/文库/10.11609-jott.7776.14.8.21715-21719",
+      "chars": 54792,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:13:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11609-jott.7776.14.8.21715-21719（10 页，54792 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.11609-jott.7776.14.8.21715-21719",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:13:39",
+        "chunks": [
+          {
+            "chunk": "0001-0010",
+            "txt": "_unpublished/文库/10.11609-jott.7776.14.8.21715-21719/0001-0010.txt",
+            "chars": 54792,
+            "paragraphs": 488,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.11609-jott.7776.14.8.21715-21719.pdf",
+            "sha256": "bd91cd404beccf61b0b7de3cc4d9a3eee1bff78b171508f1c5edb1b4ff43479a",
+            "bytes": 55108
+          }
+        ]
+      },
+      "authors": [
+        "Bhanupriya",
+        "Nidhi Kakkar",
+        "Sanjeev Kumar Gupta"
+      ],
+      "year": 2022,
+      "lang": "en",
+      "doi": "10.11609/jott.7776.14.8.21715-21719",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0473"
+    },
+    {
+      "title": "The termite genus Glyptotermes (Isoptera, Kalotermitidae) from Paraguay",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.1059.70500",
+      "file_path": "_unpublished/文库/10.3897-zookeys.1059.70500",
+      "chars": 18949,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:13:50+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1059.70500（11 页，18949 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.3897-zookeys.1059.70500",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:13:50",
+        "chunks": [
+          {
+            "chunk": "0001-0011",
+            "txt": "_unpublished/文库/10.3897-zookeys.1059.70500/0001-0011.txt",
+            "chars": 18949,
+            "paragraphs": 318,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.3897-zookeys.1059.70500.pdf",
+            "sha256": "7aad22ac45fee969d7e22a4666ee3990baa586d5b80b5ceb7fba638bde06eef1",
+            "bytes": 19146
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2021,
+      "lang": "en",
+      "doi": "10.3897/zookeys.1059.70500",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0474"
+    },
+    {
+      "title": "Alexandre Vasconcellos 2002. A new species of Ibitermes (Isoptera, Termitidae) from the Atlantic forest, northeastern Brazil. 10.1590/s0073-47212002000200005",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0073-47212002000200005",
+      "file_path": "_unpublished/文库/10.1590-s0073-47212002000200005",
+      "chars": 11000,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:20:55+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0073-47212002000200005（4 页，11000 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.1590-s0073-47212002000200005",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:13:59",
+        "chunks": [
+          {
+            "chunk": "0001-0004",
+            "txt": "_unpublished/文库/10.1590-s0073-47212002000200005/0001-0004.txt",
+            "chars": 11000,
+            "paragraphs": 173,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.1590-s0073-47212002000200005.pdf",
+            "sha256": "30c4b2afcc135ffd47d0ce3ff36d8a5bf1ed7a9f30a56068c51ab8bf8598092a",
+            "bytes": 11046
+          }
+        ]
+      },
+      "authors": [
+        "Alexandre Vasconcellos"
+      ],
+      "year": 2002,
+      "lang": "en",
+      "doi": "10.1590/s0073-47212002000200005",
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Ibitermes inflatus sp. nov. (Figs. 1-9) Type material. BRAZIL, Paraíba: Rio Tinto, Reserva Biológica Guaribas (06o48’S; 35o06’W), 19.VI.2000, A.",
+          "locator": "species description (OA full text)",
+          "note": "支撑：Ibitermes inflatus 的种级形态描述"
+        }
+      ],
+      "id": "S0475"
+    },
+    {
+      "title": "Re-Deskripsi Leucopitermes Leucops; Subulitermes-Group (Isoptera, Termitidae, Nasutitermitinae) Di Stasiun Penelitian Suaq Balimbing, Aceh Selatan",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.22373/ekw.v4i2.4001",
+      "file_path": "_unpublished/文库/10.22373-ekw.v4i2.4001",
+      "chars": 23513,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:14:04+08:00",
+      "notes": "全文存于 _unpublished/文库/10.22373-ekw.v4i2.4001（13 页，23513 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.22373-ekw.v4i2.4001",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:14:04",
+        "chunks": [
+          {
+            "chunk": "0001-0013",
+            "txt": "_unpublished/文库/10.22373-ekw.v4i2.4001/0001-0013.txt",
+            "chars": 23513,
+            "paragraphs": 474,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.22373-ekw.v4i2.4001.pdf",
+            "sha256": "a87763970396e8280e6e0199dff9e218b444d9f69adb31577e831ee8941599d1",
+            "bytes": 23557
+          }
+        ]
+      },
+      "authors": [
+        "Ernilasari Ernilasari",
+        "Syaukani Syaukani",
+        "Jauharlina Jauharlina"
+      ],
+      "year": 2018,
+      "lang": "id",
+      "doi": "10.22373/ekw.v4i2.4001",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0476"
+    },
+    {
+      "title": "Jose Emmanuel I. De Luna; Nan‐Yao Su; Rudolf H. Scheffrahn 2026. A new record for Niuginitermes liklik Roisin & Pasteels, 1996 (Isoptera, Termitidae, Nasutitermitinae) from the Philippines. 10.15560/22.5.840",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.15560/22.5.840",
+      "file_path": "_unpublished/文库/10.15560-22.5.840",
+      "chars": 32402,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:20:55+08:00",
+      "notes": "全文存于 _unpublished/文库/10.15560-22.5.840（8 页，32402 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.15560-22.5.840",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:15:41",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/10.15560-22.5.840/0001-0008.txt",
+            "chars": 32402,
+            "paragraphs": 361,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.15560-22.5.840.pdf",
+            "sha256": "b375d774f12cbd4e22f3346242bed885b92a32acc149981fbb55995987aca9e7",
+            "bytes": 33149
+          }
+        ]
+      },
+      "authors": [
+        "Jose Emmanuel I. De Luna",
+        "Nan‐Yao Su",
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2026,
+      "lang": "en",
+      "doi": "10.15560/22.5.840",
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Niuginitermes liklik Roisin & Pasteels, 1996 Figures 2–7 New record. PHILIPPINES — Laguna Province • Los Baños, University of the Philippines Los Baños;",
+          "locator": "species description (OA full text)",
+          "note": "支撑：Niuginitermes liklik 的种级形态描述"
+        }
+      ],
+      "id": "S0477"
+    },
+    {
+      "title": "Eliana M. Cancello 1997. Rhynchotermes Guarany, new species and Rhynchotermes Piauy, new species (Isoptera, Termitidae, Nasutitermitinae) from Brazil. 10.11606/0031-1049.1997.40.p147-159",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11606/0031-1049.1997.40.p147-159",
+      "file_path": "_unpublished/文库/10.11606-0031-1049.1997.40.p147-159",
+      "chars": 26045,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:20:55+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11606-0031-1049.1997.40.p147-159（16 页，26045 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.11606-0031-1049.1997.40.p147-159",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:16:12",
+        "chunks": [
+          {
+            "chunk": "0001-0016",
+            "txt": "_unpublished/文库/10.11606-0031-1049.1997.40.p147-159/0001-0016.txt",
+            "chars": 26045,
+            "paragraphs": 500,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.11606-0031-1049.1997.40.p147-159.pdf",
+            "sha256": "3672b4b35cdf6a8599233fbb8edaac56f29930836fe23c15cc95528f200cfdcd",
+            "bytes": 26057
+          }
+        ]
+      },
+      "authors": [
+        "Eliana M. Cancello"
+      ],
+      "year": 1997,
+      "lang": "en",
+      "doi": "10.11606/0031-1049.1997.40.p147-159",
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Rhynchotermes piauy, sp. n. (figs.? - 13) Etimology: \"Piauy\" - from Tupi, meaning \"Piau river\". The \"piaus\" (Tupipy-ydu) are freshwater fishes of the genus Leporinus (Anostomidae) living in most Brazilian river basins.",
+          "locator": "species description (OA full text)",
+          "note": "支撑：Rhynchotermes piauy 的种级形态描述"
+        }
+      ],
+      "id": "S0478"
+    },
+    {
+      "title": "Rudolf H. Scheffrahn; Alexandre Vasconcellos 2020. Tauritermes bandeirai: A new drywood termite (Isoptera, Kalotermitidae) from the Caatinga and Atlantic Forest of Brazil. 10.3897/zookeys.954.52335",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.954.52335",
+      "file_path": "_unpublished/文库/10.3897-zookeys.954.52335",
+      "chars": 24357,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:20:55+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.954.52335（10 页，24357 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA full text via Unpaywall; downloaded for species descriptions。",
+      "library": {
+        "book": "10.3897-zookeys.954.52335",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:16:27",
+        "chunks": [
+          {
+            "chunk": "0001-0010",
+            "txt": "_unpublished/文库/10.3897-zookeys.954.52335/0001-0010.txt",
+            "chars": 24357,
+            "paragraphs": 361,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\10.3897-zookeys.954.52335.pdf",
+            "sha256": "e68d5e3f42963a0def87515d802d07786bed6960988ea17f9fff883fbde490fa",
+            "bytes": 24582
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "Alexandre Vasconcellos"
+      ],
+      "year": 2020,
+      "lang": "en",
+      "doi": "10.3897/zookeys.954.52335",
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Tauritermes bandeirai sp. nov. http://zoobank.org/3C739327-4FB8-4B77-8AD0-862A82237292 Figures 1, 2 Diagnosis. The soldier of T.",
+          "locator": "species description (OA full text)",
+          "note": "支撑：Tauritermes bandeirai 的种级形态描述"
+        }
+      ],
+      "id": "S0479"
+    },
+    {
+      "title": "Deskripsi ulang rayap tanah (Subulitermes-branch): Oriensubulitermes inanis (Haviland) (Termitidae: Nasutitermitinae) di Indonesia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5994/jei.16.2.75",
+      "file_path": "_unpublished/文库/syaukani-2019-oriensubulitermes-inanis",
+      "chars": 31225,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T00:53:42+08:00",
+      "notes": "全文存于 _unpublished/文库/syaukani-2019-oriensubulitermes-inanis（8 页，31225 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "syaukani-2019-oriensubulitermes-inanis",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T00:50:37",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/syaukani-2019-oriensubulitermes-inanis/0001-0008.txt",
+            "chars": 31225,
+            "paragraphs": 385,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oriensub.pdf",
+            "sha256": "8d870f80e99678388411ed1cea30e4b1fd566b68b18897704db04167c165d78c",
+            "bytes": 31389
+          }
+        ]
+      },
+      "authors": [
+        "Syaukani S.",
+        "Husni H.",
+        "Alfizar A.",
+        "Kesumawati E.",
+        "Novita N.",
+        "Rusdiana S.",
+        "Muarrif S.",
+        "Pribadi T."
+      ],
+      "year": 2019,
+      "lang": "id",
+      "doi": "10.5994/jei.16.2.75",
+      "used_in": [
+        "_data/morphology_species.json",
+        "_reports/species-morphology-coverage.md"
+      ],
+      "evidence": [
+        {
+          "quote": "Nasus panjang dan berbentuk silindris (karakter penting untuk genus ini), kepala krem kekuning-kuningan; nasus coklat kemerah-merahan; antena kuning; pronotum krem kekuningan; abdominal tergites dan kaki krem.",
+          "locator": "p. 77, Deskripsi karakter morfologi kasta prajurit",
+          "note": "兵蚁头色、鼻突形状与颜色"
+        },
+        {
+          "quote": "Kepala (Gambar 1): bentuk kepala (tanpa nasus) oval agak melebar, agak panjang dibandingkan lebar; tidak terdapat konstriksi (lekukan) di belakang antena; permukaan bagian dorsal kepala agak rata atau sedikit menekuk, serta agak menanjak ke bagian ujung nasus.",
+          "locator": "p. 77",
+          "note": "兵蚁头形、触角后无缢缩、头顶背面向鼻突略上翘"
+        },
+        {
+          "quote": "Mandibel kiri (Gambar 4A): Gigi apikal sangat besar dan bergabung dengan gigi pertama (karakter utama); gigi kedua berkambang dengan baik; gigi ketiga tidak muncul atau terlihat sejajar; gigi keempat tidak terlihat dari depan dan tumpang tindih dengan gigi molar",
+          "locator": "p. 77, Deskripsi karakter morfologi kasta pekerja",
+          "note": "工蚁左颚齿式，本种主要鉴别特征"
+        },
+        {
+          "quote": "Mandibel kanan (Gambar 4B): Tepi anterior dari gigi pertama agak lurus atau sedikit melekuk di bagian pangkal. Gigi kedua tidak berkembang (karakter spesifik untuk O. inanis).",
+          "locator": "p. 77",
+          "note": "工蚁右颚第二齿不发育，为本种特有"
+        },
+        {
+          "quote": "Panjang kepala termasuk nasus 1,47–1,49; Panjang kepala tanpa nasus 0,89–0,91; Nasus indeks 0,68–0,73; Lebar kepala maksimum 0,76–0,82; Tinggi kepala maksimum 0,51–0,53; Panjang pronotum 0,15–0,17; Lebar pronotum 0,42–0,44",
+          "locator": "p. 78, Tabel 2 (12 individu, 6 sarang)",
+          "note": "兵蚁量度范围"
+        }
+      ],
+      "id": "S0480"
+    },
+    {
+      "title": "Unpaywall API: OA status of genus-level type-species papers (Isoptera)",
+      "source_type": "database",
+      "reliability": "official",
+      "url": "https://api.unpaywall.org/v2/",
+      "year": 2026,
+      "lang": "en",
+      "evidence": [
+        {
+          "quote": "\"is_oa\": true, \"url\": \"http://hdl.handle.net/11449/208110\",",
+          "locator": "GET /v2/10.1163/1876312x-bja10014 (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": true, \"url\": \"https://doi.org/10.48580/dgrfq.v12\",",
+          "locator": "GET /v2/10.1080/002229301317067647 (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": false,",
+          "locator": "GET /v2/10.1071/IT9901147 (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": false,",
+          "locator": "GET /v2/10.1093/aesa/89.6.775 (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": false,",
+          "locator": "GET /v2/10.1111/j.1365-3113.1975.tb00013.x (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": false,",
+          "locator": "GET /v2/10.1111/j.1440-6055.1984.tb01902.x (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": false,",
+          "locator": "GET /v2/10.11646/zootaxa.3946.4.9 (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        },
+        {
+          "quote": "\"is_oa\": true, \"url\": \"https://doi.org/10.48580/d42yg.v82\",",
+          "locator": "GET /v2/10.11646/zootaxa.1769.1.1 (2026-11-19)",
+          "note": "DOI 的 OA 状态"
+        }
+      ],
+      "used_in": [
+        "_reports/genus-morphology-gaps.md"
+      ],
+      "notes": "2026-11-19 用 Unpaywall 2.0 API 查 8 个属级源文献 DOI 的 OA 状态；green 链接指向的仓储/镜像可达性另行检测。",
+      "accessed": "2026-11-19T00:56:35+08:00",
+      "canonical_key": "url:https://api.unpaywall.org/v2",
+      "id": "S0481"
     }
   ]
 }

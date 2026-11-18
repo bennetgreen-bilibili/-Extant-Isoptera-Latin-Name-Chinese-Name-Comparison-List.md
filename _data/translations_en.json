@@ -9981,6 +9981,237 @@
           "text": "Head and antennae pale yellow; thorax and legs cream white; abdominal tergites and sternites transparent, greyish due to intestinal contents. Pilosity of head and body of medium density. Body length about 4.00–5.00. Head capsule nearly circular, wider than long (length to mandible base 0.87–0.93, width 1.03–1.10). Fontanelle plate large, translucent, circular (diameter 0.12–0.14). Eyes and ocelli absent. Antennae 14-segmented, segment 3 about as long as segment 2, or slightly longer or slightly shorter; segment 4 shorter than or about equal to segment 3. Postclypeus pilose, strongly inflated, length slightly less than half the width, divided into two halves; anterior margin straight, posterior margin convex. Anteclypeus subtrapezoidal, transparent and hairless. Labrum domed, with a few hairs near the anterior margin. Pronotum strongly saddle-shaped (length 0.23–0.28, width 0.53–0.63), anterior margin without a notch."
         }
       ]
+    },
+    "/species/angulitermes-emersoni/": {
+      "note": "Rewritten from Chhotani (1997), entry 170; the original is in English. The original describes the alate and the soldier, with no worker description. The original gives the postclypeal width as “0.35-37”, the last digit being damaged by OCR, so that width is not recorded. The synonym list, literature citations, figure numbers and distribution records have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head yellowish brown, antennae brownish yellow, mandibles reddish brown, pronotum yellow, legs and abdomen yellowish white. Pilosity of the head moderate, denser at the frontal projection; the pronotum with fewer hairs than the head, the abdomen densely hairy. Head subrectangular, length to the mandibular base 0.84–0.98, maximum width 0.75–0.79 mm; the apex of the frontal projection broadly rounded; in lateral view the anterior margin slightly concave, the head surface behind the frontal projection without a depression. Frontal gland large. Antennae 14-segmented, segments 2 and 3 subequal, segment 4 shortest. Anterior margin of the labrum deeply concave, the anterolateral angles acute, each side with 1 seta. Mandibles long and slender, rod-like, the apex hooked, longer than the head, left mandible 1.0–1.06 mm, slightly incurved in lateral view. Postmentum short, rod-like, strongly arched, length 0.33–0.38, maximum width 0.24–0.25 mm. Pronotum saddle-shaped, anterior margin slightly concave, posterior margin convex, length 0.14–0.17, width 0.35–0.40 mm."
+        },
+        {
+          "label": "Alate",
+          "text": "Head dark brown, pale yellow around the fontanelle; antennae light brown; postclypeus and pronotum yellowish brown. Head and pronotum densely covered with short hairs and scattered long setae. Head capsule subcircular, wider than long, length to the labral apex 0.93–0.97, length to the mandibular base 0.57–0.60, maximum width including the eyes 0.78–0.81 mm. Fontanelle distinct. Eyes subcircular, maximum diameter 0.21–0.23 mm, the lower margin about 1/4 of its diameter from the lower margin of the head, that is, 0.05–0.06 mm. Ocelli oval, long diameter 0.09–0.10, short diameter 0.07 mm, their distance from the eye slightly less than their short diameter, that is, 0.05 mm. Antennae 15-segmented, segment 3 shortest. Postclypeus slightly raised, hairy, length 0.14–0.18 mm. Pronotum narrower than the head, the anterior and posterior margins slightly concave in the middle, the lateral margins rounded, length 0.43–0.45, width 0.65–0.71 mm."
+        }
+      ]
+    },
+    "/species/angulitermes-fletcheri/": {
+      "note": "Rewritten from Chhotani (1997), entry 171; the original is in English. The alate is recorded as unknown in the original, and only the soldier and the worker are described. The synonym list, literature citations, figure numbers, type-measurement table and distribution records have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head capsule pale yellow, antennae, legs and body milky white, mandibles brown. Head pilosity sparse, body pilosity denser. Body length 3.8–4.8 mm. Head capsule subrectangular, the sides nearly straight, length to the tip of the frontal projection 1.35–1.37, length to the mandibular base 1.20, width 0.91–0.95 mm; the frontal projection acutely conical, clearly projecting beyond the mandibular base, its length 0.22 mm. Antennae 14-segmented, segment 3 longer than segment 2, segment 4 slightly shorter than segment 2, the segments slender. Anterior margin of the labrum deeply concave, length 0.33, width 0.30 mm. Mandibles long and rod-like, the apex hooked, far longer than the head, length 1.43–1.45 mm, the ratio of left mandible length to head length 1.208. Postmentum rod-like, length 0.45, maximum width 0.30, waist width 0.25 mm. Pronotum strongly saddle-shaped, length 0.20, width 0.53 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Head capsule pale yellow, antennae, legs and body nearly white. Head pilosity moderate, body pilosity denser. Body length 3.8 mm. Head subcircular, length to the labral apex 0.95–1.00, length to the mandibular base 0.65–0.70, maximum width 0.75–0.80 mm. Fontanelle plate pale, circular, translucent. Antennae 14-segmented, segment 3 shorter than segment 2, segment 4 shortest. Postclypeus strongly convex, slightly more than half as long as wide, length 0.23, width 0.40 mm. Pronotum strongly saddle-shaped, length 0.18–0.20, width 0.45–0.49 mm."
+        }
+      ]
+    },
+    "/species/eremotermes-neoparadoxalis/": {
+      "note": "Rewritten from Chhotani (1997), entry 135; the original is in English. The original figures for the head width including the eyes, the mandible length, the postclypeal length and the long ocellar diameter contain OCR damage (e.g. “0.7S”, “0.SO”, “0.lS”, “0.OS”) and are not recorded. The worker is dimorphic and is combined in a single section. The synonym list, literature citations, figure numbers and distribution records have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head capsule deep straw yellow, antennae and body yellowish white, paler than the head; mandibles reddish brown, deep straw yellow at the base. Head and body rather densely hairy. Body length about 3.5–4.0 mm. Head capsule rectangular to oval, rather thick, maximum width 0.65–0.75, height 0.50–0.60 mm; frontal projection weak, the frontal surface steeply sloping forwards. Fontanelle distinct, at the beginning of the slope of the frontal surface, the distance from the occiput to the fontanelle 0.60–0.75 mm. Antennae 14-segmented, segment 3 slightly shorter than segment 2 and subequal to or slightly longer than segment 4; segment 5 longer and wider than segment 4. Labrum short, subsquare, the apex pointed, length 0.075–0.10, width 0.10–0.15 mm. Mandibles long, sword-shaped, slightly incurved, the apex pointed; the outer margin strongly incurved beyond the middle; each mandible with a small, reduced tooth beyond the middle, the tooth distance 0.35–0.45 mm, the ratio of the left mandibular tooth distance to mandible length 0.41–0.47. Postmentum short and swollen, length 0.30–0.37, maximum width 0.20–0.25, waist width 0.15 mm. Pronotum saddle-shaped, the anterior margin with or without a median concavity, the posterior margin straight and without a concavity, length 0.25, width 0.40–0.45 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "The worker is dimorphic. Major worker: head capsule straw-coloured, antennae, labrum and body paler than the head; head and body densely hairy. Body length about 3.5–4.0 mm. Head subsquare, length to the mandibular base 0.60–0.65, maximum width 0.70–0.75 mm. Fontanelle indistinct. Antennae 14-segmented, segment 2 equal to segments 3 and 4 together, segments 3, 4 and 5 subequal. Postclypeus swollen, about half as long as wide, the anterior margin straight, the posterior margin rounded. Pronotum saddle-shaped, the anterior margin slightly concave or usually without a concavity, the posterior margin straight, length 0.25, width 0.40 mm. The minor worker resembles the major worker but is slightly smaller."
+        },
+        {
+          "label": "Alate",
+          "text": "Head dark brown, antennae light brown, slightly darker at the apex; postclypeus light brown; pronotum slightly paler than the head; legs and abdomen light brown. Head and body densely hairy. Head capsule subcircular, length to the mandibular base 0.66–0.71 mm; fontanelle plate long, white. Eyes subcircular, maximum diameter 0.19–0.20, minimum diameter 0.16–0.17 mm, slightly convex, their distance from the lower margin of the head more than half their maximum diameter, that is, 0.11 mm. Ocelli oval, short diameter 0.06–0.07 mm, distance from the eye 0.04–0.06 mm. Antennae 15-segmented, segment 3 shortest. Postclypeus swollen, width 0.37–0.39 mm, length about half the width or slightly more. Pronotum subtrapezoidal, length 0.39–0.44, width 0.66–0.75 mm, the anterior margin nearly straight and without a concavity, the posterior margin markedly concave in the middle."
+        }
+      ]
+    },
+    "/species/eurytermes-assmuthi-modestior/": {
+      "note": "Rewritten from Chhotani (1997), entry 100; the original states that no specimen of this subspecies was available and transcribes the original description by Silvestri (1923) directly; that description is in English and is very brief. The alate is not described. The few measurements of the queen and the worker are too brief and are combined under “Other”. The synonym list, literature citations, figure numbers and distribution records have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head length 1.70 mm, width 1.08 mm, mandible length 0.78 mm. Antennae 14-segmented, segment 2 about one third longer than segment 3, segment 3 slightly longer than segment 4."
+        },
+        {
+          "label": "Other",
+          "text": "Queen body length 6 mm, head length 0.96 mm, head width between the eyes 0.90 mm, antennal length 1.72 mm, hind tibia length 1.18 mm; antennae 15-segmented, segment 2 twice the length of segment 3, segments 3 and 4 subequal. Worker head width 0.84 mm."
+        }
+      ]
+    },
+    "/species/microcerotermes-annandalei/": {
+      "note": "Rewritten from Chhotani (1997), entry 137; the original is in English. The original figure for the maximum width of the soldier postmentum contains OCR damage (“O.32-0.3~”) and that value is not recorded. The synonym list, literature citations, figure numbers, type-measurement table, distribution records and the discussion of the records from Thailand and Malaysia have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head brown, darker anteriorly; antennae and labrum light brown; mandibles dark reddish black; body yellow. Body length 4.08–5.5 mm. Head capsule subrectangular, length to the mandibular base 1.57–1.90, width 0.91–1.09 mm; the width slightly more than half the length, the width/length ratio 0.56–0.60. Fontanelle minute, at about 1/3 of the head from the front. Antennae 13-segmented, segment 3 shortest. Labrum subsquare, the anterior margin rounded, not narrowed to a point. Postclypeus not clearly delimited from the frontal surface. Mandibles short, thick and robust, slightly longer than half the head length, length 0.90–1.18 mm, the ratio of left mandible length to head length 0.51–0.60; the mandibles coarsely serrate, with a large tooth-like process slightly below the middle, the apex strongly incurved. Postmentum rod-like, with a long and narrow waist, length 0.92–1.19, waist width 0.17–0.27 mm. Pronotum saddle-shaped, the anterior margin deeply concave, the posterior margin nearly straight, length 0.30–0.41, width 0.55–0.73 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Head capsule straw-coloured, antennae and body pale yellow. Head and body rather densely hairy. Body length 4.0–4.6 mm. Head capsule somewhat square, length to the mandibular base 0.97–1.05, maximum width 0.91–0.97 mm. Fontanelle indistinct. Antennae 13-segmented, segment 3 shortest. Postclypeus swollen, slightly more than half as long as wide. Pronotum saddle-shaped, the anterior margin markedly concave, the posterior margin slightly concave in the middle, length 0.17–0.27, width 0.50–0.57 mm."
+        },
+        {
+          "label": "Alate",
+          "text": "Head capsule, pronotum and abdominal tergites chestnut brown; postclypeus paler; legs and abdominal sternites pale yellow; wings smoky brown. Head and body densely hairy. Body length with wings 7.3–9.0 mm, without wings 4.5–5.5 mm. Head capsule subsquare, length to the mandibular base 0.77–0.91, width including the eyes 0.80–0.98 mm; the Y-shaped suture distinct. Fontanelle plate small, smoky yellow, central. Eyes subcircular, maximum diameter 0.22–0.26 mm, about 1/2 of their diameter from the lower margin of the head. Ocelli oval, long diameter 0.07–0.09, short diameter 0.05–0.06 mm, about their long diameter from the eyes, that is, 0.062–0.068 mm. Antennae 14-segmented, segment 3 shortest. Postclypeus moderately swollen, slightly less than or about half as long as wide. Pronotum flat, subtrapezoidal, length 0.41–0.49, width 0.62–0.72 mm; the anterior margin straight, without a median concavity, the posterior margin convex with a shallow median concavity. The wing margins are hairy and the membrane bears micrasters; fore wing length 6.0–6.4, hind wing length 5.8–6.0 mm."
+        }
+      ]
+    },
+    "/species/nasutitermes-ceylonicus/": {
+      "note": "Rewritten from Chhotani (1997), entry 283; the original is in English. The species name in the original entry heading is printed as “ceylot:licus”, an OCR corruption of ceylonicus. The synonym list, literature citations, figure numbers and distribution records have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head capsule light brown, the nasus slightly darker than the head; antennae straw-coloured; pronotum light brown, darker anteriorly. The vertex with 1 pair of long setae, the base of the nasus with 2–4 hairs, not densely covered with fine hairs as in other species; the pronotum with fine hairs; the abdominal tergites with numerous short hairs, with 1 pair of long setae in the middle and 1 on each side, the sternites densely covered with long and short hairs. Body length 3.2–4.0 mm. Head capsule pear-shaped, length including the nasus 1.30–1.50, length excluding the nasus 0.79–0.95, maximum width 0.75–0.92 mm; nearly straight in lateral view, with an indistinct nasus. The nasus short, conical, length 0.50–0.55 mm, its ratio to the head length 0.56–0.59, bearing a tuft of long and short hairs at the apex. Antennae 12–13-segmented; with 12 segments segment 3 slightly longer than segment 2. Mandibles reduced, each with a distinct spine-like process. Pronotum saddle-shaped, length 0.18–0.20, width 0.40–0.46 mm, the anterior margin slightly concave, the posterior margin straight."
+        },
+        {
+          "label": "Worker",
+          "text": "Head capsule pale yellow, antennae, labrum and postclypeus slightly paler than the head; abdomen yellowish white. Head and body densely hairy. Body length 2.8–3.5 mm. Head capsule subcircular, length to the mandibular base 0.85, maximum width 1.00 mm. Fontanelle plate white, translucent, slightly elongate, length 0.13 mm. Antennae 13-segmented, segment 3 slightly longer than segment 2, segment 4 shortest. Postclypeus swollen, hairy, half as long as wide, length 0.20, width 0.45 mm. Pronotum saddle-shaped, length 0.25, width 0.45–0.53 mm, the anterior margin slightly concave or without a concavity."
+        },
+        {
+          "label": "Alate",
+          "text": "Head capsule chestnut brown; antennae, labrum and postclypeus brown; abdominal tergites chestnut brown, sternites light brown. Head and body moderately densely hairy. Body length 7.4 mm. Head capsule subsquare, length to the mandibular base 0.80–1.01, width including the eyes 1.20 mm; coronal suture indistinct. Fontanelle plate 0.11–0.14 mm long, narrow, translucent. Eyes small, subcircular, maximum diameter 0.31–0.36, minimum diameter 0.29–0.34 mm. Ocelli oval, translucent, long diameter 0.13–0.17, short diameter 0.08–0.11 mm, about their short diameter from the eyes, that is, 0.07–0.12 mm. Antennae 14–15-segmented; with 14 segments segment 3 subequal to segment 2 and segment 4 shortest; with 15 segments segment 3 half the length of segment 2 and also the shortest. Postclypeus swollen, hairy, less than half as long as wide, length 0.14–0.17, width 0.43–0.53 mm, the anterior margin incurved, the posterior margin convex. Pronotum subtrapezoidal, length 0.43–0.53, width 0.79–0.95 mm, the anterior margin straight and slightly concave in the middle, the posterior margin deeply concave. Wings light brown with a smoky tinge, densely hairy, fore wing 8.80–10.6 mm long; the micrasters of the wing membrane are papillae on the anterior and posterior margins and coarse non-stellate (3–6-armed) micrasters on the membrane."
+        }
+      ]
+    },
+    "/species/odontotermes-latigula/": {
+      "note": "Rewritten from Chhotani (1997), entry 249; the original is in English. The entry number and the species name in the original heading are corrupted by OCR as “108. Odontotermes JatiguJa”, but are in fact entry 249 and the species name latigula. The original gives the soldier width/length ratio as “0.8~-0.96”, the last digit being incomplete, so it is not recorded; the original gives the lower limit of the alate body length without wings as “li.4”, so only the upper limit is recorded. The synonym list, literature citations, figure numbers, distribution records and the discussion of the records from Myanmar have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head light brown to chestnut brown; antennae pale yellowish brown, darker at the apex than at the base; mandibles reddish brown to dark brown; body and legs yellowish white, the pronotum sometimes slightly darker. Head pilosity sparse, body pilosity moderately dense. Body length 4.50–6.50 mm. Head capsule oval, longer than wide, length to the mandibular base 1.20–1.50, maximum width 1.15–1.40 mm; the maximum width about at the middle, the sides narrowing forwards, the width at the mandibular base 0.75–0.88 mm, its ratio to the maximum width 0.60–0.68. Antennae 16–17-segmented; with 16 segments segment 3 slightly shorter than segment 2 and segment 4 shortest; with 17 segments segment 2 twice segment 3, segment 3 shortest and segment 4 slightly longer than segment 5. Labrum subtriangular, the apex pointed, slightly longer than wide. Mandibles sword-shaped, slightly hooked anteriorly, length 0.80–0.93 mm, the ratio to the head length 0.60–0.69. The left mandible with a pointed tooth at 1/3 from the distal end, the tooth distance 0.25–0.30 mm, the ratio of the tooth distance to the mandible length 0.30–0.34. The right mandible with a reduced tooth near the middle. Postmentum very wide, the sides strongly arched, slightly longer than wide, length 0.75–0.93, maximum width 0.55–0.70 mm, the width/length ratio 0.68–0.80, strongly swollen in lateral view. Pronotum saddle-shaped, the anterior margin slightly concave, the posterior margin markedly concave, length 0.50–0.65, width 0.80–1.00 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Monomorphic. Head capsule pale yellowish brown to dark brown; antennae brown at the apex and yellowish brown at the base; postclypeus, pronotum and legs paler than the head. Head and body rather densely hairy. Body length 3.40–4.50 mm. Head capsule subsquare, wider than long, widest at the antennal insertions, length to the mandibular base 1.15–1.50, maximum width 1.30–1.60 mm. Antennae 17-segmented, segment 3 shorter than segment 4, segment 5 shortest. Postclypeus swollen, hairy, less than half as long as wide. Pronotum saddle-shaped, the anterior margin slightly concave, the posterior margin deeply concave, length 0.40–0.53, width 0.68–0.80 mm. Mesonotum narrower than the pronotum, the posterior margin slightly concave; metanotum wider than the pronotum, the posterior margin nearly straight."
+        },
+        {
+          "label": "Alate",
+          "text": "Head capsule dark reddish brown, paler anteriorly; fontanelle plate pale yellowish brown; antennae brown; postclypeus pale yellowish brown; pronotum dark brown with a paler T-shaped mark; wings light brown; abdominal tergites brown, paler than the head and pronotum. Head and body densely hairy. Body length with wings 25.1–25.5 mm, without wings less than 12.6 mm. Head capsule subcircular, wider than long, length to the mandibular base 1.8–1.82, width including the eyes 2.5–2.55 mm. Fontanelle plate small, suboval. Eyes subcircular, strongly convex, maximum diameter 0.64–0.68, minimum diameter 0.60–0.61 mm, adjacent to the lower margin of the head. Ocelli large, oval, convex, long diameter 0.33–0.38, short diameter 0.28–0.32 mm, their distance from the eye less than their short diameter, that is, 0.15–0.23 mm. Antennae 19-segmented, segments 3, 4 and 5 subequal. Postclypeus swollen, hairy, less than half as long as wide, length 0.40–0.45, width 1.05–1.15 mm. Pronotum subtrapezoidal, slightly narrower than the head width including the eyes, length 1.23–1.30, width 2.25–2.30 mm. Wings light brown, long and narrow, fore wing 22.0–22.5, hind wing 20.00–20.65 mm; the radial colour band arises from the radial vein near the middle of the wing membrane."
+        }
+      ]
+    },
+    "/species/odontotermes-paralatigula/": {
+      "note": "Rewritten from Chhotani (1997), entry 255; the original is in English. The alate is recorded as unknown in the original, and only the soldier and the worker are described. The synonym list, literature citations, figure numbers, distribution records and discussion have been omitted.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Head capsule brown to chocolate brown; antennae paler than the head, darker at the apex than at the base; mandibles dark reddish brown, paler at the base; labrum concolorous with the head; body and legs pale yellow to light brown. Head pilosity sparse to moderate, body pilosity dense. Body length 5.4–7.0 mm. Head capsule wide, oval, widest posteriorly, length to the mandibular base 1.45–1.79, maximum width 1.40–1.74, width at the mandibular base 0.85–1.00 mm, the width/length ratio 0.75–0.90, the ratio of the width at the mandibular base to the maximum width 0.57–0.69. Antennae 17-segmented, segments 3 and 4 subequal, segment 5 shortest. Labrum ligulate, longer than wide, length 0.35–0.50, width 0.30–0.45 mm, with a row of long setae on each side. Mandibles sword-shaped, strongly incurved at the apex, longer than half the head length, length 0.85–1.0 mm, the ratio to the head length 0.53–0.62. The left mandible with a distinct tooth at about 1/3 from the distal end, the tooth distance 0.25–0.35 mm, the ratio of the tooth distance to the mandible length 0.30–0.35. The right mandible with a minute tooth slightly before the middle. Postmentum swollen, the sides strongly arched, widest at the middle, slightly longer than wide, length 0.80–1.0, maximum width 0.70–0.80 mm. Pronotum saddle-shaped, both the anterior and the posterior margins markedly concave, length 0.62–0.79, width 0.98–1.42 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Monomorphic. Head pale yellowish brown; antennae light brown, paler at the base; postclypeus paler than the head; body and legs yellowish white. Body length 4.4–5.0 mm. Head capsule subcircular, widest at the mandibular base, length to the mandibular base 1.35–1.40, maximum width 1.55–1.68 mm. Fontanelle plate translucent, forming an oval to circular spot. Antennae 18–19-segmented; with 18 segments segment 3 slightly shorter than segment 2, sometimes in the process of dividing, segment 4 shortest; with 19 segments segment 3 shortest, or segments 3, 4 and 5 subequal. Postclypeus swollen, less than half as long as wide, length 0.28–0.30, width 0.73–0.78 mm. Pronotum saddle-shaped, length 0.45–0.50, width 0.83–0.90 mm, the anterior margin markedly concave, the posterior margin considerably incurved."
+        }
+      ]
+    },
+    "/species/speculitermes-emersoni/": {
+      "note": "Rewritten from Chhotani (1997), entry 109; the original is in English. The soldier is recorded as unknown in the original, and only the alate and the worker are described. The terms “media” and “cubitus” of the original are kept for the corresponding veins. The synonym list, literature citations, figure numbers and distribution records have been omitted.",
+      "sections": [
+        {
+          "label": "Worker",
+          "text": "Head capsule pale reddish brown, the mid-dorsal spot much paler than the head; antennae and postclypeus pale yellow to light brown; pronotum and abdomen light brown. Head and body sparsely covered with long, fine hairs. Body length about 4.8–6.0 mm. Head subcircular, slightly wider than long, length to the mandibular base 0.94–1.09, maximum width 1.16–1.29 mm. Mid-dorsal spot large, circular, raised, diameter 0.13–0.17 mm. Antennae 14-segmented, segment 3 subequal to segment 2 and dividing. Postclypeus hairy, swollen, about half as long as wide, length 0.26–0.28, width 0.56–0.60 mm. Pronotum saddle-shaped, the anterior margin without a median concavity, the posterior margin subcircular, length 0.32–0.42, width 0.64–0.69 mm. Legs with the tibial spur formula 2:2:2, the dorsal spur of the fore tibia indistinct."
+        },
+        {
+          "label": "Alate",
+          "text": "Head capsule reddish brown; fontanelle plate or mid-dorsal spot much paler than the head; postclypeus, pronotum and abdominal tergites light brown; antennae, legs and ventral surface pale golden brown; wings transparent. Head and body densely covered with long hairs. Body length with wings 15.0 mm, without wings 8.0–8.4 mm. Head subcircular, width including the eyes greater than the length, width including the eyes 1.39–1.43, length to the mandibular base 0.98–1.05 mm. Fontanelle plate or mid-dorsal spot large, subcircular, raised, diameter 0.17–0.19 mm. Eyes subcircular, maximum diameter 0.34–0.35 mm, 0.07–0.09 mm from the lower margin of the head. Ocelli broadly oval, long diameter 0.18, short diameter 0.11–0.17 mm, their distance from the eye less than their short diameter, that is, 0.09–0.11 mm. Antennae 15-segmented, segment 3 shortest, segment 4 slightly longer than segment 3. Postclypeus swollen, densely covered with long and short hairs, about half as long as wide, length 0.34–0.35, width 0.64–0.68 mm. Pronotum flat, with irregular pale spots; the anterior margin straight, slightly raised and without a median concavity; the posterior margin nearly straight and slightly incurved in the middle; slightly narrower than the head, wider than long, length 0.62–0.68, width 1.18 mm. Legs with the tibial spur formula 3:2:2, the outer spur very small and inconspicuous. Wings transparent with a light brown tinge, covered with fine hairs; fore wing including the wing scales 13.10–14.7, hind wing including the wing scales 11.4–12.0 mm; the media of both wings with 2–3 branches and the cubitus with 11–12 branches."
+        }
+      ]
+    },
+    "/species/acorhinotermes-claritae/": {
+      "note": "Adapted from the species description of Acorhinotermes claritae by Castro Torres & Scheffrahn (2019), originally in English; only the minor soldier and the alate nymph are recorded, no alate description is available, and the major soldier may be absent; measurement-table headings, figure numbers, distribution and ecological records are not translated.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Soldier head capsule with the lateral margins concave, forming a constriction posteriorly; mandibular apical processes conspicuous, extending beyond the fontanelle. Compared with A. subfusciceps, the species is smaller and the mandibular apical processes are longer; in lateral view the vertex, the top of the head and the dorsal surface of the labrum form an almost straight line, whereas in A. subfusciceps this profile forms an obtuse angle. The labrum is also less deeply bifurcate apically than in A. subfusciceps."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head capsule in dorsal view with the lateral margins concave, the posterior constriction bearing 10–12 long, straight setae and no microsetae. Antennae 15- or 16-segmented, segment formula 2=3<4=5. Mandibles reduced, the apical processes long, straight and pointed. Labrum much elongate, widening toward the apex, apically bifid, in lateral view almost in the same plane as the vertex; fontanelle situated at one-fifth of the labral length from its base. Pronotum concolorous with the head, with 4–8 scattered setae, 2–4 on the anterior margin and 2–4 on the surface, without microsetae. Abdominal tergites pale yellow, the margins covered with a dense hair layer. Legs with numerous long and short setae, the setae of the fore tibia stout. Measurements: maximum head width 0.45–0.66 mm; head length (including labrum) 1.18–1.40 mm; labrum length 0.57–0.73 mm; pronotum width 0.39–0.56 mm, length 0.24–0.37 mm; hind tibia length 0.77–0.93 mm."
+        },
+        {
+          "label": "Nymph",
+          "text": "Head capsule yellowish brown, broadly oval, with numerous long setae. Antennae 20-segmented, segment 2 shorter than segment 3, segments 3 and 4 equal in length. Body dorsum concolorous with the head capsule. Compound eyes nearly circular, the ocular margin wide, distant from the antennal socket. Ocelli small, oval, clearly separated from the compound eyes. Clypeus tongue-shaped, without a frontal process supporting it. Pronotum with numerous long setae on the margins, the lateral margins rounded. Mandibular M1 more projecting than the apical tooth; the M1 of the right mandible more projecting than that of the left; the projecting length of the left M2 about half that of M1, M2 and M3 forming an obtuse angle, M3 and the molar tooth projecting equally far. Measurements: head length (including labrum) 1.27 mm; head width (including compound eyes) 1.39 mm, 1.21 mm excluding the compound eyes; compound eye diameter 0.25 mm; ocellus diameter 0.08 mm; pronotum length 0.78 mm, width 1.36 mm; body length (excluding wings) 6.81 mm."
+        }
+      ]
+    },
+    "/species/ibitermes-inflatus/": {
+      "note": "Adapted from the species description of Ibitermes inflatus by Vasconcellos (2002), originally in English; the alate is unknown (recorded as Imago unknown in the original), hence only the soldier and worker are included; figure numbers, localities and biological records are not translated.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "The soldier nasus distinctly extends beyond the apices of the mandibles, and the head capsule has strongly convex sides and an inflated middle, distinguishing the species from the other Ibitermes species. It is larger than I. tellustris and smaller than I. curupira. In the soldier of I. curupira the pronotum bears fewer setae on the anterior margin and surface, and the sides of the head are only weakly convex; in the soldier of I. tellustris the postclypeus is not inflated, the head has more setae, and the sides of the head are nearly parallel."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head capsule yellow to yellowish brown; antennal segments 1 and 2 yellow, the remaining segments yellowish brown; postclypeus pale brown; postmentum and labrum yellow; base of the nasus and mandibles yellowish brown, the middle of the nasus brown, the apex sepia brown; pronotum yellowish white; remainder of the body white. Head with few setae. Postclypeus with 4 setae, 2 apical and 1 on each side. Pronotum with 10–14 setae on the anterior margin, 3–6 on the posterior margin and 25–30 on the surface. Meso- and metanota with setae on the posterior margins. Abdominal tergites and sternites with setae on the anterior and posterior margins, the surface densely hairy, most hairs directed posteriorly. Head capsule slightly elongate, the sides convex and the middle slightly inflated, the posterior margin slightly convex; nasus conical, its apex distinctly extending beyond the apices of the mandibles, slightly upturned in lateral view; postclypeus very strongly inflated, reaching the middle of the nasus in dorsal view, with a distinct median depression; labrum directed downward, concealed by the postclypeus in dorsal view; postmentum moderately elongate, the sides convex; mandibles stout, without marginal teeth, curved inward and downward; antennae 14-segmented, segment 2 longer than segments 3, 4 and 5, the last three nearly equal in length; anterior margin of the pronotum concave in the middle, the posterior margin slightly convex in the middle. Tibial spur formula 2:2:2. Fore coxa without a lateral process. Measurements: head length (to the apex of the nasus) 2.66–2.88 mm; nasus length 0.91–1.08 mm; head length (to the mandibular base) 1.65–1.79 mm; head width 1.50–1.67 mm; head height 1.16–1.23 mm; pronotum width 0.94–1.02 mm; hind tibia length 1.25–1.35 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Apparently monomorphic. Head and antennae yellowish white; thorax white; abdominal sclerites transparent, the gut contents visible. Posterior and lateral parts of the head with about 7–10 setae, around the fontanelle 6–15 short hairs. Postclypeus with about 4 setae, 2 on the anterior margin and 2 in the middle, together with a few hairs. Pronotum with 2–4 setae on the anterior margin and 2–4 on the posterior margin, the surface with scattered short to long hairs. Meso- and metanota with long hairs to setae on the posterior margins. Abdominal chaetotaxy as in the soldier. Postclypeus strongly inflated. Left mandible index 1.1. Antennae 14-segmented, segment 2 longer than segments 3 and 4; in some specimens segment 3 partly divided. Abdomen oval; the mesenteric band of the mixed segment arises from the dorsal side of the midgut arch and then twists, its distal end terminating on the ventral and posterior sides of the mixed segment."
+        }
+      ]
+    },
+    "/species/niuginitermes-liklik/": {
+      "note": "Adapted from the identification record of De Luna, Su & Scheffrahn (2026), originally in English; that work is a new record, and the morphological characters are a check against the original description by Roisin & Pasteels (1996); the measurement table was not within the excerpted section, so only qualitative characters and the left mandible index are recorded.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Species-level identification rests on the combination of soldier and worker characters. Soldier monomorphic, head capsule orange with the nasus darker, the sides and posterior margin of the head slightly flattened; mandibles with an apical point; antennae 12-segmented, segment 3 the thinnest; nasus with 4 long setae at the base, 4 on the vertex and 2 on each side, situated laterally, plus scattered short hairs. Workers dimorphic, the major worker with a left mandible index of 0.45."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head capsule orange, the nasus darker; sides and posterior margin of the head slightly flattened; mandibles with an apical point; antennae 12-segmented, segment 3 the thinnest; nasus with 4 long setae at the base, 4 on the vertex, 2 on each side and situated laterally, with numerous short hairs scattered among them."
+        },
+        {
+          "label": "Worker",
+          "text": "Workers dimorphic. Major worker with a left mandible index of 0.45; the mandibular dentition, the enteric valve (EVA) structure and the gut configuration all agree with the generic characters. Mixed segment long; the mesenteric band of the midgut lies on the outer side of the gut loop and is connected to the rest of the midgut by a wide dorsal stalk; colon long, arising from the apex of the paunch and running posteriorly, then forming a three-dimensional S shape made up of two 180° bends, first anteriorly and then downward, the terminal portion running nearly straight to the rectum. The long colon is a diagnostic character of the genus."
+        }
+      ]
+    },
+    "/species/rhynchotermes-piauy/": {
+      "note": "Adapted from the species description of Rhynchotermes piauy by Cancello (1997), originally in English; the alate is unknown (recorded as Imago unknown in the original); figure numbers, type material and locality records are not translated, and soldier measurements are from 10 individuals of the same nest.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "The soldier is the smallest described so far in the genus. In R. nyctobius and R. nasutissimus the nasus is much longer and slenderer. The species resembles the minor soldier of R. diphyes, but the nasus is shorter and not inclined downward in lateral view, the mandibles are more strongly incurved and bear fine serrations on the inner apical part, which are absent in R. diphyes."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head capsule pyriform; nasus long, broad at the base and tapering toward the apex, forming a straight line with the posterior part of the head in lateral view. Mandibles long, strongly incurved, pointed apically, with fine serrations, each with a truncate tooth on the inner margin near the apical third, the two teeth about equal in size; when closed, the left mandible overlaps the right along its entire length. Labrum very small, pyriform, concealed beneath the postmentum and the closed mandibles. Anterior margin of the pronotum slightly concave or not concave. Antennae longer than the head, 14-segmented, segment 2 about as long as segment 3, segment 4 the smallest, segment 5 slightly longer than segment 4 and shorter than segments 2 and 3, segments 6 to 14 nearly equal in length to one another and longer than the preceding segments. Postmentum short, slightly square, slightly raised in lateral view. Fore coxal process variable in shape, truncate, conical or otherwise, always with microsculpture. Head with 6 erect setae; nasus without setae, hairy around the aperture. Labrum with 6 setae; pronotum with 4 setae on the anterior margin and some short hairs, the posterior margin with short hairs. Abdominal tergites with 4–6 erect setae on the posterior margin, together with a few short hairs and microsetae; the last three tergites with numerous short hairs directed posteriorly. Sternites with erect setae on the posterior margin, the surface with numerous short hairs directed posteriorly. Fore coxal process with 1 or 2 setae. Tibial spur formula 2:2:2. Measurements (10 soldiers from the same nest): head length 1.43–1.55 mm; nasus length 0.69–0.82 mm; head width 0.69–0.80 mm; pronotum length 0.26–0.35 mm, width 0.35–0.40 mm; hind tibia length 0.73–0.84 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Head capsule circular; pronotum as in the soldier. Antennae 14-segmented, segment 2 longer than segment 3, segments 4, 5 and 6 nearly as long as segment 3, segments 7 to 14 slightly longer than the other segments and nearly equal to one another. Fore coxal process very small, circular. Head with some erect setae and short hairs, more numerous than in the soldier. Abdominal tergites with some erect setae on the posterior margin, the surface with short hairs directed posteriorly. Sternites with some anteriorly directed setae and numerous short hairs directed posteriorly. Head yellow, mandibles slightly darker, the teeth and molar region chestnut brown; remainder of the body white, paler than pale yellow."
+        }
+      ]
+    },
+    "/species/tauritermes-bandeirai/": {
+      "note": "Adapted from the species description of Tauritermes bandeirai by Scheffrahn & Vasconcellos (2020), originally in English; the last row of the soldier measurement table records the antennal segment count as 10.58, clearly a typographical error, and is not included; figure numbers and distribution records are not translated.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "The soldier has conspicuous, stout frontal horns and rounded dorsal horns, which distinguish it from the other three species: in T. triceromegas the dorsal and frontal horns are more angular but much smaller, scarcely rising above the frontal surface in oblique view; in T. vitulus the dorsal horns are similar to those of this species but the frontal horns are absent; in T. taurocephalus the dorsal horns are higher and more angular, and the frontal horns are also absent. In the soldier of this species the frontal surface and the horns are more rugose, the basal swelling of the mandibles is broader and more angular, and antennal segment 3 is more clavate. The shape of the postmentum resembles only that of T. taurocephalus; in T. triceromegas the posterior part of the postmentum is elongate, and in T. vitulus the posterior part is widened. The alate has no distinctive features in the head and pronotum apart from the relatively very large ocelli and the smaller compound eyes; in the fore wing the media is sclerotized at the distal third and closely appressed to the radial sector."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head capsule in dorsal view deep chestnut brown from the postclypeus to the antennal carinae, becoming orange toward the vertex; the head capsule narrows toward the antennal carinae, which are rugose and visible in dorsal view. Frontal carina V-shaped, deeply cleft in the middle. Vertex and cheeks with about ten or more fine setae. Eye spot transparent, narrowly oval. In lateral view the dorsal horns form rounded, nearly right-angled arches; frontal horns projecting above the mandibular bases; genal horns slightly behind the frontal horns and in front of the dorsal horns. Pronotum shield-shaped, wider than the head; anterior margin rugose, deeply concave in the middle, the anterior lobes rounded. In oblique view the dorsal and frontal horns clearly rise above the frontal surface, the horns and frontal surface coarsely rugose. Postclypeus long, nearly a symmetrical hexagon. Antennal segment 3 slightly clavate, the relative lengths of the segments 2<3>4=5. Mandibles about two-fifths as long as the head capsule; basal swelling stout and rugose, its outer margin parallel. Outer margin of the mandible nearly straight in dorsal view, turning at a right angle at one-fifth from the apex; apical tooth stout, marginal tooth weak; in lateral view the mandible evenly curved about 15°. Measurements: head length (to the mandibular apex) 1.95–2.25 mm; head length (to the postclypeus) 1.30–1.50 mm; head width 0.95–1.20 mm; span across the antennal carinae 0.98–1.18 mm; span across the dorsal horns 0.72–0.95 mm; span across the frontal horns 0.82–0.98 mm; pronotum width 0.98–1.19 mm, length 0.70–0.93 mm; postmentum maximum width 0.33–0.40 mm, minimum width 0.18–0.26 mm, median width 0.50–0.68 mm; head height (excluding postmentum) 0.77–0.96 mm."
+        },
+        {
+          "label": "Alate",
+          "text": "Head capsule and pronotum pale brown. Compound eyes obtusely triangular; ocelli slightly paler than the vertex, very large, roundly oval, nearly touching the ocular margin. Vertex with about ten or more short setae. Pronotum about as wide as the head; anterior margin slightly concave in the middle; several tens of setae in the middle, about ten or more on each lateral margin. Antennae 15-segmented, the relative lengths of the basal segments 1>2<3>4. In the fore wing the subcosta merges with the costa at about one-eighth of the wing length from the wing suture; the radius merges with the costa at about one-third of the wing length; the radial sector has about 4 anterior branches; the media is slightly sclerotized at the distal third and close to the radial sector; the wing membrane and the first 4–5 branches of the cubitus are pale, concolorous with the distal radial sector and media. Arolium present. Measurements: head width excluding the compound eyes 0.63–0.88 mm (female), 0.79–0.86 mm (male); including the compound eyes 0.70–1.04 mm (female), 0.91–0.98 mm (male); pronotum width 0.90–1.08 mm (female), 0.83–0.90 mm (male); compound eye diameter 0.30–0.35 mm (female), 0.26–0.30 mm (male); body length 4.56–6.32 mm (female), 4.88–5.36 mm (male)."
+        }
+      ]
+    },
+    "/species/oriensubulitermes-inanis/": {
+      "note": "Rewritten from the redescription by Syaukani et al. (2019) based on specimens from Indonesia; only the soldier and worker castes are described, the original account has no alate. Soldier measurements are the range for 12 specimens from 6 colonies.",
+      "sections": [
+        {
+          "label": "Soldier",
+          "text": "Body small. Head (excluding nasus) oval, slightly longer than wide, without a constriction behind the antennae; dorsal surface of the head flat or slightly concave, rising gently toward the tip of the nasus. Nasus long and cylindrical, more than half the length of the head capsule, nasus index 0.68–0.73; tip of the nasus with several hairs and 4 short setae. Antennae 12-segmented, segment 3 slightly longer than segment 2, segments 3 and 4 subequal, segments 5–12 gradually lengthening toward the tip. Mandibles without a projecting tooth at the tip. Pronotum saddle-shaped, without projections on the anterior or posterior margin. Legs short. Head pale yellow to yellowish brown, nasus reddish brown, antennae yellow, pronotum pale yellow, abdominal tergites and legs pale yellow; a pair of setae on the posterior part of the head. Measurements (mm): head including nasus 1.47–1.49, head without nasus 0.89–0.91, maximum head width 0.76–0.82, maximum head height 0.51–0.53, pronotum length 0.15–0.17, pronotum width 0.42–0.44."
+        },
+        {
+          "label": "Worker",
+          "text": "Body minute, integument semi-transparent. Left mandible: apical tooth very large and fused with the first tooth, the main diagnostic character of the species; second tooth well developed; third tooth not projecting or appearing level; fourth tooth not visible from the front, overlapping the molar tooth; molar tooth slightly elliptical. Right mandible: anterior margin of the first tooth rather straight or slightly concave at the base; second tooth undeveloped, a character specific to O. inanis; molar notch well developed, its upper and lower lamellae of unequal thickness, outer margin of the molar tooth distinctly concave. No worker measurements were given in the original account."
+        }
+      ]
     }
   },
   "fauna_families": {
