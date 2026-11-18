@@ -1029,7 +1029,7 @@ Glossotermes sulcatus 具纹舌白蚁（巴西）
 ## 杆白蚁科 STYLOTERMITIDAE
 杆白蚁科为现生单型科，
 唯含杆白蚁属 Stylotermes Holmgren & Holmgren, 1917。
-该类群由 Holmgren 与 Holmgren 于 1917 年建立，
+该类群由两位同姓作者 K. Holmgren 与 N. Holmgren 于 1917 年建立，
 模式属即 Stylotermes。
 科名源自模式属，希腊语 stylos（柱）加 termes。(3)本名录收录 1 属 45 种。
 本科为东洋界（亚洲南部与东南部）特有，约 35 种为中国南方山地所特有，西至印度、孟加拉国，

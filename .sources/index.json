@@ -3,7 +3,7 @@
     "version": 1,
     "count": 459,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-18T21:35:37+08:00",
+    "updated": "2026-11-18T21:47:24+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -1180,7 +1180,7 @@
       "publisher": "Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18",
       "reliability": "peer_reviewed",
       "lang": "en",
-      "accessed": "2026-11-15T03:23:49+08:00",
+      "accessed": "2026-11-18T21:47:24+08:00",
       "evidence": [
         {
           "quote": "When molested by predators such as ants, or when grasped by forceps and placed in alcohol, the abdominal muscles contract convulsively and the abdomen ruptures across a line of weakness behind the first tergite. The intestines erupt through the gap and themselves tend to burst, scattering their slimy contents.",
@@ -1506,11 +1506,17 @@
           "quote": "Pericapritermes pallidipes (Sjöstedt) comb. n.\n\nEutermes pallidipes Sjöstedt, 1900 : 172. Syntype imagos, CAMEROON: Kribi, in Zoologisches\n   Museum, Berlin.\n\nAnoplotermes pallidipes (Sjöstedt) ; Sjöstedt, 1926 : 289.",
           "locator": "p. 0001-0200.txt L202-L207",
           "note": "支撑：/species/pericapritermes-pallidipes/，Pericapritermes pallidipes (Sjöstedt) comb. n.，原名 Eutermes pallidipes，曾作 Anoplotermes pallidipes；OCR 讹字已按上下文校正"
+        },
+        {
+          "quote": "Acholotermes chirotus sp. n.\n\n    (Text-figs 340, 341, 348, 349 & 356-361; Pl. 3, figs 1& 2)\n\n   Imago. Head capsule sepia-brown, darker above ocelli; fontanelle very small, less than one-\nquarter size of ocellus, nearly flat, circular or short oval, pale brown; medial spot same size and\nshape as fo",
+          "locator": "条目 Acholotermes chirotus sp. n.（Text-figs 340…）",
+          "note": "支撑：Sands 1972 以 sp. n. + 品级 + Measurements 给种级描述，可改写（A 类判据）"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
         "_data/taxon_literature.json",
+        "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/06-sands-emerson.json",
         "_tools/fauna/morphology/descriptions/sands1972.json",
         "未发布内容/白蚁基础知识-中文稿-修订-v5.docx"
@@ -6060,7 +6066,7 @@
       "file_path": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
       "chars": 583391,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T07:11:13+08:00",
+      "accessed": "2026-11-18T21:47:07+08:00",
       "notes": "全文存于 _unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)（583391 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
@@ -6106,7 +6112,8 @@
       "lang": "en",
       "doi": "10.5962/p.192782",
       "used_in": [
-        "_data/etymology.json"
+        "_data/etymology.json",
+        "_reports/species-morphology-coverage.md"
       ],
       "evidence": [
         {
@@ -6128,6 +6135,11 @@
           "quote": "ALYSCOTERMES gen. n. (Alysko, Gr., 'flee from, shun, wander')",
           "locator": "Alyscotermes 属描述（目录 p.125）",
           "note": "支撑：Alyscotermes 属名词源 = alysko（逃避）"
+        },
+        {
+          "quote": "Astalotermes acholus sp. n.\n\n(Text-figs 156-159, 170, 171 &amp; 178-183; PI. 1, fig. 6)\n\nImago . Head capsule dark sepia-brown, very dark above ocelli; fontanelle subject to pro¬\nnounced sexual dimorphism, in $, large sunken pale brown area approximating in size to com¬\npound eye, surface slightly i",
+          "locator": "条目 Astalotermes acholus sp. n.（本副本 HTML pre 包裹）",
+          "note": "支撑：第二 OCR 副本同样含种级条目；两副本统计时只算一次（A 类判据，去重 52）"
         }
       ],
       "id": "S0074"
@@ -6140,7 +6152,7 @@
       "file_path": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon",
       "chars": 391457,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T20:13:08+08:00",
+      "accessed": "2026-11-18T21:47:07+08:00",
       "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。；archive.org 全文镜像：https://archive.org/details/bulletin-american-museum-natural-history-57-401-574",
       "library": {
         "book": "Termites-of-the-Belgian-Congo-and-the-Cameroon",
@@ -6178,6 +6190,7 @@
       "used_in": [
         "_data/etymology.json",
         "_data/morphology_genera.json",
+        "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/08-african.json",
         "_tools/fauna/morphology/descriptions/19-emerson1928-subgenera.json",
         "_tools/fauna/morphology/descriptions/20-emerson1928-subgenera2.json"
@@ -6302,6 +6315,11 @@
           "quote": "Head light brownish yellow; oval; fontanelle a round light dot and rather small; head covered with short hairs and a few long bristles. The third segment of the antennae very small, the fourth about equal to the second. Eyes of medium size, round, not particularly close to the lower margin. Ocelli large, very close to the eyes.",
           "locator": "p. 450",
           "note": "支撑：圆球白蚁属有翅成虫头、触角、眼、单眼"
+        },
+        {
+          "quote": "Macrotermes (Bellicositermes) natalensis (Haviland)\n\nPlates XXIII, Figure 1; XXIV; XXV; XXVI; Text Figure 14\nImago. —Head dark brown, oval; fontanelle inconspicuous, same color as head.\nThe third segment of the antennae longest, the second and the fourth equal. Eyes\nrather large, oval. Ocelli. 165 m",
+          "locator": "条目 Macrotermes (Bellicositermes) natalensis (Haviland)",
+          "note": "支撑：Emerson 1928 条目以「学名独占一行 + Imago./Soldier.」结构给种级描述（A 类判据）"
         }
       ],
       "id": "S0075",
@@ -7800,7 +7818,7 @@
       "file_path": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
       "chars": 1491143,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T02:20:04+08:00",
+      "accessed": "2026-11-18T21:47:07+08:00",
       "notes": "全文存于 _unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa（1491143 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan; archive.org record year 1989 is wrong, title page cites April 1997.。",
       "library": {
         "book": "The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
@@ -7898,6 +7916,7 @@
       "url": "https://archive.org/details/dli.zoological.fi.027",
       "used_in": [
         "_data/taxon_literature.json",
+        "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/10-zsi-books.json"
       ],
       "evidence": [
@@ -7935,6 +7954,11 @@
           "quote": "Worker : Head subcircular; fontanelle round; epicranial suture present. Antennae with 13 segments; segments short and broadly rounded. Postclypeus weakly swollen; length about 1/4 of width.",
           "locator": "p. 747（Roonwalitermes，Worker）",
           "note": "支撑：鲁恩沃白蚁属工蚁触角 13 节、后唇基仅微隆（约宽的四分之一）"
+        },
+        {
+          "quote": "221. Macrotermes gilvus (Hagen)\n\n        (Synonyms: Termes dives Hagen, Termes azarelli Wasmann,\nTermes malayanus Haviland, Termes (Macrotermes) philippinensis\nOshima,. Termes (Macrotermes) luzonensis Oshima, Termes (Macrotermes)\nmanilaensi",
+          "locator": "条目 221 Macrotermes gilvus（目录 p. 412）",
+          "note": "支撑：本书有编号种级条目（异名表 + 描述 + 量度 + 分布），可作为待补种的描述源（A 类判据）"
         }
       ],
       "id": "S0104"
@@ -8452,7 +8476,7 @@
       "file_path": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)",
       "chars": 1311241,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T16:54:33+08:00",
+      "accessed": "2026-11-18T21:47:07+08:00",
       "notes": "全文存于 _unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)（1311241 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；全卷扫描件的 archive.org OCR 文本（含 Mjoberg, E. 1920. Results of Dr. E. Mjobergs Swedish Scientific Expeditions to Australia 1910-1913. 19. Isoptera. Arkiv for Zoologi 12 (15): 1-128 + 6 pls.）。Ahamitermes 属级描述见 p. 89。OCR 有噪声（ae/oe 变音丢失、断行）。",
       "library": {
         "book": "Arkiv-for-zoologi.-Band-12-(1920)",
@@ -8535,6 +8559,7 @@
       "lang": "sv",
       "url": "https://archive.org/details/arkivfrzoologi12kung",
       "used_in": [
+        "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/14-hill1942.json"
       ],
       "evidence": [
@@ -8547,6 +8572,11 @@
           "quote": "jaws very short and stout, broad at the base, curved, without any dentition whatsoever (on the innerside of the left jaw there are two very minute, hardly visible »teeth»)",
           "locator": "p. 90（A. nidicola 兵蚁）",
           "note": "支撑：无钩白蚁属兵蚁上颚完全无齿，仅左颚内侧有两枚极微小齿"
+        },
+        {
+          "quote": "11.    Coptotermes  lacteus  Frogg.\n\nThe  most  common,  and  at  the  same  time  the  most  de-\nstructive,  of  the  Australian  termites.  It  is  spread  all  över\nAustralia  and  seems  to  vary  slightly  in  the  different  places.\nAccording  to  Frogga",
+          "locator": "Mjöberg 1920, Isoptera 条目 11",
+          "note": "支撑：Mjöberg 卷内白蚁部分为编号种级条目 + 描述 + Measurements（A 类判据），但以 1920 年组合书写"
         }
       ],
       "id": "S0113",
@@ -8870,7 +8900,7 @@
       "file_path": "_unpublished/文库/Monographie-der-Termiten-Afrikas",
       "chars": 672490,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T22:08:51+08:00",
+      "accessed": "2026-11-18T21:47:07+08:00",
       "notes": "全文存于 _unpublished/文库/Monographie-der-Termiten-Afrikas（672490 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；德文 Fraktur 老刊；archive.org 数字化本自带 OCR（djvu.txt），转写有 Fraktur 认读噪声（如 Hagen→Hägen/Hagks、Calotermes→CnUermes 等），引用须对照原书页影核实。Hodotermes 属级描述在 pp. 22–23（1900 年其为广义属，含今 Stolotermes/Porotermes 亚属）。",
       "library": {
         "book": "Monographie-der-Termiten-Afrikas",
@@ -8927,6 +8957,7 @@
       "lang": "de",
       "url": "https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
       "used_in": [
+        "_reports/species-morphology-coverage.md",
         "_tools/fauna/morphology/descriptions/22-sjostedt1900.json"
       ],
       "evidence": [
@@ -8959,6 +8990,11 @@
           "quote": "Deutliche schwarze Facettenaugen stets vorhanden. Kopf gelblich bis gelbrot, kreisförmig; Epistom schmal; die zwei ersten Zähne der Mandibeln klein, gleich gross; Fühler 24–32-gliedrig; Thorax viel schmaler als der Kopf und der Hinterleib, von den Hinterleibssegmenten deutlich verschieden",
           "locator": "p. 22 (Arbeiter)",
           "note": "工蚁；Fraktur OCR 校正。"
+        },
+        {
+          "quote": "Termes natalensis ILw.\n\nTermei uat'iUnsvi Havii.as», Joiirn. Linn. Suc. K.Hi.1. XXVI. v . 3*:i, Taf. •»:!, Fig. 7— 10.\n\nTenne* tumnlicola SJÖSTKI>T. F.n1. Nadir. XXV. 1 p. :14.\n\nTermes brllicosu* iwv S.MEATll., IIaokx. l.iuti. Knt. XII. ex. p.. ].. l'Ju, Vinn",
+          "locator": "条目 Termes natalensis ILw.（p. 102 附近）",
+          "note": "支撑：1900 年用老组合 Termes，条目按 Imago/Soldat 给德文描述；当代名需异名桥接（记 bridged）"
         }
       ],
       "id": "S0118"

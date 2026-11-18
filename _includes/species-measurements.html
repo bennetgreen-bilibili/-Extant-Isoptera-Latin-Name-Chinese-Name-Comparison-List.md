@@ -1,0 +1,44 @@
+{%- assign zh_url = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- assign fmeas = site.data.fauna_measurements[zh_url] -%}
+{%- assign mterms = site.data.fauna_measure_terms -%}
+{%- if fmeas and fmeas.tables.size > 0 -%}
+<section class="species-measurements" lang="{% if page.lang == 'en' %}en{% elsif page.lang == 'es' %}es{% else %}zh-CN{% endif %}">
+  <h2>{% if page.lang == 'en' %}Measurements{% elsif page.lang == 'es' %}Medidas{% else %}量度{% endif %}</h2>
+  {%- for t in fmeas.tables %}
+  {%- assign any_mean = false -%}
+  {%- assign any_mm = false -%}
+  {%- for r in t.rows -%}
+    {%- if r.mean -%}{%- assign any_mean = true -%}{%- endif -%}
+    {%- assign _term = mterms[r.key] -%}
+    {%- if _term.kind != 'count' -%}{%- assign any_mm = true -%}{%- endif -%}
+  {%- endfor -%}
+  <h3>{% if page.lang == 'en' %}{{ t.label_en }}{% elsif page.lang == 'es' %}{{ t.label_es }}{% else %}{{ t.label_zh }}{% endif %}</h3>
+  <div class="table-wrap">
+  <table class="measure-table">
+    <thead>
+      <tr>
+        <th scope="col">{% if page.lang == 'en' %}Character{% elsif page.lang == 'es' %}Carácter{% else %}项目{% endif %}</th>
+        <th scope="col">{% if page.lang == 'en' %}Range{% elsif page.lang == 'es' %}Intervalo{% else %}量度{% endif %}{% if any_mm %}{% if page.lang == 'en' %} ({{ t.unit }}){% elsif page.lang == 'es' %} ({{ t.unit }}){% else %}（{{ t.unit }}）{% endif %}{% endif %}</th>
+        {%- if any_mean %}
+        <th scope="col">{% if page.lang == 'en' %}Mean{% elsif page.lang == 'es' %}Media{% else %}平均{% endif %}</th>
+        {%- endif %}
+      </tr>
+    </thead>
+    <tbody>
+      {%- for r in t.rows %}
+      {%- assign term = mterms[r.key] %}
+      <tr>
+        <th scope="row">{% if page.lang == 'en' %}{{ term.en }}{% elsif page.lang == 'es' %}{{ term.es }}{% else %}{{ term.zh }}{% endif %}</th>
+        <td>{{ r.value }}{% if term.kind == 'count' %}{% if page.lang == 'en' %} segments{% elsif page.lang == 'es' %} segmentos{% else %} 节{% endif %}{% endif %}</td>
+        {%- if any_mean %}
+        <td>{{ r.mean }}</td>
+        {%- endif %}
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
+  </div>
+  {%- endfor %}
+  <p class="species-fauna-source">{% if page.lang == 'en' %}Source: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% elsif page.lang == 'es' %}Fuente: Huang Fusheng et al. (2000), <i>Fauna Sinica</i>, Insecta vol. 17, Isoptera, Science Press.{% else %}文献依据：黄复生等（2000）《中国动物志·昆虫纲 第十七卷 等翅目》，科学出版社。{% endif %}{% if page.lang == 'en' %} (entry no. {{ fmeas.book_n }} in the original work){% elsif page.lang == 'es' %} (entrada n.º {{ fmeas.book_n }} del libro original){% else %}（原书第 {{ fmeas.book_n }} 号条目）{% endif %}</p>
+</section>
+{%- endif %}

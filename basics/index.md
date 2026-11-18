@@ -15,7 +15,7 @@ permalink: /basics/
 ## 正文
 
 <ul>
-  <li><a href="{{ site.base_url }}/basics/morphology/"><strong>形态篇</strong></a> — 六组结构：品级与两套体型、头部、胸部·翅·足、腹部、兵蚁专有结构、内部器官，末附命名、异名对照与文献出处。想确认一枚标本属哪一品级、或某个术语指哪里，从这里查。</li>
+  <li><a href="{{ site.base_url }}/basics/morphology/"><strong>形态篇</strong></a> — 六组结构：品级与两套体型、头部、胸部·翅·足、腹部、兵蚁专有结构、内部器官，末附命名、异名对照与文献出处。</li>
 </ul>
 
 <p class="muted">如发现事实或术语错误，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>

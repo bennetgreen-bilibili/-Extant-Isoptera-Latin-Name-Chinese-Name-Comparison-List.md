@@ -145,3 +145,4 @@
 - 提交前：`python _tools/check_site.py --ci`、`python _tools/check_liquid.py`。
 - `_species/*.md` 的 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 之间不要手改。
 - 外部权威库缓存（`_data/authority_links.json` 等）只在需要刷新时跑，刷完必须重跑 `build_name_issues.py`。
+- **页面文案只写内容，不写导读**：网页上不得出现面向读者的元说明句——「想确认……从这里查」「本文 / 本页讲的是……」「值得注意」「不难看出」「换句话说」这类介绍内容的句子。读者要的是事实和术语本身，不是对它们的导览。此类引导语只能出现在 `_tools/`、`_reports/`、`_drafts/`、`_pending_pages/` 等不发布的文件里。

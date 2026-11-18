@@ -1,0 +1,290 @@
+{
+ "antennal_segments": {
+  "en": "Antennal segments",
+  "es": "Segmentos antenales",
+  "kind": "count",
+  "zh": "触角节数"
+ },
+ "body_length": {
+  "en": "Body length",
+  "es": "Longitud del cuerpo",
+  "kind": "mm",
+  "zh": "体长"
+ },
+ "body_length_with_wings": {
+  "en": "Body length with wings",
+  "es": "Longitud con alas",
+  "kind": "mm",
+  "zh": "体长（连翅）"
+ },
+ "body_length_without_wings": {
+  "en": "Body length without wings",
+  "es": "Longitud sin alas",
+  "kind": "mm",
+  "zh": "体长（不连翅）"
+ },
+ "eye_head_lower_margin": {
+  "en": "Eye to lower head margin",
+  "es": "Distancia ojo–margen inferior de la cabeza",
+  "kind": "mm",
+  "zh": "复眼至头下缘距"
+ },
+ "eye_long_diameter": {
+  "en": "Eye long diameter",
+  "es": "Diámetro mayor del ojo",
+  "kind": "mm",
+  "zh": "复眼长径"
+ },
+ "eye_short_diameter": {
+  "en": "Eye short diameter",
+  "es": "Diámetro menor del ojo",
+  "kind": "mm",
+  "zh": "复眼短径"
+ },
+ "forewing_length": {
+  "en": "Forewing length",
+  "es": "Longitud del ala anterior",
+  "kind": "mm",
+  "zh": "前翅长"
+ },
+ "forewing_scale_length": {
+  "en": "Forewing scale length",
+  "es": "Longitud de la escama del ala anterior",
+  "kind": "mm",
+  "zh": "前翅鳞长"
+ },
+ "head_height": {
+  "en": "Head height",
+  "es": "Altura de la cabeza",
+  "kind": "mm",
+  "zh": "头高"
+ },
+ "head_height_without_gula": {
+  "en": "Head height without gula",
+  "es": "Altura de la cabeza sin gula",
+  "kind": "mm",
+  "zh": "头高（不连后颏）"
+ },
+ "head_length_labrum_tip": {
+  "en": "Head length to labrum tip",
+  "es": "Longitud de la cabeza hasta el ápice del labro",
+  "kind": "mm",
+  "zh": "头长至上唇端"
+ },
+ "head_length_mandible_base": {
+  "en": "Head length to mandible base",
+  "es": "Longitud de la cabeza hasta la base de las mandíbulas",
+  "kind": "mm",
+  "zh": "头长至上颚基"
+ },
+ "head_length_nasal_tip": {
+  "en": "Head length to nasus tip",
+  "es": "Longitud de la cabeza hasta el ápice del naso",
+  "kind": "mm",
+  "zh": "头长至鼻端"
+ },
+ "head_length_with_mandibles": {
+  "en": "Head length with mandibles",
+  "es": "Longitud de la cabeza con mandíbulas",
+  "kind": "mm",
+  "zh": "头长连上颚"
+ },
+ "head_length_with_nasus": {
+  "en": "Head length with nasus",
+  "es": "Longitud de la cabeza con naso",
+  "kind": "mm",
+  "zh": "头长连象鼻"
+ },
+ "head_length_without_mandibles": {
+  "en": "Head length without mandibles",
+  "es": "Longitud de la cabeza sin mandíbulas",
+  "kind": "mm",
+  "zh": "头长不连上颚"
+ },
+ "head_length_without_nasus": {
+  "en": "Head length without nasus",
+  "es": "Longitud de la cabeza sin naso",
+  "kind": "mm",
+  "zh": "头长不连象鼻"
+ },
+ "head_max_width": {
+  "en": "Maximum head width",
+  "es": "Anchura máxima de la cabeza",
+  "kind": "mm",
+  "zh": "头最宽"
+ },
+ "head_width": {
+  "en": "Head width",
+  "es": "Anchura de la cabeza",
+  "kind": "mm",
+  "zh": "头宽"
+ },
+ "head_width_behind_antennae": {
+  "en": "Head width behind antennal sockets",
+  "es": "Anchura de la cabeza tras las antenas",
+  "kind": "mm",
+  "zh": "头在触角后缘宽"
+ },
+ "head_width_mandible_base": {
+  "en": "Head width at mandible base",
+  "es": "Anchura de la cabeza en la base de las mandíbulas",
+  "kind": "mm",
+  "zh": "头在颚基宽"
+ },
+ "head_width_with_eyes": {
+  "en": "Head width with eyes",
+  "es": "Anchura de la cabeza con ojos",
+  "kind": "mm",
+  "zh": "头宽（连眼）"
+ },
+ "hind_femur_length": {
+  "en": "Hind femur length",
+  "es": "Longitud del fémur posterior",
+  "kind": "mm",
+  "zh": "后足腿节长"
+ },
+ "hind_femur_width": {
+  "en": "Hind femur width",
+  "es": "Anchura del fémur posterior",
+  "kind": "mm",
+  "zh": "后足腿节宽"
+ },
+ "hind_tibia_length": {
+  "en": "Hind tibia length",
+  "es": "Longitud de la tibia posterior",
+  "kind": "mm",
+  "zh": "后足胫节长"
+ },
+ "hindwing_scale_length": {
+  "en": "Hindwing scale length",
+  "es": "Longitud de la escama del ala posterior",
+  "kind": "mm",
+  "zh": "后翅鳞长"
+ },
+ "labrum_length": {
+  "en": "Labrum length",
+  "es": "Longitud del labro",
+  "kind": "mm",
+  "zh": "上唇长"
+ },
+ "labrum_width": {
+  "en": "Labrum width",
+  "es": "Anchura del labro",
+  "kind": "mm",
+  "zh": "上唇宽"
+ },
+ "left_mandible_length": {
+  "en": "Left mandible length",
+  "es": "Longitud de la mandíbula izquierda",
+  "kind": "mm",
+  "zh": "左上颚长"
+ },
+ "mesonotum_width": {
+  "en": "Mesonotum width",
+  "es": "Anchura del mesonoto",
+  "kind": "mm",
+  "zh": "中胸背板宽"
+ },
+ "metanotum_width": {
+  "en": "Metanotum width",
+  "es": "Anchura del metanoto",
+  "kind": "mm",
+  "zh": "后胸背板宽"
+ },
+ "nasus_length": {
+  "en": "Nasus length",
+  "es": "Longitud del naso",
+  "kind": "mm",
+  "zh": "鼻长"
+ },
+ "ocellus_eye_distance": {
+  "en": "Ocellus–eye distance",
+  "es": "Distancia ocelo–ojo",
+  "kind": "mm",
+  "zh": "单复眼间距"
+ },
+ "ocellus_length": {
+  "en": "Ocellus length",
+  "es": "Longitud del ocelo",
+  "kind": "mm",
+  "zh": "单眼长"
+ },
+ "ocellus_long_diameter": {
+  "en": "Ocellus long diameter",
+  "es": "Diámetro mayor del ocelo",
+  "kind": "mm",
+  "zh": "单眼长径"
+ },
+ "ocellus_short_diameter": {
+  "en": "Ocellus short diameter",
+  "es": "Diámetro menor del ocelo",
+  "kind": "mm",
+  "zh": "单眼短径"
+ },
+ "ocellus_width": {
+  "en": "Ocellus width",
+  "es": "Anchura del ocelo",
+  "kind": "mm",
+  "zh": "单眼宽"
+ },
+ "postmentum_length": {
+  "en": "Postmentum length",
+  "es": "Longitud del postmentón",
+  "kind": "mm",
+  "zh": "后颏长"
+ },
+ "postmentum_max_width": {
+  "en": "Postmentum maximum width",
+  "es": "Anchura máxima del postmentón",
+  "kind": "mm",
+  "zh": "后颏最宽"
+ },
+ "postmentum_min_width": {
+  "en": "Postmentum minimum width",
+  "es": "Anchura mínima del postmentón",
+  "kind": "mm",
+  "zh": "后颏最狭"
+ },
+ "postmentum_width": {
+  "en": "Postmentum width",
+  "es": "Anchura del postmentón",
+  "kind": "mm",
+  "zh": "后颏宽"
+ },
+ "pronotum_length": {
+  "en": "Pronotum length",
+  "es": "Longitud del pronoto",
+  "kind": "mm",
+  "zh": "前胸背板长"
+ },
+ "pronotum_max_width": {
+  "en": "Pronotum maximum width",
+  "es": "Anchura máxima del pronoto",
+  "kind": "mm",
+  "zh": "前胸背板最宽"
+ },
+ "pronotum_mid_length": {
+  "en": "Pronotum mid-length",
+  "es": "Longitud media del pronoto",
+  "kind": "mm",
+  "zh": "前胸背板中长"
+ },
+ "pronotum_width": {
+  "en": "Pronotum width",
+  "es": "Anchura del pronoto",
+  "kind": "mm",
+  "zh": "前胸背板宽"
+ },
+ "right_mandible_length": {
+  "en": "Right mandible length",
+  "es": "Longitud de la mandíbula derecha",
+  "kind": "mm",
+  "zh": "右上颚长"
+ },
+ "wing_length": {
+  "en": "Wing length",
+  "es": "Longitud del ala",
+  "kind": "mm",
+  "zh": "翅长"
+ }
+}
