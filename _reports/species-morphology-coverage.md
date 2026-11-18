@@ -92,20 +92,25 @@
 
 数据文件：`_reports/species-morphology-coverage.csv`（逐种，status = A / B-paper / B-only / C）；对不上号清单：`_reports/species-morphology-no-source.md`。
 
-## 实施结果（2026-11-19，第三轮）
+## 实施结果（2026-11-19，第六轮）
 
-- A 类 326 种中 **305 种**已写成中文形态描述（第一轮 286、第二轮抢救 9、第三轮重抽 9、第四轮 Oriensubulitermes inanis 1）；另补 1 个 B-only 种 `archotermopsis-kuznetsovi`（S0463），并据新入库 OA 论文补写 6 种（acorhinotermes-claritae、ibitermes-inflatus、niuginitermes-liklik、rhynchotermes-piauy、tauritermes-bandeirai、oriensubulitermes-inanis）。`_data/morphology_species.json` 81 → **392**，站点待补 2573 → **2262**。
-- 已写条目分来源：S0104 207、S0005 46、S0074 4、S0118 19、S0075 15、S0113 4、S0106 2、S0251 1、S0034 2、S0115 2、S0348 2、S0463 1、S0041 1、S0475 1、S0477 1、S0478 1、S0479 1、S0480 1。
+- A 类 326 种中 **310 种**已写成中文形态描述（第一轮 286、第二轮抢救 9、第三轮重抽 9、第四轮 Oriensubulitermes inanis 1、第五轮 Cryptotermes sumatrensis / Nasutitermes triodiae / Tumulitermes pastinator 3、第六轮 Macrotermes falciger 1）；另补 1 个 B-only 种 `archotermopsis-kuznetsovi`（S0463），并据新入库 OA 论文补写 6 种（acorhinotermes-claritae、ibitermes-inflatus、niuginitermes-liklik、rhynchotermes-piauy、tauritermes-bandeirai、oriensubulitermes-inanis）。另据用户提供的 Hill (1927) 与 Ruelle (1970) 原文补写 Neotermes papua（未在 A 名单内）。`_data/morphology_species.json` 81 → **397**，站点待补 2573 → **2257**。
+- 已写条目分来源：S0104 207、S0005 46、S0074 4、S0118 19、S0075 15、S0113 4、S0106 2、S0251 1、S0034 2、S0115 2、S0348 2、S0463 1、S0041 1、S0475 1、S0477 1、S0478 1、S0479 1、S0480 1、S0487 1、S0488 1、S0489 1、S0490 1、S0491 1。
 - 第三轮重抽：16 个初判「错配」的种逐条复查 Fauna of India 目录与正文，救回 9 种（angulitermes-emersoni、angulitermes-fletcheri、eremotermes-neoparadoxalis、eurytermes-assmuthi-modestior、microcerotermes-annandalei、nasutitermes-ceylonicus、odontotermes-latigula、odontotermes-paralatigula、speculitermes-emersoni）；余 7 个在文库中确无本种描述。
 - 外部描述源：从 `_data/papers.json` 筛出 154 篇含种级描述线索的论文，经 Unpaywall 查得 87 篇 OA、下载入库 15 篇（新增 S0468–S0479），其中 12 个种的切片可用、成文 5 种；其余因切片只有分类沿革/分子/生态内容未写。另有 12 篇因 403/非 PDF 未入库。
-- en / es：`translations_en|es.morphology_species` 81 → **392**，与中文条目一一对应。
-- A 类余 **21 种**：错配 7、无账户 7、原文无品级 7。
+- en / es：`translations_en|es.morphology_species` 81 → **397**，与中文条目一一对应。
+- A 类余 **16 种**：错配 7、无账户 3、原文无品级 7；名单共 17 个 slug，其中 astalotermes-conciliаns（含西里尔字母 а）与 atlantitermes-guanim 在 `_species/` 下文件名不符，故实际未写数按 16 计。
 
-### A 类余 21 种
+### A 类余 16 种
 
 - 错配（文库无本种描述）：ancistrotermes-crucifer-diversana、microcerotermes-fuscotibialis-libericus、microcerotermes-fuscotibialis-validior、microcerotermes-labioangulatus-wahkdaitensis、nasutitermes-matangensis-christmasensis、nasutitermes-matangensis-matangensioides、nasutitermes-matangensis-pyricephalus。
-- 无账户（文库仅名录/属级提及）：ancistrotermes-microdens、cryptotermes-sumatrensis、kaudernitermes-nigritus、macrotermes-falciger、nasutitermes-triodiae、termes-fatalis、tumulitermes-pastinator。
+- 无账户（文库仅名录/属级提及）：ancistrotermes-microdens、kaudernitermes-nigritus、termes-fatalis。
 - 原文无品级描述：anacanthotermes-viarum、astalotermes-conciliаns、pericapritermes-ceylonicus、proneotermes-perezi、atlantitermes-guanim、hypotermes-makhamensis、labiotermes-labralis（后三种所在论文实为甲虫，永不可用）。
 
+## 新得外部文献（2026-11-19 夜）
+
+- **Ruelle 1970**《A revision of the termites of the genus Macrotermes from the Ethiopian region》已入库（S0490，BHL part 78394），据其补写 `macrotermes-falciger`（镰刀大白蚁；有翅成虫、大/小型兵蚁、大型工蚁，pp. 381–384）。
+- **Hill 1927**《Termites from the Australian Region. Part I》（Memoirs of the National Museum, Melbourne 7，S0491，IA `memoirsnational7natia`）已入库；全文按学名对号得到 37 个待补种候选（含 Neotermes papua、Microcerotermes papuanus、Coptotermes elisae 等），已据其补写 `neotermes-papua`；其余候选的 OCR 质量不一，须逐条核对量度后再生。
+
 <!-- src:S0104 --><!-- src:S0005 --><!-- src:S0118 --><!-- src:S0075 --><!-- src:S0113 --><!-- src:S0463 -->
-<!-- src:S0041 --><!-- src:S0475 --><!-- src:S0477 --><!-- src:S0478 --><!-- src:S0479 --><!-- src:S0480 -->
+<!-- src:S0041 --><!-- src:S0475 --><!-- src:S0477 --><!-- src:S0478 --><!-- src:S0479 --><!-- src:S0480 --><!-- src:S0487 --><!-- src:S0488 --><!-- src:S0489 --><!-- src:S0490 --><!-- src:S0491 -->

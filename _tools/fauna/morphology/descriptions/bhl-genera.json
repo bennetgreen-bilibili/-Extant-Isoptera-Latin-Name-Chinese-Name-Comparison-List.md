@@ -1,0 +1,75 @@
+{
+  "/genus/allodontermes/": {
+    "zh_name": "奇齿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁唇基大部分透明，上唇具透明端尖；左上颚端部基侧有 3 个小刻痕，其余齿发达；右颚中齿与端部之间有齿的痕迹；触角 17 节。有翅成虫体中等，体长约 10 mm，翅展约 40 mm，体光滑、黄褐色，翅透明。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头侧向，复眼靠近；触角 19 节，第 3 节短于第 2、4 节；前胸背板长约为其宽之半，略窄于头（含眼），平坦；中、后胸背板宽凹；前翅鳞明显大于后翅鳞，但不及后翅鳞基部；径脉较弱，很快与翅前缘合并；径分脉伸达翅端；前翅中脉与翅鳞分离，后翅中脉起自径分脉基部，两翅中脉均近肘脉；中脉向端部多少分支。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头较大，两侧平行、卵形，平凸；囟不明显；头缝不可见；唇基基节相当膨大，横卵形，较大，未完全抵达上颚髁；复眼退化或很清晰、甚至具色素；上颚髁很大；右上颚有第 2 齿的痕迹；触角 16–17 节，第 2 节长于第 3 节，第 3 节等于或略长于第 4 节；前胸背板小，不及头宽之半，前缘上翘；至少前、中胫节具侧刺；前足胫节有 3 个端刺；具腹刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0033",
+        "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+        "locator": "pp. 335–338"
+      },
+      {
+        "id": "S0483",
+        "citation": "Fuller, C. 1921. The Termites of South Africa; Being a Preliminary Notice. South African Journal of Natural History 3(1): 14–52.",
+        "locator": "pp. 23, 26"
+      },
+      {
+        "id": "S0484",
+        "citation": "Fuller, C. 1922. The Termites of South Africa. South African Journal of Natural History 3(2): 70–131.",
+        "locator": "p. 71"
+      }
+    ],
+    "note": "Holmgren (1912) 把 Allodontermes 作为 Protermes 的亚属处理，属征段写在 «Protermes» 之下；Fuller (1921, 1922) 作独立属。有翅成虫体长与翅展取自 Fuller 1921 的有翅成虫检索表，其余形态据 Holmgren 的亚属描述与亚属检索表。"
+  },
+  "/genus/hesperotermes/": {
+    "zh_name": "西澳白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "单型属，仅 Hesperotermes infrequens 一种。兵蚁额突退化，头壳红褐色；在 Termes 复合属的兵蚁检索表中，额突退化即直接检索到本属。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "额突退化（Fig. 5a），头壳红褐色；其余形态与 Termes 复合属相近，原文未单列属征段。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0485",
+        "citation": "Perry, D. H., Watson, J. A. L., Bunn, S. E. & Black, R. 1985. Guide to the termites (Isoptera) from the extreme south-west of Western Australia. Journal of the Royal Society of Western Australia 67(2): 66–78.",
+        "locator": "p. 74 (Table 3), p. 82"
+      }
+    ],
+    "note": "原文没有独立属征段，只有兵蚁检索表的一步与一条属注；本条目仅写这两处能确证的性状，其余留待 Hill (1942) 等专著。"
+  },
+  "/genus/caribitermes/": {
+    "zh_name": "加勒比白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "单型属，模式种 Caribitermes discolor（Banks, 1919），原置于 Parvitermes。头壳在触角后微缢；属征基于该性状、成虫上颚与肠解剖。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0486",
+        "citation": "Krishna, K. & Grimaldi, D. 2009. Diverse Rhinotermitidae and Termitidae (Isoptera) in Dominican Amber. American Museum Novitates 3640: 1–48.",
+        "locator": "p. 38"
+      }
+    ],
+    "note": "属征系 Krishna & Grimaldi (2009, p. 38) 对 Roisin et al. (1996) 的转引，未读到 Roisin 原文；本站该属仅 C. discolor 一种，另有琥珀化石种 C. hispaniola。"
+  }
+}

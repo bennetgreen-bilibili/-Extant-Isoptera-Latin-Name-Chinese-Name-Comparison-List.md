@@ -4082,6 +4082,45 @@
           "text": "Soldado grande mandibulado; antenas con más de 20 segmentos; los cercos son evidentes en todas las castas."
         }
       ]
+    },
+    "/genus/allodontermes/": {
+      "note": "Adaptado del relato genérico en alemán de Holmgren (1912), que trató Allodontermes como subgénero de Protermes; Fuller (1921, 1922) lo consideró un género distinto. La longitud del cuerpo y la envergadura del alado proceden de la clave de Fuller.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Soldado: clípeo en gran parte hialino; labro con una punta hialina; la parte apical de la mandíbula izquierda con 3 pequeñas muescas en su lado basal, los demás dientes bien desarrollados; mandíbula derecha con una indicación de diente entre el diente medio y el ápice; antenas de 17 artejos. Alado: tamaño mediano, cuerpo de unos 10 mm de largo, envergadura alar de unos 40 mm, cuerpo liso, pardo amarillento, alas hialinas."
+        },
+        {
+          "label": "Alado",
+          "text": "Cabeza en visión lateral, ojos próximos; antenas de 19 artejos, el 3.º más corto que el 2.º y el 4.º; pronoto aproximadamente la mitad de largo que de ancho, algo más estrecho que la cabeza con los ojos, plano; meso- y metanoto ampliamente escotados; escama alar anterior claramente mayor que la posterior pero sin alcanzar la base de esta; radio débil, que se une pronto al margen anterior del ala; sector radial hasta el ápice del ala; media del ala anterior libre de la escama, la del ala posterior nace en la base del sector radial, la media de ambas alas próxima al cúbito; media más o menos ramificada hacia el ápice."
+        },
+        {
+          "label": "Obrero",
+          "text": "Cabeza relativamente grande, oval de lados paralelos, poco convexa; fontanela poco visible; suturas craneales invisibles; parte basal del clípeo bastante inflada, transversalmente oval, bastante grande, sin alcanzar del todo los cóndilos mandibulares; ojos compuestos rudimentarios o muy distintos, incluso pigmentados; cóndilos mandibulares muy grandes; mandíbula derecha con indicio del diente 2; antenas de 16–17 artejos, el 2.º más largo que el 3.º, el 3.º igual o algo más largo que el 4.º; pronoto pequeño, menos de la mitad del ancho de la cabeza, con el lóbulo anterior levantado; al menos las tibias anterior y media con espinas laterales; tibias anteriores con 3 espinas apicales; estilos presentes."
+        }
+      ]
+    },
+    "/genus/hesperotermes/": {
+      "note": "La fuente no da un diagnóstico genérico separado, solo un paso de la clave de soldados y una nota sobre el género; se recogen únicamente los caracteres verificables allí.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Monotípico, solo Hesperotermes infrequens. Soldado con tubérculo frontal reducido y cápsula cefálica de color pardo rojizo; en la clave de soldados del complejo Termes, un tubérculo frontal reducido conduce directamente a este género."
+        },
+        {
+          "label": "Soldado",
+          "text": "Tubérculo frontal reducido (Fig. 5a); cápsula cefálica pardo rojiza; por lo demás semejante al complejo Termes; la fuente no ofrece un diagnóstico genérico separado."
+        }
+      ]
+    },
+    "/genus/caribitermes/": {
+      "note": "Los caracteres del género los cita Krishna y Grimaldi (2009) de Roisin et al. (1996); no se consultó el original.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Monotípico; especie tipo Caribitermes discolor (Banks, 1919), antes incluida en Parvitermes. Cápsula cefálica muy ligeramente constreñida detrás de las antenas; el género se describió por este carácter, las mandíbulas del imago y la anatomía del intestino."
+        }
+      ]
     }
   },
   "morphology_species": {
@@ -10210,6 +10249,111 @@
         {
           "label": "Obrero",
           "text": "Cuerpo diminuto, tegumento semitransparente. Mandíbula izquierda: diente apical muy grande y fusionado con el primer diente, principal carácter diagnóstico de la especie; segundo diente bien desarrollado; tercer diente no saliente o aparentemente alineado; cuarto diente no visible de frente, superpuesto al diente molar; diente molar algo elíptico. Mandíbula derecha: margen anterior del primer diente bastante recto o ligeramente cóncavo en la base; segundo diente no desarrollado, carácter específico de O. inanis; escotadura molar bien desarrollada, con láminas superior e inferior de grosor desigual, margen externo del diente molar claramente cóncavo. El trabajo original no da medidas del obrero."
+        }
+      ]
+    },
+    "/species/cryptotermes-sumatrensis/": {
+      "note": "Reescrito a partir de la descripción original de Kemner (1930); la tabla de medidas del original alemán está parcialmente dañada por el OCR, por lo que solo se dan las medidas legibles de alado y soldado; se omiten las del obrero.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Los alados son claramente mayores que los de Cryptotermes domesticus, cuerpo con alas 10.30–11.00 mm; cabeza del soldado con mandíbulas 1.62–1.66 mm, cuerpo 3.50–4.50 mm, mandíbulas más largas que en C. domesticus."
+        },
+        {
+          "label": "Soldado",
+          "text": "Mitad anterior de la cápsula cefálica negra profunda, mitad posterior pardo amarillenta; mandíbulas negras; antenas y palpos pardo amarillento claro. Cabeza subcuadrada, algo más ancha que alta; margen anterior profundamente inciso en dos lóbulos elevados separados por un surco profundo, con una depresión redondeada detrás. Antenas de 12 artejos. Pronoto con margen anterior levantado e inciso angularmente, margen posterior recto. Tibia anterior con 3 espolones apicales, el tercero pequeño y liso. Cuerpo 3.50–4.50 mm; cabeza con mandíbulas 1.62–1.66 mm."
+        },
+        {
+          "label": "Obrero",
+          "text": "Cuerpo blanco, puntas de las mandíbulas pardas. Mandíbula izquierda con dos muescas basales poco profundas y un diente distinto en el tercio externo; mandíbula derecha con dos dientes pequeños y romos en el margen interno, el basal cerca de la mitad. La longitud del cuerpo y la anchura de la cabeza varían con el estadio."
+        },
+        {
+          "label": "Alado",
+          "text": "Cuerpo pardo amarillento, cabeza, pronoto y terguitos abdominales más oscuros, vientre más claro. Cabeza ovalada, claramente más larga que ancha; frente poco deprimida; ojos compuestos grandes; ocelos pequeños y oblicuos. Antenas de 15 artejos. Pronoto claramente inciso por delante, redondeado por detrás, casi recto en el medio. Alas hialinas, solo el margen costal y las venas pardo amarillentos; ala anterior con sector radial de 7 ramas anteriores, media unida al sector radial más allá de la mitad del ala, cubitus con unas 14 ramas; ala posterior con sector radial de 3 ramas anteriores. Cuerpo con alas 10.30–11.00 mm; ala anterior con escama 9.20–9.60 mm."
+        }
+      ]
+    },
+    "/species/nasutitermes-triodiae/": {
+      "note": "Rewritten from the original description by Froggatt (1898), where the species was placed in Eutermes as Eutermes triodiae; measurements are given in lines and not converted; plates and nest description omitted.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Alados con la superficie superior castaña y alas fuscescentes, antenas de 15 artejos, submediana del ala anterior con 11–12 venas oblicuas; soldado con cabeza castaño oscuro y naso corto y puntiagudo, antenas de 14 artejos; obrero con cabeza pardo amarillento claro y dos manchas pardo oscuro en la superficie superior separadas por una sutura media clara."
+        },
+        {
+          "label": "Soldado",
+          "text": "Cabeza castaño oscuro, más oscura en los lados y en la base del naso, ápice del naso pardo rojizo; antenas ocre, más claras en ambos extremos de cada artejo; pronoto y terguitos abdominales con manchas pardo amarillentas, resto amarillo claro. Cabeza casi circular hasta la base antenal, naso corto y puntiagudo, con una sutura media tenue; antenas de 14 artejos, primero robusto y truncado, segundo más corto, tercero delgado, cuarto a decimotercero elongado-piriforme, terminal oval; palpos sobrepasando el naso; pronoto con margen anterior en cresta, lados y margen posterior redondeados; patas largas y delgadas."
+        },
+        {
+          "label": "Obrero",
+          "text": "Cabeza pardo amarillento claro, centro de la superficie superior pardo oscuro, dividido en dos manchas redondeadas por una sutura media amarillo claro que se une a una sutura frontal transversa y forma otra banda; clípeo muy prominente, profundamente dividido en dos lóbulos redondeados; labro estrecho en la base y ensanchado hacia el ápice; mandíbulas robustas con dos dientes apicales y un diente romo debajo; antenas de 14 artejos, tercero y sexto más largos."
+        },
+        {
+          "label": "Alado",
+          "text": "Cabeza, tórax, placas escapulares y terguitos abdominales castaños, resto ocre claro; alas fuscescentes con venas más oscuras. Cabeza redondeada por detrás, anchura a través de los ojos aproximadamente igual a la distancia del occipucio al borde anterior del clípeo; frente inclinada; ojos grandes, redondos, algo salientes; ocelos grandes, ovales irregulares, alineados con los centros oculares; antenas de 15 artejos, primero robusto y cilíndrico, tercero el más corto, cuarto a decimocuarto anchamente turbinados, terminal elongado-oval; clípeo grande, profundamente dividido en dos lóbulos; mandíbulas moderadas con dientes apicales curvos; pronoto ancho y acampanado, margen anterior truncado, posterior anchamente redondeado; alas tres veces más largas que anchas, submediana con 11–12 venas oblicuas, las seis primeras engrosadas. Longitud al ápice del ala unas 5 líneas."
+        }
+      ]
+    },
+    "/species/tumulitermes-pastinator/": {
+      "note": "Rewritten from the original description by Hill (1915), where the species was placed in Eutermes as Eutermes pastinator; nest and biology omitted.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Alado con cabeza casi negra, cuerpo ocre apagado, alas ahumadas, cuerpo con alas 20.5 mm; soldado con cabeza pardo herrumbrosa, base del naso más oscura y occipucio claramente más claro; obrero con cabeza ferruginosa clara."
+        },
+        {
+          "label": "Soldado",
+          "text": "Cabeza pardo herrumbrosa, base del naso más oscura, parte posterior de la cabeza claramente más clara; cuerpo ocre amarillento. Cabeza redondeada por detrás y estrechada hacia el naso; naso con pelos finos y cerdas en el ápice, resto de la cabeza con cerdas rojizas largas y dispersas; palpos largos, alcanzando el ápice del naso; antenas de 14 artejos, bases de los artejos 2–6 blanquecinas, primero largo y cilíndrico, cuarto a décimo alargándose, undécimo a decimocuarto acortándose; pronoto pequeño y más estrecho que la cabeza, más ancho que largo, redondeado delante y detrás, mitad anterior levantada en el centro y con flecos de pelos largos; patas muy largas, fémures marcadamente contraídos en la base; abdomen pequeño."
+        },
+        {
+          "label": "Obrero",
+          "text": "Cabeza ferruginosa clara por encima; clípeo, tórax y patas ocre muy claro; resto blanquecino. Cabeza redondeada por detrás, más ancha en el medio, arqueada detrás del clípeo, con una sutura media clara que se une a una sutura transversa, una mancha ferruginosa oscura en cada extremo del clípeo; clípeo grande y convexo, dividido por una sutura media, lobulado delante, ápice romo y puntiagudo; labro grande, más estrecho en la base y ensanchado hacia el ápice; mandíbulas cortas; antenas de 16 artejos."
+        },
+        {
+          "label": "Alado",
+          "text": "Cabeza casi negra; antenas, clípeo, labro, palpos, patas y vientre ocre apagado; tórax y terguitos abdominales pardo oscuro, esternitos 2–6 con una mancha oscura en cada extremo. Cabeza peluda, redondeada por detrás, vértice aplanado con una hendidura media estrecha; ojos grandes, redondos y salientes; ocelos grandes y ovales; antenas de 16 artejos, primero largo y cilíndrico, segundo y tercero menores, cuarto corto, quinto a decimoquinto más delgados, terminal elongado-oval; clípeo grande y convexo, lobulado delante; mandíbulas robustas, derecha con dos dientes apicales agudos seguidos de un diente romo más corto y un gran diente basal aserrado, izquierda con dos dientes apicales, el posterior unido por un largo borde cortante a un tercer diente pequeño; pronoto más ancho que largo y más estrecho que la cabeza, margen anterior recto y algo levantado en el centro, peludo; alas grandes y redondeadas, base costal amarilla, resto ahumado, media del ala anterior con 3 venillas simples, submediana con 11 venas oblicuas, las cinco primeras gruesas. Cuerpo con alas 20.5 mm; cuerpo 10 mm."
+        }
+      ]
+    },
+    "/species/macrotermes-falciger/": {
+      "note": "Reescrito a partir de Ruelle (1970), quien restableció la especie como Macrotermes falciger (desde Amplitermes goliath) y situó Termes goliath, T. michelli, T. swaziae, Macrotermes usutu y Tumulitermes kibonotensis en sinonimia; las medidas en mm (medias entre paréntesis) se transcriben como en el original, donde los guiones hacen las veces de puntos decimales; figuras y registros de distribución omitidos.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Alado con cabeza castaño oscuro y más clara alrededor de la fontanela, pronoto más oscuro que la cabeza con una mancha amarilla en T y una mancha amarilla cerca de cada ángulo anterolateral, alas ligeramente ahumadas; soldado mayor con cabeza rectangular en vista dorsal y mandíbulas muy robustas; soldado menor con cabeza trapezoidal y fontanela en forma de verruga; obrero mayor con cabeza castaño oscuro."
+        },
+        {
+          "label": "Soldado",
+          "text": "Soldado mayor: cápsula cefálica castaño oscuro, mandíbulas negras en su totalidad; artejos antenales más oscuros que la cabeza; pronoto a veces más oscuro que la cabeza, meso y metanoto y terguitos abdominales del mismo color que el pronoto, esternitos más claros; patas pardo amarillentas, tarsos no más oscuros que las tibias. Cabeza rectangular en vista dorsal sin forma distintiva, generalmente mayor y más ancha que en subhyalinus; en perfil con numerosas setas en el postmentón, área frontal moderadamente deprimida y con una elevación media, alargada, triangular y arrugada transversalmente. Mandíbulas muy robustas, la izquierda más ancha y más curvada que la derecha, esta última ganchuda solo en el ápice. Antenas de 17 artejos, tercero dos veces más largo que el segundo, cuarto intermedio; pilosidad de la cápsula cefálica y del postmentón conspicua; ápice hialino del labro con lados rectos o incluso cóncavos. Nota torácicos muy grandes y fuertemente quitinizados; pronoto con lóbulos laterales ampliamente redondeados y el más ancho, mesonoto en la mayoría de los casos más ancho que el metanoto, margen posterior del metanoto a menudo cóncavo. Medidas (142 ejemplares de 64 localidades, mm): longitud de la cabeza 5.20–7.43 (media 6.64), anchura 4.00–6.14 (5.29), altura con gula 2.65–3.84 (3.28), longitud de la gula 4.05–4.93 (4.45), anchura mínima de la gula 0.94–1.26 (1.09), mandíbula izquierda 2.85–4.01 (3.57), tibia posterior 3.10–5.16 (4.18), longitud del pronoto 1.70–2.61 (2.21)."
+        },
+        {
+          "label": "Obrero",
+          "text": "Obrero mayor con cabeza castaño oscuro y margen posterior redondeado; anchura de la cabeza (138 ejemplares de 36 localidades) 2.64–3.50 mm, media 2.99 mm."
+        },
+        {
+          "label": "Alado",
+          "text": "Cabeza castaño oscuro, más clara alrededor de la fontanela; postclípeo del mismo color que la cabeza o algo más claro. Pronoto más oscuro que la cabeza con una mancha amarillenta en T en el centro y una mancha amarilla cerca de cada ángulo anterolateral; tibias más oscuras que los fémures; terguitos abdominales más oscuros que los esternitos; alas ligeramente ahumadas. Cápsula cefálica en vista dorsal no distintiva, setas escasas; área fontanelar deprimida, la depresión en forma de herradura o de U en vista dorsal; fontanela conspicua, rodeada de setas cortas, precedida por una quilla media distinta. Ojos proporcionalmente pequeños y poco prominentes; ocelos pequeños y ovales, a cerca de la mitad de su diámetro mayor del ojo; postclípeo relativamente estrecho pero algo inflado; antenas de 19 artejos, tercero igual al cuarto más el quinto. Pronoto más ancho que la cabeza a través de los ojos y largo, margen anterior poco emarginado, posterior ligeramente incurvado, ángulos anterolaterales redondeados; setas más numerosas que en la cabeza. Tibia posterior larga, generalmente muy por encima de 5.0 mm. Medidas (42 ejemplares de 19 localidades, mm): anchura de la cabeza a través de los ojos 3.76–4.27 (media 3.97), diámetro mayor del ojo 1.11–1.34, diámetro mayor del ocelo 0.37–0.48 (0.41), diámetro menor 0.27–0.38 (0.32), distancia ocelo-ojo 0.25–0.45 (0.32), longitud del pronoto 1.97–2.27 (2.12), anchura 3.61–4.41 (4.01), tibia posterior 4.99–5.97 (5.58), longitud del ala anterior 33.00–43.00 (38.30), anchura 8.00–10.20 (9.10)."
+        },
+        {
+          "label": "Otro",
+          "text": "Soldado menor: cabeza pardo ahumado, más clara por debajo; mandíbulas negras con base pardo sepia oscuro; artejos antenales claramente más oscuros que la cápsula cefálica; nota torácicos y terguitos abdominales del mismo color que las antenas. Cabeza trapezoidal en vista dorsal con lados convexos; fontanela algo prominente, en forma de verruga; mandíbulas más delgadas que en el soldado mayor, la izquierda uniformemente curvada, la derecha ganchuda, ápices hacia dentro en 90° o más; tibia posterior generalmente más larga que la anchura de la cabeza; lados de los terguitos torácicos redondeados, mesonoto casi tan ancho como el metanoto. Medidas (176 ejemplares de 65 localidades, mm): longitud de la cabeza 3.04–4.77 (media 3.79), anchura 2.59–3.87 (3.11), altura 1.64–2.47 (2.03), longitud de la gula 1.91–3.15 (2.40), anchura máxima de la gula 0.84–1.25 (0.93), mandíbula izquierda 2.23–3.19 (2.65), tibia posterior 2.57–3.87 (3.21), longitud del pronoto 1.20–2.10 (1.45), anchura 2.15–3.42 (2.61)."
+        }
+      ]
+    },
+    "/species/neotermes-papua/": {
+      "note": "Reescrito a partir de Hill (1927), donde la especie se sitúa en Calotermes (Neotermes); solo se describen el alado y el soldado, la tabla de medidas está muy dañada por el OCR y no se reproduce; láminas y registros de distribución omitidos.",
+      "sections": [
+        {
+          "label": "Caracteres diagnósticos",
+          "text": "Alado con cabeza, tres cuartos anteriores del pronoto y abdomen castaño rojizo, cuarto posterior del pronoto y márgenes apicales de los terguitos 2–6 más oscuros, meso y metanoto, tibias y tarsos pardo oscuro; soldado con cabeza anaranjado-rojiza por encima y ojos compuestos reducidos."
+        },
+        {
+          "label": "Soldado",
+          "text": "Antenas, labro y superficie dorsal de la cabeza anaranjado-rojizos; frente y superficie ventral ocre anaranjado; anteclípeo hialino teñido de naranja; base de las mandíbulas, articulación externa mandibular y carenas antenales muy oscuras; pronoto ocre amarillo con margen estrecho pardo; tibias y tarsos pardos. Cabeza más ancha en el medio, lados algo redondeados, margen posterior muy anchamente redondeado, frente cóncava y algo rugosa, inclinada gradualmente hacia el clípeo; clípeo corto, cerca de tres quintos de la anchura máxima de la cabeza; anteclípeo tan ancho como el labro; labro marcadamente convexo, redondeado delante y en los lados; mandíbulas largas y robustas, la izquierda con dos dientes angulares cerca del ápice y varios menores hacia la base, la derecha con un diente corto y ancho en el medio y otro cerca de la base; ojos hialinos y rudimentarios, situados inmediatamente detrás de las fosas antenales; antenas de 14–17 artejos, generalmente 16, primer artejo un tercio más largo que ancho en el ápice, segundo la mitad de largo que el primero, tercero tan largo y ancho como el segundo, cuarto el más corto, quinto a séptimo globosos, octavo a decimotercero moniliformes, decimocuarto a decimoséptimo progresivamente más estrechos, decimoséptimo muy corto; pronoto algo más estrecho que la cabeza, márgenes anterior y posterior casi truncados, lados redondeados; patas moderadamente robustas; cercos presentes en los 30 ejemplares examinados."
+        },
+        {
+          "label": "Alado",
+          "text": "Cabeza dos veces más larga que ancha, frente algo cóncava y rugosa, con setas pálidas muy escasas; ojos grandes, casi circulares, prominentes y de facetas gruesas, separados del margen inferior de la cabeza por un espacio igual a la mitad de su altura; ocelos grandes, anchamente ovales, contiguos a los ojos; postclípeo corto, unas tres veces más ancho que largo, con cuatro setas rojizas robustas; anteclípeo unas cuatro veces más ancho que largo, margen anterior truncado, ocre amarillo; labro pardo, estrecho en la base, redondeado en los lados hasta el ápice truncado; antenas de 17 o 18 artejos, primero corto y ancho, estrechado en el medio, segundo la mitad de largo que el primero, tercero casi tan largo como el segundo, cuarto globoso, quinto a decimoquinto progresivamente más largos, decimosexto y decimoséptimo iguales al decimoquinto en longitud pero más estrechos, decimoctavo marcadamente más corto y estrecho; pronoto con margen anterior cóncavo, lados algo redondeados y margen posterior ligeramente emarginado; muñones alares grandes, cubriendo dos tercios de los muñones posteriores."
         }
       ]
     }

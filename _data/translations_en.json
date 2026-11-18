@@ -4082,6 +4082,45 @@
           "text": "Large mandibulate soldier; antennae with more than 20 segments; cerci conspicuous in all castes."
         }
       ]
+    },
+    "/genus/allodontermes/": {
+      "note": "Adapted from the German genus-level account in Holmgren (1912), who treated Allodontermes as a subgenus of Protermes; Fuller (1921, 1922) treated it as a distinct genus. Alate body length and wing span are taken from Fuller's alate key.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Soldier: clypeus largely hyaline; labrum with a hyaline tip; the apical part of the left mandible with 3 small notches on its basal side, the remaining teeth well developed; right mandible with a tooth indication between the middle tooth and the apex; antennae 17-segmented. Alate: medium-sized, body about 10 mm long, wing span about 40 mm, body smooth, yellowish brown, wings hyaline."
+        },
+        {
+          "label": "Alate",
+          "text": "Head in lateral view, eyes approached; antennae 19-segmented, the 3rd segment shorter than the 2nd and 4th; pronotum about half as long as wide, slightly narrower than the head including the eyes, flat; meso- and metanotum broadly emarginate; fore wing scale distinctly larger than the hind wing scale but not reaching the base of the latter; radius weak, merging early with the anterior wing margin; radial sector reaching the wing apex; media of the fore wing free from the scale, that of the hind wing arising at the base of the radial sector, the media of both wings close to the cubitus; media more or less branched towards the apex."
+        },
+        {
+          "label": "Worker",
+          "text": "Head relatively large, parallel-sided oval, flatly convex; fontanelle inconspicuous; cranial sutures invisible; basal part of the clypeus rather inflated, transversely oval, fairly large, not quite reaching the mandibular condyles; compound eyes rudimentary or very distinct, even pigmented; mandibular condyles very large; right mandible with an indication of tooth 2; antennae 16–17-segmented, the 2nd longer than the 3rd, the 3rd equal to or slightly longer than the 4th; pronotum small, less than half the head width, its anterior lobe upturned; at least the fore and middle tibiae with lateral spines; fore tibiae with 3 apical spines; styli present."
+        }
+      ]
+    },
+    "/genus/hesperotermes/": {
+      "note": "The source gives no separate genus diagnosis, only one step of the soldier key and a genus remark; only the characters that can be verified there are given.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Monotypic, containing only Hesperotermes infrequens. Soldier with a reduced frontal tubercle and a reddish brown head capsule; in the soldier key to the Termes complex, a reduced frontal tubercle leads directly to this genus."
+        },
+        {
+          "label": "Soldier",
+          "text": "Frontal tubercle reduced (Fig. 5a); head capsule reddish brown; otherwise similar to the Termes complex; no separate genus diagnosis is given in the source."
+        }
+      ]
+    },
+    "/genus/caribitermes/": {
+      "note": "The genus characters are quoted by Krishna & Grimaldi (2009) from Roisin et al. (1996); the original was not consulted.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Monotypic; type species Caribitermes discolor (Banks, 1919), previously placed in Parvitermes. Head capsule very slightly constricted behind the antennae; the genus was described on this character, the imago mandibles and the gut anatomy."
+        }
+      ]
     }
   },
   "morphology_species": {
@@ -10210,6 +10249,111 @@
         {
           "label": "Worker",
           "text": "Body minute, integument semi-transparent. Left mandible: apical tooth very large and fused with the first tooth, the main diagnostic character of the species; second tooth well developed; third tooth not projecting or appearing level; fourth tooth not visible from the front, overlapping the molar tooth; molar tooth slightly elliptical. Right mandible: anterior margin of the first tooth rather straight or slightly concave at the base; second tooth undeveloped, a character specific to O. inanis; molar notch well developed, its upper and lower lamellae of unequal thickness, outer margin of the molar tooth distinctly concave. No worker measurements were given in the original account."
+        }
+      ]
+    },
+    "/species/cryptotermes-sumatrensis/": {
+      "note": "Rewritten from the original description by Kemner (1930); the measurement table in the German original is partly damaged by OCR, so only legible alate and soldier measurements are given; worker measurements omitted.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Alates distinctly larger than those of Cryptotermes domesticus, body with wings 10.30–11.00 mm; soldier head with mandibles 1.62–1.66 mm, body 3.50–4.50 mm, mandibles longer than in C. domesticus."
+        },
+        {
+          "label": "Soldier",
+          "text": "Anterior half of head capsule deep black, posterior half yellowish brown; mandibles black; antennae and palpi pale yellowish brown. Head subquadrate, slightly wider than high; anterior margin deeply incised into two raised lobes separated by a deep groove, with a rounded depression behind. Antennae 12-segmented. Pronotum with anterior margin upturned and angularly incised, posterior margin straight. Fore tibia with 3 apical spurs, the third small and smooth. Body 3.50–4.50 mm; head with mandibles 1.62–1.66 mm."
+        },
+        {
+          "label": "Worker",
+          "text": "Body white, mandible tips brown. Left mandible with two shallow basal notches and a distinct tooth in the outer third; right mandible with two small blunt teeth on the inner margin, the basal one near mid-length. Body length and head width vary with instar."
+        },
+        {
+          "label": "Alate",
+          "text": "Body yellowish brown, head, pronotum and abdominal tergites darker, venter paler. Head oval, distinctly longer than wide; frons shallowly depressed; compound eyes large; ocelli small and oblique. Antennae 15-segmented. Pronotum distinctly incised anteriorly, rounded posteriorly, nearly straight at the middle. Wings hyaline, only the costal margin and veins yellowish brown; forewing radial sector with 7 anterior branches, media meeting the radial sector beyond mid-wing, cubitus with about 14 branches; hindwing radial sector with 3 anterior branches. Body with wings 10.30–11.00 mm; forewing including scale 9.20–9.60 mm."
+        }
+      ]
+    },
+    "/species/nasutitermes-triodiae/": {
+      "note": "Rewritten from the original description by Froggatt (1898), where the species was placed in Eutermes as Eutermes triodiae; measurements are given in lines and not converted; plates and nest description omitted.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Alates with upper surface chestnut and fuscous wings, antennae 15-segmented, forewing submedian with 11–12 oblique veins; soldier head dark chestnut-brown with a short pointed nasus, antennae 14-segmented; worker head pale yellowish brown with two dark brown patches on the upper surface separated by a pale median suture."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head dark chestnut-brown, darkest on the sides and at the base of the nasus, tip of nasus reddish brown; antennae ochreous, paler at both ends of each segment; pronotum and abdominal tergites with yellowish brown markings, remainder pale yellow. Head nearly circular to the antennal base, nasus short and pointed, with a faint median suture; antennae 14-segmented, first segment stout and truncate, second shorter, third slender, fourth to thirteenth elongate-pyriform, terminal oval; palpi extending beyond the nasus; pronotum with ridge-like anterior margin, rounded sides and posterior margin; legs long and slender."
+        },
+        {
+          "label": "Worker",
+          "text": "Head pale yellowish brown, centre of upper surface dark brown, divided into two rounded patches by a pale yellow median suture that meets a transverse frontal suture and forms another band; clypeus very prominent, deeply divided into two rounded lobes; labrum narrow at the base and widening apically; mandibles stout with two apical teeth and a blunt tooth below; antennae 14-segmented, third and sixth segments longer."
+        },
+        {
+          "label": "Alate",
+          "text": "Head, thorax, scapular plates and abdominal tergites chestnut, remainder pale ochreous; wings fuscous with darker veins. Head rounded behind, width across eyes about equal to the distance from occiput to front of clypeus; frons sloping; eyes large, round, slightly projecting; ocelli large, irregularly oval, in line with the eye centres; antennae 15-segmented, first stout and cylindrical, third shortest, fourth to fourteenth broadly turbinate, terminal elongate-oval; clypeus large, deeply divided into two lobes; mandibles moderate with curved apical teeth; pronotum broad and saddle-shaped, anterior margin truncate, posterior margin broadly rounded; wings three times as long as broad, submedian with 11–12 oblique veins, the first six thickened. Length to wing tip about 5 lines."
+        }
+      ]
+    },
+    "/species/tumulitermes-pastinator/": {
+      "note": "Rewritten from the original description by Hill (1915), where the species was placed in Eutermes as Eutermes pastinator; nest and biology omitted.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Alate head nearly black, body dull ochreous, wings smoky, body with wings 20.5 mm; soldier head rusty brown with a darker base of the nasus and a distinctly paler occiput; worker head pale ferruginous."
+        },
+        {
+          "label": "Soldier",
+          "text": "Head rusty brown, base of nasus darker, back of head distinctly lighter; body ochreous yellow. Head rounded behind and tapering to the nasus; nasus with fine hairs and bristles at the tip, remainder of head with scattered long reddish bristles; palpi long, reaching the tip of the nasus; antennae 14-segmented, bases of segments 2–6 whitish, first segment long and cylindrical, fourth to tenth lengthening, eleventh to fourteenth shortening; pronotum small and narrower than the head, wider than long, rounded in front and behind, anterior half upturned in the middle and fringed with long hairs; legs very long, femora sharply contracted at the base; abdomen small."
+        },
+        {
+          "label": "Worker",
+          "text": "Head pale ferruginous above; clypeus, thorax and legs very pale ochreous; remainder whitish. Head rounded behind, widest across the middle, arched behind the clypeus, with a pale median suture meeting a transverse suture, a dark ferruginous spot at each end of the clypeus; clypeus large and convex, divided by a median suture, lobed in front, apex bluntly pointed; labrum large, narrowest at the base and widening apically; mandibles short; antennae 16-segmented."
+        },
+        {
+          "label": "Alate",
+          "text": "Head nearly black; antennae, clypeus, labrum, palpi, legs and venter dull ochreous; thorax and abdominal tergites dark brown, sternites 2–6 with a dark spot at each end. Head hairy, rounded behind, summit flattened with a narrow median cleft; eyes large, round and projecting; ocelli large and oval; antennae 16-segmented, first segment long and cylindrical, second and third smaller, fourth short, fifth to fifteenth more slender, terminal elongate-oval; clypeus large and convex, lobed in front; mandibles stout, right with two sharp apical teeth followed by a shorter blunt tooth and a large serrated basal tooth, left with two apical teeth, the posterior connected by a long cutting edge to a third small tooth; pronotum wider than long and narrower than the head, anterior margin straight and slightly upturned in the middle, hairy; wings large and rounded, costal base yellow, remainder smoky, forewing media with 3 simple veinlets, submedian with 11 oblique veins, the first five stout. Body with wings 20.5 mm; body 10 mm."
+        }
+      ]
+    },
+    "/species/macrotermes-falciger/": {
+      "note": "Rewritten from Ruelle (1970), who restored the species to Macrotermes falciger (from Amplitermes goliath) and placed Termes goliath, T. michelli, T. swaziae, Macrotermes usutu and Tumulitermes kibonotensis in synonymy; measurements in mm (means in parentheses) are printed as in the original, where hyphens stand for decimal points; figures and distribution records omitted.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Alate with head dark chestnut-brown and paler around the fontanelle, pronotum darker than head with a T-shaped yellow mark and a yellow spot near each antero-lateral corner, wings light smoky; major soldier with rectangular head in dorsal view and very stout mandibles; minor soldier with trapezoidal head and a wart-like fontanelle; major worker with dark chestnut-brown head."
+        },
+        {
+          "label": "Soldier",
+          "text": "Major soldier: head capsule dark chestnut-brown, mandibles black throughout; antennal segments darker than the head; pronotum sometimes darker than the head, meso- and metanotum and abdominal tergites the same colour as the pronotum, sternites lighter; legs yellow-brown, tarsi not darker than tibiae. Head rectangular in dorsal view without a distinctive shape, usually larger and wider than in subhyalinus; in profile with numerous setae on the postmentum, frontal area moderately depressed and bearing a median, elongate, triangular, transversely wrinkled mound. Mandibles very stout, left broader and more incurved than right, the latter hooked only at the tip. Antennae 17-jointed, third segment twice as long as the second, fourth intermediate; pilosity of head capsule and postmentum conspicuous; hyaline tip of labrum with sides straight or even concave. Thoracic nota very large and strongly chitinized; pronotum with broadly rounded lateral lobes and the widest, mesonotum in most cases wider than metanotum, hind margin of metanotum often concave. Measurements (142 specimens from 64 localities, mm): head length 5.20–7.43 (mean 6.64), width 4.00–6.14 (5.29), depth including gula 2.65–3.84 (3.28), gula length 4.05–4.93 (4.45), minimum gula width 0.94–1.26 (1.09), left mandible 2.85–4.01 (3.57), hind tibia 3.10–5.16 (4.18), pronotum length 1.70–2.61 (2.21)."
+        },
+        {
+          "label": "Worker",
+          "text": "Major worker with head dark chestnut-brown and a rounded posterior margin; head width (138 specimens from 36 localities) 2.64–3.50 mm, mean 2.99 mm."
+        },
+        {
+          "label": "Alate",
+          "text": "Head dark chestnut-brown, lighter around the fontanelle; postclypeus the same colour as or slightly lighter than the head. Pronotum darker than the head with a T-shaped yellowish mark in the middle and a yellow spot near each antero-lateral corner; tibiae darker than femora; abdominal tergites darker than sternites; wings light smoky. Head capsule in plan view not distinctive, setae sparse; fontanellar area depressed, the depression horseshoe- or U-shaped in dorsal view; fontanelle conspicuous, surrounded by short setae, preceded by a distinct median carina. Eyes proportionately small and not very prominent; ocelli small and oval, about half their major diameter from the eye; postclypeus relatively narrow but somewhat inflated; antennae 19-jointed, third segment equal to fourth plus fifth. Pronotum wider than the head across the eyes and long, front margin shallowly emarginate, posterior flatly incurvate, antero-lateral corners rounded; setae more numerous than on the head. Hind tibia long, usually well beyond 5.0 mm. Measurements (42 specimens from 19 localities, mm): head width across eyes 3.76–4.27 (mean 3.97), eye major diameter 1.11–1.34, ocellus major diameter 0.37–0.48 (0.41), minor diameter 0.27–0.38 (0.32), ocellus-eye distance 0.25–0.45 (0.32), pronotum length 1.97–2.27 (2.12), width 3.61–4.41 (4.01), hind tibia 4.99–5.97 (5.58), forewing length 33.00–43.00 (38.30), width 8.00–10.20 (9.10)."
+        },
+        {
+          "label": "Other",
+          "text": "Minor soldier: head smoky brown, paler beneath; mandibles black with a dark sepia-brown base; antennal segments distinctly darker than the head capsule; thoracic nota and abdominal tergites the same colour as the antennae. Head trapezoidal in dorsal view with convex sides; fontanelle slightly protruding, wart-like; mandibles more slender than in the major soldier, left evenly incurved, right hooked, tips at 90° or more inwards; hind tibia usually longer than head width; sides of thoracic tergites rounded, mesonotum nearly as wide as metanotum. Measurements (176 specimens from 65 localities, mm): head length 3.04–4.77 (mean 3.79), width 2.59–3.87 (3.11), depth 1.64–2.47 (2.03), gula length 1.91–3.15 (2.40), maximum gula width 0.84–1.25 (0.93), left mandible 2.23–3.19 (2.65), hind tibia 2.57–3.87 (3.21), pronotum length 1.20–2.10 (1.45), width 2.15–3.42 (2.61)."
+        }
+      ]
+    },
+    "/species/neotermes-papua/": {
+      "note": "Rewritten from Hill (1927), where the species is placed in Calotermes (Neotermes); only the alate and soldier are described, the measurement table is badly OCR-damaged and not reproduced; plates and distribution records omitted.",
+      "sections": [
+        {
+          "label": "Diagnostic characters",
+          "text": "Alate with head, anterior three-fourths of pronotum and abdomen auburn, posterior fourth of pronotum and apical margins of abdominal tergites 2–6 darker, meso- and metanotum, tibiae and tarsi dark brown; soldier with orange-rufous head above and reduced compound eyes."
+        },
+        {
+          "label": "Soldier",
+          "text": "Antennae, labrum and dorsal surface of head orange rufous; frons and ventral surface ochraceous orange; anteclypeus hyaline suffused with orange; base of mandibles, external mandibular articulation and antennal carinae very dark; pronotum yellow ochre with a narrow brown margin; tibiae and tarsi brown. Head widest in the middle, sides slightly rounded, hind margin very broadly rounded, frons concave and slightly rugose, sloping gradually to the clypeus; clypeus short, about three-fifths the width of the head at its widest; anteclypeus as wide as the labrum; labrum markedly convex, rounded in front and on the sides; mandibles long and stout, left with two angular teeth near the apex and several smaller ones towards the base, right with a short broad tooth in the middle and another near the base; eyes hyaline and rudimentary, situated immediately behind the antennal fossae; antennae 14–17-jointed, generally 16-jointed, first segment one-third longer than wide at the apex, second half as long as the first, third as long and wide as the second, fourth shortest, fifth to seventh globose, eighth to thirteenth moniliform, fourteenth to seventeenth progressively narrower, seventeenth very short; pronotum a little narrower than the head, anterior and posterior margins almost truncate, sides rounded; legs moderately stout; cerci present in all 30 specimens examined."
+        },
+        {
+          "label": "Alate",
+          "text": "Head twice as long as wide, front slightly concave and rugose, with very scanty pale setae; eyes large, nearly circular, prominent and coarsely faceted, separated from the lower margin of the head by a space equal to half their height; ocelli large, broadly oval, contiguous with the eyes; postclypeus short, about three times wider than long, with four stout reddish setae; anteclypeus about four times wider than long, anterior margin truncate, yellow ochre; labrum brown, narrow at the base, rounded at the sides to the truncate apex; antennae 17- or 18-jointed, first short and broad, narrowed in the middle, second half as long as the first, third about as long as the second, fourth globose, fifth to fifteenth progressively longer, sixteenth and seventeenth equal to the fifteenth in length but narrower, eighteenth markedly shorter and narrower; pronotum with concave anterior margin, slightly rounded sides and slightly emarginate posterior margin; wing stumps large, covering two-thirds of the hindwing stumps."
         }
       ]
     }

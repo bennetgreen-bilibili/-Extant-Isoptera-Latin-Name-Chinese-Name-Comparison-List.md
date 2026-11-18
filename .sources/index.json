@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 480,
+    "count": 490,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-19T00:56:35+08:00",
+    "updated": "2026-11-19T02:30:03+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2999,7 +2999,7 @@
       "file_path": "_unpublished/文库/holmgren-1912-termitenstudien-3",
       "chars": 426210,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-15T03:23:49+08:00",
+      "accessed": "2026-11-19T01:59:22+08:00",
       "notes": "全文存于 _unpublished/文库/holmgren-1912-termitenstudien-3（426210 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OCR 文本；德文哥特体扫描，OCR 拼写与断词有误，引用前核对纸本。",
       "library": {
         "book": "holmgren-1912-termitenstudien-3",
@@ -3541,6 +3541,11 @@
           "quote": "a. Fontanelle an der Spitze des Stirnvorsprungs gelegen, nicht unterhalb eines hervorgewölbten oder fortsatzartigen Stirnvorsprunges. Linker Oberkiefer mit zwei Zähnen ausserhalb des Basalteiles. Oberkiefer wenig länger als der Kopf, säbelformig. Oberlippe in der Mitte zwischen den Eckenspitzen konvex abgerundet. Fontanellenoffnung kreisrund [Tafel IV, Fig. 10, 11]. Subg. Basidentitermes n. subg.",
           "locator": "p. part-002.txt L1782-L1786",
           "note": "支撑：/genus/basidentitermes/，额突、囟孔圆形、上颚略长于头军刀状、上唇前缘弧；OCR 讹字已按上下文校正"
+        },
+        {
+          "quote": "Arbeiter: Kopf relativ gross, parallelseitig oval, flach gewölbt.",
+          "locator": "p. 337",
+          "note": "支撑：Holmgren 1912 在 «Protermes (Allodontermes)» 下给出的工蚁属征（本站按独立属 Allodontermes 处理）"
         }
       ],
       "id": "S0033",
@@ -26502,6 +26507,407 @@
       "accessed": "2026-11-19T00:56:35+08:00",
       "canonical_key": "url:https://api.unpaywall.org/v2",
       "id": "S0481"
+    },
+    {
+      "title": "Biodiversity Heritage Library API (api3)",
+      "source_type": "database",
+      "reliability": "official",
+      "url": "https://www.biodiversitylibrary.org/api3",
+      "year": 2026,
+      "retrieved_via": "ops_bash + python urllib (PublicationSearch / GetItemMetadata / GetPartMetadata)",
+      "evidence": [
+        {
+          "quote": "{\"BHLType\": \"Part\", \"FoundIn\": \"Text\", \"Volume\": \"48\", \"Authors\": [{\"Name\": \"Holmgren, Nils\"}], \"PartUrl\": \"https://www.biodiversitylibrary.org/part/193243\", \"PartID\": \"193243\", \"Genre\": \"Article\", \"Title\": \"Termitenstudien. 3. Systematik der Termiten\", \"ContainerTitle\": \"Kungl. Svenska vetenskapsakademiens handlingar\", \"Date\": \"1912\", \"PageRange\": \"1--166\"}",
+          "locator": "PublicationSearch, searchterm=Allodontermes（2026-11-19）",
+          "note": "支撑：BHL 全文检索按属名可定位篇/册，返回 Part 或 Item"
+        },
+        {
+          "quote": "\"SourceIdentifier\": \"kunglsvenskavete48kung\"",
+          "locator": "GetItemMetadata, id=131399",
+          "note": "支撑：BHL 册的文字层来自 Internet Archive 镜像，只能按该标识取 djvu.xml"
+        },
+        {
+          "quote": "\"SourceIdentifier\": \"sixnewgenerater1988emer\"",
+          "locator": "GetItemMetadata, id=319992",
+          "note": "支撑：Emerson 1960 六新属论文的 IA 镜像标识"
+        },
+        {
+          "quote": "GetTitleItems、GetPageOcrText 均返回 200 空 body",
+          "locator": "API3 实测（2026-11-19 夜）",
+          "note": "转述：BHL 不提供页级 OCR；正文只能走 IA 镜像，BHL-only 册取不到文字"
+        }
+      ],
+      "used_in": [
+        "_reports/genus-morphology-gaps.md"
+      ],
+      "notes": "用于判断 BHL/archive.org 老文献路线能否补 49 个缺属；结论为不能（属征多在借阅限制或未数字化文献中）。",
+      "accessed": "2026-11-19T01:49:15+08:00",
+      "canonical_key": "url:https://www.biodiversitylibrary.org/api3",
+      "id": "S0482"
+    },
+    {
+      "title": "The Termites of South Africa; Being a Preliminary Notice",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "authors": [
+        "Fuller C."
+      ],
+      "year": 1921,
+      "publisher": "South African Journal of Natural History 3(1): 14–52",
+      "lang": "en",
+      "url": "https://archive.org/details/southafricanjour0301sout",
+      "retrieved_via": "archive.org djvu.xml",
+      "evidence": [
+        {
+          "quote": "3.  Left  mandible  with  a  wide  apical  point,  below  this  a  distinct  notch. Right  mandible  with  a  decided  tooth (step-like)  at  half  its  length.  Labrum roundly  triangular  with  a  small hyaline  tip.  Allodontermes.",
+          "locator": "p. 26, Synopsis of Genera, soldier key",
+          "note": "支撑：Allodontermes 兵蚁的属级鉴别特征（左颚宽端尖、右颚中段阶梯状齿、上唇圆三角形带透明尖）"
+        },
+        {
+          "quote": "5.  TERMES  Group Allodontermes. Macrotermes. Termes. Microtermes.",
+          "locator": "p. 16",
+          "note": "支撑：Fuller 把 Allodontermes 作为独立属列入 TERMES 组"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_reports/genus-morphology-gaps.md"
+      ],
+      "notes": "OCR 来自 Internet Archive 的 djvu.xml；原刊题名页作 «THE TERMITES OF SOUTH AFRICA; Being a Preliminary Notice»。本部分只给检索表与属记，不给种级描述（作者自述 not proposed to give descriptions）。",
+      "accessed": "2026-11-19T01:55:55+08:00",
+      "canonical_key": "url:https://archive.org/details/southafricanjour0301sout",
+      "id": "S0483"
+    },
+    {
+      "title": "The Termites of South Africa",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "authors": [
+        "Fuller C."
+      ],
+      "year": 1922,
+      "publisher": "South African Journal of Natural History 3(2): 70–131",
+      "lang": "en",
+      "url": "https://archive.org/details/southafricanjour0302sout",
+      "retrieved_via": "archive.org djvu.xml",
+      "evidence": [
+        {
+          "quote": "Genus  allodontermes  5ilvestri. Allodontermes   schulizei  (Silv.) The  type  localities  for  this  species  are  Severella  and  Kang- Kgokong which  lie  in  the  heart  of  the  Kalahari  some  300  miles west  of  the  Transvaal  boroer.",
+          "locator": "p. 71",
+          "note": "支撑：Fuller 1922 以独立属 «Genus allodontermes» 处理，并给出模式种 A. schultzei 的产地；OCR 把 Silvestri 误作 5ilvestri"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_reports/genus-morphology-gaps.md"
+      ],
+      "notes": "系 1921 年前言的续篇（continued from page 52, Vol. III. No. 1）；属名下无獨立属征段，属级特征见 1921 年检索表。",
+      "accessed": "2026-11-19T01:55:55+08:00",
+      "canonical_key": "url:https://archive.org/details/southafricanjour0302sout",
+      "id": "S0484"
+    },
+    {
+      "title": "Guide to the termites (Isoptera) from the extreme south-west of Western Australia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "authors": [
+        "Perry D. H.",
+        "Watson J. A. L.",
+        "Bunn S. E.",
+        "Black R."
+      ],
+      "year": 1985,
+      "publisher": "Journal of the Royal Society of Western Australia 67(2): 66–78",
+      "lang": "en",
+      "url": "https://archive.org/details/JournalRoyalSoc67RoyaA",
+      "retrieved_via": "archive.org djvu.xml",
+      "evidence": [
+        {
+          "quote": "Hesperotermes infrequens, the only species of its genus, is entirely south-western, extending north to Eneabba, east to Woorooloo and to near W.lliams, and south to the coast. The soldier is distinguished not only by its reduced frontal tubercle (Fig. 5a), but also by its reddish brown head capsule.",
+          "locator": "p. 82",
+          "note": "支撑：Hesperotermes 为单型属，兵蚁以额突退化与红褐色头壳鉴别"
+        },
+        {
+          "quote": "Frontal tubercle: reduced (5a) Hesperotermes infrequens (5a)",
+          "locator": "p. 74, Table 3 (soldier key to the Termes complex)",
+          "note": "支撑：检索表中以额突退化直接检索到 Hesperotermes infrequens"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_reports/genus-morphology-gaps.md"
+      ],
+      "notes": "该指南只给检索表与简明属注，未给完整属征段；Hesperotermes 的属级信息仅此两条。",
+      "accessed": "2026-11-19T01:55:55+08:00",
+      "canonical_key": "url:https://archive.org/details/JournalRoyalSoc67RoyaA",
+      "id": "S0485"
+    },
+    {
+      "title": "Diverse Rhinotermitidae and Termitidae (Isoptera) in Dominican Amber",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "authors": [
+        "Krishna K.",
+        "Grimaldi D."
+      ],
+      "year": 2009,
+      "publisher": "American Museum Novitates 3640: 1–48",
+      "lang": "en",
+      "url": "https://archive.org/details/diverserhinoter00kris",
+      "retrieved_via": "archive.org djvu.xml",
+      "evidence": [
+        {
+          "quote": "Caribitermes was described by Roisin et al. (1996) as a monotypic genus for the species C. discolor from the West Indies, previously placed in Parvitermes.",
+          "locator": "p. 38",
+          "note": "支撑：Caribitermes 为单型属，模式种 C. discolor 原置于 Parvitermes"
+        },
+        {
+          "quote": "both species having the head capsule very slightly constricted behind the antennae. The genus was described based on this character, the imago mandibles, and the gut anatomy, the latter of which",
+          "locator": "p. 38",
+          "note": "支撑：Caribitermes 的属征（触角后头壳微缢、成虫上颚、肠解剖），此处系转引 Roisin et al. 1996"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_reports/genus-morphology-gaps.md"
+      ],
+      "notes": "属征为转引（Roisin et al. 1996 原文未见），本条只作间接依据；原文主要描述多米尼加琥珀化石种 C. hispaniola。",
+      "accessed": "2026-11-19T01:55:55+08:00",
+      "canonical_key": "url:https://archive.org/details/diverserhinoter00kris",
+      "id": "S0486"
+    },
+    {
+      "title": "Fauna Sumatrensis (Bijdrage No. 66). TERMITIDAE",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Kemner N. A."
+      ],
+      "year": 1930,
+      "lang": "de",
+      "publisher": "Tijdschrift voor Entomologie 73: 298-324",
+      "url": "https://www.biodiversitylibrary.org/part/66372",
+      "retrieved_via": "BHL API3 + Internet Archive djvu.xml (tijdschriftvoore1930nede)",
+      "evidence": [
+        {
+          "quote": "Die Flügel glasartig, farblos, nur der Costalrand mit seinen Rippen braungelb.",
+          "locator": "p. 301, Imago",
+          "note": "支撑 Cryptotermes sumatrensis 有翅成虫翅色"
+        },
+        {
+          "quote": "Soldat: Kopf in der vorderen Hälfte tief schwarz, hinten braungelb.",
+          "locator": "p. 302, Soldat",
+          "note": "支撑兵蚁头壳双色"
+        },
+        {
+          "quote": "Arbeiter: Entwicklungsstadien von verschiedener Grösse liegen vor.",
+          "locator": "p. 304, Arbeiter",
+          "note": "支撑工蚁多型"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "accessed": "2026-11-19T02:08:22+08:00",
+      "canonical_key": "url:https://www.biodiversitylibrary.org/part/66372",
+      "id": "S0487"
+    },
+    {
+      "title": "Australian Termitidae. Part III",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Froggatt W. W."
+      ],
+      "year": 1898,
+      "lang": "en",
+      "publisher": "Proceedings of the Linnean Society of New South Wales 22: 721-758",
+      "url": "https://www.biodiversitylibrary.org/part/12741",
+      "retrieved_via": "BHL API3 + Internet Archive djvu.xml (proceedingsoflin22linn)",
+      "evidence": [
+        {
+          "quote": "Eutermes Triodiae, n.sp. (Plate XXXV., fig. 8.) Upper surface of the head, thorax, scapular, and the abdominal plates castaneous; the rest pale ochreous; wings fuscous, the nervures darker.",
+          "locator": "p. 745",
+          "note": "支撑本种有翅成虫体色与翅色"
+        },
+        {
+          "quote": "Soldier. — Head dark castaneous-brown, darkest on the sides and the base of the snout, the tip reddish-brown",
+          "locator": "p. 746",
+          "note": "支撑兵蚁头壳与鼻突颜色"
+        },
+        {
+          "quote": "Worker. — Head pale yellowish-brown, with the centre of the upper surface dark brown, divided into two rounded patches by a pale yellow suture down the centre",
+          "locator": "p. 746",
+          "note": "支撑工蚁头部色斑"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "accessed": "2026-11-19T02:20:07+08:00",
+      "canonical_key": "url:https://www.biodiversitylibrary.org/part/12741",
+      "id": "S0488"
+    },
+    {
+      "title": "Northern Territory Termitidae. Part I",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Hill G. F."
+      ],
+      "year": 1915,
+      "lang": "en",
+      "publisher": "Proceedings of the Linnean Society of New South Wales 40: 83-113",
+      "url": "https://www.biodiversitylibrary.org/part/18865",
+      "retrieved_via": "BHL API3 + Internet Archive djvu.xml (proceedingsoflin40linn)",
+      "evidence": [
+        {
+          "quote": "Eutermes pastinator, sp.nov. (Plates xix.) Winged form. — Head nearly black, antennae, clypeus, labrum, palpi, legs, and underparts dull ochreous",
+          "locator": "p. 100",
+          "note": "支撑有翅成虫体色"
+        },
+        {
+          "quote": "Soldier. — Head rusty-brown, base of snout darker, back of head distinctly lighter, rest of insect ochreous-yellow.",
+          "locator": "p. 102",
+          "note": "支撑兵蚁头壳与鼻突颜色"
+        },
+        {
+          "quote": "Worker. — Head pale ferruginous above; clypeus, thorax, and legs very pale ochreous; rest of insect whitish.",
+          "locator": "p. 102",
+          "note": "支撑工蚁体色"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "accessed": "2026-11-19T02:20:07+08:00",
+      "canonical_key": "url:https://www.biodiversitylibrary.org/part/18865",
+      "id": "S0489"
+    },
+    {
+      "title": "A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "url:https://www.biodiversitylibrary.org/part/78394",
+      "file_path": "_unpublished/文库/ruelle-1970-macrotermes-ethiopian",
+      "chars": 210428,
+      "retrieved_via": "文库（外部文本（--text））",
+      "accessed": "2026-11-19T02:30:03+08:00",
+      "notes": "全文存于 _unpublished/文库/ruelle-1970-macrotermes-ethiopian（210428 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "ruelle-1970-macrotermes-ethiopian",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T02:28:47",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/ruelle-1970-macrotermes-ethiopian/part-001.txt",
+            "chars": 200000,
+            "paragraphs": 5648,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\part78394.pdf",
+            "sha256": "2579ded04c423aedd6b9adab0cd91b4480b11da7490130886c1b3e4314a45efc",
+            "bytes": 200505
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/ruelle-1970-macrotermes-ethiopian/part-002.txt",
+            "chars": 10428,
+            "paragraphs": 169,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\part78394.pdf",
+            "sha256": "cc3a60e5ffbf803f9bf6d3b246593b0f296720ef63ba17b0da97682abcab0739",
+            "bytes": 10478
+          }
+        ]
+      },
+      "authors": [
+        "Ruelle J. E."
+      ],
+      "year": 1970,
+      "lang": "en",
+      "url": "https://www.biodiversitylibrary.org/part/78394",
+      "used_in": [
+        "_data/morphology_species.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Macrotermes falciger (Gerstacker) sp. rev., comb. n.",
+          "locator": "p. 381",
+          "note": "支撑：本种现行地位与异名处理"
+        },
+        {
+          "quote": "Major soldier. Head capsule dark chestnut-brown ; mandibles black throughout.",
+          "locator": "p. 383",
+          "note": "支撑：大型兵蚁头色与上颚"
+        },
+        {
+          "quote": "Minor soldier. Head smoky brown, paler beneath ; mandibles black, with dark sepia-brown base.",
+          "locator": "p. 383",
+          "note": "支撑：小型兵蚁头色"
+        }
+      ],
+      "id": "S0490"
+    },
+    {
+      "title": "Termites from the Australian Region. Part I",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "url:https://archive.org/details/memoirsnational7natia",
+      "file_path": "_unpublished/文库/hill-1927-termites-australian-region-1",
+      "chars": 332231,
+      "retrieved_via": "文库（外部文本（--text））",
+      "accessed": "2026-11-19T02:30:03+08:00",
+      "notes": "全文存于 _unpublished/文库/hill-1927-termites-australian-region-1（332231 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "hill-1927-termites-australian-region-1",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T02:28:52",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/hill-1927-termites-australian-region-1/part-001.txt",
+            "chars": 199985,
+            "paragraphs": 16945,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\新建文件夹\\memoirsnational7natia.pdf",
+            "sha256": "3571ac61233fe45ba33a8d16230c2c1533835d1d16bb681afb98c368c719892d",
+            "bytes": 201304
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/hill-1927-termites-australian-region-1/part-002.txt",
+            "chars": 132246,
+            "paragraphs": 11621,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\新建文件夹\\memoirsnational7natia.pdf",
+            "sha256": "710724f4c943f89538219505ff622f71ce7b96ca9be851e310330fd2de35ac94",
+            "bytes": 133146
+          }
+        ]
+      },
+      "authors": [
+        "Hill G. F."
+      ],
+      "year": 1927,
+      "lang": "en",
+      "url": "https://archive.org/details/memoirsnational7natia",
+      "used_in": [
+        "_reports/species-morphology-coverage.md"
+      ],
+      "evidence": [
+        {
+          "quote": "Imago. Head, anterior three-fourths of pronotum and the abdomen auburn ; posterior fourth of pronotum and apical margin of abdominal tergites 2-6 darker",
+          "locator": "p. 12（Calotermes (Neotermes) papua）",
+          "note": "支撑：Neotermes papua 有翅成虫描述"
+        },
+        {
+          "quote": "Described Castes.",
+          "locator": "p. 11",
+          "note": "支撑：该文物种与品级总表；含多种 n. sp."
+        }
+      ],
+      "id": "S0491"
     }
   ]
 }
