@@ -3,7 +3,7 @@
     "version": 1,
     "count": 459,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-17T23:06:20+08:00",
+    "updated": "2026-11-18T21:35:37+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -537,7 +537,7 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-17T23:06:20+08:00",
+      "accessed": "2026-11-18T21:26:13+08:00",
       "evidence": [
         {
           "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
@@ -773,10 +773,32 @@
           "quote": "习性  栖居于土中或腐朽的树干树根内，时常与别种白蚁杂居在同一处。",
           "locator": "701-800.txt 第 1386 行",
           "note": "支撑 /species/pseudocapritermes-sowerbyi/ 的生物学（生活习性）改写"
+        },
+        {
+          "quote": "台湾乳白蚁兵蚁量度 ( mm)\n项 范  围 项 范  围\n头长至上颚基 1.43—1,68 前胸背板长 0.38—0.50\n头最宽 1.07—1.25 前胸背板宽 0.80—0.94\n左上颚长 0.90—1.05 后足胫节长 0.90—1.05\n后额长 0.93—1.00 触角节数 14-15\n后频最宽 0.370.43 囟孔形状 上窄下宽卵形\n后颏最狄 0.21—0.26",
+          "locator": "301-400.txt 第 565–572 行",
+          "note": "支撑：台湾乳白蚁兵蚁 10 项量度值"
+        },
+        {
+          "quote": "黄翅大白蚁大兵蚁量度 ( mm)\n项  目 范  围 项  目 范  围\n全  长 10.50—11.00 前胸背板长 1.00-1.05\n头长连上颚 5.00—5.44 前胸背板宽 1.88-2.05\n头长不连上颚 3.33—3.61 后频最宽 0.73-0.86\n头  宽 2.613.11 后频最狭 0.50—0.54",
+          "locator": "601-700.txt 第 553–558 行",
+          "note": "支撑：黄翅大白蚁大兵蚁 8 项量度值"
+        },
+        {
+          "quote": "梯头大白蚁小兵量度 (mm)\n项 范  围 平  均 项  日 范  围   i 平   均\n头长至颚基 2.02—2.19 2.10 后颏宽 0.54—0.58 0.56\n头最宽 1.60—1.74 1.66 后颏狭 047-0.52 0.50\n头在触角后缘宽 1.35—1.48 1.40 前胸背中长 0.67--0.77 0.71\n头在颐基宽 0.96—1.08 1.00 前胸背宽 1.21—1.34 125\n头上颚长 1.35—1.48 1.40 中胸背宽 0.91—1.01 0.96\n后颏长 1.31—1.41 1.38 后胸背宽 1.08-1.25 1.15",
+          "locator": "601-700.txt 第 1176–1183 行",
+          "note": "支撑：梯头大白蚁小兵蚁含平均值的量度"
+        },
+        {
+          "quote": "狭背堆砂白蚁9个兵蚁量度( mm)\n项  目 范 围 平 均 项 日 范 围 平 均\n头长至颚端 1.70—1.95 1.83 前胸背板中长 0.70一0.75 0.72\n头  宽 1.22—1.31 1.25 前胸背板宽 1.19—1.24 1.23\n头  高 0.84—0.96 0.89 后足胫节长 0.70—0.86 0.78\n有翅成虫  头赤褐色，前唇基淡棕黄色，上唇淡赤褐色，上颚棕黄色，齿色较深，前胸 背板较头色深，翅灰褐色，前缘赤褐色。\n头近长方形，两侧平行，后缘弧出，头盖缝中臂可见，复眼适度突出，近圆形，单眼多为 长圆形，与复眼接近但未接触，触角斑明显可见，额部稍显不平，两侧微有斜向凹纹，复眼  至触角窝间距小于单眼短径，复眼距头下缘约等于复眼长径的2/3,前唇基梯形，上唇宽  阔，拱形，左上颚具2枚缘齿，第1缘齿较小，尖端呈锐角，第2缘齿较宽，右上颚具2枚缘  齿，第1缘齿尖，第2缘呈钝角，2个缘齿十分靠近，触角14—-15节，2或3节稍长于4节。 前胸背板微狭于头宽，前缘中央浅凹，后缘中央凹人明显，两侧弧形，前侧角狭圆，后侧角 宽圆，前后翅鳞不等，前翅鳞常大于后翅鳞，前翅 Sc 脉较短，R 脉伸达翅长的1/4左右，Rs\n伸达翅端，具数枚分支，M 脉自肩缝处独立伸出，大部分靠近Cu, 脉但伸达翅长约3/4处 弯向 Rs 而与Rs 相连，Cu 脉约有10余个分支。",
+          "locator": "101-200.txt 第 1157–1164 行",
+          "note": "支撑：带「平均」列的兵蚁量度（6 项）"
         }
       ],
       "used_in": [
         "_data/fauna_genera.json",
+        "_data/fauna_measure_terms.json",
+        "_data/fauna_measurements.json",
         "_data/fauna_species.json",
         "_data/morphology_genera.json",
         "_data/taxon_literature.json",
@@ -951,7 +973,7 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-15T02:58:28+08:00",
+      "accessed": "2026-11-18T21:18:02+08:00",
       "evidence": [
         {
           "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
@@ -1077,6 +1099,21 @@
           "quote": "Termes flavicolle Fabricius, 1793: 91 (imago). Type data: Lectotype: ZMUC imago. Lectotype designation: Zimsen, 1964: 613 [lectotype selection credited to Emerson]. Type locality: “Barbaria” [= ?Algeria].",
           "locator": "p. 0401-0600.txt L7022-7026",
           "note": "支撑：Kalotermes flavicollis 基名 Termes flavicolle Fabricius, 1793、选模 ZMUC、模式产地「Barbaria」"
+        },
+        {
+          "quote": "Stylotermes Holmgren and Holmgren, 1917: 141.",
+          "locator": "_full.txt 第 33608 行（Stylotermes 属级条目首行）",
+          "note": "支撑：属名 Stylotermes 的命名人为两位同姓作者 Holmgren，年份 1917，原文页码 141；正文「唯含杆白蚁属 Stylotermes Holmgren & Holmgren, 1917」即据此。"
+        },
+        {
+          "quote": "Holmgren, K. and N. Holmgren (Fletcher, T.B., trans.). 1917. Report on a collection of termites from India.",
+          "locator": "_full.txt 第 152122 行（参考文献：Holmgren & Holmgren 1917 条目）",
+          "note": "支撑：1917 年这篇原始文献的作者是 K. Holmgren 与 N. Holmgren 两人——同一姓氏、不同人；正文原句「由 Holmgren 与 Holmgren 于 1917 年建立」易被读成同一人重复出现，故改为标出名字首字母。著者顺序按该文献条目。"
+        },
+        {
+          "quote": "Holmgren, N., and K. Holmgren. 1915. Termiten aus Neu-Caledonien und den benachbarten Inselgruppen.",
+          "locator": "_full.txt 第 152118 行（参考文献：Holmgren & Holmgren 1915 条目）",
+          "note": "对照：同一对作者 1915 年那篇以 N. 在前、1917 年这篇以 K. 在前，可见 Treatise 的著者顺序随原文而非统一排序，据此采用 1917 年条目的 K. 在前。"
         }
       ],
       "used_in": [
@@ -1084,13 +1121,20 @@
         "_data/genus_sources.json",
         "_data/morphology_genera.json",
         "_data/taxon_literature.json",
+        "_data/taxon_prose.json",
         "_includes/genus-morphology.html",
         "_reports/genus-morphology-worklist.csv",
         "_reports/genus-morphology-worklist.md",
         "_tools/fauna/morphology/build_worklist.py",
         "_tools/fauna/morphology/descriptions/06-holmgren.json",
         "_tools/fauna/morphology/extract_genus_sources.py",
-        "未发布内容/白蚁基础知识-中文稿-修订-v5.docx"
+        "en/family/stylotermitidae.md",
+        "en/list/sections.md",
+        "es/family/stylotermitidae.md",
+        "es/list/sections.md",
+        "family/stylotermitidae.md",
+        "未发布内容/白蚁基础知识-中文稿-修订-v5.docx",
+        "现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名 — 中文正名对照名录Latin Name — Chinese Name Comparison List.md"
       ],
       "id": "S0004"
     },
@@ -20669,7 +20713,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.3196.1.2",
       "chars": 580,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:19:18+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.3196.1.2（580 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（579 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.3196.1.2",
@@ -20697,10 +20741,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.3196.1.2",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0353",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Until now, the Neotropical termite genus Cyranotermes was known from three species: C. timuassu Araujo, C. glaber Constantino, and C. caete Cancello.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：该属在研究前已知 3 种（页面 /genus/cyranotermes/）"
+        },
+        {
+          "quote": "In this paper a new species, Cyranotermes karipuna, n. sp., is described and illustrated from imago, worker, and soldier castes, along with its nest.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：新种所据 3 个品级与巢体（页面 /species/cyranotermes-karipuna/）"
+        },
+        {
+          "quote": "the first description of the imago caste of Cyranotermes, based on the first description of the imago of C. timuassu, and the imago of the new species",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：该属有翅成虫品级的首次描述及其材料（页面 /species/cyranotermes-timuassu/）"
+        }
+      ],
+      "id": "S0353"
     },
     {
       "title": "Termitotrox cupido sp. n. (Coleoptera, Scarabaeidae), a new termitophilous scarab species from the Indo-Chinese subregion, associated with Hypotermes termites",
@@ -20710,7 +20771,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.254.4285",
       "chars": 19063,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:19:20+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.254.4285（19063 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.3897-zookeys.254.4285",
@@ -20738,8 +20799,31 @@
       "license": "cc-by",
       "doi": "10.3897/zookeys.254.4285",
       "url": "https://doi.org/10.3897/zookeys.254.4285",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Hypotermes Holmgren, 1917 was previously an unknown host of Termitotrox species.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：地白蚁属此前未被记载为该甲虫属的寄主（页面 /genus/hypotermes/）"
+        },
+        {
+          "quote": "I found 25 Termitotrox beetles from fungus garden cells of Hypotermes makhamensis Ahmad, 1965 by examining more than 80 fungus gardens.",
+          "locator": "Materials and methods / full.txt",
+          "note": "支撑：25 头标本与 80 个以上菌圃的采集记录（页面 /genus/hypotermes/、/species/hypotermes-makhamensis/）"
+        },
+        {
+          "quote": "Termitotrox cupido specimens were found only on the walls of the fungus garden cells of Hypotermes makhamensis",
+          "locator": "Discussion / full.txt",
+          "note": "支撑：仅见于菌圃腔壁、不同于进入菌圃内部的客虫（页面 /species/hypotermes-makhamensis/）"
+        },
+        {
+          "quote": "Most species have been found in fungus gardens of the fungus-growing termite genera Odontotermes Holmgren, 1912 or Protermes Holmgren, 1910",
+          "locator": "Introduction / full.txt",
+          "note": "支撑：该甲虫属已知寄主属（页面 /species/hypotermes-makhamensis/ 第 2 段）"
+        }
+      ],
       "id": "S0354"
     },
     {
@@ -20750,7 +20834,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.1993.1.6",
       "chars": 455,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:19:21+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.1993.1.6（455 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（454 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.11646-zootaxa.1993.1.6",
@@ -20777,10 +20861,27 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.1993.1.6",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0355",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Obtusitermes Snyder is a genus endemic to the Neotropics, restricted to northern South America and southern Central America.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：钝白蚁属为分布于南美北部与中美南部的新热带特有属（页面 /genus/obtusitermes/）"
+        },
+        {
+          "quote": "Obtusitermes panamae Snyder was described from Quipo, Panama.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：巴拿马钝白蚁模式产地 Quipo（页面 /genus/obtusitermes/）"
+        },
+        {
+          "quote": "These descriptions provide strong evidence that Parvitermes bacchanalis Mathews should not be included in Obtusitermes.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：酒神钝白蚁不应归入钝白蚁属（页面 /species/obtusitermes-bacchanalis/）"
+        }
+      ],
+      "id": "S0355"
     },
     {
       "title": "Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae)",
@@ -20830,7 +20931,7 @@
       "file_path": "_unpublished/文库/10.4039-ent129757-4",
       "chars": 769,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:21:30+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.4039-ent129757-4（769 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（768 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.4039-ent129757-4",
@@ -20856,10 +20957,32 @@
       "publisher": "The Canadian Entomologist",
       "lang": "en",
       "doi": "10.4039/ent129757-4",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0357",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A second species of the dry wood termite genus Marginitermes Krishna is described from Baja California del Sur, Mexico, and a redescription of the genus is provided.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：第 2 种与属的重新描述、模式产地（页面 /genus/marginitermes/、/species/marginitermes-cactiphagus/）"
+        },
+        {
+          "quote": "Both species occur in dead skeletons of columnar cacti and other wood species.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：两种均栖于柱状仙人掌枯死骨架与其他树种木材（页面 /species/marginitermes-cactiphagus/、/species/marginitermes-hubbardi/）"
+        },
+        {
+          "quote": "Both species differ from related drywood termites in the structure of the proventricular armature, suggestive of unique adaptation for intestinal manipulation of cactus wood fibres.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：前胃铠甲结构的差异与推测的适应（页面 /genus/marginitermes/）"
+        },
+        {
+          "quote": "Marginitermes is shown to be related to a western continental subgroup of Incisitermes comprised of I. minor (Hagen), I. marginipennis (Latreille), and I. fruticavus Rust.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：与楹白蚁属西部大陆亚群近缘及其 3 个成员（页面 /genus/incisitermes/）"
+        }
+      ],
+      "id": "S0357"
     },
     {
       "title": "Antillean Nasutitermitinae (Isoptera: Termitidae): Parvitermes collinsae, a New Subterranean Termite from Hispaniola and Redescription of P. pallidiceps and P. wolcotti",
@@ -20909,7 +21032,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1550-7408.1993.tb04878.x",
       "chars": 853,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:21:33+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1550-7408.1993.tb04878.x（853 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（852 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1550-7408.1993.tb04878.x",
@@ -20936,10 +21059,27 @@
       "publisher": "Journal of Eukaryotic Microbiology",
       "lang": "en",
       "doi": "10.1111/j.1550-7408.1993.tb04878.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0359",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The gregarine parasites of Reticulitermes virginicus and Reticulitermes flavipes begin their development as trophozoites attached to the midgut epithelium",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：两种散白蚁肠道簇虫的发育起点（页面 /species/reticulitermes-flavipes/）"
+        },
+        {
+          "quote": "Syzygy is late and was not observed.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：接合发生较晚、未被观察到（页面 /species/reticulitermes-virginicus/）"
+        },
+        {
+          "quote": "These gregarines are believed to be identical to Gregarina termitis Leidy which was described from a single gamont and later erroneously placed in the genus Hirmocystis by Henry.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：与 Gregarina termitis 同种的判断及 Henry 的误置（页面 /species/reticulitermes-virginicus/）"
+        }
+      ],
+      "id": "S0359"
     },
     {
       "title": "NATURAL RESISTANCE OF SUDANESE TIMBER AGAINST THE SAND TERMITE PSAMMOTERMES HYBOSTOMA",
@@ -20949,7 +21089,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1570-7458.1978.tb02774.x",
       "chars": 1367,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:23:45+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1570-7458.1978.tb02774.x（1367 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1366 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1111-j.1570-7458.1978.tb02774.x",
@@ -20976,10 +21116,27 @@
       "publisher": "Entomologia Experimentalis et Applicata",
       "lang": "en",
       "doi": "10.1111/j.1570-7458.1978.tb02774.x",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0360",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The natural resistance of timber from 37 tree species grown in the Sudan to the damage caused by the sand termite Psammotermes hybostoma and by fungi was tested.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：37 种苏丹用材树种、以弯嘴沙白蚁与真菌为对象（页面 /species/psammotermes-hybostoma/）"
+        },
+        {
+          "quote": "Les bois ayant des teneurs en tanin élevées ou moyennes étaient toujours résistants à l'attaque fongique, tandis que ceux qui contenaient des stilbènes étaient durables en présence des champignons et des termites.",
+          "locator": "法文摘要（RÉSUMÉ）/ full.txt",
+          "note": "支撑：单宁与二苯乙烯含量和抗性的关系；正文中文段落据此转述"
+        },
+        {
+          "quote": "Des extraits de deux essences, Diospyros mespiliformis et Dalbergia melanoxylon, classés “hautement résistants” ont rendu durable Adansonia digitata, essence naturellement très peu résistante.",
+          "locator": "法文摘要（RÉSUMÉ）/ full.txt",
+          "note": "支撑：高抗性树种提取物提高猴面包树木材抗性（页面 /species/psammotermes-hybostoma/ 第 2 段）"
+        }
+      ],
+      "id": "S0360"
     },
     {
       "title": "Control of Cryptotermes brevis12",
@@ -20989,7 +21146,7 @@
       "file_path": "_unpublished/文库/10.1093-jee-65.6.1577",
       "chars": 577,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:23:46+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1093-jee-65.6.1577（577 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（576 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1093-jee-65.6.1577",
@@ -21017,10 +21174,32 @@
       "publisher": "Journal of Economic Entomology",
       "lang": "en",
       "doi": "10.1093/jee/65.6.1577",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0361",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Bioassay of a standard, whole-building fumigation substantiates the hypothesis that sulfuryl fluoride is highly effective against Cryplotermes brevis (Walker) in Key West, Florida.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：硫酰氟整幢建筑熏蒸的防效（页面 /species/cryptotermes-brevis/）；摘录保留原文拼写 Cryplotermes"
+        },
+        {
+          "quote": "Ultraviolet light trapping during the swarming season indicated no flight activity in fumigated buildings within 2 years after treatment.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：处理后 2 年内无分飞活动（页面 /species/cryptotermes-brevis/）"
+        },
+        {
+          "quote": "Laboratory treatment of wood surfaces with silica acrogel controlled reproductive termites, and residues from 1% dieldrin sprays gave 95-100% control.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：硅气凝胶与 1% 狄氏剂的防效（页面 /species/cryptotermes-brevis/）；摘录保留原文拼写 acrogel"
+        },
+        {
+          "quote": "Dichlorvos fumigation in drums was ineffective at dosages recommended for control of other insect species.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：桶内敌敌畏熏蒸无效（页面 /species/cryptotermes-brevis/）"
+        }
+      ],
+      "id": "S0361"
     },
     {
       "title": "Metaclevelandella termitis, a new genus and species of Heterotrichous ciliate (family Clevelandellidae) found in the Indian termite Capritermes incola Wasm.",
@@ -21030,7 +21209,7 @@
       "file_path": "_unpublished/文库/10.1017-s0031182000072504",
       "chars": 254,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:23:56+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1017-s0031182000072504（254 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（253 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1017-s0031182000072504",
@@ -21057,10 +21236,17 @@
       "publisher": "Parasitology",
       "lang": "en",
       "doi": "10.1017/s0031182000072504",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0362",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The paper records the description of the morphology and taxonomy of a new genus and species of a Heterotrichous ciliate (family Clevelandellidae) found in the gut of the non-xylophagous termite Capritermes incola Wasm. (Termitidae) from Dharwar (India).",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：新属新种、寄主为白蚁科非食木种类、产地达尔瓦尔（页面 /species/dicuspiditermes-incola/）"
+        }
+      ],
+      "id": "S0362"
     },
     {
       "title": "Soil-feeding termites build islands of soil physical and chemical fertility in pastures in Colombian Amazon",
@@ -21070,7 +21256,7 @@
       "file_path": "_unpublished/文库/10.1371-journal.pone.0322186",
       "chars": 107199,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-10T15:24:18+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1371-journal.pone.0322186（107199 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
       "library": {
         "book": "10.1371-journal.pone.0322186",
@@ -21102,8 +21288,31 @@
       "license": "cc-by",
       "doi": "10.1371/journal.pone.0322186",
       "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0322186&type=printable",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Soil-feeding termite species, such as Patawatermes turricola (Silvestri, 1901), construct mounds that significantly alter soil properties; this species is an abundant mound-builder in the Amazon region.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：土栖帕塔瓦白蚁为亚马逊常见筑丘种并显著改变土壤性质（页面 /genus/patawatermes/）"
+        },
+        {
+          "quote": "Within each transect, all encountered mounds were identified, totaling 63 mounds in all study areas; 54 were determined to be P. turricola and were subsequently sampled.",
+          "locator": "Results / full.txt",
+          "note": "支撑：全区共见 63 个丘体、54 个鉴定为该种并取样（页面 /genus/patawatermes/、/species/patawatermes-turricola/）"
+        },
+        {
+          "quote": "Our results showed that termites significantly improved soil aggregate stability, as reflected in a higher weighted mean diameter value in the mound (3.88 mm) than in unmodified topsoil (3.57 mm). Macro-porosity was also higher in the mound (18.49% vs. 11.47%).",
+          "locator": "Results / full.txt",
+          "note": "支撑：团聚体平均重量直径与大孔隙度对比值（页面 /species/patawatermes-turricola/）"
+        },
+        {
+          "quote": "The data obtained for the chemical attributes revealed significant increases in the content of Ca2+, Mg2+, K+, Pav, SOC, and BS were found in the mound soil compared to the surrounding soil.",
+          "locator": "Results / full.txt",
+          "note": "支撑：丘体土壤交换性盐基、有效磷与有机碳升高（页面 /species/patawatermes-turricola/）"
+        }
+      ],
       "id": "S0363"
     },
     {
@@ -21114,7 +21323,7 @@
       "file_path": "_unpublished/文库/10.3897-natureconservation.43.59474",
       "chars": 1464,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-10T15:26:28+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-natureconservation.43.59474（1464 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；无 OA 全文，仅存完整摘要（1463 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.3897-natureconservation.43.59474",
@@ -21145,10 +21354,27 @@
       "publisher": "Nature Conservation",
       "lang": "en",
       "doi": "10.3897/natureconservation.43.59474",
-      "used_in": [],
-      "evidence": [],
-      "id": "S0364",
-      "fulltext_status": "abstract-no-oa"
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A total of 28 termite species belonging to 14 genera and 6 subfamilies were identified.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：3 个样点的物种、属与亚科数（多个页面共用）"
+        },
+        {
+          "quote": "Nine species (with two potentially new species for sciences: Amitermes sp and Eremotermes sp) were recorded for the first time in the country.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：9 个国内新记录含弓白蚁属与漠白蚁属各一种（页面 /genus/amitermes/、/genus/eremotermes/）"
+        },
+        {
+          "quote": "The occurrence of the unique member of the feeding group I, Coptotermes intermedius Silvestri, 1912, as well as the occurrence of Fulleritermes tenebricus Silvestri, 1914 (both wood-dwelling termites), was certainly due to the vegetation.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：中间乳白蚁与阴暗富勒白蚁的木栖属性及其与植被的关系（页面 /species/coptotermes-intermedius/、/species/fulleritermes-tenebricus/）"
+        }
+      ],
+      "id": "S0364"
     },
     {
       "title": "Phylogenetic diversity of the intestinal bacterial community in the termite Reticulitermes speratus",
@@ -21158,7 +21384,7 @@
       "file_path": "_unpublished/文库/10.1128-aem.62.2.461-468.1996",
       "chars": 1456,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:31:05+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1128-aem.62.2.461-468.1996（1456 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1455 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1128-aem.62.2.461-468.1996",
@@ -21185,9 +21411,26 @@
       "publisher": "Applied and Environmental Microbiology",
       "lang": "en",
       "doi": "10.1128/aem.62.2.461-468.1996",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Of 55 clones sequenced, 45 were phylogenetically affiliated with four of the major groups of the domain Bacteria: the Proteobacteria, the spirochete group, the Bacteroides group, and the low-G+C-content gram-positive bacteria.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：55 个克隆中 45 个的类群归属（页面 /species/reticulitermes-speratus/）"
+        },
+        {
+          "quote": "Of the remaining 10 clones, among which 8 clones formed a cluster, there was only very low sequence similarity to known 16S rRNA sequences.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：其余 10 个克隆与已知序列相似度极低（页面 /species/reticulitermes-speratus/）"
+        },
+        {
+          "quote": "The 16S rDNA gene sequence data show that the majority of the intestinal microflora of R. speratus consists of new, uncultured species previously unknown to microbiologists.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：区系大部分为未培养新种（页面 /species/reticulitermes-speratus/）"
+        }
+      ],
       "id": "S0365"
     },
     {
@@ -21237,7 +21480,7 @@
       "file_path": "_unpublished/文库/10.1073-pnas.96.24.13874",
       "chars": 1479,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:32:22+08:00",
+      "accessed": "2026-11-18T21:35:37+08:00",
       "notes": "全文存于 _unpublished/文库/10.1073-pnas.96.24.13874（1479 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1478 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
       "library": {
         "book": "10.1073-pnas.96.24.13874",
@@ -21269,9 +21512,26 @@
       "publisher": "Proceedings of the National Academy of Sciences",
       "lang": "en",
       "doi": "10.1073/pnas.96.24.13874",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "To identify genes specifically expressed in the soldier caste of the Japanese damp-wood termite Hodotermopsis japonica, we employed the differential-display method using oligo(dT) and arbitrary primers, compared mRNA from the heads of mature soldiers and pseudergates (worker caste), and identified a clone (PCR product) 329 bp in length termed SOL1.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：差异显示法、329 bp 克隆 SOL1 与材料名称 Hodotermopsis japonica（页面 /genus/hodotermopsis/、/species/hodotermopsis-sjostedti/）"
+        },
+        {
+          "quote": "Northern blot analysis showed that the SOL1 mRNA is about 1.0 kb in length and is expressed specifically in mature soldiers, but not in pseudergates, even in the presoldier induction by juvenile hormone analogue",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：约 1.0 kb、成熟兵蚁特异表达、保幼激素类似物诱导下不表达（页面 /species/hodotermopsis-sjostedti/）"
+        },
+        {
+          "quote": "In situ hybridization analysis showed that SOL1 is expressed specifically in the mandibular glands.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：仅在下颌腺表达（页面 /species/hodotermopsis-sjostedti/）"
+        }
+      ],
       "id": "S0367"
     },
     {

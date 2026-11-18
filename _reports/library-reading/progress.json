@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-17T21:05:47+08:00",
+ "updated": "2026-11-18T21:35:40+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -801,8 +801,8 @@
    ]
   },
   "abstract:S0145": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-18T21:35:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -817,13 +817,18 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0145"
+    },
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
      "source_id": "S0145"
     }
    ]
   },
   "abstract:S0146": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-18T21:35:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -838,13 +843,18 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0146"
+    },
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
      "source_id": "S0146"
     }
    ]
   },
   "abstract:S0147": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-18T21:35:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -860,12 +870,17 @@
      "date": "2026-11-15-r2b",
      "focus": "ecology",
      "source_id": "S0147"
+    },
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0147"
     }
    ]
   },
   "abstract:S0148": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-18T21:35:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -880,6 +895,11 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0148"
+    },
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
      "source_id": "S0148"
     }
    ]
@@ -1050,8 +1070,8 @@
    ]
   },
   "abstract:S0150": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-18T21:35:40+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -1066,6 +1086,11 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0150"
+    },
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
      "source_id": "S0150"
     }
    ]
@@ -3196,6 +3221,171 @@
      "date": "2026-11-17",
      "focus": "taxonomy",
      "source_id": "S0352"
+    }
+   ]
+  },
+  "10.11646-zootaxa.3196.1.2::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0353"
+    }
+   ]
+  },
+  "10.3897-zookeys.254.4285::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0354"
+    }
+   ]
+  },
+  "10.11646-zootaxa.1993.1.6::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0355"
+    }
+   ]
+  },
+  "10.5281-zenodo.191174::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0356"
+    }
+   ]
+  },
+  "10.4039-ent129757-4::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0357"
+    }
+   ]
+  },
+  "10.2307-3496044::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0358"
+    }
+   ]
+  },
+  "10.1111-j.1550-7408.1993.tb04878.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0359"
+    }
+   ]
+  },
+  "10.1111-j.1570-7458.1978.tb02774.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0360"
+    }
+   ]
+  },
+  "10.1093-jee-65.6.1577::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0361"
+    }
+   ]
+  },
+  "10.1017-s0031182000072504::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0362"
+    }
+   ]
+  },
+  "10.1371-journal.pone.0322186::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0363"
+    }
+   ]
+  },
+  "10.3897-natureconservation.43.59474::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0364"
+    }
+   ]
+  },
+  "10.1128-aem.62.2.461-468.1996::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0365"
+    }
+   ]
+  },
+  "10.1073-pnas.78.3.1976::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0366"
+    }
+   ]
+  },
+  "10.1073-pnas.96.24.13874::full": {
+   "reads": 1,
+   "last_read": "2026-11-18T21:35:40+08:00",
+   "history": [
+    {
+     "date": "2026-11-18",
+     "focus": "taxonomy",
+     "source_id": "S0367"
     }
    ]
   }
