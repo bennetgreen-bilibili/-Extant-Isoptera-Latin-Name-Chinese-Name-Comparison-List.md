@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Holmgren's description (Termitenstudien, Kungl. Svenska Vetenskapsakademiens Handlingar Bd 50 Nr 2) of forma Nymanni of Odontotermes javanicus, the original in German; the form is now treated as a subspecies. The original's description of the form is very short, only one sentence comparing colour plus one set of measurements. OCR problems: the measurement line is largely defective (the head length row reads \"Köpflaängesst 1 jad oroa sutidet FAT. 3\", the head width row \"KöptbprerteRre -TAuvts Nerell 23605\"); only three items — body length with wings, forewing length and pronotum width — are legible, and these three values need to be checked against the original publication.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Colour more reddish brown than the typical form, body slightly smaller. The original describes only the alate and gives no soldier or worker. Measurements (mm): body length with wings 26, forewing length 22, pronotum width 2,05; head length, head width and other items are damaged and illegible in the scan."
+  },
+  {
+   "label": "Other",
+   "text": "The original separates, under Odontotermes javanicus, the typical form (Hauptform) and two forms, forme Nymanni and forme Buitenzorghi; this form was described as forma Nymanni n. f. and is now treated as a subspecies. Distribution is given as Java (with a question mark in the original); specimens are in the Reichsmuseum Stockholm. The original's descriptions of the alate, soldier and worker of the typical form (including measurements such as soldier head length 3,42 and head width 1,9) belong to the typical form and are not recorded here."
+  }
+ ]
+}

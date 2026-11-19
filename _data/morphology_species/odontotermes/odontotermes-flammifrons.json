@@ -1,0 +1,21 @@
+{
+ "zh_name": "红额土白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头卵形；红褐色，额部有一大而不规则的浅色区，自该区有3或4条细长浅色条纹向后收狭（保存多年后这些浅色条纹消失）；上颚黑色，基部浅，细，端部强烈内曲；左上颚内缘具一尖锐、向前的齿，距端部不及一半，自齿至基部的内缘略呈波状；右上颚具一遗迹性的中齿；上唇舌形，宽，端圆；后颏宽，两侧强烈向收，前、后缘圆；触角17或18节，17节者第IV节稍长于第II或第III节，18节者第IV节最短。前胸背板前叶短但明显，前、后缘轻度凹入。胸部、腹部与足黄色。量度（mm；Abercorn 5只标本范围 / Sjöstedt 原量度）：头连上颚长4.18—4.32 / 3.75—4.00；头长2.73—2.82 / —；头宽2.32—2.41 / 2.00—2.15；左上颚长1.59—1.64 / 1.55—1.65；前胸背板宽0.82—1.00 / —；后足胫节长2.14—2.27 / —。"
+  },
+  {
+   "label": "鉴别要点",
+   "text": "原记为 Termes flammifrons Sjöstedt, 1926（Rev. Zool. afr. 14: 148-9），后归入 Odontotermes。"
+  }
+ ],
+ "note": "据 Harris 1960 种级描述改写，原文英文；仅有兵蚁一段，有翅成虫与工蚁未见描述。原文该段完整地出现在素材包 odontotermes-lacustris.txt 的连续 OCR 片段内（该包跨 pp. 20—21，第 63—96 行含本种标题与全文），单独的 odontotermes-flammifrons.txt 只截到该段中段。兵蚁量度表两列分别为 Abercorn 5只标本与本种原描述者 Sjöstedt 的量度，原文空缺处以「—」标注；前胸背板长一行 OCR 作「elegy)」，不可读，未录。",
+ "sources": [
+  {
+   "id": "S0758",
+   "citation": "Harris W. V. 1960.（题名未见，页眉作「W. V. Harris on East African Termites」）Proceedings of the Royal Entomological Society of London (B) 29(1-2): 21. [来源标识 systematic-entomology_1960-03-04_29_part-1-2]",
+   "locator": "Odontotermes flammifrons (Sjöstedt)（Fig. 3 与量度表，p. 21）"
+  }
+ ]
+}

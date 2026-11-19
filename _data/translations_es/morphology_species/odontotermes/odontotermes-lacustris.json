@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción específica de Harris (1960), original en inglés; el paquete de fuentes comienza después de la leyenda de la Fig. 2, de modo que la primera mitad del apartado del soldado (la descripción de la cabeza) y todo el apartado del alado son anteriores al inicio del paquete y faltan; esta entrada contiene por tanto solo la morfología pronotal del soldado, las medidas del soldado y la comparación diagnóstica entre alado y soldado. Las tres columnas de la tabla de medidas del soldado son, respectivamente, el holotipo, el intervalo de 3 especímenes y el intervalo de 11 especímenes; para la serie de 11 especímenes el original da la anchura del pronoto como \"lee\", que es basura de OCR y no se ha conjeturado.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Pronoto marcadamente en silla de montar; lóbulo anterior grande; borde anterior crenado; ángulos redondeados, los lados fuertemente convergentes hacia el borde posterior estrecho y crenado. Los soldados examinados muestran una discontinuidad clara de tamaño, lo que sugiere dos castas (soldados mayor y menor), pero no parecen existir otras diferencias entre ellos. Medidas (mm; holotipo / 3 especímenes / 11 especímenes): longitud de la cabeza con mandíbulas 2.50 / 2.23—2.36 / 2.50—2.73; longitud de la cabeza 1.50 / 1.36—1.40 / 1.50—1.64; anchura de la cabeza 1.35 / 1.18—1.30 / 1.32—1.54; longitud de la mandíbula izquierda 1.04 / 0.95—1.04 / 1.00—1.14; anchura del pronoto 1.09 / 0.91—1.00 / (valor ilegible en el OCR para la serie de 11 especímenes); longitud del pronoto 0.59 / 0.54 / 0.59—0.68; longitud de la tibia posterior 1.32 / 1.09—1.28 / 1.28—1.36."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Entre los taxones con una rama subcostal, el alado es el más próximo a O. latericius (Hav.), del que difiere por unos ocelos mucho más cercanos a los ojos compuestos, siendo la distancia del borde externo del ojo compuesto al borde de la cápsula cefálica menor que el diámetro corto de un ocelo; la mancha en T del pronoto es poco evidente y el ala anterior es más larga. El soldado se distingue de O. latericius y O. vulgaris (Hav.) por las mandíbulas más finas, la mandíbula derecha sin diente evidente y el diente interno de la mandíbula izquierda situado en la mitad del margen interno. El soldado de O. interveniens Sjöst. es semejante, pero el alado descrito para él es mucho menor (ala anterior 18 mm) y la distancia de los ocelos a los ojos compuestos es mayor que el diámetro largo de un ocelo."
+  }
+ ]
+}

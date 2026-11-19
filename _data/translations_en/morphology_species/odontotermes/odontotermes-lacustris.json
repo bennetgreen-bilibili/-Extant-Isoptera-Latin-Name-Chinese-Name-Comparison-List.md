@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Harris's (1960) species-level description, the original in English; the source pack begins after the caption of Fig. 2, so the first half of the soldier section (the description of the head) and the whole alate section precede the start of the pack and are missing; this entry therefore contains only the pronotal morphology of the soldier, the soldier measurements and the diagnostic comparison of alate and soldier. The three columns of the soldier measurement table are the holotype, the range of 3 specimens and the range of 11 specimens, respectively; for the 11-specimen series the original gives the pronotum width as \"lee\", which is OCR garbage and has not been guessed.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Pronotum markedly saddle-shaped; anterior lobe large; anterior margin crenate; angles rounded, the sides strongly convergent towards the narrow, crenate posterior margin. The soldiers examined show a clear discontinuity in size, suggesting two castes (major and minor soldiers), but no other differences between them are apparent. Measurements (mm; holotype / 3 specimens / 11 specimens): head length with mandibles 2.50 / 2.23—2.36 / 2.50—2.73; head length 1.50 / 1.36—1.40 / 1.50—1.64; head width 1.35 / 1.18—1.30 / 1.32—1.54; left mandible length 1.04 / 0.95—1.04 / 1.00—1.14; pronotum width 1.09 / 0.91—1.00 / (value for the 11-specimen series illegible in OCR); pronotum length 0.59 / 0.54 / 0.59—0.68; hind tibia length 1.32 / 1.09—1.28 / 1.28—1.36."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Among the taxa with a subcostal branch, the alate is closest to O. latericius (Hav.), from which it differs in the ocelli being much closer to the compound eyes, the distance from the outer margin of the compound eye to the edge of the head capsule being less than the short diameter of an ocellus; the T-shaped mark of the pronotum is indistinct and the forewing is longer. The soldier differs from O. latericius and O. vulgaris (Hav.) in the slenderer mandibles, the right mandible without a distinct tooth, and the inner tooth of the left mandible situated at the middle of the inner margin. The soldier of O. interveniens Sjöst. is similar, but the alate described for it is much smaller (forewing 18 mm), and the distance from the ocelli to the compound eyes is greater than the long diameter of an ocellus."
+  }
+ ]
+}

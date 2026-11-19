@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción específica de Harris (1960), original en inglés; solo se dispone del apartado del soldado, el alado y el obrero no están descritos. El apartado aparece completo dentro de un pasaje continuo de OCR del paquete de fuentes odontotermes-lacustris.txt (el paquete abarca las pp. 20—21 y las líneas 63—96 contienen el encabezado y el texto completo de esta especie), mientras que el archivo odontotermes-flammifrons.txt se corta en la mitad del apartado. Las dos columnas de la tabla de medidas del soldado son, respectivamente, las medidas de 5 especímenes de Abercorn y las de Sjöstedt, descriptor original de la especie; las casillas vacías del original se marcan con \"—\". La fila de longitud del pronoto fue reproducida por el OCR como \"elegy)\", es ilegible y no se ha recogido.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza ovalada; pardo rojiza, la frente con una zona pálida grande e irregular, desde la cual 3 o 4 estrías pálidas y finas se estrechan hacia atrás (estas estrías pálidas desaparecen tras muchos años de conservación); mandíbulas negras, pálidas en la base, finas, fuertemente incurvadas en el ápice; margen interno de la mandíbula izquierda con un diente agudo dirigido hacia delante, a menos de la mitad de la distancia al ápice, el margen interno desde el diente hasta la base algo ondulado; mandíbula derecha con un diente medio vestigial; labro ligulado, ancho, redondeado en el ápice; postmentón ancho, los lados fuertemente convergentes, los bordes anterior y posterior redondeados; antenas de 17 o 18 segmentos, en la forma de 17 el segmento IV algo más largo que el segmento II o III, y en la de 18 el segmento IV es el más corto. Lóbulo anterior del pronoto corto pero evidente, los bordes anterior y posterior ligeramente cóncavos. Tórax, abdomen y patas amarillos. Medidas (mm; intervalo de 5 especímenes de Abercorn / medidas originales de Sjöstedt): longitud de la cabeza con mandíbulas 4.18—4.32 / 3.75—4.00; longitud de la cabeza 2.73—2.82 / —; anchura de la cabeza 2.32—2.41 / 2.00—2.15; longitud de la mandíbula izquierda 1.59—1.64 / 1.55—1.65; anchura del pronoto 0.82—1.00 / —; longitud de la tibia posterior 2.14—2.27 / —."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Descrita originalmente como Termes flammifrons Sjöstedt, 1926 (Rev. Zool. afr. 14: 148-9), transferida después a Odontotermes."
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the description of this new species by Nickle & Collins, originally in English. OCR problems: the whole page of text after the paragraph on the head of the short-headed soldier is unusable (scan noise), so the descriptive paragraphs on the alate, the nymph and the long-headed soldier could not be read, and the measurement tables for the two soldier forms (Table 3, Table 4) have misaligned column headings and values and are unusable; this entry therefore contains only the morphological text on the head of the short-headed soldier, with no measurements. The individual collection records and the chromosome-number table (Table 1) have been omitted.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Short-headed soldier: head slightly longer than wide (length about 1.21 times the width), about 1.46 times its depth. In dorsal view the sides of the head weakly convex, widest at the middle of the head capsule. Labrum about as long as wide, broadly rounded. Antennal sockets oval; dorsal ridge well developed, extending past antennal segment 1; ventral ridge poorly developed, flush with the head capsule; in dorsal view the antennal sockets extend as a ridge to the dorsal margin of the clypeus. Antennae 13-segmented (occasionally 14), moniliform; segment 1 wide, barrel-shaped, as long as segments 2 and 3 together; segment 2 smaller than segment 4; segment 3 enlarged, about as long as segments 4 and 5 together; segments 4 to 13 similar in size but gradually longer towards the antennal apex. Compound eyes consisting of a group of cells, the central nuclear region dark."
+  },
+  {
+   "label": "Other",
+   "text": "The original describes this species from Florida specimens; the soldiers fall into short-headed and long-headed forms, measured in separate tables. The holotype is a short-headed soldier (Broward Co., Dania, day 30 of month 6, 1984, collected by P. Luykx, in NMNH); the morphotype is an alate (Hollywood, same county, day 21 of month 8, 1986); the paratype series contains 26 soldiers, 15 alates and 20 nymphs, and there are further records of 1 soldier and 1 nymph from Dade Co., Key Largo, 1930."
+  }
+ ]
+}

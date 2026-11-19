@@ -1,0 +1,17 @@
+{
+ "zh_name": "鲁新白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头黄色，上颚黑褐色；体稻草黄。头被长短刚毛，腹部背板有两列不甚明显的刚毛。头粗厚，四方形—卵圆形，向前明显收窄；额平，中央极微弱凹入；触角脊略覆盖触角窝。复眼极小。唇基基片（clypeobasale）短。上唇四方形，长明显小于宽。上颚相当长而粗壮；左上颚第一缘齿大于其后的缘齿，二者三角形、指向前方；第三、第四缘齿延长呈 T 形，第四缘齿远长于第三缘齿。触角 13—15 节，第 3 节长于第 2 节，第 4 节明显短于第 2 节。前胸背板略窄于头，其长稍短于宽度之半；前缘微凹，前角近直角而圆，后角更圆，后缘极微凹入。中、后胸背板窄于前胸背板。量度：体长 9—10 mm；头长（含上颚）4.71—5.47 mm；头长（不含上颚）3—3.57 mm；头宽 2.43—2.85 mm；前胸背板长 0.91—1.10 mm；前胸背板宽 2.09—2.36 mm。头形特殊，使兵蚁外观近似 Termes 属。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0757",
+   "citation": "novacaledoniafor02sara — Sarasin & Roux, Nova Caledonia（Zoologie II），1. Calotermes (Neotermes) rouxi n. sp.",
+   "locator": "1. Calotermes (Neotermes) rouxi n. sp.（p. 87；Soldat 段与量度表，量度表续至 p. 88）"
+  }
+ ],
+ "note": "据 novacaledoniafor02sara 种级描述改写，原文德文。有翅成虫未描述（Imago: Unbekannt）；原文另记「Arbeiter ähnliche Formen liegen vor」（有类工蚁个体）。OCR 问题：量度表被 OCR 拆成单列数字，德语小数逗号与句点混用，头长（不含上颚）一栏只读到「3—3.57」；触角节数原印作「13—15 gliedrig」。"
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción de Holmgren (Termitenstudien, Kungl. Svenska Vetenskapsakademiens Handlingar Bd 50 Nr 2) de la forma Nymanni de Odontotermes javanicus, original en alemán; la forma se trata hoy como subespecie. La descripción de la forma en el original es muy breve, solo una frase de comparación de color más un conjunto de medidas. Problemas de OCR: la línea de medidas está en gran parte defectuosa (la fila de longitud de la cabeza dice \"Köpflaängesst 1 jad oroa sutidet FAT. 3\" y la de anchura de la cabeza \"KöptbprerteRre -TAuvts Nerell 23605\"); solo tres datos —longitud del cuerpo con alas, longitud del ala anterior y anchura del pronoto— son legibles, y estos tres valores deben cotejarse con la publicación original.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Color más pardo rojizo que la forma típica, cuerpo algo menor. El original solo describe el alado y no describe soldado ni obrero. Medidas (mm): longitud del cuerpo con alas 26, longitud del ala anterior 22, anchura del pronoto 2,05; la longitud y la anchura de la cabeza y otros datos están dañados e ilegibles en el escaneo."
+  },
+  {
+   "label": "Otros",
+   "text": "El original separa, bajo Odontotermes javanicus, la forma típica (Hauptform) y dos formas, forme Nymanni y forme Buitenzorghi; esta forma se describió como forma Nymanni n. f. y hoy se trata como subespecie. La distribución se indica como Java (con signo de interrogación en el original); los especímenes están en el Reichsmuseum Stockholm. Las descripciones del original del alado, el soldado y el obrero de la forma típica (incluidas medidas como longitud de la cabeza del soldado 3,42 y anchura de la cabeza 1,9) corresponden a la forma típica y no se recogen aquí."
+  }
+ ]
+}

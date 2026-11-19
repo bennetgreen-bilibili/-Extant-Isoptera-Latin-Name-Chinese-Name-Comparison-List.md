@@ -1,0 +1,21 @@
+{
+ "zh_name": "卢伊克斯新白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "短头型兵蚁：头略长于宽（长约为宽的 1.21 倍），长约为其深的 1.46 倍。背面观头两侧弱凸，最宽处在头壳中部。上唇长宽约相等，宽圆形。触角窝卵形；背脊发达，伸过触角第 1 节；腹脊不发达，与头壳平齐；背面观触角窝以脊状延伸至唇基背缘。触角 13 节（偶为 14 节），念珠状；第 1 节宽、桶状，长等于第 2、3 节之和；第 2 节小于第 4 节；第 3 节增大，长约等于第 4、5 节之和；第 4 至第 13 节大小相似，但向触角端部逐渐变长。复眼由一群细胞组成，中央核区深色。"
+  },
+  {
+   "label": "其他",
+   "text": "原文据佛罗里达标本描述本种，兵蚁分短头型与长头型两类，分别列表量度。正模为短头兵蚁（Broward Co., Dania，1984 年 6 月 30 日，P. Luykx 采，存 NMNH）；morphotype 为有翅成虫（同县 Hollywood，1986 年 8 月 21 日）；副模系列含 26 头兵蚁、15 头有翅成虫、20 头若虫，另有 Dade Co., Key Largo 1930 年的 1 头兵蚁、1 头若虫记录。"
+  }
+ ],
+ "note": "据 Nickle & Collins 对本新种的描述改写，原文英文。OCR 问题：短头兵蚁头部段落之后整页文字失效（扫描残字），有翅成虫、若虫与长头型兵蚁的描述段落均未能读出，两类兵蚁的量度表（Table 3、Table 4）列头与数值错位、不可用，故本条目只有短头兵蚁头部的形态文字，无量度。已删去逐条采集记录与染色体数目表（Table 1）。",
+ "sources": [
+  {
+   "id": "S0756",
+   "citation": "Nickle and Collins. Neotermes luykxi Nickle and Collins, New Species. Proceedings of the Entomological Society of Washington 91(2)（扫描本来源标识：biostor-75110）",
+   "locator": "条目（neotermes-luykxi）"
+  }
+ ]
+}

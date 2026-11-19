@@ -1,0 +1,21 @@
+{
+ "zh_name": "清晰澳大利亚白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头与前胸背板具多数短刚毛及少量散生短毛。腹背板具短毛，两侧另有少量稀疏刚毛，但不形成明显的缘列；腹腹板具一列长刚毛状缘毛及散生短毛。眼与单眼大，单眼与眼缝的距离小于其自身宽度，单眼长 0.15 mm，大于触角基窝直径 0.12 mm。囟点长，狭卵形，末端无明显分叉。后唇基长大于其宽度之半（长 0.32 mm，宽 0.50 mm）。触角 15 节，第 3 节长于第 4 节，第 4 节长于第 2 节。上颚左颚指数 1.54，为澳大利亚 Subulitermes 分支各属中最高（最近缘的 Macrosubulitermes 为 1.07）；右上颚第 2 缘齿退化为痕迹。前胸背板比例上宽，几与头等宽，两侧较 Macrosubulitermes 更外展、向后方更强地收窄；后胸背板后缘与中胸背板后缘大致相同，唯整个边缘较窄。胫节距 2:2:2。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。额突与头顶具散生毛，头部另有若干长刚毛。腹背板具许多较长的毛而无刚毛；腹腹板缘刚毛的长度与密度同腹背板。头具一自背面与侧面均可看到的小缢缩。前胸背板侧面轮廓在前叶与基部之间成一近直角的锐角。头长 1.44—1.56 mm。"
+  }
+ ],
+ "note": "据 Emerson (1960)「New Termites」American Museum Novitates no. 1986: 24—26 改写，原文英文。须注意：Imago 与 Soldier 两段在原文属新属 Australitermes 的属级描述，原文注明该属描述「generic description is taken from paratype dealates and soldiers」（取自本种副模的去翅成虫与兵蚁），并称本种的种级特征已由 Hill 充分描述（described adequately by Hill），故种级仅给出兵蚁头长 1.44—1.56 mm。已删去异名表（Eutermes dilucidus Hill 1942、Subulitermes dilucidus Snyder 1949）、模式产地、图注与上颚图说明。",
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson A. E. (1960). New Termites. American Museum Novitates, no. 1986: 24—26",
+   "locator": "pp. 24—26（Imago、Soldier 段与「Australitermes dilucidus (Hill), new combination」条目）"
+  }
+ ]
+}

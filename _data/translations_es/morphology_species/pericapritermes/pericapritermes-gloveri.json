@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción específica de Harris (1951), original en inglés; consta de tres apartados, Imago, Queen y Soldier. La tabla de medidas del alado está muy desordenada por el OCR (cadenas de dígitos), por lo que no se ha recogido; la tabla de medidas del soldado es legible y se ha conservado literalmente. No se han traducido los registros de localidades, el material comparativo ni las notas ecológicas.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza, pronoto y terguitos abdominales pardo oscuro; postclípeo, escleritos torácicos y patas de pardo pálido a pardo amarillento claro; alas teñidas de pardo, las venas prominentes. Cabeza ovalada, ojos compuestos grandes y salientes, postclípeo abultado. Ocelos de ovalados irregulares, casi invisibles desde arriba, casi contiguos a los ojos compuestos. Fontanela en el centro de una depresión poco profunda de la frente, rodeada por una pequeña zona pálida. Antenas de 15 segmentos, segmento 3 el más pequeño. Pronoto menos ancho que la cabeza (incluidos los ojos compuestos); borde anterior débilmente cóncavo, ángulos redondeados; lados suavemente curvados y estrechados hacia atrás; borde posterior débilmente cóncavo, ángulos ampliamente redondeados; una zona pálida en forma de T en el centro, que contrasta con el fondo oscuro."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarilla, con una línea longitudinal media oscura; antenas pardas; mandíbulas negras, rojizas en la base; cuerpo y patas pardo amarillento pálido. Cabeza grande, rectangular, ángulos posteriores ampliamente redondeados, aproximadamente el doble de larga que ancha (2:1.07). Antenas de 14 segmentos, segmento 4 el más corto, segmento 2 algo más largo que el segmento 4, segmento 3 más corto que el segmento 5. Labro marcadamente asimétrico, los lados curvados, el ángulo agudo en el ápice. Mandíbulas grandes; mandíbula izquierda doblada hacia arriba en el centro, redondeada en el ápice; mandíbula derecha plana, aguda en el ápice. Medidas (mm, media de 5 especímenes): longitud de la cabeza con mandíbulas 3.73—3.94 (3.86); longitud de la cabeza (hasta la base de las mandíbulas) 2.27—2.40 (2.35); anchura de la cabeza 1.25—1.28 (1.26); longitud de la mandíbula izquierda 1.46—1.57 (1.53); anchura del pronoto 0.73—0.85 (0.79), longitud 0.29—0.33 (0.31); longitud de la tibia posterior 1.17—1.20 (1.18)."
+  },
+  {
+   "label": "Otros",
+   "text": "Reina: semejante al alado pero con el abdomen abultado, longitud total 27 mm; membranas intersegmentales abdominales pardo amarillento pálido, densamente cubiertas de pequeños puntos amarillos; pronoto algo mayor y más pálido que en el alado."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Próxima a P. heteronotus Silvestri, de la que difiere por la cabeza mayor del alado y los ocelos más cercanos a los ojos compuestos, y por el menor tamaño del soldado."
+  }
+ ]
+}

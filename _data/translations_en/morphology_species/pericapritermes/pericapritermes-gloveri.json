@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Harris's (1951) species-level description, the original in English; it contains three sections, Imago, Queen and Soldier. The alate measurement table is badly garbled by OCR (strings of digits), so it has not been recorded; the soldier measurement table is legible and has been kept verbatim. Locality records, comparative material and ecological notes have not been translated.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head, pronotum and abdominal tergites dark brown; postclypeus, thoracic sclerites and legs pale brown to light yellowish brown; wings tinged with brown, the veins prominent. Head oval, compound eyes large and protruding, postclypeus swollen. Ocelli irregularly oval, almost invisible from above, almost contiguous with the compound eyes. Fontanelle in the middle of a shallow depression on the frons, surrounded by a small pale area. Antennae 15-segmented, segment 3 the smallest. Pronotum less wide than the head (including the compound eyes); anterior margin weakly concave, the angles rounded; sides gently curved and narrowing posteriorly; posterior margin weakly concave, the angles broadly rounded; a pale T-shaped area in the middle, contrasting with the dark background."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head yellow, with a dark median longitudinal line; antennae brown; mandibles black, reddish at the base; body and legs pale yellowish brown. Head large, rectangular, the posterior angles broadly rounded, about twice as long as wide (2:1.07). Antennae 14-segmented, segment 4 the shortest, segment 2 slightly longer than segment 4, segment 3 shorter than segment 5. Labrum markedly asymmetrical, the sides curved, the angle acute at the tip. Mandibles large; left mandible bent upwards in the middle, rounded at the tip; right mandible flat, pointed at the tip. Measurements (mm, mean of 5 specimens): head length with mandibles 3.73—3.94 (3.86); head length (to the base of the mandibles) 2.27—2.40 (2.35); head width 1.25—1.28 (1.26); left mandible length 1.46—1.57 (1.53); pronotum width 0.73—0.85 (0.79), length 0.29—0.33 (0.31); hind tibia length 1.17—1.20 (1.18)."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: similar to the alate but with a swollen abdomen, total length 27 mm; abdominal intersegmental membranes pale yellowish brown, densely covered with small yellow spots; pronotum slightly larger and paler than in the alate."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Close to P. heteronotus Silvestri, from which it differs in the larger head of the alate and the ocelli being closer to the compound eyes, and in the smaller size of the soldier."
+  }
+ ]
+}

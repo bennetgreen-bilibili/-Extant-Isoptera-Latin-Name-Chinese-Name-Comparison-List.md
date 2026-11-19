@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Emerson (1960) \"New Termites\", American Museum Novitates no. 1986: 24—26, originally in English. Note that the Imago and Soldier sections belong in the original to the genus-level description of the new genus Australitermes, which states that the \"generic description is taken from paratype dealates and soldiers\" (of this species) and that the species-level characters were described adequately by Hill; the species level therefore gives only the soldier head length 1.44—1.56 mm. The synonymy list (Eutermes dilucidus Hill 1942, Subulitermes dilucidus Snyder 1949), the type locality, the figure captions and the mandible figure notes have been omitted.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head and pronotum with numerous short setae and a few scattered short hairs. Abdominal tergites with short hairs, with in addition a few sparse setae on the sides that do not form a distinct marginal row; abdominal sternites with a row of long seta-like marginal hairs and scattered short hairs. Compound eyes and ocelli large; the distance between an ocellus and the eye margin is less than the ocellus' own width; ocellus 0.15 mm long, greater than the 0.12 mm diameter of the antennal socket. Fontanelle long, narrowly oval, without a distinct bifurcation at its end. Postclypeus longer than half its width (length 0.32 mm, width 0.50 mm). Antennae 15-segmented; segment 3 longer than segment 4, and segment 4 longer than segment 2. Left mandible index 1.54, the highest among the genera of the Australian Subulitermes branch (the most closely related, Macrosubulitermes, 1.07); second marginal tooth of the right mandible reduced to a vestige. Pronotum proportionally broad, almost as wide as the head, its sides more expanded than in Macrosubulitermes and more strongly narrowed posteriorly; posterior margin of the metanotum about the same as the posterior margin of the mesonotum, but the entire margin narrower. Tibial spur formula 2:2:2."
+  },
+  {
+   "label": "Soldier",
+   "text": "Monotypic. Frontal projections and vertex with scattered hairs, the head with in addition several long setae. Abdominal tergites with many rather long hairs and without setae; marginal setae of the abdominal sternites similar in length and density to those of the tergites. Head with a small constriction visible both dorsally and laterally. Pronotum in lateral profile with a sharp, nearly right angle between the anterior lobe and the base. Head length 1.44—1.56 mm."
+  }
+ ]
+}

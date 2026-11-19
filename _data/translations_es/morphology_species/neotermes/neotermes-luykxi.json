@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción de esta nueva especie por Nickle & Collins, originalmente en inglés. Problemas de OCR: toda la página de texto posterior al párrafo sobre la cabeza del soldado de cabeza corta es ilegible (ruido de escaneo), por lo que no pudieron leerse los párrafos descriptivos del alado, la ninfa y el soldado de cabeza larga, y las tablas de medidas de las dos formas de soldado (Table 3, Table 4) tienen los encabezados de columna y los valores desalineados y no son utilizables; por ello esta entrada solo contiene el texto morfológico sobre la cabeza del soldado de cabeza corta, sin medidas. Se han omitido los registros individuales de recolección y la tabla del número de cromosomas (Table 1).",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Soldado de cabeza corta: cabeza algo más larga que ancha (longitud aproximadamente 1.21 veces la anchura), aproximadamente 1.46 veces su profundidad. En vista dorsal, los lados de la cabeza débilmente convexos, la mayor anchura en el medio de la cápsula cefálica. Labro aproximadamente tan largo como ancho, anchamente redondeado. Fosas antenales ovales; cresta dorsal bien desarrollada, extendiéndose más allá del segmento antenal 1; cresta ventral poco desarrollada, a ras de la cápsula cefálica; en vista dorsal, las fosas antenales se extienden como una cresta hasta el margen dorsal del clípeo. Antenas de 13 segmentos (ocasionalmente 14), moniliformes; segmento 1 ancho, en forma de barril, tan largo como los segmentos 2 y 3 juntos; segmento 2 menor que el segmento 4; segmento 3 agrandado, aproximadamente tan largo como los segmentos 4 y 5 juntos; segmentos 4 a 13 de tamaño similar pero gradualmente más largos hacia el ápice de la antena. Ojos compuestos formados por un grupo de células, la región nuclear central oscura."
+  },
+  {
+   "label": "Otros",
+   "text": "El original describe esta especie a partir de ejemplares de Florida; los soldados se dividen en formas de cabeza corta y de cabeza larga, medidas en tablas separadas. El holotipo es un soldado de cabeza corta (Broward Co., Dania, el día 30 del mes 6 de 1984, recolectado por P. Luykx, en NMNH); el morfotipo es un alado (Hollywood, mismo condado, el día 21 del mes 8 de 1986); la serie de paratipos contiene 26 soldados, 15 alados y 20 ninfas, y hay además registros de 1 soldado y 1 ninfa de Dade Co., Key Largo, 1930."
+  }
+ ]
+}

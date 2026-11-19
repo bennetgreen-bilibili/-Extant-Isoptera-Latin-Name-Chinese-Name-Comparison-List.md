@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción específica de Snyder (1934), originalmente en inglés; ese trabajo describe solo al soldado (con medidas) y no describe al obrero ni al alado. Problemas de OCR: las comas decimales y los caracteres ruidosos de las medidas \"2,40\", \"0,95\" (en el original, i 0,95) y \"1,50-1,60\" se han restaurado como valores decimales 2.40, 0.95, 1.50—1.60; \"collected mth nymphs\" debería leerse with nymphs.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarillo pálido, más oscura en la parte anterior (pardo amarillenta); frente casi vertical, ligeramente cóncava, con una muesca profunda en U en su margen anterior, los lóbulos laterales proyectados, elevados y rugosos. Puntos oculares transparentes. Dos filas transversales de pelos en la cabeza. Mentón estrecho en el medio. Mandíbulas pardo oscuro (piceous) y anchas; mandíbula izquierda con dos dientes puntiagudos cerca del ápice y un diente cerca del medio; mandíbula derecha con dos dientes mayores cerca de la base. Antenas de 12—13 segmentos; segmento 3 más corto que el segmento 2 o el 4; en antenas de 13 segmentos el segmento 4 es más corto que el 2 (en las de 12 segmentos, el segmento 4 y el 2 son subiguales). Pronoto de color similar al de la cabeza, margen anterior cóncavo, margen posterior débilmente cóncavo y algo aserrado, márgenes con pelos largos. Terguitos abdominales blancos, cada uno con una fila de pelos largos en su base. Medidas: longitud total del soldado 8.00—9.00 mm; cabeza con mandíbulas 3.50 mm; cabeza sin mandíbulas 2.40 mm; mandíbula izquierda 1.10 mm; longitud del pronoto 0.80 mm; tibia posterior 0.95 mm; anchura de la cabeza 1.50—1.60 mm; anchura del pronoto 1.50—1.60 mm."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Los dos lóbulos elevados de la parte anterior de la cabeza son el carácter diagnóstico de esta especie. En comparación con marlatti Snyder, esta especie es más pálida, de mayor tamaño, con más segmentos antenales y lóbulos cefálicos más prominentes. Localidad tipo Hamburg Farm (Costa Rica); descrita a partir de 3 soldados (capturados junto con ninfas), recogidos el día 1 del mes 5 de 1933 por F. Nevermann en madera seca de la localidad tipo; cotipos en el Museo Nacional de los Estados Unidos, n.º 50213."
+  }
+ ]
+}

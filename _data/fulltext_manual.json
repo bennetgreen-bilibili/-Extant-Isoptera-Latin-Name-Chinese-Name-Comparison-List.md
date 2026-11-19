@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20 04:40",
-  "count": 96,
+  "updated_at": "2026-11-20 06:07",
+  "count": 105,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
     {
@@ -899,6 +899,26 @@
       "attempts": 1
     },
     {
+      "doi": "10.11646/zootaxa.4221.4.7",
+      "title": "Renato Almeida de Azevedo et al.. 2017. Description of the imago of Neocapritermes utiariti (Isoptera: Termitidae: Termitinae). Zootaxa. doi:10.11646/zootaxa.4221.4.7",
+      "year": 2017,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.11646/zootaxa.4221.4.7",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.11646/zootaxa.4221.4.7"
+      ],
+      "last_result": "doi.org/10.11646/zootaxa.4221.4.7→冷却中，跳过",
+      "last_tried": 1795125982.4449937,
+      "first_seen": 1795126045.5984046,
+      "attempts": 1
+    },
+    {
       "doi": "10.1017/s0007485315000097",
       "title": "Molecular characterization and phylogeny ofKalotermespopulations from the Levant, and description ofKalotermes phoeniciaesp. nov.",
       "year": 2015,
@@ -918,6 +938,46 @@
       "last_result": "doi.org/10.1017/s0007485315000097→HTML 页面→找到 PDF 地址 / www.cambridge.org/core/services/aop-cambridge-core/content/view/8F2CFC→HTML 页面→找到 PDF 地址",
       "last_tried": 1795100115.831738,
       "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.3918.2.10",
+      "title": "Carolina Cuezzo et al.. 2015. Caetetermes taquarussu Fontes (Isoptera, Termitidae, Nasutitermitinae): description of the imago caste and new distributional records. Zootaxa. doi:10.11646/zootaxa.3918.",
+      "year": 2015,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3r4p.v79",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3r4p.v79"
+      ],
+      "last_result": "doi.org/10.48580/d3r4p.v79→冷却中，跳过",
+      "last_tried": 1795125946.1735878,
+      "first_seen": 1795126045.5984046,
+      "attempts": 1
+    },
+    {
+      "doi": "10.48580/d3qjx.v83",
+      "title": "Tiago F. Carrijo et al.. 2015. Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa. doi:10.11646/zootaxa.3941.2.10",
+      "year": 2015,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3qjx.v83",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3qjx.v83"
+      ],
+      "last_result": "doi.org/10.48580/d3qjx.v83→冷却中，跳过",
+      "last_tried": 1795125944.7606618,
+      "first_seen": 1795126045.5984046,
       "attempts": 1
     },
     {
@@ -983,6 +1043,46 @@
       "attempts": 1
     },
     {
+      "doi": "10.48580/d3ssk.v82",
+      "title": "Rudolf H. Scheffrahn. 2013. Compositermes vindai (Isoptera: Termitidae: Apicotermitinae), a new genus and species of soldierless termite from the Neotropics. Zootaxa. doi:10.11646/zootaxa.3652.3.6",
+      "year": 2013,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3ssk.v82",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3ssk.v82"
+      ],
+      "last_result": "doi.org/10.48580/d3ssk.v82→冷却中，跳过",
+      "last_tried": 1795125958.583954,
+      "first_seen": 1795126045.5984046,
+      "attempts": 1
+    },
+    {
+      "doi": "10.48580/d3w4c.v82",
+      "title": "Reginaldo Constantino & Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa. doi:10.11646/zootaxa.31",
+      "year": 2012,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3w4c.v82",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3w4c.v82"
+      ],
+      "last_result": "doi.org/10.48580/d3w4c.v82→冷却中，跳过",
+      "last_tried": 1795125971.605203,
+      "first_seen": 1795126045.5984046,
+      "attempts": 1
+    },
+    {
       "doi": "10.11646/zootaxa.2670.1.3",
       "title": "A new termite (Isoptera: Termitidae: Termitinae: Proboscitermes) from Tanzania",
       "year": 2010,
@@ -1020,6 +1120,26 @@
       "last_result": "doi.org/10.1664/09-ra-009r.1→冷却中，跳过",
       "last_tried": 1795109394.89577,
       "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.48580/d3y49.v82",
+      "title": "Rudolf H. Scheffrahn & Robert C. O’Malley. 2010. A new termite (Isoptera: Termitidae: Termitinae: Proboscitermes) from Tanzania. Zootaxa. doi:10.11646/zootaxa.2670.1.3",
+      "year": 2010,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3y49.v82",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3y49.v82"
+      ],
+      "last_result": "doi.org/10.48580/d3y49.v82→冷却中，跳过",
+      "last_tried": 1795126044.201319,
+      "first_seen": 1795126045.5984046,
       "attempts": 1
     },
     {
@@ -1384,6 +1504,48 @@
       "attempts": 1
     },
     {
+      "doi": "10.5281/zenodo.15996211",
+      "title": "Hanif Gulmahamad. 1996. Gnathamitermes perplexus (Banks) (Isoptera: Termitidae): a nuisance structural termite pest in southern California. The Pan-Pacific Entomologist. doi:10.5281/zenodo.15996211",
+      "year": 1996,
+      "venue": "The Pan-Pacific Entomologist",
+      "publisher": "Pacific Coast Entomological Society",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.5281/zenodo.15996211",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.5281/zenodo.15996211"
+      ],
+      "last_result": "doi.org/10.5281/zenodo.15996211→冷却中，跳过",
+      "last_tried": 1795125977.592994,
+      "first_seen": 1795126045.5984046,
+      "attempts": 1
+    },
+    {
+      "doi": "10.17615/9caf-7090",
+      "title": "E. A. McMahan et al.. 2021. Survey and Ecological Studies of the Termites (Isoptera: Kalotermitidae) of Mona Island. Carolina Digital Repository (University of North Carolina at Chapel Hill). doi:10.1",
+      "year": 1995,
+      "venue": "Florida Entomologist",
+      "publisher": "Florida Entomological Society",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3495903",
+      "reason": "blocked",
+      "hosts": [
+        "core.ac.uk",
+        "doi.org"
+      ],
+      "tried": [
+        "https://core.ac.uk/download/475611826.pdf",
+        "https://doi.org/10.2307/3495903"
+      ],
+      "last_result": "core.ac.uk/download/475611826.pdf→冷却中，跳过 / doi.org/10.2307/3495903→冷却中，跳过",
+      "last_tried": 1795126045.5902936,
+      "first_seen": 1795126045.5984046,
+      "attempts": 1
+    },
+    {
       "doi": "10.2307/3496106",
       "title": "Incisitermes furvus, a New Drywood Termite (Isoptera: Kalotermitidae) from Puerto Rico",
       "year": 1994,
@@ -1461,6 +1623,26 @@
       "last_result": "doi.org/10.1111/j.1365-3113.1990.tb00068.x→冷却中，跳过",
       "last_tried": 1795120830.4594274,
       "first_seen": 1795120851.7137492,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3492552",
+      "title": "W. L. Thompson. 1934. Notes on Neotermes castaneus Burm.. Florida Entomologist. doi:10.2307/3492552",
+      "year": 1934,
+      "venue": "Florida Entomologist",
+      "publisher": "Florida Entomological Society",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3492552",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3492552"
+      ],
+      "last_result": "doi.org/10.2307/3492552→冷却中，跳过",
+      "last_tried": 1795125984.7962008,
+      "first_seen": 1795126045.5984046,
       "attempts": 1
     },
     {

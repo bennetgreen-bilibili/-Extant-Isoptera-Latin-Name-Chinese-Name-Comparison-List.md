@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción específica en dli.ernet.28272 (1947, New Termites, p. 7), originalmente en inglés; el paquete de material contiene solo la descripción del soldado, aunque el original registra al obrero y a la ninfa sin describirlos. Problemas de OCR: el original da la media de la longitud de la cabeza con mandíbulas como \"2.29\", inferior al límite inferior 2.79 de su intervalo, lo que es evidentemente un error de OCR, por lo que esa media no se registra; la tabla de medidas se digitalizó en dos columnas y los valores se han cotejado uno a uno con las columnas. Se han omitido los pies de figura, la localidad tipo y la descripción del nido.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Parte anterior de la cabeza pardo amarillenta (testaceous), parte posterior más pálida; mandíbulas pardo oscuro; antenas y margen anterior del pronoto pálidos; resto del cuerpo blanquecino pálido. Cabeza escasamente pilosa; mitad anterior del postmentón con pelos finos; terguitos abdominales anteriores y patas moderadamente pilosos; terguitos abdominales posteriores con setas largas. Cabeza algo rectangular; mandíbulas en forma de sable, con el ápice anchamente redondeado y curvado, la serración poco evidente, con solo unas pocas escotaduras en la mitad posterior. Labro puntiagudo en el ápice, con ángulos laterales marcados. Antenas de 13 segmentos, segmento 3 el más corto. Forma del postmentón como en la figura. Pronoto aproximadamente el doble de ancho que de largo, margen anterior convexo y ligeramente cóncavo en el medio, ángulos laterales redondeados. Medidas (mm, n=9—10): longitud de la cabeza con mandíbulas 2.79—2.97; longitud de la cabeza hasta la base lateral de la mandíbula 1.72—1.86 (media 1.79); anchura de la cabeza 1.17—1.26 (media 1.22); longitud del postmentón 1.16—1.26 (media 1.20); anchura del postmentón 0.31—0.36 (media 0.35); longitud del pronoto 0.34—0.37 (media 0.36); anchura del pronoto 0.68—0.72 (media 0.70)."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En comparación con Microcerotermes losbanosensis de Filipinas, la cabeza es claramente más larga y ancha, las mandíbulas están menos curvadas y los ángulos laterales del pronoto son más marcados; está estrechamente relacionada con M. depokensis de Java, de la que se distingue por la parte anterior de la cabeza más ancha, la serración mandibular menos evidente y los ángulos del pronoto más marcados."
+  }
+ ]
+}

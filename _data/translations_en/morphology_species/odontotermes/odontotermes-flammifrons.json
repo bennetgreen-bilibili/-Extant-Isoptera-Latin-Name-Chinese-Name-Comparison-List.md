@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Harris's (1960) species-level description, the original in English; only a soldier section is available, the alate and worker are not described. The section appears in full within a continuous OCR passage in the source pack odontotermes-lacustris.txt (the pack spans pp. 20—21, and lines 63—96 contain the heading and full text of this species), while the separate odontotermes-flammifrons.txt is cut off in the middle of the section. The two columns of the soldier measurement table are respectively the measurements of 5 specimens from Abercorn and those of Sjöstedt, the original describer of the species; gaps in the original are marked with \"—\". The pronotum length row was rendered by OCR as \"elegy)\", is unreadable, and has not been recorded.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head oval; reddish brown, the frons with a large irregular pale area, from which 3 or 4 slender pale stripes narrow posteriorly (these pale stripes disappear after many years of preservation); mandibles black, pale at the base, slender, strongly incurved at the tip; inner margin of the left mandible with a sharp, forward-directed tooth less than half the distance from the tip, the inner margin from the tooth to the base slightly undulate; right mandible with a vestigial median tooth; labrum ligulate, broad, rounded at the tip; postmentum broad, the sides strongly convergent, the anterior and posterior margins rounded; antennae 17 or 18-segmented, segment IV slightly longer than segment II or III in the 17-segmented condition, and the shortest segment in the 18-segmented condition. Anterior lobe of the pronotum short but distinct, the anterior and posterior margins slightly concave. Thorax, abdomen and legs yellow. Measurements (mm; range of 5 specimens from Abercorn / Sjöstedt's original measurements): head length with mandibles 4.18—4.32 / 3.75—4.00; head length 2.73—2.82 / —; head width 2.32—2.41 / 2.00—2.15; left mandible length 1.59—1.64 / 1.55—1.65; pronotum width 0.82—1.00 / —; hind tibia length 2.14—2.27 / —."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Originally described as Termes flammifrons Sjöstedt, 1926 (Rev. Zool. afr. 14: 148-9), later transferred to Odontotermes."
+  }
+ ]
+}

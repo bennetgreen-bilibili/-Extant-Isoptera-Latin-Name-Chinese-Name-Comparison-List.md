@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species-level description of Snyder (1934), originally in English; that paper describes only the soldier (with measurements) and does not describe the worker or the alate. OCR problems: the decimal commas and noise characters in the measurements \"2,40\", \"0,95\" (given in the original as i 0,95) and \"1,50-1,60\" have been restored as decimal values 2.40, 0.95, 1.50—1.60; \"collected mth nymphs\" should read with nymphs.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head pale yellow, darker anteriorly (yellowish brown); frons almost vertical, slightly concave, its anterior margin with a deep U-shaped notch, the lateral lobes projecting, raised and rugose. Eye spots transparent. Two transverse rows of hairs on the head. Mentum narrow at the middle. Mandibles dark brown (piceous) and broad; left mandible with two pointed teeth near the apex and one tooth near the middle; right mandible with two larger teeth near the base. Antennae 12—13-segmented; segment 3 shorter than segment 2 or 4; in antennae with 13 segments segment 4 shorter than segment 2 (in those with 12 segments segment 4 and segment 2 subequal). Pronotum similar in colour to the head, anterior margin concave, posterior margin shallowly concave and slightly serrate, margins with long hairs. Abdominal tergites white, each with a row of long hairs at its base. Measurements: soldier total length 8.00—9.00 mm; head with mandibles 3.50 mm; head without mandibles 2.40 mm; left mandible 1.10 mm; pronotum length 0.80 mm; hind tibia 0.95 mm; head width 1.50—1.60 mm; pronotum width 1.50—1.60 mm."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "The two raised lobes on the anterior part of the head are the diagnostic character of this species. Compared with marlatti Snyder, this species is paler, larger, has more antennal segments and more prominent head lobes. Type locality Hamburg Farm (Costa Rica); described from 3 soldiers (collected together with nymphs), taken on day 1 of month 5, 1933 by F. Nevermann in dry wood at the type locality; cotypes in the United States National Museum, no. 50213."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "zh_name": "俄瑞斯忒斯棱角白蚁",
+ "sections": [
+  {
+   "label": "工蚁",
+   "text": "左上颚：端齿后缘强烈凹入；第一+第二缘齿与第三缘齿之间的切缘呈波状；第三缘齿极度退化，可见为臼齿前方的一尖突；第三缘齿与臼齿突之间的间隙窄；臼齿发达，大部分隐于臼齿突之下。右上颚：端齿后缘强烈凹入；第二缘齿呈圆突，位于第一缘齿尖端与臼齿板之间约一半处；第二缘齿后缘凹入。左颚指数（left mandible index）工蚁 1.46；Mathews 的改良左颚指数（modified left mandible index）工蚁约 1.15。工蚁品级为单型（monomorphic）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0087",
+   "citation": "NasuteMandibles1987 — Revista brasileira de Zoologia 3(8), 1987：Morphology of the mandibles of the neotropical soil-feeding nasutes",
+   "locator": "V.1.b Group 2（figs. 55、57）；V.2（左颚指数）"
+  }
+ ],
+ "note": "据 NasuteMandibles1987 种级描述改写，原文英文。原文只描述工蚁（the sole caste studied in this paper）的上颚齿列，无体长等量度，只有左颚指数；有翅成虫上颚未直接观察，仅据 Mathews (1977: 233-234, fig. 166) 推测与工蚁相似。OCR 问题：个别词间有双空格、页码夹行，齿列术语可读。"
+}

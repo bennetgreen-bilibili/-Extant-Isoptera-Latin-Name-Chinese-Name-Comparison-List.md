@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species-level description in dli.ernet.28272 (1947, New Termites, p. 7), originally in English; the material package contains a description of the soldier only, although the original records the worker and the nymph without describing them. OCR problems: the original gives the mean of head length with mandibles as \"2.29\", which is below the lower limit 2.79 of its range and is evidently an OCR error, so that mean is not recorded; the measurement table was OCR'd in two columns, and the values have been checked item by item against the columns. Figure captions, the type locality and the nest description have been omitted.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Anterior part of the head yellowish brown (testaceous), posterior part paler; mandibles dark brown; antennae and anterior margin of the pronotum pale; rest of the body pale whitish. Head sparsely hairy; anterior half of the postmentum with fine hairs; anterior abdominal tergites and legs moderately hairy; posterior abdominal tergites with long setae. Head somewhat rectangular; mandibles sabre-shaped, the tip broadly rounded and curved, the serration indistinct, with only a few notches on the posterior half. Labrum pointed at the tip, the lateral angles distinct. Antennae 13-segmented, segment 3 the shortest. Shape of the postmentum as in the figure. Pronotum about twice as wide as long, anterior margin convex and slightly concave in the middle, lateral angles rounded. Measurements (mm, n=9—10): head length with mandibles 2.79—2.97; head length to lateral base of mandible 1.72—1.86 (mean 1.79); head width 1.17—1.26 (mean 1.22); postmentum length 1.16—1.26 (mean 1.20); postmentum width 0.31—0.36 (mean 0.35); pronotum length 0.34—0.37 (mean 0.36); pronotum width 0.68—0.72 (mean 0.70)."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Compared with Microcerotermes losbanosensis from the Philippines, the head is distinctly longer and wider, the mandibles less curved and the lateral angles of the pronotum more distinct; it is closely related to M. depokensis from Java, from which it is distinguished by the wider anterior part of the head, the less distinct mandibular serration and the more distinct pronotal angles."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "尼曼亚种",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "颜色较主型更偏红棕，体型稍小。原文只给有翅成虫，未描述兵蚁与工蚁。量度（mm）：连翅体长 26，前翅长 22，前胸背板宽 2,05；头长、头宽等项在扫描件中残缺不可辨。"
+  },
+  {
+   "label": "其他",
+   "text": "原文在 Odontotermes javanicus 项下分立主型（Hauptform）与 forme Nymanni、forme Buitenzorghi 两个型；本型发表时称 forma Nymanni n. f.，现按亚种处理。分布记作 Java（原文附问号），标本存 Reichsmuseum Stockholm。原文对主型的有翅成虫、兵蚁、工蚁描述（含兵蚁头长 3,42、头宽 1,9 一类量度）属主型，未录入本条。"
+  }
+ ],
+ "note": "据 Holmgren（Termitenstudien，Kungl. Svenska Vetenskapsakademiens Handlingar Bd 50 Nr 2）对 Odontotermes javanicus 的 forma Nymanni 的描述改写，原文德文；该型现按亚种处理。原文对该型的描述很短，仅一句颜色比较加一组量度。OCR 问题：量度行大面积残缺（头长一行作「Köpflaängesst 1 jad oroa sutidet FAT. 3」、头宽一行作「KöptbprerteRre -TAuvts Nerell 23605」），只有连翅体长、前翅长、前胸背板宽三项可辨，且这三项数值须对照原刊核对。",
+ "sources": [
+  {
+   "id": "S0089",
+   "citation": "Holmgren N. Termitenstudien. Kungliga Svenska Vetenskapsakademiens Handlingar, Band 50, No 2（扫描本来源标识：kunglsvenskavete50kung）",
+   "locator": "条目（kunglsvenskavete50kung）"
+  }
+ ]
+}
