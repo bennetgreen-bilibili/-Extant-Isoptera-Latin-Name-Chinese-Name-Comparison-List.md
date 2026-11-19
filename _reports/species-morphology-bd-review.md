@@ -55,3 +55,7 @@
     python _tmp/make_disposition.py      # 生成本报告配套的 disposition.csv
 
 `.sources` 相关：S0005、S0075、S0104、S0025、S0463、S0105、S0491 等。交付前已跑 `python _tools/sources.py check --strict`。
+
+## 6 后续
+
+文库内可达部分已完成；剩余 265 个 B 类与 114 个 C 类需要站外原文，按 `_reports/species-morphology-dispatch.md` 的 S1–S7 批次取文献。
