@@ -1,0 +1,21 @@
+{
+ "note": "Reelaborado a partir del texto original en inglés de Bourguignon et al. (2008); las medidas se transcriben punto por punto de la TABLE 8 (1 macho sin alas), la TABLE 9 (soldado, 8 individuos de 1 colonia) y la TABLE 18 (obrero, 10 individuos de 1 colonia). El original solo da medidas del macho alado, sin descripción morfológica; el soldado y el obrero tampoco tienen descripción en párrafos, por lo que cada apartado es principalmente de medidas y los caracteres se reúnen en «Caracteres diagnósticos». No se traducen los registros de localidad, el material examinado ni los números de figura. Los intervalos de las dos líneas «altura de la cabeza (con el postmento)» y «altura de la cabeza (sin el postmento)» se transcriben tal como figuran en la tabla original, sin intercambiarlos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Próximo a L. aduncus y a L. pectinatus: del primero se distingue por las mandíbulas más largas del soldado y el postmento marcadamente sobresaliente hacia abajo, y del segundo por el tamaño menor y la cabeza más corta. Los tubérculos laterales están muy desarrollados y son angulosos, y las setas de la proyección frontal son escasas."
+  },
+  {
+   "label": "Alado",
+   "text": "El original solo describe el macho (1 macho sin alas), sin descripción morfológica y únicamente con medidas: longitud del cuerpo sin alas 4.82 mm, longitud de la cabeza (hasta el ápice del labro) 1.01 mm, longitud de la cabeza (hasta la sutura frontoclipeal) 0.59 mm, anchura de la cabeza (con los ojos compuestos) 0.92 mm, diámetro máximo del ojo compuesto 0.27 mm, longitud máxima del ocelo 0.12 mm, longitud del pronoto 0.52 mm, anchura del pronoto 0.81 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas del soldado (8 individuos de 1 colonia): longitud de la cabeza (hasta el extremo de la proyección frontal) 1.50–1.65 mm, longitud de la cabeza (hasta el ángulo anterolateral de la gena) 1.36–1.45 mm, altura de la cabeza (con el postmento) 0.75–0.83 mm, altura de la cabeza (sin el postmento) 0.96–1.01 mm, anchura máxima de la cabeza 1.04–1.09 mm, anchura del pronoto 0.55–0.60 mm, longitud de la mandíbula izquierda 1.85–1.96 mm, anchura mínima del postmento 0.23–0.25 mm, distancia entre los extremos de los tubérculos laterales 0.81–0.91 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "La válvula entérica tiene 6 almohadillas de tamaño alterno, densamente cubiertas de espinas cortas. Medidas: anchura de la cabeza del obrero 0.802–0.845 mm (10 individuos de 1 colonia)."
+  }
+ ]
+}

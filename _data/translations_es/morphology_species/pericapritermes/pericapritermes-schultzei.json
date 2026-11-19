@@ -1,0 +1,17 @@
+{
+ "note": "Reelaborado a partir del texto original en inglés de Bourguignon et al. (2008). El título original reza Pericapritermes cf. schultzei (Holmgren): los autores no pudieron examinar el material típico y los ejemplares de montaña de Nueva Guinea varían mucho en tamaño y medidas, con los límites específicos aún sin resolver, por lo que se tratan provisionalmente como cf.; esta entrada sigue al original. Las medidas se transcriben de la TABLE 12; en la columna del material típico solo tienen valor la longitud de la cabeza, la anchura máxima de la cabeza y la anchura del pronoto, y los demás conceptos figuran en la tabla original como un guion (–) y no se computan. La TABLE 18 solo recoge la anchura de la cabeza del obrero, sin las demás medidas del obrero. El alado figura en el original como desconocido y no se le dedica apartado. No se traducen los números de figura, el material examinado, la localidad ni la distribución.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldado de tamaño medio, cápsula cefálica poco pilosa; la válvula entérica del obrero lleva gran número de espinitas finas y punteadas. Frente a las demás especies del género se distingue por el tamaño medio y la escasa pilosidad de la cápsula cefálica; P. papuanus tiene la cápsula cefálica más larga y más densamente pilosa, P. pilosus es mucho mayor y P. parvus es muy pequeño, con la región frontal ligeramente convexa."
+  },
+  {
+   "label": "Soldado",
+   "text": "La cápsula cefálica es alargada, más ancha en el centro, con los ángulos posterolaterales redondeados; el dorso de la cabeza lleva 20–30 setas de longitud media. La frente es plana, sin abultamiento. La fontanela es pequeña y puntiforme. El labro es corto y lleva 4 setas en el ápice. El postmento es estrecho y largo, con la anchura máxima aproximadamente 2.5 veces la mínima. El ápice de la mandíbula derecha es agudo. Antenas de 14 artejos. El tórax y el abdomen son bastante pilosos. Medidas (23 soldados de 7 colonias): longitud de la cabeza (hasta el ángulo anterolateral de la gena) 2.34–3.33 mm, altura de la cabeza (con el postmento) 1.17–1.58 mm, anchura máxima de la cabeza 1.42–1.89 mm, anchura de la cabeza en el ángulo anterolateral de la gena 1.14–1.48 mm, longitud de la mandíbula derecha 1.75–2.17 mm, longitud de la mandíbula izquierda 1.77–2.21 mm, anchura máxima del postmento 0.41–0.59 mm, anchura mínima del postmento 0.17–0.23 mm, anchura del pronoto 0.60–1.02 mm. Espécimen típico (Holmgren, 1911) con valor solo en tres conceptos: longitud de la cabeza 2.36 mm, anchura máxima de la cabeza 1.48 mm, anchura del pronoto 0.91 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "La válvula entérica está bien desarrollada pero no fuertemente armada, con la superficie densamente cubierta de numerosas espinitas finas y punteadas. Medidas: anchura de la cabeza 1.034–1.287 mm (27 obreros de 3 colonias)."
+  }
+ ]
+}

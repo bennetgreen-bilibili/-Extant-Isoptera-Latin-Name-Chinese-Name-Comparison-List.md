@@ -1,0 +1,17 @@
+{
+ "note": "Reelaborado a partir del texto original en inglés de Bourguignon et al. (2008); las medidas se transcriben punto por punto de la TABLE 7 (soldado, 12 individuos de 3 colonias) y de la TABLE 18 (obrero, 20 individuos de 2 colonias). El original no describe el alado ni la ninfa de esta especie; tampoco hay descripción morfológica del soldado, por lo que ese apartado solo recoge medidas y los caracteres se reúnen en «Caracteres diagnósticos». No se traducen los registros de localidad, el material examinado ni los números de figura. Los intervalos de las dos líneas «altura de la cabeza (con el postmento)» y «altura de la cabeza (sin el postmento)» se transcriben tal como figuran en la tabla original, sin intercambiarlos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La proyección frontal del soldado es estrecha, los tubérculos laterales están muy desarrollados y son angulosos, las setas de la proyección frontal son escasas y las mandíbulas son cortas; por estos caracteres se distingue de las demás especies del género; el postmento no sobresale hacia abajo o sobresale solo ligeramente, mientras que en L. brevicephalus el postmento sobresale marcadamente hacia abajo."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas del soldado (12 individuos de 3 colonias): longitud de la cabeza (hasta el extremo de la proyección frontal) 1.52–1.91 mm, longitud de la cabeza (hasta el ángulo anterolateral de la gena) 1.47–1.66 mm, altura de la cabeza (con el postmento) 0.76–0.91 mm, altura de la cabeza (sin el postmento) 0.86–1.01 mm, anchura máxima de la cabeza 1.10–1.19 mm, anchura del pronoto 0.59–0.66 mm, longitud de la mandíbula izquierda 1.54–1.74 mm, anchura mínima del postmento 0.14–0.20 mm, distancia entre los extremos de los tubérculos laterales 0.70–0.81 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "La válvula entérica tiene 6 almohadillas de igual tamaño, densamente cubiertas de espinitas, además de espinas largas y curvadas en la parte distal. Medidas: anchura de la cabeza del obrero 0.812–0.890 mm (20 individuos de 2 colonias)."
+  }
+ ]
+}

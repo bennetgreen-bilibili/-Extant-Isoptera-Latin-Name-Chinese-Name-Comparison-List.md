@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the English original of Bourguignon et al. (2008); measurements follow TABLE 7 (soldier, 12 individuals from 3 colonies) and TABLE 18 (worker, 20 individuals from 2 colonies), item by item. The original does not describe the alate or nymph of this species; there is no morphological description of the soldier either, so that section lists measurements only, and the characters are given under Diagnostic characters. Locality records, specimens examined and figure numbers are not translated. The two rows head depth including postmentum and head depth excluding postmentum are transcribed as in the original table, without interchange.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier frontal projection is narrow, the lateral tubercles are very well developed and horn-shaped, the frontal projection setae are sparse, and the mandibles are short; on these characters it differs from the other species of the genus. The postmentum does not project downwards or projects only slightly, whereas in L. brevicephalus the postmentum projects markedly downwards."
+  },
+  {
+   "label": "Soldier",
+   "text": "Soldier (12 individuals from 3 colonies) measurements: head length to tip of frontal projection 1.52–1.91 mm, head length to anterolateral corner of gena 1.47–1.66 mm, head depth including postmentum 0.76–0.91 mm, head depth excluding postmentum 0.86–1.01 mm, maximum head width 1.10–1.19 mm, pronotal width 0.59–0.66 mm, left mandible length 1.54–1.74 mm, minimum postmentum width 0.14–0.20 mm, distance between the tips of the lateral tubercles 0.70–0.81 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Enteric valve with 6 cushions of equal size, densely covered with small spines, with additional long curved spines distally. Measurements: worker head width 0.812–0.890 mm (20 individuals from 2 colonies)."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the English original of Bourguignon et al. (2008); new species (sp. nov.), the diagnostic characters being the Diagnosis of the original. The original has separate soldier and worker descriptions, so both sections are set up; the imago is recorded as unknown, so no alate section is set up. Measurements follow TABLE 15; TABLE 18 lists head width only for the worker, the other worker measurements not being listed. Locality, type specimens, specimens examined and figure numbers are not translated.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "This species is easily distinguished from the other species of the genus by its large body size and the densely hairy soldier head capsule: soldier head length exceeding 3.5 mm, the dorsum of the head with several hundred short setae, whereas the other New Guinean species all have head length less than 3.5 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body large. Head capsule densely hairy, with many short setae, elongate, the posterior part slightly rounded, more than 2 times as long as wide. Frons flat. Labrum short, with several setae. Right mandible large, its apex not pointed. Postmentum narrow and long, its maximum width about 2.5 times its minimum width. Antennae 14-segmented. Body densely hairy throughout. Measurements (6 soldiers of the type colony): head length to anterolateral corner of gena 3.72–3.81 mm, head depth including postmentum 1.51–1.57 mm, maximum head width 1.73–1.80 mm, head width at the anterolateral corner of the gena 1.58–1.67 mm, right mandible length 2.08–2.21 mm, left mandible length 2.30–2.45 mm, maximum postmentum width 0.48–0.51 mm, minimum postmentum width 0.17–0.20 mm, pronotal width 1.01–1.04 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Enteric valve well developed, the surface of each cushion bearing about 10 well-sclerotized triangular spines. Measurements: head width 1.209–1.239 mm (10 workers from 1 colony)."
+  }
+ ]
+}

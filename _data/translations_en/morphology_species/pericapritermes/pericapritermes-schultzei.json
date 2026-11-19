@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the English original of Bourguignon et al. (2008). The original heads the species as Pericapritermes cf. schultzei (Holmgren): the authors could not examine the type specimens, and the New Guinean montane specimens vary considerably in body size and measurements with the species limits undetermined, so it is treated provisionally as cf.; this entry follows the original. Measurements follow TABLE 12; in the type-specimen column only head length, maximum head width and pronotal width have values, the remaining items being marked with a dash (–) in the original table and not counted. TABLE 18 lists head width only for the worker, the other worker measurements not being listed. The alate is recorded as unknown in the original, so that section is not set up. Figure numbers, specimens examined, locality and distribution are not translated.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier medium-sized, head capsule sparsely hairy; worker enteric valve with very numerous minute dot-like spines. It differs from the other species of the genus by the medium body size and the sparsely hairy head capsule; P. papuanus has a longer, more densely hairy head capsule, P. pilosus is much larger, and P. parvus is very small with the frontal region slightly convex."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule elongate, widest at the middle, the posterior lateral corners rounded; dorsum of head with 20–30 setae of medium length. Frons flat, without a swelling. Fontanelle small, dot-like. Labrum short, with 4 setae at the apex. Postmentum narrow and long, its maximum width about 2.5 times its minimum width. Apex of right mandible pointed. Antennae 14-segmented. Thorax and abdomen rather densely hairy. Measurements (23 soldiers from 7 colonies): head length to anterolateral corner of gena 2.34–3.33 mm, head depth including postmentum 1.17–1.58 mm, maximum head width 1.42–1.89 mm, head width at the anterolateral corner of the gena 1.14–1.48 mm, right mandible length 1.75–2.17 mm, left mandible length 1.77–2.21 mm, maximum postmentum width 0.41–0.59 mm, minimum postmentum width 0.17–0.23 mm, pronotal width 0.60–1.02 mm. Type specimen (Holmgren, 1911) with values for only three items: head length 2.36 mm, maximum head width 1.48 mm, pronotal width 0.91 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Enteric valve well developed but not heavily armed, the surface densely covered with numerous minute dot-like spines. Measurements: head width 1.034–1.287 mm (27 workers from 3 colonies)."
+  }
+ ]
+}

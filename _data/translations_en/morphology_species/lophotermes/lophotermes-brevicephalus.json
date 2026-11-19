@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the English original of Bourguignon et al. (2008); measurements follow TABLE 8 (1 dealate male), TABLE 9 (soldier, 8 individuals from 1 colony) and TABLE 18 (worker, 10 individuals from 1 colony), item by item. The original gives only measurements for the alate male, with no morphological description; the soldier and worker also lack paragraph descriptions, so each section is mainly measurements, and the characters are given under Diagnostic characters. Locality records, specimens examined and figure numbers are not translated. The two rows head depth including postmentum and head depth excluding postmentum are transcribed as in the original table, without interchange.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Closely related to L. aduncus and L. pectinatus: from the former it differs in the longer soldier mandibles and the markedly downward-projecting postmentum, and from the latter in the smaller body and shorter head. The lateral tubercles are very well developed and horn-shaped, and the frontal projection setae are sparse."
+  },
+  {
+   "label": "Alate",
+   "text": "The original describes only the male (1 dealate male), without a morphological description, giving measurements only: body length without wings 4.82 mm, head length to apex of labrum 1.01 mm, head length to frontoclypeal suture 0.59 mm, head width including compound eyes 0.92 mm, maximum diameter of compound eye 0.27 mm, maximum length of ocellus 0.12 mm, pronotal length 0.52 mm, pronotal width 0.81 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Soldier (8 individuals from 1 colony) measurements: head length to tip of frontal projection 1.50–1.65 mm, head length to anterolateral corner of gena 1.36–1.45 mm, head depth including postmentum 0.75–0.83 mm, head depth excluding postmentum 0.96–1.01 mm, maximum head width 1.04–1.09 mm, pronotal width 0.55–0.60 mm, left mandible length 1.85–1.96 mm, minimum postmentum width 0.23–0.25 mm, distance between the tips of the lateral tubercles 0.81–0.91 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Enteric valve with 6 cushions alternating in size, densely covered with short spines. Measurements: worker head width 0.802–0.845 mm (10 individuals from 1 colony)."
+  }
+ ]
+}

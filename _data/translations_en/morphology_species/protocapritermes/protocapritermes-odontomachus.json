@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the English original of Bourguignon et al. (2008); measurements follow TABLE 1, TABLE 2 and TABLE 18; locality records, specimens examined and figure numbers are not translated. In TABLE 1 the body length (with wings), forewing length and forewing width of the male and female syntypes are marked with a slash (missing); TABLE 18 lists head width only.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier frontal projection is shorter than in Termes species and the mandibles are also shorter, and the worker hindgut P3 is divided, with few enteric valve spines; on these characters it is separated from Termes. These features indicate a close relationship with P. krisiformis. It differs from P. krisiformis in the shorter soldier head capsule and the more prominent frontal projection, and in the stouter spines of the worker enteric valve."
+  },
+  {
+   "label": "Alate",
+   "text": "Head capsule covered with many fine hairs and scattered with about 30 stout setae; compound eyes conspicuous; antennae 15-segmented; pronotum broad and short. Measurements (TABLE 1; 4 male and 4 female non-type specimens, 2 male and 2 female syntypes): body length with wings male 8.82–11.05 mm, female 9.00–9.66 mm; body length without wings male 5.06–5.57 mm, female 5.46–5.59 mm; head length to apex of labrum male 1.07–1.10 mm, female 1.08–1.11 mm; head length to frontoclypeal suture male 0.54–0.60 mm, female 0.55–0.61 mm; head width including compound eyes male 0.87–0.93 mm, female 0.85–0.88 mm; maximum diameter of compound eye male 0.27–0.33 mm, female 0.24–0.27 mm; maximum length of ocellus male 0.06–0.08 mm, female 0.06–0.09 mm; pronotal length male 0.41–0.53 mm, female 0.42–0.49 mm; pronotal width male 0.71–0.82 mm, female 0.72–0.75 mm; forewing length male 7.64–9.44 mm, female 7.43–8.12 mm; forewing width male 2.10–2.62 mm, female 2.00–2.23 mm. Syntypes: body length without wings male 4.56–4.90 mm, female 5.34–5.64 mm; head length to apex of labrum male 1.13–1.14 mm, female 1.14–1.20 mm; head length to frontoclypeal suture male 0.69–0.70 mm, female 0.65–0.69 mm; head width including compound eyes male 0.98–1.00 mm, female 0.99–1.02 mm; maximum diameter of compound eye male 0.27–0.30 mm, female 0.27–0.28 mm; maximum length of ocellus male 0.10–0.11 mm, female 0.09–0.10 mm; pronotal length male 0.48 mm, female 0.48–0.50 mm; pronotal width male 0.81 mm, female 0.80–0.84 mm; body length with wings, forewing length and forewing width are marked with a slash (missing) in the original table."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule elongate, slightly longer than wide, rectangular, with about 70 setae; frontal projection reduced, bearing many setae; labrum with about 10 setae, slightly elongate, the anterior angles drawn out into slender points; mandibles as long as the head capsule; antennae 14-segmented; postmentum flat. Measurements (TABLE 2, 33 non-type soldiers from 11 nests; 4 syntype soldiers): head length to tip of frontal projection 1.18–1.53 mm (syntypes 1.52–1.56 mm); head length to anterolateral corner of gena 1.35–1.72 mm (syntypes 1.66–1.75 mm); head depth including postmentum 0.66–0.88 mm (syntypes 0.86–0.90 mm); head depth excluding postmentum 0.73–0.97 mm (syntypes 0.97–1.01 mm); maximum head width 0.87–1.10 mm (syntypes 1.16–1.17 mm); pronotal width 0.52–0.72 mm (syntypes 0.66–0.71 mm); left mandible length 1.80–2.29 mm (syntypes 2.36–2.48 mm); minimum postmentum width 0.14–0.21 mm (syntypes 0.17 mm)."
+  },
+  {
+   "label": "Worker",
+   "text": "Monomorphic. Enteric valve with 6 cushions of slightly unequal size, each bearing 3–7 stout long spines. Measurements (TABLE 18): 30 individuals from 10 nests, head width 0.791–1.019 mm."
+  }
+ ]
+}

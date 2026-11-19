@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the English original of Bourguignon et al. (2008); measurements follow TABLE 10 (1 dealate male), TABLE 11 (soldier, 3 individuals from 1 colony) and TABLE 18 (worker, 10 individuals from 1 colony), item by item. The original gives no morphological description of this species, noting only \"see Miller (1991)\", so each section is mainly measurements, and the characters are given under Diagnostic characters; the gut characters and mandible indices recorded in the worker section are genus-level characters, not unique to this species. Locality records, specimens examined and figure numbers are not translated.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier is difficult to distinguish from M. sunteri, but the postmentum and lateral tubercles are more prominent and the frontal projection is longer, narrower and more forwardly directed. The frontal projection is densely setose and the lateral tubercles are low, whereas in Lophotermes the frontal projection setae are sparse and the lateral tubercles are high and horn-shaped. New Guinean specimens have a shorter, more upturned frontal projection and slight differences in worker mandible shape, which the authors consider insufficient to separate two species."
+  },
+  {
+   "label": "Alate",
+   "text": "The original describes only the male (1 dealate male), without a morphological description, giving measurements only: head length to apex of labrum 1.30 mm, head length to frontoclypeal suture 0.81 mm, head width including compound eyes 1.21 mm, maximum diameter of compound eye 0.29 mm, maximum length of ocellus 0.12 mm, pronotal length 0.73 mm, pronotal width 1.03 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Soldier (3 individuals from 1 colony) measurements: head length to tip of frontal projection 1.40–1.48 mm, head length to anterolateral corner of gena 1.25–1.34 mm, head depth including postmentum 0.72–0.76 mm, head depth excluding postmentum 0.92–0.98 mm, maximum head width 1.13–1.14 mm, pronotal width 0.67–0.72 mm, left mandible length 2.44–2.50 mm, minimum postmentum width 0.27–0.30 mm, distance between the tips of the lateral tubercles 0.73–0.77 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "The generic characters record the worker left mandible index as greater than 1.5 (often greater than 2.0), the enteric valve cushions alternating in size, slightly asymmetrical and with numerous small spines, P1 enlarged, and P3 divided into posterior and anterior portions of equal size. Measurements: worker head width 0.870–0.953 mm (10 individuals from 1 colony)."
+  }
+ ]
+}

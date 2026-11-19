@@ -1,0 +1,21 @@
+{
+ "note": "Reelaborado a partir del texto original en inglés de Bourguignon et al. (2008); las medidas se transcriben punto por punto de la TABLE 10 (1 macho sin alas), la TABLE 11 (soldado, 3 individuos de 1 colonia) y la TABLE 18 (obrero, 10 individuos de 1 colonia). El original no da descripción morfológica de esta especie y solo remite a «Miller (1991)», por lo que cada apartado es principalmente de medidas y los caracteres se reúnen en «Caracteres diagnósticos»; los caracteres del tubo digestivo y del índice mandibular recogidos en el apartado del obrero son caracteres del género y no exclusivos de esta especie. No se traducen los registros de localidad, el material examinado ni los números de figura.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado es difícil de distinguir de M. sunteri, pero el postmento y los tubérculos laterales son más prominentes y la proyección frontal es más larga, más estrecha y más dirigida hacia delante. La proyección frontal lleva muchas setas y los tubérculos laterales son bajos, mientras que en Lophotermes las setas de la proyección frontal son escasas y los tubérculos laterales son altos y angulosos. En los ejemplares de Nueva Guinea la proyección frontal es más corta y se inclina más hacia arriba, y la forma de las mandíbulas del obrero también presenta diferencias sutiles, que los autores no consideran suficientes para separar dos especies."
+  },
+  {
+   "label": "Alado",
+   "text": "El original solo describe el macho (1 macho sin alas), sin descripción morfológica y únicamente con medidas: longitud de la cabeza (hasta el ápice del labro) 1.30 mm, longitud de la cabeza (hasta la sutura frontoclipeal) 0.81 mm, anchura de la cabeza (con los ojos compuestos) 1.21 mm, diámetro máximo del ojo compuesto 0.29 mm, longitud máxima del ocelo 0.12 mm, longitud del pronoto 0.73 mm, anchura del pronoto 1.03 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas del soldado (3 individuos de 1 colonia): longitud de la cabeza (hasta el extremo de la proyección frontal) 1.40–1.48 mm, longitud de la cabeza (hasta el ángulo anterolateral de la gena) 1.25–1.34 mm, altura de la cabeza (con el postmento) 0.72–0.76 mm, altura de la cabeza (sin el postmento) 0.92–0.98 mm, anchura máxima de la cabeza 1.13–1.14 mm, anchura del pronoto 0.67–0.72 mm, longitud de la mandíbula izquierda 2.44–2.50 mm, anchura mínima del postmento 0.27–0.30 mm, distancia entre los extremos de los tubérculos laterales 0.73–0.77 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Los caracteres del género indican que el índice mandibular izquierdo del obrero es mayor que 1.5 (a menudo mayor que 2.0), que las almohadillas de la válvula entérica son de tamaño alterno, algo asimétricas y con muchas espinitas, que P1 está dilatado y que P3 se divide en dos tramos, posterior y anterior, de igual tamaño. Medidas: anchura de la cabeza del obrero 0.870–0.953 mm (10 individuos de 1 colonia)."
+  }
+ ]
+}
