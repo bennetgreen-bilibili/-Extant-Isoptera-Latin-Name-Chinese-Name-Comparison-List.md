@@ -1,0 +1,21 @@
+{
+ "zh_name": "方头真唇白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "上颚在 M. tensus 与 M. acutidens 中更弯，这两种的头比例上更长，且前方不如此收窄。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡黄色，触角与上唇色浅，上颚深色。头两侧与后缘平直，前方略收窄。触角 15 节，第 1 节与第 2、3、4 节之和等长；第 2 节长于第 3 节；第 3、4 节约等长。上唇很大，末端具两个大的圆形叶。上颚长而细，略向内弯；每侧上颚近基部有一齿。头前部额腺开口附近有一大的圆形突起。前缘极微凹缺。量度（mm）：头至鼻端长 1.50，头至触角基长 1.16，头宽 1.33，触角长 1.89，前胸背板长 0.30、宽 0.67，后足胫节长 1.00，左上颚长（不精确）1.67。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；仅兵蚁有描述，未记工蚁与有翅成虫；原文左上颚量度注明不精确；描述基于 1 头兵蚁，采自 Mirotermes (Cubitermes) orthognathus 的蘑菇状巢；异名、图号与产地未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

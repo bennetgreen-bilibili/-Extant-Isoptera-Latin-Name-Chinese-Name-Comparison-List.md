@@ -1,0 +1,21 @@
+{
+ "zh_name": "马雷拉基齿白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头红黄色至红褐色，相当短；两侧与后缘圆；两侧在触角基部后方有轻微凹陷。触角 14 节，第 3 节长于第 2 节，第 2 节等于第 4 节。上唇端部有两个尖点和一个中裂片，两侧略弯。上颚细长，略向内弯；右上颚近基部有一锐切刻；左上颚内缘光滑。前胸背板前缘极弱凹。头连上颚长 3.45 mm；头宽 1.63—1.73 mm；触角长 2.30 mm；前胸背板长 0.33 mm、宽 0.78—0.84 mm；后胫节长 1.35 mm；左上颚长 1.70—1.73 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 14 节；头宽 1.10 mm；后胫节长 1.05 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题作 Mirotermes (Basidentitermes) malelaensis, new species，Basidentitermes 今为属；记有兵蚁与工蚁；与 M. potens、M. mactus、M. aurivillii、M. diversifrons 的比较段未译；图号、产地与采集记录未译。OCR 讹写：“Right mandibles” 按单数右上颚理解。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

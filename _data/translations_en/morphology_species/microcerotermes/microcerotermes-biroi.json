@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Alates are available from two series from Papua (Fairfax Plantation, near Port Moresby; Collingwood Bay); the two series agree in every detail, and Professor Holmgren examined the latter and considered it referable to this species without doubt. Length with wings 5.50—6.50 mm; head from the base to the tip of the labrum 1.14—1.19 mm; head from the base to the clypeofrontal suture 0.91 mm; head width 0.93—0.96 mm; pronotum length 0.39—0.47 mm, width 0.74—0.85 mm; fore wing length 6.75—7.75 mm, width 1.99—2.00 mm; hind wing length 6.25—7.50 mm, width 1.93—2.16 mm; compound eye diameter generally 0.255 × 0.255 mm, occasionally 0.289 × 0.289 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Total length 5.25—6.50 mm; head with the mandibles 2.62—2.90 mm; head from the base to the clypeofrontal suture 1.70 mm; head width 1.08—1.19 mm; pronotum length 0.30—0.39 mm, width 0.68—0.74 mm; hind tibia length 0.85 mm. In agreement with the original description of Desneux, with the single exception that antennal segment 3 is in almost all specimens distinctly shorter than, and nearly always distinctly narrower than, segments 4 and 5 (the original description records this segment as generally slightly longer or slightly wider than segment 2, or nearly equal to it). In a few individuals the antennae appear 14-segmented, segment 3 being more or less completely divided into two, its basal segment small and shorter than segment 2; this is so only in a few individuals of one large colony from Kaile. One soldier from Collingwood Bay agrees perfectly with the typical form."
+  },
+  {
+   "label": "Worker",
+   "text": "Large individuals total length 4.85—5.15 mm, small individuals total length 4.00—4.27 mm; head length 1.32 mm; head width 1.08 mm in large and 0.90 mm in small individuals. In the workers of all three series segment 3 is shorter and narrower than segment 2, in agreement with some of the specimens recorded by Desneux; all other characters are typical."
+  }
+ ],
+ "note": "Adapted from the species-level account in Hill (1927), original in English; the type locality of this species is New Guinea; the entry centres on the comparison with the original description of Desneux (1905) and on measurements of the three castes, without repeating the full description; the OCR in the original gives the name as Migrooerotermes riroi and elsewhere as M. hiroi and M. birou, here treated under the current combination Microcerotermes biroi; figure numbers (Fig. 29, Pl. V fig. 161, Pl. VIII fig. 162), localities and nest records are not translated; the OCR mixes hyphens and decimal points in the measurements (e.g. 5-50-6-50), restored here as 5.50—6.50."
+}

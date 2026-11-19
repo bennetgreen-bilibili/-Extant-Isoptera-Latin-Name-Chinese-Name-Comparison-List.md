@@ -1,0 +1,21 @@
+{
+ "zh_name": "直头前奇白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "前胸背板前缘在 M. bellicosi 中深凹；M. gracilipes 体型更大，头侧不如本种平直；M. holmgreni 的额突更隆起，头侧也不平直。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄色，前方明显收窄，两侧颇平直。触角 14 节，第 3 节很长（0.22—0.32 mm），第 2 节与第 4 节约等长。上唇前缘凹，末端成两个尖点。上颚长而细，黑色，适于弹击。前胸背板前缘微凹缺。量度（mm）：头连上颚长 3.00—3.10，头宽 1.10—1.17，触角长 2.20，前胸背板长 0.27、宽 0.55，后足胫节长 1.27，左上颚长 1.77—1.84。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；仅兵蚁有描述，未记工蚁与有翅成虫；原文触角第 3 节量度 OCR 作「.22-32 mm.」、头宽作「1 . io-l. 17」、左上颚长作「1. 77-1 .84」，分别按 0.22—0.32 mm、1.10—1.17、1.77—1.84 处理；异名、图号、产地与模式标本信息未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

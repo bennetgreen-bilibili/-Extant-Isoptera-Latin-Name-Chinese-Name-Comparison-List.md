@@ -1,0 +1,25 @@
+{
+ "zh_name": "比罗锯白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "巴布亚两批标本（Fairfax Plantation，Port Moresby 附近；Collingwood Bay）有有翅成虫，两批在各细节上一致，后者经 Holmgren 教授检视认为归本种无误。有翅长 5.50—6.50 mm；头自基至上唇端长 1.14—1.19 mm；头自基至额唇基缝长 0.91 mm；头宽 0.93—0.96 mm；前胸背板长 0.39—0.47 mm、宽 0.74—0.85 mm；前翅长 6.75—7.75 mm、宽 1.99—2.00 mm；后翅长 6.25—7.50 mm、宽 1.93—2.16 mm；复眼径一般为 0.255 × 0.255 mm，偶为 0.289 × 0.289 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "全长 5.25—6.50 mm；头含上颚长 2.62—2.90 mm；头自基至额唇基缝长 1.70 mm；头宽 1.08—1.19 mm；前胸背板长 0.30—0.39 mm、宽 0.68—0.74 mm；后足胫节长 0.85 mm。与 Desneux 原描述相符，唯一例外是触角第 3 节在几乎所有标本中明显短于、且几总是明显窄于第 4、第 5 节（原描述记该节一般略长于或略宽于第 2 节，或与之近等）。少数个体触角似为 14 节，第 3 节或多或少完全分为两节，其基节小、短于第 2 节；仅 Kaile 一个大群体中的少数个体如此。Collingwood Bay 的一头兵蚁与典型型完全一致。"
+  },
+  {
+   "label": "工蚁",
+   "text": "大型个体全长 4.85—5.15 mm，小型个体全长 4.00—4.27 mm；头长 1.32 mm；头宽大型 1.08 mm、小型 0.90 mm。三批标本的工蚁第 3 节均短于且窄于第 2 节，与 Desneux 所记的部分标本相符；其余特征均属典型。"
+  }
+ ],
+ "note": "据 Hill (1927) 种级记述改写，原文英文；本种模式产地为新几内亚；该条以与 Desneux (1905) 原描述的比较及三品级量度为主，未重复完整描述；原文 OCR 将学名误作「Migrooerotermes riroi」，正文另作「M. hiroi」「M. birou」，此处按现组合 Microcerotermes biroi 处理；图号（Fig. 29、Pl. V fig. 161、Pl. VIII fig. 162）、产地与筑巢记录未译；量度 OCR 中连字符与小数点混杂（如「5-50-6-50」），已还原为 5.50—6.50。",
+ "sources": [
+  {
+   "id": "S0491",
+   "citation": "Hill G. F. 1927. Termites from the Australian Region. Part I. https://archive.org/details/memoirsnational7natia",
+   "locator": "条目（hill-1927-termites-australian-region-1）"
+  }
+ ]
+}

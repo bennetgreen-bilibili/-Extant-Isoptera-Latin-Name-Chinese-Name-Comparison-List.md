@@ -1,0 +1,21 @@
+{
+ "zh_name": "喀拉拉前扭白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "色泽与毛被同 M. dakshinae。全长约 5.50 mm。头壳近矩形；两侧近直；宽略小于至上颚基部头长的 3/4（至上颚基部之长 1.65 mm，最大宽 1.20 mm，宽／长指数 0.725）；额区前 1/4 急剧下倾；Y 形缝之中臂仅头后缘附近可见。囟横置，边缘几丁质化；位于距后缘约 3/4 头长处（后头—囟距 1.23 mm，后头—囟距／头长指数 0.745）。触角 13 节以上（末节可能断失）；各节长而细；第三节长于第二节；第四节最短。上唇略不对称；前缘内曲；前侧角呈角状突出；两侧凸（长 0.27 mm，宽 0.25 mm）。上颚弱不对称，端部破损（左上颚长 1.83 mm，右上颚 1.80 mm）；略长于头（左上颚长／头长指数 1.109）；左上颚外缘后半波曲；右上颚棒状。后颏棒状，腰部弱内曲（长 0.80 mm，最大宽 0.35 mm，腰部宽 0.23 mm，腰宽／最大宽指数 0.657）。前胸背板马鞍形（长 0.25 mm，宽 0.65 mm）；前叶中部弱凹。足胫端距 3:2:2；前足胫节背距弱但明显。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头壳淡黄褐；足与胸部淡黄；后唇基较头淡；腹部因肠内容物透出而呈灰色。头与体毛颇密。头近圆形（至上唇端之长 0.90 mm，至上颚基部之长 0.65 mm，最大宽 0.77 mm）。囟板不明显。触角 14 节；第三节短于第二节；第四节最短。后唇基隆起，具毛；长不及宽之半（长 0.14 mm，宽 0.38 mm）。前胸背板马鞍形（长 0.17 mm，宽 0.40 mm）；前缘无凹缺。足胫端距 2:2:2；前足胫节甚肿胀；跗节 4 节。"
+  }
+ ],
+ "note": "据 Chhotani (1997) 条目（211. Malaysiocapritermes keralai Chhotani and Ferry，Fig. 181；原文记「In press. Chhotani and Ferry, Ann. Entom.」）改写，原文英文；异名、图号与分布记录未译。书内属名作 Malaysiocapritermes，站内作 Procapritermes keralai Chhotani & Ferry, 1995；模式产地（Kerala，Kothamanglam—Munnar 公路 5 km 处）一致，判为同一物种的属级组合差异。原书记有翅成虫为「Unknown」，故无该品级。兵蚁上颚端部原文记「tips damaged」、触角末节「probably broken」，量度依原文；「distal 114」为 OCR 讹误，按前 1/4 译。",
+ "sources": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). https://archive.org/details/dli.zoological.fi.027",
+   "locator": "条目（The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa）"
+  }
+ ]
+}

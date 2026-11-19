@@ -1,0 +1,21 @@
+{
+ "zh_name": "指名亚种",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Silvestri 所绘 C. urgens 左上颚外半段比本种标本更弯，但 Emerson 判为同种；Bipindi 标本的量度最接近 var. nigeriana，可能属于该变种；标本也与 C. sodalis Sjöstedt 兵蚁的描述相符。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄色，长形，长方形，自后缘中部至额腺开口有一条线。触角 14 节，第 4 节短于第 3 节，第 2、3 节约等长。上颚黑色。量度（mm）：头连上颚长 3.50—3.60，头至唇端长 2.30，头宽 1.07—1.13，触角长 2.00，前胸背板长 0.27、宽 0.60，后足胫节长 0.96，左上颚长 1.50。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文以 Capritermes (Pericapritermes) urgens 种级记述，未区分亚种，指名亚种据此沿用；仅兵蚁有描述，未记工蚁与有翅成虫；描述基于 5 头兵蚁；异名、图号与产地未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

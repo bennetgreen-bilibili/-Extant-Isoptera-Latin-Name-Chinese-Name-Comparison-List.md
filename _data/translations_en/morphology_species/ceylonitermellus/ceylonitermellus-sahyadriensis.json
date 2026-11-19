@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Soldiers monomorphic. Head capsule pear-shaped, golden yellow, sparsely covered with short hairs and bearing 2 conspicuous long setae among several short ones; in lateral view slightly humped. Rostrum red-brown, slender and cylindrical, about as long as the head, deepening in colour apically, the tip with several hairs. In dorsal view the cephalic gland duct is partly visible, running from the rostrum to the gland reservoir. Antennae 12-segmented, yellow-brown, segment 2 the shortest, segments 3—5 subequal in length. Mandibles reduced, without a spinous process. Left mandible with the apical tooth larger than marginal tooth 1, the two forming an angle of 45°; a distinct posterior margin separates marginal teeth 1 and 2; marginal tooth 3 is intermediate in size between the apical tooth and marginal tooth 2 and is separated by a distinct notch from the well-developed molar prominence. Right mandible with a long apical tooth, marginal teeth 1 and 2 forming a narrow angle, without the posterior separation seen in the left mandible; molar ridges distinct. Pronotum saddle-shaped, paler yellow dorsally, narrower than the head width. Abdomen slightly transparent, the gut visible within, with long and short setae. Cerci small, 2-segmented; tibial spur formula 2:2:2, tarsi 4-segmented. Measurements (n=10, range/standard error): body length 3.11—3.64/0.056949 mm, head length 1.56—1.66/0.010349 mm, head length excluding rostrum 0.72—0.77/0.008921 mm, head width 0.68—0.72/0.005212 mm, rostrum length 0.82—0.90/0.007118 mm, pronotum length 0.15—0.18/0.002906 mm and width 0.34—0.37/0.003333 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Workers monomorphic. Body unclerotized, elongate-oval. Head subcircular, widest at the antennal bases, pale yellow, densely covered with setae. In lateral view the postclypeus is slightly inflated yet distinctly flattened, the clypeus transparent and pale yellow. Frontal sutures and fontanelle indistinct, the labrum pale yellow. Antennae 13-segmented, segment 3 the shortest. Pronotum saddle-shaped, distinctly narrower than the head width. The elongate-oval abdomen is transparent, the coiled gut visible within, densely covered with short hairs. Cerci small, 2-segmented; tarsi 4-segmented, tibial spur formula 2:2:2."
+  }
+ ],
+ "note": "Adapted from the species-level redescription in Joseph et al. (2025) (the species was described by Emerson in 1960), original in English; the alate is not described (Imago: Unknown in the original); figure numbers (Figs 1—2), specimens examined and molecular data are not translated."
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "戴克夏娜前扭白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头壳褐黄；触角淡褐；上颚近黑；上唇淡黄白；胸部与腹部淡黄。头与体毛颇密，具长短毛。全长 6.70—7.20 mm。头壳近矩形；两侧弱凸；宽略大于至上颚基部头长的 3/4（至上颚基部之长 1.90—2.00 mm，最大宽 1.40—1.53 mm）；额区向前渐次但颇陡地下倾；仅头后缘附近一段中缝明显。囟小，圆形，接一褐色细管；位于距后缘约 3/4 头长处（囟距／头长指数 0.775—0.805）。触角 14 节；各节长而细；第三节长于第二节；第四节最短。上唇略不对称；前缘深内曲；端部尖锐；两侧向后渐宽，后 1/4 处成角（长 0.33—0.35 mm，宽 0.33—0.38 mm）。上颚长，不对称（左上颚长 2.10 mm，右上颚 2.05—2.10 mm）；略长于头（上颚长／头长指数 1.05）；端部尖。后颏短，棒状（长 0.90—1.00 mm，最大宽 0.40—0.43 mm，腰部宽 0.25—0.26 mm，腰宽／最大宽指数 0.60—0.63）。前胸背板马鞍形（长 0.38 mm，宽 0.78—0.80 mm）；前叶中部深凹。足胫端距 3:2:2，前足胫节背距微小，呈残株状，有时不明显。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头、后唇基与足淡黄褐；触角淡黄；胸部较头淡；腹部半透明，肠内容物透出可见。头与体毛颇密。全长 4.00—4.10 mm。头近圆形（至上唇端之长 1.03—1.10 mm，至上颚基部之长 0.70—0.77 mm，最大宽 0.85—0.90 mm）。囟板椭圆形，半透明，颇大（长 0.10—0.12 mm，宽 0.06—0.07 mm）。触角 14 节；第三节短于第二节。后唇基隆起，具长短毛；长不及宽之半（长 0.17 mm，宽 0.46 mm）。上颚各具一端齿与 2 枚缘齿，端齿大于第一缘齿（形态见原图）。前胸背板马鞍形，前叶无凹缺。足细，具毛；前足胫节肿胀；胫端距 2:2:2，前足背距不明显。"
+  }
+ ],
+ "note": "据 Chhotani (1997) 条目（209. Malaysiocapritermes dakshinae Chhotani and Ferry，Figs. 177, 178；原文记「In press. Chhotani and Ferry, Ann. Entom.」）改写，原文英文；异名、图号与分布记录未译。书内属名作 Malaysiocapritermes，站内作 Procapritermes dakshinae Chhotani & Ferry, 1995；模式产地（Kerala，Arippal 村一带）一致，判为同一物种的属级组合差异。原书记有翅成虫为「Unknown」，故无该品级。工蚁段原文触角色泽一句重复（「antennae pale yellowish brown; antennae pale yellow」），已合并译出。",
+ "sources": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). https://archive.org/details/dli.zoological.fi.027",
+   "locator": "条目（The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa）"
+  }
+ ]
+}

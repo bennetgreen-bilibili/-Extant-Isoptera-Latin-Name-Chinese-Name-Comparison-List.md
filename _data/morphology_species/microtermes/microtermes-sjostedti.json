@@ -1,0 +1,17 @@
+{
+ "zh_name": "舍斯泰特小白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头宽卵形，黄色；密被相当长的毛。触角 15 节，第 3 节小于第 4 节，第 4 节小于第 2 节。上唇相当长，超过上颚长度之半。上颚细长，端部弯曲；左上颚内缘光滑；右上颚内缘有两个齿的微弱迹象，一在中部之外，一近基部结节。前胸背板前缘凹，后缘略凹。头长 1.63 mm；头宽 0.97 mm；触角长 1.33 mm；前胸背板中部（长）0.43 mm、全长 0.50 mm、宽 0.73 mm；后胫节长 0.93 mm；左上颚长 0.73 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题 OCR 作 “Microtomies sjostedti, new species”，即 Microtermes sjostedti；仅记兵蚁，工蚁只提及同批采到而未描述；异名、图号、产地、命名由来与采集记录未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

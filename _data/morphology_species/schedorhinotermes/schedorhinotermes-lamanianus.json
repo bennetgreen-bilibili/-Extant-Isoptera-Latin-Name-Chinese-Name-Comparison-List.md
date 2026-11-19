@@ -1,0 +1,21 @@
+{
+ "zh_name": "拉曼长鼻白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "大型兵蚁：头黄色，两侧近直，头上无刚毛。触角 16 节，第 3 节约为第 2 节的 1.5 倍大。上唇宽，前缘略圆。左上颚有两个明显的大齿，右上颚有一个大齿。额腺开口明显，一条沟自开口延伸至上唇端部。胸部黄色。前胸背板上无明显刚毛，两侧略圆，后缘近直或极微凹。腹节背板边缘无刚毛。头长（至上唇端）2.05—2.30 mm；头宽 1.72—1.78 mm；触角长 2.33 mm；前胸背板长 0.69—0.72 mm、宽 1.30—1.38 mm；后胫节长 1.67 mm；左上颚长 1.00—1.10 mm。小型兵蚁：头无明显刚毛，两侧近平行，后缘圆。触角 15—16 节；15 节时第 2、3、4 节约等长，16 节时第 4 节小。前胸背板两侧圆，后缘近直，无明显刚毛。腹节背板无长刚毛。头长（至上唇端）1.68 mm；头宽 0.89 mm；触角长 1.67 mm；前胸背板长 0.44 mm、宽 0.78 mm；后胫节长 1.16—1.22 mm；左上颚长 0.67—0.72 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 16—17 节；头长 1.67—2.00 mm；头宽 1.55 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题作 Rhinotermes (Schedorhinotermes) lamanianus (Sjostedt)，Schedorhinotermes 今为属；记有大型兵蚁、小型兵蚁与工蚁；与 R. putorius、R. lamanianus var. angulatus 的比较及异名讨论未译；图号、产地与共栖昆虫记录未译。OCR 讹写：“1 % times” 即 1.5 倍，“lab rum” 即 labrum。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

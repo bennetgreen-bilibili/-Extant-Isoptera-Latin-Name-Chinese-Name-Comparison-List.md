@@ -1,0 +1,25 @@
+{
+ "zh_name": "尼亚普原方白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头中深红褐色；囟点缝状，浅色。触角 15 节，第 3 节很小，第 2 节等于第 4 节。复眼中等大。单眼长 0.14 mm，卵形，朝向侧方，距复眼 1.10 mm。后唇基比头略浅，具窄的深色中线。前胸背板比头略浅，后缘相当深凹。中胸与后胸背板后缘具小而锐的凹口，所成角小于直角。头长 1.22 mm；头宽 1.19 mm；触角长 1.78 mm；复眼直径 0.31 mm；前胸背板长 0.59 mm、宽 1.05 mm；后胫节长 1.16 mm；蚁后体长 20.00 mm，腹部宽 3.50 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡黄色，矩形，两侧相当直而平行。触角 14 节，第 3 节长于第 2 节，第 2 节等于第 4 节。上唇分叉，两尖点的间距不一定如图那样宽。上颚略呈肘状而非均匀弯曲，每枚近基部有一齿。下颏无锐突。前胸背板前缘极弱凹。头连上颚长 3.26 mm；头宽 1.37 mm；触角长 2.20 mm；前胸背板长 0.31 mm、宽 0.70 mm；后胫节长 1.00 mm；左上颚长 1.71 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 14 节；头宽 0.94 mm；后胫节长 1.00 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题作 Mirotermes (Procubitermes) niapuensis, new species，Procubitermes 今为属；记有有翅成虫（含蚁后量度）、兵蚁与工蚁；与 M. curvatus、M. ueleensis 的比较及筑巢记录未译；图号、产地与模式标本未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

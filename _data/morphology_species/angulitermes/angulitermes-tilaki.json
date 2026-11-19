@@ -1,0 +1,21 @@
+{
+ "zh_name": "蒂拉克角白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头壳淡黄；触角、上唇、足与体白色；上颚深褐。头与体被毛较多。体长 4.60—4.90 mm。头壳近矩形，前部较宽；中部之后两侧弱内曲；额突宽圆，前缘不凹（至上颚基部 1.13—1.20 mm，至额突 1.10—1.17 mm，最大宽 0.97—1.00 mm）。触角 14 节；第 3 节短于第 2 节；第 4 节最短。上唇近矩形，前缘深凹，两侧缘无齿（长 0.28—0.31 mm，宽 0.25 mm）。上颚杆状，端部弱内弯；略长于头长（长 1.27 mm，左颚长/头长指数 1.06—1.12）。后颏棒状，短（长 0.47—0.59 mm，最大宽 0.33 mm，腰部宽 0.27 mm）；腰部偏后。前胸背板强烈鞍形；前缘中部微凹（长 0.17 mm，宽 0.50 mm）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头壳淡黄；触角、上唇、足与胸白色；腹部半透明。头与体被毛较密。体长 4.40—5.00 mm。头壳近圆形，宽大于长（至上唇端 1.10—1.17 mm，至上颚基部 0.73—0.80 mm，最大宽 0.87—0.90 mm）。触角 14 节；第 3 节短于第 2 节；第 4 节最短。后唇基强烈膨大，长略过半宽（长 0.25—0.27 mm，宽 0.43—0.47 mm）。前胸背板强烈鞍形，前缘无凹（长 0.20 mm，宽 0.50 mm）。原文指出工蚁与 A. kashmirensis 很相似，区别在后唇基更膨大且长过半宽（后者仅为半宽）。"
+  }
+ ],
+ "note": "据 Chhotani (1997) 条目改写，原文英文；兵蚁与工蚁有描述，有翅成虫原文记未明；异名表、图号与分布记录未译。",
+ "sources": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). https://archive.org/details/dli.zoological.fi.027",
+   "locator": "条目（The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa）"
+  }
+ ]
+}

@@ -358,6 +358,8 @@ cd ../.. && python _tools/merge_lang_sites.py
 | `_reports/species-morphology-coverage.md` | 种级形态描述覆盖率 |
 | `_reports/species-morphology-worklist.md` | 物种形态补写清单（配套同名 `.csv`） |
 | `_reports/species-morphology-no-source.md` | 文库中对不上号的待补种 |
+| `_reports/species-morphology-bd-review.md` | B/C 类种级形态复核方法与结果 |
+| `_reports/species-morphology-bd-disposition.csv` | B/C 类逐种处置表 |
 | `_reports/域名迁移可行性评估-2026-11-12.md` | 换域名的判断依据 |
 | `_reports/域名迁移操作手册-2026-11-12.md` | 域名迁移步骤 |
 | `_reports/域名迁移验收-2026-11-14.md` | 301 现状与收尾 |
@@ -372,9 +374,9 @@ cd ../.. && python _tools/merge_lang_sites.py
 | 物种页 `_species/*.md` | 3089 |
 | 科页 / 亚科页 / 属页（中文） | 13 / 18 / 326 |
 | `_data/` 顶层文件 | 26 |
-| `_data/` 分片目录（数据集 / 分片文件） | 14 / 5626 |
+| `_data/` 分片目录（数据集 / 分片文件） | 14 / 5854 |
 | `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 20 |
-| 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 14 |
+| 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 15 |
 
 > 数字由 `_tools/build_ai_index.py --write` 从 `_data/taxonomy.json`、`_species/`、各页面目录与文件系统直接统计，改完数据请重跑 `_tools/regen_all.sh`。
 <!-- AUTO:INDEX:END -->

@@ -1,0 +1,21 @@
+{
+ "zh_name": "大唇蛇白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头红黄色，矩形，前方略收窄，后缘圆。囟点上方的突起比 M. quadriceps 的小。触角 14 节，第 3 节有时正在分裂；第 3 节长于第 2 节，第 2 节等于第 4 节。上唇大，双裂，裂片尖端比 M. tensus 或 M. quadriceps 的更尖。上颚除内弯的端部外几乎直，距基部约三分之二长度处略向外弯；上颚深红褐色，与头色大致相同，每枚在距基部约四分之一长度处有一个小而明显的齿。前胸背板前缘几乎不凹或完全不凹。头连上颚长 3.33 mm；头长（至鼻端）1.57 mm；头宽 1.33 mm；触角长 2.20—2.30 mm；前胸背板长 0.33 mm、宽 0.80 mm；后胫节长 1.11 mm；左上颚长 1.89 mm（原文注不精确）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 14 节，第 3 节有时分裂；头宽 0.92 mm；后胫节长 0.83 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题作 Mirotermes (Ophiotermes) grandilabius, new species，Ophiotermes 今为属；记有兵蚁与工蚁，未记有翅成虫；与 M. tensus、M. quadriceps、M. ugandaensis、M. mandibularis、M. mirandus 的比较段未译；图号、产地与模式标本未译。左上颚长原文注 “(inexact)”（不精确）。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

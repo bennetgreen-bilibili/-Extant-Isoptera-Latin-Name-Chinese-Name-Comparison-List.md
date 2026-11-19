@@ -6,8 +6,8 @@
 查不到任何 OA 全文的条目不在本表（那是「没有合法 OA」，只能走图书馆），
 它们的标记在 `.sources` 的 `fulltext_status = abstract-no-oa`。
 
-- 更新时间：2026-11-19 00:01（清单内容不变时不刷新）
-- 共 **34** 条：站点拦截 32 ／ 仅有落地页 2
+- 更新时间：2026-11-19 23:00（清单内容不变时不刷新）
+- 共 **65** 条：站点拦截 42 ／ 仅有落地页 23
 - 结构化版本：`_data/fulltext_manual.json`（同一次运行写出的同一份数据）
 
 | # | 引用 | 年 | 标题 | DOI | 上次撞到的站点 | 建议取法 |
@@ -44,8 +44,39 @@
 | 30 | 7 | 1999 | A review of the soldierless African termite genus Amicotermes Sands 1972 (Isoptera, Termitidae… | [10.5281/zenodo.16460267](https://doi.org/10.5281/zenodo.16460267) | BHL | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
 | 31 | 7 | 1997 | Key to the soldiers ofAtlantitermesFontes 1979, with a new species from Brazil (Isoptera Termi… | [10.1080/03946975.1997.10539337](https://doi.org/10.1080/03946975.1997.10539337) | Taylor & Francis | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
 | 32 | 7 | 1983 | THE OCCURRENCE IN AUSTRALIA OF PRORHINOTERMES INOPINATUS SILVESTRI (ISOPTERA: RHINOTERMITIDAE) | [10.1111/j.1440-6055.1983.tb01845.x](https://doi.org/10.1111/j.1440-6055.1983.tb01845.x) | Wiley | Wiley，需机构网络；分类学类可先试 BHL 的散见抽印本 |
-| 33 | 8 | 2019 | Proteomic-components provide insights into the defensive secretion in termite workers of the s… | [10.1016/j.jprot.2019.103622](https://doi.org/10.1016/j.jprot.2019.103622) | handle.net 解析页 | Elsevier（ScienceDirect），需机构网络；可试作者主页 / 机构库 |
-| 34 | 7 | 2021 | Salivary glands in workers of Ruptitermes spp. (Blattaria, Isoptera, Termitidae, Apicotermitin… | [10.1007/s00441-021-03469-w](https://doi.org/10.1007/s00441-021-03469-w) | handle.net 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 33 | 2 | 2024 | New Species of Grigiotermes (Apicotermitinae, Termitidae) from the Northern Atlantic Forest, D… | [10.13102/sociobiology.v71i1.9708](https://doi.org/10.13102/sociobiology.v71i1.9708) | core.ac.uk / doaj.org / periodicos.uefs.br | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 34 | 1 | 2020 | A new nasute-termite Ceylonitermes nivedita sp. nov. (Isoptera: Termitidae) from India along w… | [10.12976/jib/2020.19.1.2](https://doi.org/10.12976/jib/2020.19.1.2) | doi.org 解析页 / www.mapress.com | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 35 | 1 | 2016 | TIAGO F. CARRIJO, RUDOLF H. SCHEFFRAHN & JAN KŘEČEK (2015) Compositermes bani sp.n. (Isoptera,… | [10.11646/zootaxa.4109.3.10](https://doi.org/10.11646/zootaxa.4109.3.10) | doi.org 解析页 / www.biotaxa.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 36 | 0 | 2025 | Morphological and molecular characterization of Proneotermes tacicuarensis sp. nov.: A new ter… | [10.22271/j.ento.2025.v13.i6c.9646](https://doi.org/10.22271/j.ento.2025.v13.i6c.9646) | www.entomoljournal.com | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 37 | 0 | 2025 | Cryptotermes mobydicki (Isoptera, Kalotermitidae), an extraordinary new termite species from F… | [10.3897/zookeys.1258.166021](https://doi.org/10.3897/zookeys.1258.166021) | doi.org 解析页 / pmc.ncbi.nlm.nih.gov / www.ebi.ac.uk | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 38 | 0 | 2022 | Occurrence of Gregarines (Protozoa: Apicomplexa) in the Neotropical Soldierless Ruptitermes sp… | [10.13102/sociobiology.v69i4.8268](https://doi.org/10.13102/sociobiology.v69i4.8268) | core.ac.uk / doi.org 解析页 / periodicos.uefs.br | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 39 | 0 | 2021 | Caste development and sex ratio of the Ryukyu drywood termite Neotermes sugioi and its potenti… | [10.1038/s41598-021-94505-w](https://doi.org/10.1038/s41598-021-94505-w) | doaj.org / europepmc.org / pmc.ncbi.nlm.nih.gov | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 40 | 0 | 2021 | Publisher Correction: Caste development and sex ratio of the Ryukyu drywood termite Neotermes … | [10.1038/s41598-021-95744-7](https://doi.org/10.1038/s41598-021-95744-7) | doaj.org / pmc.ncbi.nlm.nih.gov / www.ebi.ac.uk | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 41 | 0 | 2021 | Cryptotermes camelus (Isoptera: Kalotermitidae), a new drywood termite species from the Bolivi… | [10.11646/zootaxa.4938.1.9](https://doi.org/10.11646/zootaxa.4938.1.9) | doi.org 解析页 / www.biotaxa.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 42 | 0 | 2015 | Molecular characterization and phylogeny ofKalotermespopulations from the Levant, and descript… | [10.1017/s0007485315000097](https://doi.org/10.1017/s0007485315000097) | doi.org 解析页 / www.cambridge.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 43 | 13 | 2014 | Kalotermes sinaicus Kemner (Isoptera, Kalotermitidae): new morphological and genetic evidence,… | [10.1007/s00040-013-0335-1](https://doi.org/10.1007/s00040-013-0335-1) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 44 | 8 | 2019 | Proteomic-components provide insights into the defensive secretion in termite workers of the s… | [10.1016/j.jprot.2019.103622](https://doi.org/10.1016/j.jprot.2019.103622) | handle.net 解析页 | Elsevier（ScienceDirect），需机构网络；可试作者主页 / 机构库 |
+| 45 | 7 | 2021 | Salivary glands in workers of Ruptitermes spp. (Blattaria, Isoptera, Termitidae, Apicotermitin… | [10.1007/s00441-021-03469-w](https://doi.org/10.1007/s00441-021-03469-w) | handle.net 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 46 | 5 | 2020 | A new species and a new record of Dicuspiditermes Krishna (Blattodea: Isoptera: Termitidae) fr… | [10.1080/00305316.2020.1844815](https://doi.org/10.1080/00305316.2020.1844815) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 47 | 5 | 2013 | Multilamina teevani gen. et sp. nov., a microsporidian pathogen of the neotropical termite Unc… | [10.1016/j.jip.2013.06.006](https://doi.org/10.1016/j.jip.2013.06.006) | doi.org 解析页 | Elsevier（ScienceDirect），需机构网络；可试作者主页 / 机构库 |
+| 48 | 4 | 2022 | Dilacera, a new astonishing Amazonian genus of termitophilous rove beetle (Staphylinidae: Aleo… | [10.11646/zootaxa.5194.1.7](https://doi.org/10.11646/zootaxa.5194.1.7) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 49 | 3 | 2024 | A new species of an endemic termite Ampoulitermes zacharia sp.nov (Blattodea: Isoptera: Termit… | [10.1007/s42690-024-01387-2](https://doi.org/10.1007/s42690-024-01387-2) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 50 | 1 | 2014 | A taxonomic revision of the soil-feeding termite genus Anhangatermes (Isoptera: Termitidae: Na… | [10.11646/zootaxa.3869.5.2](https://doi.org/10.11646/zootaxa.3869.5.2) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 51 | 0 | 2026 | Two new Poikilolaimus (Rhabditidae) species from Japan: P. yaeyamaensis n. sp. from Neotermes … | [10.1163/15685411-bja10516](https://doi.org/10.1163/15685411-bja10516) | repository.ffpri.go.jp | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 52 | 0 | 2026 | Two new termite species (Blattodea: Termitidae: Apicotermitinae and Mirocapritermitinae) from … | [10.11646/zootaxa.5787.1.6](https://doi.org/10.11646/zootaxa.5787.1.6) | publication.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 53 | 0 | 2026 | Mapinguaritermes marizalensis, a new species of Syntermitinae (Blattodea, Termitidae) from Bra… | [10.11646/zootaxa.5814.4.3](https://doi.org/10.11646/zootaxa.5814.4.3) | publication.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 54 | 0 | 2026 | Tiunatermes tapirape (Isoptera: Termitidae: Nasutitermitinae): description of a new species an… | [10.11646/zootaxa.5821.3.6](https://doi.org/10.11646/zootaxa.5821.3.6) | publication.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 55 | 0 | 2026 | Description of a new species of soil-dwelling termites (Blattodea: Termitidae: Mirocapritermit… | [10.48311/jibs.12.03.537](https://doi.org/10.48311/jibs.12.03.537) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 56 | 0 | 2026 | Speculitermes Wasmann 1902 | [10.5281/zenodo.21160162](https://doi.org/10.5281/zenodo.21160162) | treatment.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 57 | 0 | 2026 | Speculitermes latalabrum Aiswarya and Amina 2026, sp. nov. | [10.5281/zenodo.21160168](https://doi.org/10.5281/zenodo.21160168) | treatment.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 58 | 0 | 2026 | Labiocapritermes ghatensis Aiswarya and Sudhikumar 2026, sp. nov. | [10.5281/zenodo.21160189](https://doi.org/10.5281/zenodo.21160189) | treatment.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 59 | 0 | 2026 | Mapinguaritermes marizalensis Lucena, Cysneiros & Vasconcellos 2026, sp. nov. | [10.5281/zenodo.21180522](https://doi.org/10.5281/zenodo.21180522) | treatment.plazi.org | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 60 | 0 | 2023 | A new species of termite, Prorhinotermes cotym (Blattodea: Isoptera: Rhinotermitidae: Prorhino… | [10.1007/s42690-023-01077-5](https://doi.org/10.1007/s42690-023-01077-5) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 61 | 0 | 2023 | Acorhinotermes murui sp. nov. (Blattodea: Isoptera: Rhinotermitidae:Rhinotermitinae), a new te… | [10.11646/zootaxa.5353.3.7](https://doi.org/10.11646/zootaxa.5353.3.7) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 62 | 0 | 2022 | A new mandibulate termite Amitermes kavarattiensis sp. nov. (Blattodea: Isoptera: Termitidae) … | [10.1080/00305316.2022.2076262](https://doi.org/10.1080/00305316.2022.2076262) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 63 | 0 | 2021 | Coptotermes testaceus (subterranean termite) | [10.1079/cabicompendium.15296](https://doi.org/10.1079/cabicompendium.15296) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 64 | 0 | 2020 | Synchronization of alate emergence among colonies and dispersal strategy in the Ryukyu dry-woo… | [10.1007/s00040-020-00766-5](https://doi.org/10.1007/s00040-020-00766-5) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
+| 65 | 0 | 2015 | On the identity of Syntermes noiroti Krishna et al. 2013 (Isoptera: Termitidae: Syntermitinae) | [10.11646/zootaxa.3990.4.9](https://doi.org/10.11646/zootaxa.3990.4.9) | doi.org 解析页 | 出版社站点（需机构网络），或 archive.org / 馆际互借 |
 
 ## 怎么用这张表
 

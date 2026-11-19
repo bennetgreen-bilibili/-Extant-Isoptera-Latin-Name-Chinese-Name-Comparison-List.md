@@ -1,0 +1,17 @@
+{
+ "zh_name": "缺附垫新白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头中褐色，卵形，顶部平坦。触角 18 节，复眼相当大，黑色，距头下缘 0.22 mm。单眼相当大，与复眼相接。前胸背板宽于头，前缘凹，后缘弱凹；两侧圆，不向后收窄；前胸背板与头同色。各足胫节末端有 3 根大刺，刺尖深色；胫节颜色比股节深；跗节无跗垫。翅具 Neotermes 亚属特征：基部三分之一几丁质化并呈深色，外侧三分之二透明；前缘脉、径脉与中脉浅色，肘脉几乎不可见，中脉在基部附近折弯。体连翅长 13.70 mm；体长（去翅）9.00 mm；头长 2.20 mm；头宽 1.78 mm；触角长 2.55 mm；复眼直径 0.55 mm；前胸背板长 1.00 mm、宽 2.00 mm；后胫节长 1.33 mm；前翅长 10.28 mm、宽 2.78 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题作 Kalotermes (Neotermes) sepulvillus, new species，Neotermes 今为属；仅记有翅成虫（依据单一有翅个体）；与同属他种的比较段因 OCR 种名残缺未译；图号、产地与模式标本未译。OCR 讹写：触角节数后多一星号，比较段中 “prxcox”“erythrxus” 等种名残缺。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19 00:01",
-  "count": 34,
+  "updated_at": "2026-11-19 23:00",
+  "count": 65,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
     {
@@ -668,6 +668,264 @@
       "attempts": 1
     },
     {
+      "doi": "10.13102/sociobiology.v71i1.9708",
+      "title": "New Species of Grigiotermes (Apicotermitinae, Termitidae) from the Northern Atlantic Forest, Delimited by Morphological and Molecular Data",
+      "year": 2024,
+      "venue": "Sociobiology",
+      "publisher": "Universidade Estadual de Feira de Santana",
+      "cited_by": 2,
+      "landing": "https://periodicos.uefs.br/index.php/sociobiology/article/download/9708/8619",
+      "reason": "blocked",
+      "hosts": [
+        "core.ac.uk",
+        "doaj.org",
+        "periodicos.uefs.br"
+      ],
+      "tried": [
+        "https://doaj.org/article/51ebcea6b05a400cbcb7811a1970cdb7",
+        "https://core.ac.uk/download/599435986.pdf",
+        "https://periodicos.uefs.br/index.php/sociobiology/article/download/9708/8619"
+      ],
+      "last_result": "doaj.org/article/51ebcea6b05a400cbcb7811a1970cdb7→落地页无 PDF 地址（403） / core.ac.uk/download/599435986.pdf→HTTP 403 / periodicos.uefs.br/index.php/sociobiology/article/download/9708/8619→超时/网络异常",
+      "last_tried": 1795098884.1035688,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.12976/jib/2020.19.1.2",
+      "title": "A new nasute-termite Ceylonitermes nivedita sp. nov. (Isoptera: Termitidae) from India along with first record of worker dimorphism",
+      "year": 2020,
+      "venue": "Journal of Insect Biodiversity",
+      "publisher": "Insect Biodiversity Research Group",
+      "cited_by": 1,
+      "landing": "https://doi.org/10.12976/jib/2020.19.1.2",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "www.mapress.com"
+      ],
+      "tried": [
+        "https://doi.org/10.12976/jib/2020.19.1.2",
+        "https://www.mapress.com/jib/article/download/2020.19.1.2/41108"
+      ],
+      "last_result": "doi.org/10.12976/jib/2020.19.1.2→HTML 页面→找到 PDF 地址 / www.mapress.com/jib/article/download/2020.19.1.2/41108→返回网页非 PDF",
+      "last_tried": 1795099100.9159558,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.4109.3.10",
+      "title": "TIAGO F. CARRIJO, RUDOLF H. SCHEFFRAHN & JAN KŘEČEK (2015) Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa, 3941(2): 294–29",
+      "year": 2016,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 1,
+      "landing": "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4109.3.10/20445",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "www.biotaxa.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3mjz.v81",
+        "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4109.3.10/20445"
+      ],
+      "last_result": "doi.org/10.48580/d3mjz.v81→落地页无 PDF 地址（403） / www.biotaxa.org/Zootaxa/article/download/zootaxa.4109.3.10/20445→返回网页非 PDF",
+      "last_tried": 1795099417.5608747,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.22271/j.ento.2025.v13.i6c.9646",
+      "title": "Morphological and molecular characterization of Proneotermes tacicuarensis sp. nov.: A new termite from central Mexico",
+      "year": 2025,
+      "venue": "Journal of Entomology and Zoology Studies",
+      "publisher": "AkiNik Publications",
+      "cited_by": 0,
+      "landing": "https://www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf",
+      "reason": "blocked",
+      "hosts": [
+        "www.entomoljournal.com"
+      ],
+      "tried": [
+        "https://www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf"
+      ],
+      "last_result": "www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf→返回网页非 PDF",
+      "last_tried": 1795098774.2572985,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.3897/zookeys.1258.166021",
+      "title": "Cryptotermes mobydicki (Isoptera, Kalotermitidae), an extraordinary new termite species from French Guiana",
+      "year": 2025,
+      "venue": "ZooKeys",
+      "publisher": "Pensoft Publishers",
+      "cited_by": 0,
+      "landing": "https://zookeys.pensoft.net/article/166021/download/pdf/",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "pmc.ncbi.nlm.nih.gov",
+        "www.ebi.ac.uk",
+        "www.ncbi.nlm.nih.gov"
+      ],
+      "tried": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12616274/fullTextXML",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/12616274",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12616274/pdf/zookeys-1258-305_article-166021__.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12616274/",
+        "https://doi.org/10.3897/zookeys.1258.166021"
+      ],
+      "last_result": "www.ebi.ac.uk/europepmc/webservices/rest/PMC12616274/fullTextXML→超时/网络异常 / www.ncbi.nlm.nih.gov/pmc/articles/12616274→HTML 页面→找到 PDF 地址 / pmc.ncbi.nlm.nih.gov/articles/PMC12616274/pdf/zookeys-1258-305_article→返回网页非 PDF / pmc.ncbi.nlm.nih.gov/articles/PMC12616274/→HTML 页面→找到 PDF 地址 / doi.org/10.3897/",
+      "last_tried": 1795099857.1348639,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.13102/sociobiology.v69i4.8268",
+      "title": "Occurrence of Gregarines (Protozoa: Apicomplexa) in the Neotropical Soldierless Ruptitermes spp. (Isoptera, Termitidae, Apicotermitinae)",
+      "year": 2022,
+      "venue": "Sociobiology",
+      "publisher": "Universidade Estadual de Feira de Santana",
+      "cited_by": 0,
+      "landing": "https://periodicos.uefs.br/index.php/sociobiology/article/download/8268/7676",
+      "reason": "blocked",
+      "hosts": [
+        "core.ac.uk",
+        "doi.org",
+        "periodicos.uefs.br"
+      ],
+      "tried": [
+        "http://doi.org/10.13102/sociobiology.v69i4.8268",
+        "https://core.ac.uk/download/552570958.pdf",
+        "https://periodicos.uefs.br/index.php/sociobiology/article/download/8268/7676"
+      ],
+      "last_result": "doi.org/10.13102/sociobiology.v69i4.8268→落地页无 PDF 地址（None） / core.ac.uk/download/552570958.pdf→HTTP 403 / periodicos.uefs.br/index.php/sociobiology/article/download/8268/7676→超时/网络异常",
+      "last_tried": 1795098989.0993757,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1038/s41598-021-94505-w",
+      "title": "Caste development and sex ratio of the Ryukyu drywood termite Neotermes sugioi and its potential mechanisms",
+      "year": 2021,
+      "venue": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "cited_by": 0,
+      "landing": "https://www.nature.com/articles/s41598-021-94505-w.pdf",
+      "reason": "blocked",
+      "hosts": [
+        "doaj.org",
+        "europepmc.org",
+        "pmc.ncbi.nlm.nih.gov",
+        "www.ebi.ac.uk",
+        "www.nature.com"
+      ],
+      "tried": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8298410/fullTextXML",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8298410/",
+        "https://doaj.org/article/2c7ee9d606874b8db13d470738f56913",
+        "https://www.nature.com/articles/s41598-021-94505-w.pdf",
+        "https://europepmc.org/articles/PMC8298410/pdf"
+      ],
+      "last_result": "www.ebi.ac.uk/europepmc/webservices/rest/PMC8298410/fullTextXML→超时/网络异常 / pmc.ncbi.nlm.nih.gov/articles/PMC8298410/→落地页无 PDF 地址（200） / doaj.org/article/2c7ee9d606874b8db13d470738f56913→落地页无 PDF 地址（403） / www.nature.com/articles/s41598-021-94505-w.pdf→返回网页非 PDF / europepmc.org/articles/PMC8298410/pdf",
+      "last_tried": 1795100195.5945127,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1038/s41598-021-95744-7",
+      "title": "Publisher Correction: Caste development and sex ratio of the Ryukyu drywood termite Neotermes sugioi and its potential mechanisms",
+      "year": 2021,
+      "venue": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "cited_by": 0,
+      "landing": "https://www.nature.com/articles/s41598-021-95744-7.pdf",
+      "reason": "blocked",
+      "hosts": [
+        "doaj.org",
+        "pmc.ncbi.nlm.nih.gov",
+        "www.ebi.ac.uk",
+        "www.nature.com"
+      ],
+      "tried": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8339056/fullTextXML",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8339056/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8339056/pdf/41598_2021_Article_95744.pdf",
+        "https://doaj.org/article/937ac648839249a681f7d1a8c40757b0",
+        "https://www.nature.com/articles/s41598-021-95744-7.pdf"
+      ],
+      "last_result": "www.ebi.ac.uk/europepmc/webservices/rest/PMC8339056/fullTextXML→超时/网络异常 / pmc.ncbi.nlm.nih.gov/articles/PMC8339056/→HTML 页面→找到 PDF 地址 / pmc.ncbi.nlm.nih.gov/articles/PMC8339056/pdf/41598_2021_Article_95744.→返回网页非 PDF / doaj.org/article/937ac648839249a681f7d1a8c40757b0→落地页无 PDF 地址（403） / www.nature.c",
+      "last_tried": 1795100304.3318012,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.4938.1.9",
+      "title": "Cryptotermes camelus (Isoptera: Kalotermitidae), a new drywood termite species from the Bolivian Chaco",
+      "year": 2021,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4938.1.9/65503",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "www.biotaxa.org"
+      ],
+      "tried": [
+        "https://doi.org/10.15468/nafs5v",
+        "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4938.1.9/65503"
+      ],
+      "last_result": "doi.org/10.15468/nafs5v→落地页无 PDF 地址（403） / www.biotaxa.org/Zootaxa/article/download/zootaxa.4938.1.9/65503→返回网页非 PDF",
+      "last_tried": 1795099738.390176,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1017/s0007485315000097",
+      "title": "Molecular characterization and phylogeny ofKalotermespopulations from the Levant, and description ofKalotermes phoeniciaesp. nov.",
+      "year": 2015,
+      "venue": "Bulletin of Entomological Research",
+      "publisher": "Cambridge University Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1017/s0007485315000097",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "www.cambridge.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1017/s0007485315000097",
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8F2CFC64AEE5CD4419904A37A9047B8D/S0007485315000097a.pdf/div-class-title-molecular-characterization-and-phylogeny-of-em-class-italic-kalotermes-em-populations-from-the-levant-and-description-of-em-class-italic-kalotermes-phoeniciae-em-sp-nov-div.pdf"
+      ],
+      "last_result": "doi.org/10.1017/s0007485315000097→HTML 页面→找到 PDF 地址 / www.cambridge.org/core/services/aop-cambridge-core/content/view/8F2CFC→HTML 页面→找到 PDF 地址",
+      "last_tried": 1795100115.831738,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1007/s00040-013-0335-1",
+      "title": "Kalotermes sinaicus Kemner (Isoptera, Kalotermitidae): new morphological and genetic evidence, and assignment to the new genus Longicaputermes gen. nov",
+      "year": 2014,
+      "venue": "Insectes Sociaux",
+      "publisher": "Springer Nature",
+      "cited_by": 13,
+      "landing": "https://doi.org/10.1007/s00040-013-0335-1",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1007/s00040-013-0335-1"
+      ],
+      "last_result": "doi.org/10.1007/s00040-013-0335-1→落地页无 PDF 地址（200）",
+      "last_tried": 1795099468.1248913,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
       "doi": "10.1016/j.jprot.2019.103622",
       "title": "Proteomic-components provide insights into the defensive secretion in termite workers of the soldierless genus Ruptitermes",
       "year": 2019,
@@ -705,6 +963,406 @@
       "last_result": "hdl.handle.net/11449/207710→落地页无 PDF 地址（200）",
       "last_tried": 1794807981.556285,
       "first_seen": 1794808106.714615,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/00305316.2020.1844815",
+      "title": "A new species and a new record of Dicuspiditermes Krishna (Blattodea: Isoptera: Termitidae) from the Kerala part of Western Ghats, India",
+      "year": 2020,
+      "venue": "Oriental Insects",
+      "publisher": "Taylor & Francis",
+      "cited_by": 5,
+      "landing": "https://doi.org/10.1080/00305316.2020.1844815",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1080/00305316.2020.1844815"
+      ],
+      "last_result": "doi.org/10.1080/00305316.2020.1844815→落地页无 PDF 地址（403）",
+      "last_tried": 1795099130.7123268,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1016/j.jip.2013.06.006",
+      "title": "Multilamina teevani gen. et sp. nov., a microsporidian pathogen of the neotropical termite Uncitermes teevani",
+      "year": 2013,
+      "venue": "Journal of Invertebrate Pathology",
+      "publisher": "Elsevier BV",
+      "cited_by": 5,
+      "landing": "https://doi.org/10.1016/j.jip.2013.06.006",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1016/j.jip.2013.06.006"
+      ],
+      "last_result": "doi.org/10.1016/j.jip.2013.06.006→落地页无 PDF 地址（200）",
+      "last_tried": 1795099497.5076735,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.5194.1.7",
+      "title": "Dilacera, a new astonishing Amazonian genus of termitophilous rove beetle (Staphylinidae: Aleocharinae: Termitonannini) and updated checklist of the subtribe Termitonannina with their termite hosts",
+      "year": 2022,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 4,
+      "landing": "https://doi.org/10.48580/dgvbr.v4",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/dgvbr.v4"
+      ],
+      "last_result": "doi.org/10.48580/dgvbr.v4→落地页无 PDF 地址（403）",
+      "last_tried": 1795099018.4044223,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1007/s42690-024-01387-2",
+      "title": "A new species of an endemic termite Ampoulitermes zacharia sp.nov (Blattodea: Isoptera: Termitidae: Nasutitermitinae) from Idukki, Kerala, India",
+      "year": 2024,
+      "venue": "International Journal of Tropical Insect Science",
+      "publisher": "Springer Nature",
+      "cited_by": 3,
+      "landing": "https://doi.org/10.1007/s42690-024-01387-2",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1007/s42690-024-01387-2"
+      ],
+      "last_result": "doi.org/10.1007/s42690-024-01387-2→落地页无 PDF 地址（200）",
+      "last_tried": 1795098823.8539512,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.3869.5.2",
+      "title": "A taxonomic revision of the soil-feeding termite genus Anhangatermes (Isoptera: Termitidae: Nasutitermitinae)",
+      "year": 2014,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 1,
+      "landing": "https://doi.org/10.15468/dcucgu",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.15468/dcucgu"
+      ],
+      "last_result": "doi.org/10.15468/dcucgu→落地页无 PDF 地址（403）",
+      "last_tried": 1795099442.66226,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1163/15685411-bja10516",
+      "title": "Two new Poikilolaimus (Rhabditidae) species from Japan: P. yaeyamaensis n. sp. from Neotermes sugioi (Kalotermitidae) and P. alni n. sp. from Xenomimetes alni (Curculionidae)",
+      "year": 2026,
+      "venue": "Nematology",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://repository.ffpri.go.jp/records/2006865",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "repository.ffpri.go.jp"
+      ],
+      "tried": [
+        "https://repository.ffpri.go.jp/records/2006865"
+      ],
+      "last_result": "repository.ffpri.go.jp/records/2006865→落地页无 PDF 地址（200）",
+      "last_tried": 1795100349.012027,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.5787.1.6",
+      "title": "Two new termite species (Blattodea: Termitidae: Apicotermitinae and Mirocapritermitinae) from the Western Ghats, India",
+      "year": 2026,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "http://publication.plazi.org/id/7240FF824614FFE9085BFFFBA257FFE4",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "publication.plazi.org"
+      ],
+      "tried": [
+        "http://publication.plazi.org/id/7240FF824614FFE9085BFFFBA257FFE4"
+      ],
+      "last_result": "publication.plazi.org/id/7240FF824614FFE9085BFFFBA257FFE4→落地页无 PDF 地址（200）",
+      "last_tried": 1795098638.5254512,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.5814.4.3",
+      "title": "Mapinguaritermes marizalensis, a new species of Syntermitinae (Blattodea, Termitidae) from Brazilian Amazon",
+      "year": 2026,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "http://publication.plazi.org/id/5F2202754378D8314969FFB1F00A5B63",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "publication.plazi.org"
+      ],
+      "tried": [
+        "http://publication.plazi.org/id/5F2202754378D8314969FFB1F00A5B63"
+      ],
+      "last_result": "publication.plazi.org/id/5F2202754378D8314969FFB1F00A5B63→落地页无 PDF 地址（200）",
+      "last_tried": 1795098710.092439,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.5821.3.6",
+      "title": "Tiunatermes tapirape (Isoptera: Termitidae: Nasutitermitinae): description of a new species and the imago for the genus",
+      "year": 2026,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "http://publication.plazi.org/id/FFC3FF80FFA93A44FFF3FFD3A605FFCF",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "publication.plazi.org"
+      ],
+      "tried": [
+        "http://publication.plazi.org/id/FFC3FF80FFA93A44FFF3FFD3A605FFCF"
+      ],
+      "last_result": "publication.plazi.org/id/FFC3FF80FFA93A44FFF3FFD3A605FFCF→落地页无 PDF 地址（200）",
+      "last_tried": 1795098754.3966672,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.48311/jibs.12.03.537",
+      "title": "Description of a new species of soil-dwelling termites (Blattodea: Termitidae: Mirocapritermitinae) from the Indian subcontinent",
+      "year": 2026,
+      "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "publisher": "",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48311/jibs.12.03.537",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48311/jibs.12.03.537"
+      ],
+      "last_result": "doi.org/10.48311/jibs.12.03.537→落地页无 PDF 地址（None）",
+      "last_tried": 1795098724.2937598,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.5281/zenodo.21160162",
+      "title": "Speculitermes Wasmann 1902",
+      "year": 2026,
+      "venue": "",
+      "publisher": "",
+      "cited_by": 0,
+      "landing": "http://treatment.plazi.org/id/8E7987FA4615FFEB08CCF8D7A663FE6D",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "treatment.plazi.org"
+      ],
+      "tried": [
+        "http://treatment.plazi.org/id/8E7987FA4615FFEB08CCF8D7A663FE6D"
+      ],
+      "last_result": "treatment.plazi.org/id/8E7987FA4615FFEB08CCF8D7A663FE6D→落地页无 PDF 地址（200）",
+      "last_tried": 1795098731.4219768,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.5281/zenodo.21160168",
+      "title": "Speculitermes latalabrum Aiswarya and Amina 2026, sp. nov.",
+      "year": 2026,
+      "venue": "",
+      "publisher": "",
+      "cited_by": 0,
+      "landing": "http://treatment.plazi.org/id/8E7987FA4616FFED08CCFE34A6A8FF1D",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "treatment.plazi.org"
+      ],
+      "tried": [
+        "http://treatment.plazi.org/id/8E7987FA4616FFED08CCFE34A6A8FF1D"
+      ],
+      "last_result": "treatment.plazi.org/id/8E7987FA4616FFED08CCFE34A6A8FF1D→落地页无 PDF 地址（200）",
+      "last_tried": 1795098737.5708504,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.5281/zenodo.21160189",
+      "title": "Labiocapritermes ghatensis Aiswarya and Sudhikumar 2026, sp. nov.",
+      "year": 2026,
+      "venue": "",
+      "publisher": "",
+      "cited_by": 0,
+      "landing": "http://treatment.plazi.org/id/8E7987FA461CFFE408CCFF6CA062FD4D",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "treatment.plazi.org"
+      ],
+      "tried": [
+        "http://treatment.plazi.org/id/8E7987FA461CFFE408CCFF6CA062FD4D"
+      ],
+      "last_result": "treatment.plazi.org/id/8E7987FA461CFFE408CCFF6CA062FD4D→落地页无 PDF 地址（200）",
+      "last_tried": 1795098614.8110757,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.5281/zenodo.21180522",
+      "title": "Mapinguaritermes marizalensis Lucena, Cysneiros & Vasconcellos 2026, sp. nov.",
+      "year": 2026,
+      "venue": "",
+      "publisher": "",
+      "cited_by": 0,
+      "landing": "http://treatment.plazi.org/id/A31B7A0D437BD83649FEFC8DF2395DFE",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "treatment.plazi.org"
+      ],
+      "tried": [
+        "http://treatment.plazi.org/id/A31B7A0D437BD83649FEFC8DF2395DFE"
+      ],
+      "last_result": "treatment.plazi.org/id/A31B7A0D437BD83649FEFC8DF2395DFE→落地页无 PDF 地址（200）",
+      "last_tried": 1795098673.37524,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1007/s42690-023-01077-5",
+      "title": "A new species of termite, Prorhinotermes cotym (Blattodea: Isoptera: Rhinotermitidae: Prorhinotermitinae), from the Kerala part of the western ghats, India",
+      "year": 2023,
+      "venue": "International Journal of Tropical Insect Science",
+      "publisher": "Springer Nature",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1007/s42690-023-01077-5",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1007/s42690-023-01077-5"
+      ],
+      "last_result": "doi.org/10.1007/s42690-023-01077-5→落地页无 PDF 地址（200）",
+      "last_tried": 1795100375.9840744,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.5353.3.7",
+      "title": "Acorhinotermes murui sp. nov. (Blattodea: Isoptera: Rhinotermitidae:Rhinotermitinae), a new termite species from the Amazon basin",
+      "year": 2023,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/df6yk.v30",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/df6yk.v30"
+      ],
+      "last_result": "doi.org/10.48580/df6yk.v30→落地页无 PDF 地址（403）",
+      "last_tried": 1795098931.4699943,
+      "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/00305316.2022.2076262",
+      "title": "A new mandibulate termite Amitermes kavarattiensis sp. nov. (Blattodea: Isoptera: Termitidae) from Lakshadweep Island, India",
+      "year": 2022,
+      "venue": "Oriental Insects",
+      "publisher": "Taylor & Francis",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1080/00305316.2022.2076262",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1080/00305316.2022.2076262"
+      ],
+      "last_result": "doi.org/10.1080/00305316.2022.2076262→落地页无 PDF 地址（403）",
+      "last_tried": 1795099718.917777,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1079/cabicompendium.15296",
+      "title": "Coptotermes testaceus (subterranean termite)",
+      "year": 2021,
+      "venue": "CABI Compendium",
+      "publisher": "",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1079/cabicompendium.15296",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1079/cabicompendium.15296"
+      ],
+      "last_result": "doi.org/10.1079/cabicompendium.15296→落地页无 PDF 地址（403）",
+      "last_tried": 1795100359.2823484,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1007/s00040-020-00766-5",
+      "title": "Synchronization of alate emergence among colonies and dispersal strategy in the Ryukyu dry-wood termite Neotermes sugioi (Isoptera: Kalotermitidae)",
+      "year": 2020,
+      "venue": "Insectes Sociaux",
+      "publisher": "Springer Nature",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1007/s00040-020-00766-5",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1007/s00040-020-00766-5"
+      ],
+      "last_result": "doi.org/10.1007/s00040-020-00766-5→落地页无 PDF 地址（200）",
+      "last_tried": 1795100342.1423082,
+      "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.3990.4.9",
+      "title": "On the identity of Syntermes noiroti Krishna et al. 2013 (Isoptera: Termitidae: Syntermitinae)",
+      "year": 2015,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3nbg.v84",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3nbg.v84"
+      ],
+      "last_result": "doi.org/10.48580/d3nbg.v84→落地页无 PDF 地址（403）",
+      "last_tried": 1795100091.8758276,
+      "first_seen": 1795100409.5485091,
       "attempts": 1
     }
   ]

@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 490,
+    "count": 507,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-19T18:50:33+08:00",
+    "updated": "2026-11-19T23:07:39+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2501,7 +2501,7 @@
       ],
       "publisher": "European Journal of Taxonomy",
       "license": "CC BY 4.0",
-      "retrieved_via": "PyMuPDF text extraction from publisher PDF",
+      "retrieved_via": "文库（pdf-text）",
       "evidence": [
         {
           "quote": "The genus Isognathotermes is best and fully characterized by its worker’s EVA which takes two main forms and an intermediate form",
@@ -2523,9 +2523,29 @@
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/isognathotermes2025.json"
       ],
-      "accessed": "2026-11-07T03:35:27+08:00",
+      "accessed": "2026-11-19T22:47:31+08:00",
       "canonical_key": "doi:10.5852/ejt.2025.1024.3099",
-      "id": "S0025"
+      "id": "S0025",
+      "library": {
+        "book": "An-integrative-revision-of-the-genus-Isognathotermes-(Termitidae-Cubitermitinae)",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:47:31",
+        "chunks": [
+          {
+            "chunk": "0001-0197",
+            "txt": "_unpublished/文库/An-integrative-revision-of-the-genus-Isognathotermes-(Termitidae-Cubitermitinae)/0001-0197.txt",
+            "chars": 610088,
+            "paragraphs": 8600,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ejt_isognathotermes.pdf",
+            "sha256": "6f4fa238c61a245af305b7349a3e79764005985a0c19eeca60be47dfaccbe410",
+            "bytes": 623298
+          }
+        ]
+      },
+      "file_path": "_unpublished/文库/An-integrative-revision-of-the-genus-Isognathotermes-(Termitidae-Cubitermitinae)",
+      "chars": 610088,
+      "notes": "全文存于 _unpublished/文库/An-integrative-revision-of-the-genus-Isognathotermes-(Termitidae-Cubitermitinae)（197 页，610088 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。"
     },
     {
       "title": "A new termite species of the genus Dihoplotermes Araújo (Blattaria, Isoptera, Termitidae) from the Brazilian Amazonian rainforest",
@@ -26909,6 +26929,766 @@
         }
       ],
       "id": "S0491"
+    },
+    {
+      "title": "Termites (Blattodea: Isoptera) of India: An updated checklist",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.30550/j.azl/2013",
+      "file_path": "_unpublished/文库/10.30550-j.azl-2013",
+      "chars": 180801,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T22:33:31+08:00",
+      "notes": "全文存于 _unpublished/文库/10.30550-j.azl-2013（82 页，180801 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.30550-j.azl-2013",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:33:31",
+        "chunks": [
+          {
+            "chunk": "0001-0082",
+            "txt": "_unpublished/文库/10.30550-j.azl-2013/0001-0082.txt",
+            "chars": 180801,
+            "paragraphs": 4513,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "ac6b1821150a0d390555dd5e6cf9d4ba16b2103420b132295406a76669df8b9c",
+            "bytes": 180958
+          }
+        ]
+      },
+      "authors": [
+        "Aiswarya Pulikkal Muralidharan",
+        "Honey Sebastian",
+        "Ambalaparambil Vasu Sudhikumar"
+      ],
+      "year": 2025,
+      "publisher": "Fundacion Miguel Lillo",
+      "lang": "es",
+      "license": "cc-by-nc-nd",
+      "doi": "10.30550/j.azl/2013",
+      "url": "https://www.lillo.org.ar/journals/index.php/acta-zoologica-lilloana/article/download/2013/1980",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0492"
+    },
+    {
+      "title": "Termites (Isoptera) of Kerala: An updated checklist and comprehensive review of species diversity",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.33307/entomon.v49i4.1342",
+      "file_path": "_unpublished/文库/10.33307-entomon.v49i4.1342",
+      "chars": 56152,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T22:34:05+08:00",
+      "notes": "全文存于 _unpublished/文库/10.33307-entomon.v49i4.1342（12 页，56152 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.33307-entomon.v49i4.1342",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:34:05",
+        "chunks": [
+          {
+            "chunk": "0001-0012",
+            "txt": "_unpublished/文库/10.33307-entomon.v49i4.1342/0001-0012.txt",
+            "chars": 56152,
+            "paragraphs": 645,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "85de6668904a252d0072312b059e378cc4c33de156415407b667d0d9c3a6907b",
+            "bytes": 56286
+          }
+        ]
+      },
+      "authors": [
+        "A.S. Abhirami",
+        "Gopal Prasad"
+      ],
+      "year": 2024,
+      "publisher": "Association for Advancement of Entomology",
+      "lang": "en",
+      "license": "cc-by-sa",
+      "doi": "10.33307/entomon.v49i4.1342",
+      "url": "http://entomon.in/index.php/Entomon/article/download/1342/694",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0493"
+    },
+    {
+      "title": "Two new Incisitermes (Isoptera: Kalotermitidae) species from the Caribbean Basin, genetic relationships with other regional Incisitermes, and synonymy of Incisitermes tabogae with I. schwarzi",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11646/zootaxa.5428.3.6",
+      "file_path": "_unpublished/文库/10.11646-zootaxa.5428.3.6",
+      "chars": 41639,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T22:35:23+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.5428.3.6（13 页，41639 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.11646-zootaxa.5428.3.6",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:35:23",
+        "chunks": [
+          {
+            "chunk": "0001-0013",
+            "txt": "_unpublished/文库/10.11646-zootaxa.5428.3.6/0001-0013.txt",
+            "chars": 41639,
+            "paragraphs": 534,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "811dae13703e68565b77aaf41b2814b87b0d668ebe8d1ae2d723f3c25bcf6427",
+            "bytes": 42061
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "James W. Austin",
+        "Allen L. Szalanski"
+      ],
+      "year": 2024,
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "doi": "10.11646/zootaxa.5428.3.6",
+      "url": "https://mapress.com/zt/article/download/zootaxa.5428.3.6/53149",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0494"
+    },
+    {
+      "title": "Rugitermes ursulae (Isoptera, Kalotermitidae), a new drywood termite from the Caribbean coast of Colombia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.1057.65877",
+      "file_path": "_unpublished/文库/10.3897-zookeys.1057.65877",
+      "chars": 31847,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1057.65877（31847 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.1057.65877",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:37:53",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.1057.65877/full.txt",
+            "chars": 31847,
+            "paragraphs": 410,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "aa0a305962e11b0a0e35371fae65ca299d5c085a15837f2cd1057a4e47046742",
+            "bytes": 32067
+          }
+        ]
+      },
+      "authors": [
+        "Robin Casalla",
+        "Rudolf H. Scheffrahn",
+        "Judith Korb"
+      ],
+      "year": 2021,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.1057.65877",
+      "url": "https://doi.org/10.3897/zookeys.1057.65877",
+      "used_in": [
+        "_data/morphology_species/rugitermes/rugitermes-ursulae.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The soldier of R.ursulae sp. nov. is the smallest of all congeneric soldiers (Fig. 2). The size of the head is remarkably small (Tables 1, 2). The pronotum width is almost twice its length, for both imago and soldier. Antennal sockets are pronounced, protruded, and rectangular in the soldier.",
+          "locator": "Diagnosis",
+          "note": "支撑：rugitermes-ursulae 兵蚁鉴别要点与量度表"
+        }
+      ],
+      "id": "S0495"
+    },
+    {
+      "title": "Three new species of Rugitermes (Isoptera, Kalotermitidae) from Peru and Bolivia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.1000.59219",
+      "file_path": "_unpublished/文库/10.3897-zookeys.1000.59219",
+      "chars": 25354,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1000.59219（25354 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.1000.59219",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:39:39",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.1000.59219/full.txt",
+            "chars": 25354,
+            "paragraphs": 395,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "73528b25e7f6db62297fa3b95d089ae3506e5b298f558d4430fa5fb457a1bf81",
+            "bytes": 25502
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "Tiago F. Carrijo"
+      ],
+      "year": 2020,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.1000.59219",
+      "url": "https://doi.org/10.3897/zookeys.1000.59219",
+      "used_in": [
+        "_data/morphology_species/rugitermes/rugitermes-aridus.json",
+        "_data/morphology_species/rugitermes/rugitermes-rufus.json",
+        "_data/morphology_species/rugitermes/rugitermes-volcanensis.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The R. aridus soldier is much smaller than that of R. laticollis. The antennal carinae and anterolateral ridges of the R. aridus soldier are smoothly rounded, modestly sclerotized, and appear polished; while these structures in R. rufus and R. volcanensis are more angular, darkly sclerotized, and rugose.",
+          "locator": "Diagnosis（R. aridus）",
+          "note": "支撑：rugitermes-aridus / -rufus / -volcanensis 三种的鉴别要点与兵蚁量度"
+        }
+      ],
+      "id": "S0496"
+    },
+    {
+      "title": "Rugitermes tinto: A new termite (Isoptera, Kalotermitidae) from the Andean region of Colombia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.963.55843",
+      "file_path": "_unpublished/文库/10.3897-zookeys.963.55843",
+      "chars": 16060,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.963.55843（8 页，16060 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（html-meta PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.963.55843",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:41:11",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/10.3897-zookeys.963.55843/0001-0008.txt",
+            "chars": 16060,
+            "paragraphs": 260,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "1626314a90b561b488d21ef4e849716038e50ad0b9595186f418a33991dee1bb",
+            "bytes": 16183
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "Olga Pinzón-Florián"
+      ],
+      "year": 2020,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.963.55843",
+      "url": "https://doi.org/10.3897/zookeys.963.55843",
+      "used_in": [
+        "_data/morphology_species/rugitermes/rugitermes-tinto.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The soldier of R. tinto is the only non-phragmotic kalotermitid worldwide with dark coloration of the anterior head capsule. Aside from head color, it differs from congeneric soldiers in that the anterolateral corners of the frontal ridges project to form acute angles.",
+          "locator": "Diagnosis",
+          "note": "支撑：rugitermes-tinto 鉴别要点、兵蚁与有翅成虫描述及量度"
+        }
+      ],
+      "id": "S0497"
+    },
+    {
+      "title": "Rhynchotermes armatus, a new mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Colombia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.892.38743",
+      "file_path": "_unpublished/文库/10.3897-zookeys.892.38743",
+      "chars": 13878,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.892.38743（13878 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.892.38743",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:41:21",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.892.38743/full.txt",
+            "chars": 13878,
+            "paragraphs": 203,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "76921f3ef9b7dfdd85b8720dd57a09373e3fd15fd4dc55eafa04a88a8f437a3c",
+            "bytes": 13952
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2019,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.892.38743",
+      "url": "https://doi.org/10.3897/zookeys.892.38743",
+      "used_in": [
+        "_data/morphology_species/rhynchotermes/rhynchotermes-armatus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Description. The revised description of the genus Rhynchotermes by Constantini and Cancello (2016) includes all characters found in R. armatus. Imago. Unknown. Soldier (Figs 1, 3; Table 1). Monomorphic. Head capsule, nasus, and mandible bases straw yellow; apical and marginal teeth yellow-brown.",
+          "locator": "Description",
+          "note": "支撑：rhynchotermes-armatus 兵蚁与工蚁描述、量度表 1–2"
+        }
+      ],
+      "id": "S0498"
+    },
+    {
+      "title": "Anenteotermes cherubimi sp. n., a tiny dehiscent termite from Central Africa (Termitidae: Apicotermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.793.28342",
+      "file_path": "_unpublished/文库/10.3897-zookeys.793.28342",
+      "chars": 11981,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.793.28342（11981 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.793.28342",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:41:27",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.793.28342/full.txt",
+            "chars": 11981,
+            "paragraphs": 138,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "b906f2bf71a28d491fae1625066dbbcfd5d4be82ac633be8391b58b0d9859945",
+            "bytes": 12043
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "Yves Roisin"
+      ],
+      "year": 2018,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.793.28342",
+      "url": "https://doi.org/10.3897/zookeys.793.28342",
+      "used_in": [
+        "_data/morphology_species/anenteotermes/anenteotermes-cherubimi.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Anenteotermescherubimi is the smallest soldierless termite worker in Africa (head width, HW), followed by Acidnotermespraus (0.52 mm HW) and An.nanus (0.56 mm HW). The EVA of A.cherubimi is very diagnostic and unlike that of any other termite species in having two broad and symmetrical pectinate paddles",
+          "locator": "Diagnosis",
+          "note": "支撑：anenteotermes-cherubimi 鉴别要点、工蚁与有翅成虫描述；原文种名在抽取文本中连写"
+        }
+      ],
+      "id": "S0499"
+    },
+    {
+      "title": "A New Cryptotermes (Blattodea (Isoptera): Kalotermitidae) from Honduras and Known Distribution of New World Cryptotermes Species",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1653/024.101.0403",
+      "file_path": "_unpublished/文库/10.1653-024.101.0403",
+      "chars": 31174,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T22:41:45+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1653-024.101.0403（7 页，31174 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1653-024.101.0403",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:41:45",
+        "chunks": [
+          {
+            "chunk": "0001-0007",
+            "txt": "_unpublished/文库/10.1653-024.101.0403/0001-0007.txt",
+            "chars": 31174,
+            "paragraphs": 331,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "279a24d5e3d58c6b14a7799081c039c224f687474b46921d02891f3d38d533fe",
+            "bytes": 31393
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2018,
+      "publisher": "Walter de Gruyter GmbH",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.1653/024.101.0403",
+      "url": "https://bioone.org/journals/florida-entomologist/volume-101/issue-4/024.101.0403/A-New-Cryptotermes-Blattodea-Isoptera--Kalotermitidae-from-Honduras-and/10.1653/024.101.0403.pdf",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0500"
+    },
+    {
+      "title": "New records of termites (Blattodea: Termitidae: Syntermitinae) from Colombia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11609/jott.3909.10.9.12218-12225",
+      "file_path": "_unpublished/文库/10.11609-jott.3909.10.9.12218-12225",
+      "chars": 43449,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T22:42:53+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11609-jott.3909.10.9.12218-12225（10 页，43449 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.11609-jott.3909.10.9.12218-12225",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:42:53",
+        "chunks": [
+          {
+            "chunk": "0001-0010",
+            "txt": "_unpublished/文库/10.11609-jott.3909.10.9.12218-12225/0001-0010.txt",
+            "chars": 43449,
+            "paragraphs": 491,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "8799998f923ecb62e7bd0d651911c50befc6c78cc69f20ee40d328f951165291",
+            "bytes": 43771
+          }
+        ]
+      },
+      "authors": [
+        "Olga Patricia Pinzón",
+        "Daniel Castro"
+      ],
+      "year": 2018,
+      "publisher": "Wildlife Information Liaison Development Society",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.11609/jott.3909.10.9.12218-12225",
+      "url": "https://threatenedtaxa.org/index.php/JoTT/article/download/3909/4585",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0501"
+    },
+    {
+      "title": "Uncitermes almeriae, a new termite species from Amazonia (Isoptera, Termitidae, Syntermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.595.8626",
+      "file_path": "_unpublished/文库/10.3897-zookeys.595.8626",
+      "chars": 9836,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.595.8626（9836 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.595.8626",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:43:47",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.595.8626/full.txt",
+            "chars": 9836,
+            "paragraphs": 79,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "60b315c970561741e0e7e900c3f969ccea917f32e19b2268a616ec3136da0972",
+            "bytes": 9889
+          }
+        ]
+      },
+      "authors": [
+        "Tiago F. Carrijo",
+        "Joice Paulo Constantini",
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2016,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.595.8626",
+      "url": "https://doi.org/10.3897/zookeys.595.8626",
+      "used_in": [
+        "_data/morphology_species/uncitermes/uncitermes-almeriae.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Comparisons. The soldier of Uncitermes almeriae sp. n. has short bristles covering all the head capsule and frontal tube, while Uncitermes teevani has only sparse long bristles on head capsule and the frontal tube is glabrous.",
+          "locator": "Comparisons",
+          "note": "支撑：uncitermes-almeriae 鉴别要点与兵蚁/工蚁量度"
+        }
+      ],
+      "id": "S0502"
+    },
+    {
+      "title": "﻿Cryptotermes pugnus (Blattodea, Isoptera, Kalotermitidae), a new drywood termite species from the Brazilian Caatinga dry forest and key to South American Cryptotermes Banks, 1909",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.1182.108243",
+      "file_path": "_unpublished/文库/10.3897-zookeys.1182.108243",
+      "chars": 16596,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1182.108243（16596 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.1182.108243",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:52:47",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.1182.108243/full.txt",
+            "chars": 16596,
+            "paragraphs": 173,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "f6691f63120812846b6a6b2e112de64f95fe921eeae26f84b77e29c166153c9e",
+            "bytes": 16730
+          }
+        ]
+      },
+      "year": 2023,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.1182.108243",
+      "url": "https://zookeys.pensoft.net/article/108243/download/pdf/",
+      "used_in": [
+        "_data/morphology_species/cryptotermes/cryptotermes-pugnus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Description. Imago (Fig. 1A–D). Head capsule and pronotum pale yellow brown. Compound eye obtusely triangular; ocellus light yellow, about half diameter of eye, roundly ellipsoid, and touching eye margin.",
+          "locator": "Description",
+          "note": "支撑：cryptotermes-pugnus 有翅成虫与兵蚁描述、量度"
+        }
+      ],
+      "id": "S0503",
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "Alexandre Vasconcellos"
+      ]
+    },
+    {
+      "title": "A new species of open-air processional column termite, Hospitalitermes nigriantennalis sp. n. (Termitidae), from Borneo",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.554.6306",
+      "file_path": "_unpublished/文库/10.3897-zookeys.554.6306",
+      "chars": 15442,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.554.6306（15442 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.554.6306",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:53:15",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.554.6306/full.txt",
+            "chars": 15442,
+            "paragraphs": 123,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "75fbbef4685b28f159321b48bc008906ed8e053cdaab4b71b41cb0ea4f46a255",
+            "bytes": 15524
+          }
+        ]
+      },
+      "year": 2016,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.554.6306",
+      "url": "https://doi.org/10.3897/zookeys.554.6306",
+      "used_in": [
+        "_data/morphology_species/hospitalitermes/hospitalitermes-nigriantennalis.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Description. Imago. Unknown. Soldier (Figs 1–5). Head capsule pale brown to orange with yellowish vertex and dark brown nasus; nasus paler in basal part and darker in apical part; antenna uniformly blackish, contrasting with head capsule.",
+          "locator": "Description",
+          "note": "支撑：hospitalitermes-nigriantennalis 兵蚁与大工蚁描述、表 1 量度"
+        }
+      ],
+      "id": "S0504",
+      "authors": [
+        "Syaukani Syaukani",
+        "Graham J. Thompson",
+        "Herbert Zettel",
+        "Teguh Pribadi"
+      ]
+    },
+    {
+      "title": "Hospitalitermes krishnai, a new nasute termite (Nasutitermitinae, Termitidae, Isoptera), from southern Sumatra, Indonesia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.148.1768",
+      "file_path": "_unpublished/文库/10.3897-zookeys.148.1768",
+      "chars": 15897,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T22:53:22+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.148.1768（15897 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.148.1768",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:53:22",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.148.1768/full.txt",
+            "chars": 15897,
+            "paragraphs": 94,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "7ff7b32f4f6ca39d3fd3df83c4406c24f9b84a99dd1fcafd6b14460dc6e5bb5f",
+            "bytes": 15927
+          }
+        ]
+      },
+      "year": 2011,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.148.1768",
+      "url": "https://doi.org/10.3897/zookeys.148.1768",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0505"
+    },
+    {
+      "title": "Neotermes costaseca: a new termite from the coastal desert of Peru and the redescription of N. chilensis (Isoptera, Kalotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.811.30809",
+      "file_path": "_unpublished/文库/10.3897-zookeys.811.30809",
+      "chars": 17039,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T23:07:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3897-zookeys.811.30809（17039 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（zenodo XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.3897-zookeys.811.30809",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:55:25",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3897-zookeys.811.30809/full.txt",
+            "chars": 17039,
+            "paragraphs": 215,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "4b172b6bbb0415b040672b10b15becca1beaf62f28708898d43374ac47efe156",
+            "bytes": 17251
+          }
+        ]
+      },
+      "year": 2018,
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.3897/zookeys.811.30809",
+      "url": "https://doi.org/10.3897/zookeys.811.30809",
+      "used_in": [
+        "_data/morphology_species/neotermes/neotermes-costaseca.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The imago of N.costaseca has larger eyes and ocelli than N.chilensis and the former possesses arolia. The soldier mandible of N.chilensis has much more pronounced basal humps than N.costaseca and the former has more protruding genal horns.",
+          "locator": "Diagnosis",
+          "note": "支撑：neotermes-costaseca 有翅成虫与兵蚁描述、表 1–2 量度"
+        }
+      ],
+      "id": "S0506",
+      "authors": [
+        "Rudolf H. Scheffrahn"
+      ]
+    },
+    {
+      "title": "Male‐specific alleles in the Ryukyu drywood termite Neotermes sugioi",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1002/ece3.6671",
+      "file_path": "_unpublished/文库/10.1002-ece3.6671",
+      "chars": 17369,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-19T22:57:09+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1002-ece3.6671（17369 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1002-ece3.6671",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T22:57:09",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1002-ece3.6671/full.txt",
+            "chars": 17369,
+            "paragraphs": 136,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "35dd4f55e215f94c5907f8f73a0163e69fef476a96d13d35d9a76d3f39d69ee4",
+            "bytes": 17574
+          }
+        ]
+      },
+      "year": 2020,
+      "publisher": "Wiley",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.1002/ece3.6671",
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.6671",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0507"
+    },
+    {
+      "title": "FIRST RECORD OF THE SUBTERRANEAN TERMITE RETICULITERMES AEGEUS IN ITALY: AN UNEXPECTED FINDING IN A PUBLIC PARK IN VENICE",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.19263/redia-108.25.29",
+      "file_path": "_unpublished/文库/10.19263-redia-108.25.29",
+      "chars": 14583,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-19T23:00:09+08:00",
+      "notes": "全文存于 _unpublished/文库/10.19263-redia-108.25.29（4 页，14583 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.19263-redia-108.25.29",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-19T23:00:09",
+        "chunks": [
+          {
+            "chunk": "0001-0004",
+            "txt": "_unpublished/文库/10.19263-redia-108.25.29/0001-0004.txt",
+            "chars": 14583,
+            "paragraphs": 152,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+            "sha256": "7b45fb74d6efb4511b75ba8d22f221f150c4887c58d92456cc1429a96c566dc3",
+            "bytes": 14716
+          }
+        ]
+      },
+      "year": 2025,
+      "publisher": "CREA - DC",
+      "lang": "en",
+      "doi": "10.19263/redia-108.25.29",
+      "url": "https://doi.org/10.19263/redia-108.25.29",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0508"
     }
   ]
 }

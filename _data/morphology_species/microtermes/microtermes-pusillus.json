@@ -1,0 +1,21 @@
+{
+ "zh_name": "极小小白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头黄色，卵形、近长方形，两侧略圆，密被相当长的毛；触角 12 节，第 3 节与第 4 节等长，第 2 节较长；上唇长度超过上颚长之半；囟不明显；前胸背板前缘明显凹缺。量度（mm）：头长 1.27—1.29，头宽 0.63—0.67，前胸背板长 0.28、宽 0.42，后足胫节长 0.51，左上颚长 0.50。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 12 节，第 3 节有分裂的迹象；头宽 0.72—0.78 mm，后足胫节长 0.44 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；兵蚁与工蚁均有性状与量度，无有翅成虫；种加词 OCR 作「pusiilus」，应为 pusillus；异名、图号、产地与 Termitaria 寄生物记录未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

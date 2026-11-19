@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original states that this subspecies is best identified by mitochondrial genome sequences; soldiers and workers cannot be distinguished from the other three subspecies. The alate is close to the nominotypical subspecies (I. u. ugandensis), on average slightly larger with generally smaller compound eyes (scored as ugbu in the principal component analysis); IEyD/IHdW = 0.24—0.28, versus 0.25—0.34 in the nominotypical subspecies. Alate measurements (Table 17, n=5): IEyD 0.39—0.46 mm, IHdW 1.62—1.72 mm, IMlAmD 0.20—0.23 mm, IOcD 0.15—0.18 mm, IPcW 0.77—0.86 mm, IPnW 1.41—1.55 mm, IT3L 1.98—2.12 mm, IWgL 15.6—17.5 mm, IMlAmD/IMlmmD = 1.02—1.34."
+  },
+  {
+   "label": "Alate",
+   "text": "Coloration, setae and structure essentially as in the species-level description of I. ugandensis (head capsule C6—C8, frontal gland pore nearly concolorous with the head capsule, pronotum C5—C7, wings transparent with a brown-grey tinge, tergites C6—C7; head capsule with a dense felt of short fine hairs and conspicuous setae, fore coxa with 7—12 strong setae on the ridge, tibiae with 15—30 spines and tibial spur formula 3/2/2; compound eyes oval, ocelli short to medium-oval, antennae 16-segmented, labrum domed, left mandible apical tooth medium to small and more prominent than the first marginal tooth, 3 marginal teeth, right mandible with 2 marginal teeth, pronotum flat to very weakly saddle-shaped, fore coxa ridged, wings with R1 fused to the margin, Rs single, M with 2—5 and Cu with 9—12 branches). Alate measurements of this subspecies (Table 17, n=5): IEyD 0.39—0.46 mm, IHdW 1.62—1.72 mm, IOcD 0.15—0.18 mm, IPnW 1.41—1.55 mm, IWgL 15.6—17.5 mm, IEyD/IHdW = 0.24—0.28. The alate of this subspecies is on average the second smallest of the four subspecies (ugbu in the PCA); compared with the nominotypical subspecies it is slightly larger in body size and has slightly smaller compound eyes."
+  },
+  {
+   "label": "Soldier",
+   "text": "The original does not describe the soldier of this subspecies separately; the morphology is that of the species-level description of I. ugandensis: head capsule generally distinctly inflated, left mandible slightly curved to nearly straight and distinctly less curved than the right (SMlc/SMrc = 0.68—1.02), head length SHdL 2.73—3.72 mm, head width SHdW 1.86—2.37 mm, left mandible ventral length SMlL 2.15—2.74 mm, mandible minor curvature SMlc 0.12—0.27 mm (measurements for the whole species, Table 16); soldiers cannot be distinguished among the four subspecies."
+  },
+  {
+   "label": "Worker",
+   "text": "The original does not describe the worker of this subspecies separately; the morphology is that of the species-level description of I. ugandensis: enteric valve of the fungifaber type (about 6% of specimens intermediate between fungifaber and finitimus), the enteric valve on average slightly larger than in I. minitabundus, the odd primary cushion about 16% longer than the even ones, the crest generally absent or very weak; head width WHdW 1.11—1.42 mm, mean length of enteric valve primary cushions 0.62—0.85 mm, width 0.06—0.12 mm, mean length of secondary cushions 0.55—0.73 mm, width 0.30—0.45 mm, odd primary cushion elongation index 5.57—12.1 (measurements for the whole species, Table 16); workers cannot be distinguished among the four subspecies."
+  }
+ ],
+ "note": "Adapted from the genus revision in Josens et al. (2025), original in English; the original treats this taxon as a subspecies (I. ugandensis is divided into four subspecies on alate body size and compound eye and ocellus dimensions, molecular data still scarce); the original does not describe the soldier and worker of each subspecies separately but refers to the species-level description; measurements from Table 17 and the text of the original; distribution, hosts, DNA and figure numbers are not translated."
+}

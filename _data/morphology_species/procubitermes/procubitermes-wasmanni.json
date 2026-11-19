@@ -1,0 +1,21 @@
+{
+ "zh_name": "沃斯曼原方白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头深红褐色，每根毛着生处有浅色细点；卵形；囟点缝状，浅色。触角 15 节，第 3 节略短于第 4 节，第 4 节短于第 2 节。复眼中等大，不甚突出。单眼长 0.12 mm，卵形，距复眼 0.05 mm。后唇基比头略浅，中线极淡。前胸背板与后唇基同色，后缘凹。中胸与后胸背板后缘凹，所成角近直角。翅烟色，各脉均明显。体连翅长 11.50 mm；体长（去翅）7.30—7.70 mm；头长 1.15 mm；头宽 1.06 mm；触角长 1.55 mm；复眼直径 0.30 mm；前胸背板长 0.51 mm、宽 0.89 mm；后胫节长 0.95 mm；前翅长 9.86 mm、宽 2.25 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头红黄色，额部略深；头矩形，短，两侧直而平行；侧视额部近垂直，与头盖相接处形成相当锐的角；下颏中部有明显突起。上唇刻入相当深，具两个略尖的突起。上颚弯曲不甚强，各具一个小基齿。前胸背板前缘略凹。头连上颚长 2.60 mm；头宽 1.10 mm；触角长 2.00 mm；前胸背板长 0.25 mm、宽 0.55 mm；后胫节长 0.89 mm；左上颚长 1.50 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；原文标题作 Mirotermes (Procubitermes) wasmanni, new species，Procubitermes 今为属；记有有翅成虫与兵蚁，未记工蚁；与 M. sjostedti、M. cristifrons、M. lamanianus 等的比较段未译；图号与产地未译。OCR 残缺：单眼量度 “. 12 long”“.05 from the eyes” 缺单位，按 0.12 mm、0.05 mm 录入；兵蚁前胸背板宽一行作 “Width of pronotum— v .0.55”。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

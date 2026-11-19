@@ -1,0 +1,21 @@
+{
+ "zh_name": "乌干达蛇白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 M. mirandus 很近，区别在前胸背板与上颚的形状：M. mirandus 的上唇比例上更短、切口更深，上颚在距基部约三分之二处弯折且更直，而本种的上颚在中部弯折；本种上颚内缘的外半段比 M. mandibularis 与 M. mirandus 都更直。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡黄色，长方形；两侧平直且平行；后缘略圆；前面垂直。触角 14 或 15 节；14 节时第 2、3 节约等长，第 4 节短于第 3 节；15 节时第 3 节略短于第 4 节，第 4 节短于第 2 节。上唇两叶，两侧平直且平行。上颚长，中部向外弯；端部向内弯，每侧上颚内缘自基部至弯折处的中途有一小齿。鼻端钝，围以短毛，与 Cubitermes s. str. 相似。前胸背板两侧平直，向后明显收窄；后缘略凹缺。腹节背板被短毛，后缘有较长的刚毛；腹板有长毛。量度（mm）：全长 6.00—7.00，头连上颚长 4.00，头至唇端长 2.30，头宽 1.44，触角长 2.44，前胸背板宽 0.89，后足胫节长 1.00，左上颚长 2.40—2.50。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；仅兵蚁有描述，未记工蚁与有翅成虫；描述基于 2 头兵蚁（与 Mirotermes (Cubitermes) antennalis 同瓶）；原文「tHe fourth」为 OCR 讹写；异名、图号与产地未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}
