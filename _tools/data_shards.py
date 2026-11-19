@@ -31,8 +31,11 @@ spelling cannot be recovered from the slugified filename, so the file keeps its 
 Usage:
     python _tools/data_shards.py --status
     python _tools/data_shards.py --save-originals
-    python _tools/data_shards.py --split-all [--keep-aggregates]
+    python _tools/data_shards.py --split-all
     python _tools/data_shards.py --verify-all
+
+修复「聚合文件回潮」（定时工作流用旧脚本提交的 `_data/<name>.json` 与分片目录并存）：
+    python _tools/data_shards.py --adopt papers        # 拆分 → 校验 → 删聚合，一条命令
 """
 import argparse
 import json
@@ -477,10 +480,37 @@ def save_originals():
     print("saved %d originals to _tmp/shard_orig/" % n)
 
 
+def adopt(names):
+    """把一个「回潮」的聚合文件收编为分片：存档 → 拆分 → 校验 → 删除聚合。
+
+    定时工作流用旧脚本提交的聚合文件与拆分后的目录合并后，会同时留下
+    `_data/<name>.json` 与 `_data/<name>/`；check_site 会报错。用本命令一条
+    命令修复，校验不过则保留聚合文件、退出码 1。
+    """
+    os.makedirs(ORIG, exist_ok=True)
+    bad = 0
+    for name in names:
+        src = agg_path(name)
+        if not os.path.exists(src):
+            print("%-22s no aggregate (%d shard files)" % (name, count_shards(name)))
+            continue
+        shutil.copy2(src, os.path.join(ORIG, name + ".json"))
+        split(name)
+        r = verify(name)
+        if r != "OK":
+            bad += 1
+            print("%-22s VERIFY FAILED (%s) — aggregate kept" % (name, r))
+            continue
+        os.remove(src)
+        print("%-22s adopted %d shard files from %s.json" % (name, count_shards(name), name))
+    return 1 if bad else 0
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--status", action="store_true")
     ap.add_argument("--save-originals", action="store_true")
+    ap.add_argument("--adopt", nargs="*")
     ap.add_argument("--split", nargs="*")
     ap.add_argument("--split-all", action="store_true")
     ap.add_argument("--verify", nargs="*")
@@ -493,6 +523,8 @@ def main():
         return save_originals()
     if args.drop_aggregates:
         return drop_aggregates()
+    if args.adopt is not None:
+        return adopt(ALL if not args.adopt else args.adopt)
     if args.split_all or args.split:
         names = ALL if args.split_all else args.split
         for name in names:

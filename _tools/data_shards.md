@@ -78,3 +78,22 @@ Python（`_tools/`）：读分片用 `_tools/data_shards.py` 的 `merge(name)`�
 - `species_by_genus.json` / `species_by_family.json` / `species_by_subfamily.json`（索引表）
 - `occurrence_summary.json`、`name_issues.json`、`changelog.json`、`references.json`（列表/派生）
 - `taxonomy.json`、`i18n.yml`、各类 `< 200 KB` 的配置与缓存
+
+## 5. 聚合文件回潮的修复
+
+定时工作流（`papers_refresh.yml`、`species_photos_crawl.yml`）在某次运行里用的是拆分前的
+旧脚本，就会重新提交 `_data/<name>.json`；与拆分提交合并后，数据目录同时存在
+`_data/<name>.json` 与 `_data/<name>/`，`check_site.py` 会报「聚合文件已拆分，不应再存在」，
+`pages.yml` 的结构检查随即失败。
+
+一条命令收编（以回潮文件的**新内容**为准重建分片，校验通过才删聚合）：
+
+    python _tools/data_shards.py --adopt papers
+    python _tools/data_shards.py --status        # 该数据集应回到 state=shards
+
+全量检查有无回潮：
+
+    python _tools/data_shards.py --status | grep -v ' shards$'
+
+`--adopt` 不做联网抓取：它只是把已经下载好的聚合内容重新拆开，所以 `meta.generated`
+沿用聚合文件里的时间戳，不会造成一次假刷新。
