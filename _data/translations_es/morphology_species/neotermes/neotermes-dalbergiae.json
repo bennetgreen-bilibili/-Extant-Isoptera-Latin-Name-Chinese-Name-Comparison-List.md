@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir del tratamiento específico de Roonwal & Maiti (1966). En el paquete de fuentes esta especie solo tiene la tabla de medidas, el registro de material, la distribución y las Remarks de 1 alado; no hay texto de descripción morfológica, por lo que esta entrada tiene solo una sección de medidas y una de caracteres diagnósticos. La tabla de medidas del soldado en el paquete de fuentes tiene la columna de valores destruida por el OCR (toda la columna es ilegible) y no se incluye. Ejemplares: 1 frasco (No. 12), 4 soldados y 1 alado, recolectados por F. R. I. Bogor, 11/7/1952 (día/mes/año), en un bosque de teca en Pare, Java Oriental; distribución solo Java, Indonesia (Banjoemas, Kedoe, Bandjar, Pare).",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El único alado registrado aquí es más pequeño que los ejemplares registrados por Roonwal y Sen-Sarma (1960): longitud del cuerpo (sin alas) 6.9 mm (9.5—11.5 mm en estos últimos), anchura máxima de la cabeza (con los ojos compuestos) 1.40 mm (1.7—2.0 mm en estos últimos), etc."
+  },
+  {
+   "label": "Alado",
+   "text": "Medidas (1 ejemplar): longitud del cuerpo (con alas) aproximadamente 13.0; longitud del cuerpo (sin alas) aproximadamente 6.9; longitud de la cabeza (hasta la base lateral de la mandíbula) 1.30; anchura máxima de la cabeza (con los ojos compuestos) 1.40; diámetro máximo del ojo compuesto (con la placa ocular) 0.51; diámetro máximo del ocelo lateral 0.25; distancia mínima entre el ojo compuesto y el ocelo 0; longitud del pronoto 0.75; anchura máxima del pronoto 1.70; longitud del ala anterior (con la escama alar) 11.50; longitud del ala posterior (con la escama alar) 10.60 mm; número de artejos antenales [16, antena rota] (la especie tiene normalmente 19—20)."
+  }
+ ]
+}

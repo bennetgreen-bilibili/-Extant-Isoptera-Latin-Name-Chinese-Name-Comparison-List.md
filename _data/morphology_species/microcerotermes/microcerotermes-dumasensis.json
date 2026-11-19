@@ -1,0 +1,21 @@
+{
+  "zh_name": "杜马斯锯白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头壳淡褐，上颚暗褐。体长 5.29—5.44 mm；头连上颚长 1.81—2.94 mm，不连上颚长 1.75—1.88 mm，头最大宽 0.94—1.06 mm。触角 13 节，第 1 节最长，第 3 节最短，末节（第 13 节）卵形。上颚粗壮；左右上颚最大长 1.0—1.06 mm。前胸背板鞍状，长 0.38—0.44 mm，宽 0.66—0.69 mm。足被毛，胫节距 3:2:2；中足胫节另有 2 根刺。腹部延长，尾须 2 节。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头壳乳黄，密被毛，近方形。体长 4.48—4.59 mm。头长（至上颚侧基）0.98—1.05 mm，头最大宽 0.77—0.84 mm。触角 13 节、被毛，第 1 节最长，第 3 节最短，末节（第 13 节）卵形。上颚具 1 枚端齿与 2 枚缘齿，并有基突。前胸背板鞍状，前缘凸、中央具弱缺刻。足被毛；胫节距 3:2:2。腹部延长、被毛，尾须 2 节。"
+    }
+  ],
+  "note": "描述出自《State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera》中「25. Microcerotermes dumasensis Thakur」条目的 Diagnostic characters，含兵蚁与工蚁两品级；分布仅记模式产地 Gujarat: Dumas。兵蚁「头连上颚长 1.81—2.94 mm」上限与其「不连上颚长 1.75—1.88 mm」不相称，疑 OCR 误读，照录原文未改。",
+  "sources": [
+    {
+      "id": "S0739",
+      "citation": "State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera（Zoological Survey of India；dli.zoological.sfs.043）",
+      "locator": "Microcerotermes dumasensis 条目，Diagnostic characters"
+    }
+  ]
+}

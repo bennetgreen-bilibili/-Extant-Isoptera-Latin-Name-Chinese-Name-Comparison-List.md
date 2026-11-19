@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción de Emerson (1928) del alado, el soldado y el obrero de esta especie (citada en el original como Mirotermes (Procubitermes) undulans Schmitz), cuyo original está en inglés; la descripción se basa en dos reinas de la zona de Stanleyville y en varios soldados y obreros de Ngayu y Stanleyville. Problemas de OCR: falta la fila de longitud del cuerpo en la tabla de medidas del alado (las cifras de esa línea no están impresas en el original), por lo que no se incluye; la entrada Length of queen 19.00 se refiere presumiblemente a la longitud del cuerpo de la reina y se transcribe tal como figura en el original, indicando que es la reina.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "De menor tamaño que Mirotermes niapuensis, y la forma de las mandíbulas también difiere de ella; idéntica al material de Stanleyville identificado por Schmitz."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo amarillenta, ovalada; fontanela pequeña, blanca, con tres impresiones musculares por delante. El artejo 3 de la antena es aproximadamente dos veces más largo que el artejo 2 o el 4 y muestra indicios de subdivisión. Ojos de tamaño medio, próximos al margen inferior de la cabeza. Ocelos de tamaño medio, separados del ojo compuesto por una distancia mayor que su propia anchura. Postclípeo más claro que la cabeza, con una línea media longitudinal indistinta. Pronoto algo más claro que la cabeza, margen posterior cóncavo. Márgenes posteriores del meso- y del metanoto muy estrechamente cóncavos. Medidas: longitud de la cabeza 1.23, anchura de la cabeza 1.10, diámetro del ojo 0.38, longitud del pronoto 0.57, anchura del pronoto 0.97, longitud de la tibia posterior 1.03 mm; longitud del cuerpo de la reina 19.00 mm, anchura del abdomen 3.00 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza rojo amarillenta, rectangular, con los lados rectos y paralelos; postmentón sin proyección puntiaguda. Antenas de 14 artejos, artejo 2 tan largo como el 3, artejo 4 más corto que el 3. Labro profundamente dividido, con los extremos de ambos lóbulos bastante puntiagudos. Cada mandíbula con un diente pequeño cerca de la base; la mandíbula izquierda curvada de forma desigual, angulosa en dos puntos; la derecha uniformemente curvada. Margen anterior del pronoto algo cóncavo. Medidas: longitud de la cabeza con mandíbulas 3.05, anchura de la cabeza 1.10, longitud de las antenas 2.00, longitud del pronoto 0.26, anchura del pronoto 0.67, longitud de la tibia posterior 0.89, longitud de la mandíbula izquierda 1.57 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 14 artejos. Medidas: anchura de la cabeza 0.86 mm, longitud de la tibia posterior 0.72 mm."
+  }
+ ]
+}

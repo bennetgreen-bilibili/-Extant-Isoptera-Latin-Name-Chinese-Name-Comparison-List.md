@@ -1,0 +1,17 @@
+{
+ "note": "Rewritten from the species-level description of Syaukani & Thompson 2011, the original in English; the original gives the alate as Unknown. OCR problem: the original printed the greatest head width as (0.95-0.10), whose last two digits are clearly a mis-OCR, and 0.95—1.00 is adopted according to the magnitude and context; the printed journal should be checked.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "In dorsal view the anterior and posterior parts of the head are almost the same colour, only the region around the posterior margin distinctly paler; the nasus darker than the anterior part of the head capsule; the antennae paler than the anterior part of the head capsule. Head with 2 setae, the tip of the nasus with 4 setae; pronotum with setae, abdominal tergites with hairs and setae. In dorsal view the head capsule is slightly pear-shaped, strongly constricted behind the antennal sockets; posterior margin weakly concave; in lateral view the dorsal outline (including the nasus) nearly straight. Apical tooth of the mandibles moderately developed. Antennae 14-segmented; segment 2 longer than segment 3, segment 3 shortest, segments 4 and 5 about equal in length. In dorsal view the pronotum paler than the anterior part of the head capsule, the margins darker than the disc; coxae and femora yellow, tibiae pale yellow; anterior margin of the pronotum weakly concave in the middle, posterior margin rounded-convex. Abdominal tergites yellow to pale brown."
+  },
+  {
+   "label": "Worker",
+   "text": "Antennae white-yellow to yellow, 15-segmented; segment 2 distinctly longer than segment 3, segment 3 shortest, segments 4 and 5 about equal in length. Apical tooth of the left mandible about as long as the first marginal tooth; third marginal tooth moderately projecting beyond the cutting edge; fourth marginal tooth almost completely concealed behind the molar prominence. Posterior margin of the second marginal tooth of the right mandible nearly straight; inner layer of the molar prominence poorly developed; proximal notch of the molar plate weak."
+  },
+  {
+   "label": "Other",
+   "text": "Soldier measurements (10 individuals, mm): head length including the nasus (HLN) 1.55—1.65; head length to the mandible base (HL) 1.05—1.13; nasus length (NL) 0.50—0.60; nasus index NL/HL 0.47—0.53; greatest head width (posterior part, HWP) 0.95—1.00; greatest head height excluding the postmentum (HH) 0.60—0.65; pronotal length (PL) 0.22—0.25; pronotal width (PW) 0.52—0.55."
+  }
+ ]
+}

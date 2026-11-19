@@ -1,0 +1,21 @@
+{
+  "zh_name": "马拉巴尔异白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁体全长 3.20—5.00 mm；头壳近长方形、明显长大于宽，头长（连上颚）2.20—2.50 mm；触角 12—14 节，第 3 节最短；上颚剑状，长 0.70—0.93 mm；后颏棒状、腰位于后三分之一；前胸背板平坦、宽远大于长。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳与上唇淡黄褐；上颚深褐，基部较淡。体全长 3.20—5.00 mm。头壳近长方形，明显长于宽：头长（连上颚）2.20—2.50 mm，头长（至上颚基）1.23—1.54 mm，头宽 0.70—0.95 mm。触角 12—14 节，第 3 节最短。上唇近三角形，长 0.35—0.43 mm、宽 0.25—0.30 mm，端部具一枚透明的针刺状尖。上颚剑状，长 0.70—0.93 mm，端部弱内弯；左上颚内缘基半部具 3—4 个锯齿。后颏棒状，长 0.82—1.25 mm，最大宽（棒部）0.32—0.43 mm，最小宽（腰部）0.15—0.20 mm，腰位于后三分之一。前胸背板平坦、梯形，宽远大于长：长 0.33—0.50 mm，宽 0.53—0.80 mm。胫节端距 3:2:2；跗节 4 节；尾须 2 节。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0739",
+      "citation": "Rathore N. S. & Tak N. Insecta: Isoptera (Termites). In: State Fauna Series 8: Fauna of Gujarat. Zoological Survey of India.",
+      "locator": "第 53 页 Heterotermes malabaricus 条目"
+    }
+  ],
+  "note": "据 Rathore & Tak（State Fauna Series 8: Fauna of Gujarat，Insecta: Isoptera）第 53 页 Heterotermes malabaricus 条目的英文鉴别特征改写；原文只写兵蚁一节，Caste known 虽记有翅成虫、兵蚁、工蚁，却未给出工蚁与有翅成虫的形态；量度单位 mm 逐字保留。"
+}

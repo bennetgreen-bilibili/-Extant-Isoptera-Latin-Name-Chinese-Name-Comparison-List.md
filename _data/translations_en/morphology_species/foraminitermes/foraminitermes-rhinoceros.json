@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from Krishna's (1963) species-level treatment of this species (given in the original as Foraminitermes rhinoceros (Sjöstedt), new combination). The source pack contains only the soldier measurement table and the comparison sentence (the descriptive text lies on earlier pages not included in the pack), so this entry has only soldier measurements and diagnostic characters, with no descriptive text; the 4 measurement columns correspond to the paratype, the Imatong Mountains (Sudan), Uganda and Tanganyika, and OCR has displaced the column headings, so the ranges are taken along the rows. The page range 1—39 is that of the whole Novitates article; this species is treated on pp. 13—14.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier differs from Foraminitermes coatoni and F. harrisi in the more prominent frontal projection of the head and the overall larger size."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (4 specimens: paratype, Imatong Mountains, Uganda, Tanganyika): head length to the lateral mandible base 2.38—2.63; head width 1.86—1.95; head height 1.59—1.65; left mandible length 1.07—1.09; postmentum length 1.52—1.76, greatest width 0.60—0.68, least width 0.32—0.34; pronotum greatest length 0.60—0.68, width 1.26—1.37; hind tibia length 1.43—1.58 mm."
+  }
+ ]
+}

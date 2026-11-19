@@ -1,0 +1,25 @@
+{
+  "zh_name": "孟加拉堆砂白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁头壳一般深褐、前部几乎黑色，短厚、额面平截（phragmotic），眼小但存在，触角 11—15 节，上颚短粗、三角形、明显隆起，每颚具 2 个弱至明显的边缘齿，体全长 3.8—6.2 mm。假工蚁头与体淡黄，头壳近圆形，具眼斑，触角 12—14 节，体全长 4.4—6.0 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳一般深褐色，前部几乎黑色；短、厚，额面平截，以头堵塞洞口（phragmotic）。眼存在，较小，卵形。触角 11—15 节。上颚短、粗壮、三角形，明显隆起，每颚具 2 个弱至明显的边缘齿。体全长 3.8—6.2 mm；头最大宽 1.08—1.37 mm。前胸背板略窄于至略宽于头：长 0.70—0.90 mm，宽 1.00—1.30 mm。腹部被毛，长圆形。"
+    },
+    {
+      "label": "工蚁",
+      "text": "假工蚁（原文 pseudoworker）。头与体淡黄，疏被毛。体全长 4.4—6.0 mm。头壳近圆形。具眼斑。触角 12—14 节。前胸背板窄于头壳：长 0.53—0.66 mm，宽 0.97—1.00 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0739",
+      "citation": "Rathore N. S. & Tak N. Insecta: Isoptera (Termites). In: State Fauna Series 8: Fauna of Gujarat. Zoological Survey of India.",
+      "locator": "第 2 种 Cryptotermes bengalensis 条目"
+    }
+  ],
+  "note": "据 Rathore & Tak（State Fauna Series 8: Fauna of Gujarat，Insecta: Isoptera）第 2 种条目的英文鉴别特征改写；Caste known 记有翅成虫、兵蚁与假工蚁，但原文只描述兵蚁与假工蚁两节，有翅成虫未写；假工蚁在本条目中归入「工蚁」一节并在文中注明。量度单位 mm 逐字保留。"
+}

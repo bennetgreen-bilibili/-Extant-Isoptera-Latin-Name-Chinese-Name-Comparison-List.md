@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the new-species description in Hill's paper, original English; OCR quality is poor (spaces between letters, misread characters), so only reliable parts were used: the alate section preserves only the final sentence of the colour description (the rest lies before the beginning of the source excerpt and is missing), as noted; the soldier description is complete and legible. The rows and values of the soldier measurement table are misaligned by OCR, so only the two head-length rows whose correspondence is certain are given ((a)(b)(c) = the only 3 soldiers in the type colony); the remaining measurements (head width, pronotal length and width, tibia, abdominal width) are omitted. The original also states that (b) and (c) have distinctly wider and rounder heads with pigmented eyes and wing pads of medium and very great length respectively, the latter thickened and bearing long red setae; all three have styli. The type colony was taken from a rotten log at Beaconsfield, Victoria (collected by F. E. Wilson) and contained eggs, larvae, nymphs, mature and immature alates, soldiers and a queen.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Evidently closely related to Stolotermes brunneicornis, from which it differs in the absence of a distinct median suture on the head, the absence of a central pseudocellus-like spot between the eyes, and clearly different antennae; in body length with wings, Hagen's St. brunneicornis is 2 mm longer than this species."
+  },
+  {
+   "label": "Alate",
+   "text": "Body pale chestnut, anteclypeus membranous; legs cream; abdomen paler, with a brown pattern along the dorsal midline. (Hind leg in Fig. 6, proximal antennal segments in Fig. 7.)"
+  },
+  {
+   "label": "Soldier",
+   "text": "Head (Figs. 8, 9) slightly narrowed posteriorly, sides slightly curved, anterior part slightly wider than posterior, very flat in profile; Y-shaped suture distinct, with a few red setae. Labrum large, longer than wide, apex truncate. Clypeus more or less triangular. Postmentum (Fig. 10) extremely long, narrow at the middle, about one tenth of the head width. Mandibles extremely long, left mandible with two broad teeth and one narrow tooth, right mandible with two broad teeth. Eyes small and indistinct, beside the antennal sockets. Antennae (Fig. 11) broken, more than 14-segmented, segment 3 shortest, sometimes segments 3 and 4 nearly equal, segments 5—10 successively longer and more slender. Pronotum as in the alate but with sparse, moderately coarse red setae. Legs short and moderately stout; tibial spur formula 3:3:2. Abdomen long-oval, apex bluntly pointed. Measurements: head length (from base to labral apex) 2.444, 2.670, 2.773; head length (from base to mandibular apex) 3.290, 3.290, 3.570 mm."
+  },
+  {
+   "label": "Nymph",
+   "text": "Several developmental stages can be distinguished: (1) larva, length 3.05, antennae 11-segmented, segments 2 and 3 fused, eyes and wing pads absent; (2) larva, length 5.00—5.50, antennae 12-segmented, segments 2 and 3 fused, eyes just visible and slightly pigmented, wing pads absent; (3) nymph, length 6.00, antennae 13-segmented, segments 3, 4 and 5 closely fused, eyes very indistinct and slightly more pigmented than in (2), wing pads very small and cream; (4) nymph, length 6.50, antennae 15-segmented, segments 3 and 4 fused, eyes black, wing pads clearly visible and setiform."
+  }
+ ]
+}

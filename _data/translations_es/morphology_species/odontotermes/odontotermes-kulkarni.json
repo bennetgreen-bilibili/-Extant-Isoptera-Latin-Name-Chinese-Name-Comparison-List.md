@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de los caracteres diagnósticos en inglés de la entrada Odontotermes kulkarni de Rathore & Tak (State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera); el original tiene dos secciones, soldado y obrero dimórfico, y ningún alado. El nombre específico figura en el OCR como kulkarni'v en el texto y en la línea de la referencia original de 1959, y como kulkarnii en la línea de 1960; esta entrada sigue el JSON del grupo y el título de la entrada y usa kulkarni. El mandible-tooth index del original se da como un valor de longitud, 0.34—0.43 mm, transcrito tal cual y traducido como distancia mandíbula-diente; el Cerci and styli 08-0.10 mm long del soldado en el original carece del primer dígito en el OCR y se registra como 0.08—0.10; la unidad de medida mm se conserva literalmente.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Caparazón cefálico del soldado amarillo pálido a pardo amarillento, longitud total del cuerpo 5.40—7.0 mm, antenas de 16—17 artejos, el margen inferior del tercio apical de la mandíbula izquierda con un diente marginal conspicuo y agudo, pronoto en forma de silla de montar y claramente más estrecho que la anchura de la cabeza. Obrero dimórfico: caparazón cefálico del obrero mayor pardo amarillento, antenas de 17 artejos (rara vez 18), longitud total del cuerpo 3.80—5.30 mm; obrero menor similar al mayor pero más pequeño, caparazón cefálico algo oval, antenas de 16 artejos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Caparazón cefálico amarillo pálido a pardo amarillento. Longitud total del cuerpo 5.40—7.0 mm. Caparazón cefálico casi rectangular; longitud de la cabeza (con mandíbulas) 3.0—3.6 mm, anchura máxima de la cabeza 1.23—1.70 mm; fontanela poco marcada. Antenas de 16—17 artejos: con 16 artejos el artejo 2 algo más largo que el artejo 3, artejo 4 el más corto; con 17 artejos el artejo 2 casi el doble de largo que el artejo 3, artejo 3 el más corto, artejo apical oval. Labro ligulado, los lados casi paralelos. Mandíbulas en forma de espada, robustas, el ápice anchamente agudo e incurvado, más largas que la mitad de la longitud de la cabeza; la mandíbula izquierda con un diente marginal conspicuo y agudo en el margen inferior del tercio apical (el original da mandible-tooth index 0.34—0.43 mm); la mandíbula derecha con un diente vestigial diminuto cerca del centro de la mitad distal. Postmentón casi rectangular. Pronoto en forma de silla de montar, claramente más estrecho que la anchura de la cabeza; margen anterior con una escotadura marcada en el centro, margen posterior de débil a profundamente cóncavo. Abdomen alargado. Cercos y estilos de 0.08—0.10 mm de longitud."
+  },
+  {
+   "label": "Obrero",
+   "text": "Dimórfico. Obrero mayor: caparazón cefálico pardo amarillento, antenas amarillo blanquecinas, que se oscurecen hacia el ápice. Longitud total del cuerpo 3.80—5.30 mm. Caparazón cefálico casi rectangular; anchura máxima de la cabeza 1.33—1.63 mm; fontanela poco marcada. Antenas de 17 artejos (rara vez 18, artejo 4 parcialmente dividido): artejo 2 claramente más largo que el artejo 3, artejo 3 el más corto, artejo apical oval. Pronoto en forma de silla de montar, más ancho que largo: longitud máxima 0.35—0.40 mm, anchura máxima 0.70—0.80 mm; margen posterior ampliamente cóncavo. Abdomen casi esférico. Cercos de 0.10—0.13 mm de longitud; estilos de 0.10 mm de longitud. Obrero menor: similar al obrero mayor pero más pequeño, caparazón cefálico algo oval, antenas de 16 artejos."
+  }
+ ]
+}

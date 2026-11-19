@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de los caracteres diagnósticos en inglés de la segunda entrada específica de Rathore & Tak (State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera); Caste known cita el alado, el soldado y el pseudotrabajador, pero el original solo describe el soldado y el pseudotrabajador, sin tratar el alado; el pseudotrabajador se incluye en la sección Obrero de esta entrada y se indica en el texto. Las medidas se conservan literalmente en mm.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Cápsula cefálica del soldado generalmente castaño oscura, casi negra en la parte anterior, corta y gruesa, con la frente truncada (phragmotic); ojos pequeños pero presentes; antenas de 11—15 artejos; mandíbulas cortas y robustas, triangulares, marcadamente convexas, cada una con 2 dientes marginales débiles a distintos; longitud total del cuerpo 3.8—6.2 mm. Cabeza y cuerpo del pseudotrabajador amarillo pálido, cápsula cefálica casi circular, con manchas oculares, antenas de 12—14 artejos, longitud total del cuerpo 4.4—6.0 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica generalmente castaño oscura, casi negra en la parte anterior; corta y gruesa, con la frente truncada, la cabeza utilizada para obturar la abertura de la galería (phragmotic). Ojos presentes, más bien pequeños, ovales. Antenas de 11—15 artejos. Mandíbulas cortas, robustas, triangulares, marcadamente convexas, cada una con 2 dientes marginales débiles a distintos. Longitud total del cuerpo 3.8—6.2 mm; anchura máxima de la cabeza 1.08—1.37 mm. Pronoto desde algo más estrecho hasta algo más ancho que la cabeza: longitud 0.70—0.90 mm, anchura 1.00—1.30 mm. Abdomen piloso, oval alargado."
+  },
+  {
+   "label": "Obrero",
+   "text": "Pseudotrabajador (pseudoworker en el original). Cabeza y cuerpo amarillo pálido, escasamente pilosos. Longitud total del cuerpo 4.4—6.0 mm. Cápsula cefálica casi circular. Con manchas oculares. Antenas de 12—14 artejos. Pronoto más estrecho que la cápsula cefálica: longitud 0.53—0.66 mm, anchura 0.97—1.00 mm."
+  }
+ ]
+}

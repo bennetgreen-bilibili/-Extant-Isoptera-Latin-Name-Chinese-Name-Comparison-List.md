@@ -1,0 +1,21 @@
+{
+  "zh_name": "犀牛孔白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁与 Foraminitermes coatoni、F. harrisi 的区别在于头部的额突更突出，且整体体型更大。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "量度（4 号标本：副模、Imatong 山、乌干达、坦噶尼喀）：头长至颚侧基 2.38—2.63；头宽 1.86—1.95；头高 1.59—1.65；左上颚长 1.07—1.09；后颏长 1.52—1.76，最大宽 0.60—0.68，最小宽 0.32—0.34；前胸背板最大长 0.60—0.68，宽 1.26—1.37；后足胫节长 1.43—1.58 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0740",
+      "citation": "Krishna, K. 1963. The African genus Foraminitermes Holmgren (Isoptera, Termitidae, Amitermitinae). American Museum Novitates 2161: 1—39.",
+      "locator": "p. 13（兵蚁量度表与比较）、p. 14（模式产地与分布）"
+    }
+  ],
+  "note": "据 Krishna (1963) 对该种（原文作 Foraminitermes rhinoceros (Sjöstedt), new combination）的种级处理改写。素材包只包含兵蚁量度表与比较句（描述正文在未入包的前页），因此本条只有兵蚁量度与鉴别要点，无形态描述文字；量度 4 列分别对应副模、Imatong 山（苏丹）、乌干达、坦噶尼喀标本，OCR 使列头错行，此处按行取范围。页面范围 1—39 为整篇 Novitates 的页码，本种处理见 pp. 13—14。"
+}

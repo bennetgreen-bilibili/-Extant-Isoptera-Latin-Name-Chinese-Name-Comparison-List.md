@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from the species-level description of Light & Wilson 1936; the original is in English; all three castes are available. The description largely uses N. luzonicus for comparison, but each caste is accompanied by a complete table of measurements, so it is included on the basis of the description. OCR problems: garbled symbols at the start of some lines, index names transcribed as in the original.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Very similar to N. luzonicus, but the head colour is consistently paler, a slightly smoky pale reddish brown; antennae yellowish brown, frontal area very pale brown; postclypeus pale yellowish brown; tergites dark brown, darker than in N. luzonicus. Fontanelle short, nearly triangular, distinctly shorter than in N. luzonicus; other characters as in N. luzonicus. Measurements (mm, typical alate from collection no. 167 of Cebu): total length 15.5; forewing length 13.6; forewing width 3.7; head length 1.66; head capsule length 1.14; head capsule width 1.14; head width including eyes 1.50; pronotal length 0.84; pronotal width 1.32; eye long diameter 0.55; eye short diameter 0.50; ocellus long diameter 0.18; ocellus short diameter 0.13; distance between ocellus and eye 0.04."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head shape very similar to typical N. luzonicus, but not as broad as in the broader individuals of N. luzonicus, and the range of variation in head outline is similar. Nasus slightly longer, more slender and more pointed at the apex. Head colour consistently pale brown; tergites dark smoky brown, darker than the head and also darker than the tergites of N. luzonicus (whose tergites are much paler than the head). Free part of the left mandible short, the concavity between it and the molar surface shallow, the outer and inner surfaces nearly straight. Measurements (mm, typical soldier from collection no. 167 of Cebu): head length including nasus 1.59; head length excluding nasus 1.04; nasus length 0.55; head production 0.26; head height 0.68; head width 0.99; fore tibia length 0.84; head index 0.95; head-nasus index 0.53; head production index 0.25; leg extension index 0.81."
+  },
+  {
+   "label": "Worker",
+   "text": "Very similar to N. luzonicus, but the head paler and the tergites darker; head pale brown, tergites smoky brown."
+  },
+  {
+   "label": "Other",
+   "text": "Variation: the species varies much less than N. luzonicus. The series from Culasi, Panay Island (leg. McGregor, paratype collection no. 1528) shows the greatest range of variation. Measurements of the smallest and largest soldiers (mm): head width 0.81—0.91; head length including nasus 1.36—1.52; nasus length 0.49—0.57; head capsule length 0.87—0.96; head index including nasus 0.59—0.60; head index excluding nasus 0.93—0.95+; rostrum index 0.57—0.59. Another aberrant soldier (nasus short and thick at the base, mandibles very large) measures: head length including nasus 1.56; head length excluding nasus 1.05."
+  }
+ ]
+}

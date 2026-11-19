@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level description in the revision by Bourguignon & Roisin 2011, the original in English. The original treats H. venustus (Hill) as a synonym of this species and gives measurements of both holotypes and of 18 soldiers; the original records Hill 1942: 134—136. OCR problems: misspellings such as sligthly are copied from the original; measurement abbreviations are spelled out at first occurrence.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Small species. Head elongate, with a distinct elevation anteriorly, covered with numerous short setae. Labrum elongate, pointed at the tip. Antennae usually 13-segmented. Pronotum short and narrow, with about 50 setae. Postmentum rather narrow, without setae. Mandible tips slightly curved. Measurements (mm; in order: H. vagus holotype, H. venustus holotype [in square brackets], 18 soldiers from 6 colonies (in round brackets)): head length (to the clypeus, HLC) 1.32 [1.43] (1.12—1.37); head length (to the tip of the labrum, HLL) 1.75 [1.83] (1.48—1.76); head width (HW) 0.80 [0.82] (0.74—0.83); pronotum length (PL) 0.40 [0.41] (0.32—0.50); pronotum width (PW) 0.55 [0.62] (0.49—0.60); right mandible length (RML) 0.92 [0.89] (0.80—0.93); postmentum greatest width (MPW) 0.34 [0.31] (0.29—0.33); hind tibia length (T3L) 0.65 [0.66] (0.54—0.66)."
+  },
+  {
+   "label": "Alate",
+   "text": "Not recorded from New Guinea (see Hill 1942)."
+  }
+ ]
+}

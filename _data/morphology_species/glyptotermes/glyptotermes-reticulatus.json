@@ -1,0 +1,17 @@
+{
+  "zh_name": "似网树白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体色黄灰，略凸。单眼斑淡色、延长。前唇基淡黄；上唇淡褐、舌状。触角 10 节，略扁平；第 5 至第 9 节横宽至方形；第 10 节略长，窄于第 9 节。后颏淡褐；最宽处略在中部之前，宽不及腰宽的两倍（12∶7）；前半两侧具上翘的缘。上颚黑色，可见部分如图。前胸背板黄色，略窄于头；横拱并具弱网纹。前缘凹；两侧较直，具弱缘；后角圆转至后缘，后缘极微凹；中央具浅沟。中、后胸背板淡黄；后缘近直。足黄色、粗壮；端刺短而粗。腹部淡黄，刚毛与背板带褐色。"
+    }
+  ],
+  "note": "该种描述在 pack 中自图注被截断处开始（起始半句缺失），无品级小标题，原文此段为此前有翅成虫描述的续文；据「单眼斑延长」（仅成虫具单眼）与图注 A-E 为有翅成虫，归入有翅成虫节。关系与模式信息：「A distinctive species ... distinct reticulation; broad, flat antennal joints; and, in the alate, the flanged thorax and pointed ocelli. Described from 9 alates, 1 dealate, 1 soldier and 39 nymphs. Holotype: alate female. Allotype: alate male. Morphotype: soldier. Type locality — ZANZIBAR: Jozani Forest, vii.1951, in fallen log of Vitex sp.」量度段落 OCR 严重失真（原文作「DOO」「c Pe en ts)」等），未录。",
+  "sources": [
+    {
+      "id": "S0743",
+      "citation": "Wilkinson, W., 1954, Three new species of Kalotermitidae (Isoptera), Proceedings of the Royal Entomological Society of London (B) 23(5–6)",
+      "locator": "Glyptotermes reticulatus sp. n. 条目（图注后描述段）"
+    }
+  ]
+}

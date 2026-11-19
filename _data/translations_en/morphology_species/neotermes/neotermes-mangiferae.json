@@ -1,0 +1,9 @@
+{
+ "note": "Rewritten from the Diagnosis of the 7th species in that book, Neotermes mangiferae Roonwal & Sen-Sarma, the original in English; the original states explicitly that the alate is unknown (Imago—Not known), hence only a soldier section. The soldier diagnosis in the source package has a line break with characters missing: several characters are missing between the sentence on head capsule width and ...Y-shaped suture conspicuous (the original spans a page break); the translation follows the visible part and does not supply them. The first value of head width is OCR'd as 2,3, probably 2.33; it is transcribed here as 2.3—2.52. Original description in Roonwal & Sen-Sarma 1960, Contrib. Syst. Orient. Termites (ICAR Ent. Monogr. 10): 139, 143, 208—211. Distribution: East India (Tripura), originally recorded from mango (Mangifera indica) logs in a Calcutta timber yard.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head capsule brown, body pale yellow (yellowish white). Head capsule nearly rectangular, width 2.3—2.52 mm, about 3/4 of the head length (without mandibles, 2.9—3.33 mm); Y-shaped suture conspicuous; eye spots broadly elliptical; antennae 13—16-segmented, segment 3 about as long as segment 2, segment 4 shortest; mandibles short and robust, from less than to slightly more than half the head length (without mandibles); postmentum long, club-shaped, the club bilobed; pronotum nearly rectangular, as wide as the head, anterior margin broadly concave, posterior margin nearly straight. Body length about 10—10.5 mm."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "邻近木白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁全长 7.50—7.75 mm，头长约为头宽的 1.5 倍，触角 13 节；上颚黑色发亮，长约等于头宽，右上颚基部附近具 2 个短尖的边缘齿，左上颚下三分之二具 3 个较宽的钝齿、中齿最宽成磨齿状；前胸背板宽于头，前缘不具齿。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头黄褐（淡栗色），前部较深，长为宽的 1.5 倍，两侧平行至微凹，具少数稀疏的淡黄长毛；头前部向前倾斜，具 V 形凹陷。触角淡黄，13 节，交叉上颚时可达上颚端，被短毛；第 3 节黄褐、近棒状，略短于第 4、5 节之和。眼透明白色，圆形至卵形；单眼在眼斑上方可见。上唇黄褐，宽大于长，端部几乎圆，具长毛。上颚黑色发亮，基部红褐，长约等于头宽；基部宽，端部尖而内弯；右上颚基部附近具 2 个短、尖、近等长的边缘齿，左上颚下三分之二具 3 个较宽钝的边缘齿，中齿最宽（成磨齿状）。后颏细，前部宽于中部两倍余。前胸背板污白带淡黄，宽于头，宽不及长的两倍，前缘圆而相当深凹，前缘不似 K. marginipennis 具齿；两侧圆滑向后斜，后缘凸。足淡黄，跗节黄；足短，后足股节膨大，具短毛。腹部污白灰带黄，具淡黄长毛与短毛。兵蚁量度（单位 mm）：体全长 7.50—7.75；头长（连上颚）3.3—3.7；头长（至头前缘）2.2—2.4；头长（至上唇端）2.6；头宽 1.40—1.55；左上颚长 1.35—1.40；前胸背板长（角处量取）1.10—1.15；前胸背板宽 1.6—1.7；后足胫节长 1.1。"
+    },
+    {
+      "label": "其他",
+      "text": "有翅成虫未知（The winged adult is unknown），故无该品级描述。模式产地美国佛罗里达州 Ortega；兵蚁正模 Cat. No. 22359，存 U.S.N.M.。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0656",
+      "citation": "Banks N. & Snyder T. E. Revision of the Nearctic Termites, with notes on biology and geographic distribution. Bulletin of the United States National Museum 108.",
+      "locator": "Kalotermes approximatus, Soldier 段, p. 22"
+    }
+  ],
+  "note": "据 Banks & Snyder 1920（Revision of the Nearctic Termites，Bull. U.S.N.M. 108）第 22 页的英文描述改写；该文 OCR 为逐词一行，已按原词序复原，数字可靠；原文只描述兵蚁，并明记有翅成虫未知（The winged adult is unknown），故无该品级；量度单位 mm 逐字保留。「前胸背板长（角处量取）」原文作 Length of pronotum (at corners)。"
+}

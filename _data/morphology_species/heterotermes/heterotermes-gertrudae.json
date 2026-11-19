@@ -1,0 +1,21 @@
+{
+ "zh_name": "格特鲁德异白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头壳黄褐，体淡黄；上颚深褐。体长 4.9—6.0 mm。头壳亚长方形；去上颚头长 1.50—1.78 mm，宽 0.97—1.05 mm。囟极小、圆形。上颚剑形（sabre-shaped），长 0.90—1.05 mm，末端内弯；左上颚基部具一钝突，宽的基部具数条细刻纹。触角 12—17 节（多为 14—15 节）；第 2 节与第 3、4 节之和近等长；第 3 节最短。后颏长、棒状；长 1.13—1.50 mm，最大宽 0.30—0.38 mm，腰部宽 0.13—0.19 mm。足细长；端部胫节距式 3:2:2；跗节 4 节。腹部长椭圆形。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头淡黄，体更淡。体长 4.5—6.00 mm。头壳近方形；宽 0.86—1.14 mm。触角 13—16 节（多为 15 节）。后唇基弱隆起。上颚端部指状；左上颚第 1 缘齿略小于端齿，第 2 缘齿与端齿近等长，第 3 缘齿短；右上颚第 1 缘齿小、退化，位于第 2 缘齿前基，第 2 缘齿三角形，第 3 缘齿短。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0739",
+   "citation": "Rathore & Tak, State Fauna Series 8: Fauna of Gujarat — Insecta: Isoptera (Termites), Zoological Survey of India（archive.org dli.zoological.sfs.043）",
+   "locator": "第 8 种 Heterotermes gertrudae（pp. 52—53）"
+  }
+ ],
+ "note": "据 State Fauna Series 8《Fauna of Gujarat》种级「Diagnostic characters」改写，原文英文。原文著录本种由 Roonwal 1953 年发表（Indian J. Ent. 15(2): 115—118，正模兵蚁存 AMNH），模式产地印度北方邦 Almora（原文 OCR 作 Alniora）。OCR 问题：工蚁上颚缘齿一句字句残缺（「left mandible; l sl marginal ... 3 rd」「Right 1 M marginal ...」），只能据上下文复原，写出的缘齿数（左 3、右 3）依据的是「apical + 2 marginal」「apical + 2 marginal」的原文残句与上下文；「Gujarat」材料与 Microtermes obesi 混采。"
+}

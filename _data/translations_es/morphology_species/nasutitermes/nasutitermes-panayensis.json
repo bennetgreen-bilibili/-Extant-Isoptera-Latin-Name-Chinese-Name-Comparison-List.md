@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Light & Wilson 1936, cuyo original está en inglés; las tres castas están disponibles. La descripción usa con frecuencia a N. luzonicus como término de comparación, pero cada casta va acompañada de una tabla de medidas completa, por lo que se incluye según la descripción. Problemas de OCR: símbolos corruptos al inicio de algunas líneas, nombres de índices transcritos como en el original.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Muy similar a N. luzonicus, pero el color de la cabeza es siempre más pálido, un pardo rojizo pálido ligeramente ahumado; antenas pardo amarillentas, región frontal pardo muy pálida; posclípeo pardo amarillento pálido; terguitos pardo oscuro, más oscuros que en N. luzonicus. Fontanela corta, casi triangular, claramente más corta que en N. luzonicus; los demás caracteres como en N. luzonicus. Medidas (mm, alado típico de la colecta n.º 167 de Cebu): longitud total 15.5; longitud del ala anterior 13.6; anchura del ala anterior 3.7; longitud de la cabeza 1.66; longitud del caparazón cefálico 1.14; anchura del caparazón cefálico 1.14; anchura de la cabeza con ojos 1.50; longitud del pronoto 0.84; anchura del pronoto 1.32; diámetro mayor del ojo 0.55; diámetro menor del ojo 0.50; diámetro mayor del ocelo 0.18; diámetro menor del ocelo 0.13; distancia entre el ocelo y el ojo 0.04."
+  },
+  {
+   "label": "Soldado",
+   "text": "Forma de la cabeza muy similar a la de N. luzonicus típico, pero no tan ancha como en los individuos más anchos de N. luzonicus, y la amplitud de variación del contorno cefálico es semejante. Nasus algo más largo, más delgado y más agudo en el ápice. Color de la cabeza siempre pardo pálido; terguitos pardo ahumado oscuro, más oscuros que la cabeza y también más oscuros que los terguitos de N. luzonicus (cuyos terguitos son mucho más pálidos que la cabeza). Parte libre de la mandíbula izquierda corta, la concavidad entre ella y la superficie molar poco profunda, las superficies externa e interna casi rectas. Medidas (mm, soldado típico de la colecta n.º 167 de Cebu): longitud de la cabeza con el nasus 1.59; longitud de la cabeza sin el nasus 1.04; longitud del nasus 0.55; producción cefálica 0.26; altura de la cabeza 0.68; anchura de la cabeza 0.99; longitud de la tibia anterior 0.84; índice cefálico 0.95; índice cabeza-nasus 0.53; índice de producción cefálica 0.25; índice de extensión de la pata 0.81."
+  },
+  {
+   "label": "Obrero",
+   "text": "Muy similar a N. luzonicus, pero la cabeza más pálida y los terguitos más oscuros; cabeza pardo pálida, terguitos pardo ahumado."
+  },
+  {
+   "label": "Otros",
+   "text": "Variación: la especie varía mucho menos que N. luzonicus. La serie de Culasi, isla de Panay (leg. McGregor, colecta de paratipos n.º 1528) presenta la mayor amplitud de variación. Medidas del soldado menor y del mayor (mm): anchura de la cabeza 0.81—0.91; longitud de la cabeza con el nasus 1.36—1.52; longitud del nasus 0.49—0.57; longitud del caparazón cefálico 0.87—0.96; índice cefálico con el nasus 0.59—0.60; índice cefálico sin el nasus 0.93—0.95+; índice del rostro 0.57—0.59. Otro soldado aberrante (nasus corto y grueso en la base, mandíbulas muy grandes) mide: longitud de la cabeza con el nasus 1.56; longitud de la cabeza sin el nasus 1.05."
+  }
+ ]
+}

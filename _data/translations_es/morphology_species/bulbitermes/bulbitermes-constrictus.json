@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Syaukani & Thompson 2011, original en inglés; el original da el alado como Unknown. Problema de OCR: el original da la anchura máxima de la cabeza como (0.95-0.10), cuyos dos últimos dígitos son claramente un error de OCR; se adopta 0.95—1.00 según la magnitud y el contexto; debe cotejarse la revista impresa.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "En vista dorsal, las partes anterior y posterior de la cabeza son casi del mismo color, solo la región alrededor del margen posterior claramente más pálida; el naso más oscuro que la parte anterior de la cápsula cefálica; las antenas más pálidas que la parte anterior de la cápsula cefálica. Cabeza con 2 setas, el ápice del naso con 4 setas; pronoto con setas, los terguitos abdominales con pelos y setas. En vista dorsal la cápsula cefálica es algo piriforme, fuertemente constreñida por detrás de las fosetas antenales; margen posterior débilmente cóncavo; en vista lateral el contorno dorsal (incluido el naso) casi recto. Diente apical de las mandíbulas medianamente desarrollado. Antenas de 14 artejos; artejo 2 más largo que el 3, artejo 3 el más corto, artejos 4 y 5 casi iguales en longitud. En vista dorsal el pronoto más pálido que la parte anterior de la cápsula cefálica, los márgenes más oscuros que el disco; coxas y fémures amarillos, tibias amarillo pálido; margen anterior del pronoto débilmente cóncavo en el medio, margen posterior redondeado-convexo. Terguitos abdominales amarillos a pardos claros."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas blanco-amarillentas a amarillas, de 15 artejos; artejo 2 claramente más largo que el 3, artejo 3 el más corto, artejos 4 y 5 casi iguales en longitud. Diente apical de la mandíbula izquierda casi tan largo como el primer diente marginal; tercer diente marginal medianamente proyectado sobre el borde cortante; cuarto diente marginal casi completamente oculto tras la prominencia molar. Margen posterior del segundo diente marginal de la mandíbula derecha casi recto; capa interna de la prominencia molar poco desarrollada; escotadura proximal de la placa molar débil."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas del soldado (10 individuos, mm): longitud de la cabeza incluido el naso (HLN) 1.55—1.65; longitud de la cabeza hasta la base de las mandíbulas (HL) 1.05—1.13; longitud del naso (NL) 0.50—0.60; índice del naso NL/HL 0.47—0.53; anchura máxima de la cabeza (parte posterior, HWP) 0.95—1.00; altura máxima de la cabeza sin el postmentón (HH) 0.60—0.65; longitud del pronoto (PL) 0.22—0.25; anchura del pronoto (PW) 0.52—0.55."
+  }
+ ]
+}

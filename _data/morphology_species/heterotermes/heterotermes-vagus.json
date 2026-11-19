@@ -1,0 +1,21 @@
+{
+ "zh_name": "游荡异白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "体型小。头延长，前部具明显隆起，被大量短刚毛。上唇延长，端部尖。触角一般 13 节。前胸背板短而窄，约 50 根刚毛。后颏略窄，无刚毛。上颚端部略弯。量度（mm；依次为 H. vagus 正模、H. venustus 正模〔方括号〕、6 群 18 只兵蚁（圆括号））：头长（至唇基，HLC）1.32〔1.43〕（1.12—1.37）；头长（至上唇端，HLL）1.75〔1.83〕（1.48—1.76）；头宽（HW）0.80〔0.82〕（0.74—0.83）；前胸背板长（PL）0.40〔0.41〕（0.32—0.50）；前胸背板宽（PW）0.55〔0.62〕（0.49—0.60）；右上颚长（RML）0.92〔0.89〕（0.80—0.93）；后颏最大宽（MPW）0.34〔0.31〕（0.29—0.33）；后足胫节长（T3L）0.65〔0.66〕（0.54—0.66）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "新几内亚未见（详见 Hill 1942）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0575",
+   "citation": "Bourguignon, T. & Roisin, Y. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55—103（archive.org revisiontermite148rois）",
+   "locator": "Heterotermes vagus, pp. 70—71"
+  }
+ ],
+ "note": "据 Bourguignon & Roisin 2011 修订中的种级描述改写，原文英文。原文将 H. venustus (Hill) 作为本种同物异名，并给出两类正模与 18 只兵蚁的量度；原著录 Hill 1942: 134—136。OCR 问题：「sligthly」等拼写错误照原文；量度缩写首次出现已括注中文。"
+}

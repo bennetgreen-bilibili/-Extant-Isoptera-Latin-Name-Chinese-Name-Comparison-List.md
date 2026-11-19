@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level treatment of Roonwal & Maiti (1966). In the source package this species has only a measurement table, material record, distribution and Remarks for 1 alate; there is no morphological description text, so this entry has only a measurements section and a diagnostic characters section. The soldier measurement table in the source package has its value column destroyed by OCR (the whole column is garbled) and is not included. Specimens: 1 vial (No. 12), 4 soldiers and 1 alate, collected by F. R. I. Bogor, 11/7/1952 (day/month/year), in a teak forest at Pare, East Java; distribution only Java, Indonesia (Banjoemas, Kedoe, Bandjar, Pare).",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The single alate recorded here is smaller than the specimens recorded by Roonwal and Sen-Sarma (1960): body length (without wings) 6.9 mm (9.5—11.5 mm in the latter), maximum head width (including the compound eyes) 1.40 mm (1.7—2.0 mm in the latter), and so on."
+  },
+  {
+   "label": "Alate",
+   "text": "Measurements (1 specimen): body length (with wings) about 13.0; body length (without wings) about 6.9; head length (to lateral mandible base) 1.30; maximum head width (including compound eyes) 1.40; maximum diameter of the compound eye (including the eye plate) 0.51; maximum diameter of the lateral ocellus 0.25; minimum distance between compound eye and ocellus 0; pronotal length 0.75; maximum pronotal width 1.70; forewing length (including wing scale) 11.50; hindwing length (including wing scale) 10.60 mm; number of antennal segments [16, antenna broken] (the species usually has 19—20)."
+  }
+ ]
+}

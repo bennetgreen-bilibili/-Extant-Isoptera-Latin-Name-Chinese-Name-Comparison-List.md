@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción de la nueva especie en el trabajo de Hill, original en inglés; la calidad del OCR es mala (espacios entre letras, caracteres mal leídos), por lo que solo se usaron las partes fiables: la sección del alado conserva únicamente la frase final de la descripción de color (el resto está antes del inicio del extracto de origen y falta), como se indica; la descripción del soldado está completa y es legible. Las filas y valores de la tabla de medidas del soldado están desalineados por el OCR, por lo que solo se dan las dos filas de longitud de la cabeza cuya correspondencia es segura ((a)(b)(c) = los únicos 3 soldados de la colonia tipo); las demás medidas (anchura de la cabeza, longitud y anchura del pronoto, tibia, anchura del abdomen) se omiten. El original también indica que (b) y (c) tienen cabezas claramente más anchas y redondeadas con ojos pigmentados y almohadillas alares de longitud media y muy grande respectivamente, la última engrosada y con setas rojas largas; los tres tienen estilos. La colonia tipo se tomó de un tronco podrido en Beaconsfield, Victoria (recolectada por F. E. Wilson) y contenía huevos, larvas, ninfas, alados maduros e inmaduros, soldados y una reina.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Evidentemente muy relacionada con Stolotermes brunneicornis, de la que difiere por la ausencia de una sutura media distinta en la cabeza, la ausencia de una mancha central semejante a un pseudocelo entre los ojos y antenas claramente diferentes; en longitud del cuerpo con alas, la St. brunneicornis de Hagen es 2 mm más larga que esta especie."
+  },
+  {
+   "label": "Alado",
+   "text": "Cuerpo castaño claro, anteclípeo membranoso; patas color crema; abdomen más claro, con un patrón pardo a lo largo de la línea media dorsal. (Pata posterior en la Fig. 6, segmentos antenales proximales en la Fig. 7.)"
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza (Figs. 8, 9) algo estrechada hacia atrás, lados algo curvos, parte anterior algo más ancha que la posterior, muy plana de perfil; sutura en Y distinta, con unas pocas setas rojas. Labro grande, más largo que ancho, ápice truncado. Clípeo más o menos triangular. Postmentón (Fig. 10) extremadamente largo, estrecho en el centro, aproximadamente una décima parte de la anchura de la cabeza. Mandíbulas extremadamente largas, mandíbula izquierda con dos dientes anchos y uno estrecho, mandíbula derecha con dos dientes anchos. Ojos pequeños e indistintos, junto a las fosas antenales. Antenas (Fig. 11) rotas, con más de 14 segmentos, segmento 3 el más corto, a veces segmentos 3 y 4 casi iguales, segmentos 5—10 sucesivamente más largos y delgados. Pronoto como en el alado pero con setas rojas dispersas moderadamente gruesas. Patas cortas y moderadamente gruesas; fórmula de espolones tibiales 3:3:2. Abdomen largo-oval, ápice obtusamente puntiagudo. Medidas: longitud de la cabeza (de la base al ápice del labro) 2.444, 2.670, 2.773; longitud de la cabeza (de la base al ápice mandibular) 3.290, 3.290, 3.570 mm."
+  },
+  {
+   "label": "Ninfa",
+   "text": "Se pueden distinguir varios estadios de desarrollo: (1) larva, longitud 3.05, antenas de 11 segmentos, segmentos 2 y 3 fusionados, ojos y almohadillas alares ausentes; (2) larva, longitud 5.00—5.50, antenas de 12 segmentos, segmentos 2 y 3 fusionados, ojos apenas visibles y ligeramente pigmentados, almohadillas alares ausentes; (3) ninfa, longitud 6.00, antenas de 13 segmentos, segmentos 3, 4 y 5 estrechamente fusionados, ojos muy indistintos y algo más pigmentados que en (2), almohadillas alares muy pequeñas y color crema; (4) ninfa, longitud 6.50, antenas de 15 segmentos, segmentos 3 y 4 fusionados, ojos negros, almohadillas alares claramente visibles y setiformes."
+  }
+ ]
+}

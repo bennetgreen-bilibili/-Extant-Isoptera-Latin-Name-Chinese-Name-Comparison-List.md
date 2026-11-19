@@ -1,0 +1,21 @@
+{
+  "zh_name": "瘤额孔白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁体型大于当时已知各种，头前部（额突）更显著突出。兵蚁头长（至颚基）2.66—2.72 mm，头宽 2.06—2.10 mm，头高 1.80—1.82 mm，后颏长 1.73—1.80 mm，前胸背板宽 1.39 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "量度（Range，单位 mm）：头长（至侧颚基）2.66—2.72；头宽 2.06—2.10；头高 1.80—1.82；左上颚长 1.08；后颏最大宽 0.68—0.69；后颏最小宽 0.38—0.41；后颏长 1.73—1.80；前胸背板最大长 0.68—0.70；前胸背板宽 1.39；后足胫节长 1.50—1.54。与当时已知各种的兵蚁相比，本种体型更大、头前部额突更为显著突出。模式产地喀麦隆 Lolodorf（北纬 3°15′、东经 10°40′）。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0740",
+      "citation": "Krishna K. The African genus Foraminitermes (Isoptera, Termitidae). American Museum Novitates 2161.",
+      "locator": "条目"
+    }
+  ],
+  "note": "据 Krishna 1963（American Museum Novitates 2161，The African genus Foraminitermes）改写，原文英文；该文对本种只给出兵蚁量度表（Range）与一句比较句，未写体色、毛被与头形细节，故本条目只有量度；Holmgren 1912 依有翅成虫描述本种，兵蚁为首次描述。量度单位 mm 逐字保留；原文「Height of head 1 .80—1.82」有 OCR 空格，按 1.80—1.82 录。"
+}

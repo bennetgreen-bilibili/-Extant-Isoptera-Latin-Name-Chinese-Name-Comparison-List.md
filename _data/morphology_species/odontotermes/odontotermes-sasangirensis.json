@@ -1,0 +1,21 @@
+{
+ "zh_name": "萨桑吉尔土白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头壳黄褐至深褐，亚卵形，长大于宽（连上颚头长 1.19—1.28 mm，头宽 1.09—1.19 mm）。上颚淡褐至红褐，长而粗壮，弱内弯，长 0.75—0.81 mm；左上颚具一明显齿，位于 1/4 稍上或略前，齿距（原文作 tooth index）0.27—0.29 mm。体长（连上颚）5.32—5.60 mm。囟缺。触角 16 节，第 4 节最短，端节卵形。上唇长大于宽，长 0.31—0.34 mm、宽 0.23—0.28 mm。后颏近长方形，两侧中部凸，长 0.55—0.58 mm、宽 0.44—0.50 mm。前胸背板鞍形，窄于头壳，宽 0.90—0.97 mm、长 0.50—0.56 mm。足细长，端部胫节距式 3:2:2。尾须 2 节，长 0.11 mm；针突单节，长 0.09 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型。大型工蚁：头壳淡黄白，上颚深褐，近圆形，宽大于至上颚基部的头长（宽 1.26—1.37 mm）。体长 3.92—4.20 mm。囟不明显。触角 17—18 节，17 节者第 1 节最长、第 5 节最短，18 节者第 4 节最短；末节卵形、棒状。左上颚具端齿与 3 枚缘齿，右上颚具端齿与 2 枚缘齿。前胸背板鞍形，宽 0.75—0.78 mm、长 0.41—0.44 mm。尾须 2 节，长 0.14 mm；针突单节，长 0.10 mm。小型工蚁：除体型较小、触角 16 节外与大型工蚁相似。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0739",
+   "citation": "Rathore & Tak, State Fauna Series 8: Fauna of Gujarat — Insecta: Isoptera (Termites), Zoological Survey of India（archive.org dli.zoological.sfs.043）",
+   "locator": "第 53 种 Odontotermes sasangirensis（pp. 78—79）"
+  }
+ ],
+ "note": "据 State Fauna Series 8《Fauna of Gujarat》种级「Diagnostic characters」改写，原文英文。原文将本种记为 Odontotermes sasangirensis Thakur（1989 年描述，模式产地印度古吉拉特 Sasan Gir 林）。OCR 问题：前胸背板宽原文作「O. 90-0.97 mm」，应为 0.90—0.97 mm；后颏量度原文未标单位；「mandilbe」为 mandible 之误。"
+}

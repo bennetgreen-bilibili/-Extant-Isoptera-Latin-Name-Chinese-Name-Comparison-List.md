@@ -1,0 +1,21 @@
+{
+  "zh_name": "巨眼新白蚁指名亚种",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "头与后唇基淡褐至深褐；上唇与前胸背板褐色。头与前胸背板毛稀疏。头近卵形，略宽于长，两侧向后渐收，Y 缝明显。单眼半透明、大、卵形，几与眼片相接。触角 18—19 节，第 2 节远长于第 3 节；第 3 节长于第 4 节。唇基梯形。上唇舌状、被毛。上颚为 Neotermes 型。前胸背板近长方形，宽于头宽（连复眼）；前缘宽凹；后缘近直。翅脉大体同属。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头褐至暗褐，体白。头近长方形，后缘圆。触角 14—16 节，第 3 节与第 2 节近等长；第 4 节最短。上唇宽远大于长；前缘略外凸，端部与体部有数根毛。上颚粗壮，长于头长（至上颚基部）之半。左颚具 3—5 枚小至大的缘齿，右颚具 2 枚大三角形缘齿。后颏棍棒状，前部双叶。前胸背板近长方形，毛稀疏，前缘宽凹，无明显中央缺刻，后缘近直。量度（副模／已知范围，mm）：头长（至上颚侧基）3.60／3.60—4.50；头最大宽 2.55／2.60—2.88；复眼最大径 0.30／0.30—0.42；头指数 0.71；上唇最大长 0.35／0.36—0.42、最大宽 0.58／0.60—0.78；左上颚长 1.96／2.00—2.76；头-颚指数 0.54／0.50—0.65；后颏最小中长 —／2.76—3.36、最大宽 —／0.90—1.02、腰宽 —／0.30—0.43；前胸背板最大长 1.48／1.10—1.62、最大宽 —／2.46—3.00；触角节数 16／14—16。"
+    }
+  ],
+  "note": "出自 Mukherjee et al.《Termite (Isoptera) fauna of the Himalaya including its zoogeographical analysis》（Memoirs of the Zoological Survey of India 21(2)）的「2. Neotermes megaoculatus」条目，原文以 Diagnostic Character 分列有翅成虫与兵蚁。量度见 Table 5；该表并排 N. kalimpongensis 与 N. megaoculatus 两组列，本条目只取后者（副模／已知范围），副模值原文作「-」者记为「—」。分布：Western Himalaya（Dehra Dun、Kanda、New Forest；Pauri）。",
+  "sources": [
+    {
+      "id": "S0670",
+      "citation": "Mukherjee et al., Memoirs of the Zoological Survey of India 21(2)（dli.zoological.memoirs.021.02）",
+      "locator": "pp. 23–24（Diagnostic Character；Table 5）"
+    }
+  ]
+}

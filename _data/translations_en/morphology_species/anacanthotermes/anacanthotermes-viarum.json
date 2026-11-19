@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from Bose's species-level treatment in Termite fauna of southern India (Rec. Zool. Surv. India, Occ. Paper No. 49). The source pack contains only the measurement tables, the distribution, the Remarks and the biology of the alate and soldier of this species, with no descriptive text, so this entry lists measurements only and has no descriptive content; the names of the measurements were rewritten from the numbered scheme of the original. The Remarks record that A. rugifrons Mathur and Sen-Sarma falls within the variation of this species and is treated as a synonym; the distribution is southern India (Tamil Nadu, Pondicherry), type locality Tranquebar. The author name and year of publication do not appear in the source pack and are left unfilled.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Measurements (7 specimens): body length (with wings) 27.00—31.50; body length (without wings) 14.70—15.50; head length to the mandible base 2.70—3.10; head width (including the compound eyes) 3.20—3.40; greatest diameter of the compound eye 0.68—0.73; pronotum maximum length 1.60—1.80, maximum width 2.70—3.10; forewing length including the scale 22.80—23.50; hindwing length including the scale 22.20—23.00 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (10 specimens): body length 13.30—15.10; head length to the mandible base 3.80—4.20; greatest head width 3.60—4.10; pronotum maximum length 1.40—1.80, maximum width 2.80—3.20 mm."
+  }
+ ]
+}

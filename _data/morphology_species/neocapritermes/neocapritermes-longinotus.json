@@ -1,0 +1,21 @@
+{
+ "zh_name": "长背新扭白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头黄至淡黄褐，前部与两侧较深，自后缘至头盖缝具一条明显深色中线；两侧近平行，但后部宽于前部，后缘圆；被较密长毛，前部尤密。上唇与头同色，长、浅三裂，端部宽、中部收窄，中裂片具长毛。后颏（原文 gula）长、细，中部宽约为前部最宽处之半。上颚黑色、扭转、不对称；左上颚长于右。触角黄色，16 节，向端部渐长渐宽、中部最长；被长毛；第 3 节短于第 2 节，与第 4 节约等长或略短；第 7—12 节明显变长，其后又变短；末节长、细、近椭圆形。前胸背板白带黄，前缘较深，前部甚长、高（鞍形），前缘明显圆凹，毛密而长。足带黄，长、细，被长毛。腹污白带黄；背板被较密长黄毛；尾须不延长。量度：兵蚁全长 7.75—8 mm；连上颚头长 4.6 mm；去上颚头长（至前缘）2.4 mm；左上颚长 2.2 mm；前胸背板长 0.85 mm；后足胫节长 1.25 mm；头宽（前部）1.8 mm、（后部）1.4 mm；头中部高 1.2 mm；前胸背板宽 1.05 mm。"
+  },
+  {
+   "label": "鉴别要点",
+   "text": "甚小型的种，头窄，前胸背板很长且前缘明显圆凹；有翅成虫未知。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0742",
+   "citation": "Snyder, T. E. 1926. New termites from Guatemala, Costa Rica, and Colombia. Journal of the Washington Academy of Sciences 16(1): 18—28（archive.org journalofwashin161926wash）",
+   "locator": "Capritermes (Neocapritermes) longinotus, new species, pp. 27—28"
+  }
+ ],
+ "note": "据 Snyder 1926 新种描述改写，原文英文；原文以 Capritermes (Neocapritermes) longinotus 发表，描述据 4 只兵蚁。模式产地 Rio Frio, Colombia。OCR 问题：「sezment」为 segment；「capritermes」等属名 OCR 不稳。"
+}

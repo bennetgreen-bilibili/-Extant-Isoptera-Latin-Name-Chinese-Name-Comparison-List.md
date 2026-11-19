@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la sección Diagnostic characters de la Fauna of India de Chhotani, cuyo original está en inglés; esa sección da la morfología y las medidas de cada casta, no frases de clave. Problemas de OCR: el 08-0.10 mm del original carece del cero inicial, y grafías como subrectangualr son erróneas; lo legible en el original se transcribe tal cual.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Caparazón cefálico amarillo a pardo amarillento. Longitud del cuerpo 5.40—7.0 mm. Caparazón cefálico casi rectangular; longitud de la cabeza con mandíbulas 3.0—3.6 mm, anchura máxima de la cabeza 1.23—1.70 mm. Fontanela poco marcada. Antenas de 16—17 artejos; con 16 artejos el artejo 2 algo más largo que el artejo 3, artejo 4 el más corto; con 17 artejos el artejo 2 casi el doble de largo que el artejo 3, artejo 3 el más corto, artejo apical oval. Labro ligulado, los lados casi paralelos. Mandíbulas en forma de espada, robustas, el ápice anchamente agudo e incurvado, más de la mitad de la longitud de la cabeza; la mandíbula izquierda con un diente marginal conspicuo y agudo en el margen inferior del tercio apical (índice mandíbula-diente 0.34—0.43 mm), la mandíbula derecha con un diente vestigial diminuto en el centro de la parte distal. Postmentón casi rectangular. Pronoto en forma de silla de montar, claramente más estrecho que la anchura de la cabeza, margen anterior con una escotadura marcada en el centro; anchura máxima de la cabeza 1.23—1.70 mm, margen posterior de débil a profundamente cóncavo. Abdomen largo. Cercos y estilos de 0.08—0.10 mm de longitud (en el original 08-0.10)."
+  },
+  {
+   "label": "Obrero",
+   "text": "Dimórfico. Obrero mayor: caparazón cefálico pardo amarillento; antenas amarillo blanquecinas, que se oscurecen hacia el ápice. Longitud del cuerpo 3.80—5.30 mm. Caparazón cefálico casi rectangular, anchura máxima de la cabeza 1.33—1.63 mm. Fontanela poco marcada. Antenas de 17 artejos, rara vez 18 (artejo 4 incompletamente separado); artejo 2 claramente más largo que el artejo 3, artejo 3 el más corto, artejo apical oval. Pronoto en forma de silla de montar, más ancho que largo, longitud máxima 0.35—0.40 mm, anchura máxima 0.70—0.80 mm, margen posterior ampliamente cóncavo. Abdomen casi esférico. Cercos 0.10—0.13 mm, estilos 0.10 mm. Obrero menor: similar al obrero mayor pero más pequeño, caparazón cefálico algo oval, antenas de 16 artejos."
+  },
+  {
+   "label": "Otros",
+   "text": "Castas conocidas: soldado y obrero; el alado no está descrito."
+  }
+ ]
+}

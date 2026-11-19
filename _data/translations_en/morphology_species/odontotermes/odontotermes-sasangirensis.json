@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level Diagnostic characters in State Fauna Series 8, Fauna of Gujarat, the original in English. The original records the species as Odontotermes sasangirensis Thakur (described in 1989, type locality Sasan Gir Forest, Gujarat, India). OCR problems: the original gives the pronotal width as O. 90-0.97 mm, which should be 0.90—0.97 mm; the postmentum measurements carry no unit in the original; mandilbe stands for mandible.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head capsule yellowish brown to dark brown, suboval, longer than wide (head length with mandibles 1.19—1.28 mm, head width 1.09—1.19 mm). Mandibles pale brown to reddish brown, long and robust, weakly incurved, length 0.75—0.81 mm; the left mandible with a distinct tooth situated slightly above or a little before the 1/4 point, the tooth distance (tooth index in the original) 0.27—0.29 mm. Body length (with mandibles) 5.32—5.60 mm. Fontanelle absent. Antennae 16-segmented, segment 4 shortest, apical segment oval. Labrum longer than wide, length 0.31—0.34 mm, width 0.23—0.28 mm. Postmentum nearly rectangular, the sides convex at the middle, length 0.55—0.58 mm, width 0.44—0.50 mm. Pronotum saddle-shaped, narrower than the head capsule, width 0.90—0.97 mm, length 0.50—0.56 mm. Legs slender, apical tibial spur formula 3:2:2. Cerci 2-segmented, 0.11 mm long; styli single-segmented, 0.09 mm long."
+  },
+  {
+   "label": "Worker",
+   "text": "Dimorphic. Major worker: head capsule pale yellowish white, mandibles dark brown, nearly circular, wider than the head length to the mandible base (width 1.26—1.37 mm). Body length 3.92—4.20 mm. Fontanelle indistinct. Antennae 17—18-segmented, segment 1 longest and segment 5 shortest in the 17-segmented antenna, segment 4 shortest in the 18-segmented one; apical segment oval, club-shaped. Left mandible with an apical tooth and 3 marginal teeth, right mandible with an apical tooth and 2 marginal teeth. Pronotum saddle-shaped, width 0.75—0.78 mm, length 0.41—0.44 mm. Cerci 2-segmented, 0.14 mm long; styli single-segmented, 0.10 mm long. Minor worker: similar to the major worker except for the smaller size and the 16-segmented antennae."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "小径无刺白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "量度（7 号）：体长（连翅）27.00—31.50；体长（去翅）14.70—15.50；头长至颚基 2.70—3.10；头宽（连复眼）3.20—3.40；复眼最大直径 0.68—0.73；前胸背板最大长 1.60—1.80，最大宽 2.70—3.10；前翅连翅鳞长 22.80—23.50；后翅连翅鳞长 22.20—23.00 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "量度（10 号）：体长 13.30—15.10；头长至颚基 3.80—4.20；头最大宽 3.60—4.10；前胸背板最大长 1.40—1.80，最大宽 2.80—3.20 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0735",
+      "citation": "Bose, G. Termite fauna of southern India. Records of the Zoological Survey of India, Occasional Paper No. 49.",
+      "locator": "pp. 73—74（图 55、56）"
+    }
+  ],
+  "note": "据 Bose 的《南印度白蚁区系》（Rec. Zool. Surv. India, Occ. Paper No. 49）种级处理改写。素材包只含该种的有翅成虫与兵蚁量度表、分布、 Remarks 与生物学，没有形态描述文字，故本条仅列量度，无描述性内容；量度项名称已由原文编号式改写成中文。文中 Remarks 记 A. rugifrons Mathur and Sen-Sarma 落在该种的变异范围内，被处理为同物异名；分布为印度南部（Tamil Nadu、Pondicherry），模式产地 Tranquebar。原作者名与出版年未在素材包中出现，未填。"
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "吉尔纳尔土白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头壳淡黄至暗褐色，近方形。上颚淡褐色，基部色较浅。体长（连上颚）5.45—5.58 mm，头长（连上颚）2.55—2.75 mm（不含上颚 1.50—1.66 mm），头最大宽 1.28—1.40 mm。触角 16 节，第 1 节最长，第 4 节最短，末节卵形。上唇舌形，长大于宽（长 0.34—0.38 mm，宽 0.31—0.34 mm）。上颚长而粗壮，镰刀形，左右上颚长 1.0—1.13 mm；左上颚中部三分之一处近端部有一枚明显的、向前指的齿（齿与上颚端部的距离 0.34—0.39 mm）。后颏平，长 0.91—1.10 mm，最大宽 0.50—0.63 mm。前胸背板鞍形，最大宽 0.95—1.20 mm，最大长 0.63—0.67 mm。尾须长 0.11 mm；刺突单节，长 0.07 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "二型。大工蚁：头壳淡黄至黄褐色。体长 4.25—4.45 mm；头近方形，宽大于长，宽 1.44—1.47 mm，长 1.26—1.33 mm。触角 16—17 节，第 1 节最长，第 4 节最短。左上颚具 1 枚端齿与 3 枚缘齿。前胸背板鞍形，宽 0.84—0.88 mm，长 0.46—0.49 mm；前缘中央有深凹。胫节端距式 3:2:2；跗节 4 节。尾须 2 节，长 0.11 mm；刺突长 0.70 mm。小工蚁：与大工蚁相似，仅体型较小。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0739",
+      "citation": "Rathore, N. S. & Tak, N. Insecta: Isoptera (Termites).（页眉 RATHORE AND TAK : Insecta : Isoptera (Termites)，p. 70—71；素材包来源串 dli.zoological.sfs.043，未含卷期与年份）",
+      "locator": "pp. 70—71（该种第 41 条「Diagnostic characters」）"
+    }
+  ],
+  "note": "据 Rathore & Tak 该书第 41 条 Odontotermes girnarensis Thakur 的 Diagnostic characters 改写，原文英文；原文只记兵蚁与工蚁两个品级（Caste known : Soldier and worker），无有翅成虫描述。原始描述：Thakur, R. K. 1989, Indian For. Rec. (N.S.), Ent. 15(1): 46—49。模式产地：印度古吉拉特邦 Girnar 丘陵 Bordevi（Junagarh）。检查标本 18 瓶（1964—1981），产自古吉拉特 9 个县。"
+}

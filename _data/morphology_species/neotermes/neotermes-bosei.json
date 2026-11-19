@@ -1,0 +1,21 @@
+{
+ "zh_name": "鲍斯新白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头栗褐，体褐色。头壳近圆形，具复眼处宽大于至上颚基部的长（长 1.5—1.6 mm、宽 1.7—2.0 mm），头盖缝明显；复眼大、近圆形，直径 0.65—0.67 mm；单眼卵形、大，与复眼相接；触角 17—18 节，第 3 节短于第 2 节或有时等长；前胸背板与头等宽，前缘明显内弯、后缘近直；翅透明、无瘤突。连翅体长约 17—18 mm，去翅约 8.5—10.5 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡红褐，体草黄。头壳近长方形，长为宽的 1½ 倍（长 2.9—4.0 mm、宽 2.2—2.5 mm），头盖缝不明显；眼斑小、卵形；触角 14—16 节，第 3 节强几丁质化，与第 2 节等长或更长；上颚粗壮，长为去上颚头长的 1/2—2/3，左上颚具 5 枚缘齿而右上颚具 2 枚；后颏长、棒状，棒部不明显分叶或不分叶；前胸背板平、近长方形，前缘宽内弯、后缘近直。体长 9.5—12.00 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0741",
+   "citation": "Chhotani, O. B. Termite pests and their control. Zoological Survey of India, Technical Monograph No. 4（archive.org dli.zoological.tcm.004）",
+   "locator": "4. Neotermes bosei Snyder, p. 14"
+  }
+ ],
+ "note": "据 Chhotani 专著中的种级「Diagnosis」改写，原文英文；原文将本种记为 Neotermes bosei Snyder（1933 年以 Kalotermes (Neotermes) bosei 发表）。OCR 问题：原文「length 1^ times that of width」为 1½ 倍；「Pig- 2B」为 Fig. 2B；「c 17-18」为约 17—18 mm。"
+}

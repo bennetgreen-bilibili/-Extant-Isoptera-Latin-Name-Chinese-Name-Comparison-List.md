@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the English diagnostic characters of the third species entry in Rathore & Tak (State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera); the original gives two sections, alate and soldier, neither with a body-length measurement; Caste known also lists the pseudoworker, but its morphology is not described. The entry is headed daulti, while the line of the 1994 original reference below it reads dualti in the OCR; the two spellings are inconsistent and are copied as found.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head and body pale brown. Head oval; the dorsal epicranial suture very weak, sometimes quite invisible, but with a clear white V-shaped mark on the dorsal midline at or slightly above the level of the compound eyes. Ocelli rather broad, minimum diameter 0.07—0.09 mm, placed rather far from the antennae (minimum ocellus—antenna distance 0.17—0.20 mm). Antennae 14-segmented."
+  },
+  {
+   "label": "Soldier",
+   "text": "Posterior part of the head reddish brown, the frons almost black. Head sparsely hairy, body moderately hairy. Head capsule nearly rectangular, short and thick, truncate anteriorly; frontal ridge distinct, concave, strongly retracted posteriorly and not overhanging the frons; frons markedly curved inwards; vertex with a shallow median depression behind the frontal ridge and 2 tuberculate projections on each side; epicranial suture present; fontanelle and ocelli absent, but each side with an oval eye spot. Antennae 10—13-segmented."
+  }
+ ]
+}

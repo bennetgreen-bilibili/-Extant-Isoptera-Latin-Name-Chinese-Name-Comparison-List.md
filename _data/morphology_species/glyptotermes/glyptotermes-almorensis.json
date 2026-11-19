@@ -1,0 +1,21 @@
+{
+  "zh_name": "阿尔莫拉树白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "头壳与体上面栗褐，腹板较浅。头壳近圆形，宽（0.90—0.97 mm）与头长（至上颚基，0.90—0.97 mm）近等；头盖缝明显；复眼小、近圆形，直径 0.23—0.25 mm；单眼卵形，一般与复眼相接，有时微分离；触角 12 节，第 3 节短于第 2 节；前胸背板近长方形，窄于连复眼的头，前缘弱内凹，后缘近直；翅暗褐，具瘤突。量度：体连翅长约 7—8 mm，去翅体长约 4.4—5.4 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳红褐；体浅黄褐，末腹节背板较深。头壳近长方形，长（1.43—1.73 mm）约为宽（1.07—1.13 mm）的 1.5 倍；头盖缝 faint（弱）；额部侧瘤突弱；眼点卵形、小，与头面齐平；上唇宽舌状；上颚短粗，短于头长（去上颚）之半，左上颚具 3 枚、右上颚具 2 枚缘齿；后颏长、棒状，略短于头长（去上颚）之半；前胸背板近长方形，略窄于头至与头等宽，前缘内凹、中部弱具缺刻，后缘近直。量度：体全长约 4.8—5.7 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0741",
+      "citation": "Zoological Survey of India, Technical Monograph No. 4（印度白蚁专著）, Glyptotermes 属部分.",
+      "locator": "第 9 种 Glyptotermes almorensis 条目, pp. 19—20"
+    }
+  ],
+  "note": "据 ZSI Technical Monograph No. 4 第 9 种条目的英文「Diagnosis」改写，含有翅成虫与兵蚁两个品级，原文未描述工蚁。模式产地印度北方邦 Kumaon Hills；寄主记录为芒果树、Celtis australis、Rhododendron arboreum 与娑罗树（Shorea robusta）枯枝，未入正文。原文「Length with wings c 7-8, without wings c 4.4-5.4 mm」的 c 为 circa（约），已译作「约」。"
+}

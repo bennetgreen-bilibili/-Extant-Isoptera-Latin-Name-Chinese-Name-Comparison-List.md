@@ -1,0 +1,17 @@
+{
+ "note": "Rewritten from the English diagnostic characters of the Odontotermes kulkarni entry in Rathore & Tak (State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera); the original has two sections, soldier and dimorphic worker, and no alate. The species name is OCR'd as kulkarni'v in the body text and in the 1959 original reference line, and as kulkarnii in the 1960 line; this entry follows the group JSON and the entry title and uses kulkarni. The original mandible-tooth index is given as a length value, 0.34—0.43 mm, transcribed as it stands and translated as mandible-tooth distance; the original soldier Cerci and styli 08-0.10 mm long lacks its leading digit in the OCR and is recorded as 0.08—0.10; the measurement unit mm is kept verbatim.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier head capsule pale yellow to yellowish brown, total body length 5.40—7.0 mm, antennae 16—17-segmented, the lower margin of the apical third of the left mandible with a distinct sharp marginal tooth, pronotum saddle-shaped and distinctly narrower than the head width. Worker dimorphic: major worker head capsule yellowish brown, antennae 17-segmented (rarely 18), total body length 3.80—5.30 mm; minor worker similar to the major but smaller, head capsule slightly oval, antennae 16-segmented."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule pale yellow to yellowish brown. Total body length 5.40—7.0 mm. Head capsule nearly rectangular; head length (including mandibles) 3.0—3.6 mm, maximum head width 1.23—1.70 mm; fontanelle indistinct. Antennae 16—17-segmented: with 16 segments segment 2 slightly longer than segment 3, segment 4 shortest; with 17 segments segment 2 almost twice as long as segment 3, segment 3 shortest, apical segment oval. Labrum ligulate, the sides nearly parallel. Mandibles sword-shaped, robust, the apex broadly pointed and incurved, longer than half the head length; the left mandible with a distinct and sharp marginal tooth on the lower margin of the apical third (the original gives mandible-tooth index 0.34—0.43 mm); the right mandible with a minute vestigial tooth near the middle of the distal half. Postmentum nearly rectangular. Pronotum saddle-shaped, distinctly narrower than the head width; anterior margin with a distinct notch in the middle, posterior margin weakly to deeply concave. Abdomen elongated. Cerci and styli 0.08—0.10 mm long."
+  },
+  {
+   "label": "Worker",
+   "text": "Dimorphic. Major worker: head capsule yellowish brown, antennae yellowish white, becoming darker towards the apex. Total body length 3.80—5.30 mm. Head capsule nearly rectangular; maximum head width 1.33—1.63 mm; fontanelle indistinct. Antennae 17-segmented (rarely 18, segment 4 partly divided): segment 2 distinctly longer than segment 3, segment 3 shortest, apical segment oval. Pronotum saddle-shaped, wider than long: maximum length 0.35—0.40 mm, maximum width 0.70—0.80 mm; posterior margin broadly concave. Abdomen nearly spherical. Cerci 0.10—0.13 mm long; styli 0.10 mm long. Minor worker: similar to the major worker but smaller, head capsule slightly oval, antennae 16-segmented."
+  }
+ ]
+}

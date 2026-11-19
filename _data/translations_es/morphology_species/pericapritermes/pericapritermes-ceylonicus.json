@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la descripción a nivel de especie de la Fauna of India de Chhotani; el original está en inglés. Problema nomenclatural: en las Remarks de esa entrada el autor trata P. ceylonicus como sinónimo de P. perparvus Holmgren, y la Fig. 163 también está rotulada P. perparvus, pero el encabezado del texto sigue usando P. ceylonicus y da una descripción completa; la sinonimia debe comprobarse al citar. Problemas de OCR: algunas palabras aparecen ilegibles (por ejemplo saddle-^hapqd).",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cápsula cefálica pardo oscura; antenas, postclípeo, patas y meso- y metanoto amarillos; pronoto algo más claro que la cabeza; segmentos abdominales del color del pronoto, los esternitos anteriores más claros en el medio. Cabeza densamente pilosa, con pelos cortos y largos mezclados; resto del cuerpo densamente piloso; alas densamente punteadas. Longitud del cuerpo con alas 10.0 mm, sin alas 4.5 mm. Cabeza ampliamente ovalada, estrechada hacia delante (longitud de la cabeza hasta el ápice del clípeo 1.14—1.18 mm, anchura 1.14—1.18 mm). Fontanela ovalada, de tamaño medio. Ojos de tamaño medio, salientes. Ocelos de tamaño medio, separados del ojo por aproximadamente su diámetro medio (semidiámetro, según Ahmad 1958). Antenas de 15 artejos; artejos 2, 3 y 4 casi iguales en longitud, o artejo 3 más corto que el 2. Postclípeo más corto que la mitad de su anchura. Pronoto de anchura y longitud medias (longitud 0.57 mm, anchura 0.95—1.03 mm); margen anterior débilmente cóncavo. Longitud del ala anterior 8.0 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza blanco amarillenta; mandíbula izquierda negra, derecha pardo rojiza; cuerpo blanco. Cabeza con pelos dispersos; terguitos abdominales con pilosidad de densidad media, con pelos largos mezclados en la parte posterior. Longitud del cuerpo 4.0—4.5 mm. Cápsula cefálica aplanada, rectangular, columnar, aproximadamente dos veces más larga que ancha (longitud de la cabeza con mandíbulas 3.5—3.8 mm, sin mandíbulas 2.09—2.18 mm, anchura 1.06—1.25 mm). Fontanela punctiforme. Antenas de 13(?)—14 artejos; artejo 3 tan largo como el 2; artejo 4 algo más corto. Labro corto y ancho en la parte anterior, margen anterior débilmente cóncavo, ángulos anterolaterales muy pequeños. Mandíbulas asimétricas, más cortas que la cabeza. Mandíbula izquierda fuertemente torcida, longitud 1.24 mm; mandíbula derecha en forma de hoja. Pronoto débilmente en forma de silla de montar; longitud 0.30 mm, anchura 0.72—0.91 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza blanco amarillenta, cuerpo blanco, con pilosidad de densidad media. Longitud del cuerpo 2.7—3.5 mm. Cabeza ampliamente ovalada, estrechada hacia delante (anchura 0.87—0.91 mm). Fontanela indistinta pero presente. Antenas de 14 artejos; artejo 3 algo más corto que el 2, artejo 4 algo más corto que el 3. Postclípeo moderadamente abombado, algo más corto que la mitad de su anchura. Pronoto en forma de silla de montar, margen anterior sin escotadura; anchura 0.49 mm."
+  }
+ ]
+}

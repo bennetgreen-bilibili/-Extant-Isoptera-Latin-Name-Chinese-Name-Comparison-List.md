@@ -1,0 +1,17 @@
+{
+  "zh_name": "芒果新白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头壳褐色，身体淡黄色（黄白色）。头壳近长方形，宽 2.3—2.52 mm，约为头长（不含上颚，2.9—3.33 mm）的 3/4；Y 形缝显著；眼斑宽椭圆形；触角 13—16 节，第 3 节与第 2 节近等长，第 4 节最短；上颚短而粗壮，长度短于至略长于头长（不含上颚）的一半；后颏长，棒状，棒部二裂；前胸背板近长方形，与头等宽，前缘宽凹，后缘近直。体长约 10—10.5 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0741",
+      "citation": "Chhotani, O. B. Termite pests and their control. Zoological Survey of India, Technical Monograph No. 4.（素材包来源串 dli.zoological.tcm.004）",
+      "locator": "pp. 16—17（图 2E）"
+    }
+  ],
+  "note": "据 Chhotani 该书第 7 种「Neotermes mangiferae Roonwal & Sen-Sarma」的 Diagnosis 改写，原文英文；原文明确有翅成虫未知（Imago—Not known），故只有兵蚁节。兵蚁诊断在素材包中有一处断行缺字：头壳宽度一句与「…Y 形缝显著」之间（原文跨页）缺若干字，译文按可见部分改写、不补。头宽首值 OCR 作「2,3」，疑为 2.33，此处按 2.3—2.52 照录。原始描述见 Roonwal & Sen-Sarma 1960, Contrib. Syst. Orient. Termites (ICAR Ent. Monogr. 10): 139, 143, 208—211。分布：东印度（Tripura），原名录于加尔各答木材场的芒果实（Mangifera indica）原木。"
+}

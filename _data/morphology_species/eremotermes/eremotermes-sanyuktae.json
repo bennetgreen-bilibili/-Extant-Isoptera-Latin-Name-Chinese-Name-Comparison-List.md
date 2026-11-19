@@ -1,0 +1,21 @@
+{
+  "zh_name": "女神漠白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头壳深稻草色。体连上颚长 3.00—3.05 mm。头壳近长方形；头连上颚长 1.85—1.93 mm，不连上颚长 1.00—1.03 mm。触角 14 节，第 1 节较长，第 3 节最短，端节棍棒状。上唇舌状，长 0.13—0.15 mm、宽 0.18—0.20 mm，前缘尖，具数根长、短毛。上颚粗壮，向前渐细，端部强烈内弯；外缘在齿所在高度之上凹入；齿突出而直。前胸背板鞍状；后缘近直，中央具缺刻。足被毛，跗节 4 节；胫节距 3:2:2。"
+    },
+    {
+      "label": "工蚁",
+      "text": "二型。大型工蚁：头壳淡黄，体黄白、被毛。体长 3.50—3.64 mm。触角 14 节。前胸背板鞍状；长约为宽之半，前缘凹、具弱缺刻。足短而细，胫节距 3:2:2，跗节 4 节。小型工蚁：除体略小外，与大型工蚁同。"
+    }
+  ],
+  "note": "描述出自同一动物志（《State Fauna Series 8: Fauna of Gujarat》）中「22. Eremotermes sanyuktae Thakur」条目的 Diagnostic characters，兵蚁与二型工蚁两品级；原文未附量度表，数值均取自该段正文。",
+  "sources": [
+    {
+      "id": "S0739",
+      "citation": "State Fauna Series 8: Fauna of Gujarat, Insecta: Isoptera（Zoological Survey of India；dli.zoological.sfs.043）",
+      "locator": "Eremotermes sanyuktae 条目，Diagnostic characters"
+    }
+  ]
+}

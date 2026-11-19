@@ -1,0 +1,21 @@
+{
+ "zh_name": "角唇同钩白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头深黄至浅褐，体黄白。体长 4.15—4.25 mm。头近方形，略长于宽（长 1.0—1.06 mm，宽 0.88—0.91 mm），触角基部处最宽。触角 13 节；第 1 节最长，第 2 节约为第 1 节的 2/3，第 3 节最短。上唇五边形，基部很宽，具少量长毛。上颚粗壮，端部强内弯，每颚中部具一大而尖锐、略上指的齿。后颏膨大、无毛。前胸背板鞍形，长 0.32—0.34 mm、宽 0.50—0.64 mm，具浅中缺；后缘近直，具明显中缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头与前胸背板黄白，上颚内缘深褐。体长 3.25—3.37 mm。头近方形，宽大于长，至上颚侧基的头长 0.75—0.81 mm、宽 0.81—0.86 mm。眼与单眼缺。触角 13 节；第 1 节最大、圆柱形，第 3 节最短，末节卵形。上唇短，长 0.22—0.25 mm、宽 0.20—0.22 mm，外缘具少量小毛。上颚近方形，左上颚具端齿与 2 枚缘齿，右上颚具端齿与 2 枚缘齿。前胸背板鞍形；宽 0.50—0.55 mm、长 0.25—0.28 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0739",
+   "citation": "Rathore & Tak, State Fauna Series 8: Fauna of Gujarat — Insecta: Isoptera (Termites), Zoological Survey of India（archive.org dli.zoological.sfs.043）",
+   "locator": "第 15 种 Synhamitermes labioangulatus（p. 56）"
+  }
+ ],
+ "note": "据 State Fauna Series 8《Fauna of Gujarat》种级「Diagnostic characters」改写，原文英文。原文将本种记为 Synhamitermes labioangulatus Thakur（1989 年描述，模式产地印度古吉拉特 Kaprada 林）。OCR 问题：「Labi um」为 labrum 断词；「Govatka」与著录的 Govalka 不一致，原文两处并存。"
+}

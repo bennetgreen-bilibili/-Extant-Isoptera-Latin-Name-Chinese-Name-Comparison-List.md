@@ -1,0 +1,21 @@
+{
+  "zh_name": "道尔特堆砂白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "头与体淡褐。头卵形；背面具很弱的头盖缝，有时完全不显，但在复眼高度或稍上方的背中线有一清晰的白色 V 形斑。单眼较宽，最小直径 0.07—0.09 mm，与触角相距颇远（单眼—触角最小距 0.17—0.20 mm）。触角 14 节。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头后部红褐，额部几乎黑色。头疏被毛，体中等被毛。头壳近长方形，短、厚，前部平截；额脊显著、凹、强烈后推，不悬覆额面；额面明显内弯；头顶在额脊之后具一浅中凹，两侧各具 2 个瘤状突起；头盖缝存在；囟与单眼缺，但两侧各具一枚卵形眼斑。触角 10—13 节。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0739",
+      "citation": "Rathore N. S. & Tak N. Insecta: Isoptera (Termites). In: State Fauna Series 8: Fauna of Gujarat. Zoological Survey of India.",
+      "locator": "第 3 种 Cryptotermes daulti 条目"
+    }
+  ],
+  "note": "据 Rathore & Tak（State Fauna Series 8: Fauna of Gujarat，Insecta: Isoptera）第 3 种条目的英文鉴别特征改写；原文写有翅成虫与兵蚁两节，均无体长量度；Caste known 另记假工蚁，但未描述其形态。条目标题作 daulti，其下 1994 年原始文献行 OCR 作 dualti，两处拼写不一致，照录未改。"
+}
